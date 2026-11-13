@@ -27,6 +27,7 @@
     "@angular/platform-browser": "^20.3.0",
     "@angular/router": "^20.3.0",
     "@capacitor-community/speech-recognition": "^7.0.1",
+    "@capacitor-community/text-to-speech": "^8.0.2",
     "@capacitor/android": "^8.6.2",
     "@capacitor/core": "^8.6.2",
     "capacitor-native-settings": "^8.2.0",

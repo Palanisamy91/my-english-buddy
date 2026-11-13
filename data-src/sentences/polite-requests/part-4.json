@@ -1,0 +1,364 @@
+[
+ {
+  "en": "May I use your restroom, please?",
+  "tamil": "நான் உங்க கழிவறையை பயன்படுத்தலாமா?",
+  "context": "Asking in a shop or office.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'May I ...?' is polite and formal. 'Restroom' is a polite word for toilet.",
+  "words": [
+   "restroom"
+  ],
+  "usage": "Use it in a shop, office or friend's house when you need the toilet.",
+  "leelaQ": "You are on a long trip and need a restroom. What do you ask?",
+  "answer": "May I use your restroom, please?"
+ },
+ {
+  "en": "Let me know when you are free, and we can meet.",
+  "tamil": "நீங்க ஃப்ரீயா இருக்கும்போது சொல்லுங்க, நாம சந்திக்கலாம்.",
+  "context": "Setting up a meeting politely.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me know' gives control to the other person.",
+  "words": [
+   "free",
+   "meet"
+  ],
+  "usage": "Use it with busy colleagues or relatives when planning a meet.",
+  "leelaQ": "A busy friend wants to meet you. What do you reply?",
+  "answer": "Let me know when you are free, and we can meet."
+ },
+ {
+  "en": "Would you like me to carry that for you?",
+  "tamil": "நான் அதை உங்களுக்காக தூக்கட்டுமா?",
+  "context": "Offering help at a railway station.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like me to ...?' is a gentle offer.",
+  "words": [
+   "carry"
+  ],
+  "usage": "Use it with elders or travellers who are struggling with luggage.",
+  "leelaQ": "You see an elderly man with a heavy suitcase. What do you ask?",
+  "answer": "Would you like me to carry that for you?"
+ },
+ {
+  "en": "Could we sit somewhere quieter to talk?",
+  "tamil": "பேச கொஞ்சம் அமைதியான இடத்துல உக்காரலாமா?",
+  "context": "Suggesting a quieter place.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could we ...?' is a polite suggestion that includes both people.",
+  "words": [
+   "quieter"
+  ],
+  "usage": "Use it when a place is noisy and you want a private talk.",
+  "leelaQ": "The cafe is very noisy. What do you suggest?",
+  "answer": "Could we sit somewhere quieter to talk?"
+ },
+ {
+  "en": "I'm sorry, but I cannot accept this offer.",
+  "tamil": "மன்னிக்கணும், ஆனா இந்த வாய்ப்பை என்னால ஏத்துக்க முடியாது.",
+  "context": "Refusing a job offer politely.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'I cannot accept' is formal. 'I'm sorry, but' softens bad news.",
+  "words": [
+   "accept",
+   "offer"
+  ],
+  "usage": "Use it in formal talks like job offers or business deals.",
+  "leelaQ": "You get a job offer you cannot take. What do you say?",
+  "answer": "I'm sorry, but I cannot accept this offer. I have another plan."
+ },
+ {
+  "en": "Please be careful, the floor is wet.",
+  "tamil": "தயவு செய்து பாத்து போங்க, தரை ஈரமா இருக்கு.",
+  "context": "Warning a visitor.",
+  "tense": "present",
+  "type": "request",
+  "explain": "A short warning with 'please' sounds caring, not rude.",
+  "words": [
+   "careful",
+   "floor"
+  ],
+  "usage": "Use it at home, shops or offices after cleaning.",
+  "leelaQ": "Someone enters a freshly mopped floor. What do you say?",
+  "answer": "Please be careful, the floor is wet."
+ },
+ {
+  "en": "Could you share your screen, please?",
+  "tamil": "தயவு செய்து உங்க ஸ்கிரீனை ஷேர் பண்ண முடியுமா?",
+  "context": "Asking in an online meeting.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Share your screen' is common in online meetings.",
+  "words": [
+   "share",
+   "screen"
+  ],
+  "usage": "Use it in video calls when you want to see someone's work.",
+  "leelaQ": "In an online class, you want to see the student's work. What do you ask?",
+  "answer": "Could you share your screen, please?"
+ },
+ {
+  "en": "Do you need any help with your homework?",
+  "tamil": "உங்க வீட்டுப்பாடத்துல ஏதாவது உதவி வேணுமா?",
+  "context": "A parent offering help to a child.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you need any help with ...?' is a simple offer.",
+  "words": [
+   "homework"
+  ],
+  "usage": "Use it with children, juniors or friends who are studying.",
+  "leelaQ": "Your younger brother is studying late. What do you ask?",
+  "answer": "Do you need any help with your homework?"
+ },
+ {
+  "en": "Would you please move your bike a little?",
+  "tamil": "தயவு செய்து உங்க பைக்கை கொஞ்சம் நகத்த முடியுமா?",
+  "context": "Asking a neighbour to move a bike.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'A little' makes the request light. 'Would you please' is very polite.",
+  "words": [
+   "bike",
+   "move"
+  ],
+  "usage": "Use it when a vehicle blocks your gate or path.",
+  "leelaQ": "A bike blocks your gate. What do you ask your neighbour?",
+  "answer": "Would you please move your bike a little?"
+ },
+ {
+  "en": "Thank you so much, you are very kind.",
+  "tamil": "ரொம்ப நன்றி, நீங்க ரொம்ப நல்லவங்க.",
+  "context": "Thanking someone who helped.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'You are very kind' praises the person after they help. It sounds sincere.",
+  "words": [
+   "kind"
+  ],
+  "usage": "Use it after anyone helps you, from a stranger to a boss.",
+  "leelaQ": "A stranger helps you with directions. What do you say?",
+  "answer": "Thank you so much, you are very kind."
+ },
+ {
+  "en": "Can you wake me up at six tomorrow?",
+  "tamil": "நாளைக்கு காலைல ஆறு மணிக்கு என்னை எழுப்ப முடியுமா?",
+  "context": "Asking a family member.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Wake me up' means make me get up from sleep.",
+  "words": [
+   "wake",
+   "tomorrow"
+  ],
+  "usage": "Use it with family or roommates when you must get up early.",
+  "leelaQ": "You have an early train tomorrow. What do you ask your mother?",
+  "answer": "Can you wake me up at six tomorrow?"
+ },
+ {
+  "en": "I will not be able to attend the function, I'm sorry.",
+  "tamil": "என்னால விழாவுக்கு வர முடியாது, மன்னிச்சுக்கோங்க.",
+  "context": "Declining a function invitation.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Will not be able to' is a polite, formal way to say no.",
+  "words": [
+   "attend",
+   "function"
+  ],
+  "usage": "Use it with relatives or officials who invite you to events.",
+  "leelaQ": "A relative invites you to a wedding but you are out of town. What do you say?",
+  "answer": "I will not be able to attend the function, I'm sorry."
+ },
+ {
+  "en": "Can I take your order now, sir?",
+  "tamil": "நான் இப்ப உங்க ஆர்டரை எடுக்கலாமா சார்?",
+  "context": "A waiter asking a customer.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Take your order' is what waiters say. 'Sir' adds respect.",
+  "words": [
+   "order"
+  ],
+  "usage": "Use it as waiting staff in a hotel or restaurant.",
+  "leelaQ": "You are a waiter and the guests have the menu. What do you ask?",
+  "answer": "Can I take your order now, sir?"
+ },
+ {
+  "en": "Please accept my apologies for the delay.",
+  "tamil": "தாமதத்துக்கு என் மன்னிப்பை ஏத்துக்கோங்க.",
+  "context": "A formal apology in an email.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Accept my apologies' is formal and used in writing.",
+  "words": [
+   "apologies",
+   "delay"
+  ],
+  "usage": "Use it in emails or letters to customers and seniors.",
+  "leelaQ": "You replied late to a client. How do you apologise formally?",
+  "answer": "Please accept my apologies for the delay."
+ },
+ {
+  "en": "Could you tell me what time the shop opens?",
+  "tamil": "கடை எத்தனை மணிக்கு திறக்கும்னு சொல்ல முடியுமா?",
+  "context": "Asking a security guard.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you tell me ...?' is followed by a normal statement order, not a question order.",
+  "words": [
+   "opens"
+  ],
+  "usage": "Use it with guards or neighbours when planning a visit.",
+  "leelaQ": "The shop is closed when you arrive. What do you ask the guard?",
+  "answer": "Could you tell me what time the shop opens?"
+ },
+ {
+  "en": "Take a short break. You have worked a lot.",
+  "tamil": "கொஞ்சம் ப்ரேக் எடுங்க. ரொம்ப வேலை செஞ்சிருக்கீங்க.",
+  "context": "Suggesting rest to a colleague.",
+  "tense": "imperative",
+  "type": "statement",
+  "explain": "A friendly imperative suggestion, followed by the reason.",
+  "words": [
+   "break"
+  ],
+  "usage": "Use it with colleagues or family who look tired.",
+  "leelaQ": "Your friend has studied for hours. What do you suggest?",
+  "answer": "Take a short break for ten minutes. You have studied a lot."
+ },
+ {
+  "en": "Allow me to introduce my friend, Priya.",
+  "tamil": "என் நண்பி பிரியாவை அறிமுகப்படுத்தறேன்.",
+  "context": "Introducing a friend formally.",
+  "tense": "imperative",
+  "type": "statement",
+  "explain": "'Allow me to' is a formal way to begin an introduction.",
+  "words": [
+   "introduce"
+  ],
+  "usage": "Use it at functions or offices when you introduce two people.",
+  "leelaQ": "You want to introduce a friend to your boss. How do you begin?",
+  "answer": "Allow me to introduce my friend, Priya."
+ },
+ {
+  "en": "Could I trouble you for a glass of water?",
+  "tamil": "ஒரு கிளாஸ் தண்ணி கொடுத்து உங்களுக்கு சிரமம் தரலாமா?",
+  "context": "Asking a host very politely.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could I trouble you for ...?' is very polite and a bit formal.",
+  "words": [
+   "trouble"
+  ],
+  "usage": "Use it at someone's house, especially with elders.",
+  "leelaQ": "You feel thirsty at an elder's home. How do you ask?",
+  "answer": "Could I trouble you for a glass of water?"
+ },
+ {
+  "en": "Hey, can you pass me the salt?",
+  "tamil": "ஏய், அந்த உப்பை எடுத்து கொடுக்கறியா?",
+  "context": "Asking a friend at the dining table.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Hey' and 'can you' show an informal level, good with friends and family.",
+  "words": [
+   "pass",
+   "salt"
+  ],
+  "usage": "Use it with friends and family during meals.",
+  "leelaQ": "At lunch you need salt. What do you ask your brother?",
+  "answer": "Hey, can you pass me the salt?"
+ },
+ {
+  "en": "Sorry yaar, I can't make it today.",
+  "tamil": "சாரி யார், இன்னிக்கு என்னால வர முடியாது.",
+  "context": "Refusing a friend in a casual way.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Yaar' is casual Indian English for friend. Use it only with friends.",
+  "words": [
+   "make it"
+  ],
+  "usage": "Use it with close friends when you cannot join a plan.",
+  "leelaQ": "A close friend asks you to join a match, but you are busy. What do you say?",
+  "answer": "Sorry yaar, I can't make it today."
+ },
+ {
+  "en": "Do you want me to switch on the light?",
+  "tamil": "நான் லைட்டை போடட்டுமா?",
+  "context": "Offering in a dark room.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Switch on' means turn on. It is common in India.",
+  "words": [
+   "switch on",
+   "light"
+  ],
+  "usage": "Use it at home or hostel when the room is dark.",
+  "leelaQ": "A guest sits in a dark room. What do you offer?",
+  "answer": "Do you want me to switch on the light?"
+ },
+ {
+  "en": "Can you keep an eye on my bag for a minute?",
+  "tamil": "ஒரு நிமிஷம் என் பையை பாத்துக்க முடியுமா?",
+  "context": "Asking a stranger at a station.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Keep an eye on' means watch something carefully.",
+  "words": [
+   "keep an eye"
+  ],
+  "usage": "Use it at stations or cafes when you leave for a short time.",
+  "leelaQ": "You need to buy a ticket and leave your bag. What do you ask?",
+  "answer": "Can you keep an eye on my bag for a minute?"
+ },
+ {
+  "en": "I would be grateful if you could reply soon.",
+  "tamil": "நீங்க சீக்கிரம் பதில் சொன்னா நான் நன்றியுடன் இருப்பேன்.",
+  "context": "Formal email to a client.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'I would be grateful if you could' is a very formal and polite request.",
+  "words": [
+   "grateful",
+   "reply"
+  ],
+  "usage": "Use it in formal emails to officers, clients or teachers.",
+  "leelaQ": "How do you politely ask a client for a quick answer?",
+  "answer": "I would be grateful if you could reply soon."
+ },
+ {
+  "en": "Please don't feel bad, it happens to everyone.",
+  "tamil": "தயவு செய்து வருத்தப்படாதீங்க, எல்லாருக்கும் இது நடக்கும்.",
+  "context": "Comforting a friend after a mistake.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "This sentence comforts someone after a small failure.",
+  "words": [
+   "feel bad"
+  ],
+  "usage": "Use it with friends or juniors who made a mistake.",
+  "leelaQ": "Your friend failed a small test. What do you say?",
+  "answer": "Please don't feel bad, it happens to everyone."
+ },
+ {
+  "en": "Could you please lower your voice a little?",
+  "tamil": "தயவு செய்து உங்க குரலை கொஞ்சம் குறைக்க முடியுமா?",
+  "context": "Asking a loud caller in a library.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Lower your voice' is a polite way to say speak softly.",
+  "words": [
+   "lower",
+   "voice"
+  ],
+  "usage": "Use it in libraries, offices or trains when someone is too loud.",
+  "leelaQ": "A person talks loudly in a library. What do you ask?",
+  "answer": "Could you please lower your voice a little?"
+ }
+]

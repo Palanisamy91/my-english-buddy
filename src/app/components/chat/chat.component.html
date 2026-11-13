@@ -1,0 +1,162 @@
+<section class="chat">
+  <header class="top">
+    <div>
+      <h1>My English Buddy</h1>
+      <p class="subtitle">Practice speaking · <span lang="ta">தமிழ் உதவியுடன்</span></p>
+    </div>
+    <button type="button" class="ghost" (click)="clearChat()">Clear chat</button>
+  </header>
+
+  <app-mic-help />
+
+  @if (speech.recognitionIssue; as issue) {
+    <p class="notice warn">{{ issue }} You can still type your sentences below.</p>
+  } @else if (speech.micPermission() === 'denied' && !speech.isNativeApp) {
+    <div class="notice warn perm">
+      <span>
+        Microphone access is blocked. Tap the lock icon in the address bar, set Microphone to Allow, then reload.
+      </span>
+      <button type="button" class="action" (click)="enableMic()">Try again</button>
+    </div>
+  } @else {
+    <p class="notice">
+      Voice input needs internet and may miss words. My checker is rule-based (not AI) and knows only common mistakes.
+    </p>
+  }
+
+  <div class="info-bar">
+    <button
+      type="button"
+      class="link"
+      (click)="showInfo.set(!showInfo())"
+      [attr.aria-expanded]="showInfo()"
+    >
+      ℹ️ {{ showInfo() ? 'Hide' : 'How the checker works' }}
+    </button>
+  </div>
+
+  @if (showInfo()) {
+    <section class="info">
+      <h2>What this grammar checker can and cannot do</h2>
+      <p>It checks {{ ruleCount }} simple rules written by hand. It is not AI.</p>
+      <ul>
+        @for (note of limitations; track note.english) {
+          <li>
+            <span>{{ note.english }}</span>
+            <span class="ta" lang="ta">{{ note.tamil }}</span>
+          </li>
+        }
+      </ul>
+    </section>
+  }
+
+  <div class="messages" #scrollBox role="log" aria-live="polite">
+    @for (m of messages(); track m.id) {
+      <article class="bubble" [class.user]="m.sender === 'user'" [class.assistant]="m.sender === 'assistant'">
+        <p class="text">{{ m.text }}</p>
+
+        @if (m.correctedText) {
+          <p class="fix">✅ <strong>{{ m.correctedText }}</strong></p>
+        }
+        @if (m.tamilExplanation) {
+          <p class="explain" lang="ta">{{ m.tamilExplanation }}</p>
+        }
+
+        @if (m.translation; as t) {
+          <div class="translation">
+            @if (t.tamil) {
+              <p class="ta" lang="ta">{{ t.tamil }}</p>
+            }
+            @if (!t.complete) {
+              <p class="hint">
+                {{ t.tamil ? 'Only part of this was translated.' : 'I could not translate this whole sentence.' }}
+                My offline dictionary only knows common phrases.
+              </p>
+            }
+            @if (t.wordMeanings.length > 0) {
+              <ul class="words">
+                @for (w of t.wordMeanings; track w.english) {
+                  <li><span class="en">{{ w.english }}</span> = <span lang="ta">{{ w.tamil }}</span></li>
+                }
+              </ul>
+            }
+          </div>
+        }
+
+        <div class="actions">
+          @if (speech.synthesisSupported) {
+            <button
+              type="button"
+              class="action"
+              [class.active]="speakingId() === m.id"
+              (click)="toggleSpeak(m)"
+              [attr.aria-label]="speakingId() === m.id ? 'Stop speaking' : 'Listen to this sentence'"
+            >
+              <app-icon [name]="speakingId() === m.id ? 'stop' : 'volume'" [size]="16" /> {{ speakingId() === m.id ? 'Stop' : 'Listen' }}
+            </button>
+          }
+          <button
+            type="button"
+            class="action"
+            [class.active]="!!m.translation"
+            (click)="toggleTranslation(m)"
+            [attr.aria-label]="m.translation ? 'Hide Tamil translation' : 'Show Tamil translation'"
+          >
+            <app-icon name="translate" [size]="16" /> {{ m.translation ? 'Hide Tamil' : 'Tamil' }}
+          </button>
+        </div>
+      </article>
+    }
+  </div>
+
+  <footer class="controls">
+    @if (speech.listenState() !== 'idle') {
+      <div class="live" role="status">
+        <span class="dot"></span>
+        <span class="live-text">
+          @if (speech.listenState() === 'starting') {
+            Starting microphone… allow access if your browser asks.
+          } @else if (speech.interim()) {
+            {{ speech.interim() }}
+          } @else {
+            Listening… speak now
+          }
+        </span>
+        <button type="button" class="action" (click)="cancelListening()">Cancel</button>
+      </div>
+    }
+
+    @if (errorMessage()) {
+      <div class="error" role="alert">
+        <span>{{ errorMessage() }}</span>
+        <button type="button" class="x" (click)="errorMessage.set('')" aria-label="Dismiss message">✕</button>
+      </div>
+    }
+
+    <form class="input-row" (submit)="onSubmit($event, textBox)">
+      <input
+        #textBox
+        type="text"
+        name="sentence"
+        placeholder="Type an English sentence…"
+        aria-label="Type an English sentence"
+        autocomplete="off"
+        autocapitalize="sentences"
+        enterkeyhint="send"
+        maxlength="500"
+      />
+      <button type="submit" class="send" aria-label="Send">➤</button>
+      <button
+        type="button"
+        class="mic"
+        [class.on]="speech.isListening()"
+        [disabled]="!speech.recognitionSupported"
+        (click)="toggleMic()"
+        [attr.aria-pressed]="speech.isListening()"
+        [attr.aria-label]="speech.isListening() ? 'Stop listening' : 'Start speaking'"
+      >
+        <app-icon [name]="speech.isListening() ? 'stop' : 'mic'" [size]="22" />
+      </button>
+    </form>
+  </footer>
+</section>

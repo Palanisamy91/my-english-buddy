@@ -1,0 +1,493 @@
+[
+ {
+  "en": "Does this bus go to the airport?",
+  "tamil": "இந்தப் பேருந்து விமான நிலையம் போகுமா?",
+  "context": "Asking at a bus stop",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Is this bus for the airport?",
+   "tamil": "இது விமான நிலையத்துக்கான பேருந்தா?"
+  }
+ },
+ {
+  "en": "Who handles the billing here?",
+  "tamil": "இங்கே பில்லிங்கை யார் பார்த்துக்கொள்கிறார்கள்?",
+  "context": "Looking for the right person in an office",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Who is in charge of billing?",
+   "tamil": "பில்லிங்குக்கு யார் பொறுப்பு?"
+  }
+ },
+ {
+  "en": "Where is the nearest ATM?",
+  "tamil": "அருகிலுள்ள ஏடிஎம் எங்கே இருக்கிறது?",
+  "context": "Asking a stranger on the street",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Is there an ATM nearby?",
+   "tamil": "இங்கே பக்கத்தில் ஏடிஎம் இருக்கிறதா?"
+  }
+ },
+ {
+  "en": "Do you accept credit cards?",
+  "tamil": "நீங்கள் கிரெடிட் கார்டு ஏற்றுக்கொள்வீர்களா?",
+  "context": "Asking at a shop counter",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Do you take cards?",
+   "tamil": "கார்டு வாங்குவீர்களா?"
+  }
+ },
+ {
+  "en": "Which platform does the train leave from?",
+  "tamil": "ரயில் எந்த நடைமேடையிலிருந்து புறப்படும்?",
+  "context": "Asking at a railway station",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Which platform is the train on?",
+   "tamil": "ரயில் எந்த நடைமேடையில் நிற்கிறது?"
+  }
+ },
+ {
+  "en": "Is everything clear so far?",
+  "tamil": "இதுவரை எல்லாம் தெளிவாக இருக்கிறதா?",
+  "context": "Checking understanding during a presentation",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Any questions so far?",
+   "tamil": "இதுவரை ஏதாவது கேள்விகள் உண்டா?"
+  }
+ },
+ {
+  "en": "Who is talking to the client right now?",
+  "tamil": "இப்போது வாடிக்கையாளரிடம் யார் பேசிக்கொண்டிருக்கிறார்கள்?",
+  "context": "Checking who is on a client call",
+  "tense": "present-continuous",
+  "type": "question"
+ },
+ {
+  "en": "What are they discussing in the meeting?",
+  "tamil": "கூட்டத்தில் அவர்கள் என்ன விவாதிக்கிறார்கள்?",
+  "context": "Asking about a meeting you missed",
+  "tense": "present-continuous",
+  "type": "question"
+ },
+ {
+  "en": "How is the project going?",
+  "tamil": "திட்டம் எப்படிப் போய்க்கொண்டிருக்கிறது?",
+  "context": "Checking progress with a team lead",
+  "tense": "present-continuous",
+  "type": "question",
+  "alt": {
+   "en": "Any progress on the project?",
+   "tamil": "திட்டத்தில் ஏதாவது முன்னேற்றம் உண்டா?"
+  }
+ },
+ {
+  "en": "It's a nice place, isn't it?",
+  "tamil": "இது நல்ல இடம், இல்லையா?",
+  "context": "Making small talk at a venue",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Do you know what time the shop closes?",
+  "tamil": "கடை எத்தனை மணிக்கு மூடுவார்கள் என்று தெரியுமா?",
+  "context": "Asking a passer-by politely",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "When does the shop close?",
+   "tamil": "கடை எப்போது மூடுவார்கள்?"
+  }
+ },
+ {
+  "en": "Do you know whether the bank is open on Saturdays?",
+  "tamil": "சனிக்கிழமைகளில் வங்கி திறந்திருக்குமா என்று உங்களுக்குத் தெரியுமா?",
+  "context": "Asking a colleague before a weekend errand",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Is the bank open on Saturdays?",
+   "tamil": "சனிக்கிழமை வங்கி திறந்திருக்குமா?"
+  }
+ },
+ {
+  "en": "I don't know where it is.",
+  "tamil": "அது எங்கே இருக்கிறது என்று எனக்குத் தெரியாது.",
+  "context": "Answering when you cannot help",
+  "tense": "present",
+  "type": "negative"
+ },
+ {
+  "en": "Nobody knows why it stopped working.",
+  "tamil": "அது ஏன் வேலை செய்வதை நிறுத்தியது என்று யாருக்கும் தெரியாது.",
+  "context": "Explaining a mystery bug",
+  "tense": "present",
+  "type": "negative"
+ },
+ {
+  "en": "What do you think of the new design?",
+  "tamil": "புதிய வடிவமைப்பைப் பற்றி நீங்கள் என்ன நினைக்கிறீர்கள்?",
+  "context": "Asking for feedback in a review meeting",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Do you like the new design?",
+   "tamil": "புதிய வடிவமைப்பு உங்களுக்குப் பிடித்திருக்கிறதா?"
+  }
+ },
+ {
+  "en": "Where did you park the car?",
+  "tamil": "காரை எங்கே நிறுத்தினீர்கள்?",
+  "context": "Looking for your friend's car",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Who left the door open?",
+  "tamil": "கதவை யார் திறந்து வைத்துவிட்டுப் போனார்கள்?",
+  "context": "Noticing an open office door",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "How long did the flight take?",
+  "tamil": "விமானப் பயணம் எவ்வளவு நேரம் ஆனது?",
+  "context": "Asking about a friend's trip",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Why didn't you call me?",
+  "tamil": "ஏன் எனக்கு போன் செய்யவில்லை?",
+  "context": "Asking a friend who did not call",
+  "tense": "past",
+  "type": "question",
+  "alt": {
+   "en": "Why no call?",
+   "tamil": "ஏன் போன் பண்ணலை?"
+  }
+ },
+ {
+  "en": "Were you sleeping when I called?",
+  "tamil": "நான் அழைத்தபோது நீங்கள் தூங்கிக் கொண்டிருந்தீர்களா?",
+  "context": "Asking a friend after a missed call",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "How much did you pay for the ticket?",
+  "tamil": "டிக்கெட்டுக்கு எவ்வளவு கொடுத்தீர்கள்?",
+  "context": "Comparing travel costs with a friend",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "You didn't submit the form, did you?",
+  "tamil": "நீங்கள் படிவத்தைச் சமர்ப்பிக்கவில்லை, இல்லையா?",
+  "context": "Checking if a form is still pending",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Whom did you invite to the meeting?",
+  "tamil": "கூட்டத்துக்கு யாரை அழைத்தீர்கள்?",
+  "context": "Checking the guest list",
+  "tense": "past",
+  "type": "question",
+  "alt": {
+   "en": "Who did you invite to the meeting?",
+   "tamil": "கூட்டத்துக்கு யாரை அழைத்தீர்கள்?"
+  }
+ },
+ {
+  "en": "Did anyone ask for me while I was out?",
+  "tamil": "நான் வெளியே போயிருந்தபோது யாராவது என்னைத் தேடினார்களா?",
+  "context": "Returning to your desk",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "I couldn't catch your last sentence.",
+  "tamil": "உங்கள் கடைசி வாக்கியம் எனக்குப் புரியவில்லை.",
+  "context": "Asking someone to repeat on a call",
+  "tense": "past",
+  "type": "negative",
+  "alt": {
+   "en": "Could you repeat the last part?",
+   "tamil": "கடைசிப் பகுதியை மீண்டும் சொல்ல முடியுமா?"
+  }
+ },
+ {
+  "en": "Will you be at the meeting tomorrow?",
+  "tamil": "நாளைய கூட்டத்தில் நீங்கள் இருப்பீர்களா?",
+  "context": "Confirming attendance",
+  "tense": "future",
+  "type": "question"
+ },
+ {
+  "en": "Who will take the notes today?",
+  "tamil": "இன்று குறிப்புகளை யார் எடுப்பார்கள்?",
+  "context": "Starting a team meeting",
+  "tense": "future",
+  "type": "question"
+ },
+ {
+  "en": "What are you going to order?",
+  "tamil": "நீங்கள் என்ன ஆர்டர் செய்யப் போகிறீர்கள்?",
+  "context": "Looking at a menu with a friend",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "What are you having?",
+   "tamil": "நீங்கள் என்ன சாப்பிடப் போகிறீர்கள்?"
+  }
+ },
+ {
+  "en": "How long will the update take?",
+  "tamil": "அப்டேட் முடிய எவ்வளவு நேரம் ஆகும்?",
+  "context": "Asking the IT team",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "When will the update be done?",
+   "tamil": "அப்டேட் எப்போது முடியும்?"
+  }
+ },
+ {
+  "en": "Who is going to present the demo?",
+  "tamil": "டெமோவை யார் வழங்கப் போகிறார்கள்?",
+  "context": "Planning a client presentation",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "Who's doing the demo?",
+   "tamil": "டெமோவை யார் செய்கிறார்கள்?"
+  }
+ },
+ {
+  "en": "What will the weather be like tomorrow?",
+  "tamil": "நாளை வானிலை எப்படி இருக்கும்?",
+  "context": "Planning an outing",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "Is it going to be hot tomorrow?",
+   "tamil": "நாளை வெயிலாக இருக்குமா?"
+  }
+ },
+ {
+  "en": "How much will the repair cost?",
+  "tamil": "பழுது பார்க்க எவ்வளவு செலவாகும்?",
+  "context": "Asking at a service centre",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "What's the repair going to cost?",
+   "tamil": "பழுது பார்க்க என்ன செலவாகும்?"
+  }
+ },
+ {
+  "en": "We're going to win this deal, aren't we?",
+  "tamil": "நாம் இந்த ஒப்பந்தத்தை வெல்லப் போகிறோம், இல்லையா?",
+  "context": "Encouraging your team",
+  "tense": "future",
+  "type": "question"
+ },
+ {
+  "en": "When are you going to start your new job?",
+  "tamil": "உங்கள் புதிய வேலையை எப்போது தொடங்கப் போகிறீர்கள்?",
+  "context": "Asking a friend who switched jobs",
+  "tense": "future",
+  "type": "question"
+ },
+ {
+  "en": "I'll ask my manager and let you know.",
+  "tamil": "நான் என் மேலாளரிடம் கேட்டுவிட்டு உங்களுக்குச் சொல்கிறேன்.",
+  "context": "Answering a question you cannot decide",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "Shall we start the meeting now?",
+  "tamil": "இப்போது கூட்டத்தைத் தொடங்கலாமா?",
+  "context": "Opening a meeting politely",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "Can we start now?",
+   "tamil": "இப்போது தொடங்கலாமா?"
+  }
+ },
+ {
+  "en": "Have you ever been to Singapore?",
+  "tamil": "நீங்கள் எப்போதாவது சிங்கப்பூர் போயிருக்கிறீர்களா?",
+  "context": "Asking about travel experience",
+  "tense": "present-perfect",
+  "type": "question"
+ },
+ {
+  "en": "Have you heard back from HR?",
+  "tamil": "HR-இடமிருந்து உங்களுக்குப் பதில் வந்ததா?",
+  "context": "Asking about a job offer",
+  "tense": "present-perfect",
+  "type": "question",
+  "alt": {
+   "en": "Did HR reply to you?",
+   "tamil": "HR உங்களுக்குப் பதில் அனுப்பினார்களா?"
+  }
+ },
+ {
+  "en": "How many times have you tried to log in?",
+  "tamil": "எத்தனை முறை உள்நுழைய முயன்றீர்கள்?",
+  "context": "Helpdesk troubleshooting",
+  "tense": "present-perfect",
+  "type": "question"
+ },
+ {
+  "en": "Where have you been all morning?",
+  "tamil": "காலையிலிருந்து நீங்கள் எங்கே இருந்தீர்கள்?",
+  "context": "Asking a friend who was missing",
+  "tense": "present-perfect",
+  "type": "question"
+ },
+ {
+  "en": "Have we met before?",
+  "tamil": "நாம் முன்பே சந்தித்திருக்கிறோமா?",
+  "context": "Meeting someone who looks familiar",
+  "tense": "present-perfect",
+  "type": "question",
+  "alt": {
+   "en": "Do I know you from somewhere?",
+   "tamil": "உங்களை எங்கோ பார்த்தது போல இருக்கிறதே?"
+  }
+ },
+ {
+  "en": "Has anything changed since last week?",
+  "tamil": "கடந்த வாரத்திலிருந்து ஏதாவது மாறியிருக்கிறதா?",
+  "context": "Asking in a status meeting",
+  "tense": "present-perfect",
+  "type": "question"
+ },
+ {
+  "en": "I haven't received any reply yet.",
+  "tamil": "எனக்கு இன்னும் எந்தப் பதிலும் வரவில்லை.",
+  "context": "Following up on an unanswered email",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "Can you repeat that, please?",
+  "tamil": "அதை மீண்டும் சொல்ல முடியுமா, தயவுசெய்து?",
+  "context": "Asking for repetition in a meeting",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Pardon?",
+   "tamil": "என்ன சொன்னீர்கள்?"
+  }
+ },
+ {
+  "en": "Can I ask you something?",
+  "tamil": "உங்களிடம் ஒன்று கேட்கலாமா?",
+  "context": "Opening a personal question",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Quick question?",
+   "tamil": "ஒரு சிறிய கேள்வி?"
+  }
+ },
+ {
+  "en": "Would you mind explaining that again?",
+  "tamil": "அதை மீண்டும் விளக்கிச் சொல்வீர்களா?",
+  "context": "Politely asking for an explanation",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Could you explain that once more?",
+   "tamil": "அதை இன்னொரு முறை விளக்க முடியுமா?"
+  }
+ },
+ {
+  "en": "How can I help you today?",
+  "tamil": "இன்று நான் உங்களுக்கு எப்படி உதவலாம்?",
+  "context": "A shop assistant greeting a customer",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "What do you need?",
+   "tamil": "உங்களுக்கு என்ன வேண்டும்?"
+  }
+ },
+ {
+  "en": "Where can I find a good coffee shop?",
+  "tamil": "நல்ல காபி கடை எங்கே கிடைக்கும்?",
+  "context": "Asking a local",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Is there a good coffee shop nearby?",
+   "tamil": "அருகில் நல்ல காபி கடை இருக்கிறதா?"
+  }
+ },
+ {
+  "en": "Could you please tell me how to get to the bus stand?",
+  "tamil": "பேருந்து நிலையத்துக்கு எப்படிப் போவது என்று சொல்ல முடியுமா?",
+  "context": "Asking a stranger for directions",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "How do I get to the bus stand?",
+   "tamil": "பேருந்து நிலையத்துக்கு எப்படிப் போவது?"
+  }
+ },
+ {
+  "en": "Why should we hire you?",
+  "tamil": "உங்களை நாங்கள் ஏன் வேலைக்கு எடுக்க வேண்டும்?",
+  "context": "A common interview question",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "What makes you the right person?",
+   "tamil": "உங்களை இந்த வேலைக்குப் பொருத்தமானவராக்குவது எது?"
+  }
+ },
+ {
+  "en": "May I know your name, please?",
+  "tamil": "உங்கள் பெயரைத் தெரிந்துகொள்ளலாமா?",
+  "context": "Greeting a visitor",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "What's your name?",
+   "tamil": "உங்கள் பெயர் என்ன?"
+  }
+ },
+ {
+  "en": "I can't hear you clearly.",
+  "tamil": "உங்கள் குரல் எனக்குத் தெளிவாகக் கேட்கவில்லை.",
+  "context": "Telling someone the call is bad",
+  "tense": "modal",
+  "type": "negative",
+  "alt": {
+   "en": "Could you speak up, please?",
+   "tamil": "கொஞ்சம் சத்தமாகப் பேச முடியுமா?"
+  }
+ },
+ {
+  "en": "You can ask me anything about the project.",
+  "tamil": "திட்டத்தைப் பற்றி என்னிடம் எதை வேண்டுமானாலும் கேட்கலாம்.",
+  "context": "Welcoming a new teammate's questions",
+  "tense": "modal",
+  "type": "statement"
+ }
+]

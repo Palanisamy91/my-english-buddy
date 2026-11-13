@@ -1,0 +1,347 @@
+[
+ {
+  "word": "nepotism",
+  "meaning": "Giving jobs to your relatives instead of the best people.",
+  "tamil": "உறவினர் ஆதரவு",
+  "pos": "noun",
+  "pron": "NEP-uh-tiz-um",
+  "example": "Nepotism in hiring upset many honest workers.",
+  "exampleTamil": "ஆட்சேர்ப்பில் உறவினர் ஆதரவு பல நேர்மையான ஊழியர்களை வருத்தியது.",
+  "synonyms": [
+   "favouritism"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "whistleblower",
+  "meaning": "A person who reports wrongdoing inside an organization.",
+  "tamil": "முறைகேடு வெளிப்படுத்துபவர்",
+  "pos": "noun",
+  "pron": "WIS-ul-bloh-er",
+  "example": "The whistleblower exposed the false accounts.",
+  "exampleTamil": "முறைகேடு வெளிப்படுத்துபவர் போலிக் கணக்குகளை அம்பலப்படுத்தினார்.",
+  "synonyms": [
+   "informant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nondisclosure",
+  "meaning": "An agreement or rule to keep information secret.",
+  "tamil": "இரகசிய காப்பு",
+  "pos": "noun",
+  "pron": "non-dis-KLOH-zher",
+  "example": "Staff must sign a nondisclosure agreement.",
+  "exampleTamil": "ஊழியர்கள் இரகசிய காப்பு ஒப்பந்தத்தில் கையெழுத்திட வேண்டும்.",
+  "synonyms": [
+   "secrecy",
+   "confidentiality"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "camaraderie",
+  "meaning": "Friendly trust among people who work together.",
+  "tamil": "தோழமை",
+  "pos": "noun",
+  "pron": "kam-uh-RAH-duh-ree",
+  "example": "There is great camaraderie in our department.",
+  "exampleTamil": "எங்கள் துறையில் சிறந்த தோழமை உள்ளது.",
+  "synonyms": [
+   "fellowship",
+   "friendship"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "synergy",
+  "meaning": "Better results when people or groups work together.",
+  "tamil": "கூட்டு ஆற்றல்",
+  "pos": "noun",
+  "pron": "SIN-er-jee",
+  "example": "The merger created real synergy between the teams.",
+  "exampleTamil": "இணைப்பு குழுக்களுக்கிடையே உண்மையான கூட்டு ஆற்றலை உருவாக்கியது.",
+  "synonyms": [
+   "cooperation",
+   "teamwork"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "liaison",
+  "meaning": "A link that helps two groups communicate.",
+  "tamil": "தொடர்பு அலுவலர்",
+  "pos": "noun",
+  "pron": "lee-AY-zon",
+  "example": "She is our liaison with the client.",
+  "exampleTamil": "அவள் வாடிக்கையாளருடனான எங்கள் தொடர்பு அலுவலர்.",
+  "synonyms": [
+   "contact",
+   "go-between"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "counterpart",
+  "meaning": "A person with an equal job in another organization.",
+  "tamil": "சமமான பதவியில் உள்ளவர்",
+  "pos": "noun",
+  "pron": "KOWN-ter-part",
+  "example": "He met his counterpart from the Delhi office.",
+  "exampleTamil": "அவர் டெல்லி அலுவலகத்தில் தன் சமமான பதவியில் உள்ளவரைச் சந்தித்தார்.",
+  "synonyms": [
+   "equivalent",
+   "peer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "escalation",
+  "meaning": "Passing a problem to a higher level of authority.",
+  "tamil": "மேல்நிலைக்கு எடுத்துச் செல்லுதல்",
+  "pos": "noun",
+  "pron": "es-kuh-LAY-shun",
+  "example": "Escalation to the director was the last step.",
+  "exampleTamil": "இயக்குநரிடம் எடுத்துச் செல்வது கடைசி படியாக இருந்தது.",
+  "synonyms": [
+   "referral"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "iteration",
+  "meaning": "One round of a repeated process of improving something.",
+  "tamil": "மறுசுழற்சி மேம்பாடு",
+  "pos": "noun",
+  "pron": "it-uh-RAY-shun",
+  "example": "Each iteration of the app was better than the last.",
+  "exampleTamil": "செயலியின் ஒவ்வொரு மேம்பாட்டுச் சுற்றும் முந்தையதை விட சிறப்பாக இருந்தது.",
+  "synonyms": [
+   "version",
+   "cycle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "prototype",
+  "meaning": "A first test model of a product.",
+  "tamil": "முன்மாதிரி",
+  "pos": "noun",
+  "pron": "PROH-tuh-typ",
+  "example": "The team built a prototype in two weeks.",
+  "exampleTamil": "குழு இரண்டு வாரங்களில் ஒரு முன்மாதிரியை உருவாக்கியது.",
+  "synonyms": [
+   "model",
+   "sample"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "specification",
+  "meaning": "A detailed description of what something must be or do.",
+  "tamil": "விரிவான வரையறை",
+  "pos": "noun",
+  "pron": "spes-ih-fih-KAY-shun",
+  "example": "Read the product specification before you begin.",
+  "exampleTamil": "தொடங்குவதற்கு முன் தயாரிப்பு வரையறையைப் படியுங்கள்.",
+  "synonyms": [
+   "requirements",
+   "details"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "custodian",
+  "meaning": "A person responsible for looking after records or property.",
+  "tamil": "பாதுகாவலர்",
+  "pos": "noun",
+  "pron": "kus-TOH-dee-un",
+  "example": "The custodian keeps the office keys safe.",
+  "exampleTamil": "பாதுகாவலர் அலுவலகச் சாவிகளைப் பத்திரமாக வைத்திருக்கிறார்.",
+  "synonyms": [
+   "keeper",
+   "guardian"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "trustee",
+  "meaning": "A person who manages money or property for others.",
+  "tamil": "அறங்காவலர்",
+  "pos": "noun",
+  "pron": "trus-TEE",
+  "example": "The trustee approved the new school fund.",
+  "exampleTamil": "அறங்காவலர் புதிய பள்ளி நிதிக்கு ஒப்புதல் அளித்தார்.",
+  "synonyms": [
+   "guardian",
+   "administrator"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "methodical",
+  "meaning": "Doing things in a careful and orderly way.",
+  "tamil": "முறையான",
+  "pos": "adjective",
+  "pron": "muh-THOD-ih-kul",
+  "example": "She is methodical in checking every figure.",
+  "exampleTamil": "ஒவ்வொரு எண்ணையும் சரிபார்ப்பதில் அவள் முறையாகச் செயல்படுகிறாள்.",
+  "synonyms": [
+   "systematic",
+   "orderly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "elimination",
+  "meaning": "Removing something completely.",
+  "tamil": "நீக்குதல்",
+  "pos": "noun",
+  "pron": "ih-lim-ih-NAY-shun",
+  "example": "Elimination of waste saved us money.",
+  "exampleTamil": "வீணைகளை நீக்குவது எங்களுக்குப் பணத்தை மிச்சப்படுத்தியது.",
+  "synonyms": [
+   "removal"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hand-over",
+  "meaning": "The act of passing work or duty to another person.",
+  "tamil": "பொறுப்பு ஒப்படைப்பு",
+  "pos": "noun",
+  "pron": "HAND-oh-ver",
+  "example": "Before leaving, she completed the hand-over to Arun.",
+  "exampleTamil": "செல்வதற்கு முன் அவள் அருணுக்குப் பொறுப்பை ஒப்படைத்து முடித்தாள்.",
+  "synonyms": [
+   "transfer",
+   "handing over"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sign-off",
+  "meaning": "Final approval of a piece of work.",
+  "tamil": "இறுதி ஒப்புதல்",
+  "pos": "noun",
+  "pron": "SYN-awf",
+  "example": "We need your sign-off before printing.",
+  "exampleTamil": "அச்சிடுவதற்கு முன் உங்கள் இறுதி ஒப்புதல் தேவை.",
+  "synonyms": [
+   "approval",
+   "clearance"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wrap-up",
+  "meaning": "A final summary or closing of a meeting or task.",
+  "tamil": "முடிவுரை",
+  "pos": "noun",
+  "pron": "RAP-up",
+  "example": "The wrap-up took only five minutes.",
+  "exampleTamil": "முடிவுரை ஐந்து நிமிடங்கள் மட்டுமே எடுத்தது.",
+  "synonyms": [
+   "conclusion",
+   "summary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scoping",
+  "meaning": "Deciding what a project will and will not include.",
+  "tamil": "திட்ட வரம்பு நிர்ணயம்",
+  "pos": "noun",
+  "pron": "SKOH-ping",
+  "example": "Careful scoping avoids extra work later.",
+  "exampleTamil": "கவனமான வரம்பு நிர்ணயம் பின்னர் கூடுதல் வேலையைத் தவிர்க்கும்.",
+  "synonyms": [
+   "defining",
+   "planning"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pitch-deck",
+  "meaning": "A short set of slides used to present an idea to investors.",
+  "tamil": "முதலீட்டாளர் விளக்க ஸ்லைடுகள்",
+  "pos": "noun",
+  "pron": "PICH-dek",
+  "example": "He showed a clear pitch-deck to the investors.",
+  "exampleTamil": "அவர் முதலீட்டாளர்களுக்குத் தெளிவான விளக்க ஸ்லைடுகளைக் காட்டினார்.",
+  "synonyms": [
+   "presentation",
+   "slides"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "credentials",
+  "meaning": "Qualifications and experience that prove you can do a job.",
+  "tamil": "தகுதிச் சான்றுகள்",
+  "pos": "noun",
+  "pron": "krih-DEN-shulz",
+  "example": "Her credentials impressed the interview panel.",
+  "exampleTamil": "அவளது தகுதிச் சான்றுகள் நேர்காணல் குழுவை ஈர்த்தன.",
+  "synonyms": [
+   "qualifications",
+   "proof"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "diplomacy",
+  "meaning": "Skill in handling people without making them angry.",
+  "tamil": "சாமர்த்திய அணுகுமுறை",
+  "pos": "noun",
+  "pron": "dih-PLOH-muh-see",
+  "example": "The manager solved the quarrel with diplomacy.",
+  "exampleTamil": "மேலாளர் சண்டையை சாமர்த்தியமாகத் தீர்த்தார்.",
+  "synonyms": [
+   "tact",
+   "skill"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "amend",
+  "meaning": "To change a document slightly to improve it.",
+  "tamil": "திருத்து",
+  "pos": "verb",
+  "pron": "uh-MEND",
+  "example": "We need to amend the contract.",
+  "exampleTamil": "நாங்கள் ஒப்பந்தத்தைத் திருத்த வேண்டும்.",
+  "synonyms": [
+   "revise",
+   "modify"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overdraft",
+  "meaning": "Spending more money than you have in the bank.",
+  "tamil": "வங்கிக் கணக்கில் அதிகப் பணம் எடுத்தல்",
+  "pos": "noun",
+  "pron": "OH-ver-draft",
+  "example": "The company went into overdraft this month.",
+  "exampleTamil": "நிறுவனம் இந்த மாதம் கணக்கில் இருப்பை விட அதிகமாக எடுத்தது.",
+  "synonyms": [
+   "bank debt"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "inclusion",
+  "meaning": "Making sure everyone is treated as part of the group.",
+  "tamil": "உள்ளடக்கம்",
+  "pos": "noun",
+  "pron": "in-KLOO-zhun",
+  "example": "Inclusion makes every employee feel valued.",
+  "exampleTamil": "உள்ளடக்கம் ஒவ்வொரு ஊழியரும் மதிக்கப்படுவதாக உணரச் செய்கிறது.",
+  "synonyms": [
+   "acceptance",
+   "belonging"
+  ],
+  "level": "advanced"
+ }
+]

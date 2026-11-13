@@ -1,0 +1,352 @@
+[
+ {
+  "word": "awfully",
+  "meaning": "Very; to a large degree (informal).",
+  "tamil": "மிகவும்",
+  "pos": "adverb",
+  "pron": "AW-flee",
+  "example": "It is awfully hot in this room.",
+  "exampleTamil": "இந்த அறையில் மிகவும் புழுக்கமாக இருக்கிறது.",
+  "synonyms": [
+   "very",
+   "terribly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bitterly",
+  "meaning": "In a very sharp or painful way.",
+  "tamil": "கடுமையாக",
+  "pos": "adverb",
+  "pron": "BIT-er-lee",
+  "example": "It was bitterly cold on the hill at night.",
+  "exampleTamil": "இரவில் மலையில் கடுமையான குளிராக இருந்தது.",
+  "synonyms": [
+   "harshly",
+   "intensely"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "swiftly",
+  "meaning": "Very quickly and smoothly.",
+  "tamil": "விரைவாகவும் லாவகமாகவும்",
+  "pos": "adverb",
+  "pron": "SWIFT-lee",
+  "example": "The goalkeeper moved swiftly to catch the ball.",
+  "exampleTamil": "கோல்கீப்பர் பந்தைப் பிடிக்க லாவகமாக விரைந்தார்.",
+  "synonyms": [
+   "rapidly",
+   "speedily"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sluggish",
+  "meaning": "Slow and lacking energy.",
+  "tamil": "மந்தமான",
+  "pos": "adjective",
+  "pron": "SLUG-ish",
+  "example": "I feel sluggish after eating a heavy lunch.",
+  "exampleTamil": "கனமான மதிய உணவுக்குப் பிறகு நான் மந்தமாக உணர்கிறேன்.",
+  "synonyms": [
+   "slow",
+   "lazy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mediocre",
+  "meaning": "Of only average quality; not very good.",
+  "tamil": "சராசரியான",
+  "pos": "adjective",
+  "pron": "mee-dee-OH-ker",
+  "example": "The movie was mediocre, so we left early.",
+  "exampleTamil": "படம் சராசரியாக இருந்ததால் நாங்கள் சீக்கிரம் வெளியேறினோம்.",
+  "synonyms": [
+   "average",
+   "ordinary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "superb",
+  "meaning": "Excellent; of very high quality.",
+  "tamil": "மிகச் சிறந்த",
+  "pos": "adjective",
+  "pron": "soo-PERB",
+  "example": "The chef prepared a superb meal.",
+  "exampleTamil": "சமையல்காரர் மிகச் சிறந்த உணவைத் தயாரித்தார்.",
+  "synonyms": [
+   "excellent",
+   "outstanding"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "splendid",
+  "meaning": "Very impressive and wonderful.",
+  "tamil": "அற்புதமான",
+  "pos": "adjective",
+  "pron": "SPLEN-did",
+  "example": "We had a splendid view of the sea.",
+  "exampleTamil": "எங்களுக்கு கடலின் அற்புதமான காட்சி கிடைத்தது.",
+  "synonyms": [
+   "magnificent",
+   "grand"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dreadful",
+  "meaning": "Very bad or unpleasant.",
+  "tamil": "பயங்கரமான மோசமான",
+  "pos": "adjective",
+  "pron": "DRED-ful",
+  "example": "The weather was dreadful during our trip.",
+  "exampleTamil": "எங்கள் பயணத்தின்போது வானிலை மிக மோசமாக இருந்தது.",
+  "synonyms": [
+   "terrible",
+   "awful"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "peculiar",
+  "meaning": "Strange in a way that is hard to understand.",
+  "tamil": "விசித்திரமான",
+  "pos": "adjective",
+  "pron": "pih-KYOOL-yer",
+  "example": "This soup has a peculiar smell.",
+  "exampleTamil": "இந்த சூப்பில் ஒரு விசித்திரமான வாசனை இருக்கிறது.",
+  "synonyms": [
+   "odd",
+   "curious"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "subtle",
+  "meaning": "Small and delicate; not obvious.",
+  "tamil": "நுட்பமான",
+  "pos": "adjective",
+  "pron": "SUT-ul",
+  "example": "There is a subtle difference between the two shades.",
+  "exampleTamil": "இரண்டு நிறங்களுக்கிடையே நுட்பமான வேறுபாடு உள்ளது.",
+  "synonyms": [
+   "delicate",
+   "faint"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vivid",
+  "meaning": "Very bright, clear and strong.",
+  "tamil": "தெளிவான துடிப்பான",
+  "pos": "adjective",
+  "pron": "VIV-id",
+  "example": "She wore a vivid red dress to the wedding.",
+  "exampleTamil": "அவள் திருமணத்துக்கு துடிப்பான சிவப்பு உடை அணிந்தாள்.",
+  "synonyms": [
+   "bright",
+   "intense"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fierce",
+  "meaning": "Strong, wild and violent.",
+  "tamil": "கடுமையான",
+  "pos": "adjective",
+  "pron": "FEERS",
+  "example": "A fierce wind broke the branches.",
+  "exampleTamil": "கடுமையான காற்று கிளைகளை முறித்தது.",
+  "synonyms": [
+   "violent",
+   "intense"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "harsh",
+  "meaning": "Rough, unpleasant and severe.",
+  "tamil": "கடுமையான",
+  "pos": "adjective",
+  "pron": "HARSH",
+  "example": "The harsh sunlight hurt my eyes.",
+  "exampleTamil": "கடுமையான சூரிய ஒளி என் கண்களை வலிக்கச் செய்தது.",
+  "synonyms": [
+   "severe",
+   "rough"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mild",
+  "meaning": "Gentle; not strong or extreme.",
+  "tamil": "மிதமான",
+  "pos": "adjective",
+  "pron": "MYLD",
+  "example": "The weather in Ooty is mild all year.",
+  "exampleTamil": "ஊட்டியில் ஆண்டு முழுவதும் வானிலை மிதமாக இருக்கும்.",
+  "synonyms": [
+   "gentle",
+   "moderate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "grubby",
+  "meaning": "Rather dirty.",
+  "tamil": "அழுக்கான",
+  "pos": "adjective",
+  "pron": "GRUB-ee",
+  "example": "The kids came home with grubby hands.",
+  "exampleTamil": "குழந்தைகள் அழுக்கு கைகளுடன் வீட்டுக்கு வந்தனர்.",
+  "synonyms": [
+   "dirty",
+   "grimy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "balmy",
+  "meaning": "Pleasantly warm (about weather).",
+  "tamil": "இதமான வெப்பமுள்ள",
+  "pos": "adjective",
+  "pron": "BAH-mee",
+  "example": "We walked on the beach on a balmy evening.",
+  "exampleTamil": "இதமான வெப்பமுள்ள மாலையில் நாங்கள் கடற்கரையில் நடந்தோம்.",
+  "synonyms": [
+   "mild",
+   "pleasant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sultry",
+  "meaning": "Hot and humid, making you feel sticky.",
+  "tamil": "புழுக்கமான",
+  "pos": "adjective",
+  "pron": "SUL-tree",
+  "example": "The sultry afternoon made everyone sleepy.",
+  "exampleTamil": "புழுக்கமான மதியம் எல்லோரையும் தூக்கக் கலக்கத்தில் ஆழ்த்தியது.",
+  "synonyms": [
+   "humid",
+   "muggy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bleak",
+  "meaning": "Cold, empty and without hope or comfort.",
+  "tamil": "வெறுமையான",
+  "pos": "adjective",
+  "pron": "BLEEK",
+  "example": "The village looked bleak in the winter fog.",
+  "exampleTamil": "குளிர்கால பனியில் கிராமம் வெறிச்சோடி இருந்தது.",
+  "synonyms": [
+   "dreary",
+   "gloomy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gaudy",
+  "meaning": "Too bright and showy in a cheap way.",
+  "tamil": "கண்ணைக் கூசும் ஆடம்பரமான",
+  "pos": "adjective",
+  "pron": "GAW-dee",
+  "example": "The shop had gaudy decorations.",
+  "exampleTamil": "அந்தக் கடையில் கண்ணைக் கூசும் அலங்காரங்கள் இருந்தன.",
+  "synonyms": [
+   "flashy",
+   "loud"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "drab",
+  "meaning": "Dull and boring in color or appearance.",
+  "tamil": "மங்கலான சுவாரசியமற்ற",
+  "pos": "adjective",
+  "pron": "DRAB",
+  "example": "The office walls were painted a drab grey.",
+  "exampleTamil": "அலுவலகச் சுவர்கள் மங்கலான சாம்பல் நிறத்தில் இருந்தன.",
+  "synonyms": [
+   "dull",
+   "dreary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exquisite",
+  "meaning": "Extremely beautiful and delicate.",
+  "tamil": "நுட்பமான அழகுடைய",
+  "pos": "adjective",
+  "pron": "ik-SKWIZ-it",
+  "example": "The temple has exquisite stone carvings.",
+  "exampleTamil": "கோயிலில் நுட்பமான அழகிய கல் சிற்பங்கள் உள்ளன.",
+  "synonyms": [
+   "delicate",
+   "beautiful"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "radiant",
+  "meaning": "Shining brightly; glowing with joy.",
+  "tamil": "ஒளிரும்",
+  "pos": "adjective",
+  "pron": "RAY-dee-unt",
+  "example": "The bride looked radiant on her wedding day.",
+  "exampleTamil": "திருமண நாளில் மணமகள் ஒளிரும் முகத்துடன் இருந்தாள்.",
+  "synonyms": [
+   "glowing",
+   "shining"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "immaculate",
+  "meaning": "Perfectly clean and neat.",
+  "tamil": "மிகத் தூய்மையான, குறையற்ற",
+  "pos": "adjective",
+  "pron": "ih-MAK-yuh-lit",
+  "example": "The hotel room was immaculate.",
+  "exampleTamil": "விடுதி அறை மிகத் தூய்மையாக இருந்தது.",
+  "synonyms": [
+   "spotless",
+   "perfect"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pristine",
+  "meaning": "Fresh, clean and untouched.",
+  "tamil": "தூய்மையான, மாசற்ற",
+  "pos": "adjective",
+  "pron": "PRIS-teen",
+  "example": "The beach was pristine and almost empty.",
+  "exampleTamil": "கடற்கரை மாசற்றதாகவும் கிட்டத்தட்ட வெறிச்சோடியும் இருந்தது.",
+  "synonyms": [
+   "unspoiled",
+   "pure"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tranquil",
+  "meaning": "Calm and peaceful.",
+  "tamil": "அமைதியான",
+  "pos": "adjective",
+  "pron": "TRANG-kwil",
+  "example": "We enjoyed the tranquil lake at dawn.",
+  "exampleTamil": "விடியற்காலையில் அமைதியான ஏரியை நாங்கள் ரசித்தோம்.",
+  "synonyms": [
+   "serene",
+   "calm"
+  ],
+  "level": "advanced"
+ }
+]

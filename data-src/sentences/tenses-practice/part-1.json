@@ -1,0 +1,276 @@
+[
+ {
+  "en": "I missed the 8 o'clock bus this morning.",
+  "tamil": "இன்னைக்கு காலைல 8 மணி பஸ்ஸை தவற விட்டுட்டேன்.",
+  "context": "Telling a colleague why you reached the office late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Simple past tense. We use it for a finished action at a fixed time, like this morning.",
+  "words": [
+   "missed",
+   "bus"
+  ]
+ },
+ {
+  "en": "Did you eat lunch in the canteen yesterday?",
+  "tamil": "நேத்து கேண்டீன்ல மதிய சாப்பாடு சாப்பிட்டியா?",
+  "context": "Chatting with a friend about yesterday's lunch.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Past questions use did + base verb. Here it is 'eat', not 'ate'.",
+  "words": [
+   "lunch",
+   "canteen"
+  ],
+  "alt": {
+   "en": "Where did you have lunch yesterday?",
+   "tamil": "நேத்து எங்க மதிய சாப்பாடு சாப்பிட்ட?"
+  }
+ },
+ {
+  "en": "I didn't sleep well last night because of the noise.",
+  "tamil": "சத்தம் காரணமா நேத்து ராத்திரி நல்லா தூங்கல.",
+  "context": "Explaining why you look tired in the morning.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "Past negative uses didn't + base verb. 'Didn't sleep' is correct, not 'didn't slept'.",
+  "words": [
+   "sleep",
+   "noise"
+  ]
+ },
+ {
+  "en": "We watched a new movie at the mall on Sunday.",
+  "tamil": "ஞாயிற்றுக்கிழமை மால்ல ஒரு புது படம் பார்த்தோம்.",
+  "context": "Sharing your weekend plans with a coworker.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Simple past with 'on Sunday'. Regular verbs take -ed, like watch becomes watched.",
+  "words": [
+   "watched",
+   "movie",
+   "mall"
+  ]
+ },
+ {
+  "en": "She called me twice, but I was in a meeting.",
+  "tamil": "அவ ரெண்டு தடவை கூப்பிட்டா, ஆனா நான் மீட்டிங்ல இருந்தேன்.",
+  "context": "Explaining why you did not pick up a call.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Simple past for finished actions. 'Was' is the past of 'am' and 'is'.",
+  "words": [
+   "called",
+   "meeting"
+  ],
+  "alt": {
+   "en": "He called me twice, but I was busy.",
+   "tamil": "அவன் ரெண்டு தடவை கூப்பிட்டான், ஆனா நான் பிஸியா இருந்தேன்."
+  }
+ },
+ {
+  "en": "When did you reach home last night?",
+  "tamil": "நேத்து ராத்திரி எப்போ வீட்டுக்கு வந்த?",
+  "context": "A parent asking a college student about last night.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Use 'when did' + base verb to ask about the time of a finished action.",
+  "words": [
+   "reach",
+   "home"
+  ]
+ },
+ {
+  "en": "I forgot my umbrella, and it started raining.",
+  "tamil": "குடையை மறந்துட்டேன், மழையும் பெய்ய ஆரம்பிச்சிடுச்சு.",
+  "context": "Arriving at the office all wet on a rainy day.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Simple past. 'Forgot' is irregular (forget, forgot). 'Started' is regular.",
+  "words": [
+   "forgot",
+   "umbrella",
+   "raining"
+  ]
+ },
+ {
+  "en": "He never replied to my message.",
+  "tamil": "அவன் என் மெசேஜுக்கு பதிலே சொல்லல.",
+  "context": "Complaining that someone ignored your WhatsApp message.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "Simple past with 'never' means not even one time. The verb stays in past form: replied.",
+  "words": [
+   "replied",
+   "message"
+  ]
+ },
+ {
+  "en": "My brother bought a second-hand bike last month.",
+  "tamil": "என் தம்பி போன மாசம் ஒரு செகண்ட் ஹேண்ட் பைக் வாங்கினான்.",
+  "context": "Telling a friend about a family purchase.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Simple past with 'last month'. 'Bought' is the irregular past of buy.",
+  "words": [
+   "bought",
+   "bike"
+  ]
+ },
+ {
+  "en": "Were you at the bank when I called?",
+  "tamil": "நான் கூப்பிட்டப்போ நீ பேங்க்ல இருந்தியா?",
+  "context": "Asking a friend where they were at the time of your call.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Past question with 'were' for you. Put 'were' before the subject.",
+  "words": [
+   "bank",
+   "called"
+  ]
+ },
+ {
+  "en": "I cooked dinner while my mother was watching TV.",
+  "tamil": "அம்மா டிவி பார்த்துக்கிட்டு இருந்தப்போ நான் ராத்திரி சாப்பாடு சமைச்சேன்.",
+  "context": "Describing how you helped at home yesterday.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Simple past for the finished action. 'Was watching' shows another action in progress.",
+  "words": [
+   "cooked",
+   "dinner",
+   "watching"
+  ]
+ },
+ {
+  "en": "The train was late, so we missed the first class.",
+  "tamil": "ரயில் லேட்டா வந்துச்சு, அதனால முதல் வகுப்பை தவற விட்டுட்டோம்.",
+  "context": "A student explaining to a teacher why they were late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Simple past for a reason and a result. 'So' connects the two past actions.",
+  "words": [
+   "train",
+   "late"
+  ],
+  "alt": {
+   "en": "The bus was late, so I missed the first class.",
+   "tamil": "பஸ் லேட்டா வந்துச்சு, அதனால முதல் வகுப்பை தவற விட்டுட்டேன்."
+  }
+ },
+ {
+  "en": "I met your sister at the temple yesterday.",
+  "tamil": "நேத்து கோயில்ல உன் அக்காவை பார்த்தேன்.",
+  "context": "Telling a friend you ran into their family member.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Simple past of meet is met. Use it for a finished event with 'yesterday'.",
+  "words": [
+   "met",
+   "sister",
+   "temple"
+  ]
+ },
+ {
+  "en": "I usually wake up at six and go for a walk.",
+  "tamil": "நான் வழக்கமா ஆறு மணிக்கு எழுந்து வாக்கிங் போவேன்.",
+  "context": "Talking about your morning routine.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Simple present with 'usually'. We use it for habits and daily routines.",
+  "words": [
+   "usually",
+   "walk"
+  ]
+ },
+ {
+  "en": "Does your office start at nine?",
+  "tamil": "உங்க ஆபீஸ் ஒன்பது மணிக்கு ஆரம்பிக்குமா?",
+  "context": "Asking a new friend about their work timings.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Simple present question with does + base verb. We use it for fixed timetables.",
+  "words": [
+   "office",
+   "start"
+  ]
+ },
+ {
+  "en": "My father doesn't drink coffee in the evening.",
+  "tamil": "அப்பா சாயங்காலம் காபி குடிக்க மாட்டார்.",
+  "context": "Telling a guest what your family drinks.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "Present negative for he/she/it uses doesn't + base verb. Do not add -s to 'drink'.",
+  "words": [
+   "father",
+   "coffee",
+   "evening"
+  ]
+ },
+ {
+  "en": "The shop opens at ten and closes at nine.",
+  "tamil": "கடை பத்து மணிக்கு தொறக்கும், ஒன்பது மணிக்கு மூடும்.",
+  "context": "Giving a neighbour the timings of a local shop.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Simple present for fixed timings. With he/she/it, the verb takes -s: opens, closes.",
+  "words": [
+   "opens",
+   "closes"
+  ]
+ },
+ {
+  "en": "I'm waiting for the auto outside the gate.",
+  "tamil": "நான் கேட்டுக்கு வெளியே ஆட்டோவுக்காக காத்துக்கிட்டு இருக்கேன்.",
+  "context": "Telling someone on the phone where you are right now.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous (am/is/are + verb-ing). We use it for something happening right now.",
+  "words": [
+   "waiting",
+   "auto",
+   "gate"
+  ],
+  "alt": {
+   "en": "I'm waiting for the bus near the signal.",
+   "tamil": "நான் சிக்னல் பக்கத்துல பஸ்ஸுக்காக காத்துக்கிட்டு இருக்கேன்."
+  }
+ },
+ {
+  "en": "Why are you standing outside the office?",
+  "tamil": "நீ ஏன் ஆபீசுக்கு வெளியில நின்னுட்டு இருக்க?",
+  "context": "Seeing a colleague waiting outside.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous can also talk about plans in the near future, like this weekend.",
+  "words": [
+   "standing",
+   "outside"
+  ]
+ },
+ {
+  "en": "Why are you laughing at me?",
+  "tamil": "நீ ஏன் என்னைப் பார்த்து சிரிக்கிற?",
+  "context": "Joking with a friend who keeps smiling at you.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous question: question word + are + subject + verb-ing. It asks about right now.",
+  "words": [
+   "laughing"
+  ]
+ },
+ {
+  "en": "The kids aren't studying; they are playing games.",
+  "tamil": "பசங்க படிக்கல; கேம் விளையாடிக்கிட்டு இருக்காங்க.",
+  "context": "A parent complaining about the children at home.",
+  "tense": "present-continuous",
+  "type": "negative",
+  "explain": "Present continuous negative uses aren't + verb-ing. It shows what is happening now.",
+  "words": [
+   "studying",
+   "playing",
+   "games"
+  ]
+ }
+]

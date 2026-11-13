@@ -1,0 +1,369 @@
+[
+ {
+  "en": "I wake up at five thirty every morning.",
+  "tamil": "நான் தினமும் காலைல அஞ்சரை மணிக்கு எழுந்துடுவேன்.",
+  "context": "Describing your daily wake-up time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use present simple for habits. 'Every morning' shows it happens daily.",
+  "words": [
+   "wake up"
+  ],
+  "usage": "Use it when a friend asks about your daily routine.",
+  "leelaQ": "What time do you wake up every morning?",
+  "answer": "I wake up at six o'clock every morning."
+ },
+ {
+  "en": "Did you brush your teeth before breakfast?",
+  "tamil": "காலை சாப்பாட்டுக்கு முன்னாடி பல் தேச்சியா?",
+  "context": "A parent checking on a child in the morning.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did' + base verb asks about a finished action in the past.",
+  "words": [
+   "brush"
+  ],
+  "usage": "Use it at home when you ask a child about morning habits.",
+  "leelaQ": "Do you brush your teeth before or after breakfast?",
+  "answer": "I brush my teeth before breakfast."
+ },
+ {
+  "en": "Please make a strong filter coffee for me.",
+  "tamil": "எனக்கு ஒரு ஸ்ட்ராங் ஃபில்டர் காபி போடுங்க.",
+  "context": "Asking a family member for morning coffee.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' + base verb makes a polite request. 'Strong' describes the coffee.",
+  "words": [
+   "strong",
+   "coffee"
+  ],
+  "usage": "Use it at home when you want coffee from someone in the family.",
+  "leelaQ": "How do you like your morning coffee or tea?",
+  "answer": "I like my tea with less sugar and more milk."
+ },
+ {
+  "en": "My mother is making idli for breakfast.",
+  "tamil": "அம்மா காலை டிபனுக்கு இட்லி செஞ்சுட்டு இருக்காங்க.",
+  "context": "Telling a friend what is cooking at home.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is making' shows an action happening right now.",
+  "words": [
+   "breakfast",
+   "idli"
+  ],
+  "usage": "Use it on a phone call when someone asks what is happening at home.",
+  "leelaQ": "What do you usually eat for breakfast?",
+  "answer": "I usually eat two idlis with chutney."
+ },
+ {
+  "en": "I will drop the kids at school today.",
+  "tamil": "இன்னைக்கு நான் குழந்தைகளை ஸ்கூல்ல விடுறேன்.",
+  "context": "Telling your spouse who will take the children to school.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' shows a decision or promise. 'Drop' means to leave someone at a place.",
+  "words": [
+   "drop",
+   "school"
+  ],
+  "usage": "Use it at home to share the morning plan with your family.",
+  "leelaQ": "Who takes the children to school in your house?",
+  "answer": "My husband takes them on his bike."
+ },
+ {
+  "en": "Why are you still sleeping when it is already seven?",
+  "tamil": "ஏற்கனவே ஏழு மணி ஆச்சு, நீ ஏன் இன்னும் தூங்குற?",
+  "context": "A mother waking up a lazy teenager.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Why are you ...ing?' asks the reason for something happening now. 'Already' shows surprise.",
+  "words": [
+   "still",
+   "already"
+  ],
+  "usage": "Use it at home when someone wakes up too late.",
+  "leelaQ": "Are you an early riser or a late sleeper?",
+  "answer": "I am a late sleeper, but I try to wake up early."
+ },
+ {
+  "en": "Don't forget to take your lunch box.",
+  "tamil": "உன் லஞ்ச் பாக்ஸ் எடுத்துட்டு போக மறந்துடாத.",
+  "context": "A parent reminding a child before leaving for school.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't' + base verb is a friendly warning. 'Take' means to carry with you.",
+  "words": [
+   "forget",
+   "lunch box"
+  ],
+  "usage": "Use it at the door when someone is leaving in a hurry.",
+  "leelaQ": "What do you carry in your bag every day?",
+  "answer": "I carry my lunch box, a water bottle and my phone."
+ },
+ {
+  "en": "I catch the 8:15 bus to office.",
+  "tamil": "நான் எட்டு பதினஞ்சு பஸ்ல ஆபீஸ் போவேன்.",
+  "context": "Telling a colleague how you commute.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Catch' a bus means to get on it in time. Present simple is used for a regular routine.",
+  "words": [
+   "catch",
+   "bus"
+  ],
+  "usage": "Use it when a coworker asks how you come to work.",
+  "leelaQ": "How do you go to your office or college?",
+  "answer": "I go by bus because it is cheap and direct."
+ },
+ {
+  "en": "The bus was so crowded this morning that I stood all the way.",
+  "tamil": "இன்னைக்கு காலைல பஸ் ரொம்ப கூட்டமா இருந்துச்சு, முழு வழியும் நின்னுக்கிட்டே வந்தேன்.",
+  "context": "Telling a colleague about a crowded morning bus.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'So ... that' shows a result. 'All the way' means for the whole journey.",
+  "words": [
+   "crowded",
+   "stood"
+  ],
+  "usage": "Use it at office when you reach tired after a bus ride.",
+  "leelaQ": "How do you usually travel to work or college?",
+  "answer": "I usually go by bus, and sometimes it is very crowded."
+ },
+ {
+  "en": "Can you give me a lift to the railway station?",
+  "tamil": "என்னை ரயில்வே ஸ்டேஷன்ல விட முடியுமா?",
+  "context": "Asking a neighbour for a ride on a bike or car.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you ...?' asks for help. A 'lift' means a free ride.",
+  "words": [
+   "lift",
+   "railway station"
+  ],
+  "usage": "Use it with a neighbour or friend when you are late for the train.",
+  "leelaQ": "Who gives you a lift when you are in a hurry?",
+  "answer": "My brother gives me a lift on his scooter."
+ },
+ {
+  "en": "I always keep my keys near the door.",
+  "tamil": "நான் எப்பவுமே என் சாவியை கதவு பக்கத்துலயே வெச்சுப்பேன்.",
+  "context": "Explaining a good habit to a family member.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Always' goes before the main verb and shows a habit.",
+  "words": [
+   "keys",
+   "always"
+  ],
+  "usage": "Use it when someone asks where things are kept at home.",
+  "leelaQ": "Where do you keep your house keys?",
+  "answer": "I keep them in a small bowl near the door."
+ },
+ {
+  "en": "Have you switched off the gas?",
+  "tamil": "நீ கேஸ் ஆஃப் பண்ணிட்டியா?",
+  "context": "Asking before leaving the house.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "Present perfect asks if an action is finished and matters now. 'Switch off' means to stop a machine.",
+  "words": [
+   "switched off",
+   "gas"
+  ],
+  "usage": "Use it before locking the house and leaving for work.",
+  "leelaQ": "What do you check before you leave your house?",
+  "answer": "I check the gas, the fans and the lights."
+ },
+ {
+  "en": "I am not going to cook tonight.",
+  "tamil": "நான் இன்னைக்கு ராத்திரி சமைக்கப் போறதில்ல.",
+  "context": "Telling your family you want a day off from cooking.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Am not going to' shows a plan you have already decided. 'Tonight' means this evening.",
+  "words": [
+   "cook",
+   "tonight"
+  ],
+  "usage": "Use it at home when you are tired and want to order food.",
+  "leelaQ": "Do you like cooking at home?",
+  "answer": "Yes, I enjoy cooking on weekends with my family."
+ },
+ {
+  "en": "Could you please put the clothes in the washing machine?",
+  "tamil": "துணிகளை வாஷிங் மெஷின்ல போட முடியுமா?",
+  "context": "Asking your sister to help with laundry.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you please ...?' is very polite. 'Put in' means to place inside.",
+  "words": [
+   "clothes",
+   "washing machine"
+  ],
+  "usage": "Use it at home when you share chores with family.",
+  "leelaQ": "Who does the laundry in your house?",
+  "answer": "My mother does the laundry, and I dry the clothes."
+ },
+ {
+  "en": "She sweeps and mops the floor every evening.",
+  "tamil": "அவ தினமும் சாயங்காலம் வீட்டை பெருக்கி துடைப்பா.",
+  "context": "Describing a family member's daily chore.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "With 'she', the verb takes -s: sweeps, mops. Present simple shows a routine.",
+  "words": [
+   "sweeps",
+   "mops"
+  ],
+  "usage": "Use it when you describe who does which chore at home.",
+  "leelaQ": "Which household chore do you dislike the most?",
+  "answer": "I dislike washing the dishes the most."
+ },
+ {
+  "en": "The maid did not come today.",
+  "tamil": "இன்னைக்கு வேலைக்காரம்மா வரல.",
+  "context": "Telling your family that the house help is absent.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not' + base verb makes a negative past sentence. 'Maid' is common in Indian homes.",
+  "words": [
+   "maid"
+  ],
+  "usage": "Use it at home to explain why chores are pending.",
+  "leelaQ": "What do you do when the house help is on leave?",
+  "answer": "I share the work with my family and finish it quickly."
+ },
+ {
+  "en": "What are we having for dinner tonight?",
+  "tamil": "இன்னைக்கு ராத்திரி சாப்பாட்டுக்கு என்ன?",
+  "context": "Asking your mother or wife about dinner.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Are we having' talks about a plan for the near future. 'Having' also means eating.",
+  "words": [
+   "dinner"
+  ],
+  "usage": "Use it at home in the evening before dinner time.",
+  "leelaQ": "What is your favourite dinner at home?",
+  "answer": "My favourite dinner is hot dosa with sambar."
+ },
+ {
+  "en": "I'll take the water can down to the shop.",
+  "tamil": "நான் வாட்டர் கேனை கடைக்கு எடுத்துட்டு போறேன்.",
+  "context": "Offering to get drinking water refilled.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll' is the short form of 'I will'. It is used to offer help.",
+  "words": [
+   "water can"
+  ],
+  "usage": "Use it at home when you offer to do a small chore.",
+  "leelaQ": "Do you buy drinking water cans or use a filter?",
+  "answer": "We use a water filter at home."
+ },
+ {
+  "en": "Wake me up at six tomorrow, please.",
+  "tamil": "நாளைக்கு ஆறு மணிக்கு என்னை எழுப்பி விடுங்க, ப்ளீஸ்.",
+  "context": "Asking a family member to wake you up.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Wake me up' puts the object 'me' in the middle. 'Please' makes it polite.",
+  "words": [
+   "wake me up"
+  ],
+  "usage": "Use it at night when you have an early start the next day.",
+  "leelaQ": "Do you use an alarm or does someone wake you up?",
+  "answer": "I use an alarm on my phone."
+ },
+ {
+  "en": "There is a power cut again.",
+  "tamil": "திரும்பவும் கரண்ட் கட் ஆயிடுச்சு.",
+  "context": "Reacting to a sudden power failure at home.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'There is' introduces something that exists now. 'Power cut' is the Indian English word for no electricity.",
+  "words": [
+   "power cut"
+  ],
+  "usage": "Use it at home or office when the electricity goes off.",
+  "leelaQ": "What do you do during a power cut?",
+  "answer": "I light a candle and talk with my family."
+ },
+ {
+  "en": "Do you walk or go by auto to the market?",
+  "tamil": "நீ மார்க்கெட்டுக்கு நடந்து போவியா, இல்ல ஆட்டோலயா?",
+  "context": "Asking a neighbour how they go shopping.",
+  "tense": "present",
+  "type": "question",
+  "explain": "This question gives two choices joined with 'or'. 'By auto' means in an autorickshaw.",
+  "words": [
+   "market",
+   "auto"
+  ],
+  "usage": "Use it with a neighbour or friend to plan a shopping trip.",
+  "leelaQ": "How do you go to the market near your house?",
+  "answer": "I walk because it is only ten minutes away."
+ },
+ {
+  "en": "I have already finished my homework.",
+  "tamil": "நான் ஏற்கனவே என் ஹோம்வொர்க் முடிச்சுட்டேன்.",
+  "context": "A child telling a parent about school work.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have finished' shows the work is complete now. 'Already' means earlier than expected.",
+  "words": [
+   "homework",
+   "finished"
+  ],
+  "usage": "Use it at home when your parent asks about studies.",
+  "leelaQ": "When do you finish your homework or office work?",
+  "answer": "I finish it before dinner every day."
+ },
+ {
+  "en": "Switch off the TV and come to eat.",
+  "tamil": "டிவியை ஆஃப் பண்ணிட்டு சாப்பிட வா.",
+  "context": "A mother calling a child to the dining table.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Two commands joined with 'and'. 'Come to eat' is a natural way to call someone.",
+  "words": [
+   "switch off",
+   "eat"
+  ],
+  "usage": "Use it at home when food is ready and someone is watching TV.",
+  "leelaQ": "What do you watch on TV in the evening?",
+  "answer": "I watch cricket and the news after dinner."
+ },
+ {
+  "en": "I was watering the plants when you called.",
+  "tamil": "நீ கூப்பிட்டப்போ நான் செடிக்கு தண்ணி ஊத்திட்டு இருந்தேன்.",
+  "context": "Explaining why you missed a phone call.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past continuous 'was watering' shows an action in progress when another one happened.",
+  "words": [
+   "watering",
+   "plants"
+  ],
+  "usage": "Use it to explain what you were doing when someone called.",
+  "leelaQ": "Do you have plants at home?",
+  "answer": "Yes, I have a small tulsi plant and some flowers."
+ },
+ {
+  "en": "Is the milkman coming today?",
+  "tamil": "இன்னைக்கு பால்காரர் வருவாரா?",
+  "context": "Asking your family about the daily milk delivery.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Is ... coming' asks about a planned arrival. 'Milkman' brings milk to your door.",
+  "words": [
+   "milkman"
+  ],
+  "usage": "Use it at home in the early morning when you need milk for tea.",
+  "leelaQ": "Where do you get your milk from every day?",
+  "answer": "I get packet milk from the shop near my house."
+ }
+]

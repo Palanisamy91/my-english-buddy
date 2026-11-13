@@ -1,0 +1,365 @@
+[
+ {
+  "en": "Many people have said that this app is very useful.",
+  "tamil": "இந்த ஆப் ரொம்ப பயனுள்ளதுன்னு நிறைய பேர் சொல்லியிருக்காங்க.",
+  "context": "Recommending an app.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have said' is used when something was said before and it still matters now.",
+  "words": [
+   "useful"
+  ],
+  "usage": "Use it when you suggest a good app or tool to a friend or a colleague.",
+  "leelaQ": "Which app do you find very useful?",
+  "answer": "I find a map app very useful because I travel a lot."
+ },
+ {
+  "en": "Did you like the movie as much as I did?",
+  "tamil": "நான் ரசிச்ச அளவுக்கு நீங்களும் படத்தை ரசிச்சீங்களா?",
+  "context": "Comparing feelings about a movie.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'As much as' compares two equal things.",
+  "words": [
+   "movie"
+  ],
+  "usage": "Ask it right after you watch a film together.",
+  "leelaQ": "What was the last movie you really liked?",
+  "answer": "I really liked a comedy film because it made everyone laugh."
+ },
+ {
+  "en": "You have made a good choice with this laptop.",
+  "tamil": "இந்த லேப்டாப் நீங்க நல்லா தேர்ந்தெடுத்திருக்கீங்க.",
+  "context": "Praising a friend's purchase.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have made a good choice' praises something the person has just done.",
+  "words": [
+   "good choice"
+  ],
+  "usage": "Say it when a friend or a customer shows you something new they bought.",
+  "leelaQ": "What was your best purchase this year?",
+  "answer": "My best purchase was a pair of good shoes for walking."
+ },
+ {
+  "en": "I would rather stay at home on Sunday.",
+  "tamil": "ஞாயிற்றுக்கிழமை நான் வீட்லயே இருக்கத்தான் விரும்புவேன்.",
+  "context": "Declining outing plans politely.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Would rather' + verb means you prefer one thing over another.",
+  "words": [
+   "rather",
+   "stay at home"
+  ],
+  "usage": "Use it when friends plan an outing and you want a quiet day.",
+  "leelaQ": "What would you rather do on a free Sunday?",
+  "answer": "I would rather sleep late and watch a movie on a free Sunday."
+ },
+ {
+  "en": "Could you share your opinion on this draft?",
+  "tamil": "இந்த டிராஃப்ட் பத்தி உங்க கருத்தை சொல்ல முடியுமா?",
+  "context": "Asking a colleague for feedback.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Share your opinion' is a formal and polite phrase for feedback.",
+  "words": [
+   "share",
+   "draft"
+  ],
+  "usage": "Use it at work when you send a document or an email for review.",
+  "leelaQ": "Who do you ask for feedback on your work?",
+  "answer": "I ask my senior colleague because she gives clear suggestions."
+ },
+ {
+  "en": "This song is nicer than the old one.",
+  "tamil": "இந்த பாட்டு பழசை விட அழகா இருக்கு.",
+  "context": "Comparing two songs.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Nicer than' compares two things. We use 'than' after a comparative.",
+  "words": [
+   "nicer"
+  ],
+  "usage": "Use it in a friendly chat about music or films.",
+  "leelaQ": "What kind of songs do you enjoy most?",
+  "answer": "I enjoy melody songs because they make me feel calm."
+ },
+ {
+  "en": "I will never choose cheap quality over safety.",
+  "tamil": "நான் பாதுகாப்பை விட்டுட்டு மலிவான தரத்தை எப்பவும் தேர்ந்தெடுக்க மாட்டேன்.",
+  "context": "Stating a firm principle.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Never' is a strong negative word. 'Will never' shows a firm decision.",
+  "words": [
+   "never",
+   "safety"
+  ],
+  "usage": "Use it when you talk about helmets, electrical items or children's products.",
+  "leelaQ": "What is one thing you will never compromise on?",
+  "answer": "I will never compromise on safety when I buy a helmet."
+ },
+ {
+  "en": "Our team did a great job this month.",
+  "tamil": "இந்த மாசம் நம்ம டீம் சூப்பரா வேலை செஞ்சாங்க.",
+  "context": "Praising your team.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Did a great job' is a common phrase for praise at work.",
+  "words": [
+   "great job"
+  ],
+  "usage": "Say it to colleagues or your manager at the end of a busy month.",
+  "leelaQ": "What was the last great job you did at work or school?",
+  "answer": "I finished my project on time, and my teacher was very happy."
+ },
+ {
+  "en": "Why did you choose this college?",
+  "tamil": "நீங்க ஏன் இந்த காலேஜை தேர்ந்தெடுத்தீங்க?",
+  "context": "Asking a reason for a choice.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Why did you choose...?' asks for the reason behind a past decision.",
+  "words": [
+   "choose",
+   "college"
+  ],
+  "usage": "Use it when you meet a new classmate or a junior student.",
+  "leelaQ": "Why did you choose your school or college?",
+  "answer": "I chose it because it was near my house and had good teachers."
+ },
+ {
+  "en": "I am going to vote for the second plan.",
+  "tamil": "நான் ரெண்டாவது திட்டத்துக்கு தான் ஓட்டு போடப் போறேன்.",
+  "context": "Saying which plan you will support.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' shows a decision you have already made.",
+  "words": [
+   "vote"
+  ],
+  "usage": "Use it in a group decision, such as a college club or a housing society meeting.",
+  "leelaQ": "How do you decide when you vote for something?",
+  "answer": "I read about each choice and then I vote for the best one."
+ },
+ {
+  "en": "Compared to Bangalore, Coimbatore is calmer and cleaner.",
+  "tamil": "பெங்களூரோட ஒப்பிட்டா கோயம்புத்தூர் அமைதியாவும் சுத்தமாவும் இருக்கு.",
+  "context": "Comparing two cities.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Compared to' starts a comparison. 'Calmer' and 'cleaner' are comparatives.",
+  "words": [
+   "compared to",
+   "calmer"
+  ],
+  "usage": "Use it when you tell friends about two cities you know.",
+  "leelaQ": "Which city do you find calmer, and why?",
+  "answer": "I find my small town calmer because there is less traffic."
+ },
+ {
+  "en": "Have you tried both shops to compare their prices?",
+  "tamil": "விலையை ஒப்பிட நீங்க ரெண்டு கடையிலயும் பார்த்தீங்களா?",
+  "context": "Asking if someone compared prices.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you tried...?' asks about an experience up to now.",
+  "words": [
+   "compare",
+   "prices"
+  ],
+  "usage": "Ask it when a friend complains about a high price.",
+  "leelaQ": "Do you compare prices before you buy things?",
+  "answer": "Yes, I compare prices in two shops before I buy something big."
+ },
+ {
+  "en": "That is exactly what I was thinking.",
+  "tamil": "நானும் சரியா அதே தான் யோசிச்சுட்டு இருந்தேன்.",
+  "context": "Agreeing with someone's exact words.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Exactly' shows full agreement. 'Was thinking' is a past continuous feeling.",
+  "words": [
+   "exactly"
+  ],
+  "usage": "Say it when a friend says the same thing you had in mind.",
+  "leelaQ": "When did a friend say exactly what you were thinking?",
+  "answer": "My friend said we should go home early, and I was thinking the same."
+ },
+ {
+  "en": "Try the new route tomorrow, it is much faster.",
+  "tamil": "நாளைக்கு புது ரூட்ல போய் பாருங்க, அது ரொம்ப வேகம்.",
+  "context": "Recommending a quicker way.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "A command with a reason sounds friendly: 'Try this, it is faster.'",
+  "words": [
+   "route"
+  ],
+  "usage": "Say it to a friend or a driver who is stuck in daily traffic.",
+  "leelaQ": "What is the fastest way to reach your office or college?",
+  "answer": "The fastest way is the bypass road, but the metro is also quick."
+ },
+ {
+  "en": "The main reason I like walking is that it is free.",
+  "tamil": "நான் நடக்கிறது பிடிக்க முக்கிய காரணம், அது இலவசம்.",
+  "context": "Giving the main reason for a habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'The main reason is that...' gives a clear reason in one sentence.",
+  "words": [
+   "main reason",
+   "walking"
+  ],
+  "usage": "Use it when someone asks why you walk or cycle to work.",
+  "leelaQ": "What is the main reason you like your favourite hobby?",
+  "answer": "The main reason I like cycling is that it keeps me fit."
+ },
+ {
+  "en": "Both options are fine, but I lean towards the cheaper one.",
+  "tamil": "ரெண்டு ஆப்ஷனும் நல்லது தான், ஆனா நான் விலை குறைவானது பக்கம் சாயுறேன்.",
+  "context": "Choosing between two good options.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Lean towards' means you slightly prefer one choice.",
+  "words": [
+   "lean towards"
+  ],
+  "usage": "Use it when you must pick between two good choices and the price decides it.",
+  "leelaQ": "What helps you decide between two good choices?",
+  "answer": "The price and the quality help me decide between two choices."
+ },
+ {
+  "en": "Which is more useful for students, a tablet or a laptop?",
+  "tamil": "மாணவர்களுக்கு டேப்லெட்டா, லேப்டாப்பா எது அதிக பயனுள்ளது?",
+  "context": "Asking for advice on a device.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'More useful' compares two things. 'Which' is for a small set of choices.",
+  "words": [
+   "useful",
+   "students"
+  ],
+  "usage": "Ask it when you help a student or a parent choose a gadget.",
+  "leelaQ": "What device do you use most for studying or work?",
+  "answer": "I use my laptop most because it is easy for typing."
+ },
+ {
+  "en": "I was wrong earlier, your idea is better.",
+  "tamil": "நான் முன்னாடி தப்பா சொல்லிட்டேன், உங்க ஐடியா தான் நல்லது.",
+  "context": "Accepting that someone else was right.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Saying 'I was wrong' with a calm voice shows maturity and respect.",
+  "words": [
+   "wrong earlier"
+  ],
+  "usage": "Use it at work or at home when you change your mind after a discussion.",
+  "leelaQ": "Have you ever changed your mind after hearing someone's idea?",
+  "answer": "Yes, I changed my mind when my friend explained his plan clearly."
+ },
+ {
+  "en": "I do not like spicy food as much as you do.",
+  "tamil": "உங்களை மாதிரி எனக்கு காரமான சாப்பாடு அவ்வளவா பிடிக்காது.",
+  "context": "Comparing food tastes.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not as much as' compares two people when one likes something less.",
+  "words": [
+   "spicy"
+  ],
+  "usage": "Use it at a restaurant or a family lunch when your taste is different.",
+  "leelaQ": "How spicy do you like your food?",
+  "answer": "I like medium spicy food, not too hot."
+ },
+ {
+  "en": "I think we should ask the manager before deciding.",
+  "tamil": "முடிவு எடுக்கிறதுக்கு முன்னாடி மேனேஜர்கிட்ட கேட்கணும்னு நினைக்கிறேன்.",
+  "context": "Suggesting to check with the boss.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'We should' gives a soft suggestion. 'Before deciding' means first, then decide.",
+  "words": [
+   "manager",
+   "deciding"
+  ],
+  "usage": "Use it in a team discussion when nobody is sure about a decision.",
+  "leelaQ": "Who do you ask when you cannot decide something?",
+  "answer": "I usually ask my elder brother because he gives good advice."
+ },
+ {
+  "en": "Please listen to my idea once before you say no.",
+  "tamil": "வேண்டாம்னு சொல்றதுக்கு முன்னாடி என் ஐடியாவை ஒரு தடவை கேளுங்க.",
+  "context": "Asking someone to hear you out.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Once' here means 'just one time'. 'Before you say no' makes the request gentle.",
+  "words": [
+   "idea",
+   "listen"
+  ],
+  "usage": "Use it with a boss or a parent who may reject your suggestion.",
+  "leelaQ": "Have you ever convinced someone with a good idea?",
+  "answer": "Yes, I convinced my father to buy a laptop by explaining my need."
+ },
+ {
+  "en": "My friends are saying that the new mall is crowded.",
+  "tamil": "புது மால் கூட்டமா இருக்குன்னு என் நண்பர்கள் சொல்லிட்டு இருக்காங்க.",
+  "context": "Passing on what friends say.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Are saying' shares what people say these days.",
+  "words": [
+   "crowded"
+  ],
+  "usage": "Use it when you share what others think before making a plan.",
+  "leelaQ": "What are people saying about your favourite restaurant?",
+  "answer": "People are saying that it has tasty biryani and quick service."
+ },
+ {
+  "en": "Working from home suits me because I save travel time.",
+  "tamil": "வீட்டுல இருந்து வேலை செய்றது எனக்கு ஒத்து வருது, ஏன்னா பயண நேரம் மிச்சமாகுது.",
+  "context": "Giving a reason for liking remote work.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Suits me' means something is right for you personally.",
+  "words": [
+   "suits",
+   "travel time"
+  ],
+  "usage": "Use it in office talks about work from home or hybrid work.",
+  "leelaQ": "Does working from home suit you, or do you prefer the office?",
+  "answer": "It suits me because I can start work earlier without any traffic."
+ },
+ {
+  "en": "Will you vote for Ravi in the class election?",
+  "tamil": "க்ளாஸ் எலக்ஷன்ல நீ ரவிக்கு ஓட்டு போடுவியா?",
+  "context": "Asking a classmate about voting.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will you...?' asks about a future decision.",
+  "words": [
+   "vote",
+   "election"
+  ],
+  "usage": "Ask it among classmates or club members before a vote.",
+  "leelaQ": "Who would be a good class leader, and why?",
+  "answer": "A good class leader is someone friendly who listens to everyone."
+ },
+ {
+  "en": "It seems to me that the price is quite fair.",
+  "tamil": "எனக்கு என்னவோ விலை நியாயமா தான் தெரியுது.",
+  "context": "Giving a careful opinion about price.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'It seems to me' is a careful, polite way to give an opinion.",
+  "words": [
+   "seems",
+   "fair"
+  ],
+  "usage": "Use it when you talk about a price with a seller or a friend.",
+  "leelaQ": "What do you do when a price seems fair to you?",
+  "answer": "When a price seems fair, I buy the thing without bargaining much."
+ }
+]

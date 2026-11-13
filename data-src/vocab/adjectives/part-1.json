@@ -1,0 +1,352 @@
+[
+ {
+  "word": "tired",
+  "meaning": "Needing rest or sleep because you did a lot of work.",
+  "tamil": "களைப்பான், சோர்வான்",
+  "pos": "adjective",
+  "pron": "TY-urd",
+  "example": "I was very tired after the long bus journey.",
+  "exampleTamil": "நீண்ட பேருந்துப் பயணத்துக்குப் பிறகு நான் ரொம்ப களைப்பா இருந்தேன்.",
+  "synonyms": [
+   "exhausted",
+   "weary"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "empty",
+  "meaning": "Having nothing inside.",
+  "tamil": "காலியான",
+  "pos": "adjective",
+  "pron": "EMP-tee",
+  "example": "The water bottle is empty, so please fill it.",
+  "exampleTamil": "தண்ணீர் பாட்டில் காலியா இருக்கு, தயவுசெய்து நிரப்புங்க.",
+  "synonyms": [
+   "vacant",
+   "bare"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dirty",
+  "meaning": "Not clean; covered with dust, mud or stains.",
+  "tamil": "அழுக்கான",
+  "pos": "adjective",
+  "pron": "DUR-tee",
+  "example": "Your shoes are dirty, so leave them outside.",
+  "exampleTamil": "உன் செருப்பு அழுக்கா இருக்கு, வெளியே விடு.",
+  "synonyms": [
+   "filthy",
+   "unclean"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "heavy",
+  "meaning": "Weighing a lot; hard to lift or carry.",
+  "tamil": "கனமான",
+  "pos": "adjective",
+  "pron": "HEH-vee",
+  "example": "This bag is too heavy for me to carry.",
+  "exampleTamil": "இந்தப் பை நான் தூக்க முடியாத அளவுக்கு கனமா இருக்கு.",
+  "synonyms": [
+   "weighty",
+   "hefty"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sharp",
+  "meaning": "Having a very thin edge or point that can cut easily.",
+  "tamil": "கூர்மையான",
+  "pos": "adjective",
+  "pron": "SHARP",
+  "example": "Be careful, this knife is very sharp.",
+  "exampleTamil": "கவனமா இருங்க, இந்தக் கத்தி ரொம்ப கூர்மையா இருக்கு.",
+  "synonyms": [
+   "pointed",
+   "keen"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "smooth",
+  "meaning": "Even and flat on the surface, with no bumps.",
+  "tamil": "வழவழப்பான், மென்மையான",
+  "pos": "adjective",
+  "pron": "SMOOTH",
+  "example": "The new road is smooth and easy to drive on.",
+  "exampleTamil": "புதிய சாலை வழவழப்பா இருக்கு, ஓட்டுவதற்கு எளிது.",
+  "synonyms": [
+   "even",
+   "silky"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rough",
+  "meaning": "Not smooth; uneven or bumpy to touch or travel on.",
+  "tamil": "கரடுமுரடான",
+  "pos": "adjective",
+  "pron": "RUF",
+  "example": "The village road was rough and full of stones.",
+  "exampleTamil": "கிராமத்துச் சாலை கரடுமுரடா, கல்லா இருந்தது.",
+  "synonyms": [
+   "bumpy",
+   "uneven"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "soft",
+  "meaning": "Not hard; pleasant and gentle to touch.",
+  "tamil": "மிருதுவான",
+  "pos": "adjective",
+  "pron": "SOFT",
+  "example": "This pillow is so soft that I slept well.",
+  "exampleTamil": "இந்தத் தலையணை ரொம்ப மிருதுவா இருக்கு, அதனால நல்லா தூங்கினேன்.",
+  "synonyms": [
+   "fluffy",
+   "tender"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "risky",
+  "meaning": "Likely to cause danger or a loss.",
+  "tamil": "ஆபத்தான",
+  "pos": "adjective",
+  "pron": "RIS-kee",
+  "example": "It is risky to cross the road without looking.",
+  "exampleTamil": "பார்க்காம சாலையைக் கடக்கிறது ஆபத்து.",
+  "synonyms": [
+   "dangerous",
+   "unsafe"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sweet",
+  "meaning": "Having the taste of sugar.",
+  "tamil": "இனிப்பான",
+  "pos": "adjective",
+  "pron": "SWEET",
+  "example": "The payasam was too sweet for my taste.",
+  "exampleTamil": "பாயசம் எனக்கு ரொம்ப இனிப்பா இருந்தது.",
+  "synonyms": [
+   "sugary",
+   "honeyed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "freezing",
+  "meaning": "Extremely cold.",
+  "tamil": "உறைய வைக்கும் குளிரான",
+  "pos": "adjective",
+  "pron": "FREE-zing",
+  "example": "It is freezing in Ooty in December.",
+  "exampleTamil": "டிசம்பர்ல ஊட்டியில கடுமையான குளிரா இருக்கும்.",
+  "synonyms": [
+   "icy",
+   "very cold"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gloomy",
+  "meaning": "Dark and sad; with little light or cheer.",
+  "tamil": "இருண்ட, மந்தமான",
+  "pos": "adjective",
+  "pron": "GLOO-mee",
+  "example": "The weather was gloomy all morning.",
+  "exampleTamil": "காலை முழுக்க வானிலை மந்தமா இருந்தது.",
+  "synonyms": [
+   "dull",
+   "dark"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "windy",
+  "meaning": "With a lot of wind.",
+  "tamil": "காற்றடிக்கும்",
+  "pos": "adjective",
+  "pron": "WIN-dee",
+  "example": "It is windy today, so hold your papers tight.",
+  "exampleTamil": "இன்னிக்குக் காத்து அதிகமா அடிக்குது, உன் பேப்பரை இறுக்கிப் பிடி.",
+  "synonyms": [
+   "breezy",
+   "blowy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "noisy",
+  "meaning": "Making a lot of loud sound.",
+  "tamil": "சத்தமான",
+  "pos": "adjective",
+  "pron": "NOY-zee",
+  "example": "The market is very noisy in the evening.",
+  "exampleTamil": "சந்தை மாலையில ரொம்ப சத்தமா இருக்கும்.",
+  "synonyms": [
+   "loud",
+   "rowdy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "comfortable",
+  "meaning": "Giving a feeling of ease, with no pain or worry.",
+  "tamil": "வசதியான, சௌகரியமான",
+  "pos": "adjective",
+  "pron": "KUM-fter-bul",
+  "example": "This chair is really comfortable for long work hours.",
+  "exampleTamil": "நீண்ட நேரம் வேலை செய்ய இந்த நாற்காலி ரொம்ப வசதியா இருக்கு.",
+  "synonyms": [
+   "cosy",
+   "relaxing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "helpful",
+  "meaning": "Ready to help or useful.",
+  "tamil": "உதவியான",
+  "pos": "adjective",
+  "pron": "HELP-ful",
+  "example": "Your neighbour is very helpful when we need something.",
+  "exampleTamil": "நமக்கு ஏதாவது தேவைன்னா உன் பக்கத்து வீட்டுக்காரர் ரொம்ப உதவியா இருப்பார்.",
+  "synonyms": [
+   "supportive",
+   "useful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "careless",
+  "meaning": "Not paying enough attention, so you make mistakes.",
+  "tamil": "அலட்சியமான, கவனக்குறைவான",
+  "pos": "adjective",
+  "pron": "KAIR-lis",
+  "example": "He made a careless mistake in the bill.",
+  "exampleTamil": "அவர் பில்லில் கவனக்குறைவா ஒரு தப்பு பண்ணிட்டார்.",
+  "synonyms": [
+   "sloppy",
+   "thoughtless"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "strict",
+  "meaning": "Making people follow rules firmly.",
+  "tamil": "கண்டிப்பான",
+  "pos": "adjective",
+  "pron": "STRIKT",
+  "example": "Our maths teacher was very strict about homework.",
+  "exampleTamil": "எங்க கணக்கு வாத்தியார் ஹோம்வொர்க்ல ரொம்ப கண்டிப்பா இருந்தார்.",
+  "synonyms": [
+   "firm",
+   "severe"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gentle",
+  "meaning": "Soft and kind, not rough or angry.",
+  "tamil": "மென்மையான, சாந்தமான",
+  "pos": "adjective",
+  "pron": "JEN-tul",
+  "example": "Please be gentle with the baby.",
+  "exampleTamil": "குழந்தையிடம் மென்மையா நடந்துக்கோங்க.",
+  "synonyms": [
+   "mild",
+   "tender"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "upset",
+  "meaning": "Unhappy or worried because something bad happened.",
+  "tamil": "மனம் வருந்திய, கலக்கமான",
+  "pos": "adjective",
+  "pron": "up-SET",
+  "example": "She was upset because nobody called on her birthday.",
+  "exampleTamil": "பிறந்தநாளுக்கு யாரும் போன் பண்ணாததால அவ மனசு வருத்தப்பட்டா.",
+  "synonyms": [
+   "unhappy",
+   "hurt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "relaxed",
+  "meaning": "Calm and free from worry or stress.",
+  "tamil": "நிம்மதியான, ஓய்வான",
+  "pos": "adjective",
+  "pron": "ri-LAKST",
+  "example": "I feel relaxed on Sunday afternoons.",
+  "exampleTamil": "ஞாயிற்றுக்கிழமை மதியம் நான் நிம்மதியா உணர்றேன்.",
+  "synonyms": [
+   "at ease",
+   "calm"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "narrow",
+  "meaning": "Small in width; not wide.",
+  "tamil": "குறுகலான",
+  "pos": "adjective",
+  "pron": "NA-roh",
+  "example": "The lane to our house is very narrow.",
+  "exampleTamil": "எங்க வீட்டுக்குப் போற தெரு ரொம்ப குறுகலா இருக்கு.",
+  "synonyms": [
+   "thin",
+   "tight"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bright",
+  "meaning": "Giving a lot of light, or strong in colour.",
+  "tamil": "பிரகாசமான",
+  "pos": "adjective",
+  "pron": "BRYT",
+  "example": "The room is bright because of the big windows.",
+  "exampleTamil": "பெரிய ஜன்னல்கள் இருக்கிறதால அறை பிரகாசமா இருக்கு.",
+  "synonyms": [
+   "shining",
+   "vivid"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dull",
+  "meaning": "Not bright or interesting; lacking energy.",
+  "tamil": "மங்கலான, சலிப்பான",
+  "pos": "adjective",
+  "pron": "DUL",
+  "example": "The colour of this shirt looks dull.",
+  "exampleTamil": "இந்தச் சட்டையின் நிறம் மங்கலா தெரியுது.",
+  "synonyms": [
+   "faded",
+   "boring"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "moody",
+  "meaning": "Having moods that change quickly, often sad or angry.",
+  "tamil": "மனநிலை மாறும், முசுடான",
+  "pos": "adjective",
+  "pron": "MOO-dee",
+  "example": "My brother gets moody when he is hungry.",
+  "exampleTamil": "என் தம்பி பசிச்சா முசுடா ஆயிடுவான்.",
+  "synonyms": [
+   "temperamental",
+   "sulky"
+  ],
+  "level": "advanced"
+ }
+]

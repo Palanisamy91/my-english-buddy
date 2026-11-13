@@ -1,0 +1,352 @@
+[
+ {
+  "en": "I have enclosed my resume and two reference letters.",
+  "tamil": "என் ரெஸ்யூம் மற்றும் ரெண்டு பரிந்துரை கடிதங்களை இணைச்சிருக்கேன்.",
+  "context": "Applying for a job by email.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Enclosed' is formal for 'attached'. Present perfect shows the action is done now.",
+  "words": [
+   "enclosed"
+  ],
+  "usage": "Use it in a job application email.",
+  "leelaQ": "What documents do you need for a job application?",
+  "answer": "I need my resume, certificates and reference letters."
+ },
+ {
+  "en": "Would it be possible to reschedule our call to next Tuesday?",
+  "tamil": "எங்க அழைப்பை அடுத்த செவ்வாய்க்கு மாத்த முடியுமா?",
+  "context": "Asking to change a meeting time.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would it be possible to' is a polite, indirect way to ask for a change.",
+  "words": [
+   "reschedule"
+  ],
+  "usage": "Use it when you cannot keep an appointment time.",
+  "leelaQ": "What do you say when you need to change a time?",
+  "answer": "I ask if it would be possible to reschedule."
+ },
+ {
+  "en": "Thank you for your support, and I wish you all the best.",
+  "tamil": "உங்க ஆதரவுக்கு நன்றி, உங்களுக்கு எல்லா நலனும் கிடைக்க வாழ்த்தறேன்.",
+  "context": "Saying goodbye when leaving a job.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'I wish you all the best' is a warm, formal goodbye. It leaves a good impression.",
+  "words": [
+   "support"
+  ],
+  "usage": "Use it in a farewell email to colleagues or a boss.",
+  "leelaQ": "Whom would you thank when you leave a job?",
+  "answer": "I would thank my manager and my team for their help."
+ },
+ {
+  "en": "What if we moved the launch to the first week of December?",
+  "tamil": "நாம வெளியீட்டை டிசம்பர் முதல் வாரத்துக்கு மாத்தினா என்ன?",
+  "context": "Suggesting a new idea.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'What if' introduces a possible idea. It invites others to give opinions.",
+  "words": [
+   "launch"
+  ],
+  "usage": "Use it in a brainstorming session.",
+  "leelaQ": "What idea would you suggest for your team?",
+  "answer": "I would suggest a short meeting every Monday."
+ },
+ {
+  "en": "I have an idea that might save us some effort.",
+  "tamil": "நமக்கு கொஞ்சம் உழைப்பை மிச்சப்படுத்தக்கூடிய ஒரு யோசனை என்கிட்ட இருக்கு.",
+  "context": "Introducing an idea in a meeting.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'I have an idea' grabs attention. 'Might' shows you are not forcing it.",
+  "words": [
+   "effort"
+  ],
+  "usage": "Use it to share a suggestion with colleagues.",
+  "leelaQ": "Have you ever had an idea that saved time?",
+  "answer": "Yes, I used a checklist and it saved me a lot of time."
+ },
+ {
+  "en": "What do you think is the biggest risk with this approach?",
+  "tamil": "இந்த அணுகுமுறையில மிகப்பெரிய ஆபத்து என்னன்னு நினைக்கிறீங்க?",
+  "context": "Asking for opinions on a plan.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Open questions like 'What do you think' invite detailed answers. 'Approach' means way of doing something.",
+  "words": [
+   "risk"
+  ],
+  "usage": "Use it in a planning meeting to hear everyone's view.",
+  "leelaQ": "What risk do you worry about most?",
+  "answer": "I worry that we may not have enough time."
+ },
+ {
+  "en": "It sounds good in theory, but I wonder how it will work in real life.",
+  "tamil": "கோட்பாட்டுல நல்லா இருக்கு, ஆனா நிஜ வாழ்க்கையில எப்படி வேலை செய்யும்னு எனக்கு சந்தேகம்.",
+  "context": "Expressing doubt about an idea.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'In theory' and 'in real life' compare ideas with practice. 'I wonder' shows gentle doubt.",
+  "words": [
+   "in theory"
+  ],
+  "usage": "Use it when an idea looks nice but you are unsure.",
+  "leelaQ": "Is there an idea that sounds good but is hard to do?",
+  "answer": "Yes, waking up at five every day is hard for me."
+ },
+ {
+  "en": "Let's brainstorm a few options before we choose one.",
+  "tamil": "ஒண்ணை தேர்வு பண்றதுக்கு முன்னாடி சில வாய்ப்புகளை யோசிக்கலாம்.",
+  "context": "Starting a group idea session.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Brainstorm' means share many ideas quickly. 'Let's' invites the group to join.",
+  "words": [
+   "brainstorm"
+  ],
+  "usage": "Use it when your team needs new ideas.",
+  "leelaQ": "How does your team find new ideas?",
+  "answer": "We sit together and share ideas without judging them."
+ },
+ {
+  "en": "Building on what Priya said, we could also offer a free trial.",
+  "tamil": "பிரியா சொன்னதுல இருந்து, நாம இலவச சோதனையும் கொடுக்கலாம்.",
+  "context": "Adding to a colleague's idea.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Building on' means adding to a previous idea. It shows respect for others.",
+  "words": [
+   "building on"
+  ],
+  "usage": "Use it in a meeting to connect your idea with another person's.",
+  "leelaQ": "How do you respond to a good idea from a colleague?",
+  "answer": "I thank them and add my own suggestion."
+ },
+ {
+  "en": "The advantage of this plan is that it costs very little.",
+  "tamil": "இந்த திட்டத்தோட நன்மை என்னன்னா, இதுக்கு செலவு ரொம்ப கம்மி.",
+  "context": "Explaining the benefit of an idea.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'The advantage of ... is that' is a clear way to list a benefit.",
+  "words": [
+   "advantage"
+  ],
+  "usage": "Use it when you compare options in a meeting.",
+  "leelaQ": "What is the advantage of your daily routine?",
+  "answer": "It helps me finish all my work on time."
+ },
+ {
+  "en": "On the other hand, it could take longer than we planned.",
+  "tamil": "மறுபக்கம், நாம திட்டமிட்டதை விட அதிக நேரம் எடுக்கலாம்.",
+  "context": "Giving the downside of an idea.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'On the other hand' introduces a contrast. It helps you balance an argument.",
+  "words": [
+   "on the other hand"
+  ],
+  "usage": "Use it in discussions after you mention a benefit.",
+  "leelaQ": "What are the pros and cons of working from home?",
+  "answer": "It saves travel time, but it can feel lonely."
+ },
+ {
+  "en": "How would this affect our current customers?",
+  "tamil": "இது நம்ம தற்போதைய வாடிக்கையாளர்களை எப்படி பாதிக்கும்?",
+  "context": "Asking about the impact of a decision.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'How would' asks about a possible result. 'Affect' is a verb meaning have an effect on.",
+  "words": [
+   "affect"
+  ],
+  "usage": "Use it to test an idea before a decision.",
+  "leelaQ": "How would a new rule affect your work?",
+  "answer": "It would change my routine and I would need time to adjust."
+ },
+ {
+  "en": "I haven't thought about that, but it's a really good question.",
+  "tamil": "நான் அதை பத்தி யோசிக்கல, ஆனா அது ரொம்ப நல்ல கேள்வி.",
+  "context": "Responding to a tough question.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "This buys you time and stays polite. 'Haven't thought about' uses present perfect.",
+  "words": [
+   "question"
+  ],
+  "usage": "Use it when someone asks something you did not expect.",
+  "leelaQ": "What do you say when you do not know the answer?",
+  "answer": "I say it is a good question and promise to find out."
+ },
+ {
+  "en": "We should test the idea with a small group first.",
+  "tamil": "நாம முதல்ல சின்ன குழுவோட இந்த யோசனையை சோதிச்சு பாக்கணும்.",
+  "context": "Recommending a pilot test.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' gives advice. Testing small lowers the risk of a big mistake.",
+  "words": [
+   "test"
+  ],
+  "usage": "Use it to advise a team before a big launch.",
+  "leelaQ": "Why do people test an idea with a small group?",
+  "answer": "It shows problems early before spending a lot of money."
+ },
+ {
+  "en": "Is this idea realistic given our current budget and timeline?",
+  "tamil": "நம்ம தற்போதைய பட்ஜெட்டையும் காலக்கெடுவையும் வச்சு பாத்தா இந்த யோசனை நடைமுறைக்கு சாத்தியமா?",
+  "context": "Questioning if a plan is practical.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Given' means considering. 'Realistic' means possible in real life.",
+  "words": [
+   "realistic"
+  ],
+  "usage": "Use it when you want to check an idea against limits.",
+  "leelaQ": "What makes a plan realistic?",
+  "answer": "It matches the money, time and people we have."
+ },
+ {
+  "en": "I think we are all on the same page now.",
+  "tamil": "இப்போ நாம எல்லாரும் ஒரே கருத்துல இருக்கோம்னு நினைக்கிறேன்.",
+  "context": "Checking agreement at the end of a discussion.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'On the same page' is an idiom meaning we all understand and agree.",
+  "words": [
+   "same page"
+  ],
+  "usage": "Use it at the end of a discussion before you move to action.",
+  "leelaQ": "How do you make sure your team understands a plan?",
+  "answer": "I ask everyone to repeat what they will do."
+ },
+ {
+  "en": "Don't worry, nobody will blame you for sharing a bad idea.",
+  "tamil": "கவலைப்படாதீங்க, ஒரு மோசமான யோசனை சொன்னாலும் யாரும் உங்களை குறை சொல்ல மாட்டாங்க.",
+  "context": "Encouraging a shy team member.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Nobody' makes the sentence negative. It helps people feel safe to speak.",
+  "words": [
+   "blame"
+  ],
+  "usage": "Use it when you lead a team and want everyone to share ideas.",
+  "leelaQ": "How do you help shy people speak up?",
+  "answer": "I tell them every idea is welcome and ask them gently."
+ },
+ {
+  "en": "Could you walk me through your thinking on this?",
+  "tamil": "இதை பத்தி நீங்க எப்படி யோசிச்சீங்கன்னு எனக்கு விளக்க முடியுமா?",
+  "context": "Asking for someone's reasoning.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Walk me through' asks for a step-by-step explanation. It shows real interest.",
+  "words": [
+   "thinking"
+  ],
+  "usage": "Use it when you want to understand a colleague's decision.",
+  "leelaQ": "How do you ask someone to explain their decision?",
+  "answer": "I ask them to walk me through their thinking."
+ },
+ {
+  "en": "Our priority this year should be improving customer service.",
+  "tamil": "இந்த வருஷம் நம்ம முன்னுரிமை வாடிக்கையாளர் சேவையை மேம்படுத்தறதா இருக்கணும்.",
+  "context": "Setting a direction in a planning meeting.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Priority' means the most important thing. 'Should' gives a strong suggestion.",
+  "words": [
+   "priority"
+  ],
+  "usage": "Use it when you discuss goals for a team or a year.",
+  "leelaQ": "What is your main priority this year?",
+  "answer": "My main priority is to improve my English."
+ },
+ {
+  "en": "The more we discuss it, the clearer the solution becomes.",
+  "tamil": "நாம எவ்வளவு பேசறோமோ அவ்வளவு தீர்வு தெளிவாகுது.",
+  "context": "Reflecting on a good discussion.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'The more..., the clearer...' is a pattern for two things that grow together.",
+  "words": [
+   "solution"
+  ],
+  "usage": "Use it to praise a useful team discussion.",
+  "leelaQ": "When does talking help to solve a problem?",
+  "answer": "Talking helps when everyone listens and shares honestly."
+ },
+ {
+  "en": "I'd rather take a little more time than make a hasty decision.",
+  "tamil": "அவசர முடிவு எடுக்கறதை விட கொஞ்சம் அதிக நேரம் எடுத்துக்கறது எனக்கு பிடிக்கும்.",
+  "context": "Preferring to wait before deciding.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I'd rather ... than ...' shows preference. 'Hasty' means done too quickly.",
+  "words": [
+   "hasty"
+  ],
+  "usage": "Use it when someone pushes you to decide quickly.",
+  "leelaQ": "Do you decide quickly or slowly?",
+  "answer": "I prefer to think carefully before I decide."
+ },
+ {
+  "en": "Thanks for raising this; it is exactly what we needed to discuss.",
+  "tamil": "இதை எழுப்பினதுக்கு நன்றி, நாம பேசவேண்டியது இதுதான்.",
+  "context": "Appreciating a useful comment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Thanking someone for a point makes people more open. 'Raising' means bringing up a topic.",
+  "words": [
+   "raising"
+  ],
+  "usage": "Use it in a meeting when a colleague brings up an important point.",
+  "leelaQ": "How do you thank someone for a useful comment?",
+  "answer": "I say thanks for raising it and give my view."
+ },
+ {
+  "en": "Shall we set a clear deadline so nobody is confused later?",
+  "tamil": "பின்னாடி யாருக்கும் குழப்பம் வராம இருக்க தெளிவான காலக்கெடுவை வைக்கலாமா?",
+  "context": "Suggesting a deadline for tasks.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Shall we' is a polite suggestion. 'So' + clause gives the purpose.",
+  "words": [
+   "deadline"
+  ],
+  "usage": "Use it near the end of a meeting to fix timelines.",
+  "leelaQ": "Why do tasks need deadlines?",
+  "answer": "Deadlines help us plan our time and finish the work."
+ },
+ {
+  "en": "The results have surprised everyone, including our own experts.",
+  "tamil": "முடிவுகள் எல்லாரையும் ஆச்சரியப்படுத்திடுச்சு, எங்க சொந்த நிபுணர்களையும்.",
+  "context": "Commenting on unexpected results.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Including' adds an extra group. Present perfect shows a result that matters now.",
+  "words": [
+   "surprised"
+  ],
+  "usage": "Use it when you talk about unexpected research or sales results.",
+  "leelaQ": "What surprised you recently?",
+  "answer": "The price of vegetables surprised me last week."
+ },
+ {
+  "en": "Let me think about it and get back to you by tomorrow evening.",
+  "tamil": "நான் அதை யோசிச்சிட்டு நாளைக்கு சாயந்திரத்துக்குள்ள பதில் சொல்றேன்.",
+  "context": "Asking for time to decide.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Get back to you' means reply later. Giving a time shows you are serious.",
+  "words": [
+   "get back to"
+  ],
+  "usage": "Use it when you cannot decide immediately.",
+  "leelaQ": "What do you say when you need time to decide?",
+  "answer": "I ask them to wait and say I will reply by tomorrow."
+ }
+]

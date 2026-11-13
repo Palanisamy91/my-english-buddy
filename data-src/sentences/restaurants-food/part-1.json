@@ -1,0 +1,267 @@
+[
+ {
+  "en": "Can we get a table for four, please?",
+  "tamil": "நாலு பேருக்கு ஒரு டேபிள் கிடைக்குமா, please?",
+  "context": "Asking the host for a table when you arrive.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can we get' is a polite way to ask for something. Add 'please' to sound friendly.",
+  "words": [
+   "table"
+  ],
+  "alt": {
+   "en": "Could we have a table for four?",
+   "tamil": "நாலு பேருக்கு ஒரு டேபிள் தர முடியுமா?"
+  }
+ },
+ {
+  "en": "Do you have a table near the window?",
+  "tamil": "ஜன்னல் பக்கத்துல ஏதாவது டேபிள் இருக்கா?",
+  "context": "Asking for a nicer seat at a restaurant.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Use 'Do you have' to ask if something is available. 'Near' tells the place.",
+  "words": [
+   "table",
+   "window"
+  ]
+ },
+ {
+  "en": "We have a reservation under the name Kumar.",
+  "tamil": "எங்க பேர்ல ஒரு ரிசர்வேஷன் இருக்கு, குமார்னு.",
+  "context": "Telling the host you booked a table already.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Under the name' is the normal way to give the booking name.",
+  "words": [
+   "reservation"
+  ]
+ },
+ {
+  "en": "I booked a table for eight o'clock.",
+  "tamil": "நான் எட்டு மணிக்கு ஒரு டேபிள் புக் பண்ணிருந்தேன்.",
+  "context": "Confirming your booking at the entrance.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Booked' is the past of 'book'. We say 'for' plus the time.",
+  "words": [
+   "booked",
+   "table"
+  ],
+  "alt": {
+   "en": "I made a booking for eight tonight.",
+   "tamil": "நான் இன்னைக்கு ராத்திரி எட்டு மணிக்கு புக்கிங் பண்ணிருந்தேன்."
+  }
+ },
+ {
+  "en": "May we have the menu, please?",
+  "tamil": "மெனு கார்டு கொடுக்க முடியுமா, please?",
+  "context": "Asking the waiter for the menu card.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could' is softer and more polite than 'can'.",
+  "words": [
+   "menu"
+  ]
+ },
+ {
+  "en": "What do you recommend here?",
+  "tamil": "இங்க நீங்க எதை பரிந்துரைப்பீங்க?",
+  "context": "Asking the waiter for his suggestion.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Recommend' means to suggest something good. Use 'What do you...' to ask for an opinion.",
+  "words": [
+   "recommend"
+  ]
+ },
+ {
+  "en": "I'll have the masala dosa and a filter coffee.",
+  "tamil": "நான் மசாலா தோசையும் ஒரு ஃபில்டர் காபியும் சாப்பிடுறேன்.",
+  "context": "Placing your order with the waiter.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll have' is the common way to order food. It decides your order right now.",
+  "words": [
+   "dosa",
+   "coffee"
+  ]
+ },
+ {
+  "en": "Is this dish very spicy?",
+  "tamil": "இந்த டிஷ் ரொம்ப காரமா இருக்குமா?",
+  "context": "Checking the spice level before ordering.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Start with 'Is' to ask about a quality. 'Very' adds strength.",
+  "words": [
+   "dish",
+   "spicy"
+  ]
+ },
+ {
+  "en": "Please make it less spicy.",
+  "tamil": "கொஞ்சம் காரம் குறைவா பண்ணுங்க, please.",
+  "context": "Asking the cook to reduce chilli.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Make it' plus an adjective changes how food is prepared. 'Please' keeps it polite.",
+  "words": [
+   "spicy"
+  ],
+  "alt": {
+   "en": "Could you make it mild, please?",
+   "tamil": "கொஞ்சம் மைல்டா பண்ண முடியுமா, please?"
+  }
+ },
+ {
+  "en": "I'm allergic to nuts, so could you check if this has any?",
+  "tamil": "எனக்கு நட்ஸ் அலர்ஜி, அதனால இதுல இருக்கான்னு பார்க்க முடியுமா?",
+  "context": "Telling the waiter about an allergy politely.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Allergic to' is followed by the food. 'So' gives the reason for your request.",
+  "words": [
+   "allergic",
+   "nuts",
+   "check"
+  ]
+ },
+ {
+  "en": "We're still deciding, so please give us a few more minutes.",
+  "tamil": "நாங்க இன்னும் முடிவு பண்ணல, கொஞ்ச நேரம் கொடுங்க please.",
+  "context": "When the waiter comes before you are ready.",
+  "tense": "present-continuous",
+  "type": "request",
+  "explain": "Use present continuous for something happening now. 'A few more minutes' asks for a little time.",
+  "words": [
+   "deciding",
+   "minutes"
+  ]
+ },
+ {
+  "en": "Do you have any vegetarian options?",
+  "tamil": "வெஜிடேரியன் ஆப்ஷன்ஸ் ஏதாவது இருக்கா?",
+  "context": "Asking about meatless dishes.",
+  "tense": "present",
+  "type": "question",
+  "explain": "We use 'any' in questions. 'Options' means the choices on the menu.",
+  "words": [
+   "vegetarian",
+   "options"
+  ]
+ },
+ {
+  "en": "I don't eat meat, but I do eat eggs.",
+  "tamil": "நான் இறைச்சி சாப்பிட மாட்டேன், ஆனா முட்டை சாப்பிடுவேன்.",
+  "context": "Explaining your food habits to a host.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Do eat' adds a little stress to show the contrast with the first part.",
+  "words": [
+   "meat",
+   "eggs"
+  ]
+ },
+ {
+  "en": "The soup is a bit too salty for me.",
+  "tamil": "சூப் எனக்கு கொஞ்சம் உப்பு அதிகமா இருக்கு.",
+  "context": "Giving a gentle complaint about taste.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'A bit too' is a soft way to say something is more than you like.",
+  "words": [
+   "soup",
+   "salty"
+  ]
+ },
+ {
+  "en": "This biryani is really tasty!",
+  "tamil": "இந்த பிரியாணி உண்மையிலேயே ரொம்ப ருசியா இருக்கு!",
+  "context": "Praising the food while eating.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Really' makes the adjective stronger. 'Tasty' is a simple word for good-tasting food.",
+  "words": [
+   "biryani",
+   "tasty"
+  ],
+  "alt": {
+   "en": "This biryani tastes amazing!",
+   "tamil": "இந்த பிரியாணி அருமையா இருக்கு!"
+  }
+ },
+ {
+  "en": "Could I get some more water, please?",
+  "tamil": "இன்னும் கொஞ்சம் தண்ணி கிடைக்குமா, please?",
+  "context": "Asking the waiter for water.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Some more' means an extra amount. 'Could I get' is polite.",
+  "words": [
+   "water"
+  ]
+ },
+ {
+  "en": "We haven't ordered yet.",
+  "tamil": "நாங்க இன்னும் ஆர்டர் பண்ணல.",
+  "context": "Telling the waiter you are not ready.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "Use 'haven't' plus a past form with 'yet' for something not done till now.",
+  "words": [
+   "ordered"
+  ]
+ },
+ {
+  "en": "My order hasn't come yet. Could you check?",
+  "tamil": "என் ஆர்டர் இன்னும் வரல. கொஞ்சம் பார்க்க முடியுமா?",
+  "context": "When your food is late.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Hasn't come yet' shows something expected is still missing. End with a polite request.",
+  "words": [
+   "order",
+   "check"
+  ]
+ },
+ {
+  "en": "Could we have the bill, please?",
+  "tamil": "பில் கொண்டு வர முடியுமா, please?",
+  "context": "Asking for the bill at the end of a meal.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Have the bill' is the usual phrase. It is polite and short.",
+  "words": [
+   "bill"
+  ],
+  "alt": {
+   "en": "Can you bring the bill, please?",
+   "tamil": "பில் கொண்டு வர்றீங்களா, please?"
+  }
+ },
+ {
+  "en": "Can we split the bill?",
+  "tamil": "பில்லை பிரிச்சு கொடுக்கலாமா?",
+  "context": "Paying separately with friends.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Split' means to divide something between people.",
+  "words": [
+   "split",
+   "bill"
+  ]
+ },
+ {
+  "en": "Do you accept UPI payments?",
+  "tamil": "UPI பேமெண்ட் எடுத்துக்குவீங்களா?",
+  "context": "Asking how you can pay.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Accept' means to take something offered. Use it for payment methods.",
+  "words": [
+   "accept",
+   "payments"
+  ]
+ }
+]

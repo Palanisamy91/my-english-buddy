@@ -1,0 +1,372 @@
+[
+ {
+  "en": "Please come in and have a seat.",
+  "tamil": "தயவு செய்து உள்ளே வாங்க, உக்காருங்க.",
+  "context": "Welcoming a guest at home.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "This is a warm invitation. 'Have a seat' is a polite way to say sit down.",
+  "words": [
+   "come in",
+   "seat"
+  ],
+  "usage": "Use it when a guest or visitor arrives.",
+  "leelaQ": "A relative visits your house. How do you welcome them?",
+  "answer": "Please come in and have a seat."
+ },
+ {
+  "en": "I would rather stay at home today, if you don't mind.",
+  "tamil": "உங்களுக்கு பிரச்சனை இல்லன்னா இன்னிக்கு நான் வீட்டுலயே இருக்கறேன்.",
+  "context": "Politely declining an outing.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I would rather' shows your preference. 'If you don't mind' keeps it soft.",
+  "words": [
+   "rather",
+   "mind"
+  ],
+  "usage": "Use it with friends or family when you do not want to go out.",
+  "leelaQ": "Friends plan a movie but you are tired. What do you say?",
+  "answer": "I would rather stay at home today, if you don't mind."
+ },
+ {
+  "en": "Can you lend me some money till Friday?",
+  "tamil": "வெள்ளிக்கிழமை வரைக்கும் கொஞ்சம் காசு கடன் தர முடியுமா?",
+  "context": "Asking a close friend for money.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Lend' is what the giver does, 'borrow' is what you do. 'Till Friday' gives a clear time.",
+  "words": [
+   "lend",
+   "money"
+  ],
+  "usage": "Use it only with close friends or family.",
+  "leelaQ": "You need small money until salary day. What do you ask a friend?",
+  "answer": "Can you lend me some money till Friday? I will return it."
+ },
+ {
+  "en": "May I ask you a small favour?",
+  "tamil": "நான் உங்ககிட்ட ஒரு சின்ன உதவி கேக்கலாமா?",
+  "context": "Starting a request with a neighbour.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "This sentence opens the conversation before the real request. It prepares the listener.",
+  "words": [
+   "favour"
+  ],
+  "usage": "Use it before asking something bigger from a neighbour or colleague.",
+  "leelaQ": "Before asking your neighbour for help, what do you say first?",
+  "answer": "May I ask you a small favour?"
+ },
+ {
+  "en": "Could you give me a lift to the station?",
+  "tamil": "ஸ்டேஷன் வரைக்கும் என்னை விட முடியுமா?",
+  "context": "Asking a colleague with a bike or car.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Give me a lift' means take me in your vehicle.",
+  "words": [
+   "lift",
+   "station"
+  ],
+  "usage": "Use it with colleagues or neighbours who are going the same way.",
+  "leelaQ": "It is raining and you have no auto. What do you ask your colleague?",
+  "answer": "Could you give me a lift to the station? It is raining."
+ },
+ {
+  "en": "I will be glad to join you for lunch.",
+  "tamil": "மதிய சாப்பாட்டுக்கு உங்ககூட சேர்ந்துக்க சந்தோஷம்.",
+  "context": "Accepting a lunch invitation.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I will be glad to' is a polite and warm way to accept.",
+  "words": [
+   "glad",
+   "join"
+  ],
+  "usage": "Use it to accept invitations from colleagues or friends.",
+  "leelaQ": "A colleague invites you for lunch. How do you accept?",
+  "answer": "I will be glad to join you for lunch."
+ },
+ {
+  "en": "Please don't be angry, it was my mistake.",
+  "tamil": "தயவு செய்து கோபப்படாதீங்க, அது என் தப்பு.",
+  "context": "Apologising to a friend.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "This sentence says sorry and accepts blame. 'Don't be angry' is a soft request.",
+  "words": [
+   "angry",
+   "mistake"
+  ],
+  "usage": "Use it when you did something wrong and want to calm the person.",
+  "leelaQ": "You forgot a friend's birthday. What do you say?",
+  "answer": "Please don't be angry, it was my mistake."
+ },
+ {
+  "en": "Is it okay if I bring my friend along?",
+  "tamil": "என் நண்பனையும் கூட்டிட்டு வரலாமா?",
+  "context": "Asking a host about bringing a friend.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is it okay if ...?' is a casual way to ask for permission.",
+  "words": [
+   "bring",
+   "along"
+  ],
+  "usage": "Use it with a host before taking another person to an event.",
+  "leelaQ": "You are invited to a dinner. How do you ask about a friend?",
+  "answer": "Is it okay if I bring my friend along?"
+ },
+ {
+  "en": "Kindly send your reply as soon as possible.",
+  "tamil": "தயவுசெஞ்சு உங்க பதிலை சீக்கிரம் அனுப்புங்க.",
+  "context": "Writing a formal email request.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Kindly' is formal and common in Indian office English.",
+  "words": [
+   "kindly",
+   "reply"
+  ],
+  "usage": "Use it in formal emails to ask for a quick response.",
+  "leelaQ": "How do you end an email asking for a fast answer?",
+  "answer": "Kindly send your reply as soon as possible."
+ },
+ {
+  "en": "Shall I say that once more, slowly?",
+  "tamil": "நான் அதை இன்னொரு தடவ மெதுவா சொல்லட்டுமா?",
+  "context": "Offering to repeat for a student.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Shall I ...?' offers help without forcing it.",
+  "words": [
+   "once more",
+   "slowly"
+  ],
+  "usage": "Use it as a teacher or senior when someone looks confused.",
+  "leelaQ": "Your friend did not follow your instructions. What do you offer?",
+  "answer": "Shall I say that once more, slowly? I spoke too fast."
+ },
+ {
+  "en": "Can I take a message for him?",
+  "tamil": "நான் அவருக்கு ஏதாவது செய்தி எடுத்துக்கட்டுமா?",
+  "context": "Answering a phone call for a colleague.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Take a message' means write down what the caller wants to say.",
+  "words": [
+   "message"
+  ],
+  "usage": "Use it when the person the caller wants is not available.",
+  "leelaQ": "Someone calls for your absent boss. What do you offer?",
+  "answer": "Can I take a message for him? I will tell him."
+ },
+ {
+  "en": "I'm sorry, but he is not available right now.",
+  "tamil": "மன்னிக்கணும், அவர் இப்ப இல்ல.",
+  "context": "Telling a caller politely.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not available' is a polite phrase for not here or busy.",
+  "words": [
+   "available"
+  ],
+  "usage": "Use it at reception or on the phone for a colleague who is out.",
+  "leelaQ": "A caller asks for someone who is out. What do you say?",
+  "answer": "I'm sorry, but he is not available right now."
+ },
+ {
+  "en": "Could you turn the music down a little?",
+  "tamil": "மியூசிக்கை கொஞ்சம் குறைக்க முடியுமா?",
+  "context": "Asking a neighbour about loud music.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Turn down' means reduce the volume. 'A little' keeps it kind.",
+  "words": [
+   "music",
+   "turn down"
+  ],
+  "usage": "Use it with neighbours or family members when noise is a problem.",
+  "leelaQ": "The neighbour plays loud music late at night. What do you ask?",
+  "answer": "Could you turn the music down a little? I am studying."
+ },
+ {
+  "en": "Please take your seat, the class will start soon.",
+  "tamil": "தயவு செய்து உங்க இடத்துல உக்காருங்க, வகுப்பு சீக்கிரம் தொடங்கும்.",
+  "context": "A teacher asking students to sit.",
+  "tense": "future",
+  "type": "request",
+  "explain": "'Take your seat' is a polite way to say sit down.",
+  "words": [
+   "seat",
+   "class"
+  ],
+  "usage": "Use it as a teacher or trainer before starting a session.",
+  "leelaQ": "You are the teacher and students are standing. What do you say?",
+  "answer": "Please take your seat, the class will start soon."
+ },
+ {
+  "en": "Do you want me to book the tickets?",
+  "tamil": "நான் டிக்கெட் புக் பண்ணட்டுமா?",
+  "context": "Offering to book tickets for family.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you want me to ...?' is a simple offer in everyday talk.",
+  "words": [
+   "book",
+   "tickets"
+  ],
+  "usage": "Use it with family or friends when you can do a task for them.",
+  "leelaQ": "Your family plans a trip. What do you offer to do?",
+  "answer": "Do you want me to book the tickets? I will do it now."
+ },
+ {
+  "en": "I would really appreciate your help with this.",
+  "tamil": "இதுல உங்க உதவியை நான் ரொம்ப மதிப்பேன்.",
+  "context": "Asking a senior for help.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'I would appreciate' is a formal and respectful way to ask for help.",
+  "words": [
+   "appreciate",
+   "help"
+  ],
+  "usage": "Use it with seniors or clients when you need real support.",
+  "leelaQ": "You need your senior's help on a hard task. What do you say?",
+  "answer": "I would really appreciate your help with this."
+ },
+ {
+  "en": "Sorry, you can't park your vehicle here.",
+  "tamil": "மன்னிக்கணும், இங்க வண்டி நிறுத்த முடியாது.",
+  "context": "A security guard refusing politely.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Sorry' makes a rule sound softer. 'Can't' tells what is not allowed.",
+  "words": [
+   "park",
+   "vehicle"
+  ],
+  "usage": "Use it as a guard or staff member to stop someone politely.",
+  "leelaQ": "A visitor parks in a no-parking area. What do you say as the guard?",
+  "answer": "Sorry, you can't park your vehicle here, sir."
+ },
+ {
+  "en": "Could I speak to the manager, please?",
+  "tamil": "நான் மேனேஜர்கிட்ட பேசலாமா?",
+  "context": "Asking at a shop or hotel.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could I speak to ...?' is the polite way to ask for a person on the phone or in person.",
+  "words": [
+   "manager"
+  ],
+  "usage": "Use it when you have a complaint or need a decision.",
+  "leelaQ": "Your order is wrong. Whom do you ask to speak to?",
+  "answer": "Could I speak to the manager, please?"
+ },
+ {
+  "en": "Please share the notes with me when you are free.",
+  "tamil": "நீங்க ஃப்ரீயா இருக்கும்போது அந்த நோட்ஸை எனக்கு ஷேர் பண்ணுங்க.",
+  "context": "Asking a classmate for notes.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'When you are free' gives the other person freedom, so it sounds kind.",
+  "words": [
+   "notes",
+   "free"
+  ],
+  "usage": "Use it with classmates or colleagues for non-urgent requests.",
+  "leelaQ": "You missed a class. How do you ask a friend for notes?",
+  "answer": "Please share the notes with me when you are free."
+ },
+ {
+  "en": "I can drop you at your place if you want.",
+  "tamil": "நீங்க விரும்பினா உங்க வீட்டுல உங்களை விடறேன்.",
+  "context": "Offering a ride home to a friend.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'If you want' makes the offer optional and friendly.",
+  "words": [
+   "drop"
+  ],
+  "usage": "Use it with friends or colleagues after a late meeting.",
+  "leelaQ": "It is late and your friend has no ride. What do you offer?",
+  "answer": "I can drop you at your place if you want."
+ },
+ {
+  "en": "Would you be able to attend the meeting tomorrow?",
+  "tamil": "நாளைக்கு மீட்டிங்குக்கு உங்களால வர முடியுமா?",
+  "context": "Asking a colleague to attend.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you be able to ...?' is polite for asking about someone's availability.",
+  "words": [
+   "attend",
+   "meeting"
+  ],
+  "usage": "Use it at work to check availability before fixing a plan.",
+  "leelaQ": "You want a teammate at tomorrow's meeting. What do you ask?",
+  "answer": "Would you be able to attend the meeting tomorrow?"
+ },
+ {
+  "en": "No, thank you, I have already eaten.",
+  "tamil": "வேண்டாம், நன்றி, நான் ஏற்கனவே சாப்பிட்டுட்டேன்.",
+  "context": "Refusing second serving politely.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'No, thank you' is a clear and polite refusal. 'Already' shows it is done.",
+  "words": [
+   "already",
+   "eaten"
+  ],
+  "usage": "Use it at a feast or party when the host keeps offering food.",
+  "leelaQ": "A host offers more rice but you are full. What do you say?",
+  "answer": "No, thank you, I have already eaten enough."
+ },
+ {
+  "en": "Could you check my answer sheet once again?",
+  "tamil": "என் விடைத்தாளை இன்னொரு தடவை பாக்க முடியுமா?",
+  "context": "Asking a teacher to recheck marks.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Once again' is polite when asking for a second look.",
+  "words": [
+   "check",
+   "answer"
+  ],
+  "usage": "Use it with a teacher or examiner when you feel a mistake was made.",
+  "leelaQ": "You think your marks are wrong. What do you ask the teacher?",
+  "answer": "Could you check my answer sheet once again, madam?"
+ },
+ {
+  "en": "Do tell me if there is anything you need.",
+  "tamil": "உங்களுக்கு ஏதாவது தேவைன்னா கண்டிப்பா சொல்லுங்க.",
+  "context": "Offering help to a new neighbour.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Do tell me' makes the offer warm and sincere.",
+  "words": [
+   "tell",
+   "need"
+  ],
+  "usage": "Use it with guests, new neighbours or hotel customers.",
+  "leelaQ": "Your new neighbour is moving in. What do you tell them?",
+  "answer": "Do tell me if there is anything you need. I live next door."
+ },
+ {
+  "en": "Is it all right if I call you after dinner?",
+  "tamil": "நான் சாப்பாட்டுக்கு அப்புறம் கூப்பிடலாமா?",
+  "context": "Asking permission to call later.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is it all right if ...?' is a gentle way to ask permission.",
+  "words": [
+   "dinner",
+   "call"
+  ],
+  "usage": "Use it with elders or colleagues when you want to call at a better time.",
+  "leelaQ": "You want to call your uncle later. How do you ask?",
+  "answer": "Is it all right if I call you after dinner?"
+ }
+]

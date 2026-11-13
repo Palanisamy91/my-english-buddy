@@ -1,0 +1,349 @@
+[
+ {
+  "word": "seaside",
+  "meaning": "the area near the sea where people go for a holiday",
+  "tamil": "கடலோரப் பகுதி",
+  "pos": "noun",
+  "pron": "SEE-side",
+  "example": "We spent the weekend at a quiet seaside town.",
+  "exampleTamil": "நாங்கள் வார இறுதியை ஒரு அமைதியான கடலோர நகரில் கழித்தோம்.",
+  "synonyms": [
+   "coast",
+   "shore"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "countryside",
+  "meaning": "land outside towns and cities with fields and villages",
+  "tamil": "கிராமப்புறம்",
+  "pos": "noun",
+  "pron": "KUN-tree-side",
+  "example": "The train ride through the countryside was very relaxing.",
+  "exampleTamil": "கிராமப்புறம் வழியாக ரயிலில் சென்றது மிகவும் நிம்மதியாக இருந்தது.",
+  "synonyms": [
+   "rural area",
+   "country"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "village",
+  "meaning": "a very small town in the countryside",
+  "tamil": "கிராமம்",
+  "pos": "noun",
+  "pron": "VIL-ij",
+  "example": "My grandmother still lives in a small village near Madurai.",
+  "exampleTamil": "என் பாட்டி இன்னும் மதுரைக்கு அருகில் ஒரு சிறிய கிராமத்தில் வசிக்கிறார்.",
+  "synonyms": [
+   "hamlet",
+   "settlement"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "town",
+  "meaning": "a place with houses and shops, bigger than a village",
+  "tamil": "நகரம் (சிறிய ஊர்)",
+  "pos": "noun",
+  "pron": "TOWN",
+  "example": "The hill town gets very cold in the evening.",
+  "exampleTamil": "அந்த மலை நகரம் மாலையில் மிகவும் குளிராக இருக்கும்.",
+  "synonyms": [
+   "small city",
+   "township"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "zoo",
+  "meaning": "a place where wild animals are kept for people to see",
+  "tamil": "மிருகக்காட்சிசாலை",
+  "pos": "noun",
+  "pron": "ZOO",
+  "example": "The children were excited to see tigers at the zoo.",
+  "exampleTamil": "மிருகக்காட்சிசாலையில் புலிகளைப் பார்க்க குழந்தைகள் மிகவும் உற்சாகமாக இருந்தனர்.",
+  "synonyms": [
+   "animal park"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "garden",
+  "meaning": "a place with plants and flowers where people can walk",
+  "tamil": "தோட்டம்",
+  "pos": "noun",
+  "pron": "GAR-dun",
+  "example": "We walked around the botanical garden all morning.",
+  "exampleTamil": "நாங்கள் காலை முழுவதும் தாவரவியல் தோட்டத்தில் நடந்தோம்.",
+  "synonyms": [
+   "park",
+   "orchard"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "picnic",
+  "meaning": "a meal eaten outdoors during a day out",
+  "tamil": "வெளியில் சாப்பிடும் உல்லாசப் பயணம்",
+  "pos": "noun",
+  "pron": "PIK-nik",
+  "example": "We carried lemon rice for a picnic by the river.",
+  "exampleTamil": "ஆற்றங்கரையில் உல்லாசப் பயணத்திற்கு எலுமிச்சை சாதம் எடுத்துச் சென்றோம்.",
+  "synonyms": [
+   "outing",
+   "outdoor meal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sunrise",
+  "meaning": "the time in the morning when the sun comes up",
+  "tamil": "சூரிய உதயம்",
+  "pos": "noun",
+  "pron": "SUN-rize",
+  "example": "We woke up early to watch the sunrise at Kanyakumari.",
+  "exampleTamil": "கன்னியாகுமரியில் சூரிய உதயத்தைப் பார்க்க நாங்கள் அதிகாலையில் எழுந்தோம்.",
+  "synonyms": [
+   "dawn",
+   "daybreak"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sand",
+  "meaning": "tiny grains of rock found on beaches and in deserts",
+  "tamil": "மணல்",
+  "pos": "noun",
+  "pron": "SAND",
+  "example": "The sand was so hot that we could not walk barefoot.",
+  "exampleTamil": "மணல் மிகவும் சூடாக இருந்ததால் எங்களால் வெறுங்காலில் நடக்க முடியவில்லை.",
+  "synonyms": [
+   "grit",
+   "beach sand"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sail",
+  "meaning": "to travel on water in a boat",
+  "tamil": "படகில் பயணம் செய்தல்",
+  "pos": "verb",
+  "pron": "SAYL",
+  "example": "We will sail across the lake early tomorrow morning.",
+  "exampleTamil": "நாளை அதிகாலை நாங்கள் படகில் ஏரியைக் கடந்து செல்வோம்.",
+  "synonyms": [
+   "cruise",
+   "boat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "crew",
+  "meaning": "the people who work on a ship, plane or train",
+  "tamil": "பணியாளர் குழு",
+  "pos": "noun",
+  "pron": "KROO",
+  "example": "The crew welcomed us warmly as we boarded the ship.",
+  "exampleTamil": "நாங்கள் கப்பலில் ஏறியபோது பணியாளர் குழு எங்களை அன்புடன் வரவேற்றது.",
+  "synonyms": [
+   "staff",
+   "team"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stairs",
+  "meaning": "steps that go up or down between floors",
+  "tamil": "படிக்கட்டுகள்",
+  "pos": "noun",
+  "pron": "STAIRZ",
+  "example": "The lift was broken, so we took the stairs to the fifth floor.",
+  "exampleTamil": "மின்தூக்கி பழுதாக இருந்ததால் நாங்கள் ஐந்தாவது மாடிக்குப் படிக்கட்டில் சென்றோம்.",
+  "synonyms": [
+   "steps",
+   "staircase"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "escalator",
+  "meaning": "a moving staircase that carries people up or down",
+  "tamil": "தானாக நகரும் படிக்கட்டு",
+  "pos": "noun",
+  "pron": "ES-kuh-lay-ter",
+  "example": "Please stand on the left side of the escalator.",
+  "exampleTamil": "தயவுசெய்து நகரும் படிக்கட்டின் இடது பக்கத்தில் நில்லுங்கள்.",
+  "synonyms": [
+   "moving stairs"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "crossroads",
+  "meaning": "a place where two or more roads meet and cross",
+  "tamil": "சாலைகள் சந்திக்கும் இடம்",
+  "pos": "noun",
+  "pron": "KROS-rohdz",
+  "example": "Turn right when you reach the crossroads near the temple.",
+  "exampleTamil": "கோயிலுக்கு அருகிலுள்ள சந்திப்பை அடைந்ததும் வலப்பக்கம் திரும்புங்கள்.",
+  "synonyms": [
+   "junction",
+   "intersection"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "traffic light",
+  "meaning": "a set of red, yellow and green lights that controls vehicles",
+  "tamil": "போக்குவரத்து சிக்னல் விளக்கு",
+  "pos": "noun",
+  "pron": "TRAF-ik LITE",
+  "example": "Stop at the traffic light and then go straight.",
+  "exampleTamil": "சிக்னல் விளக்கில் நின்று, பிறகு நேராகச் செல்லுங்கள்.",
+  "synonyms": [
+   "signal",
+   "stoplight"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dead end",
+  "meaning": "a road that is closed at one end so you cannot go further",
+  "tamil": "முட்டுச்சந்து",
+  "pos": "noun",
+  "pron": "DED END",
+  "example": "We took the wrong road and reached a dead end.",
+  "exampleTamil": "நாங்கள் தவறான சாலையில் சென்று முட்டுச்சந்தை அடைந்தோம்.",
+  "synonyms": [
+   "cul-de-sac",
+   "blind alley"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "u-turn",
+  "meaning": "a turn that takes you back in the opposite direction",
+  "tamil": "எதிர்த் திசையில் திரும்பும் வளைவு",
+  "pos": "noun",
+  "pron": "YOO-turn",
+  "example": "You missed the exit, so please take a u-turn ahead.",
+  "exampleTamil": "நீங்கள் வெளியேறும் வழியைத் தவறவிட்டீர்கள், எனவே முன்னால் யூ-டர்ன் எடுங்கள்.",
+  "synonyms": [
+   "turnaround"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "footbridge",
+  "meaning": "a small bridge that only people on foot can use",
+  "tamil": "நடந்து செல்லும் பாலம்",
+  "pos": "noun",
+  "pron": "FUUT-brij",
+  "example": "Use the footbridge to cross the busy road safely.",
+  "exampleTamil": "பரபரப்பான சாலையைப் பாதுகாப்பாகக் கடக்க நடைப்பாலத்தைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "walkway",
+   "pedestrian bridge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "handbag",
+  "meaning": "a small bag you carry by hand for personal things",
+  "tamil": "கைப்பை",
+  "pos": "noun",
+  "pron": "HAND-bag",
+  "example": "She kept her passport safely inside her handbag.",
+  "exampleTamil": "அவள் தன் கடவுச்சீட்டை கைப்பையினுள் பத்திரமாக வைத்திருந்தாள்.",
+  "synonyms": [
+   "purse",
+   "bag"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hat",
+  "meaning": "something you wear on your head, often for sun protection",
+  "tamil": "தொப்பி",
+  "pos": "noun",
+  "pron": "HAT",
+  "example": "Wear a hat because the sun is very strong here.",
+  "exampleTamil": "இங்கே வெயில் மிகவும் கடுமையாக இருப்பதால் தொப்பி அணியுங்கள்.",
+  "synonyms": [
+   "cap",
+   "sunhat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "raincoat",
+  "meaning": "a coat that keeps you dry in the rain",
+  "tamil": "மழைக்கோட்டு",
+  "pos": "noun",
+  "pron": "RAYN-koht",
+  "example": "Pack a raincoat because it rains daily in Munnar.",
+  "exampleTamil": "மூணாரில் தினமும் மழை பெய்வதால் மழைக்கோட்டை எடுத்துச் செல்லுங்கள்.",
+  "synonyms": [
+   "waterproof",
+   "mac"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "flip-flops",
+  "meaning": "light open shoes with a strap between the toes",
+  "tamil": "கால்விரல் இடுக்கில் பட்டை உள்ள செருப்பு",
+  "pos": "noun",
+  "pron": "FLIP-flops",
+  "example": "I wore flip-flops all day on the beach.",
+  "exampleTamil": "நான் கடற்கரையில் நாள் முழுவதும் ஃபிளிப்-ஃபிளாப் செருப்பு அணிந்திருந்தேன்.",
+  "synonyms": [
+   "slippers",
+   "thongs"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rucksack",
+  "meaning": "a large bag carried on your back for travel or hiking",
+  "tamil": "முதுகில் சுமக்கும் பெரிய பை",
+  "pos": "noun",
+  "pron": "RUK-sak",
+  "example": "He packed clothes and snacks in his rucksack for the trek.",
+  "exampleTamil": "மலையேற்றத்திற்காக அவர் உடைகளையும் தின்பண்டங்களையும் முதுகுப்பையில் வைத்தார்.",
+  "synonyms": [
+   "backpack",
+   "knapsack"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stay",
+  "meaning": "to live in a place for a short time, like a hotel",
+  "tamil": "தங்குதல்",
+  "pos": "verb",
+  "pron": "STAY",
+  "example": "We will stay at a small hotel near the beach.",
+  "exampleTamil": "நாங்கள் கடற்கரைக்கு அருகிலுள்ள ஒரு சிறிய ஹோட்டலில் தங்குவோம்.",
+  "synonyms": [
+   "lodge",
+   "remain"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "vacation",
+  "meaning": "a time away from work or school for rest and travel",
+  "tamil": "விடுமுறை",
+  "pos": "noun",
+  "pron": "vay-KAY-shun",
+  "example": "We are planning a family vacation to Kerala this summer.",
+  "exampleTamil": "இந்தக் கோடையில் கேரளாவுக்கு குடும்ப விடுமுறைப் பயணம் திட்டமிடுகிறோம்.",
+  "synonyms": [
+   "break",
+   "time off"
+  ],
+  "level": "beginner"
+ }
+]

@@ -1,0 +1,342 @@
+[
+ {
+  "word": "rail",
+  "meaning": "the metal track on which trains run, or travel by train",
+  "tamil": "ரயில் தண்டவாளம்",
+  "pos": "noun",
+  "pron": "RAYL",
+  "example": "Many people prefer rail travel for long trips.",
+  "exampleTamil": "நீண்ட பயணங்களுக்குப் பலர் ரயில் பயணத்தை விரும்புகின்றனர்.",
+  "synonyms": [
+   "track",
+   "railway"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "explore",
+  "meaning": "to travel around a place to learn about it",
+  "tamil": "ஆராய்ந்து பார்",
+  "pos": "verb",
+  "pron": "ik-SPLOR",
+  "example": "We want to explore the old city on foot.",
+  "exampleTamil": "நாங்கள் பழைய நகரத்தை நடந்தே சுற்றிப் பார்க்க விரும்புகிறோம்.",
+  "synonyms": [
+   "discover",
+   "tour"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wander",
+  "meaning": "to walk around slowly without a plan",
+  "tamil": "சுற்றித் திரி",
+  "pos": "verb",
+  "pron": "WON-der",
+  "example": "We wandered through the narrow streets.",
+  "exampleTamil": "நாங்கள் குறுகிய தெருக்களில் சுற்றித் திரிந்தோம்.",
+  "synonyms": [
+   "roam",
+   "stroll"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "native",
+  "meaning": "born in or belonging to a place",
+  "tamil": "உள்ளூர்வாசி / பூர்வீக",
+  "pos": "adjective",
+  "pron": "NAY-tiv",
+  "example": "He is a native of Madurai.",
+  "exampleTamil": "அவர் மதுரையைச் சேர்ந்தவர்.",
+  "synonyms": [
+   "local",
+   "indigenous"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "culture",
+  "meaning": "the way of life, food, art and customs of a people",
+  "tamil": "கலாச்சாரம்",
+  "pos": "noun",
+  "pron": "KUL-cher",
+  "example": "Travel helps you learn about other cultures.",
+  "exampleTamil": "பயணம் மற்ற கலாச்சாரங்களைப் பற்றி அறிய உதவுகிறது.",
+  "synonyms": [
+   "custom",
+   "heritage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tradition",
+  "meaning": "a custom that people have followed for a long time",
+  "tamil": "பாரம்பரியம்",
+  "pos": "noun",
+  "pron": "truh-DISH-un",
+  "example": "Visiting the temple is a family tradition.",
+  "exampleTamil": "கோவிலுக்குச் செல்வது எங்கள் குடும்பப் பாரம்பரியம்.",
+  "synonyms": [
+   "custom",
+   "habit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bazaar",
+  "meaning": "a market with many small shops",
+  "tamil": "சந்தை",
+  "pos": "noun",
+  "pron": "buh-ZAR",
+  "example": "We bought gifts in the local bazaar.",
+  "exampleTamil": "நாங்கள் உள்ளூர் சந்தையில் பரிசுகள் வாங்கினோம்.",
+  "synonyms": [
+   "market"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "handicraft",
+  "meaning": "an item made by hand with skill",
+  "tamil": "கைவினைப் பொருள்",
+  "pos": "noun",
+  "pron": "HAN-dee-kraft",
+  "example": "Handicrafts make good gifts for friends.",
+  "exampleTamil": "கைவினைப் பொருட்கள் நண்பர்களுக்கு நல்ல பரிசுகள்.",
+  "synonyms": [
+   "craft"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "jungle",
+  "meaning": "a thick forest in a hot place",
+  "tamil": "அடர்ந்த காடு",
+  "pos": "noun",
+  "pron": "JUNG-gul",
+  "example": "We went on a jungle safari yesterday.",
+  "exampleTamil": "நாங்கள் நேற்று காட்டுச் சுற்றுலா சென்றோம்.",
+  "synonyms": [
+   "forest",
+   "wilderness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wildlife",
+  "meaning": "animals and plants that live in nature",
+  "tamil": "வனவிலங்குகள்",
+  "pos": "noun",
+  "pron": "WYLD-lyf",
+  "example": "The park is famous for its wildlife.",
+  "exampleTamil": "அந்தப் பூங்கா வனவிலங்குகளுக்குப் பெயர் பெற்றது.",
+  "synonyms": [
+   "fauna",
+   "animals"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cliff",
+  "meaning": "a high steep wall of rock, often by the sea",
+  "tamil": "செங்குத்துப் பாறை",
+  "pos": "noun",
+  "pron": "KLIF",
+  "example": "Do not stand near the edge of the cliff.",
+  "exampleTamil": "பாறையின் விளிம்பு அருகே நிற்காதீர்கள்.",
+  "synonyms": [
+   "crag"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cave",
+  "meaning": "a large hole in a hill or under the ground",
+  "tamil": "குகை",
+  "pos": "noun",
+  "pron": "KAYV",
+  "example": "We visited an ancient cave temple.",
+  "exampleTamil": "நாங்கள் ஒரு பழமையான குகைக் கோவிலைப் பார்த்தோம்.",
+  "synonyms": [
+   "cavern"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shore",
+  "meaning": "the land along the edge of the sea or a lake",
+  "tamil": "கரை",
+  "pos": "noun",
+  "pron": "SHOR",
+  "example": "We walked along the shore at night.",
+  "exampleTamil": "நாங்கள் இரவில் கரையோரமாக நடந்தோம்.",
+  "synonyms": [
+   "coast",
+   "beach"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bay",
+  "meaning": "a part of the sea that curves into the land",
+  "tamil": "விரிகுடா",
+  "pos": "noun",
+  "pron": "BAY",
+  "example": "Fishing boats float in the quiet bay.",
+  "exampleTamil": "மீன்பிடிப் படகுகள் அமைதியான விரிகுடாவில் மிதக்கின்றன.",
+  "synonyms": [
+   "gulf",
+   "cove"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "summit",
+  "meaning": "the highest point of a mountain",
+  "tamil": "உச்சி",
+  "pos": "noun",
+  "pron": "SUM-it",
+  "example": "It took us five hours to reach the summit.",
+  "exampleTamil": "உச்சியை அடைய எங்களுக்கு ஐந்து மணி நேரம் ஆனது.",
+  "synonyms": [
+   "peak",
+   "top"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "entry",
+  "meaning": "the act of going in, or the way in",
+  "tamil": "உள்ளே நுழைவு",
+  "pos": "noun",
+  "pron": "EN-tree",
+  "example": "Entry to the fort is free for children.",
+  "exampleTamil": "கோட்டைக்குள் குழந்தைகளுக்கு நுழைவு இலவசம்.",
+  "synonyms": [
+   "entrance",
+   "admission"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "permit",
+  "meaning": "an official paper that allows you to do something",
+  "tamil": "அனுமதிச் சீட்டு",
+  "pos": "noun",
+  "pron": "PER-mit",
+  "example": "You need a permit to enter the forest.",
+  "exampleTamil": "காட்டுக்குள் நுழைய உங்களுக்கு அனுமதிச் சீட்டு தேவை.",
+  "synonyms": [
+   "licence",
+   "pass"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pass",
+  "meaning": "an official card or ticket that lets you travel or enter",
+  "tamil": "பயணச் சீட்டு / அனுமதி அட்டை",
+  "pos": "noun",
+  "pron": "PASS",
+  "example": "I bought a day pass for the metro.",
+  "exampleTamil": "நான் மெட்ரோவுக்கு ஒரு நாள் அனுமதி அட்டை வாங்கினேன்.",
+  "synonyms": [
+   "permit",
+   "card"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "guidebook",
+  "meaning": "a book with useful facts for visitors to a place",
+  "tamil": "சுற்றுலா வழிகாட்டி நூல்",
+  "pos": "noun",
+  "pron": "GYD-book",
+  "example": "The guidebook lists the best local restaurants.",
+  "exampleTamil": "அந்த வழிகாட்டி நூல் சிறந்த உள்ளூர் உணவகங்களைப் பட்டியலிடுகிறது.",
+  "synonyms": [
+   "handbook"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "binoculars",
+  "meaning": "a tool with two lenses to see faraway things",
+  "tamil": "தொலைநோக்கி",
+  "pos": "noun",
+  "pron": "bih-NOK-yuh-lerz",
+  "example": "Bring binoculars to watch the birds.",
+  "exampleTamil": "பறவைகளைப் பார்க்க தொலைநோக்கி கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "telescope"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tripod",
+  "meaning": "a three-legged stand for a camera",
+  "tamil": "முக்காலி",
+  "pos": "noun",
+  "pron": "TRY-pod",
+  "example": "He set up a tripod for the sunrise photo.",
+  "exampleTamil": "அவன் சூரிய உதய புகைப்படத்திற்காக முக்காலி வைத்தான்.",
+  "synonyms": [
+   "stand"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "translator",
+  "meaning": "a person or app that changes words from one language to another",
+  "tamil": "மொழிபெயர்ப்பாளர்",
+  "pos": "noun",
+  "pron": "trans-LAY-ter",
+  "example": "A translator app helped us in Japan.",
+  "exampleTamil": "ஜப்பானில் ஒரு மொழிபெயர்ப்பு செயலி எங்களுக்கு உதவியது.",
+  "synonyms": [
+   "interpreter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "consulate",
+  "meaning": "an office that helps citizens of a country living abroad",
+  "tamil": "துணைத் தூதரகம்",
+  "pos": "noun",
+  "pron": "KON-suh-lit",
+  "example": "I went to the consulate to renew my passport.",
+  "exampleTamil": "என் கடவுச்சீட்டைப் புதுப்பிக்க நான் துணைத் தூதரகம் சென்றேன்.",
+  "synonyms": [
+   "embassy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "foreigner",
+  "meaning": "a person from another country",
+  "tamil": "வெளிநாட்டவர்",
+  "pos": "noun",
+  "pron": "FOR-in-er",
+  "example": "Many foreigners visit Mahabalipuram each year.",
+  "exampleTamil": "ஒவ்வொரு ஆண்டும் பல வெளிநாட்டவர் மகாபலிபுரத்திற்கு வருகின்றனர்.",
+  "synonyms": [
+   "outsider",
+   "visitor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ahead",
+  "meaning": "in front, or forward in the direction you are going",
+  "tamil": "முன்னால்",
+  "pos": "adverb",
+  "pron": "uh-HED",
+  "example": "Go straight ahead for two blocks.",
+  "exampleTamil": "இரண்டு தெருக்கள் நேராக முன்னால் செல்லுங்கள்.",
+  "synonyms": [
+   "forward"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,562 @@
+[
+ {
+  "word": "bug",
+  "tamil": "பிழை (பக்) - நிரலில் உள்ள தவறு",
+  "pos": "noun",
+  "pron": "BUG",
+  "example": "We found a bug in the login page yesterday.",
+  "exampleTamil": "நேற்று லாகின் பக்கத்தில் ஒரு பக் கண்டுபிடித்தோம்.",
+  "synonyms": [
+   "defect",
+   "glitch",
+   "flaw"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "debug",
+  "tamil": "பிழை திருத்து (டீபக்)",
+  "pos": "verb",
+  "pron": "dee-BUG",
+  "example": "I need to debug this function before the demo.",
+  "exampleTamil": "டெமோவுக்கு முன் இந்த ஃபங்ஷனை டீபக் செய்ய வேண்டும்.",
+  "synonyms": [
+   "troubleshoot",
+   "fix"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "error",
+  "tamil": "பிழை, தவறு",
+  "pos": "noun",
+  "pron": "ER-er",
+  "example": "The app shows an error when you click save.",
+  "exampleTamil": "சேவ் கிளிக் செய்தால் ஆப் பிழையைக் காட்டுகிறது.",
+  "synonyms": [
+   "mistake",
+   "fault"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "crash",
+  "tamil": "திடீரென செயலிழ",
+  "pos": "verb",
+  "pron": "KRASH",
+  "example": "The app crashed as soon as I opened it.",
+  "exampleTamil": "நான் திறந்தவுடனே ஆப் க்ராஷ் ஆனது.",
+  "synonyms": [
+   "fail",
+   "freeze"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fix",
+  "tamil": "சரிசெய்",
+  "pos": "verb",
+  "pron": "FIKS",
+  "example": "Can you fix this issue before lunch?",
+  "exampleTamil": "மதிய உணவுக்கு முன் இந்தப் பிரச்சினையை சரிசெய்ய முடியுமா?",
+  "synonyms": [
+   "repair",
+   "resolve"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "log",
+  "tamil": "பதிவு (லாக்)",
+  "pos": "noun",
+  "pron": "LOG",
+  "example": "Please check the server log for more details.",
+  "exampleTamil": "கூடுதல் விவரங்களுக்கு சர்வர் லாக்கைப் பாருங்கள்.",
+  "synonyms": [
+   "record",
+   "journal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "test",
+  "tamil": "சோதனை (டெஸ்ட்)",
+  "pos": "noun",
+  "pron": "TEST",
+  "example": "Every new feature needs a test.",
+  "exampleTamil": "ஒவ்வொரு புதிய அம்சத்துக்கும் ஒரு டெஸ்ட் தேவை.",
+  "synonyms": [
+   "check",
+   "trial"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tester",
+  "tamil": "சோதனையாளர் (டெஸ்டர்)",
+  "pos": "noun",
+  "pron": "TES-ter",
+  "example": "Our tester found two serious problems today.",
+  "exampleTamil": "எங்கள் டெஸ்டர் இன்று இரண்டு தீவிரப் பிரச்சினைகளைக் கண்டுபிடித்தார்.",
+  "synonyms": [
+   "QA engineer",
+   "checker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quality",
+  "tamil": "தரம்",
+  "pos": "noun",
+  "pron": "KWOL-ih-tee",
+  "example": "We care a lot about code quality.",
+  "exampleTamil": "நாங்கள் கோடின் தரத்தில் மிகுந்த அக்கறை கொள்கிறோம்.",
+  "synonyms": [
+   "standard",
+   "grade"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "verify",
+  "tamil": "உறுதிசெய்",
+  "pos": "verb",
+  "pron": "VER-ih-fy",
+  "example": "Please verify the fix on the staging site.",
+  "exampleTamil": "ஸ்டேஜிங் தளத்தில் இந்த திருத்தத்தை உறுதிசெய்யுங்கள்.",
+  "synonyms": [
+   "confirm",
+   "check"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "repository",
+  "tamil": "களஞ்சியம் (ரெப்போ)",
+  "pos": "noun",
+  "pron": "rih-POZ-ih-tor-ee",
+  "example": "The code is stored in a Git repository.",
+  "exampleTamil": "கோட் ஒரு Git ரெப்பாசிட்டரியில் சேமிக்கப்பட்டுள்ளது.",
+  "synonyms": [
+   "repo",
+   "code store"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "commit",
+  "tamil": "மாற்றத்தைப் பதிவு செய் (கமிட்)",
+  "pos": "verb",
+  "pron": "kuh-MIT",
+  "example": "Commit your changes with a clear message.",
+  "exampleTamil": "தெளிவான செய்தியுடன் உங்கள் மாற்றங்களை கமிட் செய்யுங்கள்.",
+  "synonyms": [
+   "save",
+   "record"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "merge",
+  "tamil": "இணை, ஒன்றாக்கு",
+  "pos": "verb",
+  "pron": "MERJ",
+  "example": "We will merge the branch after the review.",
+  "exampleTamil": "ரிவ்யூவுக்குப் பிறகு பிரான்ச்சை மெர்ஜ் செய்வோம்.",
+  "synonyms": [
+   "combine",
+   "join"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stack trace",
+  "tamil": "பிழை நிகழ்ந்த வழித்தடப் பதிவு",
+  "pos": "noun",
+  "pron": "STAK trays",
+  "example": "Please paste the full stack trace in the ticket.",
+  "exampleTamil": "முழு ஸ்டாக் ட்ரேஸை டிக்கெட்டில் ஒட்டுங்கள்.",
+  "synonyms": [
+   "error trace",
+   "backtrace"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "breakpoint",
+  "tamil": "நிறுத்தப் புள்ளி (பிரேக்பாயின்ட்)",
+  "pos": "noun",
+  "pron": "BRAYK-point",
+  "example": "I set a breakpoint on line forty.",
+  "exampleTamil": "நான் நாற்பதாவது வரியில் ஒரு பிரேக்பாயின்ட் வைத்தேன்.",
+  "synonyms": [
+   "pause point",
+   "stop marker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "patch",
+  "tamil": "சிறு திருத்தம் (பேட்ச்)",
+  "pos": "noun",
+  "pron": "PACH",
+  "example": "The security patch will go out tonight.",
+  "exampleTamil": "பாதுகாப்பு பேட்ச் இன்றிரவு வெளியாகும்.",
+  "synonyms": [
+   "update",
+   "fix"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hotfix",
+  "tamil": "அவசரத் திருத்தம் (ஹாட்ஃபிக்ஸ்)",
+  "pos": "noun",
+  "pron": "HOT-fiks",
+  "example": "We shipped a hotfix within an hour.",
+  "exampleTamil": "ஒரு மணி நேரத்துக்குள் ஹாட்ஃபிக்ஸ் வெளியிட்டோம்.",
+  "synonyms": [
+   "emergency fix",
+   "quick patch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reproduce",
+  "tamil": "மீண்டும் உருவாக்கிக் காட்டு",
+  "pos": "verb",
+  "pron": "ree-pruh-DYOOS",
+  "example": "I cannot reproduce the bug on my machine.",
+  "exampleTamil": "என் கணினியில் அந்த பக்கை என்னால் மீண்டும் உருவாக்க முடியவில்லை.",
+  "synonyms": [
+   "recreate",
+   "replicate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "logging",
+  "tamil": "பதிவுசெய்தல் (லாகிங்)",
+  "pos": "noun",
+  "pron": "LOG-ing",
+  "example": "Good logging makes production issues much easier to trace.",
+  "exampleTamil": "நல்ல லாகிங் தயாரிப்புப் பிரச்சினைகளை எளிதாகக் கண்டறிய உதவுகிறது.",
+  "synonyms": [
+   "record keeping",
+   "tracing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "diagnose",
+  "tamil": "காரணத்தைக் கண்டறி",
+  "pos": "verb",
+  "pron": "DY-ag-nohs",
+  "example": "It took hours to diagnose the memory problem.",
+  "exampleTamil": "நினைவகப் பிரச்சினையைக் கண்டறிய பல மணி நேரம் ஆனது.",
+  "synonyms": [
+   "identify",
+   "pinpoint"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "troubleshoot",
+  "tamil": "சிக்கலை ஆராய்ந்து தீர்",
+  "pos": "verb",
+  "pron": "TRUB-ul-shoot",
+  "example": "Let us troubleshoot the connection step by step.",
+  "exampleTamil": "இணைப்பை படிப்படியாக ஆராய்ந்து தீர்ப்போம்.",
+  "synonyms": [
+   "investigate",
+   "debug"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "revert",
+  "tamil": "முந்தைய நிலைக்குத் திருப்பு",
+  "pos": "verb",
+  "pron": "rih-VERT",
+  "example": "We had to revert the last commit.",
+  "exampleTamil": "கடைசி கமிட்டை நாங்கள் ரிவர்ட் செய்ய வேண்டியிருந்தது.",
+  "synonyms": [
+   "undo",
+   "roll back"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clone",
+  "tamil": "நகலெடுத்துப் பெறு (க்ளோன்)",
+  "pos": "verb",
+  "pron": "KLOHN",
+  "example": "First, clone the repository to your laptop.",
+  "exampleTamil": "முதலில் ரெப்போவை உங்கள் லேப்டாப்பில் க்ளோன் செய்யுங்கள்.",
+  "synonyms": [
+   "copy",
+   "duplicate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pull request",
+  "tamil": "மாற்றம் சேர்க்கக் கோரிக்கை",
+  "pos": "noun",
+  "pron": "PUL ri-KWEST",
+  "example": "I opened a pull request for the login fix.",
+  "exampleTamil": "லாகின் திருத்தத்துக்காக ஒரு புல் ரிக்வெஸ்ட் திறந்தேன்.",
+  "synonyms": [
+   "merge request",
+   "PR"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unit test",
+  "tamil": "சிறு பகுதிச் சோதனை",
+  "pos": "noun",
+  "pron": "YOO-nit TEST",
+  "example": "Please add a unit test for this function.",
+  "exampleTamil": "இந்த ஃபங்ஷனுக்கு ஒரு யூனிட் டெஸ்ட் சேர்க்கவும்.",
+  "synonyms": [
+   "component test",
+   "small test"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "diff",
+  "tamil": "வேறுபாடு (டிஃப்)",
+  "pos": "noun",
+  "pron": "DIF",
+  "example": "Check the diff before you approve it.",
+  "exampleTamil": "அப்ரூவ் செய்வதற்கு முன் டிஃப்பைப் பாருங்கள்.",
+  "synonyms": [
+   "difference",
+   "changes"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "changelog",
+  "tamil": "மாற்றப் பதிவேடு",
+  "pos": "noun",
+  "pron": "CHAYNJ-log",
+  "example": "Add the new feature to the changelog.",
+  "exampleTamil": "புதிய அம்சத்தை சேஞ்ச்லாக்கில் சேர்க்கவும்.",
+  "synonyms": [
+   "release notes",
+   "history"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "linter",
+  "tamil": "குறியீட்டுப் பிழை சரிபார்ப்பி (லிண்டர்)",
+  "pos": "noun",
+  "pron": "LIN-ter",
+  "example": "The linter complained about unused variables.",
+  "exampleTamil": "பயன்படுத்தாத வேரியபிள்களைப் பற்றி லிண்டர் புகார் செய்தது.",
+  "synonyms": [
+   "code checker",
+   "analyzer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "checkout",
+  "tamil": "கிளைக்கு மாறு (செக்அவுட்)",
+  "pos": "verb",
+  "pron": "CHEK-owt",
+  "example": "Checkout the release branch before you test it.",
+  "exampleTamil": "டெஸ்ட் செய்வதற்கு முன் ரிலீஸ் பிரான்ச்சுக்கு செக்அவுட் செய்யுங்கள்.",
+  "synonyms": [
+   "switch to",
+   "open"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reviewer",
+  "tamil": "மதிப்பாய்வாளர்",
+  "pos": "noun",
+  "pron": "rih-VYOO-er",
+  "example": "The reviewer asked me to rename two variables.",
+  "exampleTamil": "இரண்டு வேரியபிள்களை மாற்றுமாறு ரிவ்யூவர் கேட்டார்.",
+  "synonyms": [
+   "checker",
+   "examiner"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "regression",
+  "tamil": "பழைய அம்சம் மீண்டும் உடைதல்",
+  "pos": "noun",
+  "pron": "rih-GRESH-un",
+  "example": "The last release caused a regression in search.",
+  "exampleTamil": "கடைசி ரிலீஸ் தேடலில் ஒரு ரிக்ரஷனை ஏற்படுத்தியது.",
+  "synonyms": [
+   "relapse",
+   "setback"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "flaky",
+  "tamil": "நிலையற்ற (ஃபிளேக்கி)",
+  "pos": "adjective",
+  "pron": "FLAY-kee",
+  "example": "That flaky test fails every third run.",
+  "exampleTamil": "அந்த ஃபிளேக்கி டெஸ்ட் மூன்றில் ஒரு முறை தோல்வியடைகிறது.",
+  "synonyms": [
+   "unreliable",
+   "inconsistent"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "assertion",
+  "tamil": "உறுதிக் கூற்று (அசர்ஷன்)",
+  "pos": "noun",
+  "pron": "uh-SER-shun",
+  "example": "The assertion failed because the total was wrong.",
+  "exampleTamil": "மொத்தம் தவறாக இருந்ததால் அசர்ஷன் தோல்வியடைந்தது.",
+  "synonyms": [
+   "check",
+   "claim"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stub",
+  "tamil": "போலி மாற்றுப் பகுதி (ஸ்டப்)",
+  "pos": "noun",
+  "pron": "STUB",
+  "example": "We used a stub instead of the real database.",
+  "exampleTamil": "உண்மையான டேட்டாபேஸுக்குப் பதிலாக ஒரு ஸ்டப் பயன்படுத்தினோம்.",
+  "synonyms": [
+   "placeholder",
+   "dummy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fixture",
+  "tamil": "சோதனைத் தரவு அமைப்பு (ஃபிக்ஸ்ச்சர்)",
+  "pos": "noun",
+  "pron": "FIKS-cher",
+  "example": "Each test loads a fixture with sample users.",
+  "exampleTamil": "ஒவ்வொரு டெஸ்டும் மாதிரிப் பயனர்களுடன் ஒரு ஃபிக்ஸ்ச்சரை ஏற்றுகிறது.",
+  "synonyms": [
+   "test setup",
+   "sample data"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rebase",
+  "tamil": "கிளையை மறுஅடிப்படையாக்கு (ரீபேஸ்)",
+  "pos": "verb",
+  "pron": "ree-BAYS",
+  "example": "Please rebase your branch on the main branch.",
+  "exampleTamil": "உங்கள் பிரான்ச்சை மெயின் பிரான்ச்சில் ரீபேஸ் செய்யுங்கள்.",
+  "synonyms": [
+   "replay",
+   "realign"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cherry-pick",
+  "tamil": "குறிப்பிட்ட கமிட்டை மட்டும் எடு",
+  "pos": "verb",
+  "pron": "CHEH-ree-pik",
+  "example": "We cherry-picked the fix into the release branch.",
+  "exampleTamil": "அந்த திருத்தத்தை ரிலீஸ் பிரான்ச்சில் செர்ரி-பிக் செய்தோம்.",
+  "synonyms": [
+   "select",
+   "extract"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stash",
+  "tamil": "தற்காலிகமாக ஒதுக்கி வை (ஸ்டாஷ்)",
+  "pos": "verb",
+  "pron": "STASH",
+  "example": "Stash your changes before you switch branches.",
+  "exampleTamil": "பிரான்ச் மாற்றும் முன் உங்கள் மாற்றங்களை ஸ்டாஷ் செய்யுங்கள்.",
+  "synonyms": [
+   "set aside",
+   "store"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "squash",
+  "tamil": "பல கமிட்டுகளை ஒன்றாக்கு",
+  "pos": "verb",
+  "pron": "SKWOSH",
+  "example": "I will squash these commits before merging.",
+  "exampleTamil": "மெர்ஜ் செய்வதற்கு முன் இந்த கமிட்டுகளை ஸ்குவாஷ் செய்வேன்.",
+  "synonyms": [
+   "combine",
+   "condense"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nitpick",
+  "tamil": "சிறு குறை சுட்டிக்காட்டு (நிட்பிக்)",
+  "pos": "noun",
+  "pron": "NIT-pik",
+  "example": "That is just a nitpick, so feel free to ignore it.",
+  "exampleTamil": "இது ஒரு சிறு நிட்பிக் தான், புறக்கணிக்கலாம்.",
+  "synonyms": [
+   "minor comment",
+   "quibble"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bisect",
+  "tamil": "பிழை வந்த கமிட்டைத் தேடு (பைசெக்ட்)",
+  "pos": "verb",
+  "pron": "BY-sekt",
+  "example": "We used git to bisect and find the bad commit.",
+  "exampleTamil": "மோசமான கமிட்டைக் கண்டுபிடிக்க git மூலம் பைசெக்ட் செய்தோம்.",
+  "synonyms": [
+   "binary search",
+   "narrow down"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "traceback",
+  "tamil": "பிழை வழித்தடம் (ட்ரேஸ்பேக்)",
+  "pos": "noun",
+  "pron": "TRAYS-bak",
+  "example": "The traceback points to a null value on line twelve.",
+  "exampleTamil": "பன்னிரண்டாவது வரியில் null மதிப்பு இருப்பதை ட்ரேஸ்பேக் காட்டுகிறது.",
+  "synonyms": [
+   "stack trace",
+   "error report"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sanity check",
+  "tamil": "அடிப்படைச் சரிபார்ப்பு",
+  "pos": "noun",
+  "pron": "SAN-ih-tee chek",
+  "example": "Run a quick sanity check after the deployment.",
+  "exampleTamil": "டெப்ளாய்மெண்ட்டுக்குப் பிறகு ஒரு விரைவான சானிட்டி செக் செய்யுங்கள்.",
+  "synonyms": [
+   "quick check",
+   "smoke test"
+  ],
+  "level": "advanced"
+ }
+]

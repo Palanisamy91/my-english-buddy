@@ -1,0 +1,349 @@
+[
+  {
+    "word": "handover",
+    "meaning": "Passing your work and information to another person when you leave or change roles.",
+    "tamil": "வேலையை வேறொருவரிடம் ஒப்படைத்தல்",
+    "pos": "noun",
+    "pron": "HAND-oh-ver",
+    "example": "I have a handover meeting with Priya before I go on leave.",
+    "exampleTamil": "நான் லீவ் போறதுக்கு முன்னாடி பிரியாகூட ஒரு ஹேண்டோவர் மீட்டிங் இருக்கு.",
+    "synonyms": [
+      "transfer",
+      "passing on"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "casual leave",
+    "meaning": "A short paid day off you can take for personal reasons.",
+    "tamil": "தனிப்பட்ட காரணத்துக்கான சம்பளத்துடன் கூடிய விடுப்பு",
+    "pos": "noun",
+    "pron": "KAZH-oo-ul leev",
+    "example": "I am taking a casual leave tomorrow for a bank work.",
+    "exampleTamil": "வங்கி வேலைக்காக நாளைக்கு நான் ஒரு கேஷுவல் லீவ் எடுக்கிறேன்.",
+    "synonyms": [
+      "personal leave",
+      "day off"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "job offer",
+    "meaning": "A company's formal promise of a job to you.",
+    "tamil": "வேலைக்கான அழைப்பு கடிதம்",
+    "pos": "noun",
+    "pron": "job OF-er",
+    "example": "She got a job offer from a bigger company in Chennai.",
+    "exampleTamil": "அவளுக்கு சென்னையில ஒரு பெரிய கம்பெனியில இருந்து வேலை வாய்ப்பு வந்திருக்கு.",
+    "synonyms": [
+      "appointment letter",
+      "offer"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "turnaround",
+    "meaning": "The time taken to finish a task and send it back.",
+    "tamil": "ஒரு வேலையை முடிச்சு திருப்பித் தர ஆகும் நேரம்",
+    "pos": "noun",
+    "pron": "TURN-uh-round",
+    "example": "The turnaround for this report is only two days.",
+    "exampleTamil": "இந்த ரிப்போர்ட்டுக்கு முடிக்கிற நேரம் ரெண்டு நாள் மட்டும்தான்.",
+    "synonyms": [
+      "completion time",
+      "processing time"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "perk",
+    "meaning": "An extra benefit you get from a job, besides salary.",
+    "tamil": "சம்பளத்தைத் தவிர வேலையில் கிடைக்கும் கூடுதல் சலுகை",
+    "pos": "noun",
+    "pron": "PURK",
+    "example": "Free lunch is the best perk of this job.",
+    "exampleTamil": "இலவச சாப்பாடுதான் இந்த வேலையோட பெஸ்ட் சலுகை.",
+    "synonyms": [
+      "benefit",
+      "extra"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "reshuffle",
+    "meaning": "A change in who does which job in a team or company.",
+    "tamil": "பொறுப்புகளை மாற்றி அமைத்தல்",
+    "pos": "noun",
+    "pron": "ree-SHUF-ul",
+    "example": "There was a big reshuffle in our team last month.",
+    "exampleTamil": "போன மாசம் எங்க டீம்ல பெரிய மாற்றம் நடந்தது.",
+    "synonyms": [
+      "rearrangement",
+      "shake-up"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "template",
+    "meaning": "A ready-made format you can copy and fill in.",
+    "tamil": "நிரப்புவதற்கு தயாராக உள்ள மாதிரி வடிவம்",
+    "pos": "noun",
+    "pron": "TEM-plate",
+    "example": "Please use the same template for every weekly report.",
+    "exampleTamil": "ஒவ்வொரு வாராந்திர ரிப்போர்ட்டுக்கும் அதே டெம்ப்ளேட்டையே பயன்படுத்துங்க.",
+    "synonyms": [
+      "format",
+      "model"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "clarification",
+    "meaning": "An explanation that makes something clear.",
+    "tamil": "தெளிவுபடுத்துதல்",
+    "pos": "noun",
+    "pron": "klar-ih-fih-KAY-shun",
+    "example": "I need one clarification before I start the work.",
+    "exampleTamil": "வேலையை ஆரம்பிக்கிறதுக்கு முன்னாடி எனக்கு ஒரு விளக்கம் வேணும்.",
+    "synonyms": [
+      "explanation",
+      "clearing up"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "loop in",
+    "meaning": "To include someone in an email or discussion so they know about it.",
+    "tamil": "ஒருவரை விவாதத்தில் அல்லது மெயிலில் சேர்த்துக்கொள்ளுதல்",
+    "pos": "phrasal verb",
+    "pron": "LOOP in",
+    "example": "Please loop me in when you reply to the client.",
+    "exampleTamil": "கிளையன்ட்டுக்கு பதில் அனுப்பும்போது என்னையும் சேர்த்துக்கோங்க.",
+    "synonyms": [
+      "include",
+      "add"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "heads-up",
+    "meaning": "A short warning or advance news about something.",
+    "tamil": "முன்கூட்டியே சொல்லும் எச்சரிக்கை தகவல்",
+    "pos": "noun",
+    "pron": "HEDZ-up",
+    "example": "Thanks for the heads-up about the surprise audit.",
+    "exampleTamil": "திடீர் ஆடிட் பத்தி முன்னாடியே சொன்னதுக்கு நன்றி.",
+    "synonyms": [
+      "warning",
+      "advance notice"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "rework",
+    "meaning": "To do a piece of work again to make it better.",
+    "tamil": "வேலையை மறுபடியும் செய்தல்",
+    "pos": "verb",
+    "pron": "ree-WURK",
+    "example": "We have to rework the whole presentation tonight.",
+    "exampleTamil": "இன்னைக்கு ராத்திரி முழு பிரசன்டேஷனையும் திரும்ப செய்யணும்.",
+    "synonyms": [
+      "redo",
+      "revise"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "reply all",
+    "meaning": "An email button that sends your answer to everyone on the mail.",
+    "tamil": "மெயிலில் உள்ள எல்லோருக்கும் பதில் அனுப்புதல்",
+    "pos": "phrase",
+    "pron": "rih-PLY awl",
+    "example": "Please do not reply all for a simple thank you.",
+    "exampleTamil": "சாதாரண நன்றிக்கு எல்லோருக்கும் பதில் அனுப்பாதீங்க.",
+    "synonyms": [
+      "respond to everyone"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "out of office",
+    "meaning": "Not at your workplace, for example on leave or travel.",
+    "tamil": "அலுவலகத்தில் இல்லாத நிலை",
+    "pos": "phrase",
+    "pron": "out uv OF-iss",
+    "example": "I will be out of office until Monday.",
+    "exampleTamil": "நான் திங்கட்கிழமை வரைக்கும் ஆபீஸ்ல இருக்க மாட்டேன்.",
+    "synonyms": [
+      "away",
+      "not available"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "on leave",
+    "meaning": "Taking time off work with permission.",
+    "tamil": "விடுப்பில் இருத்தல்",
+    "pos": "phrase",
+    "pron": "on LEEV",
+    "example": "My manager is on leave this whole week.",
+    "exampleTamil": "என் மேனேஜர் இந்த வாரம் முழுக்க லீவுல இருக்கார்.",
+    "synonyms": [
+      "off work",
+      "away"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "cover for",
+    "meaning": "To do someone's work while they are away.",
+    "tamil": "வராதவருக்குப் பதிலாக அவர் வேலையைச் செய்தல்",
+    "pos": "phrasal verb",
+    "pron": "KUV-er for",
+    "example": "Can you cover for me on Friday afternoon?",
+    "exampleTamil": "வெள்ளிக்கிழமை மதியம் எனக்குப் பதிலா நீங்க பார்த்துக்க முடியுமா?",
+    "synonyms": [
+      "fill in for",
+      "substitute"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "sit in",
+    "meaning": "To attend a meeting just to listen, not to take part.",
+    "tamil": "பங்கெடுக்காமல் மீட்டிங்கில் வெறுமனே கலந்துகொள்ளுதல்",
+    "pos": "phrasal verb",
+    "pron": "sit IN",
+    "example": "Can I sit in on tomorrow's client call?",
+    "exampleTamil": "நாளைக்கு கிளையன்ட் காலுக்கு நான் வந்து கேட்கலாமா?",
+    "synonyms": [
+      "observe",
+      "attend"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "chase",
+    "meaning": "To keep asking someone until they finish or reply.",
+    "tamil": "ஒருவரைத் தொடர்ந்து நினைவூட்டி வேலையை முடிக்க வைத்தல்",
+    "pos": "verb",
+    "pron": "CHAYSS",
+    "example": "I have to chase the vendor for the payment again.",
+    "exampleTamil": "பணம் கேட்டு நான் மறுபடியும் வெண்டரை துரத்தணும்.",
+    "synonyms": [
+      "follow up",
+      "pursue"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "shortlist",
+    "meaning": "A small list of the best people chosen from many.",
+    "tamil": "பலரில் இருந்து தேர்ந்தெடுத்த சிறிய பட்டியல்",
+    "pos": "noun",
+    "pron": "SHORT-list",
+    "example": "Your name is on the shortlist for the final round.",
+    "exampleTamil": "இறுதிச் சுற்றுக்கான பட்டியல்ல உங்க பேரு இருக்கு.",
+    "synonyms": [
+      "final list",
+      "selected list"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "posting",
+    "meaning": "A job position in a particular place, often given by the company.",
+    "tamil": "ஒரு குறிப்பிட்ட இடத்துக்கான பணி நியமனம்",
+    "pos": "noun",
+    "pron": "POH-sting",
+    "example": "He got a new posting in the Coimbatore branch.",
+    "exampleTamil": "அவருக்கு கோயம்புத்தூர் கிளையில புது பணியிடம் கிடைச்சிருக்கு.",
+    "synonyms": [
+      "assignment",
+      "placement"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "pay cut",
+    "meaning": "A reduction in the money you earn.",
+    "tamil": "சம்பளக் குறைப்பு",
+    "pos": "noun",
+    "pron": "PAY kut",
+    "example": "Many people took a pay cut during the lockdown.",
+    "exampleTamil": "லாக்டவுன் நேரத்துல நிறைய பேருக்கு சம்பளம் குறைச்சாங்க.",
+    "synonyms": [
+      "salary reduction"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "pay rise",
+    "meaning": "An increase in the money you earn.",
+    "tamil": "சம்பள உயர்வு",
+    "pos": "noun",
+    "pron": "PAY ryz",
+    "example": "I am hoping for a good pay rise this year.",
+    "exampleTamil": "இந்த வருஷம் நல்ல சம்பள உயர்வு கிடைக்கும்னு நம்பறேன்.",
+    "synonyms": [
+      "raise",
+      "hike"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "arrears",
+    "meaning": "Money that should have been paid earlier but is still due.",
+    "tamil": "நிலுவையில் உள்ள சம்பளம் அல்லது தொகை",
+    "pos": "noun",
+    "pron": "uh-REERZ",
+    "example": "They will pay the salary arrears with next month's pay.",
+    "exampleTamil": "நிலுவை சம்பளத்தை அடுத்த மாசம் சம்பளத்தோட சேர்த்து தருவாங்க.",
+    "synonyms": [
+      "unpaid dues",
+      "back pay"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "retirement",
+    "meaning": "The time when you stop working because of age.",
+    "tamil": "ஓய்வு பெறுதல்",
+    "pos": "noun",
+    "pron": "rih-TYRE-ment",
+    "example": "My uncle is planning a quiet life after retirement.",
+    "exampleTamil": "என் மாமா ஓய்வுக்குப் பிறகு அமைதியான வாழ்க்கைக்கு திட்டமிடறார்.",
+    "synonyms": [
+      "stopping work",
+      "superannuation"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "id card",
+    "meaning": "A small card that shows your name and company, used to enter the office.",
+    "tamil": "அடையாள அட்டை",
+    "pos": "noun",
+    "pron": "eye-DEE kard",
+    "example": "I forgot my ID card, so the guard stopped me.",
+    "exampleTamil": "நான் ஐடி கார்டு மறந்துட்டேன், அதனால செக்யூரிட்டி என்னை தடுத்துட்டார்.",
+    "synonyms": [
+      "identity card",
+      "badge"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "biometric",
+    "meaning": "A machine that uses your fingerprint to mark your attendance.",
+    "tamil": "கைரேகை மூலம் வருகை பதிவு செய்யும் இயந்திரம்",
+    "pos": "noun",
+    "pron": "by-oh-MET-rik",
+    "example": "The biometric is not working, so please sign the register.",
+    "exampleTamil": "பயோமெட்ரிக் வேலை செய்யல, அதனால ரெஜிஸ்டர்ல கையெழுத்து போடுங்க.",
+    "synonyms": [
+      "fingerprint machine"
+    ],
+    "level": "intermediate"
+  }
+]

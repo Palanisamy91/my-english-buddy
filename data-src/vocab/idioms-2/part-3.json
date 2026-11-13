@@ -1,0 +1,341 @@
+[
+ {
+  "word": "free spirit",
+  "meaning": "A person who lives freely without following rules.",
+  "tamil": "விதிகளைப் பின்பற்றாமல் சுதந்திரமாக வாழ்பவர்",
+  "pos": "phrase",
+  "pron": "free SPIR-it",
+  "example": "My aunt is a free spirit who loves to travel.",
+  "exampleTamil": "என் அத்தை பயணம் செய்ய விரும்பும் சுதந்திரமான மனம் கொண்டவர்.",
+  "synonyms": [
+   "nonconformist"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "role model",
+  "meaning": "A person others look up to and want to copy.",
+  "tamil": "மற்றவர்கள் பின்பற்ற விரும்பும் முன்மாதிரி நபர்",
+  "pos": "phrase",
+  "pron": "ROHL mod-ul",
+  "example": "My teacher is a role model for all of us.",
+  "exampleTamil": "எங்கள் ஆசிரியர் எங்கள் அனைவருக்கும் முன்மாதிரி.",
+  "synonyms": [
+   "example",
+   "idol"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "people person",
+  "meaning": "Someone who enjoys being with and talking to people.",
+  "tamil": "மக்களுடன் பழகுவதை விரும்புபவர்",
+  "pos": "phrase",
+  "pron": "PEE-pul PUR-sun",
+  "example": "She is a people person, so sales suits her.",
+  "exampleTamil": "அவள் மக்களுடன் பழகுபவள், அதனால் விற்பனைப் பணி அவளுக்குப் பொருந்தும்.",
+  "synonyms": [
+   "sociable person"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "word of mouth",
+  "meaning": "Information passed from person to person by talking.",
+  "tamil": "வாய்மொழியாகப் பரவும் தகவல்",
+  "pos": "phrase",
+  "pron": "wurd uv MOWTH",
+  "example": "The shop became famous by word of mouth.",
+  "exampleTamil": "அந்தக் கடை வாய்மொழிப் பரவலால் புகழ்பெற்றது.",
+  "synonyms": [
+   "verbal spread"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "heart of gold",
+  "meaning": "A very kind and generous nature.",
+  "tamil": "மிகவும் இரக்கமும் தாராள மனமும்",
+  "pos": "phrase",
+  "pron": "hart uv GOHLD",
+  "example": "The old watchman has a heart of gold.",
+  "exampleTamil": "அந்த வயதான காவலாளி தங்கமான மனம் கொண்டவர்.",
+  "synonyms": [
+   "kind nature"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fair-weather friend",
+  "meaning": "A friend who is there only when things are good.",
+  "tamil": "நல்ல நேரத்தில் மட்டும் இருக்கும் நண்பர்",
+  "pos": "phrase",
+  "pron": "fair-WETH-er FREND",
+  "example": "He left when I lost my job, a true fair-weather friend.",
+  "exampleTamil": "நான் வேலை இழந்தபோது அவன் விலகிவிட்டான், உண்மையில் சுயநல நண்பன்.",
+  "synonyms": [
+   "false friend"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "know-it-all",
+  "meaning": "A person who acts as if they know everything.",
+  "tamil": "எல்லாம் தெரிந்தவர் போல நடந்துகொள்பவர்",
+  "pos": "phrase",
+  "pron": "NOH-it-awl",
+  "example": "Nobody likes a know-it-all in a meeting.",
+  "exampleTamil": "கூட்டத்தில் எல்லாம் தெரிந்தவர் போல நடப்பவரை யாரும் விரும்புவதில்லை.",
+  "synonyms": [
+   "smart aleck"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "top dog",
+  "meaning": "The most powerful person in a group.",
+  "tamil": "ஒரு குழுவில் மிகவும் அதிகாரம் உள்ளவர்",
+  "pos": "phrase",
+  "pron": "top DOG",
+  "example": "He wants to be top dog in the company.",
+  "exampleTamil": "அவர் நிறுவனத்தில் முதன்மை அதிகாரியாக இருக்க விரும்புகிறார்.",
+  "synonyms": [
+   "boss",
+   "leader"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hit the jackpot",
+  "meaning": "To have great luck or a big success.",
+  "tamil": "பெரிய அதிர்ஷ்டம் அல்லது பெரும் வெற்றி பெறுதல்",
+  "pos": "phrase",
+  "pron": "hit thuh JAK-pot",
+  "example": "She hit the jackpot with her first online business.",
+  "exampleTamil": "அவள் முதல் இணைய வணிகத்திலேயே பெரும் வெற்றி பெற்றாள்.",
+  "synonyms": [
+   "strike it rich"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "make it big",
+  "meaning": "To become very successful or famous.",
+  "tamil": "மிகவும் வெற்றிபெற்று புகழ் அடைதல்",
+  "pos": "phrase",
+  "pron": "mayk it BIG",
+  "example": "He moved to Chennai to make it big in films.",
+  "exampleTamil": "அவர் திரைப்படத்தில் பெரிய வெற்றிபெற சென்னைக்குச் சென்றார்.",
+  "synonyms": [
+   "become famous",
+   "succeed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "top notch",
+  "meaning": "Of the highest quality.",
+  "tamil": "மிக உயர்ந்த தரமான",
+  "pos": "phrase",
+  "pron": "top NOCH",
+  "example": "The food at that hotel is top notch.",
+  "exampleTamil": "அந்த ஓட்டலின் உணவு முதல் தரமானது.",
+  "synonyms": [
+   "excellent",
+   "first-class"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "on a roll",
+  "meaning": "Having a series of successes.",
+  "tamil": "தொடர் வெற்றிகளைப் பெற்றுவரும்",
+  "pos": "phrase",
+  "pron": "on uh ROHL",
+  "example": "Our team is on a roll and has won five matches.",
+  "exampleTamil": "எங்கள் அணி தொடர் வெற்றியில் உள்ளது, ஐந்து போட்டிகளில் வென்றுள்ளது.",
+  "synonyms": [
+   "winning streak"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "going places",
+  "meaning": "Likely to be very successful in the future.",
+  "tamil": "எதிர்காலத்தில் நல்ல வெற்றி பெற வாய்ப்புள்ள",
+  "pos": "phrase",
+  "pron": "GOH-ing PLAY-siz",
+  "example": "That young engineer is going places.",
+  "exampleTamil": "அந்த இளம் பொறியாளர் எதிர்காலத்தில் பெரிய இடத்துக்குப் போவார்.",
+  "synonyms": [
+   "promising",
+   "on the rise"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pull it off",
+  "meaning": "To succeed in doing something difficult.",
+  "tamil": "கடினமான ஒன்றைச் சாதித்தல்",
+  "pos": "phrase",
+  "pron": "pul it OF",
+  "example": "Everyone doubted her, but she pulled it off.",
+  "exampleTamil": "எல்லோரும் அவளை சந்தேகித்தனர், ஆனால் அவள் சாதித்துவிட்டாள்.",
+  "synonyms": [
+   "manage it",
+   "achieve it"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nail it",
+  "meaning": "To do something perfectly.",
+  "tamil": "ஒன்றை மிகச் சிறப்பாகச் செய்தல்",
+  "pos": "phrase",
+  "pron": "NAYL it",
+  "example": "You nailed it in the interview today!",
+  "exampleTamil": "இன்றைய நேர்காணலில் நீ அசத்திவிட்டாய்!",
+  "synonyms": [
+   "ace it",
+   "get it right"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "get ahead",
+  "meaning": "To become more successful than others.",
+  "tamil": "மற்றவர்களை விட முன்னேறுதல்",
+  "pos": "phrase",
+  "pron": "get uh-HED",
+  "example": "Hard work helps you get ahead in life.",
+  "exampleTamil": "கடின உழைப்பு வாழ்க்கையில் முன்னேற உதவும்.",
+  "synonyms": [
+   "advance",
+   "progress"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "raise the bar",
+  "meaning": "To set a higher standard.",
+  "tamil": "உயர்ந்த தரத்தை நிர்ணயித்தல்",
+  "pos": "phrase",
+  "pron": "rayz thuh BAR",
+  "example": "Her work raised the bar for the whole team.",
+  "exampleTamil": "அவளுடைய வேலை முழுக் குழுவுக்கும் தரத்தை உயர்த்தியது.",
+  "synonyms": [
+   "set higher standards"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "break a leg",
+  "meaning": "A way to wish someone good luck.",
+  "tamil": "ஒருவருக்கு நல்வாழ்த்து கூறும் சொல்",
+  "pos": "phrase",
+  "pron": "brayk uh LEG",
+  "example": "Break a leg in your speech tomorrow!",
+  "exampleTamil": "நாளை உன் பேச்சில் வெற்றி பெற வாழ்த்துகள்!",
+  "synonyms": [
+   "good luck"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hands down",
+  "meaning": "Easily, without any doubt.",
+  "tamil": "எளிதாக, சந்தேகமின்றி",
+  "pos": "phrase",
+  "pron": "handz DOWN",
+  "example": "This is hands down the best biryani in town.",
+  "exampleTamil": "இது ஊரிலேயே சந்தேகமின்றி சிறந்த பிரியாணி.",
+  "synonyms": [
+   "definitely",
+   "by far"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "call the shots",
+  "meaning": "To be the one who makes the decisions.",
+  "tamil": "முடிவுகளை எடுப்பவராக இருத்தல்",
+  "pos": "phrase",
+  "pron": "kawl thuh SHOTS",
+  "example": "In our house, my grandmother calls the shots.",
+  "exampleTamil": "எங்கள் வீட்டில் முடிவுகளை எடுப்பவர் என் பாட்டிதான்.",
+  "synonyms": [
+   "be in charge",
+   "rule"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "learn the ropes",
+  "meaning": "To learn how to do a new job.",
+  "tamil": "புதிய வேலையைச் செய்யக் கற்றுக்கொள்ளுதல்",
+  "pos": "phrase",
+  "pron": "lurn thuh ROHPS",
+  "example": "It took me a month to learn the ropes here.",
+  "exampleTamil": "இங்குள்ள வேலையைக் கற்றுக்கொள்ள எனக்கு ஒரு மாதம் ஆனது.",
+  "synonyms": [
+   "get trained",
+   "get started"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "the real deal",
+  "meaning": "Truly genuine and good, not fake.",
+  "tamil": "உண்மையான, நம்பகமான, போலியல்லாத",
+  "pos": "phrase",
+  "pron": "thuh REEL DEEL",
+  "example": "This chef is the real deal; try his dosa.",
+  "exampleTamil": "இந்த சமையல்காரர் உண்மையான திறமைசாலி; அவர் தோசையைச் சுவைத்துப் பாருங்கள்.",
+  "synonyms": [
+   "genuine",
+   "authentic"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "climb the ladder",
+  "meaning": "To move up to higher positions at work.",
+  "tamil": "வேலையில் உயர் பதவிகளுக்கு முன்னேறுதல்",
+  "pos": "phrase",
+  "pron": "klym thuh LAD-er",
+  "example": "She climbed the ladder from clerk to manager.",
+  "exampleTamil": "அவள் எழுத்தரிலிருந்து மேலாளர் வரை முன்னேறினாள்.",
+  "synonyms": [
+   "get promoted",
+   "rise"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "win-win",
+  "meaning": "Good for everyone involved.",
+  "tamil": "சம்பந்தப்பட்ட எல்லோருக்கும் நன்மை தரும்",
+  "pos": "phrase",
+  "pron": "win-WIN",
+  "example": "Working from home is a win-win for us both.",
+  "exampleTamil": "வீட்டிலிருந்து வேலை செய்வது எங்கள் இருவருக்கும் நன்மை.",
+  "synonyms": [
+   "mutually good"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "go far",
+  "meaning": "To be very successful in life.",
+  "tamil": "வாழ்க்கையில் பெரிய வெற்றி பெறுதல்",
+  "pos": "phrase",
+  "pron": "goh FAR",
+  "example": "With your talent, you will go far.",
+  "exampleTamil": "உன் திறமையால் நீ வாழ்க்கையில் உயர்வாய்.",
+  "synonyms": [
+   "succeed",
+   "do well"
+  ],
+  "level": "beginner"
+ }
+]

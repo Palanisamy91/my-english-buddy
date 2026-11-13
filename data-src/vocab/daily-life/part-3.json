@@ -1,0 +1,665 @@
+[
+ {
+  "word": "grandmother",
+  "tamil": "பாட்டி",
+  "pos": "noun",
+  "pron": "GRAN-muth-ur",
+  "example": "My grandmother tells us old stories.",
+  "exampleTamil": "என் பாட்டி எங்களுக்கு பழைய கதைகள் சொல்வார்.",
+  "synonyms": [
+   "granny",
+   "grandma"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "grandfather",
+  "tamil": "தாத்தா",
+  "pos": "noun",
+  "pron": "GRAN-fah-thur",
+  "example": "My grandfather walks in the park daily.",
+  "exampleTamil": "என் தாத்தா தினமும் பூங்காவில் நடக்கிறார்.",
+  "synonyms": [
+   "granddad",
+   "grandpa"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "uncle",
+  "tamil": "மாமா, சித்தப்பா, பெரியப்பா",
+  "pos": "noun",
+  "pron": "UNG-kul",
+  "example": "My uncle is visiting us this weekend.",
+  "exampleTamil": "என் மாமா இந்த வார இறுதியில் எங்களைப் பார்க்க வருகிறார்.",
+  "synonyms": [
+   "father's brother"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "aunt",
+  "tamil": "அத்தை, சித்தி, பெரியம்மா",
+  "pos": "noun",
+  "pron": "ANT",
+  "example": "My aunt cooks the best sweets.",
+  "exampleTamil": "என் அத்தை மிகச் சிறந்த இனிப்புகளைச் செய்வார்.",
+  "synonyms": [
+   "auntie"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cousin",
+  "tamil": "உறவினர் குழந்தை, ஒன்றுவிட்ட சகோதரன்",
+  "pos": "noun",
+  "pron": "KUZ-un",
+  "example": "I played cricket with my cousin.",
+  "exampleTamil": "நான் என் ஒன்றுவிட்ட சகோதரனுடன் கிரிக்கெட் விளையாடினேன்.",
+  "synonyms": [
+   "relative"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "nephew",
+  "tamil": "மருமகன் (சகோதரன்/சகோதரியின் மகன்)",
+  "pos": "noun",
+  "pron": "NEF-yoo",
+  "example": "My nephew just started going to school.",
+  "exampleTamil": "என் மருமகன் இப்போதுதான் பள்ளிக்குப் போகத் தொடங்கினான்.",
+  "synonyms": [
+   "brother's son"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "niece",
+  "tamil": "மருமகள் (சகோதரன்/சகோதரியின் மகள்)",
+  "pos": "noun",
+  "pron": "NEES",
+  "example": "Her niece loves drawing flowers.",
+  "exampleTamil": "அவளுடைய மருமகள் பூக்கள் வரைய விரும்புகிறாள்.",
+  "synonyms": [
+   "sister's daughter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sibling",
+  "tamil": "உடன்பிறந்தவர்",
+  "pos": "noun",
+  "pron": "SIB-ling",
+  "example": "Do you have any siblings at home?",
+  "exampleTamil": "உங்களுக்கு வீட்டில் உடன்பிறந்தவர்கள் யாராவது இருக்கிறார்களா?",
+  "synonyms": [
+   "brother or sister"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "in-laws",
+  "tamil": "கணவன்/மனைவி வீட்டார்",
+  "pos": "noun",
+  "pron": "IN-lawz",
+  "example": "We are visiting my in-laws on Sunday.",
+  "exampleTamil": "நாங்கள் ஞாயிற்றுக்கிழமை என் மாமியார் வீட்டுக்குப் போகிறோம்.",
+  "synonyms": [
+   "spouse's family"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "husband",
+  "tamil": "கணவர்",
+  "pos": "noun",
+  "pron": "HUZ-bund",
+  "example": "Her husband drives her to the market.",
+  "exampleTamil": "அவளுடைய கணவர் அவளைச் சந்தைக்கு காரில் அழைத்துச் செல்கிறார்.",
+  "synonyms": [
+   "spouse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wife",
+  "tamil": "மனைவி",
+  "pos": "noun",
+  "pron": "WYF",
+  "example": "He bought flowers for his wife.",
+  "exampleTamil": "அவர் தன் மனைவிக்கு பூக்கள் வாங்கினார்.",
+  "synonyms": [
+   "spouse",
+   "partner"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "neighbour",
+  "tamil": "அண்டை வீட்டார்",
+  "pos": "noun",
+  "pron": "NAY-bur",
+  "example": "Our neighbour keeps a lovely garden.",
+  "exampleTamil": "எங்கள் அண்டை வீட்டார் அழகான தோட்டம் வைத்திருக்கிறார்.",
+  "synonyms": [
+   "next-door resident"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "relative",
+  "tamil": "உறவினர்",
+  "pos": "noun",
+  "pron": "REL-uh-tiv",
+  "example": "Many relatives came for the function.",
+  "exampleTamil": "விழாவுக்கு நிறைய உறவினர்கள் வந்தனர்.",
+  "synonyms": [
+   "kin",
+   "family member"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "guest",
+  "tamil": "விருந்தினர்",
+  "pos": "noun",
+  "pron": "GEST",
+  "example": "We are expecting guests for dinner.",
+  "exampleTamil": "இரவு உணவுக்கு விருந்தினர்கள் வருவார்கள் என எதிர்பார்க்கிறோம்.",
+  "synonyms": [
+   "visitor"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "toddler",
+  "tamil": "தத்தித் தத்தி நடக்கும் குழந்தை",
+  "pos": "noun",
+  "pron": "TOD-lur",
+  "example": "The toddler is just learning to walk.",
+  "exampleTamil": "அந்தக் குழந்தை இப்போதுதான் நடக்கக் கற்றுக்கொள்கிறது.",
+  "synonyms": [
+   "little child"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "teenager",
+  "tamil": "பதின்பருவத்தினர்",
+  "pos": "noun",
+  "pron": "TEEN-ay-jur",
+  "example": "Her teenager spends hours on the phone.",
+  "exampleTamil": "அவளுடைய பதின்பருவ பிள்ளை மணிக்கணக்கில் போனில் இருக்கிறான்.",
+  "synonyms": [
+   "adolescent"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "elderly",
+  "tamil": "முதியவர்களான",
+  "pos": "adjective",
+  "pron": "EL-dur-lee",
+  "example": "Please give your seat to the elderly lady.",
+  "exampleTamil": "தயவுசெய்து முதிய அம்மாவுக்கு உங்கள் இருக்கையைக் கொடுங்கள்.",
+  "synonyms": [
+   "aged",
+   "senior"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "friendship",
+  "tamil": "நட்பு",
+  "pos": "noun",
+  "pron": "FREND-ship",
+  "example": "Their friendship has lasted twenty years.",
+  "exampleTamil": "அவர்களின் நட்பு இருபது ஆண்டுகள் நீடித்துள்ளது.",
+  "synonyms": [
+   "bond",
+   "companionship"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "argue",
+  "tamil": "வாதிடு, சண்டை போடு",
+  "pos": "verb",
+  "pron": "AR-gyoo",
+  "example": "The kids argue about the remote every evening.",
+  "exampleTamil": "குழந்தைகள் ஒவ்வொரு மாலையும் ரிமோட்டுக்காக சண்டை போடுகிறார்கள்.",
+  "synonyms": [
+   "quarrel",
+   "bicker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "forgive",
+  "tamil": "மன்னி",
+  "pos": "verb",
+  "pron": "fur-GIV",
+  "example": "Please forgive me for being late.",
+  "exampleTamil": "தாமதமாக வந்ததற்கு தயவுசெய்து என்னை மன்னியுங்கள்.",
+  "synonyms": [
+   "pardon",
+   "excuse"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hug",
+  "tamil": "கட்டி அணை",
+  "pos": "verb",
+  "pron": "HUG",
+  "example": "She ran to hug her mother.",
+  "exampleTamil": "அவள் தன் அம்மாவைக் கட்டி அணைக்க ஓடினாள்.",
+  "synonyms": [
+   "embrace",
+   "cuddle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cheerful",
+  "tamil": "மகிழ்ச்சியான, உற்சாகமான",
+  "pos": "adjective",
+  "pron": "CHEER-ful",
+  "example": "He is always cheerful in the morning.",
+  "exampleTamil": "அவன் காலையில் எப்போதும் உற்சாகமாக இருக்கிறான்.",
+  "synonyms": [
+   "happy",
+   "bright"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "homesick",
+  "tamil": "வீட்டை நினைத்து ஏங்கும்",
+  "pos": "adjective",
+  "pron": "HOHM-sik",
+  "example": "I feel homesick during festivals.",
+  "exampleTamil": "பண்டிகை நாட்களில் எனக்கு வீட்டு ஏக்கம் வருகிறது.",
+  "synonyms": [
+   "longing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lonely",
+  "tamil": "தனிமையான",
+  "pos": "adjective",
+  "pron": "LOHN-lee",
+  "example": "The old man felt lonely after his wife passed away.",
+  "exampleTamil": "மனைவி இறந்த பிறகு அந்த முதியவர் தனிமையாக உணர்ந்தார்.",
+  "synonyms": [
+   "isolated",
+   "alone"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "annoyed",
+  "tamil": "எரிச்சலடைந்த",
+  "pos": "adjective",
+  "pron": "uh-NOYD",
+  "example": "He felt annoyed by the loud music.",
+  "exampleTamil": "அதிக சத்தமான இசையால் அவன் எரிச்சல் அடைந்தான்.",
+  "synonyms": [
+   "irritated",
+   "upset"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grumpy",
+  "tamil": "முகம் சுளிக்கும், எரிந்து விழும்",
+  "pos": "adjective",
+  "pron": "GRUM-pee",
+  "example": "Dad is grumpy until he has his coffee.",
+  "exampleTamil": "அப்பா காபி குடிக்கும் வரை எரிந்து விழுவார்.",
+  "synonyms": [
+   "cranky",
+   "moody"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "delighted",
+  "tamil": "பெரிதும் மகிழ்ந்த",
+  "pos": "adjective",
+  "pron": "dih-LY-tid",
+  "example": "She was delighted with the birthday gift.",
+  "exampleTamil": "பிறந்தநாள் பரிசைப் பார்த்து அவள் மிகவும் மகிழ்ந்தாள்.",
+  "synonyms": [
+   "thrilled",
+   "overjoyed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shy",
+  "tamil": "கூச்சமுள்ள",
+  "pos": "adjective",
+  "pron": "SHY",
+  "example": "My little son is shy with strangers.",
+  "exampleTamil": "என் சிறு மகன் புதியவர்களிடம் கூச்சப்படுவான்.",
+  "synonyms": [
+   "timid",
+   "bashful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "jealous",
+  "tamil": "பொறாமையான",
+  "pos": "adjective",
+  "pron": "JEL-us",
+  "example": "He felt jealous of his brother's new bike.",
+  "exampleTamil": "தன் சகோதரனின் புதிய சைக்கிளைப் பார்த்து அவனுக்குப் பொறாமையாக இருந்தது.",
+  "synonyms": [
+   "envious"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sleepy",
+  "tamil": "தூக்கக் கலக்கமான",
+  "pos": "adjective",
+  "pron": "SLEE-pee",
+  "example": "I feel sleepy after a heavy lunch.",
+  "exampleTamil": "பெரிய மதிய உணவுக்குப் பிறகு எனக்கு தூக்கம் வருகிறது.",
+  "synonyms": [
+   "drowsy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sweat",
+  "tamil": "வியர்",
+  "pos": "verb",
+  "pron": "SWET",
+  "example": "We sweat a lot in the summer heat.",
+  "exampleTamil": "கோடை வெப்பத்தில் நமக்கு நிறைய வியர்க்கிறது.",
+  "synonyms": [
+   "perspire"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shirt",
+  "tamil": "சட்டை",
+  "pos": "noun",
+  "pron": "SHURT",
+  "example": "He ironed his white shirt for the function.",
+  "exampleTamil": "அவன் விழாவுக்காக தன் வெள்ளைச் சட்டையை இஸ்திரி செய்தான்.",
+  "synonyms": [
+   "top"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trousers",
+  "tamil": "கால்சட்டை",
+  "pos": "noun",
+  "pron": "TROW-zurz",
+  "example": "These trousers are a little tight.",
+  "exampleTamil": "இந்தக் கால்சட்டை கொஞ்சம் இறுக்கமாக இருக்கிறது.",
+  "synonyms": [
+   "pants"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "saree",
+  "tamil": "புடவை",
+  "pos": "noun",
+  "pron": "SAH-ree",
+  "example": "She wore a silk saree to the wedding.",
+  "exampleTamil": "அவள் திருமணத்துக்கு பட்டுப் புடவை அணிந்தாள்.",
+  "synonyms": [
+   "sari"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dhoti",
+  "tamil": "வேட்டி",
+  "pos": "noun",
+  "pron": "DOH-tee",
+  "example": "He wears a dhoti on festival days.",
+  "exampleTamil": "அவர் பண்டிகை நாட்களில் வேட்டி அணிவார்.",
+  "synonyms": [
+   "waist cloth"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "jacket",
+  "tamil": "மேல் சட்டை, ஜாக்கெட்",
+  "pos": "noun",
+  "pron": "JAK-it",
+  "example": "Take a jacket, it is chilly outside.",
+  "exampleTamil": "ஒரு ஜாக்கெட் எடுத்துக்கொள், வெளியே குளிராக இருக்கிறது.",
+  "synonyms": [
+   "coat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sweater",
+  "tamil": "ஸ்வெட்டர்",
+  "pos": "noun",
+  "pron": "SWET-ur",
+  "example": "Grandma knitted a warm sweater for me.",
+  "exampleTamil": "பாட்டி எனக்கு ஒரு சூடான ஸ்வெட்டர் பின்னினார்.",
+  "synonyms": [
+   "jumper",
+   "pullover"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sandals",
+  "tamil": "செருப்பு",
+  "pos": "noun",
+  "pron": "SAN-dulz",
+  "example": "I left my sandals outside the door.",
+  "exampleTamil": "நான் என் செருப்பை கதவுக்கு வெளியே விட்டேன்.",
+  "synonyms": [
+   "slippers",
+   "flip-flops"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "umbrella",
+  "tamil": "குடை",
+  "pos": "noun",
+  "pron": "um-BREL-uh",
+  "example": "Do not forget your umbrella today.",
+  "exampleTamil": "இன்று உங்கள் குடையை மறக்காதீர்கள்.",
+  "synonyms": [
+   "parasol"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scarf",
+  "tamil": "கழுத்துத் துண்டு, ஸ்கார்ஃப்",
+  "pos": "noun",
+  "pron": "SKARF",
+  "example": "She tied a scarf around her neck.",
+  "exampleTamil": "அவள் கழுத்தில் ஸ்கார்ஃப் கட்டினாள்.",
+  "synonyms": [
+   "shawl",
+   "wrap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pocket",
+  "tamil": "பாக்கெட், சட்டைப்பை",
+  "pos": "noun",
+  "pron": "POK-it",
+  "example": "I put my wallet in my pocket.",
+  "exampleTamil": "நான் என் பணப்பையை பாக்கெட்டில் வைத்தேன்.",
+  "synonyms": [
+   "pouch"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stitch",
+  "tamil": "தை",
+  "pos": "verb",
+  "pron": "STICH",
+  "example": "Can you stitch this torn pocket?",
+  "exampleTamil": "இந்தக் கிழிந்த பாக்கெட்டைத் தைக்க முடியுமா?",
+  "synonyms": [
+   "sew",
+   "mend"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fit",
+  "tamil": "அளவாகப் பொருந்து",
+  "pos": "verb",
+  "pron": "FIT",
+  "example": "This shirt does not fit me anymore.",
+  "exampleTamil": "இந்தச் சட்டை இனி எனக்குப் பொருந்தவில்லை.",
+  "synonyms": [
+   "suit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "loose",
+  "tamil": "தளர்வான",
+  "pos": "adjective",
+  "pron": "LOOS",
+  "example": "Cotton clothes feel loose and comfortable.",
+  "exampleTamil": "பருத்தி ஆடைகள் தளர்வாகவும் வசதியாகவும் இருக்கும்.",
+  "synonyms": [
+   "baggy",
+   "slack"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tight",
+  "tamil": "இறுக்கமான",
+  "pos": "adjective",
+  "pron": "TYT",
+  "example": "These shoes are too tight for me.",
+  "exampleTamil": "இந்த காலணிகள் எனக்கு மிகவும் இறுக்கமாக இருக்கின்றன.",
+  "synonyms": [
+   "snug",
+   "narrow"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wallet",
+  "tamil": "பணப்பை",
+  "pos": "noun",
+  "pron": "WOL-it",
+  "example": "I lost my wallet in the bus.",
+  "exampleTamil": "நான் என் பணப்பையை பேருந்தில் தொலைத்துவிட்டேன்.",
+  "synonyms": [
+   "purse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cash",
+  "tamil": "ரொக்கம்",
+  "pos": "noun",
+  "pron": "KASH",
+  "example": "Do you accept cash at this shop?",
+  "exampleTamil": "இந்தக் கடையில் ரொக்கம் வாங்குவீர்களா?",
+  "synonyms": [
+   "notes",
+   "currency"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "coin",
+  "tamil": "நாணயம்",
+  "pos": "noun",
+  "pron": "KOYN",
+  "example": "I only have a one-rupee coin.",
+  "exampleTamil": "என்னிடம் ஒரு ரூபாய் நாணயம் மட்டுமே இருக்கிறது.",
+  "synonyms": [
+   "piece"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "change",
+  "tamil": "சில்லறை, மீதிப் பணம்",
+  "pos": "noun",
+  "pron": "CHAYNJ",
+  "example": "Please keep the change.",
+  "exampleTamil": "மீதிப் பணத்தை வைத்துக் கொள்ளுங்கள்.",
+  "synonyms": [
+   "coins",
+   "balance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "discount",
+  "tamil": "தள்ளுபடி",
+  "pos": "noun",
+  "pron": "DIS-kownt",
+  "example": "There is a big discount on shoes today.",
+  "exampleTamil": "இன்று காலணிகளுக்கு பெரிய தள்ளுபடி இருக்கிறது.",
+  "synonyms": [
+   "reduction",
+   "rebate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bargain",
+  "tamil": "பேரம் பேசு",
+  "pos": "verb",
+  "pron": "BAR-gin",
+  "example": "Mom likes to bargain at the vegetable market.",
+  "exampleTamil": "அம்மா காய்கறிச் சந்தையில் பேரம் பேசுவார்.",
+  "synonyms": [
+   "haggle",
+   "negotiate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "expensive",
+  "tamil": "விலை உயர்ந்த",
+  "pos": "adjective",
+  "pron": "ik-SPEN-siv",
+  "example": "Gold has become very expensive this year.",
+  "exampleTamil": "இந்த ஆண்டு தங்கம் மிகவும் விலை உயர்ந்துவிட்டது.",
+  "synonyms": [
+   "costly",
+   "pricey"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cheap",
+  "tamil": "மலிவான",
+  "pos": "adjective",
+  "pron": "CHEEP",
+  "example": "Tomatoes are cheap in the market today.",
+  "exampleTamil": "இன்று சந்தையில் தக்காளி மலிவாக இருக்கிறது.",
+  "synonyms": [
+   "inexpensive",
+   "low-cost"
+  ],
+  "level": "beginner"
+ }
+]

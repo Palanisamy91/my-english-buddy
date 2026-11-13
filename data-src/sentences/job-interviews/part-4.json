@@ -1,0 +1,374 @@
+[
+ {
+  "en": "Could you please explain the leave policy?",
+  "tamil": "லீவ் பாலிசியைப் பத்தி சொல்ல முடியுமா?",
+  "context": "Asking HR about leave rules.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Policy' means the rules of a company. 'Please' makes your request polite.",
+  "words": [
+   "leave",
+   "policy"
+  ],
+  "usage": "Ask it with HR when you receive the offer and want to know the rules.",
+  "leelaQ": "How many days of leave do you get in a year?",
+  "answer": "I get twelve days of casual leave in a year."
+ },
+ {
+  "en": "My parents are supportive, so relocating to Bengaluru is not a problem.",
+  "tamil": "என் பெற்றோர் ஆதரவா இருக்காங்க, அதனால பெங்களூருக்கு மாறறது பிரச்சனை இல்ல.",
+  "context": "Telling HR you can move to another city.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Relocating' means moving to live in a new place. 'So' gives the result of the first part.",
+  "words": [
+   "supportive",
+   "relocating"
+  ],
+  "usage": "Say it when the job is in another city and HR asks about moving.",
+  "leelaQ": "Would you move to another city for a good job?",
+  "answer": "Yes, I would move if the job is really good."
+ },
+ {
+  "en": "Thank you for your time, I really enjoyed our conversation.",
+  "tamil": "உங்க நேரத்துக்கு நன்றி, நம்ம உரையாடல் எனக்கு ரொம்பப் பிடிச்சிருந்தது.",
+  "context": "Closing the interview politely.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Thank you for your time' is the standard way to close. 'Enjoyed' is past because it is finished.",
+  "words": [
+   "conversation",
+   "enjoyed"
+  ],
+  "usage": "Say it when the interview ends and you stand up to leave.",
+  "leelaQ": "How do you end a meeting politely?",
+  "answer": "I thank them for their time and say goodbye."
+ },
+ {
+  "en": "Yes, what does a typical day look like in this role?",
+  "tamil": "ஆமா, இந்த ரோல்ல ஒரு சாதாரண நாள் எப்படி இருக்கும்?",
+  "context": "Asking the interviewer about daily work.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Typical' means usual and normal. 'Look like' asks for a description of something.",
+  "words": [
+   "typical",
+   "role"
+  ],
+  "usage": "A smart question that shows you are thinking about the actual work.",
+  "leelaQ": "What does a typical day look like for you?",
+  "answer": "I wake up early, go to work and come home by seven."
+ },
+ {
+  "en": "Could you please let me know the result by next week?",
+  "tamil": "ரிசல்ட்டை அடுத்த வாரத்துக்குள்ள தெரியப்படுத்த முடியுமா?",
+  "context": "Asking when you will hear the result.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Let me know' means tell me. 'By next week' means not later than next week.",
+  "words": [
+   "result"
+  ],
+  "usage": "Say it politely at the end when you want to know the next step.",
+  "leelaQ": "How do you politely ask someone for an answer by a certain date?",
+  "answer": "I say could you please let me know by Friday."
+ },
+ {
+  "en": "I would be very happy to join your team.",
+  "tamil": "உங்க டீம்ல சேர நான் ரொம்ப சந்தோஷப்படுவேன்.",
+  "context": "Showing enthusiasm at the end of the interview.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Would be happy to' is a polite way to say what you want. It shows a strong interest.",
+  "words": [
+   "happy",
+   "join"
+  ],
+  "usage": "Say it at the end to show that you really want the job.",
+  "leelaQ": "Would you be happy to work with new people?",
+  "answer": "Yes, I would be happy to meet new people and learn from them."
+ },
+ {
+  "en": "I will wait for your call, sir.",
+  "tamil": "உங்க கால்க்காக காத்திருக்கேன் சார்.",
+  "context": "Saying goodbye after the interview.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will wait' is a simple future promise. 'Sir' shows respect to the interviewer.",
+  "words": [
+   "wait",
+   "call"
+  ],
+  "usage": "A polite closing line when the interviewer says they will inform you.",
+  "leelaQ": "What do you say when you are waiting for someone's reply?",
+  "answer": "I say I will wait for your reply."
+ },
+ {
+  "en": "Please keep my resume for any future openings.",
+  "tamil": "எதிர்காலத்துல ஏதாவது காலியிடம் வந்தா என் ரெஸ்யூமை வச்சுக்கோங்க.",
+  "context": "Asking the company to remember you if you are not selected.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Future openings' means jobs that will come later. It is a polite, hopeful way to close.",
+  "words": [
+   "resume",
+   "openings"
+  ],
+  "usage": "Say it if you are not selected now but still want the company to call you later.",
+  "leelaQ": "What would you say if you did not get the job?",
+  "answer": "I would thank them and ask them to keep my resume."
+ },
+ {
+  "en": "It was nice meeting you, and I hope to hear from you soon.",
+  "tamil": "உங்களைச் சந்திச்சது மகிழ்ச்சி, சீக்கிரமே உங்ககிட்ட இருந்து நல்ல பதில் வரும்னு நம்பறேன்.",
+  "context": "Saying goodbye to the interviewer.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'It was nice meeting you' is used when you part. 'Hear from you' means get a message from you.",
+  "words": [
+   "meeting",
+   "hope"
+  ],
+  "usage": "A warm and polite closing line when you shake hands and leave.",
+  "leelaQ": "What do you say when you leave after meeting someone new?",
+  "answer": "I say it was nice meeting you and wish them well."
+ },
+ {
+  "en": "Is there anything else you would like to know about me?",
+  "tamil": "என்னைப் பத்தி வேற ஏதாவது தெரிஞ்சுக்க விரும்பறீங்களா?",
+  "context": "Offering more information at the end of the interview.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would like to' is polite. It gives the interviewer one more chance to ask you something.",
+  "words": [
+   "anything else"
+  ],
+  "usage": "Ask it at the end of the interview to show that you are open and confident.",
+  "leelaQ": "What else would you like to share about yourself?",
+  "answer": "I would like to share that I love learning new skills."
+ },
+ {
+  "en": "I would like to say that I am very serious about this job.",
+  "tamil": "இந்த வேலையில நான் ரொம்ப சீரியஸா இருக்கேன்னு சொல்ல விரும்பறேன்.",
+  "context": "Making a final point to the interviewer.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I would like to say that' introduces an important point. 'Serious about' means really committed.",
+  "words": [
+   "serious"
+  ],
+  "usage": "A strong closing sentence when you want to make a final impression.",
+  "leelaQ": "What are you serious about in your life right now?",
+  "answer": "I am serious about my career and my health."
+ },
+ {
+  "en": "When will we hear back from you?",
+  "tamil": "உங்ககிட்ட இருந்து எப்போ பதில் வரும்?",
+  "context": "Asking about the result date.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Hear back' means get a reply after a first contact. 'When will' asks about a future time.",
+  "words": [
+   "hear back"
+  ],
+  "usage": "A natural question near the end of an interview or a call.",
+  "leelaQ": "How long do you wait for a reply after you apply for a job?",
+  "answer": "I usually wait for about one week."
+ },
+ {
+  "en": "We will call you within a week to share our decision.",
+  "tamil": "எங்க முடிவைச் சொல்ல ஒரு வாரத்துக்குள்ள உங்களுக்கு கால் பண்ணுவோம்.",
+  "context": "The interviewer tells you when you will hear the result.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Within a week' means in less than seven days. 'To share' tells the purpose of the call.",
+  "words": [
+   "decision",
+   "within"
+  ],
+  "usage": "An interviewer says this at the end, and you should reply with thanks.",
+  "leelaQ": "What do you do while you wait for an important phone call?",
+  "answer": "I keep my phone nearby and I stay busy with other work."
+ },
+ {
+  "en": "Congratulations, you have been selected for the next round.",
+  "tamil": "வாழ்த்துகள், நீங்க அடுத்த ரவுண்டுக்குத் தேர்வாகியிருக்கீங்க.",
+  "context": "HR calls to give you good news.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been selected' is passive. It focuses on you and not on who selected you.",
+  "words": [
+   "congratulations",
+   "selected",
+   "round"
+  ],
+  "usage": "HR says this on a phone call or an email after your first interview.",
+  "leelaQ": "How would you feel if HR called you with good news?",
+  "answer": "I would feel very happy and I would thank them."
+ },
+ {
+  "en": "Please bring your original certificates when you come for the next round.",
+  "tamil": "அடுத்த ரவுண்டுக்கு வரும்போது உங்க ஒரிஜினல் சர்டிஃபிகேட்டுகளைக் கொண்டு வாங்க.",
+  "context": "HR explains what documents to bring.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Original' means not a copy. 'When you come' uses present tense for a future time.",
+  "words": [
+   "original",
+   "certificates"
+  ],
+  "usage": "HR says this when they invite you for verification or the next interview.",
+  "leelaQ": "Which documents do you take with you to an interview?",
+  "answer": "I take my certificates, my ID card and some photos."
+ },
+ {
+  "en": "Could you send me the details of the next round by email?",
+  "tamil": "அடுத்த ரவுண்டோட விவரங்களை ஈமெயில்ல அனுப்ப முடியுமா?",
+  "context": "Asking HR for the interview details in writing.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'By email' tells the way. 'Details' means the time, place and other information.",
+  "words": [
+   "details",
+   "email"
+  ],
+  "usage": "Ask it politely on a phone call so you do not forget the time or address.",
+  "leelaQ": "Why is it good to get details by email after a phone call?",
+  "answer": "It is good because I can read it again later."
+ },
+ {
+  "en": "I have attached my certificates to the email.",
+  "tamil": "என்னோட சர்டிஃபிகேட்டுகளை ஈமெயில்ல இணைச்சிருக்கேன்.",
+  "context": "Telling HR that your documents are in the mail.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Attached' means added to an email. Present perfect shows the action is done just now.",
+  "words": [
+   "attached",
+   "certificates"
+  ],
+  "usage": "Write it in an email to HR when you send your documents.",
+  "leelaQ": "Do you often send documents by email?",
+  "answer": "Yes, I send documents by email almost every week."
+ },
+ {
+  "en": "Where is the interview going to be held?",
+  "tamil": "இன்டர்வியூ எங்க நடக்கப் போகுது?",
+  "context": "Asking for the interview venue.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Going to be held' is a passive future for a planned event. 'Held' means conducted or organised.",
+  "words": [
+   "held",
+   "interview"
+  ],
+  "usage": "Ask it on a call with HR so that you reach the right place.",
+  "leelaQ": "How do you find a new place when you go there for the first time?",
+  "answer": "I use a map on my phone and I ask people on the way."
+ },
+ {
+  "en": "Please do not worry, the interview is just a simple conversation.",
+  "tamil": "கவலைப்படாதீங்க, இன்டர்வியூ ஒரு சாதாரண உரையாடல்தான்.",
+  "context": "Comforting a nervous friend before an interview.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Please do not' + base verb gives a polite negative instruction. It is gentle and kind.",
+  "words": [
+   "worry",
+   "conversation"
+  ],
+  "usage": "Say it to a friend or a junior who feels nervous before an interview.",
+  "leelaQ": "What do you say to a friend who is very nervous?",
+  "answer": "I tell my friend to stay calm and just be honest."
+ },
+ {
+  "en": "I was a little nervous in the beginning, but now I feel better.",
+  "tamil": "ஆரம்பத்துல கொஞ்சம் பயந்தேன், ஆனா இப்போ நல்லா இருக்கு.",
+  "context": "Telling the interviewer how you feel after starting.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was' and 'feel' show a change from the past to now. 'A little' means slightly.",
+  "words": [
+   "nervous",
+   "beginning"
+  ],
+  "usage": "Use it honestly when the interviewer says you look nervous.",
+  "leelaQ": "Do you feel nervous when you speak in front of people?",
+  "answer": "Yes, a little, but I feel better after the first minute."
+ },
+ {
+  "en": "Did you bring a copy of your resume?",
+  "tamil": "உங்க ரெஸ்யூம் காப்பி கொண்டு வந்தீங்களா?",
+  "context": "The interviewer asks for a printed resume.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did you bring' is a past question. 'A copy' means a printed paper version.",
+  "words": [
+   "copy",
+   "resume"
+  ],
+  "usage": "A receptionist or interviewer asks it when you arrive for the interview.",
+  "leelaQ": "Do you keep copies of your important papers?",
+  "answer": "Yes, I keep copies of all my papers in a file."
+ },
+ {
+  "en": "Yes, I have brought two copies in this file.",
+  "tamil": "ஆமா, இந்த ஃபைல்ல ரெண்டு காப்பி கொண்டு வந்திருக்கேன்.",
+  "context": "Giving the copies of your resume to the interviewer.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have brought' shows that you have them now. 'In this file' tells where they are.",
+  "words": [
+   "brought",
+   "copies"
+  ],
+  "usage": "Say it as you hand over the papers to the panel.",
+  "leelaQ": "What do you carry in your bag every day?",
+  "answer": "I carry my laptop, my lunch box and a water bottle."
+ },
+ {
+  "en": "Sorry, could you repeat the question once more?",
+  "tamil": "மன்னிச்சிடுங்க, கேள்வியை இன்னொரு தடவை சொல்ல முடியுமா?",
+  "context": "Asking the interviewer to repeat a question.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you repeat' is polite. 'Once more' means one more time. It is better than guessing.",
+  "words": [
+   "repeat",
+   "question"
+  ],
+  "usage": "Use it when you did not hear or understand the question well.",
+  "leelaQ": "What do you say when you did not hear someone properly?",
+  "answer": "I say sorry, could you please say that again."
+ },
+ {
+  "en": "I am sorry, I did not understand the question clearly.",
+  "tamil": "மன்னிக்கணும், கேள்வி எனக்கு தெளிவா புரியல.",
+  "context": "Telling the interviewer that you are confused.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not understand' is the past negative. 'Clearly' shows that the problem is clarity.",
+  "words": [
+   "understand",
+   "clearly"
+  ],
+  "usage": "Say it politely instead of giving a wrong answer.",
+  "leelaQ": "What do you do when you do not understand something in a meeting?",
+  "answer": "I ask politely and I take notes."
+ },
+ {
+  "en": "Thank you for your time, and I hope to hear from you soon.",
+  "tamil": "உங்க நேரத்துக்கு நன்றி, சீக்கிரம் உங்ககிட்ட இருந்து பதில் வரும்னு நம்பறேன்.",
+  "context": "Ending the interview politely.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "This is a polite closing line. 'Hope to hear from you' means you want a reply.",
+  "words": [
+   "hope",
+   "soon"
+  ],
+  "usage": "Say it at the end of the interview while leaving the room.",
+  "leelaQ": "How do you say goodbye politely after a meeting?",
+  "answer": "I say thank you for your time and shake hands."
+ }
+]

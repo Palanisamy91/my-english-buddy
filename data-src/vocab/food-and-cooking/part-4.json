@@ -1,0 +1,349 @@
+[
+ {
+  "word": "defrost",
+  "meaning": "To make frozen food normal again by leaving it out.",
+  "tamil": "உறைந்த உணவை வெளியே வைத்து உறைநிலை நீக்குதல்.",
+  "pos": "verb",
+  "pron": "dee-FROST",
+  "example": "Defrost the chicken before you cook it.",
+  "exampleTamil": "கோழிக்கறியை சமைக்கும் முன் உறைநிலை நீக்குங்கள்.",
+  "synonyms": [
+   "thaw",
+   "unfreeze"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sizzle",
+  "meaning": "To make a hissing sound while frying in hot oil.",
+  "tamil": "சூடான எண்ணெயில் பொரியும்போது சொய்யென்று ஒலி எழுப்புதல்.",
+  "pos": "verb",
+  "pron": "SIZ-ul",
+  "example": "The onions sizzled as soon as they touched the hot oil.",
+  "exampleTamil": "சூடான எண்ணெயில் பட்டதும் வெங்காயம் சொய்யென்று ஒலித்தது.",
+  "synonyms": [
+   "sputter",
+   "crackle"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "slurp",
+  "meaning": "To drink or eat noisily by sucking.",
+  "tamil": "சத்தத்துடன் உறிஞ்சிக் குடித்தல் அல்லது சாப்பிடுதல்.",
+  "pos": "verb",
+  "pron": "SLURP",
+  "example": "He slurped his hot noodles loudly.",
+  "exampleTamil": "அவன் சூடான நூடுல்ஸை சத்தமாக உறிஞ்சிக் குடித்தான்.",
+  "synonyms": [
+   "sip",
+   "suck"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flavour",
+  "meaning": "The taste of a food or drink.",
+  "tamil": "உணவு அல்லது பானத்தின் சுவை.",
+  "pos": "noun",
+  "pron": "FLAY-vur",
+  "example": "Which ice cream flavour do you like best?",
+  "exampleTamil": "எந்த ஐஸ்கிரீம் சுவை உங்களுக்கு மிகவும் பிடிக்கும்?",
+  "synonyms": [
+   "taste",
+   "tang"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mouthful",
+  "meaning": "The amount of food you can put in your mouth at one time.",
+  "tamil": "ஒரு முறை வாயில் போடும் உணவின் அளவு.",
+  "pos": "noun",
+  "pron": "MOWTH-ful",
+  "example": "Take a small mouthful and chew it well.",
+  "exampleTamil": "சிறிய வாய் உணவை எடுத்து நன்றாக மெல்லுங்கள்.",
+  "synonyms": [
+   "bite",
+   "morsel"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "yummy",
+  "meaning": "Very tasty (a casual word).",
+  "tamil": "மிகவும் சுவையான (பேச்சு வழக்கு).",
+  "pos": "adjective",
+  "pron": "YUM-ee",
+  "example": "This chocolate cake is so yummy!",
+  "exampleTamil": "இந்த சாக்லேட் கேக் மிகவும் சுவையாக இருக்கிறது!",
+  "synonyms": [
+   "tasty",
+   "delicious"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "marinade",
+  "meaning": "A mix of spices and liquid in which food is soaked before cooking.",
+  "tamil": "சமைக்கும் முன் உணவை ஊறவைக்கும் மசாலா கலவை.",
+  "pos": "noun",
+  "pron": "MAR-ih-nayd",
+  "example": "Keep the chicken in the marinade for one hour.",
+  "exampleTamil": "கோழிக்கறியை மசாலா கலவையில் ஒரு மணி நேரம் ஊறவையுங்கள்.",
+  "synonyms": [
+   "sauce",
+   "mixture"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gobble",
+  "meaning": "To eat very fast, often in a greedy way.",
+  "tamil": "மிக வேகமாக, பேராசையுடன் சாப்பிடுதல்.",
+  "pos": "verb",
+  "pron": "GOB-ul",
+  "example": "Don't gobble your food, eat slowly.",
+  "exampleTamil": "உணவை அவசரமாக விழுங்காதீர்கள், மெதுவாக சாப்பிடுங்கள்.",
+  "synonyms": [
+   "devour",
+   "gulp"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "munch",
+  "meaning": "To chew food steadily and noisily.",
+  "tamil": "உணவை தொடர்ந்து சத்தத்துடன் மென்று தின்னுதல்.",
+  "pos": "verb",
+  "pron": "MUNCH",
+  "example": "The children munched popcorn during the film.",
+  "exampleTamil": "குழந்தைகள் படம் பார்க்கும்போது பாப்கார்னை மென்று தின்றனர்.",
+  "synonyms": [
+   "chomp",
+   "chew"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "waitress",
+  "meaning": "A woman who brings food to tables in a restaurant.",
+  "tamil": "உணவகத்தில் மேசைக்கு உணவு கொண்டுவரும் பெண்.",
+  "pos": "noun",
+  "pron": "WAY-tris",
+  "example": "The waitress brought us water and a menu.",
+  "exampleTamil": "பணிப்பெண் எங்களுக்கு தண்ணீரும் மெனுவும் கொண்டுவந்தாள்.",
+  "synonyms": [
+   "server",
+   "attendant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "starter",
+  "meaning": "A small dish eaten before the main meal.",
+  "tamil": "முக்கிய உணவுக்கு முன் சாப்பிடும் சிறு உணவு.",
+  "pos": "noun",
+  "pron": "STAR-tur",
+  "example": "We ordered paneer tikka as a starter.",
+  "exampleTamil": "நாங்கள் ஸ்டார்ட்டராக பனீர் டிக்கா ஆர்டர் செய்தோம்.",
+  "synonyms": [
+   "first course",
+   "appetizer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dine",
+  "meaning": "To eat dinner, especially in a nice place.",
+  "tamil": "இரவு உணவு உண்ணுதல், குறிப்பாக நல்ல இடத்தில்.",
+  "pos": "verb",
+  "pron": "DYN",
+  "example": "We dined at a rooftop restaurant on our anniversary.",
+  "exampleTamil": "திருமண நாளன்று நாங்கள் மாடி உணவகத்தில் இரவு உணவு உண்டோம்.",
+  "synonyms": [
+   "eat",
+   "feast"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cafe",
+  "meaning": "A small place where you can drink coffee and eat light food.",
+  "tamil": "காபி குடித்து சிற்றுண்டி சாப்பிடும் சிறிய கடை.",
+  "pos": "noun",
+  "pron": "kaf-AY",
+  "example": "Let's meet at the cafe near the bus stand.",
+  "exampleTamil": "பேருந்து நிலையம் அருகிலுள்ள காபி கடையில் சந்திப்போம்.",
+  "synonyms": [
+   "coffee shop",
+   "bistro"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "utensil",
+  "meaning": "A tool or container used for cooking or eating.",
+  "tamil": "சமைக்க அல்லது சாப்பிடப் பயன்படும் கருவி அல்லது பாத்திரம்.",
+  "pos": "noun",
+  "pron": "yoo-TEN-sul",
+  "example": "Wash every utensil before you cook.",
+  "exampleTamil": "சமைக்கும் முன் ஒவ்வொரு பாத்திரத்தையும் கழுவுங்கள்.",
+  "synonyms": [
+   "tool",
+   "implement"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wok",
+  "meaning": "A round deep pan used for frying Chinese-style food.",
+  "tamil": "சீன முறை சமையலுக்கான ஆழமான வட்ட வாணலி.",
+  "pos": "noun",
+  "pron": "WOK",
+  "example": "Heat the oil in a wok before adding the noodles.",
+  "exampleTamil": "நூடுல்ஸ் சேர்க்கும் முன் வாணலியில் எண்ணெயை சூடாக்குங்கள்.",
+  "synonyms": [
+   "pan",
+   "frying pan"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tawa",
+  "meaning": "A flat round iron pan used to make chapati and dosa.",
+  "tamil": "தோசை, சப்பாத்தி சுடும் தட்டையான வட்ட இரும்புத் தவா.",
+  "pos": "noun",
+  "pron": "TAH-wah",
+  "example": "Put the chapati on the hot tawa.",
+  "exampleTamil": "சப்பாத்தியை சூடான தவாவில் போடுங்கள்.",
+  "synonyms": [
+   "griddle",
+   "flat pan"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lid",
+  "meaning": "The cover on top of a pot, pan or box.",
+  "tamil": "பாத்திரத்தின் மேல் மூடும் மூடி.",
+  "pos": "noun",
+  "pron": "LID",
+  "example": "Keep the lid on so the rice cooks well.",
+  "exampleTamil": "சாதம் நன்றாக வேக மூடியை மூடிவையுங்கள்.",
+  "synonyms": [
+   "cover",
+   "cap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grater",
+  "meaning": "A kitchen tool for shredding food into small pieces.",
+  "tamil": "உணவை சிறு துருவல்களாக்கும் சமையலறைக் கருவி.",
+  "pos": "noun",
+  "pron": "GRAY-tur",
+  "example": "Use a grater to shred the carrot.",
+  "exampleTamil": "கேரட்டை துருவ துருவியைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "shredder",
+   "scraper"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "strainer",
+  "meaning": "A tool with small holes that separates liquid from solid food.",
+  "tamil": "திரவத்தையும் திடப்பொருளையும் பிரிக்கும் சிறு துளைகளுள்ள வடிகட்டி.",
+  "pos": "noun",
+  "pron": "STRAY-nur",
+  "example": "Pour the tea through a strainer into the cup.",
+  "exampleTamil": "தேநீரை வடிகட்டி வழியாக கோப்பையில் ஊற்றுங்கள்.",
+  "synonyms": [
+   "filter",
+   "sifter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "teapot",
+  "meaning": "A pot with a spout for making and pouring tea.",
+  "tamil": "தேநீர் தயாரித்து ஊற்றும் மூக்குடைய பாத்திரம்.",
+  "pos": "noun",
+  "pron": "TEE-pot",
+  "example": "Grandma poured hot tea from the old teapot.",
+  "exampleTamil": "பாட்டி பழைய தேநீர்ப் பாத்திரத்திலிருந்து சூடான தேநீர் ஊற்றினாள்.",
+  "synonyms": [
+   "kettle",
+   "pot"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "jug",
+  "meaning": "A container with a handle for holding and pouring liquids.",
+  "tamil": "கைப்பிடியுடன் திரவம் வைத்து ஊற்றும் ஜாடி.",
+  "pos": "noun",
+  "pron": "JUG",
+  "example": "Please fill the jug with fresh water.",
+  "exampleTamil": "தயவுசெய்து ஜாடியில் புதிய தண்ணீர் நிரப்புங்கள்.",
+  "synonyms": [
+   "pitcher",
+   "jar"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chopsticks",
+  "meaning": "Two thin sticks used to eat food, mainly in East Asia.",
+  "tamil": "கிழக்காசியாவில் உணவு உண்ணப் பயன்படும் இரு மெல்லிய குச்சிகள்.",
+  "pos": "noun",
+  "pron": "CHOP-stiks",
+  "example": "I am still learning to eat noodles with chopsticks.",
+  "exampleTamil": "நான் இன்னும் குச்சிகளால் நூடுல்ஸ் சாப்பிடக் கற்றுக்கொண்டிருக்கிறேன்.",
+  "synonyms": [
+   "sticks",
+   "cutlery"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dishwasher",
+  "meaning": "A machine that washes plates and cups.",
+  "tamil": "தட்டுகள், கோப்பைகளைக் கழுவும் இயந்திரம்.",
+  "pos": "noun",
+  "pron": "DISH-wosh-ur",
+  "example": "Put the dirty plates in the dishwasher.",
+  "exampleTamil": "அழுக்கு தட்டுகளை பாத்திரம் கழுவும் இயந்திரத்தில் போடுங்கள்.",
+  "synonyms": [
+   "washer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thermos",
+  "meaning": "A bottle that keeps drinks hot or cold for many hours.",
+  "tamil": "பானத்தை பல மணி நேரம் சூடாக அல்லது குளிராக வைத்திருக்கும் புட்டி.",
+  "pos": "noun",
+  "pron": "THUR-mus",
+  "example": "He carries hot coffee in a thermos to work.",
+  "exampleTamil": "அவன் வேலைக்கு சூடான காபியை தெர்மாஸில் எடுத்துச் செல்கிறான்.",
+  "synonyms": [
+   "flask"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "toaster",
+  "meaning": "A machine that makes bread brown and crisp.",
+  "tamil": "ரொட்டியை மொறுமொறுப்பாக வாட்டும் இயந்திரம்.",
+  "pos": "noun",
+  "pron": "TOH-stur",
+  "example": "The toaster popped up two golden slices.",
+  "exampleTamil": "டோஸ்டரில் இருந்து இரண்டு பொன்னிற ரொட்டித் துண்டுகள் வெளியே வந்தன.",
+  "synonyms": [
+   "toast machine"
+  ],
+  "level": "intermediate"
+ }
+]

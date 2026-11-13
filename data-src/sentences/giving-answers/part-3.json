@@ -1,0 +1,377 @@
+[
+ {
+  "en": "I have already replied to your message.",
+  "tamil": "நான் ஏற்கனவே உங்க மெசேஜுக்கு பதில் அனுப்பிட்டேன்.",
+  "context": "Politely telling someone you have done it.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Already' with present perfect shows it is done before now.",
+  "words": [
+   "already",
+   "replied"
+  ],
+  "usage": "Use it when someone follows up and you have already answered.",
+  "leelaQ": "Did you reply to the client's message?",
+  "answer": "Yes, I have already replied to it."
+ },
+ {
+  "en": "Have you already asked someone else?",
+  "tamil": "நீங்க ஏற்கனவே வேற யார்கிட்டயாவது கேட்டீங்களா?",
+  "context": "Checking what the person already knows.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Already' with present perfect checks if something is done before now.",
+  "words": [
+   "already",
+   "asked"
+  ],
+  "usage": "Use it when someone asks you for help and may have tried others first.",
+  "leelaQ": "Who do you ask first when you have a doubt in your work?",
+  "answer": "I ask my team lead, and then I ask my friends."
+ },
+ {
+  "en": "It is about ten kilometres from my house.",
+  "tamil": "அது என் வீட்டுல இருந்து சுமார் பத்து கிலோமீட்டர்.",
+  "context": "Answering about a distance.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'About' gives a rough number. In India we say kilometres for distance.",
+  "words": [
+   "about",
+   "kilometres"
+  ],
+  "usage": "Use it when someone asks how far a place is.",
+  "leelaQ": "How far is your office from your house?",
+  "answer": "It is about eight kilometres from my house."
+ },
+ {
+  "en": "Please wait, I will answer in a minute.",
+  "tamil": "கொஞ்சம் இருங்க, ஒரு நிமிஷத்துல பதில் சொல்றேன்.",
+  "context": "Asking someone to wait.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please wait' is the request. 'I will answer' is the promise.",
+  "words": [
+   "wait",
+   "minute"
+  ],
+  "usage": "Use it when you are busy with another task and someone asks something.",
+  "leelaQ": "What do you say to a person when you are busy?",
+  "answer": "Please wait, I will answer in a minute."
+ },
+ {
+  "en": "I would say it is a good place for families.",
+  "tamil": "குடும்பங்களுக்கு இது நல்ல இடம்னு நான் சொல்வேன்.",
+  "context": "Giving your opinion about a place.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I would say' makes your opinion sound polite and careful.",
+  "words": [
+   "would",
+   "families"
+  ],
+  "usage": "Use it when a friend asks for your opinion on a hotel or park.",
+  "leelaQ": "Is that park good for children?",
+  "answer": "I would say it is a good place for children."
+ },
+ {
+  "en": "I'm afraid I can't attend the party.",
+  "tamil": "மன்னிக்கணும், என்னால பார்ட்டிக்கு வர முடியாது.",
+  "context": "Refusing an invitation politely.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'I'm afraid' is a polite way to give bad news or say no.",
+  "words": [
+   "afraid",
+   "attend"
+  ],
+  "usage": "Use it to refuse an invitation from a boss or friend politely.",
+  "leelaQ": "Can you come to my birthday party on Saturday?",
+  "answer": "I'm afraid I can't, I have a family function."
+ },
+ {
+  "en": "I have a bad headache, so I am leaving early today.",
+  "tamil": "எனக்கு தலைவலி, அதனால சீக்கிரம் வீட்டுக்குப் போறேன்.",
+  "context": "Giving a reason to a colleague.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'So' shows the result. 'Going home' is a plan for the near future.",
+  "words": [
+   "headache",
+   "early"
+  ],
+  "usage": "Use it when your team lead asks why you are leaving early.",
+  "leelaQ": "Why are you leaving the office early today?",
+  "answer": "I have a bad headache, so I am going home."
+ },
+ {
+  "en": "Is it all right if I answer in Tamil first?",
+  "tamil": "நான் முதல்ல தமிழ்ல பதில் சொன்னா பரவாயில்லையா?",
+  "context": "Asking permission to use your own language.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is it all right if ...?' asks permission politely.",
+  "words": [
+   "answer",
+   "tamil"
+  ],
+  "usage": "Use it when you cannot find the English words quickly.",
+  "leelaQ": "What do you do if you cannot find an English word?",
+  "answer": "I say it in Tamil first, and then I try in English."
+ },
+ {
+  "en": "My birthday is in March, on the twelfth.",
+  "tamil": "என் பிறந்தநாள் மார்ச் மாசம் பனிரெண்டாம் தேதி.",
+  "context": "Answering a personal question.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use 'in' for the month and 'on' for the date.",
+  "words": [
+   "birthday",
+   "march"
+  ],
+  "usage": "Use it when someone asks your date of birth in a friendly way.",
+  "leelaQ": "When is your birthday?",
+  "answer": "My birthday is on the fifth of June."
+ },
+ {
+  "en": "I believe the shop opens at nine.",
+  "tamil": "கடை ஒன்பது மணிக்கு திறக்கும்னு நினைக்கிறேன்.",
+  "context": "Giving information you are not completely sure about.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'I believe' is a little stronger than 'I think' but still not certain.",
+  "words": [
+   "believe",
+   "opens"
+  ],
+  "usage": "Use it when a neighbour asks the shop timing and you do not know exactly.",
+  "leelaQ": "What time does the bakery open?",
+  "answer": "I believe it opens at seven in the morning."
+ },
+ {
+  "en": "Yes, I am free after lunch.",
+  "tamil": "ஆமா, சாப்பாட்டுக்கு அப்புறம் நான் ஃப்ரீ.",
+  "context": "Replying to a request for your time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Free' here means not busy. Add a time to make the answer useful.",
+  "words": [
+   "free",
+   "lunch"
+  ],
+  "usage": "Use it when a colleague asks if you are available to talk.",
+  "leelaQ": "Are you free to meet this afternoon?",
+  "answer": "Yes, I am free after three o'clock."
+ },
+ {
+  "en": "Do you mean this month or next month?",
+  "tamil": "நீங்க இந்த மாசத்தை சொல்றீங்களா, அடுத்த மாசத்தையா?",
+  "context": "Clearing a doubt about time.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you mean ...?' checks what the other person meant.",
+  "words": [
+   "mean",
+   "month"
+  ],
+  "usage": "Use it when someone asks about a deadline or leave and the month is unclear.",
+  "leelaQ": "What do you ask if someone's date is not clear?",
+  "answer": "I ask, do you mean this month or next month?"
+ },
+ {
+  "en": "I was born in Salem, but my family moved to Chennai.",
+  "tamil": "நான் சேலத்துல பிறந்தேன், ஆனா எங்க குடும்பம் சென்னைக்கு மாறிடுச்சு.",
+  "context": "Giving background about yourself.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Use past tense for both finished events. 'But' adds the change.",
+  "words": [
+   "born",
+   "moved"
+  ],
+  "usage": "Use it when someone asks about your hometown and your background.",
+  "leelaQ": "Where were you born, and where do you live now?",
+  "answer": "I was born in Madurai, and I live in Chennai now."
+ },
+ {
+  "en": "Give me your number, and I will call you back.",
+  "tamil": "உங்க நம்பர் குடுங்க, நான் திரும்ப கூப்பிடுறேன்.",
+  "context": "Offering to call back.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "An imperative joined with 'and I will' gives a request and a promise.",
+  "words": [
+   "number",
+   "call"
+  ],
+  "usage": "Use it when someone asks something and you want to answer by phone later.",
+  "leelaQ": "What do you say when you cannot answer on a call now?",
+  "answer": "Give me your number, and I will call you back."
+ },
+ {
+  "en": "I will probably take the morning train.",
+  "tamil": "நான் ஒருவேளை காலை ட்ரெயின்ல போவேன்.",
+  "context": "Answering about your travel plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Probably' goes between 'will' and the verb.",
+  "words": [
+   "probably",
+   "train"
+  ],
+  "usage": "Use it when a friend asks how you will travel and you have not booked yet.",
+  "leelaQ": "How will you go to Chennai next week?",
+  "answer": "I will probably take the night bus."
+ },
+ {
+  "en": "I do not know the answer, but I can ask my teacher.",
+  "tamil": "எனக்கு பதில் தெரியாது, ஆனா என் டீச்சர்கிட்ட கேட்கலாம்.",
+  "context": "Being honest when you do not know.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "It is fine to say you do not know. Then offer to find the answer.",
+  "words": [
+   "answer",
+   "teacher"
+  ],
+  "usage": "Use it in class or at work when you do not know and want to help.",
+  "leelaQ": "Do you know the answer to this question?",
+  "answer": "I do not know, but I can look it up."
+ },
+ {
+  "en": "I usually cook at home on weekdays.",
+  "tamil": "நான் பொதுவா வாரநாட்கள்ல வீட்டுலயே சமைப்பேன்.",
+  "context": "Answering about your eating habits.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Put 'usually' before the main verb. 'On weekdays' means Monday to Friday.",
+  "words": [
+   "usually",
+   "weekdays"
+  ],
+  "usage": "Use it when a friend asks if you eat outside often.",
+  "leelaQ": "Do you eat outside or cook at home?",
+  "answer": "I usually cook at home, and I eat out on Sundays."
+ },
+ {
+  "en": "Which part is not clear to you?",
+  "tamil": "எந்தப் பகுதி உங்களுக்கு புரியல?",
+  "context": "Asking a student or colleague what they did not follow.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Which part' helps you find the exact doubt before explaining again.",
+  "words": [
+   "part",
+   "clear"
+  ],
+  "usage": "Use it as a teacher or senior when someone says they did not understand.",
+  "leelaQ": "What do you ask a friend who did not understand your explanation?",
+  "answer": "I ask, which part is not clear to you?"
+ },
+ {
+  "en": "Yes, my brother works in Singapore.",
+  "tamil": "ஆமா, என் அண்ணன் சிங்கப்பூர்ல வேலை பார்க்கிறாங்க.",
+  "context": "Answering about a family member.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Third person singular verbs take s: brother works.",
+  "words": [
+   "brother",
+   "works"
+  ],
+  "usage": "Use it when someone asks if anyone in your family is abroad.",
+  "leelaQ": "Does anyone in your family live abroad?",
+  "answer": "Yes, my uncle lives in Dubai."
+ },
+ {
+  "en": "I am studying engineering in my final year.",
+  "tamil": "நான் இன்ஜினியரிங் கடைசி வருஷம் படிச்சுட்டு இருக்கேன்.",
+  "context": "Telling about your studies.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Final year' is the last year of a course.",
+  "words": [
+   "engineering",
+   "final"
+  ],
+  "usage": "Use it when someone asks what you are studying now.",
+  "leelaQ": "What are you studying now?",
+  "answer": "I am studying commerce in my second year."
+ },
+ {
+  "en": "I stayed back in the office to finish some work.",
+  "tamil": "கொஞ்சம் வேலையை முடிக்க நான் ஆபீஸ்ல இருந்தேன்.",
+  "context": "Explaining why you were late reaching home.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Stayed back' is common in Indian English for staying after hours.",
+  "words": [
+   "stayed",
+   "finish"
+  ],
+  "usage": "Use it when family asks why you came home late.",
+  "leelaQ": "Why did you come home so late yesterday?",
+  "answer": "I stayed back in the office to finish a report."
+ },
+ {
+  "en": "Are you free to talk now, or shall I call later?",
+  "tamil": "நீங்க இப்போ பேசுற அளவுக்கு ஃப்ரீயா, இல்ல நான் அப்புறம் கூப்பிடவா?",
+  "context": "Checking on a phone call.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Shall I' is a polite offer. Two options keep the question easy.",
+  "words": [
+   "free",
+   "shall"
+  ],
+  "usage": "Use it when you call someone who may be busy.",
+  "leelaQ": "What do you ask when you call someone who may be busy?",
+  "answer": "I ask, are you free to talk now?"
+ },
+ {
+  "en": "In my opinion, the first option is better.",
+  "tamil": "என் கருத்துப்படி, முதல் ஆப்ஷன் நல்லது.",
+  "context": "Giving your opinion in a discussion.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'In my opinion' starts a clear and polite opinion.",
+  "words": [
+   "opinion",
+   "option"
+  ],
+  "usage": "Use it in a team discussion when asked to choose one option.",
+  "leelaQ": "Which option do you like more, the first or the second?",
+  "answer": "In my opinion, the second option is better."
+ },
+ {
+  "en": "Please explain your question once again.",
+  "tamil": "தயவு செஞ்சு உங்க கேள்வியை இன்னொரு தடவை விளக்குங்க.",
+  "context": "Asking for an explanation of an unclear question.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Explain' asks for more detail, not only repeating.",
+  "words": [
+   "explain",
+   "question"
+  ],
+  "usage": "Use it when a question is long or confusing.",
+  "leelaQ": "What do you say if a question is confusing?",
+  "answer": "I say, please explain your question once again."
+ },
+ {
+  "en": "I know him very well, we studied together.",
+  "tamil": "எனக்கு அவனை நல்லா தெரியும், நாங்க சேர்ந்து படிச்சோம்.",
+  "context": "Answering if you know a person.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Know' is not used in the continuous form. 'Studied together' gives the reason.",
+  "words": [
+   "know",
+   "together"
+  ],
+  "usage": "Use it when someone asks if you know a friend of a friend.",
+  "leelaQ": "Do you know Karthik from your college?",
+  "answer": "Yes, I know him well, we were classmates."
+ }
+]

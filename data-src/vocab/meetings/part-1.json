@@ -1,0 +1,857 @@
+[
+ {
+  "word": "agenda",
+  "tamil": "கூட்ட நிகழ்ச்சி நிரல்",
+  "pos": "noun",
+  "pron": "uh-JEN-duh",
+  "example": "Please check the agenda before the meeting starts.",
+  "exampleTamil": "கூட்டம் தொடங்கும் முன் நிகழ்ச்சி நிரலைப் பாருங்கள்.",
+  "synonyms": [
+   "schedule",
+   "programme",
+   "list of topics"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "minutes",
+  "tamil": "கூட்டக் குறிப்புகள்",
+  "pos": "noun",
+  "pron": "MIN-its",
+  "example": "Ravi will write the minutes of today's meeting.",
+  "exampleTamil": "இன்றைய கூட்டத்தின் குறிப்புகளை ரவி எழுதுவார்.",
+  "synonyms": [
+   "meeting notes",
+   "record",
+   "proceedings"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chairperson",
+  "tamil": "கூட்டத் தலைவர்",
+  "pos": "noun",
+  "pron": "CHAIR-per-sun",
+  "example": "The chairperson opened the meeting at ten sharp.",
+  "exampleTamil": "கூட்டத் தலைவர் சரியாகப் பத்து மணிக்குக் கூட்டத்தைத் தொடங்கினார்.",
+  "synonyms": [
+   "chair",
+   "head",
+   "presiding officer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "attendee",
+  "tamil": "கலந்துகொள்பவர்",
+  "pos": "noun",
+  "pron": "uh-ten-DEE",
+  "example": "Every attendee received a copy of the report.",
+  "exampleTamil": "கலந்துகொண்ட ஒவ்வொருவரும் அறிக்கையின் பிரதியைப் பெற்றனர்.",
+  "synonyms": [
+   "participant",
+   "delegate",
+   "guest"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "participant",
+  "tamil": "பங்கேற்பாளர்",
+  "pos": "noun",
+  "pron": "par-TIS-ih-punt",
+  "example": "Each participant gets two minutes to speak.",
+  "exampleTamil": "ஒவ்வொரு பங்கேற்பாளருக்கும் பேச இரண்டு நிமிடம் கிடைக்கும்.",
+  "synonyms": [
+   "attendee",
+   "member",
+   "contributor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "quorum",
+  "tamil": "கூட்டத்துக்குத் தேவையான குறைந்தபட்ச உறுப்பினர்",
+  "pos": "noun",
+  "pron": "KWOR-um",
+  "example": "We cannot vote because we do not have a quorum.",
+  "exampleTamil": "தேவையான உறுப்பினர் எண்ணிக்கை இல்லாததால் வாக்களிக்க முடியாது.",
+  "synonyms": [
+   "minimum attendance",
+   "required number"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stand-up",
+  "tamil": "தினசரி சிறு கூட்டம்",
+  "pos": "noun",
+  "pron": "STAND-up",
+  "example": "Our stand-up starts at nine thirty every morning.",
+  "exampleTamil": "எங்கள் தினசரி சிறு கூட்டம் தினமும் காலை ஒன்பதரைக்குத் தொடங்கும்.",
+  "synonyms": [
+   "daily scrum",
+   "quick sync",
+   "morning huddle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "huddle",
+  "tamil": "சிறு குழு கலந்துரையாடல்",
+  "pos": "noun",
+  "pron": "HUD-ul",
+  "example": "The team had a quick huddle before the demo.",
+  "exampleTamil": "டெமோவுக்கு முன் குழு ஒரு சிறு கலந்துரையாடல் நடத்தியது.",
+  "synonyms": [
+   "quick meeting",
+   "small group",
+   "sync"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "session",
+  "tamil": "அமர்வு",
+  "pos": "noun",
+  "pron": "SESH-un",
+  "example": "The morning session will focus on planning.",
+  "exampleTamil": "காலை அமர்வு திட்டமிடலில் கவனம் செலுத்தும்.",
+  "synonyms": [
+   "sitting",
+   "meeting",
+   "period"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "conference",
+  "tamil": "மாநாடு",
+  "pos": "noun",
+  "pron": "KON-fer-uns",
+  "example": "She presented her research at an international conference.",
+  "exampleTamil": "அவர் சர்வதேச மாநாட்டில் தனது ஆய்வை முன்வைத்தார்.",
+  "synonyms": [
+   "convention",
+   "summit",
+   "congress"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "boardroom",
+  "tamil": "நிர்வாகக் குழு அறை",
+  "pos": "noun",
+  "pron": "BORD-room",
+  "example": "The boardroom is booked until noon today.",
+  "exampleTamil": "நிர்வாகக் கூட்ட அறை இன்று நண்பகல் வரை முன்பதிவு செய்யப்பட்டுள்ளது.",
+  "synonyms": [
+   "meeting room",
+   "conference room"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "venue",
+  "tamil": "நிகழ்விடம்",
+  "pos": "noun",
+  "pron": "VEN-yoo",
+  "example": "Has anyone confirmed the venue for Friday's workshop?",
+  "exampleTamil": "வெள்ளிக்கிழமை பட்டறைக்கான இடத்தை யாராவது உறுதி செய்தார்களா?",
+  "synonyms": [
+   "location",
+   "place",
+   "site"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "calendar",
+  "tamil": "நாள்காட்டி",
+  "pos": "noun",
+  "pron": "KAL-un-der",
+  "example": "I have blocked the time in my calendar.",
+  "exampleTamil": "என் நாள்காட்டியில் அந்த நேரத்தை ஒதுக்கி வைத்துள்ளேன்.",
+  "synonyms": [
+   "diary",
+   "planner",
+   "schedule"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "adjourn",
+  "tamil": "கூட்டத்தை ஒத்திவை",
+  "pos": "verb",
+  "pron": "uh-JERN",
+  "example": "The chairperson decided to adjourn the meeting until Monday.",
+  "exampleTamil": "தலைவர் கூட்டத்தைத் திங்கள் வரை ஒத்திவைக்க முடிவு செய்தார்.",
+  "synonyms": [
+   "suspend",
+   "break off",
+   "postpone"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "convene",
+  "tamil": "கூட்டு, ஒன்றுகூடு",
+  "pos": "verb",
+  "pron": "kun-VEEN",
+  "example": "The committee will convene next week to review the plan.",
+  "exampleTamil": "திட்டத்தை மறுஆய்வு செய்ய குழு அடுத்த வாரம் கூடும்.",
+  "synonyms": [
+   "gather",
+   "assemble",
+   "call together"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gathering",
+  "tamil": "ஒன்றுகூடல்",
+  "pos": "noun",
+  "pron": "GATH-er-ing",
+  "example": "It was a small gathering of senior managers.",
+  "exampleTamil": "அது மூத்த மேலாளர்களின் சிறிய ஒன்றுகூடல்.",
+  "synonyms": [
+   "meeting",
+   "assembly",
+   "get-together"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "briefing",
+  "tamil": "சுருக்க விளக்கக் கூட்டம்",
+  "pos": "noun",
+  "pron": "BREE-fing",
+  "example": "There is a short briefing before the client call.",
+  "exampleTamil": "வாடிக்கையாளர் அழைப்புக்கு முன் ஒரு சிறு விளக்கக் கூட்டம் உள்ளது.",
+  "synonyms": [
+   "update",
+   "orientation",
+   "rundown"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "debrief",
+  "tamil": "முடிந்த பின் மறுபார்வைக் கூட்டம்",
+  "pos": "noun",
+  "pron": "DEE-breef",
+  "example": "We will hold a debrief after the product launch.",
+  "exampleTamil": "தயாரிப்பு வெளியீட்டுக்குப் பிறகு ஒரு மறுபார்வைக் கூட்டம் நடத்துவோம்.",
+  "synonyms": [
+   "review",
+   "post-mortem",
+   "follow-up talk"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "roundtable",
+  "tamil": "வட்டமேசை கலந்துரையாடல்",
+  "pos": "noun",
+  "pron": "ROWND-tay-bul",
+  "example": "The roundtable gave everyone a chance to share ideas.",
+  "exampleTamil": "வட்டமேசை கலந்துரையாடல் எல்லோருக்கும் கருத்துகளைப் பகிர வாய்ப்பளித்தது.",
+  "synonyms": [
+   "group discussion",
+   "open forum"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "forum",
+  "tamil": "கருத்துப் பகிர்வு மேடை",
+  "pos": "noun",
+  "pron": "FOR-um",
+  "example": "The monthly forum is open to all employees.",
+  "exampleTamil": "மாதாந்திர கருத்துப் பகிர்வு அனைத்து ஊழியர்களுக்கும் திறந்தது.",
+  "synonyms": [
+   "platform",
+   "public meeting",
+   "discussion group"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "moderator",
+  "tamil": "கலந்துரையாடலை நடத்துபவர்",
+  "pos": "noun",
+  "pron": "MOD-er-ay-ter",
+  "example": "The moderator kept the discussion on topic.",
+  "exampleTamil": "நடுவர் கலந்துரையாடலைத் தலைப்பை விட்டு விலகாமல் வைத்திருந்தார்.",
+  "synonyms": [
+   "chair",
+   "host",
+   "mediator"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "facilitator",
+  "tamil": "கூட்டத்தை வழிநடத்துபவர்",
+  "pos": "noun",
+  "pron": "fuh-SIL-ih-tay-ter",
+  "example": "A neutral facilitator will lead the workshop.",
+  "exampleTamil": "நடுநிலையான ஒருவர் பட்டறையை வழிநடத்துவார்.",
+  "synonyms": [
+   "guide",
+   "coordinator",
+   "leader"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "host",
+  "tamil": "கூட்டத்தை நடத்துபவர்",
+  "pos": "noun",
+  "pron": "HOHST",
+  "example": "The host will admit everyone from the waiting room.",
+  "exampleTamil": "நடத்துபவர் காத்திருப்பு அறையிலிருந்து அனைவரையும் அனுமதிப்பார்.",
+  "synonyms": [
+   "organiser",
+   "convener"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "presenter",
+  "tamil": "விளக்கம் அளிப்பவர்",
+  "pos": "noun",
+  "pron": "prih-ZEN-ter",
+  "example": "The next presenter is from the finance team.",
+  "exampleTamil": "அடுத்த விளக்கம் அளிப்பவர் நிதிக் குழுவைச் சேர்ந்தவர்.",
+  "synonyms": [
+   "speaker",
+   "lecturer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "speaker",
+  "tamil": "பேச்சாளர்",
+  "pos": "noun",
+  "pron": "SPEE-ker",
+  "example": "The guest speaker talked about customer feedback.",
+  "exampleTamil": "சிறப்புப் பேச்சாளர் வாடிக்கையாளர் கருத்துகளைப் பற்றிப் பேசினார்.",
+  "synonyms": [
+   "presenter",
+   "orator"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "audience",
+  "tamil": "பார்வையாளர்கள்",
+  "pos": "noun",
+  "pron": "AW-dee-uns",
+  "example": "The audience asked many questions at the end.",
+  "exampleTamil": "இறுதியில் பார்வையாளர்கள் பல கேள்விகள் கேட்டனர்.",
+  "synonyms": [
+   "listeners",
+   "viewers",
+   "crowd"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "slide",
+  "tamil": "விளக்கக் காட்சித் தாள்",
+  "pos": "noun",
+  "pron": "SLIDE",
+  "example": "Please go back to the previous slide.",
+  "exampleTamil": "தயவுசெய்து முந்தைய ஸ்லைடுக்குத் திரும்புங்கள்.",
+  "synonyms": [
+   "frame",
+   "presentation page"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "projector",
+  "tamil": "ப்ரொஜெக்டர், திரையிடும் கருவி",
+  "pos": "noun",
+  "pron": "pruh-JEK-ter",
+  "example": "The projector is not working in room two.",
+  "exampleTamil": "இரண்டாம் அறையில் ப்ரொஜெக்டர் வேலை செய்யவில்லை.",
+  "synonyms": [
+   "beamer",
+   "display unit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "podium",
+  "tamil": "பேச்சு மேடை",
+  "pos": "noun",
+  "pron": "POH-dee-um",
+  "example": "He walked to the podium and greeted everyone.",
+  "exampleTamil": "அவர் மேடைக்கு நடந்து சென்று அனைவரையும் வரவேற்றார்.",
+  "synonyms": [
+   "stage",
+   "lectern",
+   "platform"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "microphone",
+  "tamil": "ஒலிவாங்கி",
+  "pos": "noun",
+  "pron": "MY-kruh-fohn",
+  "example": "Please speak into the microphone so everyone can hear.",
+  "exampleTamil": "எல்லோருக்கும் கேட்கும்படி ஒலிவாங்கியில் பேசுங்கள்.",
+  "synonyms": [
+   "mic",
+   "speaker mic"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "remark",
+  "tamil": "கருத்துரை",
+  "pos": "noun",
+  "pron": "rih-MARK",
+  "example": "Her last remark changed the whole discussion.",
+  "exampleTamil": "அவரது கடைசிக் கருத்து முழு விவாதத்தையும் மாற்றியது.",
+  "synonyms": [
+   "comment",
+   "observation",
+   "statement"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "input",
+  "tamil": "கருத்து பங்களிப்பு",
+  "pos": "noun",
+  "pron": "IN-put",
+  "example": "We would value your input on this decision.",
+  "exampleTamil": "இந்த முடிவில் உங்கள் கருத்தை நாங்கள் மதிப்போம்.",
+  "synonyms": [
+   "feedback",
+   "opinion",
+   "contribution"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "contribution",
+  "tamil": "பங்களிப்பு",
+  "pos": "noun",
+  "pron": "kon-trih-BYOO-shun",
+  "example": "Thank you all for your contributions today.",
+  "exampleTamil": "இன்று உங்கள் அனைவரின் பங்களிப்புக்கும் நன்றி.",
+  "synonyms": [
+   "input",
+   "donation",
+   "share"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "discussion",
+  "tamil": "கலந்துரையாடல்",
+  "pos": "noun",
+  "pron": "dis-KUSH-un",
+  "example": "The discussion went on for almost an hour.",
+  "exampleTamil": "கலந்துரையாடல் கிட்டத்தட்ட ஒரு மணி நேரம் நீடித்தது.",
+  "synonyms": [
+   "talk",
+   "conversation",
+   "debate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "debate",
+  "tamil": "விவாதம்",
+  "pos": "noun",
+  "pron": "dih-BAYT",
+  "example": "There was a long debate about the new policy.",
+  "exampleTamil": "புதிய கொள்கை பற்றி நீண்ட விவாதம் நடந்தது.",
+  "synonyms": [
+   "argument",
+   "discussion",
+   "dispute"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dialogue",
+  "tamil": "உரையாடல்",
+  "pos": "noun",
+  "pron": "DY-uh-log",
+  "example": "Open dialogue helps teams solve problems faster.",
+  "exampleTamil": "திறந்த உரையாடல் குழுக்கள் சிக்கல்களை விரைவாகத் தீர்க்க உதவும்.",
+  "synonyms": [
+   "conversation",
+   "exchange",
+   "talk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "topic",
+  "tamil": "தலைப்பு",
+  "pos": "noun",
+  "pron": "TOP-ik",
+  "example": "Let's move on to the next topic.",
+  "exampleTamil": "அடுத்த தலைப்புக்குச் செல்வோம்.",
+  "synonyms": [
+   "subject",
+   "theme",
+   "issue"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "issue",
+  "tamil": "பிரச்சினை, விவகாரம்",
+  "pos": "noun",
+  "pron": "ISH-oo",
+  "example": "This issue needs a decision by Friday.",
+  "exampleTamil": "இந்தப் பிரச்சினைக்கு வெள்ளிக்குள் முடிவு தேவை.",
+  "synonyms": [
+   "problem",
+   "matter",
+   "concern"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "matter",
+  "tamil": "விஷயம்",
+  "pos": "noun",
+  "pron": "MAT-er",
+  "example": "This is a serious matter and needs attention.",
+  "exampleTamil": "இது ஒரு தீவிரமான விஷயம், கவனம் தேவை.",
+  "synonyms": [
+   "issue",
+   "subject",
+   "affair"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "item",
+  "tamil": "நிகழ்ச்சி நிரலின் ஒரு பகுதி",
+  "pos": "noun",
+  "pron": "Y-tum",
+  "example": "The second item on the agenda is the budget.",
+  "exampleTamil": "நிகழ்ச்சி நிரலில் இரண்டாவது விஷயம் வரவு செலவுத் திட்டம்.",
+  "synonyms": [
+   "point",
+   "entry",
+   "topic"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "motion",
+  "tamil": "முன்மொழியப்படும் தீர்மானம்",
+  "pos": "noun",
+  "pron": "MOH-shun",
+  "example": "She made a motion to extend the deadline.",
+  "exampleTamil": "கெடு தேதியை நீட்டிக்க அவர் ஒரு தீர்மானத்தை முன்மொழிந்தார்.",
+  "synonyms": [
+   "formal proposal",
+   "suggestion"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "amendment",
+  "tamil": "திருத்தம்",
+  "pos": "noun",
+  "pron": "uh-MEND-munt",
+  "example": "We need one small amendment to the proposal.",
+  "exampleTamil": "முன்மொழிவில் ஒரு சிறிய திருத்தம் தேவை.",
+  "synonyms": [
+   "change",
+   "revision",
+   "modification"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ballot",
+  "tamil": "வாக்குச்சீட்டு",
+  "pos": "noun",
+  "pron": "BAL-ut",
+  "example": "Members will cast their ballot in secret.",
+  "exampleTamil": "உறுப்பினர்கள் ரகசியமாக வாக்களிப்பார்கள்.",
+  "synonyms": [
+   "vote",
+   "voting paper",
+   "poll"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vote",
+  "tamil": "வாக்களி",
+  "pos": "verb",
+  "pron": "VOHT",
+  "example": "Let's vote on the two options now.",
+  "exampleTamil": "இப்போது இரண்டு தேர்வுகளுக்கும் வாக்களிப்போம்.",
+  "synonyms": [
+   "cast a ballot",
+   "elect"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "poll",
+  "tamil": "கருத்துக் கணிப்பு",
+  "pos": "noun",
+  "pron": "POHL",
+  "example": "Let's run a quick poll to see who agrees.",
+  "exampleTamil": "யார் ஒப்புக்கொள்கிறார்கள் என்று விரைவான கருத்துக் கணிப்பு நடத்துவோம்.",
+  "synonyms": [
+   "survey",
+   "vote",
+   "straw vote"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "majority",
+  "tamil": "பெரும்பான்மை",
+  "pos": "noun",
+  "pron": "muh-JOR-ih-tee",
+  "example": "The majority of the team supports the new plan.",
+  "exampleTamil": "குழுவின் பெரும்பான்மையினர் புதிய திட்டத்தை ஆதரிக்கின்றனர்.",
+  "synonyms": [
+   "most",
+   "greater part"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "minority",
+  "tamil": "சிறுபான்மை",
+  "pos": "noun",
+  "pron": "my-NOR-ih-tee",
+  "example": "Only a minority disagreed with the decision.",
+  "exampleTamil": "சிறுபான்மையினர் மட்டுமே முடிவை ஏற்கவில்லை.",
+  "synonyms": [
+   "few",
+   "smaller group"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unanimous",
+  "tamil": "ஒருமனதான",
+  "pos": "adjective",
+  "pron": "yoo-NAN-ih-mus",
+  "example": "The board reached a unanimous decision.",
+  "exampleTamil": "நிர்வாகக் குழு ஒருமனதான முடிவை எட்டியது.",
+  "synonyms": [
+   "unified",
+   "undivided",
+   "agreed by all"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "consensus",
+  "tamil": "பொது ஒருமித்த கருத்து",
+  "pos": "noun",
+  "pron": "kun-SEN-sus",
+  "example": "We reached a consensus after a long talk.",
+  "exampleTamil": "நீண்ட பேச்சுக்குப் பிறகு நாங்கள் ஒருமித்த கருத்துக்கு வந்தோம்.",
+  "synonyms": [
+   "general agreement",
+   "accord",
+   "common view"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "abstain",
+  "tamil": "வாக்களிக்காமல் விலகு",
+  "pos": "verb",
+  "pron": "ub-STAYN",
+  "example": "Two members chose to abstain from the vote.",
+  "exampleTamil": "இரண்டு உறுப்பினர்கள் வாக்களிப்பதில் இருந்து விலகினர்.",
+  "synonyms": [
+   "hold back",
+   "refrain",
+   "not vote"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "veto",
+  "tamil": "தடுப்பு உரிமை, மறுப்பு",
+  "pos": "verb",
+  "pron": "VEE-toh",
+  "example": "The director can veto any proposal she dislikes.",
+  "exampleTamil": "தனக்குப் பிடிக்காத எந்த முன்மொழிவையும் இயக்குநர் தடுக்க முடியும்.",
+  "synonyms": [
+   "block",
+   "reject",
+   "overrule"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nominate",
+  "tamil": "பரிந்துரைத்து முன்மொழி",
+  "pos": "verb",
+  "pron": "NOM-ih-nayt",
+  "example": "I would like to nominate Priya as team lead.",
+  "exampleTamil": "பிரியாவைக் குழுத் தலைவராக முன்மொழிய விரும்புகிறேன்.",
+  "synonyms": [
+   "propose",
+   "put forward",
+   "name"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "second",
+  "tamil": "ஆதரித்து வழிமொழி",
+  "pos": "verb",
+  "pron": "SEK-und",
+  "example": "Does anyone want to second this motion?",
+  "exampleTamil": "இந்தத் தீர்மானத்தை யாராவது வழிமொழிகிறீர்களா?",
+  "synonyms": [
+   "support",
+   "back",
+   "endorse"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "proceed",
+  "tamil": "தொடர், முன்னேறு",
+  "pos": "verb",
+  "pron": "pruh-SEED",
+  "example": "If everyone is ready, we can proceed to the next item.",
+  "exampleTamil": "எல்லோரும் தயார் என்றால் அடுத்த விஷயத்துக்குச் செல்லலாம்.",
+  "synonyms": [
+   "continue",
+   "go ahead",
+   "move on"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "commence",
+  "tamil": "தொடங்கு",
+  "pos": "verb",
+  "pron": "kuh-MENSS",
+  "example": "The meeting will commence at two o'clock.",
+  "exampleTamil": "கூட்டம் இரண்டு மணிக்குத் தொடங்கும்.",
+  "synonyms": [
+   "begin",
+   "start",
+   "kick off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "conclude",
+  "tamil": "முடி, முடிவுக்கு வா",
+  "pos": "verb",
+  "pron": "kun-KLOOD",
+  "example": "Let me conclude with three key points.",
+  "exampleTamil": "மூன்று முக்கியக் குறிப்புகளுடன் முடிக்கிறேன்.",
+  "synonyms": [
+   "finish",
+   "end",
+   "wrap up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "conclusion",
+  "tamil": "முடிவுரை",
+  "pos": "noun",
+  "pron": "kun-KLOO-zhun",
+  "example": "In conclusion, we recommend the second option.",
+  "exampleTamil": "முடிவாக, இரண்டாவது தேர்வைப் பரிந்துரைக்கிறோம்.",
+  "synonyms": [
+   "ending",
+   "finding",
+   "final point"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recap",
+  "tamil": "சுருக்கமாக மீண்டும் சொல்லுதல்",
+  "pos": "noun",
+  "pron": "REE-kap",
+  "example": "Could you give us a quick recap of yesterday's call?",
+  "exampleTamil": "நேற்றைய அழைப்பின் சுருக்கத்தைச் சொல்ல முடியுமா?",
+  "synonyms": [
+   "summary",
+   "review",
+   "rundown"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overview",
+  "tamil": "பொதுப் பார்வை",
+  "pos": "noun",
+  "pron": "OH-ver-vyoo",
+  "example": "I'll start with a brief overview of the project.",
+  "exampleTamil": "திட்டத்தின் சுருக்கமான பொதுப் பார்வையுடன் தொடங்குகிறேன்.",
+  "synonyms": [
+   "summary",
+   "outline",
+   "survey"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "welcome",
+  "tamil": "வரவேற்பு, வரவேற்கிறேன்",
+  "pos": "verb",
+  "pron": "WEL-kum",
+  "example": "I'd like to welcome everyone to today's session.",
+  "exampleTamil": "இன்றைய அமர்வுக்கு அனைவரையும் வரவேற்கிறேன்.",
+  "synonyms": [
+   "greet",
+   "receive",
+   "salute"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "attend",
+  "tamil": "கலந்துகொள்",
+  "pos": "verb",
+  "pron": "uh-TEND",
+  "example": "Will you attend the planning meeting tomorrow?",
+  "exampleTamil": "நாளைய திட்டமிடல் கூட்டத்தில் நீங்கள் கலந்துகொள்வீர்களா?",
+  "synonyms": [
+   "go to",
+   "be present at",
+   "join"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "invite",
+  "tamil": "அழை",
+  "pos": "verb",
+  "pron": "in-VYTE",
+  "example": "Please invite the design team to the review.",
+  "exampleTamil": "மதிப்பாய்வுக்கு வடிவமைப்புக் குழுவை அழையுங்கள்.",
+  "synonyms": [
+   "ask",
+   "call",
+   "request attendance"
+  ],
+  "level": "beginner"
+ }
+]

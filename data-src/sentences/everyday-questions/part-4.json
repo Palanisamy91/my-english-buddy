@@ -1,0 +1,360 @@
+[
+ {
+  "en": "What time does the first bus leave?",
+  "tamil": "முதல் பஸ் எத்தனை மணிக்கு கிளம்பும்?",
+  "context": "Asking at a bus stand.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Timetable facts use the simple present: leave, arrive, open, close.",
+  "words": [
+   "leave"
+  ],
+  "usage": "Use it at an enquiry counter at a bus stand.",
+  "leelaQ": "Do you like to travel early in the morning?",
+  "answer": "Yes, I like early morning travel as roads are empty."
+ },
+ {
+  "en": "Is parking available near the hotel?",
+  "tamil": "ஹோட்டல் பக்கத்துல பார்க்கிங் இருக்கா?",
+  "context": "Calling a hotel before travelling by car.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is ... available' is a polite way to ask whether something can be used.",
+  "words": [
+   "parking",
+   "available"
+  ],
+  "usage": "Use it on the phone with a hotel or a hall before you drive there.",
+  "leelaQ": "Do you prefer travelling by car or by train?",
+  "answer": "I prefer the train because it is comfortable and cheap."
+ },
+ {
+  "en": "Does this restaurant serve pure vegetarian food?",
+  "tamil": "இந்த ஹோட்டல்ல சுத்த சைவ சாப்பாடு கிடைக்குமா?",
+  "context": "Asking a waiter before ordering.",
+  "tense": "present",
+  "type": "question",
+  "explain": "With 'does' the main verb stays in base form: 'serve', not 'serves'.",
+  "words": [
+   "serve",
+   "vegetarian"
+  ],
+  "usage": "Use it with a waiter or a cashier when you eat only vegetarian food.",
+  "leelaQ": "What is your favourite vegetarian dish?",
+  "answer": "My favourite dish is paneer butter masala with hot rotis."
+ },
+ {
+  "en": "How spicy is this curry?",
+  "tamil": "இந்த குழம்பு எவ்வளவு காரமா இருக்கும்?",
+  "context": "Asking a waiter.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How' plus an adjective asks about the degree: how spicy, how big, how old.",
+  "words": [
+   "spicy",
+   "curry"
+  ],
+  "usage": "Use it at a restaurant if you do not like very hot food.",
+  "leelaQ": "Do you like spicy food?",
+  "answer": "Yes, I like spicy food very much."
+ },
+ {
+  "en": "Can we get the bill, please?",
+  "tamil": "பில் கொடுக்க முடியுமா?",
+  "context": "Asking a waiter after the meal.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "A polite phrase used at the end of a meal. 'Get the bill' means bring the bill.",
+  "words": [
+   "bill"
+  ],
+  "usage": "Use it with a waiter at the end of a meal.",
+  "leelaQ": "Who usually pays the bill when you eat with friends?",
+  "answer": "We usually share the bill equally."
+ },
+ {
+  "en": "Excuse me, where can I wash my hands?",
+  "tamil": "மன்னிக்கணும், நான் எங்க கை கழுவலாம்?",
+  "context": "Asking at a restaurant.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Where can I ...?' asks for a place to do something.",
+  "words": [
+   "wash"
+  ],
+  "usage": "Use it in a restaurant or a function hall.",
+  "leelaQ": "When do you wash your hands?",
+  "answer": "I wash my hands before every meal."
+ },
+ {
+  "en": "What is the Wi-Fi speed in the hotel?",
+  "tamil": "ஹோட்டல்ல வைஃபை ஸ்பீடு எவ்வளவு?",
+  "context": "Asking a hotel manager.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What is the ... of ...?' asks for a fact or a number.",
+  "words": [
+   "speed"
+  ],
+  "usage": "Use it at a hotel or a co-working place if you need to work online.",
+  "leelaQ": "What do you do online most of the time?",
+  "answer": "I watch videos and chat with friends."
+ },
+ {
+  "en": "Are you free this afternoon?",
+  "tamil": "இன்னைக்கு மதியம் நீங்க ஃப்ரீயா?",
+  "context": "Asking a colleague before a discussion.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Are you free?' means do you have time. It is a polite way to start.",
+  "words": [
+   "afternoon"
+  ],
+  "usage": "Use it with a colleague, friend or a boss before asking for time.",
+  "leelaQ": "What do you do in your free time?",
+  "answer": "I read stories in my free time."
+ },
+ {
+  "en": "Do you want me to wait for you?",
+  "tamil": "நான் உங்களுக்காக காத்திருக்கணுமா?",
+  "context": "Asking a friend in a market.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you want me to ...?' offers help or asks what the other wants.",
+  "words": [
+   "wait"
+  ],
+  "usage": "Use it with a friend or a family member when they go into a shop or an office.",
+  "leelaQ": "Do you wait for friends when they are late?",
+  "answer": "Yes, I wait for ten minutes at most."
+ },
+ {
+  "en": "Shall we start the work now?",
+  "tamil": "நாம இப்போ வேலைய ஆரம்பிக்கலாமா?",
+  "context": "Suggesting to a teammate.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Shall we ...?' is a polite suggestion in British and Indian English.",
+  "words": [
+   "start"
+  ],
+  "usage": "Use it with a team or a friend when you suggest starting together.",
+  "leelaQ": "How do you start your work every day?",
+  "answer": "I make a list and then start the first task."
+ },
+ {
+  "en": "What if the train is late?",
+  "tamil": "ட்ரெயின் லேட்டா வந்தா என்ன பண்றது?",
+  "context": "Discussing a plan with a friend.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What if ...?' asks about a possible problem and its solution.",
+  "words": [
+   "late"
+  ],
+  "usage": "Use it when you plan a trip with friends or family.",
+  "leelaQ": "What will you do if it rains tomorrow?",
+  "answer": "I will stay at home and watch a movie."
+ },
+ {
+  "en": "How about meeting at the coffee shop at six?",
+  "tamil": "ஆறு மணிக்கு காபி ஷாப்ல மீட் பண்ணலாமா?",
+  "context": "Suggesting a meeting place.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How about ...ing?' makes a friendly suggestion.",
+  "words": [
+   "meeting"
+  ],
+  "usage": "Use it with a friend when you choose a time and place.",
+  "leelaQ": "Where do you meet your friends?",
+  "answer": "We meet at a cafe near my college."
+ },
+ {
+  "en": "Isn't it too late to start now?",
+  "tamil": "இப்போ ஆரம்பிக்க ரொம்ப லேட் இல்லையா?",
+  "context": "Doubting a plan politely.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A negative question like 'Isn't it ...?' shows you doubt or worry about something.",
+  "words": [
+   "late"
+  ],
+  "usage": "Use it with a friend or a colleague to share a concern gently.",
+  "leelaQ": "Do you feel it is late to learn new things?",
+  "answer": "No, it is never too late to learn something new."
+ },
+ {
+  "en": "Don't you think we should call the doctor?",
+  "tamil": "நாம டாக்டரை கூப்பிடணும்னு உங்களுக்கு தோணலையா?",
+  "context": "Giving advice about an unwell family member.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Don't you think ...?' gives advice softly in the form of a question.",
+  "words": [
+   "doctor"
+  ],
+  "usage": "Use it at home when someone is not feeling well.",
+  "leelaQ": "When do you call a doctor?",
+  "answer": "I call a doctor when the fever stays for two days."
+ },
+ {
+  "en": "Why don't we ask the teacher about it?",
+  "tamil": "நாம இதைப் பத்தி டீச்சரை கேட்கலாமே?",
+  "context": "Suggesting to a classmate.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Why don't we ...?' is a common way to suggest something.",
+  "words": [
+   "teacher"
+  ],
+  "usage": "Use it with classmates or friends when you cannot solve a problem.",
+  "leelaQ": "Who do you ask when you have a doubt?",
+  "answer": "I ask my teacher or a senior friend."
+ },
+ {
+  "en": "I can't find my keys, have you seen them?",
+  "tamil": "என் சாவியை காணோம், நீங்க பாத்தீங்களா?",
+  "context": "Asking a family member at home.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "The first part is negative (can't find). The second part is a question about a recent event.",
+  "words": [
+   "keys"
+  ],
+  "usage": "Use it at home or office when you are in a hurry and lose something.",
+  "leelaQ": "Where do you keep your house keys?",
+  "answer": "I keep my keys on a hook near the door."
+ },
+ {
+  "en": "I did not understand the last question, can you repeat it?",
+  "tamil": "கடைசி கேள்வி எனக்கு புரியலை, திரும்ப சொல்ல முடியுமா?",
+  "context": "Asking an interviewer or a teacher.",
+  "tense": "past",
+  "type": "request",
+  "explain": "This sentence says the problem first, then makes a polite request.",
+  "words": [
+   "understand",
+   "repeat"
+  ],
+  "usage": "Use it in an interview, a class or a meeting.",
+  "leelaQ": "What do you do when you do not understand something?",
+  "answer": "I ask the person to repeat it slowly."
+ },
+ {
+  "en": "I don't know where the office is, can you guide me?",
+  "tamil": "ஆபீஸ் எங்கன்னு எனக்கு தெரியலை, வழி சொல்ல முடியுமா?",
+  "context": "Asking a stranger.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Don't know' shows a lack of information. 'Can you guide me?' makes the request polite.",
+  "words": [
+   "guide"
+  ],
+  "usage": "Use it with a passer-by or a security guard in an unfamiliar place.",
+  "leelaQ": "How do you reach a new office on the first day?",
+  "answer": "I check the map and leave early."
+ },
+ {
+  "en": "Nobody told me about the change, so who decided it?",
+  "tamil": "மாற்றத்தை பத்தி யாரும் என்கிட்ட சொல்லலை, யாரு முடிவு பண்ணாங்க?",
+  "context": "Asking in a team meeting.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Nobody' makes the sentence negative. It is followed by a question about the decision.",
+  "words": [
+   "nobody",
+   "decided"
+  ],
+  "usage": "Use it with a team lead when plans change and you were not informed.",
+  "leelaQ": "How do you like to hear about changes at work?",
+  "answer": "I like to get a short message from my manager."
+ },
+ {
+  "en": "Please tell me when the next class starts.",
+  "tamil": "அடுத்த கிளாஸ் எப்போ ஆரம்பிக்குதுன்னு சொல்லுங்க.",
+  "context": "Asking a classmate.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please tell me ...' is a polite command. The word order after 'when' is normal.",
+  "words": [
+   "class",
+   "starts"
+  ],
+  "usage": "Use it with a classmate or a teacher when you are not sure about the timetable.",
+  "leelaQ": "What time does your class start?",
+  "answer": "My class starts at nine in the morning."
+ },
+ {
+  "en": "Let me know if you need any information.",
+  "tamil": "உங்களுக்கு ஏதாவது தகவல் வேணும்னா சொல்லுங்க.",
+  "context": "Offering help to a new colleague.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me know' is a friendly way to offer help.",
+  "words": [
+   "information"
+  ],
+  "usage": "Use it with a new joiner, a customer or a visitor.",
+  "leelaQ": "How do you help a new person in your office?",
+  "answer": "I show them around and answer their questions."
+ },
+ {
+  "en": "Tell me what you want to know about the course.",
+  "tamil": "கோர்ஸ் பத்தி நீங்க என்ன தெரிஞ்சிக்கணும்னு சொல்லுங்க.",
+  "context": "Inviting a student's questions.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "An imperative sentence can invite questions. 'What you want to know' keeps statement order.",
+  "words": [
+   "course"
+  ],
+  "usage": "Use it as a teacher or a counsellor when someone is enquiring about a course.",
+  "leelaQ": "What do you want to learn this year?",
+  "answer": "I want to learn Angular this year."
+ },
+ {
+  "en": "I'd like to know the fees for the evening batch.",
+  "tamil": "ஈவ்னிங் பேட்ச்சுக்கு கட்டணம் எவ்வளவுன்னு தெரிஞ்சிக்கணும்.",
+  "context": "Enquiring at a training institute.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I'd like to know ...' is a polite and indirect way to ask for information.",
+  "words": [
+   "fees",
+   "batch"
+  ],
+  "usage": "Use it at an institute, a gym or a school office.",
+  "leelaQ": "Which classes would you like to join?",
+  "answer": "I would like to join a spoken English class."
+ },
+ {
+  "en": "I am calling to ask about the interview date.",
+  "tamil": "நான் இன்டர்வியூ தேதியை பத்தி கேட்கறதுக்கு கூப்பிடுறேன்.",
+  "context": "Starting a phone call to HR.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'I am calling to ...' states the reason for a phone call clearly.",
+  "words": [
+   "calling"
+  ],
+  "usage": "Use it at the start of a call to an office or a company.",
+  "leelaQ": "Why do you usually call your friends?",
+  "answer": "I call them to talk about my day."
+ },
+ {
+  "en": "I just wanted to check if you got my email.",
+  "tamil": "என் மின்னஞ்சல் உங்களுக்கு வந்துச்சான்னு பாக்கணும்னு தான்.",
+  "context": "Following up politely with a colleague.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'I just wanted to check' is a soft way to follow up without sounding pushy.",
+  "words": [
+   "check",
+   "email"
+  ],
+  "usage": "Use it with a colleague or a client after you send a mail.",
+  "leelaQ": "How often do you check your email?",
+  "answer": "I check my email three times a day."
+ }
+]

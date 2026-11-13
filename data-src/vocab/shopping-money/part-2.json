@@ -1,0 +1,352 @@
+[
+ {
+  "word": "withdrawal",
+  "meaning": "taking money out of your bank account",
+  "tamil": "பணம் எடுத்தல்",
+  "pos": "noun",
+  "pron": "with-DRAW-ul",
+  "example": "There is a limit on cash withdrawal per day.",
+  "exampleTamil": "ஒரு நாளைக்கு பணம் எடுக்க வரம்பு இருக்கு.",
+  "synonyms": [
+   "cash out",
+   "payout"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "atm",
+  "meaning": "a machine where you take out cash from your account",
+  "tamil": "ஏடிஎம் இயந்திரம்",
+  "pos": "noun",
+  "pron": "AY-tee-EM",
+  "example": "Is there an ATM near this market?",
+  "exampleTamil": "இந்த சந்தை பக்கத்தில் ஏடிஎம் இருக்கா?",
+  "synonyms": [
+   "cash machine",
+   "cashpoint"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "penny",
+  "meaning": "a very small coin of little value",
+  "tamil": "சிறிய நாணயம்",
+  "pos": "noun",
+  "pron": "PEN-ee",
+  "example": "He saved every penny to buy a bike.",
+  "exampleTamil": "அவன் ஒரு பைக் வாங்க ஒவ்வொரு காசையும் சேமித்தான்.",
+  "synonyms": [
+   "cent",
+   "small coin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rupee",
+  "meaning": "the money used in India",
+  "tamil": "ரூபாய்",
+  "pos": "noun",
+  "pron": "roo-PEE",
+  "example": "This notebook costs only ten rupees.",
+  "exampleTamil": "இந்த நோட்டுப்புத்தகம் பத்து ரூபாய்தான்.",
+  "synonyms": [
+   "Indian currency",
+   "INR"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "paisa",
+  "meaning": "one hundredth part of a rupee",
+  "tamil": "பைசா",
+  "pos": "noun",
+  "pron": "PY-sah",
+  "example": "I do not have a single paisa with me.",
+  "exampleTamil": "என்கிட்ட ஒரு பைசா கூட இல்ல.",
+  "synonyms": [
+   "small change",
+   "coin"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "denomination",
+  "meaning": "the value printed on a coin or note",
+  "tamil": "நோட்டு மதிப்பு",
+  "pos": "noun",
+  "pron": "dih-nom-ih-NAY-shun",
+  "example": "Do you have smaller denomination notes for change?",
+  "exampleTamil": "சில்லறைக்கு சின்ன மதிப்பு நோட்டுகள் இருக்கா?",
+  "synonyms": [
+   "note value",
+   "face value"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "splurge",
+  "meaning": "to spend a lot of money on something you enjoy",
+  "tamil": "தாராளமாகச் செலவு செய்",
+  "pos": "verb",
+  "pron": "SPLURJ",
+  "example": "I decided to splurge on a good pair of shoes.",
+  "exampleTamil": "நான் நல்ல ஜோடி காலணிக்கு தாராளமா செலவு பண்ணலாம்னு முடிவு பண்ணினேன்.",
+  "synonyms": [
+   "indulge",
+   "overspend"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "frugal",
+  "meaning": "careful about spending money",
+  "tamil": "சிக்கனமான",
+  "pos": "adjective",
+  "pron": "FROO-gul",
+  "example": "My mother is very frugal with household money.",
+  "exampleTamil": "என் அம்மா வீட்டுச் செலவில் ரொம்ப சிக்கனமானவர்.",
+  "synonyms": [
+   "thrifty",
+   "careful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thrifty",
+  "meaning": "using money carefully and not wasting it",
+  "tamil": "சிக்கனமாக இருக்கும்",
+  "pos": "adjective",
+  "pron": "THRIF-tee",
+  "example": "A thrifty shopper always compares prices first.",
+  "exampleTamil": "சிக்கனமான வாங்குபவர் எப்போதும் முதல்ல விலையை ஒப்பிடுவார்.",
+  "synonyms": [
+   "frugal",
+   "economical"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stingy",
+  "meaning": "not willing to spend or give money",
+  "tamil": "கஞ்சத்தனமான",
+  "pos": "adjective",
+  "pron": "STIN-jee",
+  "example": "Don't be so stingy, buy her a nice gift.",
+  "exampleTamil": "இவ்வளவு கஞ்சத்தனம் வேண்டாம், அவளுக்கு நல்ல பரிசு வாங்கு.",
+  "synonyms": [
+   "miserly",
+   "tight-fisted"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lavish",
+  "meaning": "spending or giving a lot, more than needed",
+  "tamil": "ஆடம்பரமான",
+  "pos": "adjective",
+  "pron": "LAV-ish",
+  "example": "They spent a lavish amount on the wedding shopping.",
+  "exampleTamil": "கல்யாண ஷாப்பிங்குக்கு அவர்கள் ஆடம்பரமா செலவு செய்தார்கள்.",
+  "synonyms": [
+   "extravagant",
+   "grand"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "label",
+  "meaning": "a small piece of paper or cloth with details on a product",
+  "tamil": "லேபிள்",
+  "pos": "noun",
+  "pron": "LAY-bul",
+  "example": "Please check the size on the label.",
+  "exampleTamil": "தயவுசெய்து லேபிளில் அளவைப் பாருங்க.",
+  "synonyms": [
+   "tag",
+   "sticker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "barcode",
+  "meaning": "black lines on a product that the machine scans",
+  "tamil": "பார்கோடு",
+  "pos": "noun",
+  "pron": "BAR-kohd",
+  "example": "The cashier scanned the barcode on the box.",
+  "exampleTamil": "காசாளர் பெட்டியில் இருந்த பார்கோடை ஸ்கேன் செய்தார்.",
+  "synonyms": [
+   "scan code",
+   "product code"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "discounted",
+  "meaning": "sold at a lower price than normal",
+  "tamil": "தள்ளுபடி செய்யப்பட்ட",
+  "pos": "adjective",
+  "pron": "DIS-kown-tid",
+  "example": "These discounted sarees are sold out already.",
+  "exampleTamil": "இந்த தள்ளுபடி புடவைகள் ஏற்கனவே தீர்ந்துவிட்டன.",
+  "synonyms": [
+   "reduced",
+   "marked down"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stock",
+  "meaning": "the goods a shop has ready to sell",
+  "tamil": "கடையில் இருக்கும் சரக்கு",
+  "pos": "noun",
+  "pron": "STOK",
+  "example": "We have no stock of that colour right now.",
+  "exampleTamil": "அந்த நிறம் இப்போ எங்ககிட்ட ஸ்டாக் இல்ல.",
+  "synonyms": [
+   "inventory",
+   "supply"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "broken",
+  "meaning": "damaged and not working or in pieces",
+  "tamil": "உடைந்த",
+  "pos": "adjective",
+  "pron": "BROH-kun",
+  "example": "The screen was broken when I opened the box.",
+  "exampleTamil": "பெட்டியைத் திறந்தபோது திரை உடைந்திருந்தது.",
+  "synonyms": [
+   "cracked",
+   "smashed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "original",
+  "meaning": "real and not a copy",
+  "tamil": "அசலான",
+  "pos": "adjective",
+  "pron": "uh-RIJ-uh-nul",
+  "example": "Do you have the original bill for this?",
+  "exampleTamil": "இதுக்கு அசல் பில் உங்ககிட்ட இருக்கா?",
+  "synonyms": [
+   "genuine",
+   "first"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "charges",
+  "meaning": "extra money asked for a service",
+  "tamil": "கட்டணம்",
+  "pos": "noun",
+  "pron": "CHAR-jiz",
+  "example": "Are there any delivery charges for this order?",
+  "exampleTamil": "இந்த ஆர்டருக்கு டெலிவரி கட்டணம் ஏதாவது இருக்கா?",
+  "synonyms": [
+   "fees",
+   "costs"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bulk",
+  "meaning": "a large amount of goods bought together",
+  "tamil": "அதிக அளவு",
+  "pos": "noun",
+  "pron": "BULK",
+  "example": "You get a better rate if you buy in bulk.",
+  "exampleTamil": "அதிக அளவில் வாங்கினா நல்ல விலை கிடைக்கும்.",
+  "synonyms": [
+   "large quantity",
+   "mass"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "display",
+  "meaning": "goods put out so customers can see them",
+  "tamil": "காட்சிப்படுத்தல்",
+  "pos": "noun",
+  "pron": "dis-PLAY",
+  "example": "The shirt on display is the last piece.",
+  "exampleTamil": "காட்சியில் இருக்கும் சட்டைதான் கடைசி துண்டு.",
+  "synonyms": [
+   "showcase",
+   "exhibit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "expired",
+  "meaning": "too old to use because the date has passed",
+  "tamil": "காலாவதியான",
+  "pos": "adjective",
+  "pron": "ik-SPY-erd",
+  "example": "Check that the milk packet has not expired.",
+  "exampleTamil": "பால் பாக்கெட் காலாவதி ஆகவில்லை என்று சரிபாருங்க.",
+  "synonyms": [
+   "out of date",
+   "stale"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trial",
+  "meaning": "a short test of something before you decide to buy",
+  "tamil": "சோதனை",
+  "pos": "noun",
+  "pron": "TRY-ul",
+  "example": "The shop offers a free trial for ten days.",
+  "exampleTamil": "கடை பத்து நாள் இலவச சோதனை வழங்குகிறது.",
+  "synonyms": [
+   "test",
+   "sample"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sold-out",
+  "meaning": "with no more pieces left to buy",
+  "tamil": "தீர்ந்துவிட்டது",
+  "pos": "adjective",
+  "pron": "SOHLD-owt",
+  "example": "The tickets are sold-out for tonight.",
+  "exampleTamil": "இன்று இரவுக்கான டிக்கெட் எல்லாம் தீர்ந்துவிட்டன.",
+  "synonyms": [
+   "finished",
+   "unavailable"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "carry-bag",
+  "meaning": "a bag given by a shop to carry what you buy",
+  "tamil": "கடைப் பை",
+  "pos": "noun",
+  "pron": "KAR-ee-bag",
+  "example": "Can I get a carry-bag for these clothes?",
+  "exampleTamil": "இந்த துணிகளுக்கு ஒரு கடைப் பை கிடைக்குமா?",
+  "synonyms": [
+   "shopping bag",
+   "bag"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "out-of-stock",
+  "meaning": "not available in the shop at the moment",
+  "tamil": "இருப்பு இல்லாத",
+  "pos": "adjective",
+  "pron": "owt-uv-STOK",
+  "example": "That phone model is out-of-stock online.",
+  "exampleTamil": "அந்த போன் மாடல் ஆன்லைனில் இருப்பில் இல்ல.",
+  "synonyms": [
+   "unavailable",
+   "sold out"
+  ],
+  "level": "advanced"
+ }
+]

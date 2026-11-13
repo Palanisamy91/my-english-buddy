@@ -1,0 +1,376 @@
+[
+ {
+  "en": "The courier left my parcel at the wrong flat.",
+  "tamil": "கூரியர்காரர் என் பார்சலை தப்பான ஃப்ளாட்டுல வச்சுட்டு போயிட்டாரு.",
+  "context": "Reporting a delivery mistake to the support team.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Left' is the past of 'leave'. Name the exact mistake so the agent can fix it.",
+  "words": [
+   "courier",
+   "wrong"
+  ],
+  "usage": "Say this when you call a delivery company about a misplaced parcel.",
+  "leelaQ": "Has a delivery ever gone to the wrong address for you?",
+  "answer": "Yes, once my parcel went to my neighbour's house."
+ },
+ {
+  "en": "Our internet has been down since this morning.",
+  "tamil": "எங்க இன்டர்நெட் காலையில இருந்து வேலை செய்யல.",
+  "context": "Complaining to the broadband company.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has been ... since' tells how long a problem has continued up to now.",
+  "words": [
+   "internet",
+   "since"
+  ],
+  "usage": "Use it when you call your internet provider about a long outage.",
+  "leelaQ": "What do you do when your internet stops working at home?",
+  "answer": "I restart the router and then I call the company."
+ },
+ {
+  "en": "I am sorry, that was my mistake.",
+  "tamil": "மன்னிச்சுக்கோங்க, அது என்னோட தப்பு.",
+  "context": "Apologising to a colleague for an error.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "A short, honest apology. Taking the blame quickly builds trust.",
+  "words": [
+   "mistake",
+   "sorry"
+  ],
+  "usage": "Say this to a coworker or friend when you clearly made the error.",
+  "leelaQ": "How do you apologise when you make a mistake at work?",
+  "answer": "I say sorry quickly and tell them how I will fix it."
+ },
+ {
+  "en": "The water heater stopped working last night.",
+  "tamil": "வாட்டர் ஹீட்டர் நேத்து ராத்திரி வேலை செய்றத நிறுத்திடுச்சு.",
+  "context": "Telling the landlord about a broken appliance.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Stopped working' is a common way to say something broke down.",
+  "words": [
+   "heater",
+   "stopped"
+  ],
+  "usage": "Use it with a landlord or electrician when a home appliance fails.",
+  "leelaQ": "Which appliance at your home breaks down most often?",
+  "answer": "Our mixer breaks down quite often."
+ },
+ {
+  "en": "I have already paid, but the order shows pending.",
+  "tamil": "நான் ஏற்கனவே பணம் கட்டிட்டேன், ஆனா ஆர்டர் பெண்டிங்னு காட்டுது.",
+  "context": "Explaining a payment problem to online support.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Already' with the present perfect shows the action is done before now. 'But' adds the problem.",
+  "words": [
+   "already",
+   "pending"
+  ],
+  "usage": "Say this to online shopping support when money is cut but the order is not confirmed.",
+  "leelaQ": "Have you ever had a payment problem while shopping online?",
+  "answer": "Yes, once the money was cut but the order failed."
+ },
+ {
+  "en": "The printer in our office is jamming again.",
+  "tamil": "எங்க ஆபீஸ் பிரிண்டர் திரும்பவும் ஜாம் ஆகுது.",
+  "context": "Reporting a recurring printer problem to the IT team.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with 'again' shows a problem that keeps happening.",
+  "words": [
+   "printer",
+   "jamming"
+  ],
+  "usage": "Tell the IT desk or office admin when equipment keeps failing.",
+  "leelaQ": "What small problems happen in your office every week?",
+  "answer": "The printer jams and the Wi-Fi is slow."
+ },
+ {
+  "en": "I will check with the technician and let you know.",
+  "tamil": "நான் டெக்னீஷியன்கிட்ட கேட்டுட்டு உங்களுக்கு சொல்றேன்.",
+  "context": "Promising a customer an answer soon.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' shows a promise. 'Let you know' means to inform you later.",
+  "words": [
+   "technician",
+   "let you know"
+  ],
+  "usage": "Use it with a customer when you do not have the answer right now.",
+  "leelaQ": "How do you reply when you do not know the answer to a question?",
+  "answer": "I say I will find out and tell them soon."
+ },
+ {
+  "en": "We are very sorry for the delay in delivery.",
+  "tamil": "டெலிவரி தாமதமானதுக்கு நாங்க ரொம்ப மன்னிப்பு கேட்கிறோம்.",
+  "context": "A shop staff member apologising to a customer.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Sorry for' is followed by a noun. 'We' sounds official on behalf of a company.",
+  "words": [
+   "sorry",
+   "delay"
+  ],
+  "usage": "A shopkeeper or support agent says this when an order comes late.",
+  "leelaQ": "Have you ever waited too long for an order?",
+  "answer": "Yes, my sofa came two weeks late."
+ },
+ {
+  "en": "The screen of my new phone has a crack.",
+  "tamil": "என் புது போன் ஸ்கிரீன்ல கீறல் இருக்கு.",
+  "context": "Complaining about a damaged phone at the store.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Has a crack' describes damage you can see. Add 'new' to show it is not your fault.",
+  "words": [
+   "screen",
+   "crack"
+  ],
+  "usage": "Say this at the shop when a new item is damaged on arrival.",
+  "leelaQ": "What would you say if a new thing arrived damaged?",
+  "answer": "I would show the shop the damage and ask for a new one."
+ },
+ {
+  "en": "I could not log in to the app this morning.",
+  "tamil": "இன்னைக்கு காலையில எனக்கு ஆப்ல லாகின் பண்ண முடியல.",
+  "context": "Explaining a login problem to a help desk.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Could not' is the past of 'cannot'. 'Log in' is two words when used as a verb.",
+  "words": [
+   "log in",
+   "app"
+  ],
+  "usage": "Use it when you write to an app's help desk about an access problem.",
+  "leelaQ": "Do you forget passwords often?",
+  "answer": "Yes, I forget them and then I reset them."
+ },
+ {
+  "en": "There is a small leak under the kitchen sink.",
+  "tamil": "கிச்சன் சிங்க்குக்கு கீழே சின்ன கசிவு இருக்கு.",
+  "context": "Telling a plumber what is wrong.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'There is' introduces a thing you notice. 'Leak' is water coming out where it should not.",
+  "words": [
+   "leak",
+   "sink"
+  ],
+  "usage": "Say this when you call a plumber or tell your landlord.",
+  "leelaQ": "What home repairs have you needed recently?",
+  "answer": "I needed a plumber for a leaking tap."
+ },
+ {
+  "en": "My salary was not credited on the first this month.",
+  "tamil": "இந்த மாசம் ஒண்ணாம் தேதி என் சம்பளம் வரவு வைக்கப்படல.",
+  "context": "Asking the accounts team about late salary.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Was not credited' is passive: the bank action happened to the money, not by you.",
+  "words": [
+   "salary",
+   "credited"
+  ],
+  "usage": "Say this politely to HR or accounts when pay is late.",
+  "leelaQ": "What do you do when something goes wrong with your bank account?",
+  "answer": "I call the bank and ask them to check it."
+ },
+ {
+  "en": "I think there is a misunderstanding between us.",
+  "tamil": "நமக்குள்ள ஒரு தப்பான புரிதல் இருக்குன்னு நினைக்கிறேன்.",
+  "context": "Calmly starting a talk to clear a conflict.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'I think' softens the sentence so the other person does not feel blamed.",
+  "words": [
+   "misunderstanding"
+  ],
+  "usage": "Use it with a friend or colleague when you want to calm an argument.",
+  "leelaQ": "How do you solve a misunderstanding with a friend?",
+  "answer": "I talk to them calmly and listen to their side."
+ },
+ {
+  "en": "The bus broke down halfway, so we reached late.",
+  "tamil": "பஸ் பாதி வழியில பிரேக்டவுன் ஆயிடுச்சு, அதனால நாங்க லேட்டா வந்தோம்.",
+  "context": "Explaining why you came late to an event.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Broke down' is the past of 'break down'. 'So' gives the result.",
+  "words": [
+   "broke down",
+   "halfway"
+  ],
+  "usage": "Tell your host or manager the reason for being late.",
+  "leelaQ": "Has your bus or train ever broken down on the way?",
+  "answer": "Yes, my bus stopped on the highway for an hour."
+ },
+ {
+  "en": "I am waiting for your reply on this issue.",
+  "tamil": "இந்த பிரச்சனை பத்தி உங்க பதிலுக்காக காத்திருக்கேன்.",
+  "context": "Following up politely by email or message.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'I am waiting for' is a polite and firm way to remind someone.",
+  "words": [
+   "reply",
+   "issue"
+  ],
+  "usage": "Use it in a follow-up message when someone has not answered.",
+  "leelaQ": "How do you remind someone politely?",
+  "answer": "I send a short message and ask for an update."
+ },
+ {
+  "en": "Please accept our apologies for the inconvenience.",
+  "tamil": "சிரமத்துக்கு எங்க மன்னிப்பை ஏத்துக்கோங்க.",
+  "context": "Customer service apologising in writing.",
+  "tense": "imperative",
+  "type": "statement",
+  "explain": "A formal apology often used by companies. 'Inconvenience' means trouble caused to someone.",
+  "words": [
+   "apologies",
+   "inconvenience"
+  ],
+  "usage": "Companies write this on notices and emails when service is affected.",
+  "leelaQ": "What kind of apology sounds sincere to you?",
+  "answer": "A short apology with a clear solution sounds sincere."
+ },
+ {
+  "en": "The milk has gone bad, so I will throw it away.",
+  "tamil": "பால் கெட்டுப் போச்சு, அதனால தூக்கிப் போடப் போறேன்.",
+  "context": "Telling family about spoiled food.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Gone bad' means spoiled. 'So' links the reason and the action.",
+  "words": [
+   "gone bad",
+   "throw away"
+  ],
+  "usage": "Say this at home when food in the fridge is spoiled.",
+  "leelaQ": "What do you do with leftover food at home?",
+  "answer": "We keep it in the fridge and eat it the next day."
+ },
+ {
+  "en": "My laptop keeps hanging whenever I open two files.",
+  "tamil": "ரெண்டு பைல் திறந்தா என் லேப்டாப் ஹேங் ஆகிட்டே இருக்கு.",
+  "context": "Describing a computer problem to a technician.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Keeps hanging' shows a problem repeating. 'Whenever' tells when it happens.",
+  "words": [
+   "laptop",
+   "hanging"
+  ],
+  "usage": "Say this to a service centre so they understand when the fault occurs.",
+  "leelaQ": "How do you describe a computer problem to a technician?",
+  "answer": "I tell them what I was doing when it happened."
+ },
+ {
+  "en": "We have found the cause and fixed the problem.",
+  "tamil": "நாங்க காரணத்தை கண்டுபிடிச்சு பிரச்சனையை சரி பண்ணிட்டோம்.",
+  "context": "Telling a client that the issue is solved.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect gives good news: the work is done and the result matters now.",
+  "words": [
+   "cause",
+   "fixed"
+  ],
+  "usage": "Use it when you update a customer or manager after solving something.",
+  "leelaQ": "How do you feel when you fix a problem yourself?",
+  "answer": "I feel proud and relieved."
+ },
+ {
+  "en": "The delivery boy could not find our address.",
+  "tamil": "டெலிவரி பையனால எங்க அட்ரஸ் கண்டுபிடிக்க முடியல.",
+  "context": "Explaining why a delivery was delayed.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Could not' shows inability in the past. Useful for explaining a small delay.",
+  "words": [
+   "delivery",
+   "address"
+  ],
+  "usage": "Say this to a family member or support agent when the delivery is stuck.",
+  "leelaQ": "How do you give your address to a delivery person?",
+  "answer": "I tell them a nearby shop name or landmark."
+ },
+ {
+  "en": "I was charged twice for the same ticket.",
+  "tamil": "ஒரே டிக்கெட்டுக்கு ரெண்டு தடவை பணம் எடுத்துட்டாங்க.",
+  "context": "Complaining about a double payment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was charged' is passive. You focus on what happened to you, not who did it.",
+  "words": [
+   "charged",
+   "twice"
+  ],
+  "usage": "Use it when you contact a booking app or bank about a double charge.",
+  "leelaQ": "Have you ever been charged extra by mistake?",
+  "answer": "Yes, a shop added a service charge I did not expect."
+ },
+ {
+  "en": "It is raining heavily, so the power is off.",
+  "tamil": "பலத்த மழை பெய்யுது, அதனால கரண்ட் இல்ல.",
+  "context": "Explaining a power cut to a family member on the phone.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous for something happening now. 'So' shows the result.",
+  "words": [
+   "heavily",
+   "power"
+  ],
+  "usage": "Say this on the phone when rain affects the power or your travel.",
+  "leelaQ": "What happens in your area when it rains heavily?",
+  "answer": "Roads get flooded and we lose power sometimes."
+ },
+ {
+  "en": "I understand your problem, and I will help you now.",
+  "tamil": "உங்க பிரச்சனை எனக்கு புரியுது, இப்போவே உதவி பண்றேன்.",
+  "context": "Support staff calming an upset customer.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "First show you understand, then promise action. This calms people.",
+  "words": [
+   "understand",
+   "help"
+  ],
+  "usage": "A good thing to say to an upset customer at a counter or on a call.",
+  "leelaQ": "How can you calm an upset customer?",
+  "answer": "I listen first and then I offer a solution."
+ },
+ {
+  "en": "The AC in our room is making a strange noise.",
+  "tamil": "எங்க ரூம் ஏசி விசித்திரமா சத்தம் போடுது.",
+  "context": "Reporting an appliance problem at a hotel or office.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Making a noise' is a natural phrase. 'Strange' describes something not normal.",
+  "words": [
+   "strange",
+   "noise"
+  ],
+  "usage": "Tell reception or maintenance when a machine sounds wrong.",
+  "leelaQ": "Is there any machine at home that makes a loud noise?",
+  "answer": "Yes, our old washing machine is very noisy."
+ },
+ {
+  "en": "Sorry for the late reply, I was in a meeting.",
+  "tamil": "லேட்டா பதில் சொல்றதுக்கு மன்னிச்சுக்கோங்க, நான் மீட்டிங்ல இருந்தேன்.",
+  "context": "Apologising for replying late to a message.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Sorry for' plus a noun, then a short reason with 'I was...'.",
+  "words": [
+   "reply",
+   "meeting"
+  ],
+  "usage": "Use it in chat or email after you answer late.",
+  "leelaQ": "Do you reply to messages quickly?",
+  "answer": "I reply fast to work messages but slowly to others."
+ }
+]

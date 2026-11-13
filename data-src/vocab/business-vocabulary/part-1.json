@@ -1,0 +1,352 @@
+[
+ {
+  "word": "tax",
+  "meaning": "Money you must pay to the government from your income or purchases.",
+  "tamil": "வரி",
+  "pos": "noun",
+  "pron": "TAKS",
+  "example": "We pay tax on everything we buy in the shop.",
+  "exampleTamil": "கடையில் வாங்கும் எல்லாவற்றிற்கும் நாம் வரி செலுத்துகிறோம்.",
+  "synonyms": [
+   "duty",
+   "levy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "logo",
+  "meaning": "A small design or symbol that shows a company or brand.",
+  "tamil": "நிறுவனச் சின்னம்",
+  "pos": "noun",
+  "pron": "LOH-goh",
+  "example": "Our new logo looks simple and modern.",
+  "exampleTamil": "எங்கள் புதிய சின்னம் எளிமையாகவும் நவீனமாகவும் இருக்கிறது.",
+  "synonyms": [
+   "symbol",
+   "emblem"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "campaign",
+  "meaning": "A planned set of activities to sell a product or reach a goal.",
+  "tamil": "பிரச்சாரம்",
+  "pos": "noun",
+  "pron": "kam-PAYN",
+  "example": "The company started a new campaign before Diwali.",
+  "exampleTamil": "தீபாவளிக்கு முன் நிறுவனம் ஒரு புதிய பிரச்சாரத்தைத் தொடங்கியது.",
+  "synonyms": [
+   "drive",
+   "promotion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "advertise",
+  "meaning": "To tell people about a product so they will buy it.",
+  "tamil": "விளம்பரம் செய்",
+  "pos": "verb",
+  "pron": "AD-ver-tyz",
+  "example": "We advertise our shop on social media.",
+  "exampleTamil": "நாங்கள் எங்கள் கடையை சமூக ஊடகங்களில் விளம்பரம் செய்கிறோம்.",
+  "synonyms": [
+   "promote",
+   "publicize"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "auction",
+  "meaning": "A public sale where people bid and the highest bidder buys the item.",
+  "tamil": "ஏலம்",
+  "pos": "noun",
+  "pron": "AWK-shun",
+  "example": "They sold the old painting at an auction.",
+  "exampleTamil": "அவர்கள் பழைய ஓவியத்தை ஏலத்தில் விற்றார்கள்.",
+  "synonyms": [
+   "bidding",
+   "public sale"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "merchant",
+  "meaning": "A person who buys and sells goods, usually in large amounts.",
+  "tamil": "வியாபாரி",
+  "pos": "noun",
+  "pron": "MUR-chunt",
+  "example": "My uncle is a cloth merchant in Madurai.",
+  "exampleTamil": "என் மாமா மதுரையில் துணி வியாபாரி.",
+  "synonyms": [
+   "trader",
+   "seller"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trader",
+  "meaning": "A person who buys and sells things for profit.",
+  "tamil": "வியாபாரி",
+  "pos": "noun",
+  "pron": "TRAY-der",
+  "example": "The trader sold rice and sugar at the market.",
+  "exampleTamil": "வியாபாரி சந்தையில் அரிசியும் சர்க்கரையும் விற்றார்.",
+  "synonyms": [
+   "dealer",
+   "merchant"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dealer",
+  "meaning": "A person or business that sells a particular product.",
+  "tamil": "விற்பனையாளர்",
+  "pos": "noun",
+  "pron": "DEE-ler",
+  "example": "He works as a car dealer in Chennai.",
+  "exampleTamil": "அவர் சென்னையில் கார் விற்பனையாளராக வேலை செய்கிறார்.",
+  "synonyms": [
+   "seller",
+   "vendor"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "broker",
+  "meaning": "A person who arranges deals between buyers and sellers for a fee.",
+  "tamil": "தரகர்",
+  "pos": "noun",
+  "pron": "BROH-ker",
+  "example": "The broker found us a good flat to rent.",
+  "exampleTamil": "தரகர் எங்களுக்கு வாடகைக்கு ஒரு நல்ல வீட்டைக் கண்டுபிடித்தார்.",
+  "synonyms": [
+   "agent",
+   "middleman"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "startup",
+  "meaning": "A new small company, often built on a fresh idea.",
+  "tamil": "புதிய தொடக்க நிறுவனம்",
+  "pos": "noun",
+  "pron": "START-up",
+  "example": "She works for a small startup in Bengaluru.",
+  "exampleTamil": "அவள் பெங்களூருவில் ஒரு சிறிய தொடக்க நிறுவனத்தில் வேலை செய்கிறாள்.",
+  "synonyms": [
+   "new company",
+   "venture"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "funding",
+  "meaning": "Money given to start or run a business or project.",
+  "tamil": "நிதியுதவி",
+  "pos": "noun",
+  "pron": "FUN-ding",
+  "example": "The startup is looking for funding to grow.",
+  "exampleTamil": "அந்த நிறுவனம் வளர்ச்சிக்காக நிதியுதவி தேடுகிறது.",
+  "synonyms": [
+   "finance",
+   "backing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mortgage",
+  "meaning": "A loan from a bank to buy a house.",
+  "tamil": "வீட்டுக் கடன்",
+  "pos": "noun",
+  "pron": "MOR-gij",
+  "example": "They took a mortgage to buy their first home.",
+  "exampleTamil": "அவர்கள் தங்கள் முதல் வீட்டை வாங்க வீட்டுக் கடன் எடுத்தார்கள்.",
+  "synonyms": [
+   "home loan",
+   "housing loan"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fine",
+  "meaning": "Money you must pay as a punishment for breaking a rule.",
+  "tamil": "அபராதம்",
+  "pos": "noun",
+  "pron": "FYN",
+  "example": "He paid a fine for parking in the wrong place.",
+  "exampleTamil": "தவறான இடத்தில் நிறுத்தியதற்காக அவர் அபராதம் செலுத்தினார்.",
+  "synonyms": [
+   "penalty",
+   "charge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shipment",
+  "meaning": "A load of goods sent from one place to another.",
+  "tamil": "சரக்கு அனுப்பீடு",
+  "pos": "noun",
+  "pron": "SHIP-munt",
+  "example": "The shipment will reach the port on Monday.",
+  "exampleTamil": "சரக்கு திங்கட்கிழமை துறைமுகத்தை அடையும்.",
+  "synonyms": [
+   "consignment",
+   "cargo"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "delivery",
+  "meaning": "The act of bringing goods to a customer.",
+  "tamil": "விநியோகம்",
+  "pos": "noun",
+  "pron": "dih-LIV-uh-ree",
+  "example": "Home delivery is free for orders above five hundred rupees.",
+  "exampleTamil": "ஐந்நூறு ரூபாய்க்கு மேல் ஆர்டருக்கு வீட்டு விநியோகம் இலவசம்.",
+  "synonyms": [
+   "drop-off",
+   "dispatch"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lead",
+  "meaning": "A person who may become a customer in the future.",
+  "tamil": "வாடிக்கையாளராகக்கூடிய நபர்",
+  "pos": "noun",
+  "pron": "LEED",
+  "example": "The sales team called every new lead today.",
+  "exampleTamil": "விற்பனைக் குழு இன்று ஒவ்வொரு புதிய வாய்ப்பு நபரையும் அழைத்தது.",
+  "synonyms": [
+   "prospect",
+   "contact"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "boom",
+  "meaning": "A period when business or sales grow very fast.",
+  "tamil": "வணிக வளர்ச்சி",
+  "pos": "noun",
+  "pron": "BOOM",
+  "example": "There was a boom in online shopping last year.",
+  "exampleTamil": "கடந்த ஆண்டு இணைய வணிகத்தில் பெரிய வளர்ச்சி இருந்தது.",
+  "synonyms": [
+   "surge",
+   "growth"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "slump",
+  "meaning": "A sudden fall in sales, prices or business activity.",
+  "tamil": "திடீர் வீழ்ச்சி",
+  "pos": "noun",
+  "pron": "SLUMP",
+  "example": "Sales had a slump during the rainy season.",
+  "exampleTamil": "மழைக்காலத்தில் விற்பனையில் திடீர் வீழ்ச்சி ஏற்பட்டது.",
+  "synonyms": [
+   "decline",
+   "drop"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "soar",
+  "meaning": "To rise very quickly to a high level.",
+  "tamil": "வேகமாக உயர்",
+  "pos": "verb",
+  "pron": "SOR",
+  "example": "Vegetable prices soar every winter.",
+  "exampleTamil": "காய்கறி விலைகள் ஒவ்வொரு குளிர்காலத்திலும் வேகமாக உயர்கின்றன.",
+  "synonyms": [
+   "rocket",
+   "surge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "plunge",
+  "meaning": "To fall suddenly and by a large amount.",
+  "tamil": "திடீரென சரி",
+  "pos": "verb",
+  "pron": "PLUNJ",
+  "example": "Share prices plunged after the bad news.",
+  "exampleTamil": "மோசமான செய்திக்குப் பிறகு பங்கு விலைகள் திடீரென சரிந்தன.",
+  "synonyms": [
+   "plummet",
+   "crash"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "partnership",
+  "meaning": "A business owned and run by two or more people together.",
+  "tamil": "கூட்டு வணிகம்",
+  "pos": "noun",
+  "pron": "PART-ner-ship",
+  "example": "They started a partnership to open a bakery.",
+  "exampleTamil": "அவர்கள் ஒரு பேக்கரி திறக்க கூட்டு வணிகம் தொடங்கினார்கள்.",
+  "synonyms": [
+   "alliance",
+   "joint venture"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "franchise",
+  "meaning": "Permission to use a famous brand name and sell its products.",
+  "tamil": "உரிமை வணிகம்",
+  "pos": "noun",
+  "pron": "FRAN-chyz",
+  "example": "He bought a franchise of a popular pizza chain.",
+  "exampleTamil": "அவர் பிரபலமான பீட்சா நிறுவனத்தின் உரிமை வணிகத்தை வாங்கினார்.",
+  "synonyms": [
+   "licence",
+   "dealership"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "guarantee",
+  "meaning": "A promise that a product will work or the company will fix it.",
+  "tamil": "உத்தரவாதம்",
+  "pos": "noun",
+  "pron": "gair-un-TEE",
+  "example": "This phone has a one year guarantee.",
+  "exampleTamil": "இந்த தொலைபேசிக்கு ஓராண்டு உத்தரவாதம் உள்ளது.",
+  "synonyms": [
+   "warranty",
+   "assurance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "entrepreneur",
+  "meaning": "A person who starts a business and takes risks to make it grow.",
+  "tamil": "தொழில்முனைவோர்",
+  "pos": "noun",
+  "pron": "on-truh-pruh-NUR",
+  "example": "My sister wants to become an entrepreneur.",
+  "exampleTamil": "என் தங்கை ஒரு தொழில்முனைவோராக விரும்புகிறாள்.",
+  "synonyms": [
+   "businessperson",
+   "founder"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tycoon",
+  "meaning": "A very rich and powerful businessperson.",
+  "tamil": "பெரும் தொழிலதிபர்",
+  "pos": "noun",
+  "pron": "ty-KOON",
+  "example": "The tycoon owns hotels and factories across India.",
+  "exampleTamil": "அந்த பெரும் தொழிலதிபருக்கு இந்தியா முழுவதும் ஹோட்டல்களும் தொழிற்சாலைகளும் உள்ளன.",
+  "synonyms": [
+   "magnate",
+   "industrialist"
+  ],
+  "level": "beginner"
+ }
+]

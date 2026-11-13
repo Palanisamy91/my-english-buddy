@@ -1,0 +1,721 @@
+[
+ {
+  "word": "kitchen",
+  "tamil": "சமையலறை",
+  "pos": "noun",
+  "pron": "KICH-un",
+  "example": "My mother is cooking in the kitchen.",
+  "exampleTamil": "என் அம்மா சமையலறையில் சமைக்கிறார்.",
+  "synonyms": [
+   "cookroom"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bedroom",
+  "tamil": "படுக்கையறை",
+  "pos": "noun",
+  "pron": "BED-room",
+  "example": "Our bedroom has a big window.",
+  "exampleTamil": "எங்கள் படுக்கையறையில் ஒரு பெரிய ஜன்னல் இருக்கிறது.",
+  "synonyms": [
+   "sleeping room"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bathroom",
+  "tamil": "குளியலறை",
+  "pos": "noun",
+  "pron": "BATH-room",
+  "example": "Someone is using the bathroom right now.",
+  "exampleTamil": "இப்போது யாரோ குளியலறையைப் பயன்படுத்துகிறார்கள்.",
+  "synonyms": [
+   "washroom",
+   "restroom"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "balcony",
+  "tamil": "பால்கனி, மாடி முகப்பு",
+  "pos": "noun",
+  "pron": "BAL-kuh-nee",
+  "example": "We dry our clothes on the balcony.",
+  "exampleTamil": "நாங்கள் பால்கனியில் துணிகளை உலர்த்துகிறோம்.",
+  "synonyms": [
+   "terrace",
+   "veranda"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hallway",
+  "tamil": "நடைவழி, தாழ்வாரம்",
+  "pos": "noun",
+  "pron": "HAWL-way",
+  "example": "Please leave your shoes in the hallway.",
+  "exampleTamil": "தயவுசெய்து உங்கள் காலணிகளை நடைவழியில் விடுங்கள்.",
+  "synonyms": [
+   "corridor",
+   "passage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "attic",
+  "tamil": "மாடிப்பரண், மேல்மாடி அறை",
+  "pos": "noun",
+  "pron": "AT-ik",
+  "example": "Old boxes are stored in the attic.",
+  "exampleTamil": "பழைய பெட்டிகள் மேல்மாடி அறையில் வைக்கப்பட்டுள்ளன.",
+  "synonyms": [
+   "loft"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "basement",
+  "tamil": "அடித்தளம்",
+  "pos": "noun",
+  "pron": "BAYS-ment",
+  "example": "The washing machine is in the basement.",
+  "exampleTamil": "சலவை இயந்திரம் அடித்தளத்தில் உள்ளது.",
+  "synonyms": [
+   "cellar"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ceiling",
+  "tamil": "கூரை, மேல் தளம்",
+  "pos": "noun",
+  "pron": "SEE-ling",
+  "example": "The ceiling fan is making a noise.",
+  "exampleTamil": "கூரை மின்விசிறி சத்தம் போடுகிறது.",
+  "synonyms": [
+   "roof",
+   "overhead"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "staircase",
+  "tamil": "படிக்கட்டு",
+  "pos": "noun",
+  "pron": "STAIR-kays",
+  "example": "Be careful on the wet staircase.",
+  "exampleTamil": "ஈரமான படிக்கட்டில் கவனமாக இருங்கள்.",
+  "synonyms": [
+   "stairs",
+   "steps"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "doorbell",
+  "tamil": "கதவு மணி",
+  "pos": "noun",
+  "pron": "DOR-bel",
+  "example": "The doorbell rang while we were eating.",
+  "exampleTamil": "நாங்கள் சாப்பிடும்போது கதவு மணி அடித்தது.",
+  "synonyms": [
+   "buzzer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "curtain",
+  "tamil": "திரைச்சீலை",
+  "pos": "noun",
+  "pron": "KUR-tun",
+  "example": "Please close the curtain, it is too bright.",
+  "exampleTamil": "தயவுசெய்து திரைச்சீலையை மூடுங்கள், ரொம்ப வெளிச்சமாக இருக்கிறது.",
+  "synonyms": [
+   "drape"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sofa",
+  "tamil": "சோபா, இருக்கை",
+  "pos": "noun",
+  "pron": "SOH-fuh",
+  "example": "The kids are jumping on the sofa.",
+  "exampleTamil": "குழந்தைகள் சோபாவில் குதிக்கிறார்கள்.",
+  "synonyms": [
+   "couch",
+   "settee"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mattress",
+  "tamil": "மெத்தை",
+  "pos": "noun",
+  "pron": "MAT-rus",
+  "example": "This mattress is too hard for me.",
+  "exampleTamil": "இந்த மெத்தை எனக்கு மிகவும் கடினமாக இருக்கிறது.",
+  "synonyms": [
+   "bed pad"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pillow",
+  "tamil": "தலையணை",
+  "pos": "noun",
+  "pron": "PIL-oh",
+  "example": "I cannot sleep without my pillow.",
+  "exampleTamil": "என் தலையணை இல்லாமல் என்னால் தூங்க முடியாது.",
+  "synonyms": [
+   "cushion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "blanket",
+  "tamil": "போர்வை",
+  "pos": "noun",
+  "pron": "BLANG-kit",
+  "example": "It is cold, so bring an extra blanket.",
+  "exampleTamil": "குளிராக இருக்கிறது, அதனால் கூடுதல் போர்வை கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "cover",
+   "quilt"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wardrobe",
+  "tamil": "துணி பீரோ, அலமாரி",
+  "pos": "noun",
+  "pron": "WOR-drohb",
+  "example": "She hung her saris in the wardrobe.",
+  "exampleTamil": "அவள் தன் புடவைகளை அலமாரியில் தொங்கவிட்டாள்.",
+  "synonyms": [
+   "closet",
+   "cupboard"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cupboard",
+  "tamil": "அலமாரி",
+  "pos": "noun",
+  "pron": "KUB-urd",
+  "example": "The plates are in the top cupboard.",
+  "exampleTamil": "தட்டுகள் மேல் அலமாரியில் உள்ளன.",
+  "synonyms": [
+   "cabinet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shelf",
+  "tamil": "அடுக்கு, தட்டு",
+  "pos": "noun",
+  "pron": "SHELF",
+  "example": "Put the books back on the shelf.",
+  "exampleTamil": "புத்தகங்களை மீண்டும் அடுக்கில் வையுங்கள்.",
+  "synonyms": [
+   "rack",
+   "ledge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "drawer",
+  "tamil": "இழுப்பறை",
+  "pos": "noun",
+  "pron": "DROR",
+  "example": "The keys are in the top drawer.",
+  "exampleTamil": "சாவிகள் மேல் இழுப்பறையில் உள்ளன.",
+  "synonyms": [
+   "compartment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mirror",
+  "tamil": "கண்ணாடி",
+  "pos": "noun",
+  "pron": "MIR-ur",
+  "example": "She checked her hair in the mirror.",
+  "exampleTamil": "அவள் கண்ணாடியில் தன் தலைமுடியைப் பார்த்தாள்.",
+  "synonyms": [
+   "looking glass"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "carpet",
+  "tamil": "கம்பளம், தரை விரிப்பு",
+  "pos": "noun",
+  "pron": "KAR-pit",
+  "example": "The carpet needs vacuuming.",
+  "exampleTamil": "தரை விரிப்பைச் சுத்தம் செய்ய வேண்டும்.",
+  "synonyms": [
+   "rug"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "towel",
+  "tamil": "துண்டு",
+  "pos": "noun",
+  "pron": "TOW-ul",
+  "example": "Can you pass me a clean towel?",
+  "exampleTamil": "எனக்கு ஒரு சுத்தமான துண்டு தர முடியுமா?",
+  "synonyms": [
+   "cloth"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bucket",
+  "tamil": "வாளி",
+  "pos": "noun",
+  "pron": "BUK-it",
+  "example": "Fill the bucket with water, please.",
+  "exampleTamil": "தயவுசெய்து வாளியில் தண்ணீர் நிரப்புங்கள்.",
+  "synonyms": [
+   "pail"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "broom",
+  "tamil": "துடைப்பம்",
+  "pos": "noun",
+  "pron": "BROOM",
+  "example": "Pass me the broom to sweep the floor.",
+  "exampleTamil": "தரையைப் பெருக்க துடைப்பத்தைக் கொடு.",
+  "synonyms": [
+   "brush"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mop",
+  "tamil": "தரை துடைக்கும் துணி, மாப்",
+  "pos": "noun",
+  "pron": "MOP",
+  "example": "Use the mop to clean the wet floor.",
+  "exampleTamil": "ஈரத் தரையைச் சுத்தம் செய்ய மாப்பைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "floor cloth"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dustbin",
+  "tamil": "குப்பைத் தொட்டி",
+  "pos": "noun",
+  "pron": "DUST-bin",
+  "example": "Throw the paper in the dustbin.",
+  "exampleTamil": "காகிதத்தை குப்பைத் தொட்டியில் போடுங்கள்.",
+  "synonyms": [
+   "trash can",
+   "bin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "detergent",
+  "tamil": "சலவைத் தூள்",
+  "pos": "noun",
+  "pron": "dih-TUR-junt",
+  "example": "We ran out of detergent for washing clothes.",
+  "exampleTamil": "துணி துவைக்க சலவைத் தூள் தீர்ந்துவிட்டது.",
+  "synonyms": [
+   "cleaning powder"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "iron",
+  "tamil": "இஸ்திரி பெட்டி",
+  "pos": "noun",
+  "pron": "EYE-urn",
+  "example": "Switch off the iron after use.",
+  "exampleTamil": "பயன்படுத்திய பிறகு இஸ்திரி பெட்டியை அணைத்து விடுங்கள்.",
+  "synonyms": [
+   "clothes press"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hanger",
+  "tamil": "துணி மாட்டி",
+  "pos": "noun",
+  "pron": "HANG-ur",
+  "example": "Put your shirt on a hanger.",
+  "exampleTamil": "உங்கள் சட்டையை ஒரு மாட்டியில் தொங்கவிடுங்கள்.",
+  "synonyms": [
+   "coat hanger"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "laundry",
+  "tamil": "துவைக்க வேண்டிய துணிகள்",
+  "pos": "noun",
+  "pron": "LAWN-dree",
+  "example": "I do the laundry every Sunday.",
+  "exampleTamil": "நான் ஒவ்வொரு ஞாயிற்றுக்கிழமையும் துணிகளைத் துவைக்கிறேன்.",
+  "synonyms": [
+   "washing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vacuum",
+  "tamil": "வெற்றிட சுத்திகரிப்பான் கொண்டு சுத்தம் செய்",
+  "pos": "verb",
+  "pron": "VAK-yoom",
+  "example": "He vacuums the living room twice a week.",
+  "exampleTamil": "அவன் வாரத்திற்கு இரண்டு முறை வரவேற்பறையை வெற்றிட இயந்திரத்தால் சுத்தம் செய்கிறான்.",
+  "synonyms": [
+   "clean",
+   "hoover"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sweep",
+  "tamil": "பெருக்கு",
+  "pos": "verb",
+  "pron": "SWEEP",
+  "example": "I sweep the porch every morning.",
+  "exampleTamil": "நான் தினமும் காலையில் திண்ணையைப் பெருக்குகிறேன்.",
+  "synonyms": [
+   "brush"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scrub",
+  "tamil": "தேய்த்துக் கழுவு",
+  "pos": "verb",
+  "pron": "SKRUB",
+  "example": "You need to scrub the burnt pan.",
+  "exampleTamil": "நீ கருகிய பாத்திரத்தைத் தேய்த்துக் கழுவ வேண்டும்.",
+  "synonyms": [
+   "scour",
+   "rub"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dust",
+  "tamil": "தூசி",
+  "pos": "noun",
+  "pron": "DUST",
+  "example": "There is dust on every shelf.",
+  "exampleTamil": "ஒவ்வொரு அடுக்கிலும் தூசி இருக்கிறது.",
+  "synonyms": [
+   "dirt",
+   "grime"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tidy",
+  "tamil": "நேர்த்தியான, ஒழுங்கான",
+  "pos": "adjective",
+  "pron": "TY-dee",
+  "example": "She keeps her room neat and tidy.",
+  "exampleTamil": "அவள் தன் அறையை சுத்தமாகவும் ஒழுங்காகவும் வைத்திருக்கிறாள்.",
+  "synonyms": [
+   "neat",
+   "orderly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "messy",
+  "tamil": "குழப்பமான, அலங்கோலமான",
+  "pos": "adjective",
+  "pron": "MES-ee",
+  "example": "Your desk at home is very messy.",
+  "exampleTamil": "வீட்டில் உன் மேசை மிகவும் அலங்கோலமாக இருக்கிறது.",
+  "synonyms": [
+   "untidy",
+   "cluttered"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "clutter",
+  "tamil": "குவிந்து கிடக்கும் பொருட்கள்",
+  "pos": "noun",
+  "pron": "KLUT-ur",
+  "example": "We must remove the clutter from the garage.",
+  "exampleTamil": "நாம் கார் நிறுத்துமிடத்தில் குவிந்த பொருட்களை அகற்ற வேண்டும்.",
+  "synonyms": [
+   "mess",
+   "junk"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "leak",
+  "tamil": "கசிவு",
+  "pos": "noun",
+  "pron": "LEEK",
+  "example": "There is a leak under the sink.",
+  "exampleTamil": "சிங்க்கின் அடியில் கசிவு இருக்கிறது.",
+  "synonyms": [
+   "drip",
+   "seepage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "plumber",
+  "tamil": "குழாய் பழுதுபார்ப்பவர்",
+  "pos": "noun",
+  "pron": "PLUM-ur",
+  "example": "We called a plumber to fix the tap.",
+  "exampleTamil": "குழாயைச் சரிசெய்ய நாங்கள் ஒரு பிளம்பரை அழைத்தோம்.",
+  "synonyms": [
+   "pipe fitter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "electrician",
+  "tamil": "மின்சாரப் பணியாளர்",
+  "pos": "noun",
+  "pron": "ih-lek-TRISH-un",
+  "example": "The electrician is checking the wiring.",
+  "exampleTamil": "மின்சாரப் பணியாளர் வயரிங்கைச் சரிபார்க்கிறார்.",
+  "synonyms": [
+   "wireman"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tap",
+  "tamil": "குழாய்",
+  "pos": "noun",
+  "pron": "TAP",
+  "example": "Turn off the tap when you brush.",
+  "exampleTamil": "பல் துலக்கும்போது குழாயை மூடுங்கள்.",
+  "synonyms": [
+   "faucet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "socket",
+  "tamil": "மின் இணைப்புத் துளை",
+  "pos": "noun",
+  "pron": "SOK-it",
+  "example": "The charger does not fit this socket.",
+  "exampleTamil": "சார்ஜர் இந்த மின் இணைப்புத் துளைக்குப் பொருந்தவில்லை.",
+  "synonyms": [
+   "outlet"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bulb",
+  "tamil": "மின் விளக்கு",
+  "pos": "noun",
+  "pron": "BULB",
+  "example": "The bulb in the hall has burned out.",
+  "exampleTamil": "கூடத்திலுள்ள மின் விளக்கு எரிந்துவிட்டது.",
+  "synonyms": [
+   "lamp",
+   "light"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fan",
+  "tamil": "மின்விசிறி",
+  "pos": "noun",
+  "pron": "FAN",
+  "example": "Switch on the fan, it is so hot.",
+  "exampleTamil": "மின்விசிறியைப் போடுங்கள், ரொம்ப வெப்பமாக இருக்கிறது.",
+  "synonyms": [
+   "blower"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fridge",
+  "tamil": "குளிர்சாதனப் பெட்டி",
+  "pos": "noun",
+  "pron": "FRIJ",
+  "example": "Keep the milk in the fridge.",
+  "exampleTamil": "பாலை குளிர்சாதனப் பெட்டியில் வையுங்கள்.",
+  "synonyms": [
+   "refrigerator"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stove",
+  "tamil": "அடுப்பு",
+  "pos": "noun",
+  "pron": "STOHV",
+  "example": "Do not leave the stove on.",
+  "exampleTamil": "அடுப்பை எரிய விட்டுவிடாதீர்கள்.",
+  "synonyms": [
+   "cooker",
+   "burner"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "oven",
+  "tamil": "அவன், சுடும் அடுப்பு",
+  "pos": "noun",
+  "pron": "UV-un",
+  "example": "The cake is baking in the oven.",
+  "exampleTamil": "கேக் அவனில் சுடப்படுகிறது.",
+  "synonyms": [
+   "baker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "microwave",
+  "tamil": "மைக்ரோவேவ் அடுப்பு",
+  "pos": "noun",
+  "pron": "MY-kruh-wayv",
+  "example": "Heat the soup in the microwave.",
+  "exampleTamil": "சூப்பை மைக்ரோவேவில் சூடாக்குங்கள்.",
+  "synonyms": [
+   "microwave oven"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "blender",
+  "tamil": "கலப்பி, மிக்ஸி",
+  "pos": "noun",
+  "pron": "BLEN-dur",
+  "example": "I made juice in the blender.",
+  "exampleTamil": "நான் மிக்ஸியில் ஜூஸ் செய்தேன்.",
+  "synonyms": [
+   "mixer",
+   "liquidizer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "kettle",
+  "tamil": "தேநீர்க் கெட்டில்",
+  "pos": "noun",
+  "pron": "KET-ul",
+  "example": "The kettle is boiling for tea.",
+  "exampleTamil": "தேநீருக்காக கெட்டில் கொதிக்கிறது.",
+  "synonyms": [
+   "water boiler"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pressure cooker",
+  "tamil": "பிரஷர் குக்கர்",
+  "pos": "noun",
+  "pron": "PRESH-ur KUK-ur",
+  "example": "The pressure cooker whistled three times.",
+  "exampleTamil": "பிரஷர் குக்கர் மூன்று முறை விசில் அடித்தது.",
+  "synonyms": [
+   "cooker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ladle",
+  "tamil": "கரண்டி, அகப்பை",
+  "pos": "noun",
+  "pron": "LAY-dul",
+  "example": "Use a ladle to serve the sambar.",
+  "exampleTamil": "சாம்பாரைப் பரிமாற அகப்பையைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "big spoon",
+   "scoop"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "spatula",
+  "tamil": "தோசைத் திருப்பி",
+  "pos": "noun",
+  "pron": "SPACH-uh-luh",
+  "example": "Flip the dosa with a spatula.",
+  "exampleTamil": "தோசையை திருப்பியால் புரட்டுங்கள்.",
+  "synonyms": [
+   "turner",
+   "flipper"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "saucepan",
+  "tamil": "கைப்பிடிப் பாத்திரம்",
+  "pos": "noun",
+  "pron": "SAWS-pan",
+  "example": "Boil the milk in a small saucepan.",
+  "exampleTamil": "பாலை ஒரு சிறிய பாத்திரத்தில் காய்ச்சுங்கள்.",
+  "synonyms": [
+   "pot"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "plate",
+  "tamil": "தட்டு",
+  "pos": "noun",
+  "pron": "PLAYT",
+  "example": "Please put the rice on my plate.",
+  "exampleTamil": "தயவுசெய்து என் தட்டில் சாதம் வையுங்கள்.",
+  "synonyms": [
+   "dish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spoon",
+  "tamil": "கரண்டி",
+  "pos": "noun",
+  "pron": "SPOON",
+  "example": "I need a spoon for the curd rice.",
+  "exampleTamil": "தயிர் சாதத்துக்கு எனக்கு ஒரு கரண்டி வேண்டும்.",
+  "synonyms": [
+   "ladle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fork",
+  "tamil": "முள்கரண்டி",
+  "pos": "noun",
+  "pron": "FORK",
+  "example": "He ate the noodles with a fork.",
+  "exampleTamil": "அவன் நூடுல்ஸை முள்கரண்டியால் சாப்பிட்டான்.",
+  "synonyms": [
+   "prong"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tumbler",
+  "tamil": "டம்ளர்",
+  "pos": "noun",
+  "pron": "TUM-blur",
+  "example": "Please bring a tumbler of water.",
+  "exampleTamil": "தயவுசெய்து ஒரு டம்ளர் தண்ணீர் கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "glass",
+   "cup"
+  ],
+  "level": "advanced"
+ }
+]

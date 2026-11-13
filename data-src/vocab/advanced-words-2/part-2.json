@@ -1,0 +1,375 @@
+[
+ {
+  "word": "daunting",
+  "meaning": "Making you feel nervous or afraid because it seems very hard",
+  "tamil": "அச்சுறுத்தும், மலைக்க வைக்கும்",
+  "pos": "adjective",
+  "pron": "DAWN-ting",
+  "example": "Speaking in front of a large crowd is a daunting task.",
+  "exampleTamil": "பெரிய கூட்டத்தின் முன் பேசுவது மலைக்க வைக்கும் வேலை.",
+  "synonyms": [
+   "intimidating",
+   "challenging",
+   "overwhelming"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "notorious",
+  "meaning": "Famous for something bad",
+  "tamil": "கெட்ட பெயர் பெற்ற",
+  "pos": "adjective",
+  "pron": "noh-TOR-ee-us",
+  "example": "This road is notorious for heavy traffic jams.",
+  "exampleTamil": "இந்தச் சாலை கடுமையான போக்குவரத்து நெரிசலுக்குக் கெட்ட பெயர் பெற்றது.",
+  "synonyms": [
+   "infamous",
+   "disreputable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cumbersome",
+  "meaning": "Large, heavy or slow, and difficult to handle or use",
+  "tamil": "சுமையான, கையாள கடினமான",
+  "pos": "adjective",
+  "pron": "KUM-bur-sum",
+  "example": "The old filing system was slow and cumbersome.",
+  "exampleTamil": "பழைய கோப்பு முறை மெதுவாகவும் கையாள கடினமாகவும் இருந்தது.",
+  "synonyms": [
+   "clumsy",
+   "awkward",
+   "unwieldy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "superficial",
+  "meaning": "Only on the surface; not deep or thorough",
+  "tamil": "மேலோட்டமான",
+  "pos": "adjective",
+  "pron": "soo-pur-FISH-ul",
+  "example": "He has only a superficial knowledge of the subject.",
+  "exampleTamil": "அந்தப் பாடத்தைப் பற்றி அவனுக்கு மேலோட்டமான அறிவு மட்டுமே உள்ளது.",
+  "synonyms": [
+   "shallow",
+   "surface",
+   "cursory"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "apathy",
+  "meaning": "Feeling no interest or concern about something",
+  "tamil": "அக்கறையின்மை, அலட்சியம்",
+  "pos": "noun",
+  "pron": "AP-uh-thee",
+  "example": "Voter apathy was clear from the low turnout.",
+  "exampleTamil": "குறைந்த வாக்குப்பதிவிலிருந்து வாக்காளர்களின் அக்கறையின்மை தெளிவாகத் தெரிந்தது.",
+  "synonyms": [
+   "indifference",
+   "disinterest",
+   "unconcern"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "criterion",
+  "meaning": "A standard used to judge or decide something",
+  "tamil": "அளவுகோல், நிபந்தனை",
+  "pos": "noun",
+  "pron": "kry-TEER-ee-un",
+  "example": "Experience is the main criterion for this job.",
+  "exampleTamil": "இந்த வேலைக்கு அனுபவம்தான் முக்கிய அளவுகோல்.",
+  "synonyms": [
+   "standard",
+   "benchmark",
+   "yardstick"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "conviction",
+  "meaning": "A very strong belief or opinion",
+  "tamil": "உறுதியான நம்பிக்கை",
+  "pos": "noun",
+  "pron": "kun-VIK-shun",
+  "example": "She spoke with great conviction about equal pay.",
+  "exampleTamil": "சம ஊதியத்தைப் பற்றி அவள் மிகுந்த உறுதியுடன் பேசினாள்.",
+  "synonyms": [
+   "belief",
+   "certainty",
+   "faith"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rigor",
+  "meaning": "Strictness and great care in doing something exactly",
+  "tamil": "கடுமை, கண்டிப்பான துல்லியம்",
+  "pos": "noun",
+  "pron": "RIG-ur",
+  "example": "The study was done with great scientific rigor.",
+  "exampleTamil": "அந்த ஆய்வு மிகுந்த அறிவியல் கண்டிப்புடன் செய்யப்பட்டது.",
+  "synonyms": [
+   "strictness",
+   "thoroughness",
+   "precision"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inertia",
+  "meaning": "Lack of energy or willingness to change or act",
+  "tamil": "சோம்பல், மாற்றத்தை விரும்பாமை",
+  "pos": "noun",
+  "pron": "in-UR-shuh",
+  "example": "Inertia kept him in the same job for ten years.",
+  "exampleTamil": "மாற்றத்தை விரும்பாத சோம்பல் அவனை பத்து ஆண்டுகள் ஒரே வேலையில் வைத்திருந்தது.",
+  "synonyms": [
+   "inactivity",
+   "laziness",
+   "stagnation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "anomaly",
+  "meaning": "Something unusual that is different from what is normal",
+  "tamil": "வழக்கத்திற்கு மாறான நிகழ்வு",
+  "pos": "noun",
+  "pron": "uh-NOM-uh-lee",
+  "example": "The software found an anomaly in last month's sales data.",
+  "exampleTamil": "கடந்த மாத விற்பனைத் தரவில் மென்பொருள் ஒரு வழக்கத்திற்கு மாறான விஷயத்தைக் கண்டறிந்தது.",
+  "synonyms": [
+   "irregularity",
+   "oddity",
+   "exception"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deter",
+  "meaning": "To make someone decide not to do something",
+  "tamil": "தடுத்து நிறுத்து, பின்வாங்க வை",
+  "pos": "verb",
+  "pron": "dih-TUR",
+  "example": "High prices may deter people from buying the product.",
+  "exampleTamil": "அதிக விலை மக்களை அந்தப் பொருளை வாங்குவதிலிருந்து தடுக்கக்கூடும்.",
+  "synonyms": [
+   "discourage",
+   "prevent",
+   "dissuade"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "contend",
+  "meaning": "To argue or claim that something is true",
+  "tamil": "வாதிடு, வலியுறுத்திக் கூறு",
+  "pos": "verb",
+  "pron": "kun-TEND",
+  "example": "Some experts contend that the new rule will not work.",
+  "exampleTamil": "புதிய விதி பலன் தராது என்று சில நிபுணர்கள் வாதிடுகிறார்கள்.",
+  "synonyms": [
+   "argue",
+   "claim",
+   "maintain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "emulate",
+  "meaning": "To copy someone you admire, trying to be as good",
+  "tamil": "பின்பற்று, முன்மாதிரியாகக் கொள்",
+  "pos": "verb",
+  "pron": "EM-yuh-layt",
+  "example": "Many young players try to emulate their favourite cricketers.",
+  "exampleTamil": "பல இளம் வீரர்கள் தங்களுக்குப் பிடித்த கிரிக்கெட் வீரர்களைப் பின்பற்ற முயல்கிறார்கள்.",
+  "synonyms": [
+   "imitate",
+   "copy",
+   "follow"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "evoke",
+  "meaning": "To bring a feeling or memory into your mind",
+  "tamil": "நினைவுகளைத் தூண்டு, எழுப்பு",
+  "pos": "verb",
+  "pron": "ih-VOHK",
+  "example": "The smell of rain evokes memories of my village.",
+  "exampleTamil": "மழையின் மணம் என் கிராமத்தின் நினைவுகளை எழுப்புகிறது.",
+  "synonyms": [
+   "recall",
+   "stir",
+   "arouse"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "obstruct",
+  "meaning": "To block a path or make progress difficult",
+  "tamil": "தடை செய், வழியை அடை",
+  "pos": "verb",
+  "pron": "ub-STRUKT",
+  "example": "Please do not obstruct the entrance with your bikes.",
+  "exampleTamil": "தயவுசெய்து உங்கள் இருசக்கர வாகனங்களால் நுழைவாயிலை அடைக்காதீர்கள்.",
+  "synonyms": [
+   "block",
+   "hinder",
+   "impede"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "paradigm",
+  "meaning": "A typical model or pattern of how something is done or thought",
+  "tamil": "மாதிரி வடிவம், சிந்தனைக் கட்டமைப்பு",
+  "pos": "noun",
+  "pron": "PAIR-uh-dym",
+  "example": "Online learning created a new paradigm in education.",
+  "exampleTamil": "ஆன்லைன் கற்றல் கல்வியில் ஒரு புதிய மாதிரி வடிவத்தை உருவாக்கியது.",
+  "synonyms": [
+   "model",
+   "pattern",
+   "framework"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "discretion",
+  "meaning": "The freedom or good judgement to decide what to do or say",
+  "tamil": "விவேகம், சுயமுடிவுரிமை",
+  "pos": "noun",
+  "pron": "dis-KRESH-un",
+  "example": "Use your discretion when sharing private information.",
+  "exampleTamil": "தனிப்பட்ட தகவல்களைப் பகிரும்போது உங்கள் விவேகத்தைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "judgement",
+   "prudence",
+   "choice"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "candor",
+  "meaning": "Honesty in saying what you really think",
+  "tamil": "வெளிப்படையான நேர்மை",
+  "pos": "noun",
+  "pron": "KAN-dur",
+  "example": "I appreciate your candor about the project's problems.",
+  "exampleTamil": "திட்டத்தின் பிரச்சினைகளைப் பற்றிய உங்கள் வெளிப்படையான நேர்மையை நான் பாராட்டுகிறேன்.",
+  "synonyms": [
+   "honesty",
+   "frankness",
+   "openness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hubris",
+  "meaning": "Too much pride that makes a person overconfident",
+  "tamil": "அளவுக்கு மீறிய தற்பெருமை",
+  "pos": "noun",
+  "pron": "HYOO-bris",
+  "example": "His hubris led him to ignore good advice.",
+  "exampleTamil": "அவனுடைய அளவுக்கு மீறிய தற்பெருமை நல்ல அறிவுரையைப் புறக்கணிக்க வைத்தது.",
+  "synonyms": [
+   "arrogance",
+   "pride",
+   "conceit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "prudence",
+  "meaning": "Careful thinking that helps you avoid risks",
+  "tamil": "முன்னெச்சரிக்கை, விவேகம்",
+  "pos": "noun",
+  "pron": "PROO-dunss",
+  "example": "Financial prudence helped them survive the difficult year.",
+  "exampleTamil": "நிதி விவேகம் அவர்கள் கடினமான ஆண்டைக் கடக்க உதவியது.",
+  "synonyms": [
+   "caution",
+   "wisdom",
+   "carefulness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pragmatism",
+  "meaning": "A practical way of dealing with things based on real results",
+  "tamil": "நடைமுறைவாதம்",
+  "pos": "noun",
+  "pron": "PRAG-muh-tiz-um",
+  "example": "His pragmatism helped the team find a quick solution.",
+  "exampleTamil": "அவனுடைய நடைமுறை அணுகுமுறை குழுவுக்கு விரைவான தீர்வைக் கண்டறிய உதவியது.",
+  "synonyms": [
+   "practicality",
+   "realism",
+   "common sense"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "skepticism",
+  "meaning": "A doubtful attitude about whether something is true",
+  "tamil": "சந்தேக மனப்பான்மை",
+  "pos": "noun",
+  "pron": "SKEP-tuh-siz-um",
+  "example": "Many people greeted the new scheme with skepticism.",
+  "exampleTamil": "பலர் புதிய திட்டத்தை சந்தேகத்துடன் வரவேற்றனர்.",
+  "synonyms": [
+   "doubt",
+   "suspicion",
+   "disbelief"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "complacency",
+  "meaning": "Feeling so satisfied that you stop trying to improve",
+  "tamil": "அலட்சிய திருப்தி",
+  "pos": "noun",
+  "pron": "kum-PLAY-sun-see",
+  "example": "Success can lead to complacency if we are not careful.",
+  "exampleTamil": "நாம் கவனமாக இல்லாவிட்டால் வெற்றி அலட்சிய திருப்தியாக மாறிவிடலாம்.",
+  "synonyms": [
+   "smugness",
+   "self-satisfaction"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fortitude",
+  "meaning": "Strong courage in facing pain or difficulty",
+  "tamil": "மன உறுதி, துணிவு",
+  "pos": "noun",
+  "pron": "FOR-tuh-tood",
+  "example": "She faced her illness with great fortitude.",
+  "exampleTamil": "அவள் தன் நோயை மிகுந்த மன உறுதியுடன் எதிர்கொண்டாள்.",
+  "synonyms": [
+   "courage",
+   "strength",
+   "resilience"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vigilance",
+  "meaning": "Careful watching for danger or trouble",
+  "tamil": "விழிப்புணர்வு, எச்சரிக்கை",
+  "pos": "noun",
+  "pron": "VIJ-uh-lunss",
+  "example": "Constant vigilance is needed to stop online fraud.",
+  "exampleTamil": "இணைய மோசடியைத் தடுக்க தொடர்ந்த விழிப்புணர்வு தேவை.",
+  "synonyms": [
+   "alertness",
+   "watchfulness",
+   "caution"
+  ],
+  "level": "advanced"
+ }
+]

@@ -1,0 +1,371 @@
+[
+ {
+  "category": "restaurants",
+  "context": "Offered a drink with the meal",
+  "level": "beginner",
+  "en": "Would you like something to drink?",
+  "tamil": "குடிக்க ஏதாவது வேண்டுமா?",
+  "reply": "Just water for now, thanks. Maybe a lassi later.",
+  "replyTamil": "இப்போதைக்கு தண்ணீர் மட்டும் போதும், நன்றி. அப்புறம் ஒரு லஸ்ஸி வாங்கலாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Choosing a fresh juice",
+  "level": "intermediate",
+  "en": "We have fresh watermelon, sweet lime and pineapple juice today.",
+  "tamil": "இன்னைக்கு தர்பூசணி, சாத்துக்குடி, அன்னாசி ஜூஸ் இருக்கு.",
+  "reply": "Sweet lime for me, please. And could you skip the sugar? It's sweet enough already.",
+  "replyTamil": "எனக்கு சாத்துக்குடி ஜூஸ் கொடுங்க. சர்க்கரை போடாதீங்க, அதுவே போதுமான இனிப்பு."
+ },
+ {
+  "category": "restaurants",
+  "context": "Ordering filter coffee after lunch",
+  "level": "beginner",
+  "en": "Coffee or tea after the meal?",
+  "tamil": "சாப்பாடு முடிஞ்சதும் காபியா, டீயா?",
+  "reply": "Filter coffee, please. Strong, with less sugar.",
+  "replyTamil": "ஃபில்டர் காபி கொடுங்க. ஸ்ட்ராங்கா, சர்க்கரை கம்மியா."
+ },
+ {
+  "category": "restaurants",
+  "context": "Asking about dessert options",
+  "level": "beginner",
+  "en": "Is there anything sweet on the menu?",
+  "tamil": "மெனுவுல இனிப்பு ஏதாவது இருக்கா?",
+  "reply": "We have gulab jamun, payasam and ice cream. The payasam is made fresh every afternoon.",
+  "replyTamil": "குலாப் ஜாமூன், பாயசம், ஐஸ்கிரீம் இருக்கு. பாயசம் தினமும் மதியம் புதுசா செய்வோம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Sharing a dessert",
+  "level": "intermediate",
+  "en": "I'm stuffed, but I can't say no to dessert. Shall we share one?",
+  "tamil": "வயிறு நிறைஞ்சிடுச்சு, ஆனாலும் இனிப்பை மறுக்க முடியாது. ஒண்ணை பகிர்ந்துக்கலாமா?",
+  "reply": "Good idea. Let's get the brownie with ice cream and two spoons.",
+  "replyTamil": "நல்ல யோசனை. ஐஸ்கிரீமோட பிரவுனி ஒண்ணும், ரெண்டு ஸ்பூனும் வாங்கலாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Asking if a drink is cold",
+  "level": "beginner",
+  "en": "Is the buttermilk cold?",
+  "tamil": "மோர் குளிர்ச்சியா இருக்கா?",
+  "reply": "Yes, sir, it's chilled. We add a little ginger and curry leaves too.",
+  "replyTamil": "ஆமா சார், நல்லா குளிர்ச்சியா இருக்கு. கொஞ்சம் இஞ்சியும் கறிவேப்பிலையும் போடுவோம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Declining dessert politely",
+  "level": "intermediate",
+  "en": "Can I tempt you with a dessert? The kulfi is really good.",
+  "tamil": "ஏதாவது இனிப்பு எடுத்துக்கறீங்களா? குல்ஃபி ரொம்ப நல்லா இருக்கும்.",
+  "reply": "That sounds lovely, but I'll pass tonight. I'm watching my sugar. Maybe next time!",
+  "replyTamil": "கேட்கவே நல்லா இருக்கு, ஆனா இன்னைக்கு வேண்டாம். சர்க்கரை கவனிக்கணும். அடுத்த தடவை பார்க்கலாம்!"
+ },
+ {
+  "category": "restaurants",
+  "context": "Mocktail suggestion at a cafe",
+  "level": "advanced",
+  "en": "If you're not into fizzy drinks, the virgin mojito is a refreshing alternative.",
+  "tamil": "சோடா பானங்கள் பிடிக்கலைன்னா, வெர்ஜின் மோஹிட்டோ புத்துணர்ச்சி தரும் மாற்று.",
+  "reply": "I'll give it a go, then. I'm in the mood for something minty on a hot day like this.",
+  "replyTamil": "அப்படின்னா அதை ஒரு தடவை டிரை பண்றேன். இந்த வெயிலுக்கு புதினா போட்ட ஏதாவது குடிக்கணும்னு தோணுது."
+ },
+ {
+  "category": "restaurants",
+  "context": "Asking for the dosa to be crispier",
+  "level": "beginner",
+  "en": "Can I get the dosa extra crispy?",
+  "tamil": "தோசையை நல்ல மொறுமொறுப்பா போட்டுத் தர முடியுமா?",
+  "reply": "Sure, sir. It'll take a couple of minutes more. Is that okay?",
+  "replyTamil": "கண்டிப்பா சார். இன்னும் ரெண்டு நிமிஷம் ஆகும். பரவாயில்லையா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Requesting a dish without coriander",
+  "level": "intermediate",
+  "en": "Please keep the coriander off my biryani. I really can't stand the smell.",
+  "tamil": "என் பிரியாணியில கொத்தமல்லி போடாதீங்க. அந்த வாசனையே எனக்குப் பிடிக்காது.",
+  "reply": "No problem at all. I'll tell the kitchen right away so it's not garnished.",
+  "replyTamil": "எந்தப் பிரச்சனையும் இல்லை. சமையலறையில இப்பவே சொல்றேன், மேல அலங்காரத்துக்கும் போட மாட்டாங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Asking for extra gravy",
+  "level": "beginner",
+  "en": "Could we get some extra gravy with the parotta?",
+  "tamil": "பரோட்டாவுக்கு கொஞ்சம் எக்ஸ்ட்ரா க்ரேவி கிடைக்குமா?",
+  "reply": "Of course. One small bowl is free, and the next one is ten rupees.",
+  "replyTamil": "சரி. ஒரு சின்ன கிண்ணம் இலவசம், அடுத்ததுக்கு பத்து ரூபாய்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Swapping a side dish",
+  "level": "intermediate",
+  "en": "Is it possible to swap the fries for a salad? I'm trying to eat lighter.",
+  "tamil": "ஃப்ரைஸுக்கு பதிலா சாலட் கொடுக்க முடியுமா? கொஞ்சம் லைட்டா சாப்பிட முயற்சி பண்றேன்.",
+  "reply": "Yes, we can do that. There's a small extra charge for the salad, though.",
+  "replyTamil": "முடியும். ஆனா சாலட்டுக்கு கொஞ்சம் கூடுதல் கட்டணம் உண்டு."
+ },
+ {
+  "category": "restaurants",
+  "context": "Custom spice request for a curry",
+  "level": "advanced",
+  "en": "Could the chef tone the curry down a notch? I'm sensitive to heat, but I don't want it bland either.",
+  "tamil": "கறியில காரத்தை கொஞ்சம் குறைக்க முடியுமா? எனக்கு காரம் தாங்காது, ஆனா சப்புன்னும் இருக்கக் கூடாது.",
+  "reply": "Understood. He'll go easy on the chilli and keep the masala flavour. I'll check it with you when it arrives.",
+  "replyTamil": "புரிஞ்சுது. மிளகாயை குறைச்சு மசாலா சுவையை அப்படியே வைப்பார். வந்ததும் உங்ககிட்ட கேட்கிறேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Requesting food to be served hot",
+  "level": "beginner",
+  "en": "Please serve everything piping hot.",
+  "tamil": "எல்லாத்தையும் சுடச்சுட கொண்டு வாங்க.",
+  "reply": "Sure thing. It'll come straight from the stove.",
+  "replyTamil": "சரி. அடுப்புல இருந்து நேரா வரும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Waiter checks mid-meal",
+  "level": "beginner",
+  "en": "How's the food, sir? Everything okay?",
+  "tamil": "சாப்பாடு எப்படி இருக்கு சார்? எல்லாம் சரியா இருக்கா?",
+  "reply": "It's delicious, thank you. Could you bring more chutney, please?",
+  "replyTamil": "ரொம்ப நல்லா இருக்கு, நன்றி. இன்னும் கொஞ்சம் சட்னி கொண்டு வர முடியுமா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Waiter offers a refill",
+  "level": "beginner",
+  "en": "Shall I top up your water?",
+  "tamil": "தண்ணீர் இன்னும் கொஞ்சம் ஊத்தவா?",
+  "reply": "Yes, please. And one more glass for my friend.",
+  "replyTamil": "ஆமா, ஊத்துங்க. என் நண்பருக்கும் இன்னொரு டம்ளர் வேணும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Waiter asks about a second round",
+  "level": "intermediate",
+  "en": "Are you still working on that, or can I take the plate away?",
+  "tamil": "இன்னும் சாப்பிட்டுட்டு இருக்கீங்களா, இல்ல தட்டை எடுத்துக்கவா?",
+  "reply": "I'm done, you can take it. Actually, could you pack the leftover rice for me?",
+  "replyTamil": "முடிச்சிட்டேன், எடுத்துக்கோங்க. அது சரி, மீதி இருக்கிற சாதத்தை பார்சல் பண்ணித் தர முடியுமா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Waiter notices a dish untouched",
+  "level": "intermediate",
+  "en": "I noticed you haven't touched the soup. Is something wrong with it?",
+  "tamil": "நீங்க சூப்பை தொடவே இல்லையே. அதுல ஏதாவது பிரச்சனையா?",
+  "reply": "No, it's fine. It's just a bit too hot for me. I'll have it in a minute.",
+  "replyTamil": "இல்லை, நல்லாதான் இருக்கு. கொஞ்சம் அதிக சூடா இருக்கு. ஒரு நிமிஷத்துல குடிக்கிறேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Waiter asks if more is needed",
+  "level": "beginner",
+  "en": "Do you need anything else right now?",
+  "tamil": "இப்போ வேற ஏதாவது வேணுமா?",
+  "reply": "Not right now, thanks. We'll call you if we do.",
+  "replyTamil": "இப்போதைக்கு எதுவும் வேண்டாம், நன்றி. தேவைன்னா கூப்பிடுறோம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Calling the waiter over",
+  "level": "beginner",
+  "en": "Excuse me, could you come here for a second?",
+  "tamil": "மன்னிக்கணும், ஒரு நிமிஷம் இங்க வர முடியுமா?",
+  "reply": "Yes, sir, I'm coming. What can I get you?",
+  "replyTamil": "ஆமா சார், வந்துட்டேன். என்ன கொண்டு வரணும்?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Refilling the sambar",
+  "level": "intermediate",
+  "en": "The sambar is amazing. Is it unlimited, or will you charge for a refill?",
+  "tamil": "சாம்பார் அருமையா இருக்கு. அன்லிமிடெட்டா, இல்ல மறுபடி கேட்டா காசு வாங்குவீங்களா?",
+  "reply": "It's unlimited with the meals, sir. Just wave at me and I'll bring more.",
+  "replyTamil": "மீல்ஸுக்கு அன்லிமிடெட் சார். கை காட்டுங்க, நான் கொண்டு வர்றேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Waiter apologises for a delay",
+  "level": "advanced",
+  "en": "I'm sorry for the hold-up. We're short-staffed tonight, and your order is coming out shortly.",
+  "tamil": "தாமதத்துக்கு மன்னிக்கணும். இன்னைக்கு ஆள் பற்றாக்குறை, உங்க ஆர்டர் இதோ வந்துடும்.",
+  "reply": "That's alright, we understand. Just let us know if it's going to be much longer.",
+  "replyTamil": "பரவாயில்லை, புரியுது. இன்னும் ரொம்ப நேரம் ஆகும்னா மட்டும் சொல்லிடுங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Cold food complaint",
+  "level": "beginner",
+  "en": "The food is cold. Can you heat it up, please?",
+  "tamil": "சாப்பாடு ஆறிப் போயிருக்கு. சூடு பண்ணித் தர முடியுமா?",
+  "reply": "I'm very sorry. I'll take it back and bring it hot in five minutes.",
+  "replyTamil": "ரொம்ப மன்னிக்கணும். திரும்ப எடுத்துட்டுப் போய் அஞ்சு நிமிஷத்துல சூடா கொண்டு வர்றேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Wrong dish delivered",
+  "level": "beginner",
+  "en": "This isn't what I ordered. I asked for chicken fried rice.",
+  "tamil": "நான் ஆர்டர் பண்ணது இது இல்லை. சிக்கன் ஃப்ரைட் ரைஸ் கேட்டேன்.",
+  "reply": "Oh, sorry about that, sir. Let me fix it right away.",
+  "replyTamil": "அச்சோ, மன்னிக்கணும் சார். உடனே சரி பண்றேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Hair or object in the food",
+  "level": "intermediate",
+  "en": "There's a hair in my curry. I can't eat this.",
+  "tamil": "என் கறியில முடி கிடக்கு. இதை சாப்பிட முடியாது.",
+  "reply": "I'm really sorry, that shouldn't happen. We'll replace it and take it off the bill.",
+  "replyTamil": "உண்மையிலேயே மன்னிக்கணும், இப்படி நடக்கக் கூடாது. மாத்திக் கொடுத்துடுறோம், பில்லுலயும் சேர்க்க மாட்டோம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Order has taken too long",
+  "level": "intermediate",
+  "en": "We ordered forty minutes ago. Could you check on it, please?",
+  "tamil": "நாங்க நாற்பது நிமிஷம் முன்னாடி ஆர்டர் பண்ணோம். என்னன்னு பார்க்க முடியுமா?",
+  "reply": "Let me look into it right now. I'm sorry you've had to wait this long.",
+  "replyTamil": "இப்பவே பார்க்கிறேன். இவ்வளவு நேரம் காத்திருக்க வச்சதுக்கு மன்னிக்கணும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Too salty dish",
+  "level": "beginner",
+  "en": "The rasam is very salty today.",
+  "tamil": "இன்னைக்கு ரசம் ரொம்ப உப்பா இருக்கு.",
+  "reply": "Is it? I'll let the cook know. Would you like a fresh bowl?",
+  "replyTamil": "அப்படியா? சமையல்காரர்கிட்ட சொல்றேன். புது கிண்ணம் கொண்டு வரவா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Overcharged on the bill",
+  "level": "intermediate",
+  "en": "I think there's a mistake on the bill. We were charged twice for the naan.",
+  "tamil": "பில்லுல தப்பு இருக்குன்னு நினைக்கிறேன். நாண்க்கு ரெண்டு தடவை காசு போட்டிருக்கீங்க.",
+  "reply": "You're right, sorry about that. I'll correct it and print a new bill.",
+  "replyTamil": "நீங்க சொல்றது சரிதான், மன்னிக்கணும். திருத்தி புது பில் போட்டுத் தர்றேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Raising a polite complaint about noise",
+  "level": "advanced",
+  "en": "I don't mean to be a nuisance, but the music is so loud that we can barely hear each other.",
+  "tamil": "தொந்தரவு பண்ணணும்னு இல்லை, ஆனா மியூசிக் இவ்வளவு சத்தமா இருக்கறதால ஒருத்தருக்கொருத்தர் பேசறதே கேட்கலை.",
+  "reply": "Not a nuisance at all. I'll ask them to turn it down a little.",
+  "replyTamil": "தொந்தரவே இல்லை. கொஞ்சம் சத்தத்தை குறைக்கச் சொல்றேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Dish arrived undercooked",
+  "level": "advanced",
+  "en": "The chicken looks a bit underdone in the middle. I'd rather not risk it.",
+  "tamil": "சிக்கன் நடுவுல சரியா வேகலை போல இருக்கு. ரிஸ்க் எடுக்க விரும்பலை.",
+  "reply": "You're absolutely right to flag it. I'll have it cooked properly and bring a fresh plate.",
+  "replyTamil": "நீங்க சொன்னது ரொம்ப சரி. நல்லா வேக வச்சு புது தட்டுல கொண்டு வர்றேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Table is dirty",
+  "level": "beginner",
+  "en": "Could someone wipe this table, please? It's sticky.",
+  "tamil": "யாராவது இந்த மேசையை துடைக்க முடியுமா? ஒட்டுதா இருக்கு.",
+  "reply": "Sorry, sir. I'll clean it right now.",
+  "replyTamil": "மன்னிக்கணும் சார். இப்பவே துடைக்கிறேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Asking for the bill",
+  "level": "beginner",
+  "en": "Whenever you are free, could you bring the bill to our table?",
+  "tamil": "நீங்க ஃப்ரீ ஆனதும், பில்லை எங்க டேபிளுக்குக் கொண்டு வர முடியுமா?",
+  "reply": "Certainly, sir. I'll bring it right away.",
+  "replyTamil": "சரி சார். இதோ உடனே கொண்டு வர்றேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Splitting the bill equally",
+  "level": "beginner",
+  "en": "Let's split the bill equally, okay?",
+  "tamil": "பில்லை சமமா பிரிச்சுக்கலாம், சரியா?",
+  "reply": "Sounds good. It comes to five hundred each.",
+  "replyTamil": "சரி. ஆளுக்கு ஐநூறு ஆகுது."
+ },
+ {
+  "category": "restaurants",
+  "context": "Paying for your own items",
+  "level": "intermediate",
+  "en": "I only had a soup and a juice. Why should I pay for the whole table?",
+  "tamil": "நான் ஒரு சூப்பும் ஜூஸும்தான் சாப்பிட்டேன். மொத்த மேசைக்கும் நான் ஏன் கொடுக்கணும்?",
+  "reply": "Fair point. Let's ask for separate bills so everyone pays only for what they ate.",
+  "replyTamil": "நியாயமான கேள்விதான். தனித்தனி பில் கேட்கலாம், ஒவ்வொருத்தரும் சாப்பிட்டதுக்கு மட்டும் கொடுக்கட்டும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Checking service charge",
+  "level": "intermediate",
+  "en": "Is the service charge already included in this total?",
+  "tamil": "இந்த மொத்தத்துலயே சர்வீஸ் சார்ஜ் சேர்ந்திருக்கா?",
+  "reply": "Yes, ten percent is added here. You can see it below the GST line.",
+  "replyTamil": "ஆமா, பத்து சதவீதம் சேர்த்திருக்கோம். ஜிஎஸ்டி வரிக்குக் கீழே பாருங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Who is paying today",
+  "level": "beginner",
+  "en": "It's my treat today. Put it on my card.",
+  "tamil": "இன்னைக்கு என் செலவு. என் கார்டுல போடுங்க.",
+  "reply": "No, no, let me pay half at least. You paid last time.",
+  "replyTamil": "இல்லை இல்லை, குறைஞ்சது பாதியாவது நான் கொடுக்கறேன். போன தடவை நீங்கதான் கொடுத்தீங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Splitting by UPI among friends",
+  "level": "intermediate",
+  "en": "I've paid the whole bill. Can everyone send me their share on UPI?",
+  "tamil": "நான் மொத்த பில்லையும் கட்டிட்டேன். எல்லாரும் உங்க பங்கை யுபிஐ-ல அனுப்புங்க.",
+  "reply": "Sure, sending mine now. Was it twelve hundred in total, or with the tax?",
+  "replyTamil": "சரி, இப்பவே அனுப்பறேன். மொத்தம் ஆயிரத்து இருநூறா, இல்ல வரியோட சேர்த்தா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Disputing a fair split",
+  "level": "advanced",
+  "en": "Hang on, shouldn't Ravi pay a bit more? He had two rounds of drinks, and we only had water.",
+  "tamil": "ஒரு நிமிஷம், ரவி கொஞ்சம் அதிகமா கொடுக்கணும் இல்லையா? அவன் ரெண்டு தடவை ட்ரிங்க்ஸ் குடிச்சான், நாம தண்ணி மட்டும்தான்.",
+  "reply": "That's fair. Let's do it by items instead, so nobody feels shortchanged.",
+  "replyTamil": "நியாயம்தான். சாப்பிட்ட பொருளுக்கு ஏத்த மாதிரி பிரிச்சுக்கலாம், யாருக்கும் குறைவா தோணாது."
+ },
+ {
+  "category": "restaurants",
+  "context": "Asking for a GST bill",
+  "level": "intermediate",
+  "en": "Could I get a GST invoice for this? I'll claim it from the office.",
+  "tamil": "இதுக்கு ஜிஎஸ்டி இன்வாய்ஸ் தர முடியுமா? ஆபீஸ்ல க்ளைம் பண்ணுவேன்.",
+  "reply": "Sure, I'll need your company name and GST number. Please write them down here.",
+  "replyTamil": "சரி, உங்க கம்பெனி பேரும் ஜிஎஸ்டி நம்பரும் வேணும். இங்க எழுதிக் கொடுங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Rounding off and change",
+  "level": "beginner",
+  "en": "Keep the change.",
+  "tamil": "மீதி சில்லறையை வச்சுக்கோங்க.",
+  "reply": "Thank you so much, sir! Have a nice day.",
+  "replyTamil": "ரொம்ப நன்றி சார்! நல்ல நாளா அமையட்டும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Bill arrives higher than expected",
+  "level": "advanced",
+  "en": "Hmm, this is a bit steeper than I expected. Did the drinks cost that much?",
+  "tamil": "ம்ம், நான் எதிர்பார்த்ததை விட கொஞ்சம் அதிகமா இருக்கே. ட்ரிங்க்ஸுக்கு அவ்வளவு ஆச்சா?",
+  "reply": "The cocktails were four hundred each. I can go through the items with you if you like.",
+  "replyTamil": "காக்டெய்ல் ஒண்ணு நானூறு ரூபாய். வேணும்னா ஒவ்வொரு பொருளா சேர்ந்து பார்க்கலாம்."
+ }
+]

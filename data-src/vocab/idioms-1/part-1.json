@@ -1,0 +1,352 @@
+[
+ {
+  "word": "piece of cake",
+  "meaning": "something very easy to do",
+  "tamil": "மிக எளிதான காரியம்",
+  "pos": "phrase",
+  "pron": "PEES uv KAYK",
+  "example": "The maths test was a piece of cake for her.",
+  "exampleTamil": "அவளுக்கு கணித தேர்வு மிகவும் எளிதாக இருந்தது.",
+  "synonyms": [
+   "easy",
+   "simple"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "under the weather",
+  "meaning": "feeling a little sick",
+  "tamil": "உடல்நிலை சரியில்லாமல் இருப்பது",
+  "pos": "phrase",
+  "pron": "UN-der thuh WETH-er",
+  "example": "I am under the weather today, so I will stay home.",
+  "exampleTamil": "இன்று எனக்கு உடம்பு சரியில்லை, அதனால் வீட்டிலேயே இருப்பேன்.",
+  "synonyms": [
+   "unwell",
+   "sick"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hit the books",
+  "meaning": "to study hard",
+  "tamil": "கடினமாகப் படிப்பது",
+  "pos": "phrase",
+  "pron": "HIT thuh BOOKS",
+  "example": "I must hit the books tonight because the exam is tomorrow.",
+  "exampleTamil": "நாளை தேர்வு என்பதால் இன்று இரவு நான் கடினமாகப் படிக்க வேண்டும்.",
+  "synonyms": [
+   "study",
+   "revise"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "right away",
+  "meaning": "immediately, without any delay",
+  "tamil": "உடனே, தாமதம் இல்லாமல்",
+  "pos": "phrase",
+  "pron": "RYT uh-WAY",
+  "example": "Please come to my room right away.",
+  "exampleTamil": "தயவுசெய்து உடனே என் அறைக்கு வாருங்கள்.",
+  "synonyms": [
+   "immediately",
+   "at once"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "take it easy",
+  "meaning": "to relax and not worry or work too hard",
+  "tamil": "கவலைப்படாமல் ஓய்வாக இருப்பது",
+  "pos": "phrase",
+  "pron": "TAYK it EE-zee",
+  "example": "You look tired, so take it easy this weekend.",
+  "exampleTamil": "நீங்கள் களைப்பாகத் தெரிகிறீர்கள், இந்த வார இறுதியில் ஓய்வாக இருங்கள்.",
+  "synonyms": [
+   "relax",
+   "rest"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "keep in touch",
+  "meaning": "to stay in contact with someone",
+  "tamil": "தொடர்பில் இருப்பது",
+  "pos": "phrase",
+  "pron": "KEEP in TUCH",
+  "example": "Let us keep in touch after you move to Chennai.",
+  "exampleTamil": "நீங்கள் சென்னைக்கு மாறிய பிறகும் தொடர்பில் இருப்போம்.",
+  "synonyms": [
+   "stay connected",
+   "contact"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "have a look",
+  "meaning": "to look at something quickly",
+  "tamil": "ஒரு முறை பார்ப்பது",
+  "pos": "phrase",
+  "pron": "HAV uh LOOK",
+  "example": "Can you have a look at my homework?",
+  "exampleTamil": "என் வீட்டுப்பாடத்தை ஒரு முறை பார்க்க முடியுமா?",
+  "synonyms": [
+   "check",
+   "glance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sleep on it",
+  "meaning": "to wait until the next day before deciding",
+  "tamil": "முடிவு எடுக்கும் முன் ஒரு இரவு யோசிப்பது",
+  "pos": "phrase",
+  "pron": "SLEEP on it",
+  "example": "I need to sleep on it before I accept the offer.",
+  "exampleTamil": "வாய்ப்பை ஏற்கும் முன் ஒரு இரவு யோசிக்க வேண்டும்.",
+  "synonyms": [
+   "think over",
+   "consider"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "in a hurry",
+  "meaning": "moving or acting quickly because of little time",
+  "tamil": "அவசரத்தில்",
+  "pos": "phrase",
+  "pron": "in uh HUR-ee",
+  "example": "I was in a hurry, so I skipped breakfast.",
+  "exampleTamil": "நான் அவசரத்தில் இருந்ததால் காலை உணவைத் தவிர்த்தேன்.",
+  "synonyms": [
+   "rushed",
+   "hasty"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "big deal",
+  "meaning": "something important; also used when something is not important",
+  "tamil": "முக்கியமான விஷயம்; அலட்சியமாகவும் சொல்வர்",
+  "pos": "phrase",
+  "pron": "BIG DEEL",
+  "example": "It is no big deal if you are five minutes late.",
+  "exampleTamil": "ஐந்து நிமிடம் தாமதமானால் அது பெரிய விஷயம் இல்லை.",
+  "synonyms": [
+   "important thing",
+   "fuss"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "no way",
+  "meaning": "used to say something is impossible or you refuse",
+  "tamil": "முடியவே முடியாது, நம்ப முடியவில்லை",
+  "pos": "phrase",
+  "pron": "NOH WAY",
+  "example": "No way, I cannot finish this report by noon!",
+  "exampleTamil": "முடியவே முடியாது, மதியத்திற்குள் இந்த அறிக்கையை முடிக்க முடியாது!",
+  "synonyms": [
+   "impossible",
+   "never"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "for a change",
+  "meaning": "as something different from the usual",
+  "tamil": "வழக்கத்திலிருந்து மாறுதலாக",
+  "pos": "phrase",
+  "pron": "fer uh CHAYNJ",
+  "example": "Let us eat out for a change.",
+  "exampleTamil": "மாறுதலுக்காக வெளியே சாப்பிடுவோம்.",
+  "synonyms": [
+   "as a variation",
+   "for variety"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "at the moment",
+  "meaning": "right now",
+  "tamil": "இந்த நேரத்தில்",
+  "pos": "phrase",
+  "pron": "at thuh MOH-ment",
+  "example": "My manager is busy at the moment.",
+  "exampleTamil": "என் மேலாளர் இப்போது வேலையாக இருக்கிறார்.",
+  "synonyms": [
+   "right now",
+   "currently"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "out of order",
+  "meaning": "not working properly",
+  "tamil": "வேலை செய்யாமல் இருப்பது",
+  "pos": "phrase",
+  "pron": "OWT uv OR-der",
+  "example": "The lift is out of order, so we took the stairs.",
+  "exampleTamil": "மின்தூக்கி பழுதாக இருந்ததால் நாங்கள் படிக்கட்டுகளில் சென்றோம்.",
+  "synonyms": [
+   "broken",
+   "not working"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "face to face",
+  "meaning": "in person, with both people present",
+  "tamil": "நேருக்கு நேர்",
+  "pos": "phrase",
+  "pron": "FAYS tuh FAYS",
+  "example": "I prefer to talk face to face, not on the phone.",
+  "exampleTamil": "நான் தொலைபேசியில் பேசுவதை விட நேருக்கு நேர் பேச விரும்புகிறேன்.",
+  "synonyms": [
+   "in person",
+   "directly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "over the moon",
+  "meaning": "extremely happy",
+  "tamil": "மிகவும் மகிழ்ச்சியாக",
+  "pos": "phrase",
+  "pron": "OH-ver thuh MOON",
+  "example": "She was over the moon when she got the job.",
+  "exampleTamil": "வேலை கிடைத்ததும் அவள் மிகவும் மகிழ்ச்சியடைந்தாள்.",
+  "synonyms": [
+   "thrilled",
+   "delighted"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "feel blue",
+  "meaning": "to feel sad",
+  "tamil": "சோகமாக உணர்வது",
+  "pos": "phrase",
+  "pron": "FEEL BLOO",
+  "example": "I feel blue when it rains all day.",
+  "exampleTamil": "நாள் முழுவதும் மழை பெய்தால் எனக்கு சோகமாக இருக்கும்.",
+  "synonyms": [
+   "feel sad",
+   "feel down"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "on my own",
+  "meaning": "alone, or without help from anyone",
+  "tamil": "தனியாக, யார் உதவியுமின்றி",
+  "pos": "phrase",
+  "pron": "on my OHN",
+  "example": "I finished the whole project on my own.",
+  "exampleTamil": "முழு திட்டத்தையும் நான் தனியாகவே முடித்தேன்.",
+  "synonyms": [
+   "alone",
+   "independently"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pay attention",
+  "meaning": "to listen or watch carefully",
+  "tamil": "கவனமாகக் கேட்பது அல்லது பார்ப்பது",
+  "pos": "phrase",
+  "pron": "PAY uh-TEN-shun",
+  "example": "Please pay attention when the teacher explains.",
+  "exampleTamil": "ஆசிரியர் விளக்கும்போது தயவுசெய்து கவனியுங்கள்.",
+  "synonyms": [
+   "focus",
+   "concentrate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "make sense",
+  "meaning": "to be clear and easy to understand",
+  "tamil": "புரியும்படி இருப்பது, அர்த்தமுள்ளதாக இருப்பது",
+  "pos": "phrase",
+  "pron": "MAYK SENS",
+  "example": "Your plan does not make sense to me.",
+  "exampleTamil": "உங்கள் திட்டம் எனக்குப் புரியவில்லை.",
+  "synonyms": [
+   "be logical",
+   "be clear"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "let it go",
+  "meaning": "to stop worrying about something",
+  "tamil": "கவலைப்படுவதை விட்டுவிடுவது",
+  "pos": "phrase",
+  "pron": "LET it GOH",
+  "example": "It was a small mistake, so just let it go.",
+  "exampleTamil": "அது சிறிய தவறு, அதனால் விட்டுவிடு.",
+  "synonyms": [
+   "forget it",
+   "move on"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lend a hand",
+  "meaning": "to help someone",
+  "tamil": "உதவி செய்வது",
+  "pos": "phrase",
+  "pron": "LEND uh HAND",
+  "example": "Can you lend a hand with these boxes?",
+  "exampleTamil": "இந்தப் பெட்டிகளை எடுக்க உதவ முடியுமா?",
+  "synonyms": [
+   "help",
+   "assist"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hit the road",
+  "meaning": "to start a journey",
+  "tamil": "பயணத்தைத் தொடங்குவது",
+  "pos": "phrase",
+  "pron": "HIT thuh ROHD",
+  "example": "We should hit the road before the traffic starts.",
+  "exampleTamil": "போக்குவரத்து நெரிசல் தொடங்கும் முன் நாம் புறப்பட வேண்டும்.",
+  "synonyms": [
+   "set off",
+   "leave"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cross your fingers",
+  "meaning": "to hope for good luck",
+  "tamil": "நல்ல அதிர்ஷ்டம் வேண்டி நம்பிக்கையுடன் காத்திருப்பது",
+  "pos": "phrase",
+  "pron": "KROS yor FING-gerz",
+  "example": "Cross your fingers that the bus is on time.",
+  "exampleTamil": "பேருந்து சரியான நேரத்திற்கு வர வேண்டும் என்று வேண்டிக்கொள்.",
+  "synonyms": [
+   "hope",
+   "wish luck"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "in person",
+  "meaning": "by being there yourself",
+  "tamil": "நேரில்",
+  "pos": "phrase",
+  "pron": "in PUR-sun",
+  "example": "You must sign the form in person.",
+  "exampleTamil": "நீங்கள் படிவத்தில் நேரில் கையெழுத்திட வேண்டும்.",
+  "synonyms": [
+   "face to face",
+   "personally"
+  ],
+  "level": "beginner"
+ }
+]

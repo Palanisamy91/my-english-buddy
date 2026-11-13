@@ -1,0 +1,374 @@
+[
+  {
+    "en": "Do you need any more details from me?",
+    "tamil": "உங்களுக்கு என்கிட்டேர்ந்து இன்னும் ஏதாவது details வேணுமா?",
+    "context": "A support agent checking before closing a case.",
+    "tense": "present",
+    "type": "question",
+    "explain": "A polite question offering to give more information.",
+    "words": [
+      "details"
+    ],
+    "usage": "Support staff or colleagues say this when they want to finish helping.",
+    "leelaQ": "What do you ask before you finish helping someone?",
+    "answer": "I ask if they need any more details from me."
+  },
+  {
+    "en": "Why was my refund not processed yet?",
+    "tamil": "என் ரீஃபண்ட் ஏன் இன்னும் ப்ராசஸ் ஆகல?",
+    "context": "Asking an online store about a refund.",
+    "tense": "past",
+    "type": "question",
+    "explain": "'Was not processed' is passive. 'Yet' asks why it has not happened till now.",
+    "words": [
+      "refund",
+      "processed"
+    ],
+    "usage": "Use it in a chat with a store when money has not come back.",
+    "leelaQ": "How long do you wait for a refund before asking?",
+    "answer": "I wait about a week and then I ask."
+  },
+  {
+    "en": "Can you check my account once more, please?",
+    "tamil": "என் அக்கவுண்டை இன்னொரு தடவை செக் பண்ண முடியுமா?",
+    "context": "Asking a bank clerk to recheck.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'Once more' asks nicely for another try. 'Please' keeps it polite.",
+    "words": [
+      "account",
+      "check"
+    ],
+    "usage": "Say this at the bank when the first check shows nothing.",
+    "leelaQ": "How do you ask a clerk to look again?",
+    "answer": "I say please check once more."
+  },
+  {
+    "en": "What should I do if the OTP does not come?",
+    "tamil": "OTP வரலன்னா நான் என்ன பண்ணணும்?",
+    "context": "Asking a bank about a missing OTP.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'What should I do if' asks for advice about a possible problem.",
+    "words": [
+      "otp"
+    ],
+    "usage": "Use it with a bank or app helpline in a payment problem.",
+    "leelaQ": "What do you do when an OTP does not arrive?",
+    "answer": "I wait for a minute and ask for a new one."
+  },
+  {
+    "en": "Who is responsible for fixing this issue?",
+    "tamil": "இந்த பிரச்சனையை சரி பண்றதுக்கு யார் பொறுப்பு?",
+    "context": "Asking in a meeting who owns a task.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Responsible for' plus -ing means who has the duty to do it.",
+    "words": [
+      "responsible",
+      "issue"
+    ],
+    "usage": "Use it in a meeting when no one has taken charge of a problem.",
+    "leelaQ": "Who fixes problems in your office?",
+    "answer": "The IT team fixes most technical problems."
+  },
+  {
+    "en": "Did you get my message about the broken lock?",
+    "tamil": "உடைஞ்ச பூட்டு பத்தின என் மெசேஜ் உங்களுக்கு கிடைச்சுதா?",
+    "context": "Checking with a landlord.",
+    "tense": "past",
+    "type": "question",
+    "explain": "'Did you get' checks if the message arrived. Add the topic so they remember.",
+    "words": [
+      "message",
+      "lock"
+    ],
+    "usage": "Say this when you wait for a reply about a repair.",
+    "leelaQ": "How do you follow up a message that no one answered?",
+    "answer": "I call the person and ask if they saw it."
+  },
+  {
+    "en": "How long will it take to repair my bike?",
+    "tamil": "என் பைக்கை ரிப்பேர் பண்ண எவ்வளவு நேரம் ஆகும்?",
+    "context": "Asking a mechanic.",
+    "tense": "future",
+    "type": "question",
+    "explain": "'How long will it take' asks about time needed. Good at any repair shop.",
+    "words": [
+      "repair",
+      "how long"
+    ],
+    "usage": "Ask this at a garage or service centre before leaving your vehicle.",
+    "leelaQ": "Where do you take your vehicle for repair?",
+    "answer": "I take my bike to a small garage near my house."
+  },
+  {
+    "en": "Are you sure the charger is working properly?",
+    "tamil": "சார்ஜர் சரியா வேலை செய்யுதுன்னு உறுதியா தெரியுமா?",
+    "context": "Asking a shopkeeper at a repair counter.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Are you sure' double-checks something politely.",
+    "words": [
+      "charger",
+      "properly"
+    ],
+    "usage": "Use it when you doubt that a repaired thing is really fixed.",
+    "leelaQ": "How do you check if something is really fixed?",
+    "answer": "I test it myself before leaving the shop."
+  },
+  {
+    "en": "Why is the lift not working again?",
+    "tamil": "லிஃப்ட் ஏன் திரும்பவும் வேலை செய்யல?",
+    "context": "Asking the apartment watchman.",
+    "tense": "present-continuous",
+    "type": "question",
+    "explain": "'Again' shows the problem is repeating. Tone matters: ask calmly.",
+    "words": [
+      "lift",
+      "again"
+    ],
+    "usage": "Say this to a watchman or secretary when a common facility fails.",
+    "leelaQ": "Do you live in an apartment with a lift?",
+    "answer": "Yes, we are on the fourth floor."
+  },
+  {
+    "en": "Do you have a receipt for this purchase?",
+    "tamil": "இந்த வாங்குதலுக்கு உங்ககிட்ட ரசீது இருக்கா?",
+    "context": "A shop asking for proof on a return.",
+    "tense": "present",
+    "type": "question",
+    "explain": "A very common question when you return or exchange something.",
+    "words": [
+      "receipt",
+      "purchase"
+    ],
+    "usage": "Shop staff ask this at the returns counter.",
+    "leelaQ": "Do you keep bills after you shop?",
+    "answer": "I keep bills for big things like phones."
+  },
+  {
+    "en": "What went wrong with the payment?",
+    "tamil": "பேமென்ட்ல என்ன தப்பா போச்சு?",
+    "context": "Asking about a failed transaction.",
+    "tense": "past",
+    "type": "question",
+    "explain": "'What went wrong' asks for the cause of a failure.",
+    "words": [
+      "payment",
+      "went wrong"
+    ],
+    "usage": "Say this to a bank or friend after a failed online payment.",
+    "leelaQ": "Have you ever had a payment fail at a shop?",
+    "answer": "Yes, the network was down at the counter."
+  },
+  {
+    "en": "Will someone call me back about this?",
+    "tamil": "இதைப் பத்தி யாராவது எனக்கு திரும்ப கூப்பிடுவாங்களா?",
+    "context": "Asking a helpline for a callback.",
+    "tense": "future",
+    "type": "question",
+    "explain": "'Call back' is a phrasal verb. 'Will someone' asks about a future promise.",
+    "words": [
+      "call me back"
+    ],
+    "usage": "Use it when a helpline cannot solve the problem on the first call.",
+    "leelaQ": "Do you prefer a callback or a long wait on the phone?",
+    "answer": "I prefer a callback so I can do other work."
+  },
+  {
+    "en": "Did the doctor say anything about the fever?",
+    "tamil": "ஜுரம் பத்தி டாக்டர் ஏதாவது சொன்னாரா?",
+    "context": "A family member asking after a visit.",
+    "tense": "past",
+    "type": "question",
+    "explain": "'Did ... say anything about' asks for details of a conversation.",
+    "words": [
+      "fever",
+      "doctor"
+    ],
+    "usage": "Use it at home when someone returns from the clinic.",
+    "leelaQ": "What do you do when you have a fever?",
+    "answer": "I take rest and drink lots of water."
+  },
+  {
+    "en": "Is it possible to get a different size?",
+    "tamil": "வேற சைஸ் கிடைக்க வாய்ப்பிருக்கா?",
+    "context": "Asking at a clothes shop after a wrong fit.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Is it possible to' is a soft way to ask for a change.",
+    "words": [
+      "possible",
+      "size"
+    ],
+    "usage": "Use it at a clothes shop when the size does not fit.",
+    "leelaQ": "What do you do if clothes do not fit?",
+    "answer": "I exchange them for a different size."
+  },
+  {
+    "en": "Where can I collect my lost luggage?",
+    "tamil": "என்னோட தொலைஞ்ச லக்கேஜை நான் எங்க வாங்கலாம்?",
+    "context": "At an airport help desk.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'Where can I' asks for a place to do something. 'Lost luggage' is a common airport phrase.",
+    "words": [
+      "luggage",
+      "collect"
+    ],
+    "usage": "Use it at an airport or railway station if your bag is missing.",
+    "leelaQ": "What would you do if your luggage went missing?",
+    "answer": "I would go to the help desk and report it."
+  },
+  {
+    "en": "Has anyone seen my umbrella?",
+    "tamil": "யாராவது என் குடையைப் பாத்தீங்களா?",
+    "context": "Asking colleagues at the office.",
+    "tense": "present-perfect",
+    "type": "question",
+    "explain": "'Has anyone seen' is a natural question for a missing thing.",
+    "words": [
+      "umbrella",
+      "anyone"
+    ],
+    "usage": "Ask this at home or office when you cannot find something.",
+    "leelaQ": "Where do you usually lose things?",
+    "answer": "I lose my keys at home quite often."
+  },
+  {
+    "en": "Why did you cancel my booking without telling me?",
+    "tamil": "என்கிட்ட சொல்லாம ஏன் என் புக்கிங்கை ரத்து பண்ணீங்க?",
+    "context": "Complaining firmly to a hotel.",
+    "tense": "past",
+    "type": "question",
+    "explain": "'Without' plus -ing means not doing something. The question sounds firm but not rude.",
+    "words": [
+      "cancel",
+      "booking"
+    ],
+    "usage": "Use it with a hotel or travel agent when a booking changes suddenly.",
+    "leelaQ": "What would you do if a booking was cancelled?",
+    "answer": "I would call them and ask for another room."
+  },
+  {
+    "en": "Can I get a replacement instead of a refund?",
+    "tamil": "ரீஃபண்டுக்கு பதிலா எனக்கு மாத்தி தர முடியுமா?",
+    "context": "Choosing between a refund and a new item.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'Instead of' plus a noun means 'in place of'.",
+    "words": [
+      "replacement",
+      "instead of"
+    ],
+    "usage": "Say this when you want a new product, not your money back.",
+    "leelaQ": "Do you prefer a refund or a replacement?",
+    "answer": "I prefer a replacement if the product is good."
+  },
+  {
+    "en": "How can we avoid this problem next time?",
+    "tamil": "அடுத்த தடவை இந்த பிரச்சனையை எப்படி தவிர்க்கலாம்?",
+    "context": "Asking the team after a failure.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'How can we' invites ideas. It moves the talk from blame to a solution.",
+    "words": [
+      "avoid",
+      "next time"
+    ],
+    "usage": "Use it in a team meeting after something goes wrong.",
+    "leelaQ": "How can people avoid late arrivals at work?",
+    "answer": "They can leave early and check traffic."
+  },
+  {
+    "en": "Did the plumber come to fix the pipe yesterday?",
+    "tamil": "பிளம்பர் நேத்து பைப்பை சரி பண்ண வந்தாரா?",
+    "context": "Family asking about a repair visit.",
+    "tense": "past",
+    "type": "question",
+    "explain": "'Did ... come to fix' links a visit and its purpose.",
+    "words": [
+      "plumber",
+      "pipe"
+    ],
+    "usage": "Say this at home when a repair visit was planned.",
+    "leelaQ": "How do you find a good plumber or electrician?",
+    "answer": "I ask neighbours for a good person."
+  },
+  {
+    "en": "Are you facing the same issue on your side?",
+    "tamil": "உங்க பக்கமும் இதே பிரச்சனை இருக்கா?",
+    "context": "Asking a colleague during a system problem.",
+    "tense": "present-continuous",
+    "type": "question",
+    "explain": "'Facing an issue' is common in office English. 'On your side' means your system.",
+    "words": [
+      "facing",
+      "issue"
+    ],
+    "usage": "Use it in a work chat when a tool is not working.",
+    "leelaQ": "Is your office network usually fast?",
+    "answer": "It is fast in the morning but slow after lunch."
+  },
+  {
+    "en": "Please send me a new bill with the correct amount.",
+    "tamil": "தயவு செஞ்சு சரியான தொகையோட புது பில் அனுப்புங்க.",
+    "context": "Asking a company to fix a bill.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Please' plus a verb is a direct, polite request.",
+    "words": [
+      "bill",
+      "correct"
+    ],
+    "usage": "Use it by email or at the counter after finding a billing error.",
+    "leelaQ": "What should you check on a bill?",
+    "answer": "I check the amount and the dates."
+  },
+  {
+    "en": "Could you please look into this as soon as possible?",
+    "tamil": "இதை முடிஞ்சவரை சீக்கிரம் பாக்க முடியுமா?",
+    "context": "Asking a manager to act quickly.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Look into' means to investigate. 'As soon as possible' shows urgency.",
+    "words": [
+      "look into",
+      "as soon as possible"
+    ],
+    "usage": "Use it politely with a boss or a service desk for urgent matters.",
+    "leelaQ": "How do you ask for something urgent politely?",
+    "answer": "I say please and give the reason."
+  },
+  {
+    "en": "Please give me a few minutes to fix this.",
+    "tamil": "இதை சரி பண்றதுக்கு எனக்கு கொஞ்ச நிமிஷம் கொடுங்க.",
+    "context": "Asking a client for time.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'A few minutes' is a short time. Good for buying a little time.",
+    "words": [
+      "minutes",
+      "fix"
+    ],
+    "usage": "Say this when someone waits for you to solve a problem.",
+    "leelaQ": "How do you ask for more time at work?",
+    "answer": "I explain the situation and ask for one more day."
+  },
+  {
+    "en": "Would you mind resending the file? It did not open.",
+    "tamil": "அந்த பைலை மறுபடி அனுப்ப முடியுமா? அது திறக்கல.",
+    "context": "Asking a colleague to resend.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Would you mind' plus -ing is very polite. The reason comes next.",
+    "words": [
+      "resending",
+      "open"
+    ],
+    "usage": "Use it in a work chat when an attachment is broken.",
+    "leelaQ": "What do you do when a file will not open?",
+    "answer": "I ask the sender to send it again."
+  }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "en": "I haven't received the access yet.",
+  "tamil": "எனக்கு இன்னும் அணுகல் கிடைக்கவில்லை.",
+  "context": "Stand-up blocker",
+  "tense": "present-perfect",
+  "type": "negative",
+  "alt": {
+   "en": "I'm still waiting for access.",
+   "tamil": "இன்னும் அணுகலுக்காகக் காத்திருக்கிறேன்."
+  }
+ },
+ {
+  "en": "I haven't found a solution yet.",
+  "tamil": "இன்னும் தீர்வைக் கண்டுபிடிக்கவில்லை.",
+  "context": "Giving an honest status",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "Did you clear the cache?",
+  "tamil": "Cache-ஐ அழித்தீர்களா?",
+  "context": "Diagnostic question to a user",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "When did the problem start?",
+  "tamil": "சிக்கல் எப்போது தொடங்கியது?",
+  "context": "Asking for a timeline",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Can you reproduce the issue every time?",
+  "tamil": "இந்தச் சிக்கலை ஒவ்வொரு முறையும் உங்களால் மீண்டும் உருவாக்க முடிகிறதா?",
+  "context": "Diagnosing a bug",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "What error message do you see?",
+  "tamil": "என்ன பிழைச் செய்தி தெரிகிறது?",
+  "context": "Diagnostic question to a user",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Did you change anything before it broke?",
+  "tamil": "உடையும் முன் ஏதாவது மாற்றினீர்களா?",
+  "context": "Diagnostic question",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Is it happening on all devices?",
+  "tamil": "இது எல்லாச் சாதனங்களிலும் நடக்கிறதா?",
+  "context": "Narrowing down a bug",
+  "tense": "present-continuous",
+  "type": "question"
+ },
+ {
+  "en": "Which environment are you using?",
+  "tamil": "நீங்கள் எந்தச் சூழலைப் பயன்படுத்துகிறீர்கள்?",
+  "context": "Diagnostic question",
+  "tense": "present-continuous",
+  "type": "question"
+ },
+ {
+  "en": "How many users are affected?",
+  "tamil": "எத்தனை பயனர்கள் பாதிக்கப்பட்டுள்ளனர்?",
+  "context": "Assessing impact",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Did the build pass on your machine?",
+  "tamil": "உங்கள் கணினியில் build பாஸ் ஆனதா?",
+  "context": "Comparing environments",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Is the database responding?",
+  "tamil": "Database பதிலளிக்கிறதா?",
+  "context": "Checking system health",
+  "tense": "present-continuous",
+  "type": "question"
+ },
+ {
+  "en": "Are you using the latest version?",
+  "tamil": "நீங்கள் சமீபத்திய பதிப்பைப் பயன்படுத்துகிறீர்களா?",
+  "context": "Diagnostic question",
+  "tense": "present-continuous",
+  "type": "question"
+ },
+ {
+  "en": "What were you doing when the error appeared?",
+  "tamil": "பிழை வந்தபோது நீங்கள் என்ன செய்துகொண்டிருந்தீர்கள்?",
+  "context": "Asking for reproduction steps",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "How long will the fix take?",
+  "tamil": "தீர்வுக்கு எவ்வளவு நேரம் ஆகும்?",
+  "context": "Asking for an estimate",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "When will it be fixed?",
+   "tamil": "இது எப்போது சரியாகும்?"
+  }
+ },
+ {
+  "en": "Do we need to roll back the release?",
+  "tamil": "நாம் release-ஐ rollback செய்ய வேண்டுமா?",
+  "context": "Deciding on incident response",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Does it work if you use another account?",
+  "tamil": "வேறு கணக்கைப் பயன்படுத்தினால் வேலை செய்கிறதா?",
+  "context": "Diagnostic question",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Is there a workaround for now?",
+  "tamil": "இப்போதைக்கு ஏதாவது தற்காலிகத் தீர்வு உள்ளதா?",
+  "context": "Asking for a temporary solution",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Who deployed the last change?",
+  "tamil": "கடைசி மாற்றத்தை யார் deploy செய்தார்கள்?",
+  "context": "Tracing a regression",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Why is the server so slow today?",
+  "tamil": "இன்று சர்வர் ஏன் இவ்வளவு மெதுவாக உள்ளது?",
+  "context": "Asking about slowness",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Is this a code problem or a network problem?",
+  "tamil": "இது கோட் சிக்கலா அல்லது நெட்வொர்க் சிக்கலா?",
+  "context": "Narrowing down the cause",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Did the tests fail before or after the merge?",
+  "tamil": "Merge-க்கு முன்பா பின்பா test-கள் தோல்வியடைந்தன?",
+  "context": "Tracing a failure",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Will this fix affect other modules?",
+  "tamil": "இந்தத் தீர்வு மற்ற module-களைப் பாதிக்குமா?",
+  "context": "Asking about risk",
+  "tense": "future",
+  "type": "question"
+ },
+ {
+  "en": "Are we sure the customer data is safe?",
+  "tamil": "வாடிக்கையாளர் தரவு பாதுகாப்பாக உள்ளது என்று உறுதியா?",
+  "context": "Asking about a security impact",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "What is the impact on customers?",
+  "tamil": "வாடிக்கையாளர்களுக்கு என்ன பாதிப்பு?",
+  "context": "Assessing impact",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "How did this get into production?",
+  "tamil": "இது எப்படி production-க்குள் வந்தது?",
+  "context": "Asking about process failure",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Can you share your screen for a minute?",
+  "tamil": "ஒரு நிமிடம் உங்கள் திரையைப் பகிர முடியுமா?",
+  "context": "Debugging together",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Do you have the steps to reproduce it?",
+  "tamil": "இதை மீண்டும் உருவாக்கும் படிகள் உங்களிடம் உள்ளனவா?",
+  "context": "Asking a tester",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Is the service back to normal now?",
+  "tamil": "சேவை இப்போது இயல்புக்குத் திரும்பிவிட்டதா?",
+  "context": "Checking after an incident",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Should we wait for the next release or deploy today?",
+  "tamil": "அடுத்த release வரை காத்திருக்கலாமா, இன்றே deploy செய்யலாமா?",
+  "context": "Deciding on timing",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "What changed between yesterday and today?",
+  "tamil": "நேற்றுக்கும் இன்றுக்கும் இடையில் என்ன மாறியது?",
+  "context": "Tracing a regression",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Was there a deployment last night?",
+  "tamil": "நேற்று இரவு ஏதேனும் deployment நடந்ததா?",
+  "context": "Tracing a regression",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "Have you checked the firewall settings?",
+  "tamil": "Firewall அமைப்புகளைச் சரிபார்த்தீர்களா?",
+  "context": "Network diagnosis",
+  "tense": "present-perfect",
+  "type": "question"
+ },
+ {
+  "en": "Can I get read-only access to the production logs?",
+  "tamil": "Production log-களுக்கு படிக்க-மட்டும் அணுகல் கிடைக்குமா?",
+  "context": "Asking for access",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Could you give me access to the production logs?",
+   "tamil": "Production log-களுக்கு எனக்கு அணுகல் தர முடியுமா?"
+  }
+ },
+ {
+  "en": "I can't reproduce it on my machine.",
+  "tamil": "என் கணினியில் என்னால் இதை மீண்டும் உருவாக்க முடியவில்லை.",
+  "context": "Reporting a non-reproducible bug",
+  "tense": "modal",
+  "type": "negative",
+  "alt": {
+   "en": "It doesn't happen on my computer.",
+   "tamil": "என் கணினியில் இது நடக்கவில்லை."
+  }
+ },
+ {
+  "en": "I don't see any errors in the logs.",
+  "tamil": "Log-களில் எந்தப் பிழையும் எனக்குத் தெரியவில்லை.",
+  "context": "Reporting a finding",
+  "tense": "present",
+  "type": "negative"
+ },
+ {
+  "en": "The application isn't responding.",
+  "tamil": "Application பதிலளிக்கவில்லை.",
+  "context": "Reporting a hang",
+  "tense": "present-continuous",
+  "type": "negative",
+  "alt": {
+   "en": "The app has stopped working.",
+   "tamil": "ஆப் வேலை செய்வதை நிறுத்திவிட்டது."
+  }
+ },
+ {
+  "en": "I don't have access to the server.",
+  "tamil": "சர்வருக்கான அணுகல் என்னிடம் இல்லை.",
+  "context": "Stand-up blocker",
+  "tense": "present",
+  "type": "negative",
+  "alt": {
+   "en": "I can't get into the server.",
+   "tamil": "என்னால் சர்வருக்குள் செல்ல முடியவில்லை."
+  }
+ },
+ {
+  "en": "We can't go live with this bug.",
+  "tamil": "இந்தப் பிழையுடன் நாம் live செல்ல முடியாது.",
+  "context": "Arguing against a release",
+  "tense": "modal",
+  "type": "negative",
+  "alt": {
+   "en": "We shouldn't release it until this is fixed.",
+   "tamil": "இது சரியாகும் வரை நாம் release செய்யக்கூடாது."
+  }
+ },
+ {
+  "en": "I'm not sure what caused it.",
+  "tamil": "இதற்கு என்ன காரணம் என்று எனக்கு உறுதியாகத் தெரியவில்லை.",
+  "context": "Being honest during diagnosis",
+  "tense": "present",
+  "type": "negative",
+  "alt": {
+   "en": "I don't know the cause yet.",
+   "tamil": "காரணம் இன்னும் எனக்குத் தெரியாது."
+  }
+ },
+ {
+  "en": "There was no data loss during the outage.",
+  "tamil": "செயலிழப்பின்போது தரவு இழப்பு எதுவும் இல்லை.",
+  "context": "Reassuring stakeholders",
+  "tense": "past",
+  "type": "negative",
+  "alt": {
+   "en": "Nothing was lost during the outage.",
+   "tamil": "செயலிழப்பின்போது எதுவும் இழக்கப்படவில்லை."
+  }
+ },
+ {
+  "en": "I don't want to guess the cause without evidence.",
+  "tamil": "ஆதாரம் இல்லாமல் காரணத்தை ஊகிக்க நான் விரும்பவில்லை.",
+  "context": "Being careful during diagnosis",
+  "tense": "present",
+  "type": "negative",
+  "alt": {
+   "en": "Let's not guess before we check the logs.",
+   "tamil": "Log-களைப் பார்க்கும் முன் ஊகிக்க வேண்டாம்."
+  }
+ },
+ {
+  "en": "Please send me the full error message.",
+  "tamil": "முழுப் பிழைச் செய்தியையும் எனக்கு அனுப்புங்கள்.",
+  "context": "Asking for details",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "Please share the steps to reproduce the issue.",
+  "tamil": "சிக்கலை மீண்டும் உருவாக்கும் படிகளைப் பகிருங்கள்.",
+  "context": "Asking a tester",
+  "tense": "imperative",
+  "type": "request",
+  "alt": {
+   "en": "Tell me how to make the error happen.",
+   "tamil": "பிழையை எப்படி வரவைப்பது என்று சொல்லுங்கள்."
+  }
+ },
+ {
+  "en": "Please don't deploy anything until I confirm.",
+  "tamil": "நான் உறுதிப்படுத்தும் வரை எதையும் deploy செய்யாதீர்கள்.",
+  "context": "Asking for a freeze",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "Please check the logs and tell me what you find.",
+  "tamil": "Log-களைப் பார்த்து என்ன கண்டீர்கள் என்று சொல்லுங்கள்.",
+  "context": "Delegating diagnosis",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "I need the log files to continue.",
+  "tamil": "தொடர எனக்கு log கோப்புகள் தேவை.",
+  "context": "Asking for logs",
+  "tense": "present",
+  "type": "request",
+  "alt": {
+   "en": "I can't go on without the log files.",
+   "tamil": "Log கோப்புகள் இல்லாமல் என்னால் தொடர முடியாது."
+  }
+ },
+ {
+  "en": "Please attach a screenshot of the error.",
+  "tamil": "பிழையின் திரைப்படத்தை இணைக்கவும்.",
+  "context": "Asking a user for evidence",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "Please keep me updated on the progress.",
+  "tamil": "முன்னேற்றத்தை எனக்குத் தெரிவித்துக்கொண்டே இருங்கள்.",
+  "context": "Asking for updates",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "I'd appreciate it if you could review my fix.",
+  "tamil": "என் தீர்வை நீங்கள் பார்த்தால் மகிழ்வேன்.",
+  "context": "Asking for review",
+  "tense": "modal",
+  "type": "request",
+  "alt": {
+   "en": "Could you check my fix, please?",
+   "tamil": "என் தீர்வைச் சரிபார்க்க முடியுமா?"
+  }
+ },
+ {
+  "en": "Let's roll back first and investigate later.",
+  "tamil": "முதலில் rollback செய்து, பிறகு ஆராய்வோம்.",
+  "context": "Suggesting incident response",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "The root cause was a wrong setting in the load balancer.",
+  "tamil": "மூலக் காரணம் load balancer-ல் இருந்த தவறான அமைப்புதான்.",
+  "context": "Giving a post-incident summary",
+  "tense": "past",
+  "type": "statement",
+  "alt": {
+   "en": "A wrong setting caused the whole problem.",
+   "tamil": "ஒரு தவறான அமைப்புதான் முழுச் சிக்கலுக்கும் காரணம்."
+  }
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "word": "joy",
+  "meaning": "A feeling of great happiness.",
+  "tamil": "மகிழ்ச்சி, ஆனந்தம்",
+  "pos": "noun",
+  "pron": "JOY",
+  "example": "The children shouted with joy when they saw the snow.",
+  "exampleTamil": "பனியைப் பார்த்ததும் குழந்தைகள் மகிழ்ச்சியில் கத்தினர்.",
+  "synonyms": [
+   "delight",
+   "happiness"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "happiness",
+  "meaning": "The feeling of being happy.",
+  "tamil": "சந்தோஷம்",
+  "pos": "noun",
+  "pron": "HAP-ee-nus",
+  "example": "Money cannot buy true happiness.",
+  "exampleTamil": "பணத்தால் உண்மையான சந்தோஷத்தை வாங்க முடியாது.",
+  "synonyms": [
+   "joy",
+   "contentment"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sadness",
+  "meaning": "The feeling of being unhappy.",
+  "tamil": "சோகம், துயரம்",
+  "pos": "noun",
+  "pron": "SAD-nus",
+  "example": "I felt deep sadness when my friend moved away.",
+  "exampleTamil": "என் நண்பன் வேறு ஊருக்குப் போனபோது எனக்கு ஆழ்ந்த சோகம் ஏற்பட்டது.",
+  "synonyms": [
+   "sorrow",
+   "unhappiness"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "envy",
+  "meaning": "A feeling of wanting what another person has.",
+  "tamil": "பொறாமை",
+  "pos": "noun",
+  "pron": "EN-vee",
+  "example": "She looked at her friend's new phone with envy.",
+  "exampleTamil": "அவள் தன் தோழியின் புதிய போனைப் பொறாமையுடன் பார்த்தாள்.",
+  "synonyms": [
+   "jealousy",
+   "resentment"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "grief",
+  "meaning": "Very deep sadness, especially when someone dies.",
+  "tamil": "பெருந்துயரம், துக்கம்",
+  "pos": "noun",
+  "pron": "GREEF",
+  "example": "He was full of grief after his grandfather died.",
+  "exampleTamil": "தாத்தா இறந்த பிறகு அவன் துக்கத்தில் மூழ்கியிருந்தான்.",
+  "synonyms": [
+   "sorrow",
+   "mourning"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hurt",
+  "meaning": "Feeling sad or upset because of what someone said or did.",
+  "tamil": "மனம் புண்பட்ட",
+  "pos": "adjective",
+  "pron": "HURT",
+  "example": "I was hurt when he did not invite me.",
+  "exampleTamil": "அவன் என்னை அழைக்காதபோது என் மனம் புண்பட்டது.",
+  "synonyms": [
+   "upset",
+   "wounded"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pleased",
+  "meaning": "Happy and satisfied about something.",
+  "tamil": "மகிழ்ச்சியடைந்த",
+  "pos": "adjective",
+  "pron": "PLEEZD",
+  "example": "My teacher was pleased with my marks.",
+  "exampleTamil": "என் மதிப்பெண்களைப் பார்த்து ஆசிரியர் மகிழ்ச்சியடைந்தார்.",
+  "synonyms": [
+   "glad",
+   "happy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mean",
+  "meaning": "Unkind and unfair to other people.",
+  "tamil": "கருணையற்ற, கெட்ட குணமுள்ள",
+  "pos": "adjective",
+  "pron": "MEEN",
+  "example": "Do not be mean to your little brother.",
+  "exampleTamil": "உன் தம்பியிடம் கெட்டதனமாக நடக்காதே.",
+  "synonyms": [
+   "unkind",
+   "nasty"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cruel",
+  "meaning": "Causing pain or suffering to others without caring.",
+  "tamil": "கொடூரமான",
+  "pos": "adjective",
+  "pron": "KROO-ul",
+  "example": "It is cruel to hit a poor animal.",
+  "exampleTamil": "ஏழை விலங்கை அடிப்பது கொடூரமானது.",
+  "synonyms": [
+   "harsh",
+   "heartless"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "caring",
+  "meaning": "Kind and showing concern for other people.",
+  "tamil": "அக்கறையுள்ள",
+  "pos": "adjective",
+  "pron": "KAIR-ing",
+  "example": "She is a caring nurse who loves her patients.",
+  "exampleTamil": "அவள் நோயாளிகளை நேசிக்கும் அக்கறையுள்ள செவிலியர்.",
+  "synonyms": [
+   "kind",
+   "thoughtful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "loving",
+  "meaning": "Showing love and care for others.",
+  "tamil": "அன்பான",
+  "pos": "adjective",
+  "pron": "LUV-ing",
+  "example": "My grandmother is a loving and gentle woman.",
+  "exampleTamil": "என் பாட்டி அன்பான, மென்மையான பெண்மணி.",
+  "synonyms": [
+   "affectionate",
+   "warm"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "warm",
+  "meaning": "Friendly and kind in the way you treat people.",
+  "tamil": "அன்பான, நட்பான",
+  "pos": "adjective",
+  "pron": "WORM",
+  "example": "He gave us a warm welcome at his house.",
+  "exampleTamil": "அவர் தன் வீட்டில் எங்களுக்கு அன்பான வரவேற்பு அளித்தார்.",
+  "synonyms": [
+   "friendly",
+   "kind"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "giggle",
+  "meaning": "To laugh in a silly way with small sounds.",
+  "tamil": "கிளுகிளுவெனச் சிரி",
+  "pos": "verb",
+  "pron": "GIG-ul",
+  "example": "The girls began to giggle during the class.",
+  "exampleTamil": "வகுப்பின்போது பெண்கள் கிளுகிளுவெனச் சிரிக்கத் தொடங்கினர்.",
+  "synonyms": [
+   "chuckle",
+   "titter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "grin",
+  "meaning": "To smile widely.",
+  "tamil": "பல் தெரியச் சிரி",
+  "pos": "verb",
+  "pron": "GRIN",
+  "example": "He grinned when he saw his exam result.",
+  "exampleTamil": "தேர்வு முடிவைப் பார்த்ததும் அவன் பல் தெரியச் சிரித்தான்.",
+  "synonyms": [
+   "smile",
+   "beam"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sob",
+  "meaning": "To cry loudly with short breaths.",
+  "tamil": "விசும்பி அழு",
+  "pos": "verb",
+  "pron": "SOB",
+  "example": "The little girl began to sob after losing her doll.",
+  "exampleTamil": "பொம்மையைத் தொலைத்த பிறகு அந்தச் சிறுமி விசும்பி அழத் தொடங்கினாள்.",
+  "synonyms": [
+   "cry",
+   "weep"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "weep",
+  "meaning": "To cry because you are very sad.",
+  "tamil": "கண்ணீர் விட்டு அழு",
+  "pos": "verb",
+  "pron": "WEEP",
+  "example": "Many people were weeping at the sad news.",
+  "exampleTamil": "அந்தச் சோகச் செய்தியைக் கேட்டு பலர் கண்ணீர் விட்டு அழுதுகொண்டிருந்தனர்.",
+  "synonyms": [
+   "cry",
+   "sob"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tremble",
+  "meaning": "To shake because you are afraid or cold.",
+  "tamil": "நடுங்கு",
+  "pos": "verb",
+  "pron": "TREM-bul",
+  "example": "My hands began to tremble before the speech.",
+  "exampleTamil": "பேச்சுக்கு முன் என் கைகள் நடுங்கத் தொடங்கின.",
+  "synonyms": [
+   "shake",
+   "shiver"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "comfort",
+  "meaning": "To make someone feel less sad or worried.",
+  "tamil": "ஆறுதல் கூறு",
+  "pos": "verb",
+  "pron": "KUM-furt",
+  "example": "She hugged her son to comfort him.",
+  "exampleTamil": "அவள் மகனுக்கு ஆறுதல் சொல்ல அவனைக் கட்டிப்பிடித்தாள்.",
+  "synonyms": [
+   "console",
+   "soothe"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tease",
+  "meaning": "To make fun of someone in a playful or unkind way.",
+  "tamil": "கேலி செய்",
+  "pos": "verb",
+  "pron": "TEEZ",
+  "example": "Stop teasing your sister about her hair.",
+  "exampleTamil": "உன் தங்கையின் தலைமுடியைப் பற்றி கேலி செய்வதை நிறுத்து.",
+  "synonyms": [
+   "mock",
+   "joke"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dislike",
+  "meaning": "To not like someone or something.",
+  "tamil": "பிடிக்காமல் இரு",
+  "pos": "verb",
+  "pron": "dis-LIKE",
+  "example": "I dislike waiting in long queues.",
+  "exampleTamil": "நீண்ட வரிசையில் காத்திருப்பது எனக்குப் பிடிக்காது.",
+  "synonyms": [
+   "hate",
+   "detest"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "admire",
+  "meaning": "To respect and like someone for what they do.",
+  "tamil": "பாராட்டி மதி",
+  "pos": "verb",
+  "pron": "ud-MY-ur",
+  "example": "I admire my mother for working so hard.",
+  "exampleTamil": "என் அம்மா கடினமாக உழைப்பதற்காக அவரை நான் மதிக்கிறேன்.",
+  "synonyms": [
+   "respect",
+   "praise"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "amuse",
+  "meaning": "To make someone laugh or smile.",
+  "tamil": "சிரிக்க வை, மகிழ்வி",
+  "pos": "verb",
+  "pron": "uh-MYOOZ",
+  "example": "His funny stories always amuse the children.",
+  "exampleTamil": "அவரது வேடிக்கைக் கதைகள் எப்போதும் குழந்தைகளை மகிழ்விக்கும்.",
+  "synonyms": [
+   "entertain",
+   "cheer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shocked",
+  "meaning": "Very surprised and upset by something bad.",
+  "tamil": "அதிர்ச்சியடைந்த",
+  "pos": "adjective",
+  "pron": "SHOKT",
+  "example": "We were shocked to hear about the accident.",
+  "exampleTamil": "விபத்தைப் பற்றிக் கேட்டு நாங்கள் அதிர்ச்சியடைந்தோம்.",
+  "synonyms": [
+   "stunned",
+   "horrified"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "amazed",
+  "meaning": "Very surprised in a good way.",
+  "tamil": "வியப்படைந்த",
+  "pos": "adjective",
+  "pron": "uh-MAYZD",
+  "example": "I was amazed by how fast she could run.",
+  "exampleTamil": "அவள் எவ்வளவு வேகமாக ஓடினாள் என்று பார்த்து நான் வியந்தேன்.",
+  "synonyms": [
+   "astonished",
+   "impressed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "serious",
+  "meaning": "Not joking; thoughtful and not playful.",
+  "tamil": "தீவிரமான, கண்டிப்பான",
+  "pos": "adjective",
+  "pron": "SEER-ee-us",
+  "example": "He is a serious student who studies every night.",
+  "exampleTamil": "அவன் ஒவ்வொரு இரவும் படிக்கும் தீவிரமான மாணவன்.",
+  "synonyms": [
+   "earnest",
+   "grave"
+  ],
+  "level": "beginner"
+ }
+]

@@ -1,0 +1,340 @@
+[
+ {
+  "word": "remuneration",
+  "meaning": "Money paid to a person for work done.",
+  "tamil": "ஊதியம் (வேலைக்குரிய கூலி)",
+  "pos": "noun",
+  "pron": "ri-myoo-nuh-RAY-shun",
+  "example": "The job offers good remuneration and many benefits.",
+  "exampleTamil": "இந்த வேலை நல்ல ஊதியத்தையும் பல பலன்களையும் வழங்குகிறது.",
+  "synonyms": [
+   "pay",
+   "salary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "retroactive",
+  "meaning": "Applying to a time in the past.",
+  "tamil": "கடந்த காலத்திலிருந்து அமலுக்கு வரும்",
+  "pos": "adjective",
+  "pron": "re-troh-AK-tiv",
+  "example": "The pay rise is retroactive from the first of April.",
+  "exampleTamil": "சம்பள உயர்வு ஏப்ரல் ஒன்றாம் தேதியிலிருந்து முன்தேதியிட்டு அமலாகும்.",
+  "synonyms": [
+   "backdated"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "forthwith",
+  "meaning": "Immediately, without any delay.",
+  "tamil": "உடனடியாக",
+  "pos": "adverb",
+  "pron": "for-THWITH",
+  "example": "You are asked to report to the manager forthwith.",
+  "exampleTamil": "நீங்கள் உடனடியாக மேலாளரிடம் வந்து தெரிவிக்க வேண்டும்.",
+  "synonyms": [
+   "immediately",
+   "at once"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "disclosure",
+  "meaning": "The act of telling facts that were secret.",
+  "tamil": "வெளிப்படுத்துதல்",
+  "pos": "noun",
+  "pron": "dis-KLOH-zhur",
+  "example": "The rules require full disclosure of any conflict of interest.",
+  "exampleTamil": "எந்த நலன் முரண்பாட்டையும் முழுமையாக வெளிப்படுத்த விதிகள் கோருகின்றன.",
+  "synonyms": [
+   "revelation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "discrimination",
+  "meaning": "Unfair treatment of people because of who they are.",
+  "tamil": "பாகுபாடு",
+  "pos": "noun",
+  "pron": "dis-krim-uh-NAY-shun",
+  "example": "Our company has strict rules against discrimination.",
+  "exampleTamil": "பாகுபாட்டுக்கு எதிராக எங்கள் நிறுவனம் கடுமையான விதிகளை வைத்துள்ளது.",
+  "synonyms": [
+   "bias",
+   "prejudice"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "predecessor",
+  "meaning": "The person who held a job before you.",
+  "tamil": "முன்னிருந்தவர் (முந்தைய பதவியாளர்)",
+  "pos": "noun",
+  "pron": "PRED-uh-ses-ur",
+  "example": "My predecessor left clear notes for me.",
+  "exampleTamil": "எனக்கு முன் இந்தப் பதவியில் இருந்தவர் தெளிவான குறிப்புகளை விட்டுச் சென்றார்.",
+  "synonyms": [
+   "forerunner"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "successor",
+  "meaning": "The person who takes a job after someone leaves.",
+  "tamil": "பின் வருபவர் (அடுத்த பதவியாளர்)",
+  "pos": "noun",
+  "pron": "suk-SES-ur",
+  "example": "The manager is training his successor before retiring.",
+  "exampleTamil": "மேலாளர் ஓய்வு பெறுவதற்கு முன் தன் வாரிசுப் பதவியாளருக்குப் பயிற்சி அளிக்கிறார்.",
+  "synonyms": [
+   "replacement",
+   "heir"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reprimand",
+  "meaning": "A formal warning given to a worker for bad behaviour.",
+  "tamil": "கண்டிப்பு (முறையான எச்சரிக்கை)",
+  "pos": "noun",
+  "pron": "REP-ruh-mand",
+  "example": "He received a written reprimand for coming late repeatedly.",
+  "exampleTamil": "தொடர்ந்து தாமதமாக வந்ததற்காக அவருக்கு எழுத்துப்பூர்வ கண்டிப்பு வழங்கப்பட்டது.",
+  "synonyms": [
+   "warning",
+   "rebuke"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "annexure",
+  "meaning": "An extra page added at the end of a document.",
+  "tamil": "இணைப்புப் பக்கம் (ஆவணத்தின் கூடுதல் பகுதி)",
+  "pos": "noun",
+  "pron": "AN-ik-sher",
+  "example": "Please see Annexure B for the full price list.",
+  "exampleTamil": "முழு விலைப்பட்டியலுக்கு இணைப்பு B-ஐப் பாருங்கள்.",
+  "synonyms": [
+   "appendix",
+   "addendum"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "brevity",
+  "meaning": "The quality of being short and clear.",
+  "tamil": "சுருக்கம்",
+  "pos": "noun",
+  "pron": "BREV-uh-tee",
+  "example": "In emails to the boss, brevity is always appreciated.",
+  "exampleTamil": "மேலதிகாரிக்கு எழுதும் மின்னஞ்சல்களில் சுருக்கம் எப்போதும் பாராட்டப்படும்.",
+  "synonyms": [
+   "shortness",
+   "conciseness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "terse",
+  "meaning": "Using very few words in a way that sounds unfriendly.",
+  "tamil": "சுருக்கமான, கடுமையாகத் தோன்றும்",
+  "pos": "adjective",
+  "pron": "TURS",
+  "example": "His terse reply made me feel he was angry.",
+  "exampleTamil": "அவரது சுருக்கமான பதில் அவர் கோபமாக இருப்பதாக எனக்குத் தோன்றச் செய்தது.",
+  "synonyms": [
+   "curt",
+   "brusque"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "procrastination",
+  "meaning": "The habit of delaying tasks that you should do now.",
+  "tamil": "வேலைகளைத் தள்ளிப்போடும் பழக்கம்",
+  "pos": "noun",
+  "pron": "proh-kras-tuh-NAY-shun",
+  "example": "Procrastination made me miss the submission deadline.",
+  "exampleTamil": "வேலைகளைத் தள்ளிப்போட்டதால் நான் சமர்ப்பிக்கும் கெடுவைத் தவறவிட்டேன்.",
+  "synonyms": [
+   "delay",
+   "dawdling"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "grapevine",
+  "meaning": "The informal way news and rumours pass among workers.",
+  "tamil": "வாய்வழிச் செய்தி பரவும் வழி",
+  "pos": "noun",
+  "pron": "GRAYP-vyn",
+  "example": "I heard about the layoffs through the office grapevine.",
+  "exampleTamil": "ஆட்குறைப்பு பற்றி நான் அலுவலக வாய்வழிச் செய்தி மூலம் கேள்விப்பட்டேன்.",
+  "synonyms": [
+   "rumour mill"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "salutation",
+  "meaning": "The greeting at the start of a letter or email.",
+  "tamil": "கடிதத்தின் தொடக்க வணக்கம்",
+  "pos": "noun",
+  "pron": "sal-yuh-TAY-shun",
+  "example": "Use a formal salutation like Dear Sir in business letters.",
+  "exampleTamil": "வணிகக் கடிதங்களில் 'அன்புள்ள ஐயா' போன்ற முறையான தொடக்க வணக்கத்தைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "greeting"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "encashment",
+  "meaning": "The act of changing something into cash.",
+  "tamil": "பணமாக மாற்றுதல்",
+  "pos": "noun",
+  "pron": "in-KASH-munt",
+  "example": "Leave encashment is paid along with the March salary.",
+  "exampleTamil": "விடுப்பைப் பணமாக்கும் தொகை மார்ச் சம்பளத்துடன் வழங்கப்படும்.",
+  "synonyms": [
+   "cashing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "moonlighting",
+  "meaning": "Doing a second job secretly after your main job.",
+  "tamil": "முதன்மை வேலைக்குப் பிறகு ரகசியமாகச் செய்யும் இரண்டாவது வேலை",
+  "pos": "noun",
+  "pron": "MOON-ly-ting",
+  "example": "Moonlighting is not allowed under our company rules.",
+  "exampleTamil": "எங்கள் நிறுவன விதிகளின்படி மறைமுகமாக இரண்டாவது வேலை செய்யக் கூடாது.",
+  "synonyms": [
+   "side job"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "probationer",
+  "meaning": "A new employee who is on a trial period.",
+  "tamil": "தகுதிகாண் பணியாளர்",
+  "pos": "noun",
+  "pron": "proh-BAY-shuh-nur",
+  "example": "A probationer can be confirmed after six months.",
+  "exampleTamil": "தகுதிகாண் பணியாளர் ஆறு மாதங்களுக்குப் பிறகு நிரந்தரமாக்கப்படலாம்.",
+  "synonyms": [
+   "trainee",
+   "new hire"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "action point",
+  "meaning": "A task someone agrees to do after a meeting.",
+  "tamil": "கூட்டத்திற்குப் பின் செய்ய வேண்டிய பணி",
+  "pos": "noun",
+  "pron": "AK-shun POYNT",
+  "example": "Each person has one action point from today's meeting.",
+  "exampleTamil": "இன்றைய கூட்டத்திலிருந்து ஒவ்வொருவருக்கும் ஒரு செயல் பணி உள்ளது.",
+  "synonyms": [
+   "task",
+   "to-do"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "joining date",
+  "meaning": "The day you officially start working at a company.",
+  "tamil": "பணியில் சேரும் தேதி",
+  "pos": "noun",
+  "pron": "JOY-ning dayt",
+  "example": "My joining date is the first of next month.",
+  "exampleTamil": "என் பணியில் சேரும் தேதி அடுத்த மாதம் முதலாம் தேதி.",
+  "synonyms": [
+   "start date"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "leave balance",
+  "meaning": "The number of leave days you still have left.",
+  "tamil": "மீதமுள்ள விடுப்பு நாட்கள்",
+  "pos": "noun",
+  "pron": "LEEV BAL-uns",
+  "example": "Please check your leave balance before applying.",
+  "exampleTamil": "விண்ணப்பிக்கும் முன் உங்கள் மீதமுள்ள விடுப்பு நாட்களைப் பாருங்கள்.",
+  "synonyms": [
+   "leave left"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "deadline extension",
+  "meaning": "Extra time given to finish a task.",
+  "tamil": "கெடு நீட்டிப்பு",
+  "pos": "noun",
+  "pron": "DED-lyn ik-STEN-shun",
+  "example": "I asked my manager for a deadline extension.",
+  "exampleTamil": "நான் என் மேலாளரிடம் கெடு நீட்டிப்பு கேட்டேன்.",
+  "synonyms": [
+   "more time"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pending approval",
+  "meaning": "Waiting for someone to say yes before it can go ahead.",
+  "tamil": "ஒப்புதலுக்காகக் காத்திருக்கும் நிலை",
+  "pos": "noun",
+  "pron": "PEN-ding uh-PROO-vul",
+  "example": "My leave request is still pending approval.",
+  "exampleTamil": "என் விடுப்பு விண்ணப்பம் இன்னும் ஒப்புதலுக்காகக் காத்திருக்கிறது.",
+  "synonyms": [
+   "awaiting sign-off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "acknowledge receipt",
+  "meaning": "To confirm that you have received something.",
+  "tamil": "பெற்றுக்கொண்டதை உறுதி செய்ய",
+  "pos": "phrase",
+  "pron": "ak-NOL-ij ri-SEET",
+  "example": "Please acknowledge receipt of this email by tomorrow.",
+  "exampleTamil": "இந்த மின்னஞ்சலைப் பெற்றதை நாளைக்குள் உறுதி செய்யுங்கள்.",
+  "synonyms": [
+   "confirm",
+   "reply"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "coworking",
+  "meaning": "Related to shared offices used by many different people.",
+  "tamil": "பகிர்ந்து பயன்படுத்தும் அலுவலக இடம் தொடர்பான",
+  "pos": "adjective",
+  "pron": "koh-WUR-king",
+  "example": "Many start-ups rent desks in a coworking space.",
+  "exampleTamil": "பல புதிய நிறுவனங்கள் பகிர்ந்து பயன்படுத்தும் அலுவலக இடத்தில் மேசைகளை வாடகைக்கு எடுக்கின்றன.",
+  "synonyms": [
+   "shared office"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "standup",
+  "meaning": "A short daily team meeting where everyone shares updates.",
+  "tamil": "தினசரி சிறு குழுக் கூட்டம்",
+  "pos": "noun",
+  "pron": "STAND-up",
+  "example": "We have a ten-minute standup every morning at nine.",
+  "exampleTamil": "நாங்கள் தினமும் காலை ஒன்பது மணிக்கு பத்து நிமிட சிறு குழுக் கூட்டம் நடத்துகிறோம்.",
+  "synonyms": [
+   "daily huddle",
+   "briefing"
+  ],
+  "level": "advanced"
+ }
+]

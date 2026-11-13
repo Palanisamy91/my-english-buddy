@@ -1,0 +1,416 @@
+[
+  {
+    "en": "The meeting starts at ten o'clock.",
+    "tamil": "கூட்டம் பத்து மணிக்குத் தொடங்குகிறது.",
+    "context": "Reminding colleagues about meeting time",
+    "tense": "present",
+    "type": "statement"
+  },
+  {
+    "en": "The meeting has been moved to three p.m.",
+    "tamil": "கூட்டம் மாலை மூன்று மணிக்கு மாற்றப்பட்டிருக்கிறது.",
+    "context": "Announcing a rescheduled meeting",
+    "tense": "present-perfect",
+    "type": "statement",
+    "alt": {
+      "en": "The meeting is now at three p.m.",
+      "tamil": "கூட்டம் இப்போது மாலை மூன்று மணிக்கு."
+    }
+  },
+  {
+    "en": "Where is the meeting going to be?",
+    "tamil": "கூட்டம் எங்கே நடக்கப் போகிறது?",
+    "context": "Asking about the meeting location",
+    "tense": "future",
+    "type": "question",
+    "alt": {
+      "en": "Where's the meeting?",
+      "tamil": "கூட்டம் எங்கே?"
+    }
+  },
+  {
+    "en": "Which meeting room are we using?",
+    "tamil": "நாம் எந்தக் கூட்ட அறையைப் பயன்படுத்துகிறோம்?",
+    "context": "Asking which room is booked",
+    "tense": "present-continuous",
+    "type": "question"
+  },
+  {
+    "en": "Is the meeting room free now?",
+    "tamil": "கூட்ட அறை இப்போது காலியாக இருக்கிறதா?",
+    "context": "Checking room availability",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "I'll send the meeting invite today.",
+    "tamil": "நான் இன்று கூட்ட அழைப்பை அனுப்புவேன்.",
+    "context": "Promising a calendar invite",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "Could we reschedule the meeting to Thursday?",
+    "tamil": "கூட்டத்தை வியாழக்கிழமைக்கு மாற்றலாமா?",
+    "context": "Proposing a new meeting day",
+    "tense": "modal",
+    "type": "question"
+  },
+  {
+    "en": "I can't attend the meeting tomorrow.",
+    "tamil": "என்னால் நாளைய கூட்டத்தில் கலந்து கொள்ள முடியாது.",
+    "context": "Declining a meeting",
+    "tense": "modal",
+    "type": "negative"
+  },
+  {
+    "en": "I'm sorry, I'm in another meeting.",
+    "tamil": "மன்னியுங்கள், நான் வேறொரு கூட்டத்தில் இருக்கிறேன்.",
+    "context": "Explaining why you cannot talk",
+    "tense": "present",
+    "type": "statement"
+  },
+  {
+    "en": "Please join the call on time.",
+    "tamil": "தயவுசெய்து அழைப்பில் சரியான நேரத்தில் இணையுங்கள்.",
+    "context": "Reminding the team about punctuality",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "I'll share the meeting link with you.",
+    "tamil": "நான் கூட்ட இணைப்பை உங்களுடன் பகிர்கிறேன்.",
+    "context": "Offering a video call link",
+    "tense": "future",
+    "type": "statement",
+    "alt": {
+      "en": "I'll send you the link.",
+      "tamil": "நான் உங்களுக்கு இணைப்பை அனுப்புகிறேன்."
+    }
+  },
+  {
+    "en": "The meeting didn't start on time.",
+    "tamil": "கூட்டம் சரியான நேரத்தில் தொடங்கவில்லை.",
+    "context": "Commenting on a late meeting",
+    "tense": "past",
+    "type": "negative"
+  },
+  {
+    "en": "We're going to discuss the release plan.",
+    "tamil": "நாம் வெளியீட்டுத் திட்டத்தைப் பற்றிப் பேசப் போகிறோம்.",
+    "context": "Stating the meeting agenda",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "Please share the meeting notes after the call.",
+    "tamil": "அழைப்புக்குப் பிறகு கூட்டக் குறிப்புகளைப் பகிருங்கள்.",
+    "context": "Asking someone to circulate minutes",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Could you review my code, please?",
+    "tamil": "தயவுசெய்து என் குறியீட்டை மதிப்பாய்வு செய்ய முடியுமா?",
+    "context": "Asking a colleague for a code review",
+    "tense": "modal",
+    "type": "question",
+    "alt": {
+      "en": "Can you check my code?",
+      "tamil": "என் குறியீட்டைப் பார்க்க முடியுமா?"
+    }
+  },
+  {
+    "en": "Please review the document when you have time.",
+    "tamil": "நேரம் கிடைக்கும்போது இந்த ஆவணத்தை மதிப்பாய்வு செய்யுங்கள்.",
+    "context": "Asking a colleague to read a document",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Can you send me the latest file?",
+    "tamil": "சமீபத்திய கோப்பை எனக்கு அனுப்ப முடியுமா?",
+    "context": "Asking a teammate to send a file",
+    "tense": "modal",
+    "type": "question"
+  },
+  {
+    "en": "Please send me the sales figures.",
+    "tamil": "விற்பனை எண்ணிக்கைகளை எனக்கு அனுப்புங்கள்.",
+    "context": "Requesting data from a colleague",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Could you share the screenshot with me?",
+    "tamil": "அந்த ஸ்கிரீன்ஷாட்டை என்னுடன் பகிர முடியுமா?",
+    "context": "Asking for a screenshot",
+    "tense": "modal",
+    "type": "question"
+  },
+  {
+    "en": "Please forward that email to me.",
+    "tamil": "அந்த மின்னஞ்சலை எனக்கு ஃபார்வர்டு செய்யுங்கள்.",
+    "context": "Asking a colleague to forward a mail",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Please check the report and give me your feedback.",
+    "tamil": "அறிக்கையைப் பார்த்து உங்கள் கருத்தைச் சொல்லுங்கள்.",
+    "context": "Asking for feedback on a report",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Did you get my email?",
+    "tamil": "என் மின்னஞ்சல் உங்களுக்குக் கிடைத்ததா?",
+    "context": "Checking whether a mail arrived",
+    "tense": "past",
+    "type": "question"
+  },
+  {
+    "en": "I sent you the file this morning.",
+    "tamil": "நான் இன்று காலை உங்களுக்குக் கோப்பை அனுப்பினேன்.",
+    "context": "Pointing out a file was already sent",
+    "tense": "past",
+    "type": "statement"
+  },
+  {
+    "en": "I haven't received the document yet.",
+    "tamil": "எனக்கு இன்னும் ஆவணம் கிடைக்கவில்லை.",
+    "context": "Telling a colleague a file is missing",
+    "tense": "present-perfect",
+    "type": "negative",
+    "alt": {
+      "en": "I'm still waiting for the document.",
+      "tamil": "நான் இன்னும் ஆவணத்துக்காகக் காத்திருக்கிறேன்."
+    }
+  },
+  {
+    "en": "Which folder did you save it in?",
+    "tamil": "அதை எந்தக் கோப்புறையில் சேமித்தீர்கள்?",
+    "context": "Looking for a shared file",
+    "tense": "past",
+    "type": "question"
+  },
+  {
+    "en": "Please attach the file to the email.",
+    "tamil": "கோப்பை மின்னஞ்சலுடன் இணையுங்கள்.",
+    "context": "Reminding a colleague to attach a file",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "I'm following up on my previous email.",
+    "tamil": "என் முந்தைய மின்னஞ்சலைப் பற்றி மீண்டும் தொடர்பு கொள்கிறேன்.",
+    "context": "Opening a follow-up email",
+    "tense": "present-continuous",
+    "type": "statement",
+    "alt": {
+      "en": "Just checking if you saw my last email.",
+      "tamil": "என் கடைசி மின்னஞ்சலைப் பார்த்தீர்களா என்று கேட்கிறேன்."
+    }
+  },
+  {
+    "en": "This is a reminder about the pending approval.",
+    "tamil": "நிலுவையில் உள்ள அனுமதியைப் பற்றிய நினைவூட்டல் இது.",
+    "context": "Reminding someone to approve",
+    "tense": "present",
+    "type": "statement",
+    "alt": {
+      "en": "Just a reminder about the approval.",
+      "tamil": "அனுமதியைப் பற்றி ஒரு நினைவூட்டல்."
+    }
+  },
+  {
+    "en": "I'll follow up with him tomorrow.",
+    "tamil": "நான் நாளை அவரிடம் மீண்டும் பேசுவேன்.",
+    "context": "Promising to chase a pending item",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "Have you had a chance to look at my email?",
+    "tamil": "என் மின்னஞ்சலைப் பார்க்க உங்களுக்கு நேரம் கிடைத்ததா?",
+    "context": "Politely chasing a reply",
+    "tense": "present-perfect",
+    "type": "question",
+    "alt": {
+      "en": "Did you see my email?",
+      "tamil": "என் மின்னஞ்சலைப் பார்த்தீர்களா?"
+    }
+  },
+  {
+    "en": "I haven't heard back from the vendor.",
+    "tamil": "விற்பனையாளரிடமிருந்து எனக்கு இன்னும் பதில் வரவில்லை.",
+    "context": "Reporting no reply from an outside party",
+    "tense": "present-perfect",
+    "type": "negative"
+  },
+  {
+    "en": "I'll send a reminder to the team.",
+    "tamil": "நான் குழுவுக்கு ஒரு நினைவூட்டல் அனுப்புவேன்.",
+    "context": "Promising to remind the team",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "Thank you for your help.",
+    "tamil": "உங்கள் உதவிக்கு நன்றி.",
+    "context": "Thanking a colleague",
+    "tense": "present",
+    "type": "statement"
+  },
+  {
+    "en": "Thanks a lot for the quick reply.",
+    "tamil": "விரைவான பதிலுக்கு மிக்க நன்றி.",
+    "context": "Thanking someone for a fast answer",
+    "tense": "present",
+    "type": "statement"
+  },
+  {
+    "en": "You've been a great help today.",
+    "tamil": "இன்று நீங்கள் எனக்கு மிகவும் உதவியாக இருந்தீர்கள்.",
+    "context": "Thanking a colleague at day's end",
+    "tense": "present-perfect",
+    "type": "statement"
+  },
+  {
+    "en": "I'm sorry, I forgot to reply to you.",
+    "tamil": "மன்னியுங்கள், உங்களுக்குப் பதில் அனுப்ப மறந்துவிட்டேன்.",
+    "context": "Apologizing for a missed reply",
+    "tense": "past",
+    "type": "statement"
+  },
+  {
+    "en": "Sorry for the late reply.",
+    "tamil": "தாமதமாகப் பதில் அளிப்பதற்கு மன்னியுங்கள்.",
+    "context": "Starting a delayed email response",
+    "tense": "present",
+    "type": "statement"
+  },
+  {
+    "en": "I'll update the manager after the meeting.",
+    "tamil": "கூட்டத்துக்குப் பிறகு மேலாளருக்குத் தகவல் தெரிவிப்பேன்.",
+    "context": "Promising to brief the manager",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "I've updated the manager about the delay.",
+    "tamil": "தாமதத்தைப் பற்றி மேலாளருக்குத் தெரிவித்துவிட்டேன்.",
+    "context": "Confirming the manager is informed",
+    "tense": "present-perfect",
+    "type": "statement"
+  },
+  {
+    "en": "I told my manager about the issue.",
+    "tamil": "நான் பிரச்சினையைப் பற்றி என் மேலாளரிடம் சொன்னேன்.",
+    "context": "Saying you escalated an issue",
+    "tense": "past",
+    "type": "statement"
+  },
+  {
+    "en": "Should I inform the manager about this?",
+    "tamil": "இதைப் பற்றி மேலாளருக்குத் தெரிவிக்க வேண்டுமா?",
+    "context": "Asking a colleague for advice",
+    "tense": "modal",
+    "type": "question"
+  },
+  {
+    "en": "Please don't share this file outside the team.",
+    "tamil": "இந்தக் கோப்பைக் குழுவுக்கு வெளியே பகிராதீர்கள்.",
+    "context": "Warning a colleague about confidentiality",
+    "tense": "imperative",
+    "type": "negative"
+  },
+  {
+    "en": "Don't forget to update the sheet.",
+    "tamil": "தாளைப் புதுப்பிக்க மறக்காதீர்கள்.",
+    "context": "Reminding a teammate of a small task",
+    "tense": "imperative",
+    "type": "negative"
+  },
+  {
+    "en": "We never miss our weekly review.",
+    "tamil": "நாங்கள் எங்கள் வாராந்திர மதிப்பாய்வைத் தவறவிட்டதே இல்லை.",
+    "context": "Describing the team's routine",
+    "tense": "present",
+    "type": "negative"
+  },
+  {
+    "en": "Don't delete anything before the backup.",
+    "tamil": "காப்புப் பிரதி எடுப்பதற்கு முன் எதையும் நீக்காதீர்கள்.",
+    "context": "Warning a colleague before cleanup",
+    "tense": "imperative",
+    "type": "negative"
+  },
+  {
+    "en": "The project won't be ready by Friday.",
+    "tamil": "திட்டம் வெள்ளிக்கிழமைக்குள் தயாராகாது.",
+    "context": "Reporting a delay to the manager",
+    "tense": "future",
+    "type": "negative",
+    "alt": {
+      "en": "We'll miss the Friday deadline.",
+      "tamil": "வெள்ளிக்கிழமைக் கெடுவை நாம் தவறவிடுவோம்."
+    }
+  },
+  {
+    "en": "The vendor didn't send the files on time.",
+    "tamil": "விற்பனையாளர் கோப்புகளைச் சரியான நேரத்தில் அனுப்பவில்லை.",
+    "context": "Explaining the reason for a delay",
+    "tense": "past",
+    "type": "negative"
+  },
+  {
+    "en": "We couldn't finish because the requirements changed.",
+    "tamil": "தேவைகள் மாறியதால் எங்களால் முடிக்க முடியவில்லை.",
+    "context": "Explaining why work is unfinished",
+    "tense": "past",
+    "type": "negative"
+  },
+  {
+    "en": "We're facing a delay because the data is incomplete.",
+    "tamil": "தரவு முழுமையாக இல்லாததால் நாங்கள் தாமதத்தைச் சந்திக்கிறோம்.",
+    "context": "Reporting a delay and its cause",
+    "tense": "present-continuous",
+    "type": "statement"
+  },
+  {
+    "en": "I think we'll need one more week.",
+    "tamil": "நமக்கு இன்னும் ஒரு வாரம் தேவைப்படும் என்று நினைக்கிறேன்.",
+    "context": "Asking the manager for more time",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "Did you attend yesterday's stand-up?",
+    "tamil": "நேற்றைய ஸ்டாண்ட்-அப்பில் கலந்து கொண்டீர்களா?",
+    "context": "Asking a colleague about the stand-up",
+    "tense": "past",
+    "type": "question"
+  },
+  {
+    "en": "What time is the stand-up tomorrow?",
+    "tamil": "நாளைய ஸ்டாண்ட்-அப் எத்தனை மணிக்கு?",
+    "context": "Checking the stand-up schedule",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "Let's start the stand-up.",
+    "tamil": "ஸ்டாண்ட்-அப்பைத் தொடங்கலாம்.",
+    "context": "Opening the daily stand-up",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Congratulations on the successful release!",
+    "tamil": "வெற்றிகரமான வெளியீட்டுக்கு வாழ்த்துகள்!",
+    "context": "Praising the team after a release",
+    "tense": "present",
+    "type": "statement"
+  }
+]

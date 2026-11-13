@@ -1,0 +1,352 @@
+[
+ {
+  "word": "publicity",
+  "meaning": "Attention given to a product or person by newspapers, TV or the internet.",
+  "tamil": "விளம்பரப் பிரபலம்",
+  "pos": "noun",
+  "pron": "pub-LIS-ih-tee",
+  "example": "The film got a lot of free publicity.",
+  "exampleTamil": "அந்தத் திரைப்படத்துக்கு நிறைய இலவச விளம்பரம் கிடைத்தது.",
+  "synonyms": [
+   "promotion",
+   "exposure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sponsorship",
+  "meaning": "Money a company gives to support an event in return for advertising.",
+  "tamil": "நிதி ஆதரவு",
+  "pos": "noun",
+  "pron": "SPON-ser-ship",
+  "example": "The cricket match got sponsorship from a tea brand.",
+  "exampleTamil": "கிரிக்கெட் போட்டிக்கு ஒரு தேநீர் நிறுவனத்திடமிருந்து நிதி ஆதரவு கிடைத்தது.",
+  "synonyms": [
+   "backing",
+   "support"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wholesaler",
+  "meaning": "A person or company that sells goods in large amounts to shops.",
+  "tamil": "மொத்த வியாபாரி",
+  "pos": "noun",
+  "pron": "HOHL-say-ler",
+  "example": "The shopkeeper buys soap from a wholesaler.",
+  "exampleTamil": "கடைக்காரர் மொத்த வியாபாரியிடம் சோப்பு வாங்குகிறார்.",
+  "synonyms": [
+   "bulk seller",
+   "supplier"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "middleman",
+  "meaning": "A person who buys from producers and sells to others.",
+  "tamil": "இடைத்தரகர்",
+  "pos": "noun",
+  "pron": "MID-ul-man",
+  "example": "Farmers earn more when they skip the middleman.",
+  "exampleTamil": "இடைத்தரகரை தவிர்த்தால் விவசாயிகள் அதிகம் சம்பாதிக்கிறார்கள்.",
+  "synonyms": [
+   "broker",
+   "agent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "freight",
+  "meaning": "Goods carried by ship, train, truck or plane.",
+  "tamil": "சரக்கு போக்குவரத்து",
+  "pos": "noun",
+  "pron": "FRAYT",
+  "example": "Air freight is faster but costs more.",
+  "exampleTamil": "விமான சரக்கு போக்குவரத்து வேகமானது ஆனால் செலவு அதிகம்.",
+  "synonyms": [
+   "cargo",
+   "goods"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "profitable",
+  "meaning": "Making more money than it spends.",
+  "tamil": "லாபகரமான",
+  "pos": "adjective",
+  "pron": "PROF-ih-tuh-bul",
+  "example": "Their small tea shop is very profitable.",
+  "exampleTamil": "அவர்களின் சிறிய தேநீர் கடை மிகவும் லாபகரமானது.",
+  "synonyms": [
+   "gainful",
+   "rewarding"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "competitive",
+  "meaning": "Having prices or quality good enough to win against others.",
+  "tamil": "போட்டித்தன்மையுள்ள",
+  "pos": "adjective",
+  "pron": "kum-PET-ih-tiv",
+  "example": "We offer competitive prices on all our laptops.",
+  "exampleTamil": "எங்கள் எல்லா மடிக்கணினிகளிலும் போட்டித்தன்மையுள்ள விலைகளை வழங்குகிறோம்.",
+  "synonyms": [
+   "rival",
+   "cut-throat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lucrative",
+  "meaning": "Producing a lot of money.",
+  "tamil": "அதிக லாபம் தரும்",
+  "pos": "adjective",
+  "pron": "LOO-kruh-tiv",
+  "example": "Software is a lucrative field for young people.",
+  "exampleTamil": "மென்பொருள் இளைஞர்களுக்கு அதிக லாபம் தரும் துறை.",
+  "synonyms": [
+   "profitable",
+   "well-paid"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bankruptcy",
+  "meaning": "The state of being unable to pay your debts.",
+  "tamil": "திவால்",
+  "pos": "noun",
+  "pron": "BANK-rupt-see",
+  "example": "The company went into bankruptcy last year.",
+  "exampleTamil": "அந்த நிறுவனம் கடந்த ஆண்டு திவாலானது.",
+  "synonyms": [
+   "insolvency",
+   "ruin"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "creditor",
+  "meaning": "A person or bank that is owed money.",
+  "tamil": "கடன் கொடுத்தவர்",
+  "pos": "noun",
+  "pron": "KRED-ih-ter",
+  "example": "The creditors asked the shop owner to pay soon.",
+  "exampleTamil": "கடன் கொடுத்தவர்கள் கடை உரிமையாளரை விரைவில் செலுத்தச் சொன்னார்கள்.",
+  "synonyms": [
+   "lender",
+   "loan giver"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "prospect",
+  "meaning": "A person who may buy from you, or a chance of future success.",
+  "tamil": "வாய்ப்புள்ள வாடிக்கையாளர்",
+  "pos": "noun",
+  "pron": "PROS-pekt",
+  "example": "Every prospect received a free sample.",
+  "exampleTamil": "ஒவ்வொரு வாய்ப்புள்ள வாடிக்கையாளருக்கும் இலவச மாதிரி கிடைத்தது.",
+  "synonyms": [
+   "lead",
+   "candidate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "distributor",
+  "meaning": "A company that supplies goods from a maker to shops.",
+  "tamil": "விநியோகஸ்தர்",
+  "pos": "noun",
+  "pron": "dih-STRIB-yuh-ter",
+  "example": "The distributor delivers biscuits to all local shops.",
+  "exampleTamil": "விநியோகஸ்தர் எல்லா உள்ளூர் கடைகளுக்கும் பிஸ்கட் கொண்டு செல்கிறார்.",
+  "synonyms": [
+   "supplier",
+   "wholesaler"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "debtor",
+  "meaning": "A person or company that owes money.",
+  "tamil": "கடன் வாங்கியவர்",
+  "pos": "noun",
+  "pron": "DET-er",
+  "example": "The debtor promised to repay the loan in March.",
+  "exampleTamil": "கடன் வாங்கியவர் மார்ச்சில் கடனைத் திருப்பிச் செலுத்துவதாக உறுதியளித்தார்.",
+  "synonyms": [
+   "borrower",
+   "defaulter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "collateral",
+  "meaning": "Property you promise to the bank in case you cannot repay a loan.",
+  "tamil": "கடனுக்கான அடமானச் சொத்து",
+  "pos": "noun",
+  "pron": "kuh-LAT-er-ul",
+  "example": "He gave his land as collateral for the loan.",
+  "exampleTamil": "கடனுக்காக அவர் தன் நிலத்தை அடமானமாகக் கொடுத்தார்.",
+  "synonyms": [
+   "security",
+   "pledge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "exemption",
+  "meaning": "Freedom from having to pay a tax or follow a rule.",
+  "tamil": "விலக்கு",
+  "pos": "noun",
+  "pron": "ig-ZEMP-shun",
+  "example": "Small shops get an exemption from this tax.",
+  "exampleTamil": "சிறிய கடைகளுக்கு இந்த வரியிலிருந்து விலக்கு கிடைக்கிறது.",
+  "synonyms": [
+   "waiver",
+   "relief"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bookkeeper",
+  "meaning": "A person who records a business's money coming in and going out.",
+  "tamil": "கணக்கு எழுதுபவர்",
+  "pos": "noun",
+  "pron": "BUK-kee-per",
+  "example": "Our bookkeeper updates the accounts every Friday.",
+  "exampleTamil": "எங்கள் கணக்கு எழுதுபவர் ஒவ்வொரு வெள்ளிக்கிழமையும் கணக்குகளைப் புதுப்பிக்கிறார்.",
+  "synonyms": [
+   "accountant",
+   "clerk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rebrand",
+  "meaning": "To give a company or product a new name, look or image.",
+  "tamil": "புதிய அடையாளம் கொடு",
+  "pos": "verb",
+  "pron": "ree-BRAND",
+  "example": "The bank plans to rebrand itself next year.",
+  "exampleTamil": "வங்கி அடுத்த ஆண்டு தன்னை புதிய அடையாளத்துடன் மாற்ற திட்டமிடுகிறது.",
+  "synonyms": [
+   "relaunch",
+   "revamp"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "incubator",
+  "meaning": "An organisation that helps new startups grow with advice and space.",
+  "tamil": "தொடக்க நிறுவன வளர்ப்பு மையம்",
+  "pos": "noun",
+  "pron": "IN-kyuh-bay-ter",
+  "example": "Her startup joined a business incubator in Coimbatore.",
+  "exampleTamil": "அவளின் தொடக்க நிறுவனம் கோயம்புத்தூரில் ஒரு வளர்ப்பு மையத்தில் சேர்ந்தது.",
+  "synonyms": [
+   "accelerator",
+   "nursery"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crowdfund",
+  "meaning": "To raise small amounts of money from many people online.",
+  "tamil": "பலரிடம் இணையத்தில் நிதி திரட்டு",
+  "pos": "verb",
+  "pron": "KROWD-fund",
+  "example": "They decided to crowdfund their first film.",
+  "exampleTamil": "அவர்கள் தங்கள் முதல் திரைப்படத்துக்கு இணையத்தில் பலரிடம் நிதி திரட்ட முடிவு செய்தார்கள்.",
+  "synonyms": [
+   "raise funds",
+   "fundraise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "churn",
+  "meaning": "The rate at which customers stop using a service.",
+  "tamil": "வாடிக்கையாளர் வெளியேறும் விகிதம்",
+  "pos": "noun",
+  "pron": "CHURN",
+  "example": "Customer churn went up after the price increase.",
+  "exampleTamil": "விலை உயர்வுக்குப் பிறகு வாடிக்கையாளர் வெளியேறும் விகிதம் அதிகரித்தது.",
+  "synonyms": [
+   "attrition",
+   "turnover"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "conversion",
+  "meaning": "When a visitor or lead becomes a paying customer.",
+  "tamil": "வாங்குபவராக மாறுதல்",
+  "pos": "noun",
+  "pron": "kun-VUR-zhun",
+  "example": "Our website has a low conversion rate.",
+  "exampleTamil": "எங்கள் இணையதளத்தில் வாங்குபவராக மாறும் விகிதம் குறைவாக உள்ளது.",
+  "synonyms": [
+   "sale",
+   "signup"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "segment",
+  "meaning": "A group of customers who share similar needs or features.",
+  "tamil": "வாடிக்கையாளர் பிரிவு",
+  "pos": "noun",
+  "pron": "SEG-munt",
+  "example": "Students are our biggest customer segment.",
+  "exampleTamil": "மாணவர்கள் எங்கள் மிகப்பெரிய வாடிக்கையாளர் பிரிவு.",
+  "synonyms": [
+   "group",
+   "category"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "demographic",
+  "meaning": "A group of people of a certain age, gender or income.",
+  "tamil": "மக்கள்தொகைப் பிரிவு",
+  "pos": "noun",
+  "pron": "dem-uh-GRAF-ik",
+  "example": "This ad is meant for a younger demographic.",
+  "exampleTamil": "இந்த விளம்பரம் இளைய மக்கள்தொகைப் பிரிவுக்கானது.",
+  "synonyms": [
+   "age group",
+   "segment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "niche",
+  "meaning": "A small, special part of the market with its own needs.",
+  "tamil": "சிறப்புச் சந்தைப் பிரிவு",
+  "pos": "noun",
+  "pron": "NEESH",
+  "example": "She found a niche selling organic baby food.",
+  "exampleTamil": "அவள் இயற்கை குழந்தை உணவு விற்கும் சிறப்புச் சந்தையைக் கண்டுபிடித்தாள்.",
+  "synonyms": [
+   "speciality",
+   "market gap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "downturn",
+  "meaning": "A period when business or the economy becomes weaker.",
+  "tamil": "பொருளாதார வீழ்ச்சி",
+  "pos": "noun",
+  "pron": "DOWN-turn",
+  "example": "Many shops closed during the economic downturn.",
+  "exampleTamil": "பொருளாதார வீழ்ச்சியின் போது பல கடைகள் மூடப்பட்டன.",
+  "synonyms": [
+   "slump",
+   "decline"
+  ],
+  "level": "intermediate"
+ }
+]

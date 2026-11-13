@@ -1,0 +1,352 @@
+[
+ {
+  "en": "I'm meeting my college friends at the beach this evening.",
+  "tamil": "இன்னைக்கு சாயங்காலம் பீச்சுல என் காலேஜ் ஃப்ரெண்ட்ஸைப் பார்க்கப் போறேன்.",
+  "context": "Telling a colleague your evening plan.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with a time word shows a fixed plan for today.",
+  "words": [
+   "beach"
+  ],
+  "usage": "Use it when someone asks what you are doing after office.",
+  "leelaQ": "What are you doing this evening?",
+  "answer": "I am meeting a friend for tea near my office."
+ },
+ {
+  "en": "We will be travelling next Tuesday, so I will be on leave.",
+  "tamil": "அடுத்த செவ்வாய்க்கிழமை பயணம் இருக்கு, அதனால நான் லீவுல இருப்பேன்.",
+  "context": "Informing your manager of planned leave.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will be on leave' means you will be absent from work.",
+  "words": [
+   "leave"
+  ],
+  "usage": "Use it to tell a manager or team why you will be away.",
+  "leelaQ": "How do you inform your office about leave?",
+  "answer": "I send an email to my manager a week before."
+ },
+ {
+  "en": "The function starts at nine, but we should reach by eight.",
+  "tamil": "விசேஷம் ஒன்பது மணிக்குத்தான், ஆனா நாம எட்டு மணிக்குள்ள போகணும்.",
+  "context": "Planning to arrive early for a function.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' gives advice. 'By eight' means not later than eight.",
+  "words": [
+   "function"
+  ],
+  "usage": "Use it when you plan the timing for a family function.",
+  "leelaQ": "How early do you reach a family function?",
+  "answer": "I reach early to help my relatives with the work."
+ },
+ {
+  "en": "My friend has asked me to go trekking next month.",
+  "tamil": "என் நண்பன் அடுத்த மாசம் டிரெக்கிங் போகக் கூப்பிட்டிருக்கான்.",
+  "context": "Sharing an invitation with family.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has asked me to' is followed by the base verb.",
+  "words": [
+   "trekking"
+  ],
+  "usage": "Use it to tell your family about an invitation and ask their view.",
+  "leelaQ": "Would you like to go trekking?",
+  "answer": "Yes, I would love to go trekking with my friends."
+ },
+ {
+  "en": "I was thinking of visiting the new mall this weekend.",
+  "tamil": "இந்த வார இறுதியில புது மால் போகலாம்னு யோசிச்சிட்டு இருந்தேன்.",
+  "context": "Suggesting an idea in a soft way.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was thinking of' makes a suggestion sound soft and open.",
+  "words": [
+   "mall"
+  ],
+  "usage": "Use it to suggest a plan gently to a friend or family member.",
+  "leelaQ": "Where were you thinking of going this weekend?",
+  "answer": "I was thinking of going to the park."
+ },
+ {
+  "en": "We'll decide the dates after talking to everyone.",
+  "tamil": "எல்லார்கிட்டயும் பேசின பிறகு தேதியை முடிவு பண்ணுவோம்.",
+  "context": "Planning a group trip.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'After talking' uses an -ing form after 'after'.",
+  "words": [
+   "decide"
+  ],
+  "usage": "Use it when a group plan is not final yet.",
+  "leelaQ": "How does your group decide a trip date?",
+  "answer": "We ask everyone and choose a date that suits all."
+ },
+ {
+  "en": "I will be out of town from the 20th to the 25th.",
+  "tamil": "நான் இருபதாம் தேதி முதல் இருபத்தைந்து வரை ஊர்ல இருக்க மாட்டேன்.",
+  "context": "Telling a client about your absence.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'From ... to ...' gives the start and end of a period.",
+  "words": [
+   "out of town"
+  ],
+  "usage": "Use it to tell clients or friends you are not available for some days.",
+  "leelaQ": "When will you be out of town next?",
+  "answer": "I will be out of town during the Pongal holidays."
+ },
+ {
+  "en": "Everyone is excited about the picnic on Sunday.",
+  "tamil": "ஞாயிற்றுக்கிழமை சுற்றுலாவுக்கு எல்லாரும் ரொம்ப உற்சாகமா இருக்காங்க.",
+  "context": "Describing the mood before a picnic.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Excited about' is followed by a noun. It shows happy waiting.",
+  "words": [
+   "picnic"
+  ],
+  "usage": "Use it to talk about a group plan with your friends.",
+  "leelaQ": "Are you excited about any plan these days?",
+  "answer": "Yes, I am excited about my cousin's wedding next month."
+ },
+ {
+  "en": "I'm afraid I have another meeting at that time.",
+  "tamil": "அந்த நேரத்துல எனக்கு இன்னொரு மீட்டிங் இருக்குன்னு நினைக்கிறேன்.",
+  "context": "Declining a meeting time politely.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'I'm afraid' is a polite way to give bad news.",
+  "words": [
+   "meeting"
+  ],
+  "usage": "Use it at work to refuse a time because you are busy.",
+  "leelaQ": "How do you refuse a meeting time politely?",
+  "answer": "I say I have another meeting and suggest a new time."
+ },
+ {
+  "en": "We had planned a trip, but we postponed it because of exams.",
+  "tamil": "ஒரு டிரிப் பிளான் பண்ணியிருந்தோம், ஆனா பரீட்சையால தள்ளி வெச்சோம்.",
+  "context": "Explaining a postponed trip.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Had planned' is past perfect: the plan was made before the later event.",
+  "words": [
+   "postponed"
+  ],
+  "usage": "Use it to explain why a plan was delayed.",
+  "leelaQ": "Have you ever postponed a plan? Why?",
+  "answer": "Yes, I postponed a trip because I fell sick."
+ },
+ {
+  "en": "I'll pick you up from the station at seven.",
+  "tamil": "ஏழு மணிக்கு ஸ்டேஷன்ல வந்து உன்னைக் கூட்டிட்டுப் போறேன்.",
+  "context": "Offering to pick up a guest.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Pick up' means to collect someone by vehicle.",
+  "words": [
+   "pick"
+  ],
+  "usage": "Use it when a guest or relative is arriving by train or bus.",
+  "leelaQ": "Who will you pick up from the station?",
+  "answer": "I will pick up my uncle from the station."
+ },
+ {
+  "en": "Our office party is on the 30th, and families are welcome.",
+  "tamil": "எங்க ஆபீஸ் பார்ட்டி முப்பதாம் தேதி, குடும்பத்தோட வரலாம்.",
+  "context": "Inviting a friend to an office event.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Welcome' here means allowed and invited.",
+  "words": [
+   "welcome"
+  ],
+  "usage": "Use it when you tell someone about an event they can join.",
+  "leelaQ": "Do you enjoy office parties?",
+  "answer": "Yes, I enjoy them because I can meet my colleagues."
+ },
+ {
+  "en": "She is hoping to see you at the engagement.",
+  "tamil": "நிச்சயதார்த்தத்துல உங்களைப் பார்க்கணும்னு அவ எதிர்பார்க்கறா.",
+  "context": "Passing on a wish to attend.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is hoping to' shows a wish about the future.",
+  "words": [
+   "engagement"
+  ],
+  "usage": "Use it to tell someone that the host really wants them to come.",
+  "leelaQ": "Who do you hope to meet at a function?",
+  "answer": "I hope to meet my old school friends."
+ },
+ {
+  "en": "I will definitely be there on time.",
+  "tamil": "நான் கண்டிப்பா சரியான நேரத்துக்கு அங்க இருப்பேன்.",
+  "context": "Promising to attend a function.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Definitely' makes the promise strong. It goes after 'will'.",
+  "words": [
+   "definitely"
+  ],
+  "usage": "Use it to assure a host that you will come on time.",
+  "leelaQ": "How do you promise someone you will come?",
+  "answer": "I say I will definitely be there on time."
+ },
+ {
+  "en": "We are leaving for Kodaikanal early tomorrow morning.",
+  "tamil": "நாளைக்கு அதிகாலையில கொடைக்கானலுக்குக் கிளம்பறோம்.",
+  "context": "Telling a neighbour about your trip.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with 'tomorrow' shows an arranged plan.",
+  "words": [
+   "leaving"
+  ],
+  "usage": "Use it to tell neighbours why the house will be locked.",
+  "leelaQ": "What time are you leaving tomorrow?",
+  "answer": "I am leaving at six in the morning."
+ },
+ {
+  "en": "My brother's engagement was fixed for the second of January.",
+  "tamil": "என் அண்ணன் நிச்சயதார்த்தம் ஜனவரி இரண்டாம் தேதிக்கு முடிவாகியிருக்கு.",
+  "context": "Sharing a family event date.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was fixed' is passive past: the date was decided.",
+  "words": [
+   "fixed"
+  ],
+  "usage": "Use it to tell friends about a family function date.",
+  "leelaQ": "What family function is coming soon?",
+  "answer": "My cousin's wedding is coming next month."
+ },
+ {
+  "en": "I'd rather stay at home this weekend and rest.",
+  "tamil": "இந்த வார இறுதியில வீட்லயே ஓய்வெடுக்க விரும்பறேன்.",
+  "context": "Declining outing plans because you are tired.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I'd rather' is followed by the base verb and shows preference.",
+  "words": [
+   "rather"
+  ],
+  "usage": "Use it to say politely that you prefer a quiet plan.",
+  "leelaQ": "Do you prefer staying home or going out?",
+  "answer": "I would rather stay at home and rest."
+ },
+ {
+  "en": "The dinner is on me this time.",
+  "tamil": "இந்த தடவை சாப்பாட்டு செலவு என்னோடது.",
+  "context": "Offering to pay for friends.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'On me' means I will pay.",
+  "words": [
+   "dinner"
+  ],
+  "usage": "Use it when you invite friends and want to pay.",
+  "leelaQ": "Who pays when you eat with friends?",
+  "answer": "We share the bill equally."
+ },
+ {
+  "en": "He said he would come, but he didn't turn up.",
+  "tamil": "வர்றேன்னு சொன்னான், ஆனா வரவே இல்ல.",
+  "context": "Complaining about a friend who did not come.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Turn up' means to arrive. 'Would' is the past form of 'will'.",
+  "words": [
+   "turn up"
+  ],
+  "usage": "Use it when someone breaks a promise to come.",
+  "leelaQ": "What do you do when a friend does not turn up?",
+  "answer": "I call them and ask what happened."
+ },
+ {
+  "en": "We'll go for a walk after dinner if the weather is good.",
+  "tamil": "வானிலை நல்லா இருந்தா சாப்பாட்டுக்குப் பிறகு நடக்கப் போவோம்.",
+  "context": "Making a conditional plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "The 'if' part uses the present tense, the main part uses 'will'.",
+  "words": [
+   "weather"
+  ],
+  "usage": "Use it to make a plan that depends on something.",
+  "leelaQ": "What will you do if it rains tomorrow?",
+  "answer": "I will stay at home and read a book."
+ },
+ {
+  "en": "The house-warming ceremony is next Friday at eight in the morning.",
+  "tamil": "புதுமனை புகுவிழா அடுத்த வெள்ளிக்கிழமை காலை எட்டு மணிக்கு.",
+  "context": "Giving details of a function.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Present simple is used for a fixed event. The place of time words matters.",
+  "words": [
+   "ceremony"
+  ],
+  "usage": "Use it when you give the date and time of a family function.",
+  "leelaQ": "Have you attended a house-warming ceremony?",
+  "answer": "Yes, I attended my friend's ceremony last year."
+ },
+ {
+  "en": "I have been looking forward to this holiday for months.",
+  "tamil": "இந்த விடுமுறைக்காக மாசக்கணக்கா காத்திருக்கேன்.",
+  "context": "Showing excitement about a trip.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been looking forward to' is followed by a noun.",
+  "words": [
+   "holiday"
+  ],
+  "usage": "Use it to show you are very happy about a coming plan.",
+  "leelaQ": "What are you looking forward to this year?",
+  "answer": "I am looking forward to my sister's wedding."
+ },
+ {
+  "en": "We will finish the work by Friday and then relax.",
+  "tamil": "வெள்ளிக்கிழமைக்குள்ள வேலையை முடிச்சிட்டு ஓய்வெடுப்போம்.",
+  "context": "Planning with teammates.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'By Friday' means not later than Friday.",
+  "words": [
+   "relax"
+  ],
+  "usage": "Use it with teammates when you plan to rest after a deadline.",
+  "leelaQ": "What do you do after finishing a big task?",
+  "answer": "I take a short rest and meet my friends."
+ },
+ {
+  "en": "I haven't decided yet, but I'll probably say yes.",
+  "tamil": "இன்னும் முடிவு பண்ணல, ஆனா சரின்னு சொல்லிடுவேன்னு நினைக்கிறேன்.",
+  "context": "Giving a half answer to an invitation.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Haven't decided yet' shows no final decision. 'Probably' shows likely.",
+  "words": [
+   "probably"
+  ],
+  "usage": "Use it when you are leaning towards accepting an invitation.",
+  "leelaQ": "Do you decide quickly or slowly about plans?",
+  "answer": "I decide slowly and think about it first."
+ },
+ {
+  "en": "We can't go out tonight because the guests are arriving.",
+  "tamil": "விருந்தினர்கள் வர்றதால இன்னைக்கு ராத்திரி நம்மால வெளியில போக முடியாது.",
+  "context": "Explaining why you cannot go out.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Can't' shows it is not possible. 'Because' gives the reason.",
+  "words": [
+   "guests"
+  ],
+  "usage": "Use it to explain a refusal to family or friends.",
+  "leelaQ": "Who comes to your house as guests?",
+  "answer": "My relatives come during the festivals."
+ }
+]

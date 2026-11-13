@@ -1,0 +1,92 @@
+/* Global styles shared by every screen. Component-specific styles live in each component.
+   Theme: purple + white. Breakpoints used everywhere (mobile first):
+     mobile 320-767 | tablet 768-1023 | laptop 1024-1439 | large desktop 1440+ */
+:root {
+  --primary: #6a3fc9;
+  --primary-dark: #4c2a9a;
+  --primary-soft: #ebe3fb;
+  --primary-tint: #f6f2fd;
+  --border: #ddd3f2;
+  --bg: #f4f0fb;
+  --surface: #ffffff;
+  --text: #241a3a;
+  --muted: #5d5275;
+  --success: #1b7a2b;
+  --danger: #d6336c;
+  --radius: 16px;
+  --shadow: 0 2px 10px rgba(76, 42, 154, .10);
+  --shadow-hover: 0 8px 24px rgba(76, 42, 154, .18);
+  --sidebar-w: 256px;
+  --sidebar-w-collapsed: 76px;
+  --bottom-nav-h: 64px;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; min-height: 100%; max-width: 100%; overflow-x: hidden; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.55;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans Tamil', 'Latha', sans-serif;
+  letter-spacing: .005em;
+}
+h1 { font-size: 1.5rem; margin: 6px 0 4px; line-height: 1.25; letter-spacing: -.01em; }
+h2 { font-size: 1.15rem; margin: 6px 0; line-height: 1.3; }
+p { margin: 6px 0; overflow-wrap: anywhere; }
+a { color: var(--primary); }
+img, svg, video { max-width: 100%; }
+[lang='ta'] { font-family: 'Noto Sans Tamil', 'Latha', 'Nirmala UI', system-ui, sans-serif; line-height: 1.75; }
+button, input, select, textarea { font-family: inherit; font-size: 1rem; } /* 16px stops iOS zooming into inputs */
+button, .btn, a.btn { cursor: pointer; }
+:focus-visible { outline: 3px solid #ffbf47; outline-offset: 2px; }
+
+.card { display: block; background: var(--surface); border-radius: var(--radius); padding: 16px; margin: 0 0 14px; box-shadow: var(--shadow); border: 1px solid transparent; }
+.row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.grow { flex: 1 1 140px; min-width: 0; }
+.small { font-size: .88rem; color: var(--muted); }
+.label { font-size: .78rem; font-weight: 700; color: var(--primary); text-transform: uppercase; letter-spacing: .05em; margin: 12px 0 2px; display: flex; align-items: center; gap: 6px; }
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px; text-decoration: none;
+  min-height: 44px; padding: 8px 16px; border-radius: 12px; border: 1px solid #c3b6e3; background: #fff; color: var(--text);
+  font-weight: 500; transition: background .15s, box-shadow .15s, transform .1s;
+}
+.btn:hover:not(:disabled) { background: var(--primary-tint); box-shadow: var(--shadow); }
+.btn:active:not(:disabled) { transform: translateY(1px); }
+.btn.small { min-height: 38px; padding: 4px 12px; font-size: .9rem; }
+.btn.primary { background: var(--primary); border-color: var(--primary); color: #fff; font-weight: 600; }
+.btn.primary:hover:not(:disabled) { background: var(--primary-dark); }
+.btn.on { background: #fff0d6; border-color: #f08c00; }
+.btn.mic.on { background: #ffe3ee; border-color: var(--danger); color: #a61e4d; }
+.btn:disabled { opacity: .5; cursor: not-allowed; }
+
+input[type='text'], input[type='search'], select, textarea {
+  min-height: 44px; padding: 8px 12px; border: 1px solid #c3b6e3; border-radius: 12px; background: #fff; max-width: 100%; color: var(--text);
+}
+input[type='range'] { accent-color: var(--primary); }
+
+.notice { background: var(--primary-tint); border-radius: 12px; padding: 8px 12px; font-size: .9rem; margin: 8px 0; border: 1px solid var(--border); }
+.notice.warn { background: #fff4e6; color: #5f3700; border-color: #ffd8a8; }
+.badge { display: inline-block; font-size: .75rem; padding: 2px 8px; border-radius: 10px; background: var(--primary-soft); color: var(--primary-dark); }
+.badge.rule { background: #e6fcf5; color: #0b6b4a; font-weight: 600; }
+.badge.ai { background: #f3e8ff; color: #5b2a9e; font-weight: 600; }
+.lvl-beginner { background: #d3f9d8; } .lvl-intermediate { background: #fff3bf; } .lvl-advanced { background: #ffd8a8; }
+
+.live { display: flex; align-items: center; gap: 10px; background: #fff0f6; border: 1px solid #fcc2d7; border-radius: 12px; padding: 8px 12px; margin: 8px 0; }
+.dot { width: 12px; height: 12px; border-radius: 50%; background: var(--danger); animation: pulse 1s infinite; flex: none; }
+@keyframes pulse { 50% { opacity: .3; } }
+@media (prefers-reduced-motion: reduce) { .dot { animation: none; } * { scroll-behavior: auto !important; } }
+
+/* Reusable responsive grid for feature cards: 2 columns on phones, 3 on tablet/laptop, 4 on large screens. */
+.feature-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+@media (min-width: 768px) { .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; } }
+@media (min-width: 1440px) { .feature-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; } }
+
+/* Tablet and up: bigger text and tap targets. */
+@media (min-width: 768px) {
+  h1 { font-size: 1.75rem; }
+  .btn { min-height: 48px; padding: 8px 20px; }
+  .card { padding: 20px; }
+}
+@media (min-width: 1440px) { body { font-size: 1.05rem; } h1 { font-size: 2rem; } }

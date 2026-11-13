@@ -1,0 +1,789 @@
+[
+ {
+  "word": "thunder",
+  "tamil": "இடி",
+  "pos": "noun",
+  "pron": "THUN-dur",
+  "example": "The thunder scared the little dog.",
+  "exampleTamil": "இடி சத்தம் சின்ன நாயைப் பயமுறுத்தியது.",
+  "synonyms": [
+   "rumble"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lightning",
+  "tamil": "மின்னல்",
+  "pos": "noun",
+  "pron": "LYT-ning",
+  "example": "Lightning flashed across the evening sky.",
+  "exampleTamil": "மாலை வானில் மின்னல் மின்னியது.",
+  "synonyms": [
+   "flash"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flood",
+  "tamil": "வெள்ளம்",
+  "pos": "noun",
+  "pron": "FLUD",
+  "example": "The flood covered our whole street.",
+  "exampleTamil": "வெள்ளம் எங்கள் தெரு முழுவதையும் மூடியது.",
+  "synonyms": [
+   "deluge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "breeze",
+  "tamil": "தென்றல்",
+  "pos": "noun",
+  "pron": "BREEZ",
+  "example": "A cool breeze came through the window.",
+  "exampleTamil": "ஜன்னல் வழியே குளிர்ந்த தென்றல் வந்தது.",
+  "synonyms": [
+   "light wind"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "foggy",
+  "tamil": "பனிமூட்டமான",
+  "pos": "adjective",
+  "pron": "FOG-ee",
+  "example": "It is too foggy to drive this morning.",
+  "exampleTamil": "இன்று காலை வண்டி ஓட்ட முடியாத அளவு பனிமூட்டமாக இருக்கிறது.",
+  "synonyms": [
+   "misty",
+   "hazy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cloudy",
+  "tamil": "மேகமூட்டமான",
+  "pos": "adjective",
+  "pron": "KLOW-dee",
+  "example": "The sky looks cloudy, it may rain.",
+  "exampleTamil": "வானம் மேகமூட்டமாக இருக்கிறது, மழை வரலாம்.",
+  "synonyms": [
+   "overcast"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sunny",
+  "tamil": "வெயிலான",
+  "pos": "adjective",
+  "pron": "SUN-ee",
+  "example": "Tomorrow will be bright and sunny.",
+  "exampleTamil": "நாளை பிரகாசமாகவும் வெயிலாகவும் இருக்கும்.",
+  "synonyms": [
+   "bright",
+   "clear"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chilly",
+  "tamil": "குளிரான",
+  "pos": "adjective",
+  "pron": "CHIL-ee",
+  "example": "It gets chilly after sunset here.",
+  "exampleTamil": "இங்கே சூரியன் மறைந்த பிறகு குளிராகிவிடும்.",
+  "synonyms": [
+   "cool",
+   "nippy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "season",
+  "tamil": "பருவகாலம்",
+  "pos": "noun",
+  "pron": "SEE-zun",
+  "example": "Which season do you like the most?",
+  "exampleTamil": "எந்தப் பருவகாலம் உங்களுக்கு மிகவும் பிடிக்கும்?",
+  "synonyms": [
+   "time of year"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "monsoon",
+  "tamil": "பருவ மழை",
+  "pos": "noun",
+  "pron": "mon-SOON",
+  "example": "The monsoon arrives in June in Kerala.",
+  "exampleTamil": "கேரளாவில் ஜூன் மாதத்தில் பருவ மழை தொடங்கும்.",
+  "synonyms": [
+   "rainy season"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hobby",
+  "tamil": "பொழுதுபோக்கு",
+  "pos": "noun",
+  "pron": "HOB-ee",
+  "example": "Gardening is my favourite hobby.",
+  "exampleTamil": "தோட்டம் வளர்ப்பது என் விருப்பமான பொழுதுபோக்கு.",
+  "synonyms": [
+   "pastime",
+   "interest"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gardening",
+  "tamil": "தோட்டக்கலை",
+  "pos": "noun",
+  "pron": "GAR-dun-ing",
+  "example": "Gardening relaxes me after a busy week.",
+  "exampleTamil": "பரபரப்பான வாரத்திற்குப் பிறகு தோட்டம் வளர்ப்பது எனக்கு அமைதி தருகிறது.",
+  "synonyms": [
+   "growing plants"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "painting",
+  "tamil": "ஓவியம் வரைதல்",
+  "pos": "noun",
+  "pron": "PAYN-ting",
+  "example": "Her painting won a prize at school.",
+  "exampleTamil": "அவளுடைய ஓவியம் பள்ளியில் பரிசு வென்றது.",
+  "synonyms": [
+   "drawing",
+   "artwork"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "knitting",
+  "tamil": "பின்னல் வேலை",
+  "pos": "noun",
+  "pron": "NIT-ing",
+  "example": "Knitting is a calm hobby for her.",
+  "exampleTamil": "பின்னல் வேலை அவளுக்கு அமைதியான பொழுதுபோக்கு.",
+  "synonyms": [
+   "needlework"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "jogging",
+  "tamil": "மெதுவோட்டம்",
+  "pos": "noun",
+  "pron": "JOG-ing",
+  "example": "Jogging along the beach is refreshing.",
+  "exampleTamil": "கடற்கரையில் மெதுவாக ஓடுவது புத்துணர்ச்சி தருகிறது.",
+  "synonyms": [
+   "running"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cycling",
+  "tamil": "சைக்கிள் ஓட்டுதல்",
+  "pos": "noun",
+  "pron": "SY-kling",
+  "example": "Cycling to the market saves petrol.",
+  "exampleTamil": "சந்தைக்கு சைக்கிளில் போவது பெட்ரோலை மிச்சப்படுத்தும்.",
+  "synonyms": [
+   "biking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "swimming",
+  "tamil": "நீச்சல்",
+  "pos": "noun",
+  "pron": "SWIM-ing",
+  "example": "Swimming is a great exercise for the whole body.",
+  "exampleTamil": "நீச்சல் முழு உடலுக்கும் சிறந்த பயிற்சி.",
+  "synonyms": [
+   "swim"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cricket",
+  "tamil": "கிரிக்கெட்",
+  "pos": "noun",
+  "pron": "KRIK-it",
+  "example": "Boys are playing cricket in the street.",
+  "exampleTamil": "பையன்கள் தெருவில் கிரிக்கெட் விளையாடுகிறார்கள்.",
+  "synonyms": [
+   "bat-and-ball game"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chess",
+  "tamil": "சதுரங்கம்",
+  "pos": "noun",
+  "pron": "CHES",
+  "example": "My grandfather taught me to play chess.",
+  "exampleTamil": "என் தாத்தா எனக்கு சதுரங்கம் விளையாடக் கற்றுக்கொடுத்தார்.",
+  "synonyms": [
+   "board game"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "puzzle",
+  "tamil": "புதிர்",
+  "pos": "noun",
+  "pron": "PUZ-ul",
+  "example": "We solved the jigsaw puzzle together.",
+  "exampleTamil": "நாங்கள் ஒன்றாக அந்தப் புதிரைத் தீர்த்தோம்.",
+  "synonyms": [
+   "riddle",
+   "brainteaser"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "movie",
+  "tamil": "திரைப்படம்",
+  "pos": "noun",
+  "pron": "MOO-vee",
+  "example": "Let us watch a movie tonight.",
+  "exampleTamil": "இன்றிரவு ஒரு திரைப்படம் பார்ப்போம்.",
+  "synonyms": [
+   "film"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "novel",
+  "tamil": "புதினம், நாவல்",
+  "pos": "noun",
+  "pron": "NOV-ul",
+  "example": "She is reading a Tamil novel on the train.",
+  "exampleTamil": "அவள் ரயிலில் ஒரு தமிழ் நாவல் படித்துக் கொண்டிருக்கிறாள்.",
+  "synonyms": [
+   "fiction book"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "magazine",
+  "tamil": "பத்திரிகை",
+  "pos": "noun",
+  "pron": "MAG-uh-zeen",
+  "example": "Dad buys a weekly magazine every Sunday.",
+  "exampleTamil": "அப்பா ஒவ்வொரு ஞாயிற்றுக்கிழமையும் வாராந்திர பத்திரிகை வாங்குவார்.",
+  "synonyms": [
+   "periodical"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "newspaper",
+  "tamil": "செய்தித்தாள்",
+  "pos": "noun",
+  "pron": "NYOOZ-pay-pur",
+  "example": "Grandpa reads the newspaper with his tea.",
+  "exampleTamil": "தாத்தா தேநீருடன் செய்தித்தாள் படிப்பார்.",
+  "synonyms": [
+   "daily"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "neighbourhood",
+  "tamil": "அக்கம்பக்கம், குடியிருப்புப் பகுதி",
+  "pos": "noun",
+  "pron": "NAY-bur-hood",
+  "example": "This is a quiet neighbourhood with many trees.",
+  "exampleTamil": "இது நிறைய மரங்கள் உள்ள அமைதியான குடியிருப்புப் பகுதி.",
+  "synonyms": [
+   "locality",
+   "area"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "street",
+  "tamil": "தெரு",
+  "pos": "noun",
+  "pron": "STREET",
+  "example": "Our street gets very busy in the evening.",
+  "exampleTamil": "எங்கள் தெரு மாலையில் மிகவும் பரபரப்பாகிவிடும்.",
+  "synonyms": [
+   "road",
+   "lane"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pavement",
+  "tamil": "நடைபாதை",
+  "pos": "noun",
+  "pron": "PAYV-ment",
+  "example": "Walk on the pavement, not on the road.",
+  "exampleTamil": "சாலையில் அல்லாமல் நடைபாதையில் நடங்கள்.",
+  "synonyms": [
+   "sidewalk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "junction",
+  "tamil": "சந்திப்பு, முச்சந்தி",
+  "pos": "noun",
+  "pron": "JUNK-shun",
+  "example": "Turn left at the next junction.",
+  "exampleTamil": "அடுத்த சந்திப்பில் இடதுபுறம் திரும்புங்கள்.",
+  "synonyms": [
+   "crossroads"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crossing",
+  "tamil": "சாலை கடக்கும் இடம்",
+  "pos": "noun",
+  "pron": "KROS-ing",
+  "example": "Use the zebra crossing to cross the road.",
+  "exampleTamil": "சாலையைக் கடக்க வரிக்குதிரைக் கோட்டைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "crosswalk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "traffic",
+  "tamil": "போக்குவரத்து",
+  "pos": "noun",
+  "pron": "TRAF-ik",
+  "example": "Traffic was terrible on the main road.",
+  "exampleTamil": "பிரதான சாலையில் போக்குவரத்து மிக மோசமாக இருந்தது.",
+  "synonyms": [
+   "congestion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rickshaw",
+  "tamil": "ஆட்டோ ரிக்ஷா",
+  "pos": "noun",
+  "pron": "RIK-shaw",
+  "example": "We took a rickshaw to the temple.",
+  "exampleTamil": "நாங்கள் கோவிலுக்கு ஆட்டோவில் போனோம்.",
+  "synonyms": [
+   "auto"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "temple",
+  "tamil": "கோவில்",
+  "pos": "noun",
+  "pron": "TEM-pul",
+  "example": "We visit the temple every Friday.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு வெள்ளிக்கிழமையும் கோவிலுக்குப் போகிறோம்.",
+  "synonyms": [
+   "shrine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "market",
+  "tamil": "சந்தை",
+  "pos": "noun",
+  "pron": "MAR-kit",
+  "example": "The vegetable market opens early.",
+  "exampleTamil": "காய்கறிச் சந்தை சீக்கிரம் திறக்கும்.",
+  "synonyms": [
+   "bazaar"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mall",
+  "tamil": "வணிக வளாகம்",
+  "pos": "noun",
+  "pron": "MAWL",
+  "example": "The new mall has a big food court.",
+  "exampleTamil": "புதிய வணிக வளாகத்தில் பெரிய உணவு அரங்கம் உள்ளது.",
+  "synonyms": [
+   "shopping centre"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "playground",
+  "tamil": "விளையாட்டு மைதானம்",
+  "pos": "noun",
+  "pron": "PLAY-grownd",
+  "example": "Children gather in the playground after school.",
+  "exampleTamil": "பள்ளிக்குப் பிறகு குழந்தைகள் விளையாட்டு மைதானத்தில் கூடுகிறார்கள்.",
+  "synonyms": [
+   "play area"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "apartment",
+  "tamil": "அடுக்குமாடி குடியிருப்பு",
+  "pos": "noun",
+  "pron": "uh-PART-ment",
+  "example": "They live in a third-floor apartment.",
+  "exampleTamil": "அவர்கள் மூன்றாவது மாடியில் உள்ள அடுக்குமாடி வீட்டில் வசிக்கிறார்கள்.",
+  "synonyms": [
+   "flat"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "festival",
+  "tamil": "திருவிழா, பண்டிகை",
+  "pos": "noun",
+  "pron": "FES-tih-vul",
+  "example": "Pongal is a harvest festival in Tamil Nadu.",
+  "exampleTamil": "பொங்கல் தமிழ்நாட்டின் அறுவடைத் திருவிழா.",
+  "synonyms": [
+   "celebration"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "celebrate",
+  "tamil": "கொண்டாடு",
+  "pos": "verb",
+  "pron": "SEL-uh-brayt",
+  "example": "We celebrate Diwali with lamps and sweets.",
+  "exampleTamil": "நாங்கள் தீபாவளியை விளக்குகளோடும் இனிப்புகளோடும் கொண்டாடுகிறோம்.",
+  "synonyms": [
+   "rejoice",
+   "observe"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wedding",
+  "tamil": "திருமணம்",
+  "pos": "noun",
+  "pron": "WED-ing",
+  "example": "Their wedding was held in a big hall.",
+  "exampleTamil": "அவர்களின் திருமணம் ஒரு பெரிய மண்டபத்தில் நடந்தது.",
+  "synonyms": [
+   "marriage ceremony"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "decorate",
+  "tamil": "அலங்கரி",
+  "pos": "verb",
+  "pron": "DEK-uh-rayt",
+  "example": "We decorate the house with flowers on Onam.",
+  "exampleTamil": "ஓணத்தன்று நாங்கள் வீட்டைப் பூக்களால் அலங்கரிக்கிறோம்.",
+  "synonyms": [
+   "adorn",
+   "garnish"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "firecracker",
+  "tamil": "பட்டாசு",
+  "pos": "noun",
+  "pron": "FYR-krak-ur",
+  "example": "Children love bursting a firecracker at Diwali.",
+  "exampleTamil": "தீபாவளியில் குழந்தைகளுக்கு பட்டாசு வெடிக்கப் பிடிக்கும்.",
+  "synonyms": [
+   "cracker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "invitation",
+  "tamil": "அழைப்பிதழ்",
+  "pos": "noun",
+  "pron": "in-vih-TAY-shun",
+  "example": "Have you received the wedding invitation?",
+  "exampleTamil": "திருமண அழைப்பிதழ் உங்களுக்கு வந்ததா?",
+  "synonyms": [
+   "invite"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gift",
+  "tamil": "பரிசு",
+  "pos": "noun",
+  "pron": "GIFT",
+  "example": "She wrapped the gift in colourful paper.",
+  "exampleTamil": "அவள் பரிசை வண்ணக் காகிதத்தில் சுற்றினாள்.",
+  "synonyms": [
+   "present"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "congratulate",
+  "tamil": "வாழ்த்து தெரிவி",
+  "pos": "verb",
+  "pron": "kun-GRACH-uh-layt",
+  "example": "I called to congratulate him on his new baby.",
+  "exampleTamil": "அவனுக்குப் புதிய குழந்தை பிறந்ததற்கு வாழ்த்து சொல்ல அழைத்தேன்.",
+  "synonyms": [
+   "compliment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "anniversary",
+  "tamil": "ஆண்டு நிறைவு நாள்",
+  "pos": "noun",
+  "pron": "an-ih-VUR-suh-ree",
+  "example": "Today is our wedding anniversary.",
+  "exampleTamil": "இன்று எங்கள் திருமண நாள்.",
+  "synonyms": [
+   "jubilee"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "routine",
+  "tamil": "அன்றாடப் பழக்கம்",
+  "pos": "noun",
+  "pron": "roo-TEEN",
+  "example": "My morning routine starts with a walk.",
+  "exampleTamil": "என் காலை நடைமுறை ஒரு நடையோடு தொடங்குகிறது.",
+  "synonyms": [
+   "habit",
+   "schedule"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "alarm",
+  "tamil": "அலாரம், எச்சரிக்கை மணி",
+  "pos": "noun",
+  "pron": "uh-LARM",
+  "example": "My alarm rings at five every day.",
+  "exampleTamil": "என் அலாரம் தினமும் ஐந்து மணிக்கு அடிக்கிறது.",
+  "synonyms": [
+   "wake-up call"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "brush",
+  "tamil": "பல் துலக்கு, தேய்",
+  "pos": "verb",
+  "pron": "BRUSH",
+  "example": "Brush your teeth twice a day.",
+  "exampleTamil": "ஒரு நாளைக்கு இரண்டு முறை பல் துலக்குங்கள்.",
+  "synonyms": [
+   "clean",
+   "scrub"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shave",
+  "tamil": "முகச்சவரம் செய்",
+  "pos": "verb",
+  "pron": "SHAYV",
+  "example": "He shaves every morning before breakfast.",
+  "exampleTamil": "அவன் தினமும் காலை உணவுக்கு முன் முகச்சவரம் செய்கிறான்.",
+  "synonyms": [
+   "trim"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nap",
+  "tamil": "சிறு உறக்கம்",
+  "pos": "noun",
+  "pron": "NAP",
+  "example": "I take a short nap after lunch.",
+  "exampleTamil": "நான் மதிய உணவுக்குப் பிறகு சிறிது உறங்குகிறேன்.",
+  "synonyms": [
+   "doze",
+   "siesta"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wake up",
+  "tamil": "விழித்தெழு",
+  "pos": "phrasal verb",
+  "pron": "WAYK UP",
+  "example": "I wake up at six on weekdays.",
+  "exampleTamil": "நான் வார நாட்களில் ஆறு மணிக்கு எழுகிறேன்.",
+  "synonyms": [
+   "get up",
+   "rise"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "get dressed",
+  "tamil": "உடை அணி",
+  "pos": "phrase",
+  "pron": "get DREST",
+  "example": "Get dressed quickly, the bus is here.",
+  "exampleTamil": "சீக்கிரம் உடை மாற்றுங்கள், பேருந்து வந்துவிட்டது.",
+  "synonyms": [
+   "put on clothes"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "freshen up",
+  "tamil": "முகம் கழுவி புத்துணர்வாகு",
+  "pos": "phrasal verb",
+  "pron": "FRESH-un UP",
+  "example": "Let me freshen up before dinner.",
+  "exampleTamil": "இரவு உணவுக்கு முன் நான் முகம் கழுவி வருகிறேன்.",
+  "synonyms": [
+   "wash up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tidy up",
+  "tamil": "ஒழுங்குபடுத்து",
+  "pos": "phrasal verb",
+  "pron": "TY-dee UP",
+  "example": "Please tidy up your toys before bed.",
+  "exampleTamil": "தூங்குவதற்கு முன் உன் பொம்மைகளை ஒழுங்குபடுத்து.",
+  "synonyms": [
+   "clean up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clean up",
+  "tamil": "சுத்தம் செய்",
+  "pos": "phrasal verb",
+  "pron": "KLEEN UP",
+  "example": "We clean up the house on Saturdays.",
+  "exampleTamil": "நாங்கள் சனிக்கிழமைகளில் வீட்டைச் சுத்தம் செய்கிறோம்.",
+  "synonyms": [
+   "tidy",
+   "wash up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wash up",
+  "tamil": "பாத்திரம் கழுவு",
+  "pos": "phrasal verb",
+  "pron": "WOSH UP",
+  "example": "I will wash up after dinner.",
+  "exampleTamil": "இரவு உணவுக்குப் பிறகு நான் பாத்திரங்களைக் கழுவுவேன்.",
+  "synonyms": [
+   "do the dishes"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cook up",
+  "tamil": "அவசரமாகச் சமைத்துவிடு",
+  "pos": "phrasal verb",
+  "pron": "KUK UP",
+  "example": "Mom can cook up a meal in minutes.",
+  "exampleTamil": "அம்மா நிமிடங்களில் ஒரு உணவை சமைத்துவிடுவார்.",
+  "synonyms": [
+   "prepare",
+   "whip up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "eat out",
+  "tamil": "வெளியே சாப்பிடு",
+  "pos": "phrasal verb",
+  "pron": "EET OWT",
+  "example": "We eat out once a month.",
+  "exampleTamil": "நாங்கள் மாதத்திற்கு ஒருமுறை வெளியே சாப்பிடுகிறோம்.",
+  "synonyms": [
+   "dine out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "run out of",
+  "tamil": "தீர்ந்துபோ",
+  "pos": "phrasal verb",
+  "pron": "RUN OWT uv",
+  "example": "We have run out of rice again.",
+  "exampleTamil": "எங்களுக்கு மீண்டும் அரிசி தீர்ந்துவிட்டது.",
+  "synonyms": [
+   "use up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "drop off",
+  "tamil": "இறக்கிவிடு",
+  "pos": "phrasal verb",
+  "pron": "DROP OF",
+  "example": "I drop off my daughter at school.",
+  "exampleTamil": "நான் என் மகளை பள்ளியில் இறக்கிவிடுகிறேன்.",
+  "synonyms": [
+   "leave",
+   "deliver"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "come down with",
+  "tamil": "நோய்வாய்ப்படு",
+  "pos": "phrasal verb",
+  "pron": "KUM DOWN with",
+  "example": "She may come down with a fever tonight.",
+  "exampleTamil": "இன்றிரவு அவளுக்குக் காய்ச்சல் வரக்கூடும்.",
+  "synonyms": [
+   "catch",
+   "fall ill with"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "get over",
+  "tamil": "குணமடைந்து மீள்",
+  "pos": "phrasal verb",
+  "pron": "GET OH-vur",
+  "example": "It took him a week to get over the flu.",
+  "exampleTamil": "காய்ச்சலிலிருந்து மீள அவனுக்கு ஒரு வாரம் ஆனது.",
+  "synonyms": [
+   "recover from"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "catch up",
+  "tamil": "நீண்ட நாள் கழித்துப் பேசு",
+  "pos": "phrasal verb",
+  "pron": "KACH UP",
+  "example": "Let us catch up over tea this weekend.",
+  "exampleTamil": "இந்த வார இறுதியில் தேநீரோடு பேசி மகிழ்வோம்.",
+  "synonyms": [
+   "reconnect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hang out",
+  "tamil": "நண்பர்களுடன் நேரம் செலவிடு",
+  "pos": "phrasal verb",
+  "pron": "HANG OWT",
+  "example": "Teenagers like to hang out at the mall.",
+  "exampleTamil": "பதின்பருவத்தினர் வணிக வளாகத்தில் நேரம் செலவிட விரும்புகிறார்கள்.",
+  "synonyms": [
+   "spend time",
+   "chill"
+  ],
+  "level": "intermediate"
+ }
+]

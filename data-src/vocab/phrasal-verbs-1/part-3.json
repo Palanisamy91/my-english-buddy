@@ -1,0 +1,352 @@
+[
+ {
+  "word": "iron out",
+  "meaning": "to solve small problems in a plan",
+  "tamil": "சிறிய சிக்கல்களைத் தீர்",
+  "pos": "phrasal verb",
+  "pron": "EYE-urn owt",
+  "example": "We need to iron out a few issues before launch.",
+  "exampleTamil": "வெளியீட்டுக்கு முன் சில சிறிய பிரச்சனைகளை நாம் தீர்க்க வேண்டும்.",
+  "synonyms": [
+   "resolve",
+   "fix"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stir up",
+  "meaning": "to cause trouble or strong feelings",
+  "tamil": "பிரச்சனையைக் கிளப்பு",
+  "pos": "phrasal verb",
+  "pron": "stur UP",
+  "example": "His speech stirred up anger among the crowd.",
+  "exampleTamil": "அவன் பேச்சு கூட்டத்தில் கோபத்தைக் கிளப்பியது.",
+  "synonyms": [
+   "provoke",
+   "incite"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "eat up",
+  "meaning": "to finish all of your food",
+  "tamil": "முழுவதும் சாப்பிட்டு முடி",
+  "pos": "phrasal verb",
+  "pron": "eet UP",
+  "example": "Eat up your rice, then you can go and play.",
+  "exampleTamil": "சாதத்தை முழுவதும் சாப்பிடு, பிறகு விளையாடப் போகலாம்.",
+  "synonyms": [
+   "finish",
+   "clear"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "play down",
+  "meaning": "to make something seem less important",
+  "tamil": "முக்கியத்துவத்தைக் குறைத்துக் காட்டு",
+  "pos": "phrasal verb",
+  "pron": "play DOWN",
+  "example": "The doctor played down the risk to calm him.",
+  "exampleTamil": "மருத்துவர் அவரை அமைதிப்படுத்த ஆபத்தைக் குறைத்துக் கூறினார்.",
+  "synonyms": [
+   "downplay",
+   "minimize"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tip off",
+  "meaning": "to secretly give someone useful information",
+  "tamil": "ரகசியமாக தகவல் கொடு",
+  "pos": "phrasal verb",
+  "pron": "tip OFF",
+  "example": "Someone tipped off the police about the theft.",
+  "exampleTamil": "யாரோ திருட்டு பற்றி போலீசுக்கு ரகசியமாக தகவல் கொடுத்தார்கள்.",
+  "synonyms": [
+   "warn",
+   "alert"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "back out",
+  "meaning": "to decide not to do something you promised",
+  "tamil": "வாக்குறுதியிலிருந்து பின்வாங்கு",
+  "pos": "phrasal verb",
+  "pron": "bak OWT",
+  "example": "He backed out of the deal at the last minute.",
+  "exampleTamil": "கடைசி நேரத்தில் அவன் ஒப்பந்தத்திலிருந்து பின்வாங்கினான்.",
+  "synonyms": [
+   "withdraw",
+   "pull out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wipe out",
+  "meaning": "to destroy or remove completely",
+  "tamil": "முற்றிலும் அழி",
+  "pos": "phrasal verb",
+  "pron": "wyp OWT",
+  "example": "The flood wiped out many small villages.",
+  "exampleTamil": "வெள்ளம் பல சிறிய கிராமங்களை முற்றிலும் அழித்தது.",
+  "synonyms": [
+   "destroy",
+   "erase"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "get off",
+  "meaning": "to leave a bus, train or plane",
+  "tamil": "(பேருந்து, ரயிலிலிருந்து) இறங்கு",
+  "pos": "phrasal verb",
+  "pron": "get OFF",
+  "example": "Please get off at the next stop.",
+  "exampleTamil": "தயவுசெய்து அடுத்த நிறுத்தத்தில் இறங்குங்கள்.",
+  "synonyms": [
+   "alight",
+   "step off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fit in",
+  "meaning": "to feel accepted as part of a group",
+  "tamil": "குழுவில் ஒத்துப்போ",
+  "pos": "phrasal verb",
+  "pron": "fit IN",
+  "example": "She quickly fit in with her new classmates.",
+  "exampleTamil": "அவள் புதிய வகுப்புத் தோழர்களுடன் சீக்கிரம் ஒத்துப்போனாள்.",
+  "synonyms": [
+   "belong",
+   "blend in"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pin down",
+  "meaning": "to find out exactly what something is",
+  "tamil": "துல்லியமாகக் கண்டறி",
+  "pos": "phrasal verb",
+  "pron": "pin DOWN",
+  "example": "I cannot pin down the cause of this noise.",
+  "exampleTamil": "இந்த சத்தத்தின் காரணத்தை என்னால் துல்லியமாகக் கண்டறிய முடியவில்லை.",
+  "synonyms": [
+   "identify",
+   "pinpoint"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "move on",
+  "meaning": "to leave the past and go forward",
+  "tamil": "முன்னேறிச் செல்",
+  "pos": "phrasal verb",
+  "pron": "moov ON",
+  "example": "It is time to move on and start a new job.",
+  "exampleTamil": "முன்னேறிச் சென்று புதிய வேலையைத் தொடங்க வேண்டிய நேரம் இது.",
+  "synonyms": [
+   "go ahead",
+   "progress"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mark down",
+  "meaning": "to reduce the price of something",
+  "tamil": "விலையைக் குறை",
+  "pos": "phrasal verb",
+  "pron": "mark DOWN",
+  "example": "The shop marked down all shirts by thirty percent.",
+  "exampleTamil": "கடை எல்லா சட்டைகளின் விலையையும் முப்பது சதவீதம் குறைத்தது.",
+  "synonyms": [
+   "discount",
+   "reduce"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fight off",
+  "meaning": "to push away an illness or an attack",
+  "tamil": "எதிர்த்துப் போராடி விரட்டு",
+  "pos": "phrasal verb",
+  "pron": "fyt OFF",
+  "example": "Good food helps your body fight off infections.",
+  "exampleTamil": "நல்ல உணவு உங்கள் உடல் நோய்த்தொற்றுகளை எதிர்த்துப் போராட உதவும்.",
+  "synonyms": [
+   "resist",
+   "repel"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sum up",
+  "meaning": "To give the main points of something briefly",
+  "tamil": "முக்கிய விஷயங்களை சுருக்கமாகச் சொல்லுதல்",
+  "pos": "phrasal verb",
+  "pron": "SUM up",
+  "example": "Can you sum up the meeting in two lines?",
+  "exampleTamil": "கூட்டத்தை இரண்டு வரிகளில் சுருக்கிச் சொல்ல முடியுமா?",
+  "synonyms": [
+   "summarize",
+   "recap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stock up",
+  "meaning": "to buy a large supply of something",
+  "tamil": "அதிகமாக வாங்கி சேமி",
+  "pos": "phrasal verb",
+  "pron": "stok UP",
+  "example": "We stocked up on rice before the festival.",
+  "exampleTamil": "பண்டிகைக்கு முன் நாங்கள் அரிசியை அதிகமாக வாங்கி வைத்தோம்.",
+  "synonyms": [
+   "store",
+   "save up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "go down",
+  "meaning": "to become lower or to move to a lower place",
+  "tamil": "கீழே போ; குறை",
+  "pos": "phrasal verb",
+  "pron": "goh DOWN",
+  "example": "The price of onions will go down next week.",
+  "exampleTamil": "அடுத்த வாரம் வெங்காய விலை குறையும்.",
+  "synonyms": [
+   "decrease",
+   "drop"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "call out",
+  "meaning": "to shout or to point out someone's mistake",
+  "tamil": "உரக்க கூப்பிடு; தவறைச் சுட்டிக்காட்டு",
+  "pos": "phrasal verb",
+  "pron": "kawl OWT",
+  "example": "The manager called out the error in my report.",
+  "exampleTamil": "மேலாளர் என் அறிக்கையில் இருந்த தவறைச் சுட்டிக்காட்டினார்.",
+  "synonyms": [
+   "shout",
+   "criticize"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dish out",
+  "meaning": "to give out something in large amounts",
+  "tamil": "அள்ளிக்கொடு; வழங்கு",
+  "pos": "phrasal verb",
+  "pron": "dish OWT",
+  "example": "The coach dishes out advice to every new player.",
+  "exampleTamil": "பயிற்சியாளர் ஒவ்வொரு புதிய வீரருக்கும் அறிவுரைகளை வழங்குகிறார்.",
+  "synonyms": [
+   "hand out",
+   "serve"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fall off",
+  "meaning": "to drop from something such as a bike or table",
+  "tamil": "கீழே விழு",
+  "pos": "phrasal verb",
+  "pron": "fawl OFF",
+  "example": "Be careful, you can fall off the cycle here.",
+  "exampleTamil": "கவனமாக இருங்கள், இங்கே சைக்கிளில் இருந்து கீழே விழலாம்.",
+  "synonyms": [
+   "drop off",
+   "tumble"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "leave out",
+  "meaning": "to not include someone or something",
+  "tamil": "விட்டுவிடு; சேர்க்காமல் இரு",
+  "pos": "phrasal verb",
+  "pron": "leev OWT",
+  "example": "Please do not leave out my name from the list.",
+  "exampleTamil": "தயவுசெய்து என் பெயரை பட்டியலில் இருந்து விட்டுவிடாதீர்கள்.",
+  "synonyms": [
+   "omit",
+   "exclude"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "zone out",
+  "meaning": "to stop paying attention",
+  "tamil": "கவனம் இழந்துவிடு",
+  "pos": "phrasal verb",
+  "pron": "zohn OWT",
+  "example": "I zoned out during the long lecture.",
+  "exampleTamil": "நீண்ட விரிவுரையின்போது நான் கவனம் இழந்துவிட்டேன்.",
+  "synonyms": [
+   "space out",
+   "switch off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stay up",
+  "meaning": "to not go to bed at night",
+  "tamil": "இரவில் தூங்காமல் விழித்திரு",
+  "pos": "phrasal verb",
+  "pron": "stay UP",
+  "example": "I stayed up late to finish my homework.",
+  "exampleTamil": "வீட்டுப்பாடத்தை முடிக்க நான் இரவு தாமதமாக வரை விழித்திருந்தேன்.",
+  "synonyms": [
+   "stay awake",
+   "wait up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sell out",
+  "meaning": "to sell everything so none is left",
+  "tamil": "அனைத்தும் விற்றுத் தீர்",
+  "pos": "phrasal verb",
+  "pron": "sel OWT",
+  "example": "Tickets sell out within an hour for big matches.",
+  "exampleTamil": "பெரிய போட்டிகளுக்கு டிக்கெட்டுகள் ஒரு மணி நேரத்தில் விற்றுத் தீர்ந்துவிடும்.",
+  "synonyms": [
+   "run out",
+   "exhaust"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "come out",
+  "meaning": "to leave a place or appear outside",
+  "tamil": "வெளியே வா",
+  "pos": "phrasal verb",
+  "pron": "kum OWT",
+  "example": "The children come out to play after the rain.",
+  "exampleTamil": "மழைக்குப் பிறகு குழந்தைகள் விளையாட வெளியே வருகிறார்கள்.",
+  "synonyms": [
+   "emerge",
+   "appear"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "break out",
+  "meaning": "to start suddenly, like a fire or a fight",
+  "tamil": "திடீரென ஆரம்பி",
+  "pos": "phrasal verb",
+  "pron": "brayk OWT",
+  "example": "A fire can break out in a crowded market.",
+  "exampleTamil": "நெரிசலான சந்தையில் தீ பரவ வாய்ப்புள்ளது.",
+  "synonyms": [
+   "erupt",
+   "start"
+  ],
+  "level": "intermediate"
+ }
+]

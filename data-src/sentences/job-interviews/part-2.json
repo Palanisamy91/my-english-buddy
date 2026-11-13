@@ -1,0 +1,371 @@
+[
+ {
+  "en": "I want this job because your company has a good name for training freshers.",
+  "tamil": "ஃப்ரெஷர்ஸுக்கு நல்லா ட்ரெயினிங் குடுக்கறதுல உங்க கம்பெனிக்கு நல்ல பேரு இருக்கறதால இந்த வேலை வேணும்.",
+  "context": "Explaining why you want the job as a fresher.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Because' gives the reason. 'Has a good name for' means is known well for something.",
+  "words": [
+   "training",
+   "freshers"
+  ],
+  "usage": "A freshers' answer to why they chose this company.",
+  "leelaQ": "Why do you like the company you want to work for?",
+  "answer": "I like it because it gives good training and growth."
+ },
+ {
+  "en": "I have read about your company, and I like the way you treat employees.",
+  "tamil": "உங்க கம்பெனியைப் பத்தி படிச்சேன், நீங்க ஊழியர்களை நடத்தற விதம் எனக்குப் பிடிச்சிருக்கு.",
+  "context": "Showing that you did your homework before the interview.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have read' shows you did it before now. 'The way you treat' means how you behave with people.",
+  "words": [
+   "treat",
+   "employees"
+  ],
+  "usage": "It shows the interviewer that you prepared and that you respect the company.",
+  "leelaQ": "What do you look for in a good company?",
+  "answer": "I look for a company that respects its employees."
+ },
+ {
+  "en": "Why did you leave your previous job?",
+  "tamil": "உங்க முந்தைய வேலையை ஏன் விட்டீங்க?",
+  "context": "The interviewer asks about your last job.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did' + base verb for past questions. 'Previous' means the one before this.",
+  "words": [
+   "previous"
+  ],
+  "usage": "Experienced candidates always get this question, so answer it positively.",
+  "leelaQ": "Why did you leave your last place of work or study?",
+  "answer": "I left because I wanted to learn something new."
+ },
+ {
+  "en": "I left because I wanted more chances to learn new things.",
+  "tamil": "புதுசா கத்துக்க இன்னும் நிறைய வாய்ப்பு வேணும்னு விட்டேன்.",
+  "context": "Giving a positive reason for changing jobs.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "A positive reason without blaming the old company. 'Chances' here means opportunities.",
+  "words": [
+   "chances",
+   "learn"
+  ],
+  "usage": "A safe and polite answer when asked why you changed your job.",
+  "leelaQ": "What new thing do you want to learn this year?",
+  "answer": "I want to learn how to use data tools at work."
+ },
+ {
+  "en": "I did not leave because of any problem with my manager.",
+  "tamil": "என் மேனேஜரோட எந்த பிரச்சனையாலயும் நான் வேலையை விடல.",
+  "context": "Clearing a doubt about why you changed jobs.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not' + base verb is the past negative. 'Because of' is followed by a noun.",
+  "words": [
+   "manager",
+   "problem"
+  ],
+  "usage": "Use it to show you left on good terms with your old company.",
+  "leelaQ": "Did you have a good relationship with your last manager?",
+  "answer": "Yes, he was kind, and I learned a lot from him."
+ },
+ {
+  "en": "What were your main duties in your last company?",
+  "tamil": "உங்க கடைசி கம்பெனியில உங்களோட முக்கிய வேலைகள் என்ன?",
+  "context": "The interviewer asks about your past responsibilities.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Duties' means the tasks that are your responsibility. 'Were' goes with the plural 'duties'.",
+  "words": [
+   "duties"
+  ],
+  "usage": "Asked while checking your resume, to see what you actually did.",
+  "leelaQ": "What were your daily tasks in your last job or course?",
+  "answer": "I answered calls and updated the customer records."
+ },
+ {
+  "en": "I handled customer calls and prepared the daily sales report.",
+  "tamil": "கஸ்டமர் கால்ஸை கையாண்டேன், தினசரி விற்பனை ரிப்போர்ட்டும் தயார் பண்ணினேன்.",
+  "context": "Describing your work in the last company.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Two past actions joined by 'and'. 'Handled' means dealt with, and 'prepared' means made ready.",
+  "words": [
+   "handled",
+   "prepared",
+   "report"
+  ],
+  "usage": "Use short action sentences like this to describe your past duties.",
+  "leelaQ": "What reports or documents do you make at your work?",
+  "answer": "I make a weekly report and send it to my manager."
+ },
+ {
+  "en": "I am looking for a job where I can grow along with the company.",
+  "tamil": "கம்பெனியோட சேர்ந்து நானும் வளர முடியற ஒரு வேலையைத் தேடறேன்.",
+  "context": "Telling the interviewer what kind of job you want.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Looking for' means searching. 'Along with' means together with. It shows long term interest.",
+  "words": [
+   "looking for",
+   "grow"
+  ],
+  "usage": "Shows that you want a long career and not just a quick job.",
+  "leelaQ": "What kind of job are you looking for?",
+  "answer": "I am looking for a stable job with good learning chances."
+ },
+ {
+  "en": "Please have a look at my resume, sir.",
+  "tamil": "என் ரெஸ்யூமை ஒரு தடவை பாருங்க சார்.",
+  "context": "Handing your resume to the interviewer.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Have a look at' means to see something. 'Please' and 'sir' make the request polite.",
+  "words": [
+   "resume"
+  ],
+  "usage": "Say it when you hand over your file to the panel in the interview room.",
+  "leelaQ": "What do you carry with you when you go for an interview?",
+  "answer": "I carry my resume, my certificates and a pen."
+ },
+ {
+  "en": "Do you have any experience with Excel?",
+  "tamil": "உங்களுக்கு எக்செல்ல ஏதாவது அனுபவம் இருக்கா?",
+  "context": "The interviewer checks your computer skills.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Experience with' is followed by a tool or a skill. 'Any' is used in questions.",
+  "words": [
+   "experience",
+   "excel"
+  ],
+  "usage": "Asked for office, accounts and data jobs.",
+  "leelaQ": "Which computer programs can you use well?",
+  "answer": "I can use Word and Excel quite well."
+ },
+ {
+  "en": "Yes, I use Excel every day to track orders and make charts.",
+  "tamil": "ஆமா, ஆர்டர்களை டிராக் பண்ணவும் சார்ட் போடவும் நான் தினமும் எக்செல் பயன்படுத்தறேன்.",
+  "context": "Describing your Excel skills with a real example.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Every day' goes with the simple present for habits. 'To track' tells the purpose.",
+  "words": [
+   "track",
+   "orders",
+   "charts"
+  ],
+  "usage": "Give real examples of how you use a tool, not only its name.",
+  "leelaQ": "How often do you use a computer for your work?",
+  "answer": "I use it every day for emails and reports."
+ },
+ {
+  "en": "Have you worked on any live projects?",
+  "tamil": "நீங்க ஏதாவது லைவ் ப்ராஜெக்ட்ல வேலை செஞ்சிருக்கீங்களா?",
+  "context": "The interviewer asks a fresher about practical work.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "A 'live project' is real work for a real client, not only a college assignment.",
+  "words": [
+   "live projects"
+  ],
+  "usage": "Often asked in IT interviews to see if you have practical knowledge.",
+  "leelaQ": "Have you done any practical project in your studies?",
+  "answer": "Yes, I made a small billing app for a local shop."
+ },
+ {
+  "en": "I have done two live projects, and both were delivered on time.",
+  "tamil": "ரெண்டு லைவ் ப்ராஜெக்ட் பண்ணிருக்கேன், ரெண்டுமே சரியான நேரத்துல குடுத்துட்டோம்.",
+  "context": "Proving your work with results.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'On time' means not late. 'Were delivered' is passive and focuses on the project.",
+  "words": [
+   "delivered",
+   "on time"
+  ],
+  "usage": "Use numbers and results like this to make your answer more believable.",
+  "leelaQ": "Do you finish your work on time most days?",
+  "answer": "Yes, I plan my day so that I never miss a deadline."
+ },
+ {
+  "en": "I do not have much experience, but I learn very fast.",
+  "tamil": "எனக்கு அதிக அனுபவம் இல்ல, ஆனா ரொம்ப வேகமா கத்துக்குவேன்.",
+  "context": "Being honest as a fresher with a positive point.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Much' is used with negatives. 'But' brings a good point after a weak point.",
+  "words": [
+   "experience",
+   "fast"
+  ],
+  "usage": "A good answer when you are a fresher and the job needs experience.",
+  "leelaQ": "How quickly do you learn new things?",
+  "answer": "I learn quickly when I get a chance to practise."
+ },
+ {
+  "en": "When can you join us if we select you?",
+  "tamil": "நாங்க உங்களை செலக்ட் பண்ணா எப்போ ஜாயின் பண்ண முடியும்?",
+  "context": "HR asks about your joining date.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "This uses 'if' for a possible case. 'Select' is present tense, and 'can' asks about ability.",
+  "words": [
+   "join",
+   "select"
+  ],
+  "usage": "HR asks this at the end to know your notice period.",
+  "leelaQ": "How soon can you start a new job?",
+  "answer": "I can start within two weeks."
+ },
+ {
+  "en": "I can join within fifteen days of getting the offer letter.",
+  "tamil": "ஆஃபர் லெட்டர் கிடைச்சு பதினைஞ்சு நாளுக்குள்ள நான் ஜாயின் பண்ணுவேன்.",
+  "context": "Telling HR your joining time.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Within' means not later than. 'Of getting' is followed by an -ing word.",
+  "words": [
+   "join",
+   "offer letter"
+  ],
+  "usage": "Use it with HR when they ask about your notice period.",
+  "leelaQ": "How long is your notice period at your present job?",
+  "answer": "My notice period is one month."
+ },
+ {
+  "en": "Could you tell me what the next steps are?",
+  "tamil": "அடுத்து என்ன நடக்கும்னு சொல்ல முடியுமா?",
+  "context": "Asking about the hiring process at the end.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "After 'tell me', the word order is normal: 'what the steps are'. It is a polite indirect question.",
+  "words": [
+   "steps"
+  ],
+  "usage": "Ask it at the end of the interview to show interest in the process.",
+  "leelaQ": "What do you usually ask at the end of an interview?",
+  "answer": "I ask when I can expect to hear the result."
+ },
+ {
+  "en": "I am doing my notice period now, and it ends next month.",
+  "tamil": "இப்போ நோட்டீஸ் பீரியட்ல இருக்கேன், அது அடுத்த மாசம் முடியுது.",
+  "context": "Explaining your present job status to the HR person.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Notice period' is the time you work after you resign. 'Ends' uses present for a fixed time.",
+  "words": [
+   "notice period",
+   "ends"
+  ],
+  "usage": "Say it when HR asks if you are free to join now.",
+  "leelaQ": "Are you free to change jobs now or do you have to wait?",
+  "answer": "I have to wait for one more month."
+ },
+ {
+  "en": "What did you like most about your last job?",
+  "tamil": "உங்க கடைசி வேலையில உங்களுக்கு மிகவும் பிடிச்சது என்ன?",
+  "context": "The interviewer asks about the best part of your old job.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Most' shows the highest level. The answer should be positive and about work, not about money.",
+  "words": [
+   "like"
+  ],
+  "usage": "It is a friendly question to know what motivates you.",
+  "leelaQ": "What do you like best about your present work or studies?",
+  "answer": "I like the people and the things I learn every day."
+ },
+ {
+  "en": "I liked the team the most, because everyone helped each other.",
+  "tamil": "டீம் தான் எனக்கு ரொம்பப் பிடிச்சது, ஏன்னா எல்லாரும் ஒருத்தருக்கொருத்தர் உதவி செஞ்சாங்க.",
+  "context": "Answering what you liked in your old job.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Each other' is used when two or more people do the same thing to one another.",
+  "words": [
+   "team",
+   "helped"
+  ],
+  "usage": "A positive answer that shows you value teamwork.",
+  "leelaQ": "Who is the most helpful person at your work or college?",
+  "answer": "My friend Ravi is very helpful because he explains everything."
+ },
+ {
+  "en": "I have always wanted to work in the banking sector.",
+  "tamil": "எப்பவுமே பேங்கிங் துறையில வேலை செய்யணும்னு எனக்கு ஆசை.",
+  "context": "Showing your interest in a bank job.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have always wanted' shows a wish that started in the past and still continues.",
+  "words": [
+   "banking",
+   "sector"
+  ],
+  "usage": "Say it when the interviewer asks why you chose this field.",
+  "leelaQ": "Which field or industry do you want to work in?",
+  "answer": "I want to work in the IT field."
+ },
+ {
+  "en": "Could I get a few minutes to think about that question?",
+  "tamil": "அந்தக் கேள்வியைப் பத்தி யோசிக்க கொஞ்ச நேரம் கிடைக்குமா?",
+  "context": "Asking for time when a question is difficult.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could I ...?' is a polite way to ask for permission. It is fine to take a moment to think.",
+  "words": [
+   "minutes",
+   "think"
+  ],
+  "usage": "Use it politely instead of staying silent when you need time to answer.",
+  "leelaQ": "What do you do when you do not know the answer to a question?",
+  "answer": "I take a short pause and then try to answer calmly."
+ },
+ {
+  "en": "Please call me if you need any more documents.",
+  "tamil": "உங்களுக்கு இன்னும் ஏதாவது டாக்குமெண்ட்ஸ் வேணும்னா எனக்கு போன் பண்ணுங்க.",
+  "context": "Talking to HR after submitting your file.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' makes the sentence polite. 'If you need' gives the condition.",
+  "words": [
+   "documents"
+  ],
+  "usage": "Use it with HR when you submit your certificates or resume.",
+  "leelaQ": "What documents do you carry to an interview?",
+  "answer": "I carry my resume, certificates and an ID card."
+ },
+ {
+  "en": "I will join immediately if you select me.",
+  "tamil": "நீங்க என்னை செலக்ட் பண்ணா நான் உடனே சேர்ந்துடுவேன்.",
+  "context": "Telling the interviewer you can start soon.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' shows a promise. 'If' gives the condition for that promise.",
+  "words": [
+   "join",
+   "immediately"
+  ],
+  "usage": "Use it when the interviewer asks how soon you can start.",
+  "leelaQ": "When can you start a new job?",
+  "answer": "I can start next week after I give notice."
+ },
+ {
+  "en": "What are the working hours here?",
+  "tamil": "இங்க வேலை நேரம் என்ன?",
+  "context": "Asking about the office timing.",
+  "tense": "present",
+  "type": "question",
+  "explain": "This is a simple, useful question about the job details.",
+  "words": [
+   "working hours"
+  ],
+  "usage": "Use it with HR to ask about timings before accepting an offer.",
+  "leelaQ": "What working hours do you like?",
+  "answer": "I like to work from nine to six."
+ }
+]

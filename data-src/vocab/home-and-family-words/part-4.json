@@ -1,0 +1,352 @@
+[
+ {
+  "word": "engagement",
+  "meaning": "A formal promise to marry, or the ceremony for it.",
+  "tamil": "நிச்சயதார்த்தம்",
+  "pos": "noun",
+  "pron": "en-GAYJ-munt",
+  "example": "Their engagement is next month at her house.",
+  "exampleTamil": "அவர்களின் நிச்சயதார்த்தம் அடுத்த மாதம் அவள் வீட்டில் நடக்கிறது.",
+  "synonyms": [
+   "betrothal",
+   "pledge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "birthday",
+  "meaning": "The day each year when you were born.",
+  "tamil": "பிறந்தநாள்",
+  "pos": "noun",
+  "pron": "BURTH-day",
+  "example": "Tomorrow is my brother's birthday.",
+  "exampleTamil": "நாளை என் தம்பியின் பிறந்தநாள்.",
+  "synonyms": [
+   "born day",
+   "anniversary"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cake",
+  "meaning": "A sweet baked food, often eaten at celebrations.",
+  "tamil": "கேக்",
+  "pos": "noun",
+  "pron": "KAYK",
+  "example": "We cut a big chocolate cake at her party.",
+  "exampleTamil": "அவளுடைய விருந்தில் நாங்கள் ஒரு பெரிய சாக்லேட் கேக்கை வெட்டினோம்.",
+  "synonyms": [
+   "pastry",
+   "sponge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "housewarming",
+  "meaning": "A party when you move into a new home.",
+  "tamil": "புதுமனை புகுவிழா",
+  "pos": "noun",
+  "pron": "HOWS-war-ming",
+  "example": "You are invited to our housewarming on Sunday.",
+  "exampleTamil": "ஞாயிற்றுக்கிழமை நடக்கும் எங்கள் புதுமனை புகுவிழாவுக்கு உங்களை அழைக்கிறோம்.",
+  "synonyms": [
+   "new home party",
+   "gruhapravesam"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "baby shower",
+  "meaning": "A party held before a baby is born to give gifts.",
+  "tamil": "வளைகாப்பு",
+  "pos": "noun",
+  "pron": "BAY-bee SHOW-er",
+  "example": "Her friends planned a baby shower for her.",
+  "exampleTamil": "அவளுடைய நண்பர்கள் அவளுக்காக வளைகாப்பு ஏற்பாடு செய்தார்கள்.",
+  "synonyms": [
+   "bridal party",
+   "pregnancy party"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "funeral",
+  "meaning": "A ceremony held when a person has died.",
+  "tamil": "இறுதிச் சடங்கு",
+  "pos": "noun",
+  "pron": "FYOO-nur-ul",
+  "example": "The whole village attended the funeral.",
+  "exampleTamil": "ஊர் முழுவதும் இறுதிச் சடங்கில் கலந்துகொண்டது.",
+  "synonyms": [
+   "last rites",
+   "burial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "feast",
+  "meaning": "A large special meal for many people.",
+  "tamil": "விருந்து",
+  "pos": "noun",
+  "pron": "FEEST",
+  "example": "The family prepared a grand feast for the festival.",
+  "exampleTamil": "குடும்பம் திருவிழாவுக்காகப் பெரிய விருந்து தயாரித்தது.",
+  "synonyms": [
+   "banquet",
+   "big meal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "potluck",
+  "meaning": "A meal where each guest brings one dish.",
+  "tamil": "ஒவ்வொருவரும் உணவு கொண்டுவரும் விருந்து",
+  "pos": "noun",
+  "pron": "POT-luk",
+  "example": "Our neighbours organised a potluck on the terrace.",
+  "exampleTamil": "எங்கள் அண்டை வீட்டார் மொட்டை மாடியில் ஒரு பாட்லக் ஏற்பாடு செய்தார்கள்.",
+  "synonyms": [
+   "shared meal",
+   "community lunch"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "get-together",
+  "meaning": "A small friendly meeting of family or friends.",
+  "tamil": "சந்திப்பு / ஒன்றுகூடல்",
+  "pos": "noun",
+  "pron": "get-tuh-GETH-er",
+  "example": "We are having a small get-together at home tonight.",
+  "exampleTamil": "இன்று இரவு வீட்டில் ஒரு சிறிய ஒன்றுகூடல் நடத்துகிறோம்.",
+  "synonyms": [
+   "gathering",
+   "meet-up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "diya",
+  "meaning": "A small oil lamp lit during festivals.",
+  "tamil": "அகல் விளக்கு",
+  "pos": "noun",
+  "pron": "DEE-yah",
+  "example": "She lit a diya in front of the house.",
+  "exampleTamil": "அவள் வீட்டின் முன் ஒரு அகல் விளக்கை ஏற்றினாள்.",
+  "synonyms": [
+   "oil lamp",
+   "lamp"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rangoli",
+  "meaning": "A decorative pattern drawn on the floor with coloured powder.",
+  "tamil": "கோலம்",
+  "pos": "noun",
+  "pron": "run-GOH-lee",
+  "example": "The girls drew a colourful rangoli at the entrance.",
+  "exampleTamil": "பெண்கள் வாசலில் வண்ணக் கோலம் வரைந்தார்கள்.",
+  "synonyms": [
+   "kolam",
+   "floor art"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "garland",
+  "meaning": "A string of flowers worn or hung for decoration.",
+  "tamil": "மாலை",
+  "pos": "noun",
+  "pron": "GAR-lund",
+  "example": "The bride put a garland around the groom's neck.",
+  "exampleTamil": "மணமகள் மணமகன் கழுத்தில் மாலை அணிவித்தாள்.",
+  "synonyms": [
+   "wreath",
+   "flower chain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "take after",
+  "meaning": "To look or behave like an older family member.",
+  "tamil": "குடும்பத்தில் மூத்தவரைப் போல தோற்றத்தில் அல்லது குணத்தில் இருத்தல்",
+  "pos": "phrasal verb",
+  "pron": "TAYK AF-tur",
+  "example": "She takes after her mother in cooking and singing.",
+  "exampleTamil": "சமையலிலும் பாடுவதிலும் அவள் தன் அம்மாவைப் போலவே இருக்கிறாள்.",
+  "synonyms": [
+   "resemble",
+   "look like"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "puppy",
+  "meaning": "A young dog.",
+  "tamil": "நாய்க்குட்டி",
+  "pos": "noun",
+  "pron": "PUP-ee",
+  "example": "The puppy follows my little sister everywhere.",
+  "exampleTamil": "நாய்க்குட்டி என் தங்கையை எங்கும் பின்தொடர்கிறது.",
+  "synonyms": [
+   "young dog",
+   "pup"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "kitten",
+  "meaning": "A young cat.",
+  "tamil": "பூனைக்குட்டி",
+  "pos": "noun",
+  "pron": "KIT-un",
+  "example": "Our kitten loves to chase a ball of wool.",
+  "exampleTamil": "எங்கள் பூனைக்குட்டி கம்பளி உருண்டையைத் துரத்த விரும்புகிறது.",
+  "synonyms": [
+   "young cat",
+   "kitty"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "leash",
+  "meaning": "A strap used to hold and walk a dog.",
+  "tamil": "நாய்க் கயிறு",
+  "pos": "noun",
+  "pron": "LEESH",
+  "example": "Please keep your dog on a leash in the park.",
+  "exampleTamil": "தயவுசெய்து பூங்காவில் உங்கள் நாயைக் கயிற்றில் பிடித்துக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "lead",
+   "strap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "parrot",
+  "meaning": "A colourful bird that can copy human words.",
+  "tamil": "கிளி",
+  "pos": "noun",
+  "pron": "PAIR-ut",
+  "example": "Our parrot says good morning every day.",
+  "exampleTamil": "எங்கள் கிளி தினமும் காலை வணக்கம் சொல்கிறது.",
+  "synonyms": [
+   "bird",
+   "talking bird"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cage",
+  "meaning": "A box made of bars to keep birds or animals in.",
+  "tamil": "கூண்டு",
+  "pos": "noun",
+  "pron": "KAYJ",
+  "example": "The bird flew out when the cage door opened.",
+  "exampleTamil": "கூண்டின் கதவு திறந்ததும் பறவை பறந்து போனது.",
+  "synonyms": [
+   "enclosure",
+   "coop"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "vet",
+  "meaning": "A doctor who treats animals.",
+  "tamil": "கால்நடை மருத்துவர்",
+  "pos": "noun",
+  "pron": "VET",
+  "example": "We took our dog to the vet for an injection.",
+  "exampleTamil": "நாங்கள் எங்கள் நாயை ஊசி போட கால்நடை மருத்துவரிடம் அழைத்துச் சென்றோம்.",
+  "synonyms": [
+   "animal doctor",
+   "veterinarian"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stray",
+  "meaning": "Without a home, such as an animal that wanders alone.",
+  "tamil": "தெருவில் திரிகிற",
+  "pos": "adjective",
+  "pron": "STRAY",
+  "example": "A stray dog sleeps outside our gate every night.",
+  "exampleTamil": "ஒரு தெருநாய் ஒவ்வொரு இரவும் எங்கள் கேட் வெளியே தூங்குகிறது.",
+  "synonyms": [
+   "homeless",
+   "wandering"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bark",
+  "meaning": "To make the loud sound a dog makes.",
+  "tamil": "குரை",
+  "pos": "verb",
+  "pron": "BARK",
+  "example": "The neighbour's dog barks at strangers all day.",
+  "exampleTamil": "அண்டை வீட்டு நாய் நாள் முழுவதும் அந்நியர்களைப் பார்த்துக் குரைக்கிறது.",
+  "synonyms": [
+   "woof",
+   "yap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "aquarium",
+  "meaning": "A glass tank where fish are kept.",
+  "tamil": "மீன் தொட்டி",
+  "pos": "noun",
+  "pron": "uh-KWAIR-ee-um",
+  "example": "We bought a small aquarium with six goldfish.",
+  "exampleTamil": "நாங்கள் ஆறு தங்க மீன்களுடன் ஒரு சிறிய மீன் தொட்டி வாங்கினோம்.",
+  "synonyms": [
+   "fish tank",
+   "fishbowl"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hamster",
+  "meaning": "A small furry pet animal with a short tail.",
+  "tamil": "வெள்ளெலி",
+  "pos": "noun",
+  "pron": "HAM-ster",
+  "example": "My son wants a pet hamster for his birthday.",
+  "exampleTamil": "என் மகன் பிறந்தநாளுக்குச் செல்ல வெள்ளெலி கேட்கிறான்.",
+  "synonyms": [
+   "rodent",
+   "small pet"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tail",
+  "meaning": "The part at the back of an animal's body.",
+  "tamil": "வால்",
+  "pos": "noun",
+  "pron": "TAYL",
+  "example": "The dog wagged its tail when I came home.",
+  "exampleTamil": "நான் வீட்டுக்கு வந்ததும் நாய் தன் வாலை ஆட்டியது.",
+  "synonyms": [
+   "rear end",
+   "brush"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "watchman",
+  "meaning": "A person who guards a building or area.",
+  "tamil": "காவலாளி",
+  "pos": "noun",
+  "pron": "WOCH-mun",
+  "example": "The watchman opens the gate for every visitor.",
+  "exampleTamil": "காவலாளி ஒவ்வொரு பார்வையாளருக்கும் கேட்டைத் திறக்கிறார்.",
+  "synonyms": [
+   "guard",
+   "security guard"
+  ],
+  "level": "beginner"
+ }
+]

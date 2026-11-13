@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Never leave your studies for the last minute.",
+  "tamil": "படிப்பை எப்பவும் கடைசி நிமிஷத்துக்கு விட்டுடாதே.",
+  "context": "Advising a younger student.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Never' + verb is a strong negative command. 'Last minute' means at the end.",
+  "words": [
+   "never",
+   "last minute"
+  ],
+  "usage": "Use it as advice for a junior or your own children.",
+  "leelaQ": "Do you finish your work early or at the last minute?",
+  "answer": "I try to finish early, but sometimes I am late."
+ },
+ {
+  "en": "Take a five minute break and then continue studying.",
+  "tamil": "ஐந்து நிமிஷம் ஓய்வு எடுத்துட்டு அப்புறம் படிப்பை தொடரு.",
+  "context": "Advising a friend who looks tired.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Take a break' is a fixed phrase. 'Then' joins the next action.",
+  "words": [
+   "break",
+   "continue"
+  ],
+  "usage": "Use it with a friend or a child who has studied for long.",
+  "leelaQ": "What do you do in a short break?",
+  "answer": "I drink tea and walk for a few minutes."
+ },
+ {
+  "en": "I joined an evening class to improve my spoken English.",
+  "tamil": "என் பேச்சு இங்கிலீஷை மேம்படுத்த நான் ஒரு ஈவ்னிங் கிளாஸ்ல சேர்ந்தேன்.",
+  "context": "Telling someone why you started a class.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'To improve' gives the purpose. 'Spoken English' means speaking skill.",
+  "words": [
+   "improve",
+   "spoken"
+  ],
+  "usage": "Use it when friends ask why you go out every evening.",
+  "leelaQ": "Why do you want to improve your English?",
+  "answer": "I want a better job and more confidence."
+ },
+ {
+  "en": "Is the project deadline this Friday?",
+  "tamil": "ப்ராஜெக்ட் டெட்லைன் இந்த வெள்ளிக்கிழமையா?",
+  "context": "Confirming with a team member.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A question with 'is' can be answered with yes or no.",
+  "words": [
+   "deadline",
+   "project"
+  ],
+  "usage": "Use it with team members or the guide to avoid confusion.",
+  "leelaQ": "How do you manage a deadline?",
+  "answer": "I split the work into small parts and finish one each day."
+ },
+ {
+  "en": "We will have a revision test on Monday.",
+  "tamil": "எங்களுக்கு திங்கள்கிழமை ஒரு ரிவிஷன் டெஸ்ட் இருக்கு.",
+  "context": "Reminding classmates.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will have' is used for planned events. 'On' goes with days.",
+  "words": [
+   "revision",
+   "test"
+  ],
+  "usage": "Use it to remind classmates or children about the next test.",
+  "leelaQ": "What day is the hardest for you in a week?",
+  "answer": "Monday is hardest because I wake up late."
+ },
+ {
+  "en": "She teaches maths in a government school.",
+  "tamil": "அவங்க அரசு பள்ளியில கணக்கு பாடம் எடுக்குறாங்க.",
+  "context": "Introducing a teacher to a guest.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Teaches' takes -es after 'she'. 'In a school' tells the workplace.",
+  "words": [
+   "teaches",
+   "government"
+  ],
+  "usage": "Use it when you tell someone about a relative's job.",
+  "leelaQ": "What does your family do for a living?",
+  "answer": "My father is a farmer and my mother is a teacher."
+ },
+ {
+  "en": "What did you score in the unit test?",
+  "tamil": "யூனிட் டெஸ்ட்ல நீ எவ்வளவு மார்க் வாங்கின?",
+  "context": "Asking a friend after the results.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Score' is used for marks. 'Did' makes the past question.",
+  "words": [
+   "score",
+   "unit test"
+  ],
+  "usage": "Use it casually with classmates after marks are given.",
+  "leelaQ": "Are you happy with your marks?",
+  "answer": "Yes, I am happy because I studied well."
+ },
+ {
+  "en": "Small goals make a big study plan easy to follow.",
+  "tamil": "சின்ன இலக்குகள் பெரிய படிப்பு திட்டத்தை பின்பற்ற சுலபமாக்கும்.",
+  "context": "Giving advice to a junior.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Make something easy' means to cause it to become easy.",
+  "words": [
+   "goals",
+   "easy"
+  ],
+  "usage": "Use it when you guide a younger student or a learner.",
+  "leelaQ": "What small goal can you set for this week?",
+  "answer": "I will learn five new words every day."
+ },
+ {
+  "en": "Please help me prepare for tomorrow's presentation.",
+  "tamil": "நாளைய ப்ரசன்டேஷனுக்கு நான் தயாராக உதவுங்க.",
+  "context": "Asking a friend or a senior.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Help me + verb' is a common pattern. 'Tomorrow's' is the possessive form.",
+  "words": [
+   "prepare",
+   "presentation"
+  ],
+  "usage": "Use it with a senior or a friend who is good at speaking.",
+  "leelaQ": "Who helps you when you have an important task?",
+  "answer": "My friend helps me with ideas and practice."
+ },
+ {
+  "en": "The headmaster announced the exam dates this morning.",
+  "tamil": "ஹெட்மாஸ்டர் இன்னைக்கு காலையில தேர்வு தேதிகளை அறிவிச்சாரு.",
+  "context": "Sharing school news with a parent.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Announced' means told everyone officially. 'This morning' is a past time.",
+  "words": [
+   "headmaster",
+   "announced"
+  ],
+  "usage": "Use it with a parent or a friend when the exam schedule is out.",
+  "leelaQ": "Which exam date worries you the most?",
+  "answer": "The maths exam worries me the most."
+ },
+ {
+  "en": "I wasn't able to finish the syllabus on time.",
+  "tamil": "என்னால சிலபஸை நேரத்துக்கு முடிக்க முடியல.",
+  "context": "Explaining a bad result.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Wasn't able to' is a past form of 'can't'. 'On time' means by the correct time.",
+  "words": [
+   "able",
+   "syllabus"
+  ],
+  "usage": "Use it when you explain to a parent or a teacher why you did not do well.",
+  "leelaQ": "What stops you from finishing your work on time?",
+  "answer": "Too many other jobs stop me from finishing."
+ },
+ {
+  "en": "Are you going to attend the extra class on Sunday?",
+  "tamil": "நீ ஞாயிற்றுக்கிழமை எக்ஸ்ட்ரா கிளாஸுக்கு வரப் போறியா?",
+  "context": "Asking a classmate.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Attend' is used for classes and events. 'Going to' asks about the plan.",
+  "words": [
+   "attend",
+   "extra class"
+  ],
+  "usage": "Use it to check with a friend if they will come for a special class.",
+  "leelaQ": "How do you spend your Sundays?",
+  "answer": "I rest, do my laundry, and watch a movie."
+ },
+ {
+  "en": "I will join a coaching centre after my twelfth.",
+  "tamil": "நான் பன்னிரண்டாம் வகுப்புக்கு அப்புறம் ஒரு கோச்சிங் சென்டர்ல சேருவேன்.",
+  "context": "Telling a relative your future plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'After my twelfth' is common Indian English for after class 12.",
+  "words": [
+   "coaching",
+   "twelfth"
+  ],
+  "usage": "Use it when relatives ask what you plan after school.",
+  "leelaQ": "What will you do after your studies?",
+  "answer": "I will look for a job in a software company."
+ },
+ {
+  "en": "Our lab assistant showed us how to use the microscope.",
+  "tamil": "எங்க லேப் அசிஸ்டென்ட் மைக்ரோஸ்கோப்பை எப்படி பயன்படுத்தணும்னு காட்டினாரு.",
+  "context": "Describing a practical class.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Showed us how to + verb' explains a demonstration.",
+  "words": [
+   "assistant",
+   "microscope"
+  ],
+  "usage": "Use it when you tell a parent about what you did in the lab.",
+  "leelaQ": "What was the most interesting class you ever had?",
+  "answer": "The most interesting class was a science experiment."
+ },
+ {
+  "en": "Do you prefer studying alone or in a group?",
+  "tamil": "நீ தனியா படிக்கிறதை விரும்புவியா இல்ல குரூப்பாவா?",
+  "context": "Starting a study chat.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Prefer' is followed by -ing. 'Or' gives two choices.",
+  "words": [
+   "prefer",
+   "alone"
+  ],
+  "usage": "Use it with new friends to learn about their study style.",
+  "leelaQ": "Why do you prefer that way?",
+  "answer": "I prefer it because I can focus better."
+ },
+ {
+  "en": "Let us make a study plan for this month.",
+  "tamil": "இந்த மாசத்துக்கு ஒரு படிப்பு திட்டம் போடலாம்.",
+  "context": "Suggesting to a friend.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let us' invites someone to do something together.",
+  "words": [
+   "study plan",
+   "month"
+  ],
+  "usage": "Use it with a friend or a sibling to start planning together.",
+  "leelaQ": "What is one thing you want to finish this month?",
+  "answer": "I want to finish a small online course this month."
+ },
+ {
+  "en": "I am doing my MBA through distance education.",
+  "tamil": "நான் தொலைதூர கல்வி மூலமா என் எம்பிஏ படிச்சிட்டு இருக்கேன்.",
+  "context": "Telling a colleague about studies.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Through' shows the method. 'Am doing' shows a longer ongoing task.",
+  "words": [
+   "distance",
+   "education"
+  ],
+  "usage": "Use it with colleagues when you work and study together.",
+  "leelaQ": "Do you want to study more while working?",
+  "answer": "Yes, I want to do a course on weekends."
+ },
+ {
+  "en": "I have booked my seat for the entrance exam.",
+  "tamil": "நான் நுழைவுத் தேர்வுக்கு என் இடத்தை பதிவு பண்ணிட்டேன்.",
+  "context": "Telling a friend about registration.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have booked' shows the work is done and ready now. 'Entrance exam' tests you to enter a college.",
+  "words": [
+   "booked",
+   "entrance"
+  ],
+  "usage": "Use it when your friends ask about the exam registration.",
+  "leelaQ": "Have you registered for any exam recently?",
+  "answer": "Yes, I registered for a typing test last month."
+ },
+ {
+  "en": "Why are you learning Angular?",
+  "tamil": "நீ ஏன் ஆங்குலர் கத்துக்கிட்டு இருக்க?",
+  "context": "A friend asks about your new skill.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Why' asks for a reason. Answer with 'because' or 'to'.",
+  "words": [
+   "learning",
+   "angular"
+  ],
+  "usage": "Use it with a colleague or a friend who is starting a new course.",
+  "leelaQ": "What do you want to build with it?",
+  "answer": "I want to build a small app for practising English."
+ },
+ {
+  "en": "Every Saturday, we have a small quiz in class.",
+  "tamil": "ஒவ்வொரு சனிக்கிழமையும் நாங்க கிளாஸ்ல ஒரு சின்ன க்விஸ் வைப்போம்.",
+  "context": "Describing a class routine.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Every Saturday' at the start shows a regular habit.",
+  "words": [
+   "quiz",
+   "class"
+  ],
+  "usage": "Use it to explain your weekly class routine to a new friend.",
+  "leelaQ": "Do you enjoy quizzes?",
+  "answer": "Yes, I enjoy them because they make learning fun."
+ },
+ {
+  "en": "There is no need to panic before the exam.",
+  "tamil": "பரீட்சைக்கு முன்னாடி பயப்பட வேண்டிய அவசியம் இல்ல.",
+  "context": "Calming a friend.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'There is no need to + verb' means it is not necessary. It sounds calm and kind.",
+  "words": [
+   "panic",
+   "need"
+  ],
+  "usage": "Use it to calm a nervous friend or a child before a test.",
+  "leelaQ": "How do you stay calm before a big day?",
+  "answer": "I take deep breaths and do a short walk."
+ },
+ {
+  "en": "Could you share the link for the online class?",
+  "tamil": "ஆன்லைன் கிளாஸுக்கான லிங்கை பகிர முடியுமா?",
+  "context": "Messaging a teacher or a group.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Share the link' is a normal phrase for online classes.",
+  "words": [
+   "share",
+   "link"
+  ],
+  "usage": "Use it in a class group chat when you cannot find the class link.",
+  "leelaQ": "Do you prefer online classes or classroom classes?",
+  "answer": "I prefer classroom classes because I can ask questions easily."
+ },
+ {
+  "en": "My friend helped me with the maths problems.",
+  "tamil": "என் நண்பன் கணக்கு பிரச்சனைகள்ல எனக்கு உதவி பண்ணான்.",
+  "context": "Thanking or crediting a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Helped me with' is followed by a thing. 'Problems' here means sums.",
+  "words": [
+   "helped",
+   "problems"
+  ],
+  "usage": "Use it when someone asks how you solved a tough sum.",
+  "leelaQ": "Who helps you when you are stuck?",
+  "answer": "My elder sister helps me when I am stuck."
+ },
+ {
+  "en": "Have you chosen a topic for your presentation?",
+  "tamil": "உன் ப்ரசன்டேஷனுக்கு ஒரு தலைப்பு தேர்ந்தெடுத்துட்டியா?",
+  "context": "Asking a classmate.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you chosen' asks about a decision already made.",
+  "words": [
+   "chosen",
+   "presentation"
+  ],
+  "usage": "Use it with a classmate before a seminar.",
+  "leelaQ": "What topic would you like to talk about?",
+  "answer": "I would like to talk about my favourite cricketer."
+ },
+ {
+  "en": "Reading the question paper carefully saves a lot of mistakes.",
+  "tamil": "கேள்வித்தாளை கவனமா படிக்கிறது நிறைய தவறுகளை தவிர்க்கும்.",
+  "context": "Giving exam advice.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Carefully' tells how to read. 'Saves mistakes' means avoids them.",
+  "words": [
+   "carefully",
+   "mistakes"
+  ],
+  "usage": "Use it when you advise juniors or your children before an exam.",
+  "leelaQ": "What do you do first when you get a question paper?",
+  "answer": "I read all the questions once before I start."
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "word": "roof",
+  "meaning": "The top covering of a building.",
+  "tamil": "கூரை",
+  "pos": "noun",
+  "pron": "ROOF",
+  "example": "Water is leaking through the roof after the rain.",
+  "exampleTamil": "மழைக்குப் பிறகு கூரை வழியாகத் தண்ணீர் ஒழுகுகிறது.",
+  "synonyms": [
+   "top",
+   "cover"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "floor",
+  "meaning": "The surface you walk on inside a room.",
+  "tamil": "தரை",
+  "pos": "noun",
+  "pron": "FLOR",
+  "example": "Please do not leave your bag on the floor.",
+  "exampleTamil": "தயவுசெய்து உன் பையைத் தரையில் வைக்காதே.",
+  "synonyms": [
+   "ground",
+   "flooring"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wall",
+  "meaning": "A side of a room or a barrier around a place.",
+  "tamil": "சுவர்",
+  "pos": "noun",
+  "pron": "WAWL",
+  "example": "She hung a big clock on the wall.",
+  "exampleTamil": "அவள் சுவரில் ஒரு பெரிய கடிகாரத்தை மாட்டினாள்.",
+  "synonyms": [
+   "partition",
+   "barrier"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "door",
+  "meaning": "A panel you open to enter or leave a room.",
+  "tamil": "கதவு",
+  "pos": "noun",
+  "pron": "DOR",
+  "example": "Someone is knocking at the door.",
+  "exampleTamil": "யாரோ கதவைத் தட்டுகிறார்கள்.",
+  "synonyms": [
+   "entrance",
+   "doorway"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "doormat",
+  "meaning": "A small mat at the door to wipe your feet on.",
+  "tamil": "கால் துடைப்பான்",
+  "pos": "noun",
+  "pron": "DOR-mat",
+  "example": "Wipe your feet on the doormat before coming in.",
+  "exampleTamil": "உள்ளே வருவதற்கு முன் கால்களை கால் துடைப்பானில் துடை.",
+  "synonyms": [
+   "mat",
+   "rug"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "courtyard",
+  "meaning": "An open space surrounded by walls inside a house.",
+  "tamil": "முற்றம்",
+  "pos": "noun",
+  "pron": "KORT-yard",
+  "example": "The children play in the courtyard every evening.",
+  "exampleTamil": "குழந்தைகள் ஒவ்வொரு மாலையும் முற்றத்தில் விளையாடுகிறார்கள்.",
+  "synonyms": [
+   "yard",
+   "quadrangle"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "porch",
+  "meaning": "A covered area at the entrance of a house.",
+  "tamil": "திண்ணை / வாசல் மண்டபம்",
+  "pos": "noun",
+  "pron": "PORCH",
+  "example": "Grandfather likes to read the newspaper on the porch.",
+  "exampleTamil": "தாத்தா திண்ணையில் செய்தித்தாள் படிக்க விரும்புவார்.",
+  "synonyms": [
+   "veranda",
+   "entrance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "veranda",
+  "meaning": "A roofed open area along the side of a house.",
+  "tamil": "வராண்டா",
+  "pos": "noun",
+  "pron": "vuh-RAN-duh",
+  "example": "We had tea on the veranda this morning.",
+  "exampleTamil": "இன்று காலை நாங்கள் வராண்டாவில் தேநீர் குடித்தோம்.",
+  "synonyms": [
+   "porch",
+   "balcony"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "garage",
+  "meaning": "A place to park a car or keep vehicles.",
+  "tamil": "வாகன நிறுத்துமிடம்",
+  "pos": "noun",
+  "pron": "guh-RAHJ",
+  "example": "He parked the car in the garage.",
+  "exampleTamil": "அவன் காரை வாகன நிறுத்துமிடத்தில் நிறுத்தினான்.",
+  "synonyms": [
+   "carport",
+   "parking"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "doorknob",
+  "meaning": "The round handle you turn to open a door.",
+  "tamil": "கதவைத் திறக்கத் திருகும் உருண்டைப் பிடி",
+  "pos": "noun",
+  "pron": "DOR-nob",
+  "example": "The doorknob came off in my hand this morning.",
+  "exampleTamil": "இன்று காலை கதவுப் பிடி என் கையிலேயே கழன்று வந்துவிட்டது.",
+  "synonyms": [
+   "handle",
+   "knob"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lawn",
+  "meaning": "An area of short grass near a house.",
+  "tamil": "புல்வெளி",
+  "pos": "noun",
+  "pron": "LAWN",
+  "example": "The kids are playing on the lawn.",
+  "exampleTamil": "குழந்தைகள் புல்வெளியில் விளையாடுகிறார்கள்.",
+  "synonyms": [
+   "grass",
+   "turf"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fence",
+  "meaning": "A barrier around a garden or land.",
+  "tamil": "வேலி",
+  "pos": "noun",
+  "pron": "FENS",
+  "example": "We put a wooden fence around the garden.",
+  "exampleTamil": "நாங்கள் தோட்டத்தைச் சுற்றி மரவேலி போட்டோம்.",
+  "synonyms": [
+   "barrier",
+   "railing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cellar",
+  "meaning": "A room under a house used for storage.",
+  "tamil": "பாதாள அறை",
+  "pos": "noun",
+  "pron": "SEL-ur",
+  "example": "They store old boxes in the cellar.",
+  "exampleTamil": "அவர்கள் பழைய பெட்டிகளைப் பாதாள அறையில் வைக்கிறார்கள்.",
+  "synonyms": [
+   "basement",
+   "vault"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lamp",
+  "meaning": "A device that gives light.",
+  "tamil": "விளக்கு",
+  "pos": "noun",
+  "pron": "LAMP",
+  "example": "Switch on the lamp, it is too dark here.",
+  "exampleTamil": "விளக்கைப் போடு, இங்கே மிகவும் இருட்டாக இருக்கிறது.",
+  "synonyms": [
+   "light",
+   "lantern"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cushion",
+  "meaning": "A soft bag you put on a chair or sofa.",
+  "tamil": "குஷன் / மெத்தை தலையணை",
+  "pos": "noun",
+  "pron": "KUSH-un",
+  "example": "Put a cushion behind your back for comfort.",
+  "exampleTamil": "வசதிக்காக முதுகுக்குப் பின்னால் ஒரு குஷன் வை.",
+  "synonyms": [
+   "pad",
+   "pillow"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quilt",
+  "meaning": "A thick warm bed cover.",
+  "tamil": "பஞ்சு போர்வை",
+  "pos": "noun",
+  "pron": "KWILT",
+  "example": "Mom brought out a warm quilt for the winter.",
+  "exampleTamil": "குளிர்காலத்துக்காக அம்மா ஒரு சூடான பஞ்சு போர்வையை எடுத்தார்.",
+  "synonyms": [
+   "duvet",
+   "comforter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cot",
+  "meaning": "A small narrow bed.",
+  "tamil": "கட்டில்",
+  "pos": "noun",
+  "pron": "KOT",
+  "example": "The baby is sleeping peacefully in the cot.",
+  "exampleTamil": "குழந்தை கட்டிலில் அமைதியாகத் தூங்குகிறது.",
+  "synonyms": [
+   "small bed",
+   "bunk"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "crib",
+  "meaning": "A small bed with high sides for a baby.",
+  "tamil": "குழந்தைத் தொட்டில்",
+  "pos": "noun",
+  "pron": "KRIB",
+  "example": "She laid the baby gently in the crib.",
+  "exampleTamil": "அவள் குழந்தையை மெதுவாகத் தொட்டிலில் கிடத்தினாள்.",
+  "synonyms": [
+   "cradle",
+   "baby bed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bookshelf",
+  "meaning": "A shelf or frame for keeping books.",
+  "tamil": "புத்தக அலமாரி",
+  "pos": "noun",
+  "pron": "BUK-shelf",
+  "example": "He arranged all his novels on the bookshelf.",
+  "exampleTamil": "அவன் தன் நாவல்கள் அனைத்தையும் புத்தக அலமாரியில் அடுக்கினான்.",
+  "synonyms": [
+   "shelf",
+   "bookcase"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hammock",
+  "meaning": "A hanging bed made of cloth or rope, tied between two points.",
+  "tamil": "இரு முனைகளில் கட்டித் தொங்கவிடும் தூளி படுக்கை",
+  "pos": "noun",
+  "pron": "HAM-uk",
+  "example": "My grandfather naps in the hammock under the mango tree.",
+  "exampleTamil": "என் தாத்தா மாமரத்தின் கீழ் உள்ள தூளியில் தூங்குகிறார்.",
+  "synonyms": [
+   "swing bed",
+   "cradle"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pipe",
+  "meaning": "A tube that carries water or gas.",
+  "tamil": "குழாய்",
+  "pos": "noun",
+  "pron": "PIPE",
+  "example": "A pipe burst in the bathroom last night.",
+  "exampleTamil": "நேற்று இரவு குளியலறையில் ஒரு குழாய் வெடித்தது.",
+  "synonyms": [
+   "tube",
+   "conduit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "water tank",
+  "meaning": "A large container that stores water for a house.",
+  "tamil": "தண்ணீர் தொட்டி",
+  "pos": "noun",
+  "pron": "WAW-ter tank",
+  "example": "The water tank on the roof is full.",
+  "exampleTamil": "கூரையில் உள்ள தண்ணீர் தொட்டி நிரம்பியுள்ளது.",
+  "synonyms": [
+   "reservoir",
+   "cistern"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "borewell",
+  "meaning": "A deep well drilled into the ground for water.",
+  "tamil": "ஆழ்துளைக் கிணறு",
+  "pos": "noun",
+  "pron": "BOR-wel",
+  "example": "Our borewell has gone dry this summer.",
+  "exampleTamil": "இந்த கோடையில் எங்கள் ஆழ்துளைக் கிணறு வறண்டுவிட்டது.",
+  "synonyms": [
+   "well",
+   "water source"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tile",
+  "meaning": "A thin flat piece used to cover floors or walls.",
+  "tamil": "ஓடு",
+  "pos": "noun",
+  "pron": "TIYL",
+  "example": "One bathroom tile is cracked and needs replacing.",
+  "exampleTamil": "குளியலறையின் ஒரு ஓடு விரிசல் விட்டு மாற்ற வேண்டும்.",
+  "synonyms": [
+   "floor piece",
+   "slab"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "carpenter",
+  "meaning": "A person who makes and repairs things made of wood.",
+  "tamil": "தச்சர்",
+  "pos": "noun",
+  "pron": "KAR-pun-ter",
+  "example": "We called a carpenter to fix the broken window.",
+  "exampleTamil": "உடைந்த ஜன்னலைச் சரிசெய்ய நாங்கள் ஒரு தச்சரை அழைத்தோம்.",
+  "synonyms": [
+   "woodworker",
+   "joiner"
+  ],
+  "level": "beginner"
+ }
+]

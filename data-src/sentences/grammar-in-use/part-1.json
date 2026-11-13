@@ -1,0 +1,374 @@
+[
+ {
+  "en": "I usually wake up at six on weekdays.",
+  "tamil": "நான் பொதுவா வார நாட்கள்ல ஆறு மணிக்கு எழுந்திருப்பேன்.",
+  "context": "Describing your morning habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Present simple with 'usually' talks about habits and routines.",
+  "words": [
+   "usually",
+   "wake up"
+  ],
+  "usage": "Use it when friends or colleagues ask about your daily routine.",
+  "leelaQ": "What time do you usually wake up on weekdays?",
+  "answer": "I usually wake up at six, then I make tea."
+ },
+ {
+  "en": "She is cooking dinner right now.",
+  "tamil": "அவங்க இப்ப சாப்பாடு சமைச்சுட்டு இருக்காங்க.",
+  "context": "Telling a caller why your mother cannot talk.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous (is + verb-ing) is for actions happening at this moment.",
+  "words": [
+   "cooking",
+   "dinner"
+  ],
+  "usage": "Use it on the phone when someone asks where a family member is.",
+  "leelaQ": "What is your mother doing right now?",
+  "answer": "She is watching TV in the hall right now."
+ },
+ {
+  "en": "We went to Madurai last Sunday.",
+  "tamil": "நாங்க போன ஞாயிற்றுக்கிழமை மதுரைக்கு போனோம்.",
+  "context": "Telling a colleague about your weekend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past simple with 'last Sunday' talks about a finished time in the past.",
+  "words": [
+   "last sunday"
+  ],
+  "usage": "Use it on Monday morning when colleagues ask about your weekend.",
+  "leelaQ": "Where did you go last weekend?",
+  "answer": "I went to my grandmother's house last weekend."
+ },
+ {
+  "en": "I will call you after the meeting.",
+  "tamil": "மீட்டிங் முடிஞ்சதுக்கப்புறம் நான் உங்களுக்கு கால் பண்றேன்.",
+  "context": "Promising to call a client back.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' + verb is used for promises and quick decisions about the future.",
+  "words": [
+   "meeting",
+   "call"
+  ],
+  "usage": "Use it with a client or friend when you cannot talk right now.",
+  "leelaQ": "Will you call your friend after work today?",
+  "answer": "Yes, I will call him after work today."
+ },
+ {
+  "en": "I have already finished the report.",
+  "tamil": "நான் ரிப்போர்ட்டை ஏற்கனவே முடிச்சிட்டேன்.",
+  "context": "Telling your manager the work is done.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect (have + past participle) with 'already' shows something is done before now.",
+  "words": [
+   "already",
+   "report"
+  ],
+  "usage": "Use it when your manager asks about the status of a task.",
+  "leelaQ": "Have you finished your work for today?",
+  "answer": "Yes, I have already finished everything."
+ },
+ {
+  "en": "You should drink more water in this heat.",
+  "tamil": "இந்த வெயில்ல நீ இன்னும் அதிகமா தண்ணி குடிக்கணும்.",
+  "context": "Giving advice to a friend in summer.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' + verb gives friendly advice.",
+  "words": [
+   "should",
+   "heat"
+  ],
+  "usage": "Use it to advise a friend or family member kindly.",
+  "leelaQ": "What should people do in hot weather?",
+  "answer": "People should drink water and stay in the shade."
+ },
+ {
+  "en": "Please close the window before you leave.",
+  "tamil": "நீங்க போறதுக்கு முன்னாடி ஜன்னலை மூடிடுங்க.",
+  "context": "Asking a coworker to close up the office.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "An imperative with 'please' is a polite instruction or request.",
+  "words": [
+   "close",
+   "leave"
+  ],
+  "usage": "Use it with a colleague or helper at the end of the day.",
+  "leelaQ": "What do you check before you leave home?",
+  "answer": "I check the gas, the lights, and the windows."
+ },
+ {
+  "en": "If it rains tomorrow, we will cancel the picnic.",
+  "tamil": "நாளைக்கு மழை பெஞ்சா நாங்க பிக்னிக்கை ரத்து பண்ணிடுவோம்.",
+  "context": "Planning an outing with friends.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "First conditional: if + present simple, then will + verb for a real possibility.",
+  "words": [
+   "rains",
+   "cancel"
+  ],
+  "usage": "Use it when making plans that depend on the weather.",
+  "leelaQ": "What will you do if it rains this weekend?",
+  "answer": "If it rains, I will stay at home and read."
+ },
+ {
+  "en": "If I had more time, I would learn the guitar.",
+  "tamil": "எனக்கு இன்னும் நேரம் இருந்தா நான் கிட்டார் கத்துக்குவேன்.",
+  "context": "Talking about a hobby you wish you could start.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "Second conditional: if + past simple, would + verb for an unreal or unlikely situation.",
+  "words": [
+   "guitar",
+   "learn"
+  ],
+  "usage": "Use it to talk about dreams or wishes in a casual chat.",
+  "leelaQ": "What would you learn if you had more free time?",
+  "answer": "If I had more time, I would learn to swim."
+ },
+ {
+  "en": "The bill was paid by my brother.",
+  "tamil": "பில்லை என் அண்ணன் கட்டினார்.",
+  "context": "Explaining who paid at a restaurant.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Passive voice (was + past participle) puts the focus on the action, not the doer.",
+  "words": [
+   "bill",
+   "paid"
+  ],
+  "usage": "Use it when you want to say what happened without stressing who did it.",
+  "leelaQ": "Who paid the bill the last time you ate out?",
+  "answer": "The bill was paid by my friend last time."
+ },
+ {
+  "en": "Our new office will be opened next month.",
+  "tamil": "எங்க புது ஆபீஸ் அடுத்த மாசம் திறக்கப்படும்.",
+  "context": "Sharing company news with a friend.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "Future passive (will be + past participle) is used for planned events.",
+  "words": [
+   "office",
+   "opened"
+  ],
+  "usage": "Use it to share announcements about plans or events.",
+  "leelaQ": "What will be built near your house soon?",
+  "answer": "A new metro station will be built near my house soon."
+ },
+ {
+  "en": "Chennai is hotter than Bengaluru.",
+  "tamil": "சென்னை பெங்களூரை விட வெப்பமா இருக்கும்.",
+  "context": "Comparing two cities with a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Comparative adjective + 'than' compares two things.",
+  "words": [
+   "hotter",
+   "than"
+  ],
+  "usage": "Use it when you compare places, prices or people in conversation.",
+  "leelaQ": "Which is hotter, your city or Chennai?",
+  "answer": "My city is cooler than Chennai."
+ },
+ {
+  "en": "Is this phone as good as that one?",
+  "tamil": "இந்த போன் அதே மாதிரி நல்லா இருக்குமா?",
+  "context": "Asking a shopkeeper to compare two phones.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'As ... as' compares two things that are equal.",
+  "words": [
+   "phone",
+   "as good as"
+  ],
+  "usage": "Use it while shopping when two items look similar.",
+  "leelaQ": "Which is better for you, a phone or a laptop?",
+  "answer": "A laptop is as useful as a phone, but I carry my phone more."
+ },
+ {
+  "en": "He is the tallest boy in the class.",
+  "tamil": "அவன் கிளாஸ்லயே உயரமான பையன்.",
+  "context": "Describing a classmate to a new teacher.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'The tallest' is a superlative for one-syllable adjectives; add -est.",
+  "words": [
+   "tallest",
+   "class"
+  ],
+  "usage": "Use it to point out one person from a group.",
+  "leelaQ": "Who is the tallest person in your family?",
+  "answer": "My uncle is the tallest person in my family."
+ },
+ {
+  "en": "Could you please send me an email?",
+  "tamil": "தயவு செய்து எனக்கு ஒரு மெயில் அனுப்ப முடியுமா?",
+  "context": "Asking a colleague to share details in writing.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you please' is a very polite way to ask for something.",
+  "words": [
+   "send",
+   "email"
+  ],
+  "usage": "Use it with seniors or clients when you want things in writing.",
+  "leelaQ": "How do you ask a colleague to send a file?",
+  "answer": "I say, could you please send me the file?"
+ },
+ {
+  "en": "May I come in, sir?",
+  "tamil": "நான் உள்ளே வரலாமா சார்?",
+  "context": "Asking permission to enter your manager's room.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'May I' is a formal way to ask for permission.",
+  "words": [
+   "come in"
+  ],
+  "usage": "Use it at the door of a manager, teacher or interviewer.",
+  "leelaQ": "What do you say before entering a teacher's room?",
+  "answer": "I say, may I come in, sir?"
+ },
+ {
+  "en": "You must wear a helmet while riding a bike.",
+  "tamil": "பைக் ஓட்டும்போது நீ ஹெல்மெட் போடணும்.",
+  "context": "Reminding a younger cousin about road safety.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Must' shows a strong rule or duty.",
+  "words": [
+   "must",
+   "helmet"
+  ],
+  "usage": "Use it to explain rules or important safety advice.",
+  "leelaQ": "What must people do for road safety?",
+  "answer": "People must follow the signals and wear helmets."
+ },
+ {
+  "en": "You don't have to wait for me.",
+  "tamil": "நீ எனக்காக காத்திருக்க வேண்டாம்.",
+  "context": "Telling a friend to go ahead without you.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Don't have to' means it is not necessary, but you are free to do it.",
+  "words": [
+   "wait"
+  ],
+  "usage": "Use it kindly when you do not want to delay someone.",
+  "leelaQ": "What do you say if you will be late and a friend is waiting?",
+  "answer": "I say, you don't have to wait for me."
+ },
+ {
+  "en": "She can speak three languages.",
+  "tamil": "அவங்களுக்கு மூணு மொழி பேசத் தெரியும்.",
+  "context": "Praising a friend's skills.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Can' shows ability.",
+  "words": [
+   "languages",
+   "speak"
+  ],
+  "usage": "Use it to talk about what someone is able to do.",
+  "leelaQ": "How many languages can you speak?",
+  "answer": "I can speak Tamil, English and a little Hindi."
+ },
+ {
+  "en": "I couldn't open the file you sent.",
+  "tamil": "நீங்க அனுப்பின ஃபைலை என்னால திறக்க முடியல.",
+  "context": "Telling a coworker about a technical problem.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Couldn't' is the past of 'can't' and shows you were not able to do something.",
+  "words": [
+   "open",
+   "file"
+  ],
+  "usage": "Use it when you face a problem with something someone sent.",
+  "leelaQ": "What do you say if an email attachment does not open?",
+  "answer": "I say, I couldn't open the file, please send it again."
+ },
+ {
+  "en": "This is the book that I told you about.",
+  "tamil": "இது தான் நான் உன்கிட்ட சொன்ன புத்தகம்.",
+  "context": "Showing a friend a book you recommended.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'That' links the noun 'book' to extra information in a relative clause.",
+  "words": [
+   "book",
+   "told"
+  ],
+  "usage": "Use it when you show or give someone something you mentioned earlier.",
+  "leelaQ": "Which book did you tell your friends about?",
+  "answer": "I told them about a book on healthy habits."
+ },
+ {
+  "en": "The shop where I bought this phone is closed today.",
+  "tamil": "நான் இந்த போன் வாங்கின கடை இன்னைக்கு மூடியிருக்கு.",
+  "context": "Explaining why you cannot return a phone.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Where' begins a relative clause that describes a place.",
+  "words": [
+   "bought",
+   "closed"
+  ],
+  "usage": "Use it when you need to explain which place you mean.",
+  "leelaQ": "Where do you usually buy your groceries?",
+  "answer": "I buy them at the shop where my mother always goes."
+ },
+ {
+  "en": "She works as a nurse in a government hospital.",
+  "tamil": "அவங்க ஒரு அரசு மருத்துவமனையில நர்ஸா வேலை பாக்குறாங்க.",
+  "context": "Telling someone about your sister's job.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'A' is used before a singular job or noun; 'as' shows the role.",
+  "words": [
+   "nurse",
+   "hospital"
+  ],
+  "usage": "Use it when you talk about someone's work.",
+  "leelaQ": "What does your sister or brother do for work?",
+  "answer": "My brother works as an engineer in a small company."
+ },
+ {
+  "en": "I'll meet you at the bus stop at five.",
+  "tamil": "நான் அஞ்சு மணிக்கு பஸ் ஸ்டாப்புல உன்ன பாக்கறேன்.",
+  "context": "Fixing a time and place with a friend.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'At' is used for exact times and points; 'will' for a decision.",
+  "words": [
+   "bus stop",
+   "meet"
+  ],
+  "usage": "Use it when you fix a meeting with a friend.",
+  "leelaQ": "Where will you meet your friends this weekend?",
+  "answer": "I will meet them at the mall at four."
+ },
+ {
+  "en": "My birthday is on the tenth of December.",
+  "tamil": "என் பிறந்தநாள் டிசம்பர் பத்தாம் தேதி.",
+  "context": "Telling a colleague your birthday date.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use 'on' with dates and days, 'in' with months, 'at' with times.",
+  "words": [
+   "birthday",
+   "december"
+  ],
+  "usage": "Use it when someone asks for your date of birth or birthday.",
+  "leelaQ": "When is your birthday?",
+  "answer": "My birthday is on the fifth of March."
+ }
+]

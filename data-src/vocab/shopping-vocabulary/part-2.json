@@ -1,0 +1,334 @@
+[
+ {
+  "word": "spices",
+  "meaning": "Powders or seeds that give taste to food.",
+  "tamil": "மசாலா பொருட்கள்",
+  "pos": "noun",
+  "pron": "SPY-siz",
+  "example": "She buys fresh spices from the market.",
+  "exampleTamil": "அவள் சந்தையில் புதிய மசாலா பொருட்களை வாங்குகிறாள்.",
+  "synonyms": [
+   "masala",
+   "seasoning"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "eggs",
+  "meaning": "Oval food that hens lay.",
+  "tamil": "முட்டைகள்",
+  "pos": "noun",
+  "pron": "EGZ",
+  "example": "Can you buy six eggs on the way?",
+  "exampleTamil": "வழியில் ஆறு முட்டைகள் வாங்கி வர முடியுமா?",
+  "synonyms": [
+   "hen eggs"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bread",
+  "meaning": "Soft baked food made from flour.",
+  "tamil": "ரொட்டி",
+  "pos": "noun",
+  "pron": "BRED",
+  "example": "We need bread for breakfast.",
+  "exampleTamil": "எங்களுக்கு காலை உணவுக்கு ரொட்டி வேண்டும்.",
+  "synonyms": [
+   "loaf"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "apple",
+  "meaning": "A round red or green fruit.",
+  "tamil": "ஆப்பிள் பழம்",
+  "pos": "noun",
+  "pron": "AP-ul",
+  "example": "I bought a kilo of apples.",
+  "exampleTamil": "நான் ஒரு கிலோ ஆப்பிள் வாங்கினேன்.",
+  "synonyms": [
+   "fruit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "snacks",
+  "meaning": "Small food you eat between meals.",
+  "tamil": "சிற்றுண்டிகள்",
+  "pos": "noun",
+  "pron": "SNAKS",
+  "example": "The kids want snacks from the shop.",
+  "exampleTamil": "குழந்தைகளுக்கு கடையில் சிற்றுண்டிகள் வேண்டும்.",
+  "synonyms": [
+   "nibbles"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "biscuit",
+  "meaning": "A small, dry, sweet baked food.",
+  "tamil": "பிஸ்கட்",
+  "pos": "noun",
+  "pron": "BIS-kit",
+  "example": "He bought a packet of biscuits.",
+  "exampleTamil": "அவன் ஒரு பாக்கெட் பிஸ்கட் வாங்கினான்.",
+  "synonyms": [
+   "cookie"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "watch",
+  "meaning": "A small clock you wear on your wrist.",
+  "tamil": "கைக்கடிகாரம்",
+  "pos": "noun",
+  "pron": "WOCH",
+  "example": "He bought a new watch for his birthday.",
+  "exampleTamil": "அவன் தன் பிறந்தநாளுக்கு ஒரு புதிய கைக்கடிகாரம் வாங்கினான்.",
+  "synonyms": [
+   "wristwatch"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "kurta",
+  "meaning": "A long loose shirt worn in India.",
+  "tamil": "குர்தா சட்டை",
+  "pos": "noun",
+  "pron": "KUR-ta",
+  "example": "She wore a cotton kurta to the temple.",
+  "exampleTamil": "அவள் கோயிலுக்கு பருத்தி குர்தா அணிந்தாள்.",
+  "synonyms": [
+   "tunic"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "t-shirt",
+  "meaning": "A short-sleeved shirt with no collar.",
+  "tamil": "டி-சட்டை",
+  "pos": "noun",
+  "pron": "TEE-shurt",
+  "example": "I want a blue t-shirt in medium size.",
+  "exampleTamil": "எனக்கு நடுத்தர அளவில் ஒரு நீல டி-சட்டை வேண்டும்.",
+  "synonyms": [
+   "tee"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "necklace",
+  "meaning": "A chain or string worn around the neck.",
+  "tamil": "கழுத்தணி",
+  "pos": "noun",
+  "pron": "NEK-lis",
+  "example": "She bought a gold necklace for the wedding.",
+  "exampleTamil": "அவள் திருமணத்திற்காக ஒரு தங்க கழுத்தணி வாங்கினாள்.",
+  "synonyms": [
+   "chain"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shopkeeper",
+  "meaning": "A person who owns or runs a small shop.",
+  "tamil": "கடைக்காரர்",
+  "pos": "noun",
+  "pron": "SHOP-kee-per",
+  "example": "The shopkeeper knows all his customers.",
+  "exampleTamil": "கடைக்காரருக்கு அவருடைய எல்லா வாடிக்கையாளர்களையும் தெரியும்.",
+  "synonyms": [
+   "storekeeper",
+   "trader"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "supermarket",
+  "meaning": "A large shop that sells food and home items.",
+  "tamil": "பெரிய பல்பொருள் அங்காடி",
+  "pos": "noun",
+  "pron": "SOO-per-mar-kit",
+  "example": "We do our monthly shopping at the supermarket.",
+  "exampleTamil": "நாங்கள் மாதாந்திர பொருட்களை பல்பொருள் அங்காடியில் வாங்குகிறோம்.",
+  "synonyms": [
+   "hypermarket"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boutique",
+  "meaning": "A small shop that sells fashionable clothes.",
+  "tamil": "நாகரிக ஆடைகள் விற்கும் சிறிய கடை",
+  "pos": "noun",
+  "pron": "boo-TEEK",
+  "example": "She has a boutique near the bus stand.",
+  "exampleTamil": "அவளுக்கு பேருந்து நிலையம் அருகே ஒரு பூட்டிக் உள்ளது.",
+  "synonyms": [
+   "fashion shop"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "retail",
+  "meaning": "Selling things to ordinary customers in small amounts.",
+  "tamil": "சில்லறை விற்பனை",
+  "pos": "noun",
+  "pron": "REE-tayl",
+  "example": "He works in the retail business.",
+  "exampleTamil": "அவன் சில்லறை வியாபாரத்தில் வேலை செய்கிறான்.",
+  "synonyms": [
+   "resale"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "costly",
+  "meaning": "Costing a lot of money.",
+  "tamil": "விலை உயர்ந்த",
+  "pos": "adjective",
+  "pron": "KOST-lee",
+  "example": "That watch is too costly for me.",
+  "exampleTamil": "அந்தக் கடிகாரம் எனக்கு மிகவும் விலை உயர்ந்தது.",
+  "synonyms": [
+   "pricey",
+   "dear"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "durable",
+  "meaning": "Strong and able to last a long time.",
+  "tamil": "நீடித்து உழைக்கும்",
+  "pos": "adjective",
+  "pron": "DYOOR-uh-bul",
+  "example": "These shoes are cheap but durable.",
+  "exampleTamil": "இந்தக் காலணிகள் மலிவானவை ஆனால் நீடித்து உழைக்கும்.",
+  "synonyms": [
+   "sturdy",
+   "lasting"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fabric",
+  "meaning": "Cloth used to make clothes.",
+  "tamil": "துணி",
+  "pos": "noun",
+  "pron": "FAB-rik",
+  "example": "I like the soft fabric of this shirt.",
+  "exampleTamil": "இந்தச் சட்டையின் மென்மையான துணி எனக்குப் பிடிக்கும்.",
+  "synonyms": [
+   "cloth",
+   "textile"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cotton",
+  "meaning": "Soft cloth made from a plant, good in hot weather.",
+  "tamil": "பருத்தித் துணி",
+  "pos": "noun",
+  "pron": "KOT-un",
+  "example": "Cotton clothes are comfortable in summer.",
+  "exampleTamil": "கோடையில் பருத்தி ஆடைகள் வசதியாக இருக்கும்.",
+  "synonyms": [
+   "cloth"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "silk",
+  "meaning": "Smooth, shiny and costly cloth.",
+  "tamil": "பட்டுத் துணி",
+  "pos": "noun",
+  "pron": "SILK",
+  "example": "She bought a silk saree for the festival.",
+  "exampleTamil": "அவள் திருவிழாவிற்கு ஒரு பட்டுப் புடவை வாங்கினாள்.",
+  "synonyms": [
+   "satin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wool",
+  "meaning": "Warm cloth made from sheep hair.",
+  "tamil": "கம்பளி",
+  "pos": "noun",
+  "pron": "WUL",
+  "example": "I need a wool sweater for the hills.",
+  "exampleTamil": "மலைப்பகுதிக்கு எனக்கு ஒரு கம்பளி ஸ்வெட்டர் வேண்டும்.",
+  "synonyms": [
+   "woollen"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "leather",
+  "meaning": "Strong material made from animal skin.",
+  "tamil": "தோல்",
+  "pos": "noun",
+  "pron": "LETH-er",
+  "example": "His leather bag is very old.",
+  "exampleTamil": "அவனுடைய தோல் பை மிகவும் பழையது.",
+  "synonyms": [
+   "hide"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fitting",
+  "meaning": "Trying clothes on to see if they fit.",
+  "tamil": "உடை அளவு பார்க்கும் சோதனை",
+  "pos": "noun",
+  "pron": "FIT-ing",
+  "example": "The fitting room is on the second floor.",
+  "exampleTamil": "உடை மாற்றி பார்க்கும் அறை இரண்டாவது மாடியில் உள்ளது.",
+  "synonyms": [
+   "trial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stylish",
+  "meaning": "Looking fashionable and nice.",
+  "tamil": "நாகரிகமான",
+  "pos": "adjective",
+  "pron": "STY-lish",
+  "example": "Those sunglasses look very stylish.",
+  "exampleTamil": "அந்த கண்ணாடிகள் மிகவும் நாகரிகமாகத் தெரிகின்றன.",
+  "synonyms": [
+   "trendy",
+   "smart"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "outfit",
+  "meaning": "A set of clothes worn together.",
+  "tamil": "உடை தொகுப்பு",
+  "pos": "noun",
+  "pron": "OWT-fit",
+  "example": "I need a nice outfit for the interview.",
+  "exampleTamil": "நேர்காணலுக்கு எனக்கு ஒரு நல்ல உடை வேண்டும்.",
+  "synonyms": [
+   "attire",
+   "clothes"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "accessory",
+  "meaning": "A small item like a belt or ring that adds to your look.",
+  "tamil": "அழகூட்டும் சிறு பொருள்",
+  "pos": "noun",
+  "pron": "ak-SES-uh-ree",
+  "example": "This shop sells phone accessories.",
+  "exampleTamil": "இந்தக் கடை போன் உபகரணங்களை விற்கிறது.",
+  "synonyms": [
+   "add-on"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,691 @@
+[
+ {
+  "word": "password",
+  "tamil": "கடவுச்சொல்",
+  "pos": "noun",
+  "pron": "PAS-wurd",
+  "example": "Never share your password with anyone.",
+  "exampleTamil": "உங்கள் கடவுச்சொல்லை யாருடனும் பகிராதீர்கள்.",
+  "synonyms": [
+   "passcode",
+   "secret word"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "login",
+  "tamil": "உள்நுழைவு (லாகின்)",
+  "pos": "noun",
+  "pron": "LOG-in",
+  "example": "The login page takes too long to load.",
+  "exampleTamil": "லாகின் பக்கம் ஏற்ற மிகவும் நேரம் எடுக்கிறது.",
+  "synonyms": [
+   "sign-in",
+   "access"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "website",
+  "tamil": "இணையதளம்",
+  "pos": "noun",
+  "pron": "WEB-syt",
+  "example": "Our website is available in three languages.",
+  "exampleTamil": "எங்கள் இணையதளம் மூன்று மொழிகளில் கிடைக்கிறது.",
+  "synonyms": [
+   "site",
+   "web page"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "browser",
+  "tamil": "உலாவி (பிரவுசர்)",
+  "pos": "noun",
+  "pron": "BROW-zer",
+  "example": "The page looks different in each browser.",
+  "exampleTamil": "ஒவ்வொரு பிரவுசரிலும் பக்கம் வேறுபட்டுத் தெரிகிறது.",
+  "synonyms": [
+   "web viewer",
+   "Chrome"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "button",
+  "tamil": "பொத்தான் (பட்டன்)",
+  "pos": "noun",
+  "pron": "BUT-un",
+  "example": "Click the blue button to submit the form.",
+  "exampleTamil": "படிவத்தைச் சமர்ப்பிக்க நீல பட்டனை கிளிக் செய்யுங்கள்.",
+  "synonyms": [
+   "control",
+   "switch"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "feature",
+  "tamil": "அம்சம் (ஃபீச்சர்)",
+  "pos": "noun",
+  "pron": "FEE-cher",
+  "example": "We are building a new search feature.",
+  "exampleTamil": "நாங்கள் ஒரு புதிய தேடல் அம்சத்தை உருவாக்குகிறோம்.",
+  "synonyms": [
+   "function",
+   "capability"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sprint",
+  "tamil": "குறுகிய கால வேலைச் சுற்று (ஸ்பிரிண்ட்)",
+  "pos": "noun",
+  "pron": "SPRINT",
+  "example": "Our sprint ends on Friday.",
+  "exampleTamil": "எங்கள் ஸ்பிரிண்ட் வெள்ளிக்கிழமை முடிகிறது.",
+  "synonyms": [
+   "work cycle",
+   "iteration"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ticket",
+  "tamil": "பணிக் குறிப்புச் சீட்டு (டிக்கெட்)",
+  "pos": "noun",
+  "pron": "TIK-it",
+  "example": "I will create a ticket for this problem.",
+  "exampleTamil": "இந்தப் பிரச்சினைக்கு ஒரு டிக்கெட் உருவாக்குகிறேன்.",
+  "synonyms": [
+   "issue",
+   "task card"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "update",
+  "tamil": "புதுப்பிப்பு (அப்டேட்)",
+  "pos": "noun",
+  "pron": "UP-dayt",
+  "example": "There is a new update for the mobile app.",
+  "exampleTamil": "மொபைல் ஆப்புக்கு ஒரு புதிய அப்டேட் உள்ளது.",
+  "synonyms": [
+   "upgrade",
+   "revision"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "install",
+  "tamil": "நிறுவு (இன்ஸ்டால்)",
+  "pos": "verb",
+  "pron": "in-STAWL",
+  "example": "You need to install Node before running the project.",
+  "exampleTamil": "ப்ராஜெக்ட்டை இயக்கும் முன் Node-ஐ இன்ஸ்டால் செய்ய வேண்டும்.",
+  "synonyms": [
+   "set up",
+   "add"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "version",
+  "tamil": "பதிப்பு (வெர்ஷன்)",
+  "pos": "noun",
+  "pron": "VER-zhun",
+  "example": "Which version of Angular are you using?",
+  "exampleTamil": "நீங்கள் Angular-இன் எந்த வெர்ஷனைப் பயன்படுத்துகிறீர்கள்?",
+  "synonyms": [
+   "edition",
+   "release"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "secure",
+  "tamil": "பாதுகாப்பான",
+  "pos": "adjective",
+  "pron": "sih-KYOOR",
+  "example": "Make sure the connection is secure.",
+  "exampleTamil": "இணைப்பு பாதுகாப்பாக இருப்பதை உறுதிசெய்யுங்கள்.",
+  "synonyms": [
+   "safe",
+   "protected"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "authentication",
+  "tamil": "அடையாளச் சரிபார்ப்பு",
+  "pos": "noun",
+  "pron": "aw-then-tih-KAY-shun",
+  "example": "Authentication fails when the token expires.",
+  "exampleTamil": "டோக்கன் காலாவதியானால் அடையாளச் சரிபார்ப்பு தோல்வியடைகிறது.",
+  "synonyms": [
+   "identity check",
+   "login check"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "authorization",
+  "tamil": "அணுகல் அனுமதி வழங்குதல்",
+  "pos": "noun",
+  "pron": "aw-thor-ih-ZAY-shun",
+  "example": "Authorization decides what each user can see.",
+  "exampleTamil": "ஒவ்வொரு பயனரும் எதைப் பார்க்கலாம் என்பதை அணுகல் அனுமதி தீர்மானிக்கிறது.",
+  "synonyms": [
+   "permission",
+   "clearance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "encryption",
+  "tamil": "மறைகுறியாக்கம் (என்கிரிப்ஷன்)",
+  "pos": "noun",
+  "pron": "en-KRIP-shun",
+  "example": "Encryption protects data while it travels over the network.",
+  "exampleTamil": "நெட்வொர்க்கில் செல்லும்போது தரவை என்கிரிப்ஷன் பாதுகாக்கிறது.",
+  "synonyms": [
+   "encoding",
+   "scrambling"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "token",
+  "tamil": "அடையாள அனுமதிச் சீட்டு (டோக்கன்)",
+  "pos": "noun",
+  "pron": "TOH-kun",
+  "example": "The API returns a token after you log in.",
+  "exampleTamil": "நீங்கள் லாகின் செய்த பிறகு API ஒரு டோக்கனைத் தருகிறது.",
+  "synonyms": [
+   "access key",
+   "pass"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vulnerability",
+  "tamil": "பாதுகாப்புப் பலவீனம்",
+  "pos": "noun",
+  "pron": "vul-ner-uh-BIL-ih-tee",
+  "example": "The scan found a serious vulnerability in the library.",
+  "exampleTamil": "ஸ்கேன் அந்த லைப்ரரியில் ஒரு தீவிர பாதுகாப்புப் பலவீனத்தைக் கண்டறிந்தது.",
+  "synonyms": [
+   "weakness",
+   "security hole"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "credential",
+  "tamil": "உள்நுழைவு விவரம் (கிரெடென்ஷியல்)",
+  "pos": "noun",
+  "pron": "krih-DEN-shul",
+  "example": "Never store credentials in the source code.",
+  "exampleTamil": "கிரெடென்ஷியல்களை ஒருபோதும் சோர்ஸ் கோடில் சேமிக்காதீர்கள்.",
+  "synonyms": [
+   "login details",
+   "secret"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hash",
+  "tamil": "தரவை மாற்ற முடியாத குறியாக்கு (ஹேஷ்)",
+  "pos": "verb",
+  "pron": "HASH",
+  "example": "We hash every password before saving it.",
+  "exampleTamil": "ஒவ்வொரு கடவுச்சொல்லையும் சேமிக்கும் முன் ஹேஷ் செய்கிறோம்.",
+  "synonyms": [
+   "encode",
+   "scramble"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "responsive",
+  "tamil": "திரைக்கேற்ப மாறும் (ரெஸ்பான்சிவ்)",
+  "pos": "adjective",
+  "pron": "rih-SPON-siv",
+  "example": "The new design is fully responsive on phones.",
+  "exampleTamil": "புதிய வடிவமைப்பு போன்களில் முழுமையாக ரெஸ்பான்சிவ் ஆக உள்ளது.",
+  "synonyms": [
+   "adaptive",
+   "flexible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "layout",
+  "tamil": "பக்க அமைப்பு (லேஅவுட்)",
+  "pos": "noun",
+  "pron": "LAY-owt",
+  "example": "The layout breaks on small screens.",
+  "exampleTamil": "சிறிய திரைகளில் லேஅவுட் உடைந்துவிடுகிறது.",
+  "synonyms": [
+   "arrangement",
+   "structure"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "component",
+  "tamil": "கூறு (காம்போனென்ட்)",
+  "pos": "noun",
+  "pron": "kum-POH-nunt",
+  "example": "This button is a reusable component.",
+  "exampleTamil": "இந்த பட்டன் மீண்டும் பயன்படுத்தக்கூடிய காம்போனென்ட்.",
+  "synonyms": [
+   "part",
+   "module"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "render",
+  "tamil": "திரையில் வரைந்து காட்டு (ரெண்டர்)",
+  "pos": "verb",
+  "pron": "REN-der",
+  "example": "The page takes a while to render on old phones.",
+  "exampleTamil": "பழைய போன்களில் பக்கம் ரெண்டர் ஆக நேரம் ஆகிறது.",
+  "synonyms": [
+   "display",
+   "draw"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "frontend",
+  "tamil": "பயனர் காணும் பகுதி (ஃப்ரண்ட்எண்ட்)",
+  "pos": "noun",
+  "pron": "FRUNT-end",
+  "example": "She works on the frontend of our app.",
+  "exampleTamil": "அவள் எங்கள் ஆப்பின் ஃப்ரண்ட்எண்டில் வேலை செய்கிறாள்.",
+  "synonyms": [
+   "client side",
+   "user interface"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "backend",
+  "tamil": "பின்புலச் சேவைப் பகுதி (பேக்எண்ட்)",
+  "pos": "noun",
+  "pron": "BAK-end",
+  "example": "The backend handles payments and user accounts.",
+  "exampleTamil": "பேக்எண்ட் பேமெண்ட்களையும் பயனர் கணக்குகளையும் கையாளுகிறது.",
+  "synonyms": [
+   "server side",
+   "engine"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bundle",
+  "tamil": "கோப்புகளின் தொகுப்பு (பண்டில்)",
+  "pos": "noun",
+  "pron": "BUN-dul",
+  "example": "The JavaScript bundle is too large for mobile users.",
+  "exampleTamil": "மொபைல் பயனர்களுக்கு JavaScript பண்டில் மிகப் பெரியது.",
+  "synonyms": [
+   "package",
+   "pack"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scalable",
+  "tamil": "எளிதில் விரிவாக்கக்கூடிய",
+  "pos": "adjective",
+  "pron": "SKAY-luh-bul",
+  "example": "We need a scalable design for millions of users.",
+  "exampleTamil": "மில்லியன் கணக்கான பயனர்களுக்கு ஸ்கேலபிள் வடிவமைப்பு தேவை.",
+  "synonyms": [
+   "expandable",
+   "flexible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "throughput",
+  "tamil": "செயலாக்கத் திறன் (த்ரூபுட்)",
+  "pos": "noun",
+  "pron": "THROO-put",
+  "example": "We doubled the throughput after the upgrade.",
+  "exampleTamil": "மேம்படுத்தலுக்குப் பிறகு த்ரூபுட்டை இரட்டிப்பாக்கினோம்.",
+  "synonyms": [
+   "capacity",
+   "output rate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "benchmark",
+  "tamil": "செயல்திறன் ஒப்பீட்டுச் சோதனை (பென்ச்மார்க்)",
+  "pos": "noun",
+  "pron": "BENCH-mark",
+  "example": "The benchmark shows the new code is twice as fast.",
+  "exampleTamil": "புதிய கோட் இரு மடங்கு வேகமானது என்று பென்ச்மார்க் காட்டுகிறது.",
+  "synonyms": [
+   "performance test",
+   "yardstick"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "profiling",
+  "tamil": "செயல்திறன் பகுப்பாய்வு (ப்ரொஃபைலிங்)",
+  "pos": "noun",
+  "pron": "PROH-fy-ling",
+  "example": "Profiling showed that sorting was the slow part.",
+  "exampleTamil": "ப்ரொஃபைலிங் வரிசைப்படுத்துதல்தான் மெதுவான பகுதி என்று காட்டியது.",
+  "synonyms": [
+   "performance analysis",
+   "measuring"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "microservice",
+  "tamil": "சிறு தனிச் சேவை (மைக்ரோசர்வீஸ்)",
+  "pos": "noun",
+  "pron": "MY-kroh-ser-vis",
+  "example": "Each microservice has its own database.",
+  "exampleTamil": "ஒவ்வொரு மைக்ரோசர்வீஸுக்கும் தனி டேட்டாபேஸ் உள்ளது.",
+  "synonyms": [
+   "small service",
+   "component"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "middleware",
+  "tamil": "இடைநிலை மென்பொருள் (மிடில்வேர்)",
+  "pos": "noun",
+  "pron": "MID-ul-wair",
+  "example": "The middleware checks the token on every request.",
+  "exampleTamil": "ஒவ்வொரு ரிக்வெஸ்ட்டிலும் மிடில்வேர் டோக்கனைச் சரிபார்க்கிறது.",
+  "synonyms": [
+   "intermediate layer",
+   "filter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "interface",
+  "tamil": "இடைமுகம் (இன்டர்ஃபேஸ்)",
+  "pos": "noun",
+  "pron": "IN-ter-fays",
+  "example": "The class implements the payment interface.",
+  "exampleTamil": "அந்த க்ளாஸ் பேமெண்ட் இன்டர்ஃபேஸை செயல்படுத்துகிறது.",
+  "synonyms": [
+   "contract",
+   "connection point"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "retrospective",
+  "tamil": "கடந்த சுற்றின் மதிப்பாய்வுக் கூட்டம்",
+  "pos": "noun",
+  "pron": "ret-roh-SPEK-tiv",
+  "example": "We discussed the delays in the retrospective.",
+  "exampleTamil": "ரெட்ரோஸ்பெக்டிவில் தாமதங்களைப் பற்றி விவாதித்தோம்.",
+  "synonyms": [
+   "review meeting",
+   "look-back"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "requirement",
+  "tamil": "தேவைக் குறிப்பு (ரிக்வயர்மெண்ட்)",
+  "pos": "noun",
+  "pron": "rih-KWYR-ment",
+  "example": "The client changed the requirements again.",
+  "exampleTamil": "வாடிக்கையாளர் மீண்டும் தேவைகளை மாற்றினார்.",
+  "synonyms": [
+   "need",
+   "specification"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "documentation",
+  "tamil": "ஆவணங்கள் (டாக்குமென்டேஷன்)",
+  "pos": "noun",
+  "pron": "dok-yuh-men-TAY-shun",
+  "example": "Good documentation saves new joiners a lot of time.",
+  "exampleTamil": "நல்ல டாக்குமென்டேஷன் புதிதாக சேருபவர்களின் நேரத்தை மிச்சப்படுத்துகிறது.",
+  "synonyms": [
+   "docs",
+   "manual"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "user story",
+  "tamil": "பயனர் தேவையை விவரிக்கும் சிறு கதை",
+  "pos": "noun",
+  "pron": "YOO-zer STOR-ee",
+  "example": "Each user story needs clear acceptance criteria.",
+  "exampleTamil": "ஒவ்வொரு யூசர் ஸ்டோரிக்கும் தெளிவான ஏற்பு நிபந்தனைகள் தேவை.",
+  "synonyms": [
+   "requirement",
+   "task description"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "epic",
+  "tamil": "பெரிய பல பணித் தொகுப்பு (எபிக்)",
+  "pos": "noun",
+  "pron": "EP-ik",
+  "example": "This epic covers the whole checkout flow.",
+  "exampleTamil": "இந்த எபிக் முழு செக்அவுட் ஓட்டத்தையும் உள்ளடக்குகிறது.",
+  "synonyms": [
+   "large task",
+   "big feature"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "monolith",
+  "tamil": "ஒரே பெரிய அமைப்பு (மோனோலித்)",
+  "pos": "noun",
+  "pron": "MON-uh-lith",
+  "example": "We are splitting the monolith into smaller services.",
+  "exampleTamil": "மோனோலித்தை சிறிய சேவைகளாகப் பிரிக்கிறோம்.",
+  "synonyms": [
+   "single large system",
+   "big application"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sanitize",
+  "tamil": "உள்ளீட்டைச் சுத்தப்படுத்து",
+  "pos": "verb",
+  "pron": "SAN-ih-tyz",
+  "example": "Always sanitize user input before saving it.",
+  "exampleTamil": "சேமிக்கும் முன் எப்போதும் பயனர் உள்ளீட்டைச் சுத்தப்படுத்துங்கள்.",
+  "synonyms": [
+   "clean",
+   "filter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scalability",
+  "tamil": "விரிவாக்கத் திறன்",
+  "pos": "noun",
+  "pron": "skay-luh-BIL-ih-tee",
+  "example": "Scalability is our biggest concern for the launch.",
+  "exampleTamil": "ரிலீஸுக்கு ஸ்கேலபிலிட்டிதான் எங்கள் மிகப் பெரிய கவலை.",
+  "synonyms": [
+   "growth capacity",
+   "flexibility"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "decouple",
+  "tamil": "சார்பைப் பிரி (டிகப்பிள்)",
+  "pos": "verb",
+  "pron": "dee-KUP-ul",
+  "example": "We should decouple the billing module from the order module.",
+  "exampleTamil": "பில்லிங் மாட்யூலை ஆர்டர் மாட்யூலிலிருந்து டிகப்பிள் செய்ய வேண்டும்.",
+  "synonyms": [
+   "separate",
+   "detach"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "singleton",
+  "tamil": "ஒரே ஒரு நகல் மட்டும் உள்ள பொருள்",
+  "pos": "noun",
+  "pron": "SING-ul-tun",
+  "example": "The logger is a singleton shared by the whole app.",
+  "exampleTamil": "லாகர் முழு ஆப்பும் பகிரும் ஒரு சிங்கிள்டன்.",
+  "synonyms": [
+   "single instance",
+   "shared object"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dependency injection",
+  "tamil": "சார்புகளை வெளியிலிருந்து வழங்குதல்",
+  "pos": "noun",
+  "pron": "dih-PEN-dun-see in-JEK-shun",
+  "example": "Dependency injection makes the code easier to test.",
+  "exampleTamil": "டிபென்டன்சி இன்ஜெக்ஷன் கோடை டெஸ்ட் செய்ய எளிதாக்குகிறது.",
+  "synonyms": [
+   "inversion of control",
+   "wiring"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "technical debt",
+  "tamil": "தள்ளிப்போட்ட தரச் சீர்செய்தல் சுமை",
+  "pos": "noun",
+  "pron": "TEK-nih-kul DET",
+  "example": "Years of quick fixes created huge technical debt.",
+  "exampleTamil": "பல ஆண்டுகளின் விரைவுத் திருத்தங்கள் பெரிய டெக்னிகல் டெப்ட்டை உருவாக்கின.",
+  "synonyms": [
+   "code burden",
+   "shortcuts cost"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lazy loading",
+  "tamil": "தேவைப்படும்போது மட்டும் ஏற்றுதல்",
+  "pos": "noun",
+  "pron": "LAY-zee LOH-ding",
+  "example": "Lazy loading cut the first page load time in half.",
+  "exampleTamil": "லேசி லோடிங் முதல் பக்க ஏற்ற நேரத்தை பாதியாகக் குறைத்தது.",
+  "synonyms": [
+   "deferred loading",
+   "on-demand loading"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "transpile",
+  "tamil": "ஒரு மொழிக் கோடை இன்னொன்றாக மாற்று",
+  "pos": "verb",
+  "pron": "trans-PYL",
+  "example": "The tool will transpile TypeScript into JavaScript.",
+  "exampleTamil": "இந்தக் கருவி TypeScript-ஐ JavaScript ஆக ட்ரான்ஸ்பைல் செய்யும்.",
+  "synonyms": [
+   "convert",
+   "translate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "minify",
+  "tamil": "கோப்பைச் சுருக்கு (மினிஃபை)",
+  "pos": "verb",
+  "pron": "MIN-ih-fy",
+  "example": "We minify the scripts to reduce download time.",
+  "exampleTamil": "பதிவிறக்க நேரத்தைக் குறைக்க ஸ்கிரிப்ட்களை மினிஃபை செய்கிறோம்.",
+  "synonyms": [
+   "compress",
+   "shrink"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "debounce",
+  "tamil": "அடுத்தடுத்த செயல்களைத் தாமதப்படுத்து",
+  "pos": "verb",
+  "pron": "dee-BOWNS",
+  "example": "We debounce the search box to avoid extra requests.",
+  "exampleTamil": "தேவையற்ற ரிக்வெஸ்ட்களைத் தவிர்க்க தேடல் பெட்டியை டிபவுன்ஸ் செய்கிறோம்.",
+  "synonyms": [
+   "delay",
+   "throttle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "memoization",
+  "tamil": "முடிவுகளை நினைவில் வைத்துப் பயன்படுத்துதல்",
+  "pos": "noun",
+  "pron": "mem-oh-ih-ZAY-shun",
+  "example": "Memoization made the recursive function much faster.",
+  "exampleTamil": "மெமொயிசேஷன் ரிகர்ஸிவ் ஃபங்ஷனை மிகவும் வேகமாக்கியது.",
+  "synonyms": [
+   "caching",
+   "remembering results"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cohesion",
+  "tamil": "ஒரு பகுதியின் உள் இணைப்பு (கோஹீஷன்)",
+  "pos": "noun",
+  "pron": "koh-HEE-zhun",
+  "example": "High cohesion makes each class easier to understand.",
+  "exampleTamil": "உயர் கோஹீஷன் ஒவ்வொரு க்ளாஸையும் புரிந்துகொள்ள எளிதாக்குகிறது.",
+  "synonyms": [
+   "unity",
+   "consistency"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scaffold",
+  "tamil": "அடிப்படைக் கட்டமைப்பை உருவாக்கு",
+  "pos": "verb",
+  "pron": "SKAF-ohld",
+  "example": "The CLI can scaffold a new project in seconds.",
+  "exampleTamil": "CLI ஒரு புதிய ப்ராஜெக்ட்டை நொடிகளில் ஸ்காஃபோல்ட் செய்ய முடியும்.",
+  "synonyms": [
+   "generate",
+   "set up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "spike",
+  "tamil": "ஆராய்ச்சிக்கான குறுகிய பணி (ஸ்பைக்)",
+  "pos": "noun",
+  "pron": "SPYK",
+  "example": "We planned a two-day spike to try the new library.",
+  "exampleTamil": "புதிய லைப்ரரியை முயற்சிக்க இரண்டு நாள் ஸ்பைக் திட்டமிட்டோம்.",
+  "synonyms": [
+   "research task",
+   "experiment"
+  ],
+  "level": "advanced"
+ }
+]

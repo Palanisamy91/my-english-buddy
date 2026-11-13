@@ -1,0 +1,348 @@
+[
+ {
+  "word": "just",
+  "meaning": "Only; or a very short time ago.",
+  "tamil": "வெறும், இப்போது தான்",
+  "pos": "adverb",
+  "pron": "JUST",
+  "example": "I have just reached home.",
+  "exampleTamil": "நான் இப்போது தான் வீட்டுக்கு வந்தேன்.",
+  "synonyms": [
+   "only",
+   "merely"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "even",
+  "meaning": "Used to show something is surprising or extreme.",
+  "tamil": "கூட",
+  "pos": "adverb",
+  "pron": "EE-ven",
+  "example": "Even my little brother knows the answer.",
+  "exampleTamil": "என் தம்பிக்குக் கூட பதில் தெரியும்.",
+  "synonyms": [
+   "also",
+   "still"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "whatever",
+  "meaning": "Anything at all; used when you do not mind which.",
+  "tamil": "எதுவாக இருந்தாலும்",
+  "pos": "pronoun",
+  "pron": "wut-EV-er",
+  "example": "Whatever you choose is fine with me.",
+  "exampleTamil": "நீ எதைத் தேர்ந்தெடுத்தாலும் எனக்குச் சரி.",
+  "synonyms": [
+   "anything",
+   "no matter what"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hooray",
+  "meaning": "A shout of joy when something good happens.",
+  "tamil": "ஹூரே, மகிழ்ச்சி",
+  "pos": "interjection",
+  "pron": "hoo-RAY",
+  "example": "Hooray, we won the match!",
+  "exampleTamil": "ஹூரே, நாங்கள் போட்டியில் வென்றோம்!",
+  "synonyms": [
+   "hurrah",
+   "yay"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "phew",
+  "meaning": "Said when you feel relieved after a worry.",
+  "tamil": "அப்பாடா",
+  "pos": "interjection",
+  "pron": "FYOO",
+  "example": "Phew, I found my wallet!",
+  "exampleTamil": "அப்பாடா, என் பணப்பை கிடைத்துவிட்டது!",
+  "synonyms": [
+   "whew"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ugh",
+  "meaning": "Said when something is unpleasant or disgusting.",
+  "tamil": "சீ, அய்யோ",
+  "pos": "interjection",
+  "pron": "UG",
+  "example": "Ugh, the milk has gone bad.",
+  "exampleTamil": "சீ, பால் கெட்டுப் போய்விட்டது.",
+  "synonyms": [
+   "yuck"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hmm",
+  "meaning": "A sound you make when you are thinking or unsure.",
+  "tamil": "ம்ம்",
+  "pos": "interjection",
+  "pron": "HMM",
+  "example": "Hmm, I am not sure about that.",
+  "exampleTamil": "ம்ம், அதைப் பற்றி எனக்கு உறுதியாகத் தெரியவில்லை.",
+  "synonyms": [
+   "well",
+   "um"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "take care",
+  "meaning": "Said to wish someone safety when you part.",
+  "tamil": "பத்திரமாக இருங்கள்",
+  "pos": "phrase",
+  "pron": "TAYK KAIR",
+  "example": "Take care and message me when you reach.",
+  "exampleTamil": "பத்திரமாக இருங்கள், போய்ச் சேர்ந்ததும் எனக்குச் செய்தி அனுப்புங்கள்.",
+  "synonyms": [
+   "stay safe",
+   "goodbye"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "good luck",
+  "meaning": "Words you say to wish someone success.",
+  "tamil": "நல்வாழ்த்துகள்",
+  "pos": "phrase",
+  "pron": "good LUK",
+  "example": "Good luck for your exam tomorrow!",
+  "exampleTamil": "நாளைய தேர்வுக்கு நல்வாழ்த்துகள்!",
+  "synonyms": [
+   "best wishes"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "well done",
+  "meaning": "Words of praise for good work.",
+  "tamil": "நன்றாகச் செய்தாய்",
+  "pos": "phrase",
+  "pron": "wel DUN",
+  "example": "Well done, you passed the test!",
+  "exampleTamil": "நன்றாகச் செய்தாய், நீ தேர்வில் தேறிவிட்டாய்!",
+  "synonyms": [
+   "bravo",
+   "good job"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "greetings",
+  "meaning": "Friendly words said when meeting someone.",
+  "tamil": "வாழ்த்துகள், வணக்கங்கள்",
+  "pos": "noun",
+  "pron": "GREE-tingz",
+  "example": "He sent festival greetings to everyone.",
+  "exampleTamil": "அவர் எல்லோருக்கும் பண்டிகை வாழ்த்துகளை அனுப்பினார்.",
+  "synonyms": [
+   "salutations",
+   "regards"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "agreed",
+  "meaning": "Used to say that you accept a plan or idea.",
+  "tamil": "ஒப்புக்கொண்டேன்",
+  "pos": "interjection",
+  "pron": "uh-GREED",
+  "example": "Agreed, let us meet at five.",
+  "exampleTamil": "ஒப்புக்கொண்டேன், ஐந்து மணிக்குச் சந்திக்கலாம்.",
+  "synonyms": [
+   "okay",
+   "deal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "literally",
+  "meaning": "Exactly as the words say; used also to add emphasis.",
+  "tamil": "சொல்லப்போனால் அப்படியே",
+  "pos": "adverb",
+  "pron": "LIT-er-uh-lee",
+  "example": "I literally waited for two hours.",
+  "exampleTamil": "நான் சத்தியமாக இரண்டு மணி நேரம் காத்திருந்தேன்.",
+  "synonyms": [
+   "truly",
+   "actually"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "afterwards",
+  "meaning": "At a later time; after something has happened.",
+  "tamil": "பின்னர்",
+  "pos": "adverb",
+  "pron": "AF-ter-werdz",
+  "example": "We had dinner and watched TV afterwards.",
+  "exampleTamil": "நாங்கள் இரவு உணவு சாப்பிட்டு பின்னர் டிவி பார்த்தோம்.",
+  "synonyms": [
+   "later",
+   "then"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "beforehand",
+  "meaning": "Earlier than a particular time or event.",
+  "tamil": "முன்கூட்டியே",
+  "pos": "adverb",
+  "pron": "bih-FOR-hand",
+  "example": "Please tell me beforehand if you cannot come.",
+  "exampleTamil": "நீ வர முடியாவிட்டால் முன்கூட்டியே சொல்லுங்கள்.",
+  "synonyms": [
+   "in advance",
+   "earlier"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "possibly",
+  "meaning": "Perhaps; it may be true or may happen.",
+  "tamil": "ஒருவேளை, சாத்தியமாக",
+  "pos": "adverb",
+  "pron": "POS-uh-blee",
+  "example": "I can possibly come on Sunday.",
+  "exampleTamil": "நான் ஞாயிற்றுக்கிழமை ஒருவேளை வரலாம்.",
+  "synonyms": [
+   "perhaps",
+   "maybe"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hopefully",
+  "meaning": "Used when you wish that something will happen.",
+  "tamil": "நம்பிக்கையுடன், நல்லபடியாக",
+  "pos": "adverb",
+  "pron": "HOHP-fuh-lee",
+  "example": "Hopefully, it will not rain tomorrow.",
+  "exampleTamil": "நாளை மழை பெய்யாது என்று நம்புகிறேன்.",
+  "synonyms": [
+   "with luck",
+   "God willing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "naturally",
+  "meaning": "Of course; as you would expect.",
+  "tamil": "இயல்பாகவே, நிச்சயமாக",
+  "pos": "adverb",
+  "pron": "NACH-er-uh-lee",
+  "example": "Naturally, I said yes to the invitation.",
+  "exampleTamil": "இயல்பாகவே, நான் அழைப்பை ஏற்றுக்கொண்டேன்.",
+  "synonyms": [
+   "of course",
+   "obviously"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "indeed",
+  "meaning": "Used to agree strongly or to add emphasis.",
+  "tamil": "உண்மையில், ஆமாம்",
+  "pos": "adverb",
+  "pron": "in-DEED",
+  "example": "It was indeed a very good meal.",
+  "exampleTamil": "அது உண்மையில் மிகவும் நல்ல உணவு.",
+  "synonyms": [
+   "truly",
+   "certainly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "totally",
+  "meaning": "Completely; used for strong agreement.",
+  "tamil": "முற்றிலும்",
+  "pos": "adverb",
+  "pron": "TOH-tuh-lee",
+  "example": "I totally agree with you.",
+  "exampleTamil": "நான் உன்னுடன் முற்றிலும் ஒத்துக்கொள்கிறேன்.",
+  "synonyms": [
+   "completely",
+   "fully"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "completely",
+  "meaning": "In every way; fully.",
+  "tamil": "முழுமையாக",
+  "pos": "adverb",
+  "pron": "kum-PLEET-lee",
+  "example": "I completely forgot about the meeting.",
+  "exampleTamil": "நான் கூட்டத்தை முழுவதுமாக மறந்துவிட்டேன்.",
+  "synonyms": [
+   "fully",
+   "entirely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "simply",
+  "meaning": "In a plain way; or only.",
+  "tamil": "எளிமையாக, வெறுமனே",
+  "pos": "adverb",
+  "pron": "SIM-plee",
+  "example": "Please explain it simply.",
+  "exampleTamil": "தயவுசெய்து அதை எளிமையாக விளக்குங்கள்.",
+  "synonyms": [
+   "just",
+   "plainly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "anymore",
+  "meaning": "Not any longer; no more.",
+  "tamil": "இனிமேல் இல்லை",
+  "pos": "adverb",
+  "pron": "en-ee-MOR",
+  "example": "I do not drink coffee anymore.",
+  "exampleTamil": "நான் இனி காபி குடிப்பதில்லை.",
+  "synonyms": [
+   "no longer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "how come",
+  "meaning": "Used to ask why or for what reason something happened.",
+  "tamil": "எப்படி / ஏன் அப்படி",
+  "pos": "phrase",
+  "pron": "how KUM",
+  "example": "How come you are not at school today?",
+  "exampleTamil": "நீ ஏன் இன்று பள்ளியில் இல்லை?",
+  "synonyms": [
+   "why",
+   "for what reason"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "any idea",
+  "meaning": "Used to ask if someone knows or can guess something.",
+  "tamil": "ஏதாவது யோசனை / தெரியுமா",
+  "pos": "phrase",
+  "pron": "EN-ee eye-DEE-uh",
+  "example": "Any idea where my phone charger is?",
+  "exampleTamil": "என் போன் சார்ஜர் எங்கே இருக்கிறது என்று ஏதாவது தெரியுமா?",
+  "synonyms": [
+   "do you know",
+   "any clue"
+  ],
+  "level": "intermediate"
+ }
+]

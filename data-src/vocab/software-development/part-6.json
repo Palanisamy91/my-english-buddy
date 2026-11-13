@@ -1,0 +1,54 @@
+[
+ {
+  "word": "uninstall",
+  "tamil": "நிறுவலை நீக்கு (அன்இன்ஸ்டால்)",
+  "pos": "verb",
+  "pron": "un-in-STAWL",
+  "example": "Uninstall the old version before you install the new one.",
+  "exampleTamil": "புதியதை நிறுவும் முன் பழைய பதிப்பை அன்இன்ஸ்டால் செய்யுங்கள்.",
+  "synonyms": [
+   "remove",
+   "delete"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "downgrade",
+  "tamil": "பழைய பதிப்புக்கு மாற்று (டவுன்கிரேட்)",
+  "pos": "verb",
+  "pron": "down-GRAYD",
+  "example": "We had to downgrade the library to fix the crash.",
+  "exampleTamil": "க்ராஷை சரிசெய்ய லைப்ரரியை டவுன்கிரேட் செய்ய வேண்டியிருந்தது.",
+  "synonyms": [
+   "roll back",
+   "revert"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overhead",
+  "tamil": "கூடுதல் செயலாக்கச் சுமை (ஓவர்ஹெட்)",
+  "pos": "noun",
+  "pron": "OH-ver-hed",
+  "example": "Logging every call adds a lot of overhead.",
+  "exampleTamil": "ஒவ்வொரு அழைப்பையும் பதிவு செய்தால் நிறைய ஓவர்ஹெட் சேர்கிறது.",
+  "synonyms": [
+   "extra cost",
+   "burden"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rerun",
+  "tamil": "மீண்டும் இயக்கு (ரீரன்)",
+  "pos": "verb",
+  "pron": "ree-RUN",
+  "example": "Please rerun the pipeline once the fix is merged.",
+  "exampleTamil": "திருத்தம் மெர்ஜ் ஆனதும் பைப்லைனை மீண்டும் இயக்குங்கள்.",
+  "synonyms": [
+   "run again",
+   "repeat"
+  ],
+  "level": "intermediate"
+ }
+]

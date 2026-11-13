@@ -1,0 +1,308 @@
+[
+ {
+  "category": "office",
+  "context": "Router trouble during a WFH day",
+  "level": "beginner",
+  "en": "My home Wi-Fi keeps dropping since morning, so I might miss the call.",
+  "tamil": "காலையில இருந்து வீட்டு வைஃபை அடிக்கடி கட் ஆகுது, அதனால கால் மிஸ் ஆகலாம்.",
+  "reply": "No problem. Join from your phone hotspot if needed, and we'll share the notes later.",
+  "replyTamil": "பரவாயில்லை. தேவைன்னா போன் ஹாட்ஸ்பாட்ல சேருங்க, நோட்ஸ் அப்புறம் அனுப்புறோம்."
+ },
+ {
+  "category": "office",
+  "context": "Asking about working from home",
+  "level": "beginner",
+  "en": "Are you working from home tomorrow?",
+  "tamil": "நாளைக்கு வீட்டிலிருந்து வேலை செய்றீங்களா?",
+  "reply": "Yes, I am. I have a plumber coming in the morning.",
+  "replyTamil": "ஆமா. காலையில ஒரு பிளம்பர் வர்றார்."
+ },
+ {
+  "category": "office",
+  "context": "Video call background noise",
+  "level": "beginner",
+  "en": "Sorry, there's some noise on my side. The neighbours are doing repair work.",
+  "tamil": "மன்னிக்கணும், என் பக்கம் சத்தம் இருக்கு. பக்கத்து வீட்டுல ரிப்பேர் வேலை நடக்குது.",
+  "reply": "No problem. Just keep yourself on mute when you're not talking.",
+  "replyTamil": "பரவாயில்லை. பேசாதப்போ மியூட்ல வச்சிருங்க."
+ },
+ {
+  "context": "Checking remote access trouble",
+  "level": "beginner",
+  "en": "Are you able to log in from home today?",
+  "tamil": "இன்னைக்கு வீட்டிலிருந்து லாகின் பண்ண முடியுதா?",
+  "reply": "Not really. It asks for a code and then just hangs.",
+  "replyTamil": "இல்லை, உண்மையில். ஒரு கோடு கேட்டு, அப்புறம் அப்படியே நின்னுடுது.",
+  "category": "office"
+ },
+ {
+  "category": "office",
+  "context": "Power cut during work",
+  "level": "intermediate",
+  "en": "We had a power cut for two hours, so I couldn't log in this morning.",
+  "tamil": "ரெண்டு மணி நேரம் கரண்ட் கட் ஆனதால இன்னைக்கு காலையில லாகின் பண்ண முடியல.",
+  "reply": "That happens a lot in your area, right? Do you have a power bank or a hotspot as backup?",
+  "replyTamil": "உங்க ஏரியால அடிக்கடி இப்படி ஆகுதில்ல? பவர் பேங்க் அல்லது ஹாட்ஸ்பாட் பேக்கப்பா வச்சிருக்கீங்களா?"
+ },
+ {
+  "category": "office",
+  "context": "Hybrid office days",
+  "level": "intermediate",
+  "en": "How many days a week do we have to come to the office now?",
+  "tamil": "இப்போ வாரத்துல எத்தனை நாள் ஆபீசுக்கு வரணும்?",
+  "reply": "Three days, I think. HR is sending a mail this week, so let's wait for that.",
+  "replyTamil": "மூணு நாள்னு நினைக்கிறேன். இந்த வாரம் எச்ஆர் மெயில் அனுப்புவாங்க, அதுவரை பார்க்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Switching to mobile data",
+  "level": "intermediate",
+  "en": "My broadband just went down. I'll switch to mobile data and rejoin in five minutes.",
+  "tamil": "என் பிராட்பேண்ட் இப்போதான் போயிடுச்சு. மொபைல் டேட்டாவுக்கு மாறி ஐந்து நிமிஷத்துல மறுபடி சேர்றேன்.",
+  "reply": "Sure, take your time. We'll start with the other items and come back to yours.",
+  "replyTamil": "சரி, நிதானமா வாங்க. மத்த விஷயங்களை ஆரம்பிக்கிறோம், உங்களுடையதுக்கு அப்புறம் வர்றோம்."
+ },
+ {
+  "category": "office",
+  "context": "Feeling isolated while working remotely",
+  "level": "intermediate",
+  "en": "I miss the office a bit. It gets lonely working alone at home all day.",
+  "tamil": "எனக்கு ஆபீஸ் கொஞ்சம் ஞாபகம் வருது. நாள் முழுக்க வீட்டுல தனியா வேலை செய்றது தனிமையா இருக்கு.",
+  "reply": "I get that. Maybe we could have a virtual coffee break in the afternoon?",
+  "replyTamil": "புரியுது. மதியம் ஒரு வெர்ச்சுவல் காபி பிரேக் வச்சுக்கலாமா?"
+ },
+ {
+  "category": "office",
+  "context": "Blurry video in an online call",
+  "level": "advanced",
+  "en": "Your video keeps freezing. I think you're on a shaky connection.",
+  "tamil": "உங்க வீடியோ அடிக்கடி உறைஞ்சு போகுது. கனெக்ஷன் சரியில்லன்னு நினைக்கிறேன்.",
+  "reply": "Sorry about that. I'll turn off my camera for now and see if the audio holds up.",
+  "replyTamil": "மன்னிச்சுக்கோங்க. இப்போதைக்கு கேமராவை ஆஃப் பண்றேன், ஆடியோ சரியா வருதான்னு பார்க்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Blurring work and home",
+  "level": "advanced",
+  "en": "Working from home has blurred the line between office and personal time for me.",
+  "tamil": "வீட்டிலிருந்து வேலை செய்றதால எனக்கு ஆபீஸ் நேரத்துக்கும் சொந்த நேரத்துக்கும் இடையிலான கோடே மங்கிப் போச்சு.",
+  "reply": "Same here. I've started shutting my laptop at six sharp, otherwise I end up working till dinner.",
+  "replyTamil": "எனக்கும் அதே. சரியா ஆறு மணிக்கு லேப்டாப்பை மூட ஆரம்பிச்சேன், இல்லன்னா சாப்பாடு வரைக்கும் வேலை செஞ்சுக்கிட்டே இருப்பேன்."
+ },
+ {
+  "category": "office",
+  "context": "Asking for a day off",
+  "level": "beginner",
+  "en": "Can I take leave on Friday?",
+  "tamil": "வெள்ளிக்கிழமை நான் லீவ் எடுக்கலாமா?",
+  "reply": "Sure, apply in the system and I'll approve it. Is it for something special?",
+  "replyTamil": "சரி, சிஸ்டத்துல அப்ளை பண்ணுங்க, நான் அப்ரூவ் பண்றேன். ஏதாவது விசேஷமா?"
+ },
+ {
+  "category": "office",
+  "context": "Sick leave message",
+  "level": "beginner",
+  "en": "I have a fever, so I can't come today.",
+  "tamil": "எனக்கு காய்ச்சல், அதனால இன்னைக்கு வர முடியாது.",
+  "reply": "Take care of yourself. Get some rest and see a doctor if it doesn't go down.",
+  "replyTamil": "உடம்பைப் பார்த்துக்கோங்க. ஓய்வு எடுங்க, குறையலன்னா டாக்டரைப் பாருங்க."
+ },
+ {
+  "category": "office",
+  "context": "Leaving early for a bank visit",
+  "level": "beginner",
+  "en": "May I leave an hour early today? I have a bank work.",
+  "tamil": "இன்னைக்கு ஒரு மணி நேரம் முன்னாடி கிளம்பலாமா? பேங்கில ஒரு வேலை இருக்கு.",
+  "reply": "Yes, no problem. Just update your tasks before you go.",
+  "replyTamil": "சரி, பிரச்சனை இல்லை. போறதுக்கு முன்னாடி உங்க டாஸ்க்குகளை அப்டேட் பண்ணிடுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Half-day permission",
+  "level": "intermediate",
+  "en": "I need to take a half day tomorrow for my daughter's school meeting. Is that fine?",
+  "tamil": "என் மகளோட ஸ்கூல் மீட்டிங்குக்காக நாளைக்கு அரை நாள் லீவ் எடுக்கணும். பரவாயில்லையா?",
+  "reply": "Of course. Just make sure someone covers your support queue in the afternoon.",
+  "replyTamil": "கண்டிப்பா. மதியம் உங்க சப்போர்ட் வேலையை யாராவது பார்த்துக்கிறாங்கன்னு உறுதி பண்ணிடுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Leave balance question",
+  "level": "intermediate",
+  "en": "How many casual leaves do I have left this year?",
+  "tamil": "இந்த வருஷம் எனக்கு எத்தனை கேஷுவல் லீவ் மீதி இருக்கு?",
+  "reply": "Let me check the portal. It says four, but two of them expire at the end of December.",
+  "replyTamil": "போர்ட்டல்ல பார்க்கிறேன். நாலுன்னு காட்டுது, ஆனா அதுல ரெண்டு டிசம்பர் கடைசில காலாவதி ஆயிடும்."
+ },
+ {
+  "category": "office",
+  "context": "Handover before a long leave",
+  "level": "intermediate",
+  "en": "I'll be away for two weeks from Monday. Who should cover my tasks?",
+  "tamil": "திங்கள்கிழமையிலிருந்து ரெண்டு வாரம் நான் இருக்க மாட்டேன். என் வேலையை யார் பார்க்கணும்?",
+  "reply": "Let's ask Divya. Write a short handover note so she knows where everything stands.",
+  "replyTamil": "திவ்யாவைக் கேட்கலாம். எல்லாம் எந்த நிலைமைல இருக்குன்னு தெரிய ஒரு சின்ன ஹேண்டோவர் நோட் எழுதுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Leave for a family function",
+  "level": "intermediate",
+  "en": "My cousin's wedding is in Madurai next month. I'd like to apply for four days.",
+  "tamil": "அடுத்த மாசம் மதுரையில என் சித்தப்பா மகன் கல்யாணம். நாலு நாள் லீவுக்கு அப்ளை பண்ணணும்.",
+  "reply": "Congratulations to the family! Send the request early so we can plan the sprint around it.",
+  "replyTamil": "குடும்பத்துக்கு வாழ்த்துகள்! ஸ்பிரிண்டை அதுக்கேத்த மாதிரி திட்டமிட, சீக்கிரம் ரிக்வெஸ்ட் அனுப்புங்க."
+ },
+ {
+  "category": "office",
+  "context": "Being called during leave",
+  "level": "advanced",
+  "en": "Sorry to disturb you on your day off, but production needs your input.",
+  "tamil": "உங்க லீவ் நாள்ல தொந்தரவு பண்றதுக்கு மன்னிக்கணும், ஆனா புரொடக்ஷனுக்கு உங்க உதவி தேவைப்படுது.",
+  "reply": "No worries, I can spare ten minutes. But please don't make this a habit.",
+  "replyTamil": "பரவாயில்லை, பத்து நிமிஷம் ஒதுக்க முடியும். ஆனா இதை வழக்கமாக்கிடாதீங்க."
+ },
+ {
+  "category": "office",
+  "context": "Taking a long break",
+  "level": "advanced",
+  "en": "I've been burning the candle at both ends. I'd like to take a week off to recharge.",
+  "tamil": "ரொம்ப நாளா ராத்திரி பகலா உழைச்சுக்கிட்டு இருக்கேன். மறுபடி உற்சாகம் பெற ஒரு வாரம் லீவ் எடுக்க விரும்பறேன்.",
+  "reply": "You've earned it. Let's plan it right after the release so nothing is left hanging.",
+  "replyTamil": "நீங்க அதுக்குத் தகுதியானவர்தான். எதுவும் நிலுவையில இருக்காம, ரிலீஸுக்கு உடனே அப்புறம் வச்சுக்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Leave during a critical period",
+  "level": "advanced",
+  "en": "I know it's a bad time with the release coming, but I really can't postpone this trip.",
+  "tamil": "ரிலீஸ் நெருங்குற நேரத்துல இது சரியான நேரம் இல்லன்னு தெரியும், ஆனா இந்தப் பயணத்தை தள்ளிப் போட முடியவே இல்லை.",
+  "reply": "I understand. Let's see how we can shuffle things so you're covered and the team isn't stuck.",
+  "replyTamil": "புரியுது. நீங்களும் போகலாம், டீமும் சிக்காம இருக்கணும்னா வேலையை எப்படி மாத்தி அமைக்கலாம்னு பார்க்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Manager asks for a quick chat",
+  "level": "beginner",
+  "en": "Do you have a few minutes? I'd like to talk to you.",
+  "tamil": "உங்களுக்கு கொஞ்ச நேரம் இருக்கா? உங்ககிட்ட பேசணும்.",
+  "reply": "Yes, sure. Should I come to your desk or to the meeting room?",
+  "replyTamil": "ஆமா, சரி. உங்க இடத்துக்கு வரட்டுமா, இல்ல மீட்டிங் ரூமுக்கா?"
+ },
+ {
+  "category": "office",
+  "context": "Manager praises the work",
+  "level": "beginner",
+  "en": "Good job on the demo yesterday!",
+  "tamil": "நேத்து டெமோ நல்லா பண்ணீங்க!",
+  "reply": "Thank you so much! The whole team helped, to be honest.",
+  "replyTamil": "ரொம்ப நன்றி! உண்மையில, முழு டீமும் உதவினாங்க."
+ },
+ {
+  "category": "office",
+  "context": "Manager asks about workload",
+  "level": "beginner",
+  "en": "How is your workload these days?",
+  "tamil": "இப்பல்லாம் உங்க வேலைப்பளு எப்படி இருக்கு?",
+  "reply": "It's a bit heavy this week, but I can manage. Thanks for asking.",
+  "replyTamil": "இந்த வாரம் கொஞ்சம் அதிகமா இருக்கு, ஆனா சமாளிக்க முடியும். கேட்டதுக்கு நன்றி."
+ },
+ {
+  "category": "office",
+  "context": "Manager gives feedback",
+  "level": "intermediate",
+  "en": "I'd like to give you some feedback on your last presentation. Is now a good time?",
+  "tamil": "உங்க கடைசி பிரசன்டேஷன் பத்தி கொஞ்சம் ஃபீட்பேக் கொடுக்கணும். இப்போ சரியான நேரமா?",
+  "reply": "Yes, please go ahead. I'd really like to know what I can improve.",
+  "replyTamil": "ஆமா, சொல்லுங்க. எதை மேம்படுத்தலாம்னு தெரிஞ்சுக்க ஆசைப்படறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Manager offers a new responsibility",
+  "level": "intermediate",
+  "en": "I was thinking of making you the point of contact for the payments module. Interested?",
+  "tamil": "பேமென்ட்ஸ் மாட்யூலுக்கு உங்களையே பொறுப்பாளரா வைக்கலாம்னு நினைச்சேன். விருப்பமா?",
+  "reply": "I'd love that. Will I get some time to go through the code first?",
+  "replyTamil": "எனக்கு ரொம்ப விருப்பம். முதல்ல கோடைப் படிச்சுப் பார்க்க கொஞ்சம் நேரம் கிடைக்குமா?"
+ },
+ {
+  "category": "office",
+  "context": "Manager asks for an honest opinion",
+  "level": "intermediate",
+  "en": "Be honest with me. Is the team comfortable with the new process?",
+  "tamil": "உண்மையா சொல்லுங்க. புதுசா வந்த நடைமுறை டீமுக்கு சௌகரியமா இருக்கா?",
+  "reply": "Mostly, yes. A few people find the daily reports repetitive, though.",
+  "replyTamil": "பெரும்பாலும் ஆமா. ஆனா சிலருக்கு தினசரி ரிப்போர்ட் திரும்பத் திரும்ப வர்ற மாதிரி தோணுது."
+ },
+ {
+  "category": "office",
+  "context": "Skip-level catch-up",
+  "level": "intermediate",
+  "en": "My manager's manager wants a one-on-one with me next week. Should I be worried?",
+  "tamil": "என் மேனேஜரோட மேனேஜர் அடுத்த வாரம் என்கிட்ட தனியா பேசணும்னு சொல்றார். நான் கவலைப்படணுமா?",
+  "reply": "Not at all. Those are usually just casual check-ins. Go with an open mind.",
+  "replyTamil": "இல்லவே இல்லை. அதெல்லாம் பொதுவா சாதாரண சந்திப்புதான். திறந்த மனசோட போங்க."
+ },
+ {
+  "category": "office",
+  "context": "Asking the manager for guidance",
+  "level": "advanced",
+  "en": "I'd value your input on how I can grow into a lead role over the next year.",
+  "tamil": "அடுத்த ஒரு வருஷத்துல லீட் பொறுப்புக்கு நான் எப்படி வளரலாம்னு உங்க ஆலோசனை எனக்கு முக்கியம்.",
+  "reply": "That's good to hear. Let's set up a proper session and map out a few milestones together.",
+  "replyTamil": "கேட்க நல்லா இருக்கு. ஒரு முறையான சந்திப்பு வச்சு, சில இலக்குகளை சேர்ந்து வகுப்போம்."
+ },
+ {
+  "category": "office",
+  "context": "Manager asks you to take initiative",
+  "level": "advanced",
+  "en": "I'd like to see you speak up more in client meetings. You clearly know your stuff.",
+  "tamil": "க்ளையன்ட் மீட்டிங்ல நீங்க இன்னும் அதிகமா பேசணும்னு எதிர்பார்க்கிறேன். உங்களுக்கு விஷயம் நல்லா தெரியும்.",
+  "reply": "Thanks, that means a lot. I tend to hold back, but I'll make an effort from the next call.",
+  "replyTamil": "நன்றி, இது எனக்கு பெரிய விஷயம். நான் கொஞ்சம் தயங்குவேன், ஆனா அடுத்த கால்ல இருந்து முயற்சி பண்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Manager asks what is going on",
+  "level": "advanced",
+  "en": "You've seemed a bit off lately. Is there anything I can help with?",
+  "tamil": "சமீபத்துல நீங்க கொஞ்சம் சரியில்லாத மாதிரி தெரியுது. நான் ஏதாவது உதவ முடியுமா?",
+  "reply": "Thanks for noticing. Things are a bit stressful at home, but I'm sorting them out.",
+  "replyTamil": "கவனிச்சதுக்கு நன்றி. வீட்டுல கொஞ்சம் டென்ஷன், ஆனா சரி பண்ணிக்கிட்டு இருக்கேன்."
+ },
+ {
+  "category": "office",
+  "context": "Appraisal cycle starts",
+  "level": "beginner",
+  "en": "The appraisal cycle starts next week.",
+  "tamil": "அடுத்த வாரம் அப்ரைசல் சுற்று ஆரம்பிக்குது.",
+  "reply": "Oh, already? I need to write my self-review first.",
+  "replyTamil": "ஓ, இப்பவேவா? முதல்ல என் செல்ஃப் ரிவ்யூ எழுதணும்."
+ },
+ {
+  "category": "office",
+  "context": "Asking about a raise",
+  "level": "beginner",
+  "en": "When will we get to know about the salary hike?",
+  "tamil": "சம்பள உயர்வு பத்தி எப்போ தெரியும்?",
+  "reply": "Usually in April. They'll announce it after all the reviews are done.",
+  "replyTamil": "பொதுவா ஏப்ரல்ல. எல்லா ரிவ்யூவும் முடிஞ்சதும் அறிவிப்பாங்க."
+ },
+ {
+  "category": "office",
+  "context": "Salary credit delay",
+  "level": "beginner",
+  "en": "Has the salary come into your account yet?",
+  "tamil": "உங்க அக்கவுண்ட்ல சம்பளம் வந்துடுச்சா?",
+  "reply": "Not yet. It usually comes by the first, so maybe it'll be today evening.",
+  "replyTamil": "இன்னும் இல்லை. பொதுவா ஒண்ணாம் தேதிக்குள்ள வரும், இன்னைக்கு சாயந்திரம் வரலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Self-review writing",
+  "level": "beginner",
+  "en": "What should I write in my self-review?",
+  "tamil": "என் செல்ஃப் ரிவ்யூல என்ன எழுதணும்?",
+  "reply": "Write what you delivered this year and what you learned. Keep it simple and use numbers.",
+  "replyTamil": "இந்த வருஷம் நீங்க செஞ்சு முடிச்சதையும் கத்துக்கிட்டதையும் எழுதுங்க. எளிமையா வச்சு, எண்களைப் பயன்படுத்துங்க."
+ }
+]

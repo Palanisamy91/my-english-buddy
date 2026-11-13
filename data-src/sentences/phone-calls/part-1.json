@@ -1,0 +1,310 @@
+[
+ {
+  "en": "Hello, who is speaking, please?",
+  "tamil": "ஹலோ, யார் பேசறீங்க?",
+  "context": "When you answer an unknown number.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "We use \"is speaking\" for who is on the phone. \"Please\" makes it polite.",
+  "words": [
+   "speaking"
+  ]
+ },
+ {
+  "en": "I will call you back in ten minutes.",
+  "tamil": "நான் பத்து நிமிஷத்துல உங்களுக்கு திருப்பி கூப்பிடறேன்.",
+  "context": "When you are busy and cannot talk now.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "\"Will\" shows a promise. \"Call back\" means to phone again later.",
+  "words": [
+   "call back"
+  ],
+  "alt": {
+   "en": "I'll ring you back after the meeting.",
+   "tamil": "மீட்டிங் முடிஞ்சதும் நான் உங்களுக்கு திருப்பி கூப்பிடறேன்."
+  }
+ },
+ {
+  "en": "Sorry, I missed your call earlier.",
+  "tamil": "மன்னிச்சுக்கோங்க, முன்னாடி உங்க கால எடுக்க முடியல.",
+  "context": "When you see a missed call and ring back.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "\"Missed\" is the past of \"miss\". We say \"miss a call\" when we do not answer.",
+  "words": [
+   "missed"
+  ],
+  "alt": {
+   "en": "Sorry, I could not pick up your call.",
+   "tamil": "மன்னிச்சுக்கோங்க, உங்க கால எடுக்க முடியல."
+  }
+ },
+ {
+  "en": "I can't hear you properly.",
+  "tamil": "எனக்கு உங்க குரல் சரியா கேக்கல.",
+  "context": "When the line is bad.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "\"Can't hear\" is a very common phrase for a poor line.",
+  "words": [
+   "hear"
+  ]
+ },
+ {
+  "en": "The network is very weak here.",
+  "tamil": "இங்க நெட்வொர்க் ரொம்ப வீக்கா இருக்கு.",
+  "context": "When the signal is poor in a place.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use \"is\" with \"network\". \"Weak\" describes a poor signal.",
+  "words": [
+   "network",
+   "weak"
+  ]
+ },
+ {
+  "en": "Can you hear me now?",
+  "tamil": "இப்போ என் குரல் கேக்குதா?",
+  "context": "After you move to a better signal.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "Start with \"can\" to ask if something is possible. \"Now\" shows you just tried something.",
+  "words": [
+   "hear"
+  ]
+ },
+ {
+  "en": "Please leave a message after the beep.",
+  "tamil": "பீப் சத்தத்துக்கு அப்புறம் ஒரு மெசேஜ் விடுங்க.",
+  "context": "A voicemail greeting.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "We use the base verb for a command. \"Please\" makes it a polite request.",
+  "words": [
+   "message",
+   "beep"
+  ]
+ },
+ {
+  "en": "Could you please ask him to call me back?",
+  "tamil": "அவரை எனக்கு திருப்பி கூப்பிடச் சொல்றீங்களா?",
+  "context": "When the person you want is not available.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "\"Could you\" is a polite way to ask. \"Ask him to call\" means give him a message.",
+  "words": [
+   "call me back"
+  ],
+  "alt": {
+   "en": "Can you tell him to ring me?",
+   "tamil": "அவரை எனக்கு போன் பண்ணச் சொல்லுங்க."
+  }
+ },
+ {
+  "en": "He is on another call right now.",
+  "tamil": "அவர் இப்போ வேற கால்ல இருக்கார்.",
+  "context": "When you answer for a busy colleague.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "\"Is on a call\" means he is busy talking to someone.",
+  "words": [
+   "another call"
+  ]
+ },
+ {
+  "en": "Hold on, I will transfer your call.",
+  "tamil": "கொஞ்சம் இருங்க, உங்க காலை மாத்தி விடறேன்.",
+  "context": "When you connect a caller to someone else.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "\"Hold on\" means wait. \"Transfer\" means to send the call to another person.",
+  "words": [
+   "transfer",
+   "hold on"
+  ]
+ },
+ {
+  "en": "I have been trying to reach you since morning.",
+  "tamil": "நான் காலையில இருந்து உங்கள தொடர்பு கொள்ள முயற்சி பண்றேன்.",
+  "context": "When you called many times without luck.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "\"Have been trying\" shows something that started in the past and continues. \"Since\" gives the starting time.",
+  "words": [
+   "reach"
+  ],
+  "alt": {
+   "en": "I have been calling you all morning.",
+   "tamil": "நான் காலை முழுக்க உங்களுக்கு கூப்பிட்டுட்டே இருக்கேன்."
+  }
+ },
+ {
+  "en": "Your phone was switched off yesterday.",
+  "tamil": "உங்க போன் நேத்து ஸ்விட்ச் ஆஃப்ல இருந்துச்சு.",
+  "context": "When you could not reach someone.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "\"Was\" is used with \"phone\" in the past. \"Switched off\" means the phone was not on.",
+  "words": [
+   "switched off"
+  ]
+ },
+ {
+  "en": "Did you get my voicemail?",
+  "tamil": "என் வாய்ஸ்மெயில் உங்களுக்கு கிடைச்சுதா?",
+  "context": "When you left a voice message earlier.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Use \"did\" with the base verb \"get\" to ask about the past.",
+  "words": [
+   "voicemail"
+  ]
+ },
+ {
+  "en": "I am calling about my internet bill.",
+  "tamil": "என் இன்டர்நெட் பில் விஷயமா கூப்பிடறேன்.",
+  "context": "When you start a customer care call.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "\"I am calling about\" is a polite way to say why you phoned.",
+  "words": [
+   "calling"
+  ]
+ },
+ {
+  "en": "My internet has not been working since yesterday.",
+  "tamil": "என் இன்டர்நெட் நேத்துல இருந்து வேலை செய்யல.",
+  "context": "When you complain to customer care.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "\"Has not been working\" shows a problem that began in the past and is still there.",
+  "words": [
+   "working"
+  ],
+  "alt": {
+   "en": "My internet is not working at all.",
+   "tamil": "என் இன்டர்நெட் சுத்தமா வேலை செய்யல."
+  }
+ },
+ {
+  "en": "Can I speak to someone in Tamil, please?",
+  "tamil": "நான் தமிழ்ல பேசற ஒருத்தர்கிட்ட பேசலாமா?",
+  "context": "When you want help in your own language.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "\"Can I speak to\" is the usual way to ask for a person on the phone.",
+  "words": [
+   "speak"
+  ]
+ },
+ {
+  "en": "Could you give me your complaint number?",
+  "tamil": "உங்க புகார் எண்ணை சொல்றீங்களா?",
+  "context": "What a customer care agent may ask.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "\"Could you\" is a polite request. \"Complaint number\" is the reference number.",
+  "words": [
+   "complaint"
+  ]
+ },
+ {
+  "en": "Your call is important to us.",
+  "tamil": "உங்க கால் எங்களுக்கு ரொம்ப முக்கியம்.",
+  "context": "A common customer care message.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "This is a fixed phrase used by call centres. \"Important to us\" means we value it.",
+  "words": [
+   "important"
+  ]
+ },
+ {
+  "en": "Please stay on the line.",
+  "tamil": "தயவு செய்து லைன்ல இருங்க.",
+  "context": "When an agent makes you wait.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "\"Stay on the line\" means do not hang up. We use the base verb for polite orders.",
+  "words": [
+   "line"
+  ]
+ },
+ {
+  "en": "I have been on hold for twenty minutes.",
+  "tamil": "நான் இருபது நிமிஷமா ஹோல்டுல இருக்கேன்.",
+  "context": "When customer care keeps you waiting.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "\"Have been\" plus a time period shows how long something has continued.",
+  "words": [
+   "hold"
+  ],
+  "alt": {
+   "en": "I have been waiting for half an hour.",
+   "tamil": "நான் அரை மணி நேரமா காத்துட்டு இருக்கேன்."
+  }
+ },
+ {
+  "en": "Can you share your screen, please?",
+  "tamil": "உங்க ஸ்கிரீனை ஷேர் பண்ண முடியுமா?",
+  "context": "In a video call when someone needs to see your work.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "\"Share your screen\" is the common phrase in online meetings.",
+  "words": [
+   "share",
+   "screen"
+  ]
+ },
+ {
+  "en": "Your video is not working.",
+  "tamil": "உங்க வீடியோ வேலை செய்யல.",
+  "context": "In a video call when the camera is off.",
+  "tense": "present-continuous",
+  "type": "negative",
+  "explain": "\"Is not working\" tells us something is not functioning right now.",
+  "words": [
+   "video"
+  ]
+ },
+ {
+  "en": "Please turn on your camera.",
+  "tamil": "தயவு செய்து உங்க கேமராவை ஆன் பண்ணுங்க.",
+  "context": "In an online class or meeting.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "\"Turn on\" is a phrasal verb. Use the base form for a request.",
+  "words": [
+   "camera",
+   "turn on"
+  ],
+  "alt": {
+   "en": "Could you switch on your camera?",
+   "tamil": "உங்க கேமராவை ஆன் பண்ண முடியுமா?"
+  }
+ },
+ {
+  "en": "You are on mute.",
+  "tamil": "நீங்க மியூட்ல இருக்கீங்க.",
+  "context": "When someone talks but we cannot hear them.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "\"On mute\" means the microphone is off.",
+  "words": [
+   "mute"
+  ]
+ },
+ {
+  "en": "Let me unmute myself.",
+  "tamil": "நான் என்னை அன்மியூட் பண்ணிக்கறேன்.",
+  "context": "When you start speaking in an online meeting.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "\"Let me\" plus a base verb is a polite way to say you will do something.",
+  "words": [
+   "unmute"
+  ]
+ }
+]

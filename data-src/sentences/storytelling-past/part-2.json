@@ -1,0 +1,377 @@
+[
+ {
+  "en": "How was your journey last night?",
+  "tamil": "நேத்து ராத்திரி பயணம் எப்படி இருந்துச்சு?",
+  "context": "Asking a relative who just arrived.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'How was...?' asks for an opinion about a past event.",
+  "words": [
+   "journey",
+   "night"
+  ],
+  "usage": "Use it to be polite to guests who travelled a long way.",
+  "leelaQ": "How was your last long journey?",
+  "answer": "It was tiring, but the train was on time."
+ },
+ {
+  "en": "I have already finished my report, so I can go home.",
+  "tamil": "என் ரிப்போர்ட்டை ஏற்கனவே முடிச்சுட்டேன், அதனால நான் வீட்டுக்கு போகலாம்.",
+  "context": "Telling your team leader you are done.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Already' with present perfect shows the work is done earlier than expected.",
+  "words": [
+   "already",
+   "report"
+  ],
+  "usage": "Use it with a team leader to say your work is completed.",
+  "leelaQ": "Have you finished all your work for today?",
+  "answer": "Yes, I have finished everything and I am free now."
+ },
+ {
+  "en": "Can you explain what happened in the meeting yesterday?",
+  "tamil": "நேத்து மீட்டிங்ல என்ன நடந்துச்சுன்னு விளக்க முடியுமா?",
+  "context": "Asking a colleague who attended the meeting.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you explain' is a friendly request. The next part is in normal statement order.",
+  "words": [
+   "explain",
+   "meeting"
+  ],
+  "usage": "Use it with a colleague when you missed a meeting.",
+  "leelaQ": "What did you discuss in your last meeting?",
+  "answer": "We discussed the plan for next month."
+ },
+ {
+  "en": "The funniest thing happened today; the teacher called me by my father's name.",
+  "tamil": "இன்னைக்கு ஒரு காமெடி நடந்துச்சு, டீச்சர் என்னை எங்கப்பா பேர் சொல்லி கூப்பிட்டாங்க.",
+  "context": "Telling a friend a funny incident from school or college.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "The semicolon joins two related ideas. 'Funniest' is the superlative of 'funny'.",
+  "words": [
+   "funniest",
+   "teacher"
+  ],
+  "usage": "Use it to start a funny story with friends.",
+  "leelaQ": "What is the funniest thing that happened to you recently?",
+  "answer": "My friend sat on my chair and fell down laughing."
+ },
+ {
+  "en": "I could not find my keys anywhere this morning.",
+  "tamil": "இன்னைக்கு காலையில என் சாவியை எங்கயும் காணல.",
+  "context": "Explaining why you were late.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Could not' is the negative past of 'can'. It shows you were not able to do it.",
+  "words": [
+   "keys",
+   "anywhere"
+  ],
+  "usage": "Use it to explain a delay caused by a lost item.",
+  "leelaQ": "Where do you usually keep your keys?",
+  "answer": "I keep them on a hook near the door."
+ },
+ {
+  "en": "Early in the morning, we reached Chennai and took a cab to the hotel.",
+  "tamil": "அதிகாலையில சென்னை போய் சேர்ந்து, கேப் புடிச்சு ஹோட்டலுக்கு போனோம்.",
+  "context": "Describing the start of a trip.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Time phrases like 'early in the morning' set the scene at the start of a story.",
+  "words": [
+   "reached",
+   "cab"
+  ],
+  "usage": "Use it to describe how a journey began.",
+  "leelaQ": "How did you reach your last holiday place?",
+  "answer": "We went by train and then took a taxi to the resort."
+ },
+ {
+  "en": "Why were you late to the office yesterday?",
+  "tamil": "நேத்து ஏன் ஆபீசுக்கு லேட்டா வந்தீங்க?",
+  "context": "A manager politely asking about a delay.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Were' is the past of 'are' for 'you'. 'Why' asks for the reason.",
+  "words": [
+   "late",
+   "yesterday"
+  ],
+  "usage": "Use it with a team member who came late and needs to explain.",
+  "leelaQ": "Why were you late the last time?",
+  "answer": "I was late because of heavy traffic."
+ },
+ {
+  "en": "I slipped on the wet floor, but luckily nobody saw me.",
+  "tamil": "ஈரத்தரையில வழுக்கி விழுந்துட்டேன், நல்ல வேளையா யாரும் பார்க்கல.",
+  "context": "Telling a friend about an embarrassing moment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'But' shows a good point after a bad event. 'Luckily' adds a positive feeling.",
+  "words": [
+   "slipped",
+   "luckily"
+  ],
+  "usage": "Use it to share an embarrassing but harmless story.",
+  "leelaQ": "Have you ever felt embarrassed in public?",
+  "answer": "Yes, I once walked into a glass door in a mall."
+ },
+ {
+  "en": "Have you finished your lunch yet?",
+  "tamil": "நீங்க இன்னும் லஞ்ச் முடிக்கலையா?",
+  "context": "Asking a colleague before a meeting.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Yet' is used in questions and negatives with present perfect.",
+  "words": [
+   "finished",
+   "yet"
+  ],
+  "usage": "Use it to check if someone is free for a meeting.",
+  "leelaQ": "Have you eaten lunch yet today?",
+  "answer": "Yes, I have eaten a full meal."
+ },
+ {
+  "en": "Our team has worked on this project since January.",
+  "tamil": "எங்க டீம் ஜனவரில இருந்து இந்த ப்ராஜெக்ட்ல வேலை செய்யுது.",
+  "context": "Telling a client how long the project has been going.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Since' is used with a starting point in time, like January or Monday.",
+  "words": [
+   "project",
+   "since"
+  ],
+  "usage": "Use it in meetings to show how long you have been doing something.",
+  "leelaQ": "Which project have you been working on for a long time?",
+  "answer": "I have been working on a billing project since March."
+ },
+ {
+  "en": "Please tell us a story from your childhood.",
+  "tamil": "உங்க சின்ன வயசு கதை ஒண்ணு சொல்லுங்க.",
+  "context": "Asking a grandparent or elder.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' makes it polite. 'From your childhood' says what kind of story.",
+  "words": [
+   "story",
+   "childhood"
+  ],
+  "usage": "Use it with elders who enjoy sharing old memories.",
+  "leelaQ": "Which childhood story do you remember the most?",
+  "answer": "I remember a story about a clever crow."
+ },
+ {
+  "en": "Last Sunday we cleaned the whole house before the guests came.",
+  "tamil": "போன ஞாயித்துக்கிழமை விருந்தாளிங்க வர்றதுக்கு முன்னாடி வீடு முழுக்க சுத்தம் பண்ணோம்.",
+  "context": "Telling a friend how you prepared for guests.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Before' joins two past events. The cleaning happened first.",
+  "words": [
+   "cleaned",
+   "guests"
+  ],
+  "usage": "Use it to talk about family chores and preparations.",
+  "leelaQ": "What did you do last Sunday at home?",
+  "answer": "I helped my mother clean the kitchen and then we watched TV."
+ },
+ {
+  "en": "The bus did not come on time, so I took an auto.",
+  "tamil": "பஸ் நேரத்துக்கு வரல, அதனால ஆட்டோ புடிச்சேன்.",
+  "context": "Explaining a change of plan.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not come' is negative past. 'So' shows the result.",
+  "words": [
+   "bus",
+   "auto"
+  ],
+  "usage": "Use it to explain a small delay to a manager or a friend.",
+  "leelaQ": "What do you do when the bus does not come?",
+  "answer": "I take an auto or ask a friend for a lift."
+ },
+ {
+  "en": "I took the wrong train and ended up in a different town.",
+  "tamil": "தப்பான ரயில்ல ஏறி வேற ஊருக்கு போயிட்டேன்.",
+  "context": "Telling a friend about a travel mistake.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Ended up' means a surprising result at the end of a series of events.",
+  "words": [
+   "wrong",
+   "ended up"
+  ],
+  "usage": "Use it to tell a funny travel mistake story.",
+  "leelaQ": "Have you ever made a mistake while travelling?",
+  "answer": "Yes, I once got into the wrong bus and reached another area."
+ },
+ {
+  "en": "What was your favourite game as a child?",
+  "tamil": "சின்ன வயசுல உங்களுக்கு புடிச்ச விளையாட்டு என்ன?",
+  "context": "Asking a friend about childhood.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Was' is used with 'your favourite game'. 'As a child' talks about the past.",
+  "words": [
+   "favourite",
+   "game"
+  ],
+  "usage": "Use it to know more about a new friend or relative.",
+  "leelaQ": "Which games did you play with friends in childhood?",
+  "answer": "I loved playing kabaddi with my neighbours."
+ },
+ {
+  "en": "As a child, I was afraid of dogs.",
+  "tamil": "சின்ன வயசுல எனக்கு நாய்னா பயம்.",
+  "context": "Talking about your childhood fears.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was afraid of' describes a feeling in the past. Use 'of' after 'afraid'.",
+  "words": [
+   "child",
+   "afraid"
+  ],
+  "usage": "Use it to talk about childhood feelings with friends.",
+  "leelaQ": "What were you afraid of as a child?",
+  "answer": "I was afraid of the dark and slept with the light on."
+ },
+ {
+  "en": "Did you see the match on TV last night?",
+  "tamil": "நேத்து ராத்திரி டிவில மேட்ச் பார்த்தீங்களா?",
+  "context": "Starting a chat with a friend about cricket.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did you watch' is a simple past question. Add a time like 'last night'.",
+  "words": [
+   "match",
+   "tv"
+  ],
+  "usage": "Use it as a friendly opener the day after a big match.",
+  "leelaQ": "Which match did you enjoy watching the most?",
+  "answer": "I enjoyed the World Cup final the most."
+ },
+ {
+  "en": "She has already told me the whole story twice.",
+  "tamil": "அவ முழு கதையையும் எனக்கு ஏற்கனவே ரெண்டு தடவை சொல்லிட்டா.",
+  "context": "Politely saying a friend repeats the same story.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Twice' shows how many times. Present perfect is used when the time is not important.",
+  "words": [
+   "already",
+   "twice"
+  ],
+  "usage": "Use it gently when someone repeats a story you know.",
+  "leelaQ": "Do you have a friend who tells the same story again and again?",
+  "answer": "Yes, my uncle tells the same cricket story every time."
+ },
+ {
+  "en": "Could you repeat what you said about the accident?",
+  "tamil": "விபத்தை பத்தி நீங்க சொன்னதை திரும்ப சொல்ல முடியுமா?",
+  "context": "Politely asking someone to repeat important news.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'What you said' is a noun clause. It is in normal statement order.",
+  "words": [
+   "repeat",
+   "accident"
+  ],
+  "usage": "Use it when you did not hear a part of a serious story.",
+  "leelaQ": "What do you say when you didn't hear someone clearly?",
+  "answer": "I say, sorry, could you repeat that please?"
+ },
+ {
+  "en": "Then the lights went off, and the whole street became dark.",
+  "tamil": "அப்புறம் லைட் போயிடுச்சு, தெரு முழுக்க இருட்டாயிடுச்சு.",
+  "context": "Telling a story about a power cut.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Then' moves the story to the next event. 'Went off' means stopped working.",
+  "words": [
+   "lights",
+   "dark"
+  ],
+  "usage": "Use it to tell a story step by step in an exciting way.",
+  "leelaQ": "What happened at your home during the last power cut?",
+  "answer": "We lit candles and talked for an hour."
+ },
+ {
+  "en": "I haven't eaten anything since morning.",
+  "tamil": "காலையில இருந்து நான் எதுவும் சாப்பிடல.",
+  "context": "Telling a friend you are very hungry.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Haven't eaten' is present perfect negative. 'Since morning' shows the starting time.",
+  "words": [
+   "eaten",
+   "morning"
+  ],
+  "usage": "Use it with family or friends when you are hungry after a long day.",
+  "leelaQ": "What do you do when you are very hungry?",
+  "answer": "I eat something quickly, like biscuits or fruit."
+ },
+ {
+  "en": "We stayed at my uncle's place for two days during the holidays.",
+  "tamil": "விடுமுறையில ரெண்டு நாள் மாமா வீட்டுல தங்கினோம்.",
+  "context": "Telling a colleague about your holiday.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'For two days' shows how long an action lasted in the past.",
+  "words": [
+   "stayed",
+   "holidays"
+  ],
+  "usage": "Use it to say how long you stayed somewhere.",
+  "leelaQ": "Where did you stay during your last holiday?",
+  "answer": "We stayed in a small lodge near the beach."
+ },
+ {
+  "en": "How long were you waiting at the bus stop yesterday?",
+  "tamil": "நேத்து பஸ் ஸ்டாப்ல நீங்க எவ்வளவு நேரம் காத்திருந்தீங்க?",
+  "context": "Asking a friend about a long wait yesterday.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'How long were you waiting' asks about the length of a past wait.",
+  "words": [
+   "waiting",
+   "bus stop"
+  ],
+  "usage": "Use it when a friend was late because of a bus delay.",
+  "leelaQ": "What do you usually do when you have to wait for a long time?",
+  "answer": "I listen to songs or talk to people near me."
+ },
+ {
+  "en": "I forgot my lunch box at home, so I bought biryani outside.",
+  "tamil": "லஞ்ச் பாக்ஸை வீட்டுலயே மறந்துட்டேன், அதனால வெளியில பிரியாணி வாங்கினேன்.",
+  "context": "Telling a colleague why you ate outside.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Forgot' and 'bought' are irregular past forms. 'So' gives the result.",
+  "words": [
+   "forgot",
+   "biryani"
+  ],
+  "usage": "Use it to explain a small change in your plan at work.",
+  "leelaQ": "What did you have for lunch yesterday?",
+  "answer": "I had curd rice and potato fry."
+ },
+ {
+  "en": "When did you first come to Chennai?",
+  "tamil": "நீங்க முதல் தடவை எப்ப சென்னைக்கு வந்தீங்க?",
+  "context": "Asking a colleague about their background.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'When did you' asks about a past time. Use the base verb 'come' after 'did'.",
+  "words": [
+   "first",
+   "chennai"
+  ],
+  "usage": "Use it to know how long a person has lived in a city.",
+  "leelaQ": "When did you first come to your current city?",
+  "answer": "I first came here five years ago for work."
+ }
+]

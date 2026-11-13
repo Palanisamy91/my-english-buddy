@@ -1,0 +1,274 @@
+[
+  {
+    "en": "I will send you the report by evening.",
+    "tamil": "நான் சாயங்காலத்துக்குள்ள ரிப்போர்ட்டை உனக்கு அனுப்பிடுவேன்.",
+    "context": "Promising a colleague you will share a document today.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "Use 'will' for a promise made now. 'By evening' means not later than evening.",
+    "words": [
+      "report",
+      "evening"
+    ]
+  },
+  {
+    "en": "Can we push the deadline to Friday?",
+    "tamil": "டெட்லைனை வெள்ளிக்கிழமைக்கு தள்ளி வைக்கலாமா?",
+    "context": "Asking your manager for more time on a task.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Can we' is a polite way to ask. 'Push the deadline' means move it to a later date.",
+    "words": [
+      "push",
+      "deadline"
+    ],
+    "alt": {
+      "en": "Could we extend the deadline till Friday?",
+      "tamil": "டெட்லைனை வெள்ளிக்கிழமை வரைக்கும் நீட்டிக்க முடியுமா?"
+    }
+  },
+  {
+    "en": "I am working on the presentation right now.",
+    "tamil": "நான் இப்போ பிரசன்டேஷன் வேலையில இருக்கேன்.",
+    "context": "Telling a colleague what you are busy with.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "Use 'am working' for something happening at this moment. 'Right now' stresses the present.",
+    "words": [
+      "working",
+      "presentation"
+    ]
+  },
+  {
+    "en": "Did you check your email this morning?",
+    "tamil": "இன்னைக்கு காலையில உன் மெயில் செக் பண்ணியா?",
+    "context": "Asking a teammate if they saw an important message.",
+    "tense": "past",
+    "type": "question",
+    "explain": "Use 'did' with the base verb 'check' to ask about the past. 'This morning' gives the time.",
+    "words": [
+      "check",
+      "email",
+      "morning"
+    ]
+  },
+  {
+    "en": "My manager has already approved my leave.",
+    "tamil": "என் மேனேஜர் ஏற்கனவே என் லீவை அப்ரூவ் பண்ணிட்டார்.",
+    "context": "Telling a friend that your leave request is accepted.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Has approved' shows an action finished with a result now. 'Already' means earlier than expected.",
+    "words": [
+      "manager",
+      "approved",
+      "leave"
+    ],
+    "alt": {
+      "en": "My leave has been approved.",
+      "tamil": "என் லீவ் அப்ரூவ் ஆயிடுச்சு."
+    }
+  },
+  {
+    "en": "I need to take a day off tomorrow.",
+    "tamil": "எனக்கு நாளைக்கு ஒரு நாள் லீவ் எடுக்கணும்.",
+    "context": "Informing your boss you need leave.",
+    "tense": "modal",
+    "type": "statement",
+    "explain": "'Need to' shows something necessary. 'Take a day off' means to be away from work for one day.",
+    "words": [
+      "need",
+      "day off",
+      "tomorrow"
+    ]
+  },
+  {
+    "en": "The meeting starts at ten sharp.",
+    "tamil": "மீட்டிங் சரியா பத்து மணிக்கு ஆரம்பிக்கும்.",
+    "context": "Reminding the team about the meeting time.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "We use the simple present for fixed schedules. 'Sharp' means exactly on time.",
+    "words": [
+      "meeting",
+      "starts",
+      "sharp"
+    ]
+  },
+  {
+    "en": "Please do not be late for the client call.",
+    "tamil": "தயவு செஞ்சு கிளையன்ட் காலுக்கு லேட்டா வராதீங்க.",
+    "context": "Warning teammates before an important call.",
+    "tense": "imperative",
+    "type": "negative",
+    "explain": "'Do not be' is a polite negative command. 'Please' makes it softer.",
+    "words": [
+      "late",
+      "client",
+      "call"
+    ]
+  },
+  {
+    "en": "Who is handling this project?",
+    "tamil": "இந்த ப்ராஜெக்ட்டை யார் பாத்துக்கிறாங்க?",
+    "context": "Asking in a meeting who is in charge.",
+    "tense": "present-continuous",
+    "type": "question",
+    "explain": "'Handling' here means managing or taking care of something. 'Who' asks about the person.",
+    "words": [
+      "handling",
+      "project"
+    ]
+  },
+  {
+    "en": "I could not open the attachment you sent.",
+    "tamil": "நீங்க அனுப்புன அட்டாச்மென்ட்டை என்னால திறக்க முடியல.",
+    "context": "Telling a sender their file did not open.",
+    "tense": "past",
+    "type": "negative",
+    "explain": "'Could not' is the past of 'cannot'. It tells us you were unable to do something.",
+    "words": [
+      "open",
+      "attachment",
+      "sent"
+    ]
+  },
+  {
+    "en": "Let us discuss this in tomorrow's meeting.",
+    "tamil": "இதை நாளைக்கு மீட்டிங்ல பேசலாம்.",
+    "context": "Postponing a topic to the next meeting.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Let us' is used to make a suggestion for both of you. It sounds friendly and polite.",
+    "words": [
+      "discuss",
+      "meeting"
+    ]
+  },
+  {
+    "en": "She will join our team next month.",
+    "tamil": "அவங்க அடுத்த மாசம் நம்ம டீம்ல சேர்றாங்க.",
+    "context": "Telling colleagues about a new team member.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "'Will join' talks about a future event. 'Next month' tells us when.",
+    "words": [
+      "join",
+      "team",
+      "month"
+    ]
+  },
+  {
+    "en": "I have been waiting for your reply since morning.",
+    "tamil": "நான் காலையில இருந்து உங்க பதிலுக்காக காத்துக்கிட்டு இருக்கேன்.",
+    "context": "Politely chasing someone for an answer.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Have been waiting' shows an action that started in the past and continues now. 'Since' gives the starting point.",
+    "words": [
+      "waiting",
+      "reply",
+      "since"
+    ]
+  },
+  {
+    "en": "Could you share the meeting notes with me?",
+    "tamil": "மீட்டிங் நோட்ஸை எனக்கு ஷேர் பண்ண முடியுமா?",
+    "context": "Asking a colleague for notes you missed.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Could you' is a very polite way to ask for something. 'Share with me' means send to me.",
+    "words": [
+      "share",
+      "notes"
+    ]
+  },
+  {
+    "en": "Our salary is credited on the last working day.",
+    "tamil": "நம்ம சம்பளம் கடைசி வேலை நாள்ல வரவு வைக்கப்படும்.",
+    "context": "Explaining the pay date to a new joiner.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Is credited' is passive: the company puts money in your account. It is a regular fact, so we use the present.",
+    "words": [
+      "salary",
+      "credited",
+      "working"
+    ]
+  },
+  {
+    "en": "I do not have access to that folder.",
+    "tamil": "அந்த ஃபோல்டருக்கு எனக்கு அக்சஸ் இல்ல.",
+    "context": "Telling the IT team about a permission problem.",
+    "tense": "present",
+    "type": "negative",
+    "explain": "'Do not have' shows you lack something. 'Access' means permission to open or use it.",
+    "words": [
+      "access",
+      "folder"
+    ]
+  },
+  {
+    "en": "Shall I book the conference room for you?",
+    "tamil": "உங்களுக்காக கான்ஃபரன்ஸ் ரூமை நான் புக் பண்ணட்டுமா?",
+    "context": "Offering to help a colleague organise a meeting.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'Shall I' is used to offer help politely. It is common in office English.",
+    "words": [
+      "book",
+      "conference",
+      "room"
+    ]
+  },
+  {
+    "en": "He is on leave until Monday.",
+    "tamil": "அவர் திங்கட்கிழமை வரைக்கும் லீவ்ல இருக்கார்.",
+    "context": "Telling a caller that a colleague is away.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'On leave' means away from work with permission. 'Until' shows the end time.",
+    "words": [
+      "leave",
+      "until"
+    ]
+  },
+  {
+    "en": "I finished the task before the deadline.",
+    "tamil": "நான் டெட்லைனுக்கு முன்னாடியே வேலையை முடிச்சுட்டேன்.",
+    "context": "Telling your manager you completed work early.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Finished' is the simple past. 'Before the deadline' means earlier than the last date.",
+    "words": [
+      "finished",
+      "task",
+      "deadline"
+    ]
+  },
+  {
+    "en": "Why was the meeting cancelled?",
+    "tamil": "மீட்டிங் ஏன் ரத்து பண்ணாங்க?",
+    "context": "Asking a colleague about a sudden change.",
+    "tense": "past",
+    "type": "question",
+    "explain": "'Was cancelled' is passive, so we do not say who cancelled it. 'Why' asks the reason.",
+    "words": [
+      "meeting",
+      "cancelled"
+    ]
+  },
+  {
+    "en": "We are not going to miss this target.",
+    "tamil": "இந்த டார்கெட்டை நாம மிஸ் பண்ணப் போறதில்ல.",
+    "context": "Motivating the team before a big deadline.",
+    "tense": "future",
+    "type": "negative",
+    "explain": "'Are not going to' is a firm way to talk about the future. 'Miss a target' means fail to reach it.",
+    "words": [
+      "going",
+      "miss",
+      "target"
+    ]
+  }
+]

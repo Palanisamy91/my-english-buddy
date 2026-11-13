@@ -1,0 +1,352 @@
+[
+ {
+  "word": "melancholy",
+  "meaning": "A deep, quiet sadness that lasts a long time",
+  "tamil": "நீடித்த ஆழ்ந்த சோகம்",
+  "pos": "noun",
+  "pron": "MEL-un-kol-ee",
+  "example": "A feeling of melancholy came over him on rainy evenings.",
+  "exampleTamil": "மழை மாலைகளில் அவனை ஒரு ஆழ்ந்த சோகம் சூழ்ந்தது.",
+  "synonyms": [
+   "sadness",
+   "gloom"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "yearn",
+  "meaning": "To want something very much, especially something far away or lost",
+  "tamil": "ஏங்க, மிகவும் விரும்ப",
+  "pos": "verb",
+  "pron": "YERN",
+  "example": "He yearns to see his village again.",
+  "exampleTamil": "அவன் தன் கிராமத்தை மீண்டும் காண ஏங்குகிறான்.",
+  "synonyms": [
+   "long",
+   "crave"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "euphoric",
+  "meaning": "Extremely happy and excited",
+  "tamil": "பேரானந்தத்தில் மூழ்கிய",
+  "pos": "adjective",
+  "pron": "yoo-FOR-ik",
+  "example": "The fans were euphoric after the team won the cup.",
+  "exampleTamil": "அணி கோப்பையை வென்றதும் ரசிகர்கள் பேரானந்தத்தில் இருந்தனர்.",
+  "synonyms": [
+   "ecstatic",
+   "elated"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "indignant",
+  "meaning": "Angry because something seems unfair",
+  "tamil": "அநீதியால் கோபமடைந்த",
+  "pos": "adjective",
+  "pron": "in-DIG-nunt",
+  "example": "She was indignant when they blamed her for the mistake.",
+  "exampleTamil": "தவறுக்காக அவளைக் குற்றம் சாட்டியதும் அவள் கோபம் கொண்டாள்.",
+  "synonyms": [
+   "resentful",
+   "offended"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "livid",
+  "meaning": "Extremely angry",
+  "tamil": "கடும் கோபத்தில் உள்ள",
+  "pos": "adjective",
+  "pron": "LIV-id",
+  "example": "My boss was livid when the report came late.",
+  "exampleTamil": "அறிக்கை தாமதமாக வந்ததும் என் மேலாளர் கடும் கோபமடைந்தார்.",
+  "synonyms": [
+   "furious",
+   "enraged"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "outraged",
+  "meaning": "Shocked and very angry about something wrong",
+  "tamil": "அநீதி கண்டு கொதித்த",
+  "pos": "adjective",
+  "pron": "OWT-rayjd",
+  "example": "People were outraged by the cruel treatment of animals.",
+  "exampleTamil": "விலங்குகளை கொடுமையாக நடத்தியதைக் கண்டு மக்கள் கொதித்தனர்.",
+  "synonyms": [
+   "furious",
+   "appalled"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "appalled",
+  "meaning": "Shocked and upset by something very bad",
+  "tamil": "அதிர்ச்சியும் வெறுப்பும் அடைந்த",
+  "pos": "adjective",
+  "pron": "uh-PAWLD",
+  "example": "We were appalled by the dirty condition of the hostel.",
+  "exampleTamil": "விடுதியின் அசுத்த நிலையைக் கண்டு நாங்கள் அதிர்ச்சியடைந்தோம்.",
+  "synonyms": [
+   "horrified",
+   "shocked"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "aghast",
+  "meaning": "Filled with shock and horror",
+  "tamil": "திகைத்துப்போன, அதிர்ந்த",
+  "pos": "adjective",
+  "pron": "uh-GAST",
+  "example": "She stood aghast as the old bridge collapsed.",
+  "exampleTamil": "பழைய பாலம் இடிந்து விழுந்ததும் அவள் திகைத்து நின்றாள்.",
+  "synonyms": [
+   "horrified",
+   "stunned"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "distraught",
+  "meaning": "So upset and worried that you cannot think clearly",
+  "tamil": "மனம் கலங்கி தவிக்கும்",
+  "pos": "adjective",
+  "pron": "dih-STRAWT",
+  "example": "The distraught mother searched everywhere for her lost child.",
+  "exampleTamil": "மனம் கலங்கிய தாய் காணாமல் போன குழந்தையை எங்கும் தேடினாள்.",
+  "synonyms": [
+   "frantic",
+   "anguished"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "devastated",
+  "meaning": "Extremely shocked and sad",
+  "tamil": "நொறுங்கிப்போன, பெரும் துயரில் ஆழ்ந்த",
+  "pos": "adjective",
+  "pron": "DEV-uh-stay-tid",
+  "example": "He was devastated when his shop burned down.",
+  "exampleTamil": "அவனுடைய கடை தீயில் எரிந்ததும் அவன் நொறுங்கிப்போனான்.",
+  "synonyms": [
+   "heartbroken",
+   "shattered"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mortified",
+  "meaning": "So embarrassed that you feel ashamed",
+  "tamil": "மிகவும் வெட்கி கூனிக்குறுகிய",
+  "pos": "adjective",
+  "pron": "MOR-tih-fyd",
+  "example": "I was mortified when my phone rang during the prayer.",
+  "exampleTamil": "பிரார்த்தனையின் போது என் தொலைபேசி அடித்ததும் நான் மிகவும் கூனிக்குறுகினேன்.",
+  "synonyms": [
+   "humiliated",
+   "embarrassed"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sheepish",
+  "meaning": "Slightly embarrassed because you did something silly",
+  "tamil": "கூச்சத்துடன் தலை குனிந்த",
+  "pos": "adjective",
+  "pron": "SHEE-pish",
+  "example": "He gave a sheepish smile after spilling the tea.",
+  "exampleTamil": "தேநீரைக் கொட்டிய பிறகு அவன் கூச்சத்துடன் புன்னகைத்தான்.",
+  "synonyms": [
+   "embarrassed",
+   "abashed"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "remorseful",
+  "meaning": "Feeling deeply sorry for doing something wrong",
+  "tamil": "மனம் வருந்தும், குற்ற உணர்வுள்ள",
+  "pos": "adjective",
+  "pron": "rih-MORS-ful",
+  "example": "He felt remorseful about shouting at his old mother.",
+  "exampleTamil": "தன் வயதான தாயிடம் கத்தியதற்காக அவன் மனம் வருந்தினான்.",
+  "synonyms": [
+   "regretful",
+   "sorry"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "forlorn",
+  "meaning": "Sad and lonely, as if left alone",
+  "tamil": "தனிமையில் வாடிய, கைவிடப்பட்ட",
+  "pos": "adjective",
+  "pron": "for-LORN",
+  "example": "The forlorn puppy waited outside the closed shop.",
+  "exampleTamil": "தனிமையில் வாடிய நாய்க்குட்டி மூடிய கடைக்கு வெளியே காத்திருந்தது.",
+  "synonyms": [
+   "lonely",
+   "miserable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "anguish",
+  "meaning": "Severe mental pain or suffering",
+  "tamil": "கடும் மன வேதனை",
+  "pos": "noun",
+  "pron": "ANG-gwish",
+  "example": "Her face showed the anguish of waiting for news.",
+  "exampleTamil": "செய்திக்காக காத்திருக்கும் அவளது மன வேதனை முகத்தில் தெரிந்தது.",
+  "synonyms": [
+   "agony",
+   "torment"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "angst",
+  "meaning": "A deep feeling of worry about life or the future",
+  "tamil": "எதிர்காலம் பற்றிய ஆழ்ந்த கவலை",
+  "pos": "noun",
+  "pron": "ANGKST",
+  "example": "Many teenagers feel angst about exams and careers.",
+  "exampleTamil": "பல பதின்பருவத்தினர் தேர்வுகள் மற்றும் வேலை பற்றி ஆழ்ந்த கவலை கொள்கின்றனர்.",
+  "synonyms": [
+   "anxiety",
+   "unease"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "qualm",
+  "meaning": "A sudden feeling of doubt about whether something is right",
+  "tamil": "மனத்தில் எழும் தயக்கம், சந்தேக உறுத்தல்",
+  "pos": "noun",
+  "pron": "KWOM",
+  "example": "I had no qualms about telling him the truth.",
+  "exampleTamil": "அவனிடம் உண்மையைச் சொல்வதில் எனக்கு எந்த தயக்கமும் இல்லை.",
+  "synonyms": [
+   "doubt",
+   "scruple"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "misgiving",
+  "meaning": "A feeling of doubt or worry about something that may go wrong",
+  "tamil": "எதிர்மறை சந்தேகம், உள்ளார்ந்த கவலை",
+  "pos": "noun",
+  "pron": "mis-GIV-ing",
+  "example": "I signed the deal with some misgivings about the price.",
+  "exampleTamil": "விலை குறித்த சில சந்தேகங்களுடன் நான் ஒப்பந்தத்தில் கையெழுத்திட்டேன்.",
+  "synonyms": [
+   "doubt",
+   "worry"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vexed",
+  "meaning": "Annoyed and worried about a problem",
+  "tamil": "எரிச்சலும் கவலையும் அடைந்த",
+  "pos": "adjective",
+  "pron": "VEKST",
+  "example": "She was vexed by the constant noise from the road.",
+  "exampleTamil": "சாலையின் தொடர் சத்தத்தால் அவள் எரிச்சலடைந்தாள்.",
+  "synonyms": [
+   "annoyed",
+   "irritated"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exasperated",
+  "meaning": "Very annoyed because something keeps happening",
+  "tamil": "பொறுமை இழந்து சலிப்படைந்த",
+  "pos": "adjective",
+  "pron": "ig-ZAS-puh-ray-tid",
+  "example": "The exasperated teacher asked them to be quiet again.",
+  "exampleTamil": "பொறுமை இழந்த ஆசிரியர் மீண்டும் அவர்களை அமைதியாக இருக்கச் சொன்னார்.",
+  "synonyms": [
+   "irritated",
+   "fed up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "serene",
+  "meaning": "Calm, peaceful and untroubled",
+  "tamil": "அமைதியான, நிம்மதியான",
+  "pos": "adjective",
+  "pron": "suh-REEN",
+  "example": "The lake looked serene in the early morning.",
+  "exampleTamil": "அதிகாலையில் ஏரி அமைதியாக காட்சியளித்தது.",
+  "synonyms": [
+   "tranquil",
+   "peaceful"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "poised",
+  "meaning": "Calm and in control of yourself in a difficult moment",
+  "tamil": "நிதானமான, சமநிலையுடன் உள்ள",
+  "pos": "adjective",
+  "pron": "POYZD",
+  "example": "She stayed poised even when the audience asked hard questions.",
+  "exampleTamil": "பார்வையாளர்கள் கடினமான கேள்விகள் கேட்டபோதும் அவள் நிதானமாக இருந்தாள்.",
+  "synonyms": [
+   "composed",
+   "self-assured"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "solace",
+  "meaning": "Comfort when you are sad or disappointed",
+  "tamil": "ஆறுதல்",
+  "pos": "noun",
+  "pron": "SOL-is",
+  "example": "He found solace in music after his loss.",
+  "exampleTamil": "தன் இழப்பிற்குப் பிறகு அவன் இசையில் ஆறுதல் கண்டான்.",
+  "synonyms": [
+   "comfort",
+   "consolation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "seethe",
+  "meaning": "To be very angry inside without showing it fully",
+  "tamil": "உள்ளுக்குள் கொதிக்க",
+  "pos": "verb",
+  "pron": "SEETH",
+  "example": "He seethed quietly as they praised his rival.",
+  "exampleTamil": "அவர்கள் அவனது போட்டியாளரைப் புகழ்ந்தபோது அவன் உள்ளுக்குள் கொதித்தான்.",
+  "synonyms": [
+   "fume",
+   "simmer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "squabble",
+  "meaning": "A small noisy argument about something unimportant",
+  "tamil": "சின்ன விஷயத்துக்கான சச்சரவு",
+  "pos": "noun",
+  "pron": "SKWOB-ul",
+  "example": "The children had a squabble over who sits near the window.",
+  "exampleTamil": "ஜன்னல் அருகே யார் உட்காருவது என்று குழந்தைகளுக்குள் சச்சரவு ஏற்பட்டது.",
+  "synonyms": [
+   "quarrel",
+   "spat"
+  ],
+  "level": "advanced"
+ }
+]

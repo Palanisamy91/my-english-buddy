@@ -1,0 +1,377 @@
+[
+ {
+  "en": "The deadline is next Wednesday.",
+  "tamil": "டெட்லைன் அடுத்த புதன்கிழமை.",
+  "context": "Telling a teammate the last date for a task.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "A short and clear sentence with the simple present for a fixed date.",
+  "words": [
+   "deadline",
+   "next"
+  ],
+  "usage": "Use it to remind a colleague of an important date.",
+  "leelaQ": "When is your next deadline?",
+  "answer": "My next deadline is the end of this month."
+ },
+ {
+  "en": "I will take notes during the meeting.",
+  "tamil": "மீட்டிங்கப்போ நான் குறிப்புகள் எடுத்துக்குறேன்.",
+  "context": "Volunteering to write the minutes.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' is good when you offer to do something at that moment.",
+  "words": [
+   "notes",
+   "during"
+  ],
+  "usage": "Use it when the team needs someone to record the meeting points.",
+  "leelaQ": "Do you like writing meeting notes?",
+  "answer": "Yes, because I can remember all the points later."
+ },
+ {
+  "en": "We are meeting the client at ten tomorrow.",
+  "tamil": "நாளைக்கு பத்து மணிக்கு கிளையன்ட்டை சந்திக்கப் போறோம்.",
+  "context": "Sharing a fixed plan with a teammate.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "The present continuous with a time like 'tomorrow' shows a fixed plan.",
+  "words": [
+   "meeting",
+   "tomorrow"
+  ],
+  "usage": "Use it when you tell your colleagues about an arranged appointment.",
+  "leelaQ": "What are you doing tomorrow morning at work?",
+  "answer": "I am attending a team meeting at ten o'clock."
+ },
+ {
+  "en": "Could you share the file with me?",
+  "tamil": "அந்த ஃபைலை என்கூட பகிர முடியுமா?",
+  "context": "Asking a teammate for a document.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is a polite way to ask someone for something.",
+  "words": [
+   "share",
+   "file"
+  ],
+  "usage": "Use it with a teammate or senior when you need a document.",
+  "leelaQ": "How do you ask for a file from a colleague?",
+  "answer": "I say could you share the file with me, please."
+ },
+ {
+  "en": "Could you remind me about the deadline tomorrow?",
+  "tamil": "நாளைக்கு டெட்லைனைப் பத்தி எனக்கு நினைவூட்ட முடியுமா?",
+  "context": "Asking a teammate to help you remember.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Remind me about' asks someone to bring something to your mind.",
+  "words": [
+   "remind",
+   "deadline"
+  ],
+  "usage": "Use it with a teammate when you have many tasks and fear you may forget.",
+  "leelaQ": "How do you remember your tasks?",
+  "answer": "I write them in my notebook and set reminders on my phone."
+ },
+ {
+  "en": "Have you finished the testing?",
+  "tamil": "டெஸ்டிங்கை முடிச்சிட்டீங்களா?",
+  "context": "Checking the work status with a teammate.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you finished' asks about a result up to now.",
+  "words": [
+   "finished",
+   "testing"
+  ],
+  "usage": "Use it as a team lead or a teammate who is waiting for a result.",
+  "leelaQ": "What have you finished this week?",
+  "answer": "I have finished two tasks and started a new one."
+ },
+ {
+  "en": "Why did they postpone the client meeting?",
+  "tamil": "க்ளையன்ட் மீட்டிங்கை ஏன் தள்ளி வெச்சாங்க?",
+  "context": "Asking a colleague about a sudden change.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Postpone' means to move something to a later time.",
+  "words": [
+   "postpone",
+   "client meeting"
+  ],
+  "usage": "Use it when you hear a meeting is delayed and you want the reason.",
+  "leelaQ": "What do you do when a meeting is postponed?",
+  "answer": "I use the free time to finish my pending work."
+ },
+ {
+  "en": "I am not comfortable with this plan.",
+  "tamil": "இந்த திட்டத்துல எனக்கு திருப்தி இல்ல.",
+  "context": "Raising a doubt about a plan honestly.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not comfortable' is a soft way to say you do not agree.",
+  "words": [
+   "comfortable",
+   "plan"
+  ],
+  "usage": "Use it in a meeting when you have a doubt but do not want to sound rude.",
+  "leelaQ": "How do you say you do not like a plan politely?",
+  "answer": "I say I am not comfortable and I explain my reason."
+ },
+ {
+  "en": "Could you please extend the deadline by one day?",
+  "tamil": "டெட்லைனை ஒரு நாள் நீட்டிக்க முடியுமா?",
+  "context": "Asking a manager for more time.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Extend' means to make longer. 'By one day' shows how much.",
+  "words": [
+   "extend",
+   "deadline"
+  ],
+  "usage": "Use it with a manager or client when you need a little more time.",
+  "leelaQ": "Have you ever asked for an extension?",
+  "answer": "Yes, I asked for one more day to check my work."
+ },
+ {
+  "en": "We are discussing the new schedule right now.",
+  "tamil": "நாங்க இப்போ புது அட்டவணையைப் பத்தி பேசிட்டு இருக்கோம்.",
+  "context": "Telling someone why the team is busy in a meeting.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Are discussing' with 'right now' shows an action happening at this moment.",
+  "words": [
+   "schedule",
+   "discussing"
+  ],
+  "usage": "Use it when someone asks you what the team is doing at the moment.",
+  "leelaQ": "What is your team discussing these days?",
+  "answer": "We are discussing the project plan for next month."
+ },
+ {
+  "en": "I need two more days to complete this.",
+  "tamil": "இதை முடிக்க எனக்கு இன்னும் ரெண்டு நாள் வேணும்.",
+  "context": "Asking a manager for more time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Need' says what is required. 'Two more days' means extra days.",
+  "words": [
+   "complete",
+   "days"
+  ],
+  "usage": "Use it with a manager when a task is taking longer than planned.",
+  "leelaQ": "What do you say when you need more time?",
+  "answer": "I explain my reason and tell them how many days I need."
+ },
+ {
+  "en": "Our team always shares updates on Monday mornings.",
+  "tamil": "எங்க டீம் எப்பவும் திங்கள் காலைல அப்டேட் பகிர்ந்துக்கும்.",
+  "context": "Describing your team's weekly habit to a new joiner.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Always' with the simple present talks about a regular habit.",
+  "words": [
+   "updates",
+   "shares"
+  ],
+  "usage": "Use it when you explain your team routine to a new colleague.",
+  "leelaQ": "What does your team do on Monday mornings?",
+  "answer": "We share our weekly updates and plan the tasks."
+ },
+ {
+  "en": "Let me explain my point once again.",
+  "tamil": "என் கருத்தை இன்னொரு முறை விளக்குறேன்.",
+  "context": "Politely taking the floor in a discussion.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me' asks permission and offers to do something.",
+  "words": [
+   "explain",
+   "once again"
+  ],
+  "usage": "Use it in a meeting when people misunderstood what you said.",
+  "leelaQ": "What do you do if people misunderstand you?",
+  "answer": "I say it again in simple words and give an example."
+ },
+ {
+  "en": "My manager gave me good feedback today.",
+  "tamil": "என் மேனேஜர் இன்னைக்கு எனக்கு நல்ல ஃபீட்பேக் கொடுத்தாரு.",
+  "context": "Sharing happy news with a friend at work.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Gave' is the past of 'give'. 'Feedback' is not used in the plural form.",
+  "words": [
+   "feedback",
+   "manager"
+  ],
+  "usage": "Use it with friends or family when you want to share a good day at work.",
+  "leelaQ": "What feedback did your manager give you last time?",
+  "answer": "He said my work is neat and I should speak more in meetings."
+ },
+ {
+  "en": "We are working on the final changes.",
+  "tamil": "நாங்க இறுதி மாற்றங்கள்ல வேலை பண்ணிட்டு இருக்கோம்.",
+  "context": "Updating a client on the work status.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Are working on' shows that the task is still in progress.",
+  "words": [
+   "final",
+   "changes"
+  ],
+  "usage": "Use it when a client or manager asks for a status update.",
+  "leelaQ": "What are you working on at the moment?",
+  "answer": "I am working on a small report for my team."
+ },
+ {
+  "en": "Please give me your feedback by evening.",
+  "tamil": "சாயந்திரத்துக்குள்ள உங்க ஃபீட்பேக் கொடுங்க.",
+  "context": "Asking a reviewer for a deadline.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'By evening' sets a limit of time politely.",
+  "words": [
+   "feedback",
+   "evening"
+  ],
+  "usage": "Use it when you need comments on your work before the end of the day.",
+  "leelaQ": "When do you need feedback on your work?",
+  "answer": "I need it before I send it to the client."
+ },
+ {
+  "en": "The client liked the first design.",
+  "tamil": "கிளையன்ட்டுக்கு முதல் டிசைன் பிடிச்சிருந்தது.",
+  "context": "Sharing good news about the client's reaction.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Liked' is the past of 'like'. It is a simple way to report someone's reaction.",
+  "words": [
+   "client",
+   "design"
+  ],
+  "usage": "Use it when you pass on the client's opinion to your team or manager.",
+  "leelaQ": "How did your client react to your last work?",
+  "answer": "The client liked it and asked for a few small changes."
+ },
+ {
+  "en": "Please send me the meeting link.",
+  "tamil": "தயவுசெஞ்சு மீட்டிங் லிங்க்கை எனக்கு அனுப்புங்க.",
+  "context": "Asking a colleague for an online meeting link.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' makes the order polite.",
+  "words": [
+   "send",
+   "link"
+  ],
+  "usage": "Use it when you cannot find the link of an online meeting.",
+  "leelaQ": "What do you ask when you cannot join an online call?",
+  "answer": "I ask my colleague to send me the meeting link again."
+ },
+ {
+  "en": "Do you need any help from me?",
+  "tamil": "உங்களுக்கு என்கிட்ட இருந்து ஏதாவது உதவி வேணுமா?",
+  "context": "Offering support to a busy colleague.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you need' is a kind way to offer help.",
+  "words": [
+   "need",
+   "help"
+  ],
+  "usage": "Use it with a teammate who has a lot of work.",
+  "leelaQ": "How do you offer help to a colleague?",
+  "answer": "I ask if they need any help and then I take a small task."
+ },
+ {
+  "en": "I cannot attend the meeting today.",
+  "tamil": "இன்னைக்கு என்னால மீட்டிங்குக்கு வர முடியாது.",
+  "context": "Informing the organiser that you will miss the meeting.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Cannot' is the strong negative of 'can'. Add a reason to sound polite.",
+  "words": [
+   "attend",
+   "meeting"
+  ],
+  "usage": "Use it with a manager or organiser when you are not able to come.",
+  "leelaQ": "What do you say when you cannot join a meeting?",
+  "answer": "I say sorry and give my reason, and I ask for the notes."
+ },
+ {
+  "en": "Who is leading the project?",
+  "tamil": "இந்த ப்ராஜெக்ட்டை யார் லீட் பண்றாங்க?",
+  "context": "Asking a new colleague about project ownership.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Who' as a subject is followed by 'is' and the verb with 'ing'.",
+  "words": [
+   "leading",
+   "project"
+  ],
+  "usage": "Use it when you join a new team and want to know who to talk to.",
+  "leelaQ": "Who leads the project you work on?",
+  "answer": "My senior colleague leads it, and I report to him."
+ },
+ {
+  "en": "Please let me know if anything changes.",
+  "tamil": "ஏதாவது மாறினா தயவுசெஞ்சு எனக்கு சொல்லுங்க.",
+  "context": "Ending a message politely with a request.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me know' is a very common and friendly phrase.",
+  "words": [
+   "let me know",
+   "changes"
+  ],
+  "usage": "Use it at the end of a message when plans are not final.",
+  "leelaQ": "What do you say at the end of a work message?",
+  "answer": "I say please let me know if you need anything."
+ },
+ {
+  "en": "I will not be able to meet the deadline.",
+  "tamil": "என்னால டெட்லைனை எட்ட முடியாது.",
+  "context": "Warning your manager early about a delay.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Will not be able to' is a formal way to say you cannot do something later.",
+  "words": [
+   "able",
+   "deadline"
+  ],
+  "usage": "Use it to tell your manager about a delay as early as you can.",
+  "leelaQ": "What should you do if you cannot meet a deadline?",
+  "answer": "I should tell my manager early and ask for more time."
+ },
+ {
+  "en": "The new joiner is learning very fast.",
+  "tamil": "புதுசா சேர்ந்தவங்க ரொம்ப வேகமா கத்துக்கிட்டு இருக்காங்க.",
+  "context": "Praising a new teammate to the manager.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is learning' shows a change that is happening now. 'Joiner' is common in Indian offices.",
+  "words": [
+   "joiner",
+   "learning"
+  ],
+  "usage": "Use it to give a good report about a new team member.",
+  "leelaQ": "Who helped you when you joined your office?",
+  "answer": "My senior colleague helped me and showed me everything."
+ },
+ {
+  "en": "Sorry, I was not in the office yesterday.",
+  "tamil": "மன்னிக்கணும், நான் நேத்து ஆபீஸ்ல இல்ல.",
+  "context": "Explaining why you missed something.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Was not' is the past negative of 'is'. Start with 'sorry' to be polite.",
+  "words": [
+   "office",
+   "yesterday"
+  ],
+  "usage": "Use it when someone asks about a task you could not see because you were away.",
+  "leelaQ": "Why do people take leave from the office?",
+  "answer": "They take leave for health, family work or a short trip."
+ }
+]

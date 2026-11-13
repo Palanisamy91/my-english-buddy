@@ -1,0 +1,376 @@
+[
+ {
+  "word": "flaw",
+  "meaning": "A fault or weakness that makes something less perfect",
+  "tamil": "குறைபாடு, பலவீனம்",
+  "pos": "noun",
+  "pron": "FLAW",
+  "example": "The report had one serious flaw in its calculations.",
+  "exampleTamil": "அந்த அறிக்கையின் கணக்கீடுகளில் ஒரு பெரிய குறைபாடு இருந்தது.",
+  "synonyms": [
+   "defect",
+   "fault",
+   "weakness"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hurdle",
+  "meaning": "A problem or difficulty you must deal with to succeed",
+  "tamil": "தடை, இடையூறு",
+  "pos": "noun",
+  "pron": "HUR-dul",
+  "example": "Getting the visa was the biggest hurdle for us.",
+  "exampleTamil": "விசா பெறுவதுதான் எங்களுக்கு மிகப்பெரிய தடையாக இருந்தது.",
+  "synonyms": [
+   "obstacle",
+   "barrier",
+   "challenge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trait",
+  "meaning": "A particular quality in a person's character",
+  "tamil": "குணாதிசயம், பண்பு",
+  "pos": "noun",
+  "pron": "TRAYT",
+  "example": "Honesty is a trait I admire in my friends.",
+  "exampleTamil": "நேர்மை என் நண்பர்களிடம் நான் மதிக்கும் ஒரு குணம்.",
+  "synonyms": [
+   "quality",
+   "characteristic",
+   "feature"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "outlook",
+  "meaning": "Your general attitude or way of thinking about life",
+  "tamil": "பார்வை, மனப்பான்மை",
+  "pos": "noun",
+  "pron": "OWT-look",
+  "example": "She has a very positive outlook on life.",
+  "exampleTamil": "வாழ்க்கையைப் பற்றி அவளுக்கு மிகவும் நேர்மறையான பார்வை உள்ளது.",
+  "synonyms": [
+   "attitude",
+   "perspective",
+   "view"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tolerate",
+  "meaning": "To accept something unpleasant without complaining or stopping it",
+  "tamil": "பொறுத்துக்கொள்",
+  "pos": "verb",
+  "pron": "TOL-uh-rayt",
+  "example": "I cannot tolerate rude behaviour in my office.",
+  "exampleTamil": "என் அலுவலகத்தில் முரட்டுத்தனமான நடத்தையை என்னால் பொறுத்துக்கொள்ள முடியாது.",
+  "synonyms": [
+   "endure",
+   "bear",
+   "accept"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "comply",
+  "meaning": "To follow a rule, order or request",
+  "tamil": "கடைப்பிடி, இணங்கு",
+  "pos": "verb",
+  "pron": "kum-PLY",
+  "example": "All drivers must comply with the traffic rules.",
+  "exampleTamil": "எல்லா ஓட்டுநர்களும் போக்குவரத்து விதிகளைக் கடைப்பிடிக்க வேண்டும்.",
+  "synonyms": [
+   "obey",
+   "follow",
+   "abide"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "refrain",
+  "meaning": "To stop yourself from doing something",
+  "tamil": "தவிர்த்துக்கொள், தடுத்துக்கொள்",
+  "pos": "verb",
+  "pron": "ri-FRAYN",
+  "example": "Please refrain from using your phone during the meeting.",
+  "exampleTamil": "கூட்டத்தின்போது தயவுசெய்து தொலைபேசியைப் பயன்படுத்துவதைத் தவிர்க்கவும்.",
+  "synonyms": [
+   "avoid",
+   "abstain",
+   "hold back"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "destiny",
+  "meaning": "The events that will happen to a person in the future, as if planned",
+  "tamil": "விதி, தலைவிதி",
+  "pos": "noun",
+  "pron": "DES-tuh-nee",
+  "example": "He believes hard work can change your destiny.",
+  "exampleTamil": "கடின உழைப்பு உங்கள் விதியை மாற்றும் என்று அவன் நம்புகிறான்.",
+  "synonyms": [
+   "fate",
+   "fortune",
+   "future"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "motive",
+  "meaning": "The reason why someone does something",
+  "tamil": "நோக்கம், காரணம்",
+  "pos": "noun",
+  "pron": "MOH-tiv",
+  "example": "The police could not find a motive for the theft.",
+  "exampleTamil": "திருட்டுக்கான நோக்கத்தை காவல்துறையால் கண்டுபிடிக்க முடியவில்லை.",
+  "synonyms": [
+   "reason",
+   "purpose",
+   "intention"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "whim",
+  "meaning": "A sudden wish to do something, without a real reason",
+  "tamil": "திடீர் விருப்பம், மனம்போன போக்கு",
+  "pos": "noun",
+  "pron": "WIM",
+  "example": "On a whim, we drove to the beach last night.",
+  "exampleTamil": "திடீர் விருப்பத்தில் நேற்று இரவு நாங்கள் கடற்கரைக்கு வண்டியில் சென்றோம்.",
+  "synonyms": [
+   "impulse",
+   "fancy",
+   "urge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pitfall",
+  "meaning": "A hidden danger or mistake that is easy to fall into",
+  "tamil": "மறைந்திருக்கும் ஆபத்து, சிக்கல்",
+  "pos": "noun",
+  "pron": "PIT-fawl",
+  "example": "Ignoring small costs is a common pitfall in business.",
+  "exampleTamil": "சிறு செலவுகளைப் புறக்கணிப்பது வணிகத்தில் பொதுவான ஆபத்து.",
+  "synonyms": [
+   "trap",
+   "danger",
+   "drawback"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "premise",
+  "meaning": "An idea or statement you accept as true as a starting point",
+  "tamil": "அடிப்படை எடுகோள்",
+  "pos": "noun",
+  "pron": "PREM-is",
+  "example": "The whole plan is based on a false premise.",
+  "exampleTamil": "முழுத் திட்டமும் ஒரு தவறான அடிப்படை எடுகோளின் மீது அமைந்துள்ளது.",
+  "synonyms": [
+   "assumption",
+   "basis",
+   "proposition"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scarcity",
+  "meaning": "A situation where there is not enough of something",
+  "tamil": "பற்றாக்குறை, தட்டுப்பாடு",
+  "pos": "noun",
+  "pron": "SKAIR-suh-tee",
+  "example": "Water scarcity is a serious problem in many cities.",
+  "exampleTamil": "தண்ணீர் தட்டுப்பாடு பல நகரங்களில் தீவிரமான பிரச்சினையாக உள்ளது.",
+  "synonyms": [
+   "shortage",
+   "lack",
+   "deficiency"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "threshold",
+  "meaning": "The point at which something begins or changes",
+  "tamil": "வாசற்படி, தொடக்க எல்லை",
+  "pos": "noun",
+  "pron": "THRESH-hohld",
+  "example": "She has a low threshold for pain.",
+  "exampleTamil": "அவளுக்கு வலியைத் தாங்கும் எல்லை குறைவு.",
+  "synonyms": [
+   "limit",
+   "boundary",
+   "starting point"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vicinity",
+  "meaning": "The area near a particular place",
+  "tamil": "அருகிலுள்ள பகுதி",
+  "pos": "noun",
+  "pron": "vuh-SIN-uh-tee",
+  "example": "Is there a good hospital in the vicinity?",
+  "exampleTamil": "இந்தப் பகுதியின் அருகில் நல்ல மருத்துவமனை ஏதாவது இருக்கிறதா?",
+  "synonyms": [
+   "neighbourhood",
+   "surroundings",
+   "area"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "turmoil",
+  "meaning": "A state of great confusion, worry or disorder",
+  "tamil": "கொந்தளிப்பு, குழப்பம்",
+  "pos": "noun",
+  "pron": "TUR-moyl",
+  "example": "The company was in turmoil after the manager resigned.",
+  "exampleTamil": "மேலாளர் ராஜினாமா செய்த பிறகு நிறுவனம் குழப்பத்தில் இருந்தது.",
+  "synonyms": [
+   "chaos",
+   "confusion",
+   "unrest"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hindsight",
+  "meaning": "Understanding a situation only after it has happened",
+  "tamil": "நடந்த பின் வரும் தெளிவு",
+  "pos": "noun",
+  "pron": "HYND-sayt",
+  "example": "In hindsight, I should have saved more money.",
+  "exampleTamil": "நடந்த பிறகு யோசித்தால், நான் அதிகம் பணம் சேமித்திருக்க வேண்டும்.",
+  "synonyms": [
+   "retrospect",
+   "afterthought"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "foresight",
+  "meaning": "The ability to guess and prepare for what may happen",
+  "tamil": "முன்யோசனை, தொலைநோக்கு",
+  "pos": "noun",
+  "pron": "FOR-syt",
+  "example": "Her foresight saved the team from a big loss.",
+  "exampleTamil": "அவளுடைய முன்யோசனை குழுவை பெரிய இழப்பிலிருந்து காப்பாற்றியது.",
+  "synonyms": [
+   "vision",
+   "planning",
+   "anticipation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "obligation",
+  "meaning": "Something you must do because of a duty, law or promise",
+  "tamil": "கடமை, பொறுப்பு",
+  "pos": "noun",
+  "pron": "ob-luh-GAY-shun",
+  "example": "You have no obligation to attend the party.",
+  "exampleTamil": "விருந்துக்கு வர வேண்டிய கட்டாயம் உங்களுக்கு இல்லை.",
+  "synonyms": [
+   "duty",
+   "responsibility",
+   "commitment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reluctance",
+  "meaning": "Unwillingness to do something",
+  "tamil": "தயக்கம், விருப்பமின்மை",
+  "pos": "noun",
+  "pron": "ri-LUK-tunss",
+  "example": "He agreed with obvious reluctance to help us.",
+  "exampleTamil": "எங்களுக்கு உதவ அவன் தயக்கத்துடன் ஒப்புக்கொண்டான்.",
+  "synonyms": [
+   "hesitation",
+   "unwillingness",
+   "doubt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "enforce",
+  "meaning": "To make sure people obey a rule or law",
+  "tamil": "அமல்படுத்து, கட்டாயமாக்கு",
+  "pos": "verb",
+  "pron": "in-FORSS",
+  "example": "The school strictly enforces the dress code.",
+  "exampleTamil": "பள்ளி சீருடை விதியை கண்டிப்பாக அமல்படுத்துகிறது.",
+  "synonyms": [
+   "apply",
+   "impose",
+   "implement"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "assert",
+  "meaning": "To say something strongly and with confidence",
+  "tamil": "உறுதியாகக் கூறு, வலியுறுத்து",
+  "pos": "verb",
+  "pron": "uh-SURT",
+  "example": "He asserted that he had done nothing wrong.",
+  "exampleTamil": "தான் எந்தத் தவறும் செய்யவில்லை என்று அவன் உறுதியாகக் கூறினான்.",
+  "synonyms": [
+   "declare",
+   "claim",
+   "insist"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "conform",
+  "meaning": "To behave in the way that others expect or rules require",
+  "tamil": "இணங்கி நட, ஒத்துப்போ",
+  "pos": "verb",
+  "pron": "kun-FORM",
+  "example": "Young people often feel pressure to conform to group habits.",
+  "exampleTamil": "இளைஞர்கள் குழுவின் பழக்கங்களுக்கு இணங்க வேண்டிய அழுத்தத்தை அடிக்கடி உணர்கிறார்கள்.",
+  "synonyms": [
+   "comply",
+   "fit in",
+   "adapt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deviate",
+  "meaning": "To move away from the usual or planned way",
+  "tamil": "விலகு, மாறுபடு",
+  "pos": "verb",
+  "pron": "DEE-vee-ayt",
+  "example": "Please do not deviate from the agreed plan.",
+  "exampleTamil": "ஒப்புக்கொண்ட திட்டத்திலிருந்து தயவுசெய்து விலக வேண்டாம்.",
+  "synonyms": [
+   "diverge",
+   "stray",
+   "depart"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "erratic",
+  "meaning": "Not regular or steady; hard to predict",
+  "tamil": "ஒழுங்கற்ற, கணிக்க முடியாத",
+  "pos": "adjective",
+  "pron": "ih-RAT-ik",
+  "example": "The internet connection here is very erratic.",
+  "exampleTamil": "இங்குள்ள இணைய இணைப்பு மிகவும் ஒழுங்கற்றதாக உள்ளது.",
+  "synonyms": [
+   "unpredictable",
+   "irregular",
+   "unstable"
+  ],
+  "level": "intermediate"
+ }
+]

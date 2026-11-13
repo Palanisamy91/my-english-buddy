@@ -1,0 +1,377 @@
+[
+ {
+  "en": "My phone battery drains very fast these days.",
+  "tamil": "இப்பல்லாம் என் போன் பேட்டரி ரொம்ப சீக்கிரம் தீர்ந்துடுது.",
+  "context": "Complaining about a weak phone battery.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Present simple shows a regular habit or problem. 'These days' means recently.",
+  "words": [
+   "battery",
+   "drains"
+  ],
+  "usage": "Say it to a friend or at a mobile shop when your phone needs repair.",
+  "leelaQ": "How is your phone battery these days?",
+  "answer": "My phone battery is good, but it needs charging twice a day."
+ },
+ {
+  "en": "I forgot my Wi-Fi password again.",
+  "tamil": "நான் மறுபடியும் என் வைஃபை பாஸ்வேர்டை மறந்துட்டேன்.",
+  "context": "Telling a family member you forgot the Wi-Fi password.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Forgot' is the past of 'forget'. 'Again' shows it has happened before.",
+  "words": [
+   "password",
+   "forgot"
+  ],
+  "usage": "Use it at home when you cannot connect a device to the internet.",
+  "leelaQ": "Do you remember all your passwords?",
+  "answer": "No, I forget them often, so I write them in a notebook."
+ },
+ {
+  "en": "The video call is not clear because the internet is slow.",
+  "tamil": "இன்டர்நெட் ஸ்லோவா இருக்கறதால வீடியோ கால் தெளிவா இல்ல.",
+  "context": "Explaining a bad video call to a colleague.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Because' gives the reason. 'Is not' makes the sentence negative.",
+  "words": [
+   "video call",
+   "slow"
+  ],
+  "usage": "Say it in an online meeting when others cannot hear or see you well.",
+  "leelaQ": "What do you do when the internet is slow?",
+  "answer": "I restart the router and wait for a few minutes."
+ },
+ {
+  "en": "I will send you the file on WhatsApp in five minutes.",
+  "tamil": "நான் அஞ்சு நிமிஷத்துல உனக்கு ஃபைலை வாட்ஸ்அப்ல அனுப்புறேன்.",
+  "context": "Promising to share a file with a friend.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' shows a promise about the future. 'In five minutes' tells when.",
+  "words": [
+   "send",
+   "file"
+  ],
+  "usage": "Use it with friends or coworkers who are waiting for a document.",
+  "leelaQ": "How do you share photos with your family?",
+  "answer": "I send them on WhatsApp because everyone uses it."
+ },
+ {
+  "en": "Please turn off your mic when you are not speaking.",
+  "tamil": "நீங்க பேசாதப்போ தயவுசெஞ்சு உங்க மைக்கை ஆஃப் பண்ணுங்க.",
+  "context": "Asking participants in an online meeting to mute.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' makes an order polite. 'When' joins two ideas about time.",
+  "words": [
+   "mic",
+   "turn off"
+  ],
+  "usage": "A meeting host can say this when there is background noise.",
+  "leelaQ": "Have you ever attended an online meeting?",
+  "answer": "Yes, I attended one last week with my team."
+ },
+ {
+  "en": "My laptop is hanging, so I cannot finish my work.",
+  "tamil": "என் லேப்டாப் ஹேங் ஆகுது, அதனால என் வேலையை முடிக்க முடியல.",
+  "context": "Telling your manager about a computer problem.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'So' shows the result. 'Cannot' means you are not able to do something.",
+  "words": [
+   "laptop",
+   "hanging"
+  ],
+  "usage": "Use it at the office when a computer problem delays your work.",
+  "leelaQ": "What do you do when your laptop hangs?",
+  "answer": "I close extra apps and restart it."
+ },
+ {
+  "en": "Could you share your screen so that we can see the slides?",
+  "tamil": "நாங்க ஸ்லைடுகளைப் பார்க்க உங்க ஸ்கிரீனை ஷேர் பண்ண முடியுமா?",
+  "context": "Asking a presenter in an online meeting.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is a polite request. 'So that' gives the purpose.",
+  "words": [
+   "share",
+   "screen"
+  ],
+  "usage": "Use it in a video meeting when someone is explaining something.",
+  "leelaQ": "How do you present your ideas in a meeting?",
+  "answer": "I make simple slides and explain them slowly."
+ },
+ {
+  "en": "I have already updated the app, but it still crashes.",
+  "tamil": "நான் ஆப்பை ஏற்கனவே அப்டேட் பண்ணிட்டேன், ஆனாலும் அது க்ராஷ் ஆகுது.",
+  "context": "Reporting an app problem to customer support.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have updated' shows an action that is finished but matters now. 'Still' shows the problem continues.",
+  "words": [
+   "updated",
+   "crashes"
+  ],
+  "usage": "Say it to customer support when an app does not work properly.",
+  "leelaQ": "Which app do you use the most?",
+  "answer": "I use WhatsApp the most, for chatting and calling."
+ },
+ {
+  "en": "Never share your OTP with anyone.",
+  "tamil": "உன் ஓடிபியை யார்கிட்டயும் ஷேர் பண்ணாதே.",
+  "context": "Warning a family member about online fraud.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Never' makes a strong negative order. An OTP is a secret code for safe payments.",
+  "words": [
+   "otp",
+   "share"
+  ],
+  "usage": "Say it to parents or friends to keep them safe from online cheating.",
+  "leelaQ": "How can we stay safe from online fraud?",
+  "answer": "We should never share our OTP or bank details with anyone."
+ },
+ {
+  "en": "She is posting photos of her trip on Instagram.",
+  "tamil": "அவ தன்னோட டிரிப் போட்டோக்களை இன்ஸ்டாகிராம்ல போஸ்ட் பண்ணிட்டு இருக்கா.",
+  "context": "Telling a friend what someone is doing right now.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous shows an action happening now. Use 'is' with he, she and it.",
+  "words": [
+   "posting",
+   "photos"
+  ],
+  "usage": "Use it when you see a friend's or relative's activity on social media.",
+  "leelaQ": "Do you post photos on social media?",
+  "answer": "Yes, I post a few photos when I go to new places."
+ },
+ {
+  "en": "My phone fell down and the screen is cracked.",
+  "tamil": "என் போன் கீழ விழுந்து ஸ்கிரீன் உடைஞ்சிடுச்சு.",
+  "context": "Telling a shop owner about a broken phone.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Fell' is the past of 'fall'. 'Is cracked' describes the present condition.",
+  "words": [
+   "screen",
+   "cracked"
+  ],
+  "usage": "Say it at a mobile repair shop to explain the damage.",
+  "leelaQ": "Has your phone ever fallen and broken?",
+  "answer": "Yes, it fell from the table once and the screen cracked."
+ },
+ {
+  "en": "Where can I charge my phone?",
+  "tamil": "என் போனை எங்க சார்ஜ் பண்ணலாம்?",
+  "context": "Asking for a charging point at a railway station.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Where can I...?' asks about a place where something is possible.",
+  "words": [
+   "charge",
+   "phone"
+  ],
+  "usage": "Ask at a station, cafe or office when your battery is low.",
+  "leelaQ": "Where do you usually charge your phone?",
+  "answer": "I charge it near my bed every night."
+ },
+ {
+  "en": "Can you hear me properly?",
+  "tamil": "நான் பேசுறது உனக்கு நல்லா கேக்குதா?",
+  "context": "Checking audio at the start of a call.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can you hear me?' is the standard check at the start of a call. 'Properly' means well.",
+  "words": [
+   "hear",
+   "properly"
+  ],
+  "usage": "Use it at the start of a phone or video call.",
+  "leelaQ": "What do you check before a video call starts?",
+  "answer": "I check my camera, my mic and my internet."
+ },
+ {
+  "en": "I am going to install a new keyboard app.",
+  "tamil": "நான் ஒரு புது கீபோர்டு ஆப்பை இன்ஸ்டால் பண்ணப் போறேன்.",
+  "context": "Telling a friend about a phone plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' talks about a plan you already made.",
+  "words": [
+   "install",
+   "keyboard"
+  ],
+  "usage": "Say it when you want to try a new app on your phone.",
+  "leelaQ": "What new app are you going to try?",
+  "answer": "I am going to try a language learning app."
+ },
+ {
+  "en": "The meeting link is not working for me.",
+  "tamil": "மீட்டிங் லிங்க் எனக்கு வேலை செய்யல.",
+  "context": "Telling the organiser the link does not open.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not working' is a common way to say something does not function.",
+  "words": [
+   "meeting link",
+   "working"
+  ],
+  "usage": "Message the organiser when you cannot join an online meeting.",
+  "leelaQ": "What do you do if you cannot join a meeting?",
+  "answer": "I ask the organiser to send the link again."
+ },
+ {
+  "en": "Please send me the link again.",
+  "tamil": "தயவுசெஞ்சு லிங்கை மறுபடியும் அனுப்புங்க.",
+  "context": "Asking a colleague to resend a link.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Again' means one more time. 'Please' keeps the request polite.",
+  "words": [
+   "link",
+   "again"
+  ],
+  "usage": "Use it in chat when a link is lost or has expired.",
+  "leelaQ": "Who sends you links most often?",
+  "answer": "My brother sends me funny videos and links."
+ },
+ {
+  "en": "How do I change my profile picture?",
+  "tamil": "என் ப்ரொஃபைல் படத்தை எப்படி மாத்துறது?",
+  "context": "Asking a friend for help with an account.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How do I...?' asks for steps to do something.",
+  "words": [
+   "profile",
+   "picture"
+  ],
+  "usage": "Ask a friend or a helper when you use a new app.",
+  "leelaQ": "What picture do you keep as your profile photo?",
+  "answer": "I keep a simple photo of myself smiling."
+ },
+ {
+  "en": "I need to reset my password.",
+  "tamil": "நான் என் பாஸ்வேர்டை ரீசெட் பண்ணணும்.",
+  "context": "Telling IT support you are locked out.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Need to' shows something necessary. 'Reset' means set again.",
+  "words": [
+   "reset",
+   "password"
+  ],
+  "usage": "Say it to the IT team or customer care when you cannot log in.",
+  "leelaQ": "When did you last change a password?",
+  "answer": "I changed my email password last month."
+ },
+ {
+  "en": "I have been using this laptop for five years.",
+  "tamil": "நான் இந்த லேப்டாப்பை அஞ்சு வருஷமா யூஸ் பண்றேன்.",
+  "context": "Telling a shop owner how old your laptop is.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been using' with 'for' shows an action that started in the past and continues.",
+  "words": [
+   "laptop",
+   "using"
+  ],
+  "usage": "Say it when you ask if an old device is worth repairing.",
+  "leelaQ": "How long have you had your phone?",
+  "answer": "I have had it for two years."
+ },
+ {
+  "en": "Let me check my internet connection.",
+  "tamil": "நான் என் இன்டர்நெட் கனெக்ஷனை செக் பண்ணிப் பாக்குறேன்.",
+  "context": "Saying this during a bad call.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me' is a friendly way to offer to do something.",
+  "words": [
+   "check",
+   "connection"
+  ],
+  "usage": "Use it when a call is breaking and you want a moment to fix it.",
+  "leelaQ": "What do you do when your call keeps cutting?",
+  "answer": "I move near the window and call again."
+ },
+ {
+  "en": "Do you have a charger I can borrow?",
+  "tamil": "நான் வாங்கிக்கிற மாதிரி உன்கிட்ட சார்ஜர் இருக்கா?",
+  "context": "Asking a colleague for a phone charger.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you have...?' asks if someone has something. 'I can borrow' tells why you ask.",
+  "words": [
+   "charger",
+   "borrow"
+  ],
+  "usage": "Ask at the office or in a bus station when your phone is dying.",
+  "leelaQ": "Do you carry a power bank when you travel?",
+  "answer": "Yes, I always carry a power bank in my bag."
+ },
+ {
+  "en": "He will join the call after lunch.",
+  "tamil": "அவன் மதிய சாப்பாட்டுக்கு அப்புறம் கால்ல சேருவான்.",
+  "context": "Telling the team about someone's availability.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will join' is a simple prediction or plan about the future.",
+  "words": [
+   "join",
+   "call"
+  ],
+  "usage": "Say it when someone is absent from a meeting but will come later.",
+  "leelaQ": "When will you join the next meeting?",
+  "answer": "I will join it at ten o'clock tomorrow."
+ },
+ {
+  "en": "Sorry, I was on mute.",
+  "tamil": "மன்னிக்கணும், நான் மியூட்ல இருந்தேன்.",
+  "context": "Apologising in an online meeting.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was' is used with I, he, she and it. 'On mute' means the sound is off.",
+  "words": [
+   "mute",
+   "sorry"
+  ],
+  "usage": "A very common sentence in online meetings when nobody could hear you.",
+  "leelaQ": "What happens when someone forgets to unmute?",
+  "answer": "Everybody waits and says we cannot hear you."
+ },
+ {
+  "en": "My phone is out of storage.",
+  "tamil": "என் போன்ல ஸ்டோரேஜ் முடிஞ்சிடுச்சு.",
+  "context": "Complaining that you cannot save more photos.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Out of' means there is none left.",
+  "words": [
+   "storage",
+   "phone"
+  ],
+  "usage": "Say it when the phone gives a storage full message.",
+  "leelaQ": "What takes the most space on your phone?",
+  "answer": "Videos take the most space on my phone."
+ },
+ {
+  "en": "I deleted some old photos to free up space.",
+  "tamil": "இடம் காலி பண்ண சில பழைய போட்டோக்களை டெலீட் பண்ணினேன்.",
+  "context": "Explaining how you fixed the storage problem.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'To free up space' tells the purpose. 'To' plus a verb gives a reason.",
+  "words": [
+   "deleted",
+   "space"
+  ],
+  "usage": "Use it when talking about cleaning your phone.",
+  "leelaQ": "How do you keep your phone clean and fast?",
+  "answer": "I delete old photos and unused apps every month."
+ }
+]

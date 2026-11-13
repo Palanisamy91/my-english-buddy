@@ -1,0 +1,359 @@
+[
+ {
+  "en": "I think online classes are better for working people.",
+  "tamil": "வேலை செய்றவங்களுக்கு ஆன்லைன் வகுப்புகள் தான் நல்லதுன்னு நினைக்கிறேன்.",
+  "context": "Giving your view on online learning.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'I think' softens an opinion so it sounds polite, not forceful.",
+  "words": [
+   "online classes"
+  ],
+  "usage": "Use it in a discussion with friends or colleagues about studying while working.",
+  "leelaQ": "Do you think online classes are good for working people?",
+  "answer": "I think online classes are good because people can study after work."
+ },
+ {
+  "en": "What do you think about this plan?",
+  "tamil": "இந்த திட்டத்தை பத்தி நீங்க என்ன நினைக்கிறீங்க?",
+  "context": "Asking for a colleague's view.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What do you think about...?' is the most common way to ask for an opinion.",
+  "words": [
+   "plan"
+  ],
+  "usage": "Use it in a meeting or at home when you want to hear someone's view.",
+  "leelaQ": "What do you think about working in a team?",
+  "answer": "I think working in a team is good because we share the work."
+ },
+ {
+  "en": "I totally agree with you on this.",
+  "tamil": "இதுல நான் உங்க கூட முழுசா ஒத்துக்கிறேன்.",
+  "context": "Agreeing strongly with a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Totally' makes the agreement stronger. 'Agree with' is followed by a person.",
+  "words": [
+   "agree"
+  ],
+  "usage": "Say it in a meeting or chat when someone shares a point you fully support.",
+  "leelaQ": "When did you last agree strongly with a friend?",
+  "answer": "I agreed strongly with my friend yesterday about changing our trip plan."
+ },
+ {
+  "en": "In my opinion, the new design looks much better.",
+  "tamil": "என் கருத்துப்படி புது டிசைன் ரொம்ப நல்லா இருக்கு.",
+  "context": "Commenting on a new design at work.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'In my opinion' starts a personal view. 'Much better' compares two things.",
+  "words": [
+   "opinion",
+   "design"
+  ],
+  "usage": "Use it with your team when reviewing a logo, website or poster.",
+  "leelaQ": "What is your opinion about your phone's design?",
+  "answer": "In my opinion, my phone has a very simple and nice design."
+ },
+ {
+  "en": "Please tell me what you honestly think.",
+  "tamil": "நீங்க உண்மையா என்ன நினைக்கிறீங்கன்னு சொல்லுங்க.",
+  "context": "Asking a friend for an honest view.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' + a command is polite. 'Honestly' asks for a frank answer.",
+  "words": [
+   "honestly"
+  ],
+  "usage": "Use it when you show a friend your work and want real feedback.",
+  "leelaQ": "Do you always tell people what you honestly think?",
+  "answer": "I tell my friends honestly, but I try to be kind."
+ },
+ {
+  "en": "I prefer tea to coffee in the morning.",
+  "tamil": "காலையில எனக்கு காபியை விட டீ தான் பிடிக்கும்.",
+  "context": "Telling a host your drink choice.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Prefer A to B' means you like A more than B. Note the word 'to', not 'than'.",
+  "words": [
+   "prefer"
+  ],
+  "usage": "Say it when a host or a cafe waiter asks what you want to drink.",
+  "leelaQ": "Which drink do you prefer in the morning?",
+  "answer": "I prefer tea to coffee in the morning because it feels lighter."
+ },
+ {
+  "en": "I do not agree with that idea.",
+  "tamil": "அந்த ஐடியாவை நான் ஒத்துக்கல.",
+  "context": "Disagreeing politely.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Do not agree' is a clear but polite way to disagree. Keep your voice calm.",
+  "words": [
+   "agree"
+  ],
+  "usage": "Use it in a discussion when you have a different view.",
+  "leelaQ": "What do you do when you do not agree with someone?",
+  "answer": "I listen first and then I explain my view politely."
+ },
+ {
+  "en": "Cricket is more exciting than football, I feel.",
+  "tamil": "எனக்கு கால்பந்தை விட கிரிக்கெட் தான் அதிக சுவாரஸ்யம்னு தோணுது.",
+  "context": "Chatting about sports with friends.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'More exciting than' compares two things. 'I feel' at the end adds a personal touch.",
+  "words": [
+   "exciting"
+  ],
+  "usage": "Use it in casual talk with friends when you argue about favourite sports.",
+  "leelaQ": "Which sport do you find more exciting, cricket or football?",
+  "answer": "I find cricket more exciting than football because the matches are longer."
+ },
+ {
+  "en": "Do you agree with me on this?",
+  "tamil": "இதுல நீங்க என் கூட ஒத்துப்போறீங்களா?",
+  "context": "Checking if a friend agrees.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Agree with' + person is used to ask if someone shares your opinion.",
+  "words": [
+   "agree"
+  ],
+  "usage": "Ask it after you explain your view to a friend or a colleague.",
+  "leelaQ": "Do you usually agree with your friends?",
+  "answer": "Yes, I usually agree, but sometimes we have different views."
+ },
+ {
+  "en": "That is a really good point, thank you for saying it.",
+  "tamil": "அது ரொம்ப நல்ல கருத்து, சொன்னதுக்கு நன்றி.",
+  "context": "Appreciating a colleague's suggestion.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Praising someone's point makes them feel heard and keeps the talk friendly.",
+  "words": [
+   "good point"
+  ],
+  "usage": "Use it in a meeting when a colleague raises something useful.",
+  "leelaQ": "What good point did someone make to you recently?",
+  "answer": "My friend made a good point about saving money on bus tickets."
+ },
+ {
+  "en": "I agree, but we should also check the cost.",
+  "tamil": "நான் ஒத்துக்கிறேன், ஆனா செலவையும் பார்க்கணும்.",
+  "context": "Agreeing partly and adding a concern.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I agree, but...' is a polite way to accept an idea and add one more thing.",
+  "words": [
+   "agree",
+   "cost"
+  ],
+  "usage": "Use it when a plan sounds good but money or time is still a worry.",
+  "leelaQ": "What do you check before you agree to a new plan?",
+  "answer": "I check the cost and the time before I agree to any plan."
+ },
+ {
+  "en": "Which would you like with your snacks, tea or coffee?",
+  "tamil": "ஸ்நாக்ஸ் கூட டீ, காபி ரெண்டுல எது வேணும்?",
+  "context": "Asking a guest about drinks.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Which' is used when there are only a few choices to pick from.",
+  "words": [
+   "snacks"
+  ],
+  "usage": "Ask it when you welcome a guest at home or a client at the office.",
+  "leelaQ": "Which drink do you prefer in the evening?",
+  "answer": "In the evening I prefer tea with some biscuits."
+ },
+ {
+  "en": "The bus is cheaper, but the train is much faster.",
+  "tamil": "பஸ் விலை குறைவு, ஆனா ட்ரெயின் ரொம்ப வேகமா போகும்.",
+  "context": "Comparing two ways to travel.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Cheaper' and 'faster' are comparatives. 'But' joins two different points.",
+  "words": [
+   "cheaper",
+   "faster"
+  ],
+  "usage": "Use it when you help a friend choose between two travel options.",
+  "leelaQ": "Is the bus or the train better for your usual trips?",
+  "answer": "The train is better for me because it is faster and more comfortable."
+ },
+ {
+  "en": "Could you explain why you disagree with me?",
+  "tamil": "நீங்க ஏன் என் கருத்தை ஏத்துக்கலன்னு விளக்க முடியுமா?",
+  "context": "Asking for a reason to understand better.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you explain...?' stays polite even when you do not agree.",
+  "words": [
+   "explain",
+   "disagree"
+  ],
+  "usage": "Use it in a discussion where you want to understand the other side.",
+  "leelaQ": "How do you feel when someone disagrees with you?",
+  "answer": "I feel fine, because I can learn from their different view."
+ },
+ {
+  "en": "I feel the meeting went very well today.",
+  "tamil": "இன்னைக்கு மீட்டிங் ரொம்ப நல்லா போச்சுன்னு எனக்கு தோணுது.",
+  "context": "Sharing your view after a meeting.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'I feel' gives your opinion. 'Went well' is a common phrase for a good result.",
+  "words": [
+   "meeting"
+  ],
+  "usage": "Say it to a colleague on the way out of a meeting.",
+  "leelaQ": "How did your last meeting or class go?",
+  "answer": "My last class went well, and everyone asked good questions."
+ },
+ {
+  "en": "My sister thinks that home food is healthier.",
+  "tamil": "வீட்டு சாப்பாடு தான் ஆரோக்கியமானதுன்னு என் தங்கச்சி நினைக்கிறா.",
+  "context": "Telling what your sister believes about food.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "For 'she', the verb gets -s: 'thinks'. 'Healthier' compares home food with outside food.",
+  "words": [
+   "healthier"
+  ],
+  "usage": "Use it when you talk about another person's opinion in a family chat.",
+  "leelaQ": "Do you think home food is healthier than restaurant food?",
+  "answer": "Yes, I think home food is healthier because it has less oil."
+ },
+ {
+  "en": "Why do you think the price went up?",
+  "tamil": "விலை ஏன் ஏறிடுச்சுன்னு நீங்க நினைக்கிறீங்க?",
+  "context": "Asking for the reason behind a change.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Why do you think...?' asks for the other person's reason or guess.",
+  "words": [
+   "price"
+  ],
+  "usage": "Use it when you talk about rising prices with a shopkeeper or a neighbour.",
+  "leelaQ": "What do you think about rising vegetable prices?",
+  "answer": "I think rain and fuel cost are the main reasons for high prices."
+ },
+ {
+  "en": "We will definitely save more money if we cook at home.",
+  "tamil": "வீட்டுல சமைச்சா நிச்சயம் அதிக பணம் மிச்சமாகும்.",
+  "context": "Explaining a reason for cooking at home.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'If' + present, then 'will' + verb shows a likely result.",
+  "words": [
+   "definitely",
+   "save"
+  ],
+  "usage": "Use it when you try to convince family or flatmates to eat at home.",
+  "leelaQ": "How can you save money every month?",
+  "answer": "I can save money by cooking at home and not ordering food."
+ },
+ {
+  "en": "I am not sure that is a good plan.",
+  "tamil": "இது நல்ல திட்டமான்னு எனக்கு உறுதியா தெரியல.",
+  "context": "Showing doubt gently.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not sure' is a soft way to disagree. It is gentler than 'That is bad'.",
+  "words": [
+   "not sure",
+   "plan"
+  ],
+  "usage": "Use it with a manager or a friend when you have doubts and do not want to argue.",
+  "leelaQ": "What makes you unsure about a plan?",
+  "answer": "I feel unsure when the cost is high and the time is short."
+ },
+ {
+  "en": "I liked the first option more than the second one.",
+  "tamil": "எனக்கு ரெண்டாவதை விட முதல் ஆப்ஷன் தான் அதிகமா பிடிச்சுது.",
+  "context": "Telling a friend which option you chose.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'More than' compares two choices. 'Liked' is the past of 'like'.",
+  "words": [
+   "option"
+  ],
+  "usage": "Say it after you see two choices, like two flats or two shirts.",
+  "leelaQ": "Which option did you like more the last time you shopped?",
+  "answer": "I liked the cheaper shirt more because the colour was nicer."
+ },
+ {
+  "en": "Tell me which colour looks better on me.",
+  "tamil": "எந்த நிறம் எனக்கு நல்லா இருக்குன்னு சொல்லுங்க.",
+  "context": "Asking a friend for fashion advice.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Tell me...' is a friendly command between close people.",
+  "words": [
+   "colour"
+  ],
+  "usage": "Use it with a friend or a family member in a clothes shop.",
+  "leelaQ": "Which colour do people say looks good on you?",
+  "answer": "People say that blue and green look good on me."
+ },
+ {
+  "en": "You are right, we should start early.",
+  "tamil": "நீங்க சொல்றது சரி, நாம சீக்கிரமே ஆரம்பிக்கணும்.",
+  "context": "Agreeing with a friend about timing.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'You are right' is a simple way to agree. 'Should' gives advice.",
+  "words": [
+   "start early"
+  ],
+  "usage": "Use it when a friend suggests leaving early for a trip or an exam.",
+  "leelaQ": "Why is it good to start the day early?",
+  "answer": "It is good to start early because the roads are empty and we feel fresh."
+ },
+ {
+  "en": "I have always felt that reading is a great habit.",
+  "tamil": "படிக்கிறது ஒரு நல்ல பழக்கம்னு நான் எப்பவுமே நினைச்சிருக்கேன்.",
+  "context": "Sharing a long-held belief about reading.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have felt' shows a feeling that started in the past and is still true.",
+  "words": [
+   "habit"
+  ],
+  "usage": "Use it when you talk with students or friends about good habits.",
+  "leelaQ": "What good habit do you have?",
+  "answer": "I have a good habit of reading the newspaper every morning."
+ },
+ {
+  "en": "Is the train better than the bus for this trip?",
+  "tamil": "இந்த பயணத்துக்கு பஸ்ஸை விட ட்ரெயின் நல்லதா?",
+  "context": "Asking for travel advice.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Better than' compares two options. Start with 'Is' for a yes or no question.",
+  "words": [
+   "trip"
+  ],
+  "usage": "Ask a friend who has travelled the route before.",
+  "leelaQ": "How do you usually go for long trips?",
+  "answer": "I usually go by train because it is comfortable and safe."
+ },
+ {
+  "en": "Honestly, I find Chennai weather too hot for me.",
+  "tamil": "உண்மைய சொல்லணும்னா, சென்னை வெயில் எனக்கு ரொம்ப அதிகம்.",
+  "context": "Giving an honest view about the weather.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Honestly' shows you are being frank. 'Too hot' means more hot than is comfortable.",
+  "words": [
+   "honestly",
+   "weather"
+  ],
+  "usage": "Use it in a casual chat when a friend asks how you like a city.",
+  "leelaQ": "How do you find the weather in your city?",
+  "answer": "I find the weather hot in summer, but it is lovely in winter."
+ }
+]

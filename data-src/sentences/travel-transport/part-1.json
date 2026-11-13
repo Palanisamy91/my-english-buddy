@@ -1,0 +1,266 @@
+[
+ {
+  "en": "Which bus goes to the railway station?",
+  "tamil": "ரயில்வே ஸ்டேஷனுக்கு எந்த பஸ் போகும்?",
+  "context": "Asking at a bus stop.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Use 'which' when there are a few choices. 'Goes to' shows the place the bus is going.",
+  "words": [
+   "bus",
+   "railway"
+  ],
+  "alt": {
+   "en": "Does this bus go to the railway station?",
+   "tamil": "இந்த பஸ் ரயில்வே ஸ்டேஷனுக்கு போகுமா?"
+  }
+ },
+ {
+  "en": "The train is running twenty minutes late.",
+  "tamil": "ட்ரெயின் இருபது நிமிஷம் லேட்டா ஓடுது.",
+  "context": "Telling a friend about a delay.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is running late' is a common way to say the train is delayed right now.",
+  "words": [
+   "train",
+   "late"
+  ]
+ },
+ {
+  "en": "Please drop me at the main gate.",
+  "tamil": "தயவுசெஞ்சு என்னை மெயின் கேட்டில் இறக்கி விடுங்க.",
+  "context": "Telling an auto driver where to stop.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' makes the request polite. 'Drop me' means let me get down.",
+  "words": [
+   "drop",
+   "gate"
+  ]
+ },
+ {
+  "en": "How much will you charge to the airport?",
+  "tamil": "ஏர்போர்ட் வரைக்கும் எவ்வளவு வாங்குவீங்க?",
+  "context": "Asking an auto or cab driver the price.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will' is used to ask about a price you will pay. 'Charge' means ask money for a service.",
+  "words": [
+   "charge",
+   "airport"
+  ]
+ },
+ {
+  "en": "I booked two tickets for tomorrow morning.",
+  "tamil": "நாளைக்கு காலைக்கு ரெண்டு டிக்கெட் புக் பண்ணிட்டேன்.",
+  "context": "Telling someone about your booking.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Booked' is the past form of 'book'. It shows the action is finished.",
+  "words": [
+   "booked",
+   "tickets"
+  ]
+ },
+ {
+  "en": "Could you show me the way to the bus stand?",
+  "tamil": "பஸ் ஸ்டாண்டுக்கு போற வழியை காட்டுறீங்களா?",
+  "context": "Asking a stranger for directions.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could you' is a polite way to ask for help. 'The way to' is used with directions.",
+  "words": [
+   "way",
+   "stand"
+  ]
+ },
+ {
+  "en": "Keep going straight, then turn left at the signal.",
+  "tamil": "நேரா போயிட்டே இருங்க, அப்புறம் சிக்னலில் இடது பக்கம் திரும்புங்க.",
+  "context": "Giving directions to someone.",
+  "tense": "imperative",
+  "type": "statement",
+  "explain": "Directions use simple commands like 'go' and 'turn'. 'At the signal' tells the place.",
+  "words": [
+   "straight",
+   "signal"
+  ],
+  "alt": {
+   "en": "Turn left at the signal after you go straight.",
+   "tamil": "நேரா போனதுக்கு அப்புறம் சிக்னலில் இடது பக்கம் திரும்புங்க."
+  }
+ },
+ {
+  "en": "My flight has been cancelled.",
+  "tamil": "என் ஃபிளைட் கேன்சல் ஆயிடுச்சு.",
+  "context": "Calling home or the office from the airport.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has been cancelled' tells us something happened and the result matters now.",
+  "words": [
+   "flight",
+   "cancelled"
+  ]
+ },
+ {
+  "en": "I don't have a window seat.",
+  "tamil": "எனக்கு ஜன்னல் சீட் கிடைக்கல.",
+  "context": "Complaining about your seat.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Don't have' makes the sentence negative. Use 'a' before a single seat.",
+  "words": [
+   "window",
+   "seat"
+  ]
+ },
+ {
+  "en": "Is there a hotel near the beach?",
+  "tamil": "பீச் பக்கத்தில் ஹோட்டல் இருக்கா?",
+  "context": "Asking a local while planning a trip.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there' asks if something exists. 'Near' shows it is close by.",
+  "words": [
+   "hotel",
+   "beach"
+  ]
+ },
+ {
+  "en": "We will reach Madurai by six in the morning.",
+  "tamil": "நாங்க காலைல ஆறு மணிக்கு மதுரை போய் சேருவோம்.",
+  "context": "Telling family your arrival time.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'By six' means at or before six. 'Will reach' is for a plan or expectation.",
+  "words": [
+   "reach",
+   "morning"
+  ]
+ },
+ {
+  "en": "Can I get a refund for this ticket?",
+  "tamil": "இந்த டிக்கெட்டுக்கு பணம் திரும்ப கிடைக்குமா?",
+  "context": "Asking at the booking counter.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can I' asks for permission or a possibility. 'Refund' means getting your money back.",
+  "words": [
+   "refund",
+   "ticket"
+  ]
+ },
+ {
+  "en": "I missed the last bus yesterday.",
+  "tamil": "நேத்து கடைசி பஸ்ஸை மிஸ் பண்ணிட்டேன்.",
+  "context": "Explaining why you were late or stuck.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Missed' is the past of 'miss'. We say 'miss the bus' when we are late for it.",
+  "words": [
+   "missed",
+   "last"
+  ]
+ },
+ {
+  "en": "The platform number has not been announced yet.",
+  "tamil": "பிளாட்பாரம் நம்பர் இன்னும் அறிவிக்கல.",
+  "context": "Waiting at a railway station.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Has not been announced yet' shows something is still waiting to happen.",
+  "words": [
+   "platform",
+   "announced"
+  ]
+ },
+ {
+  "en": "Please keep your luggage with you.",
+  "tamil": "உங்க லக்கேஜை உங்ககூடவே வச்சுக்கோங்க.",
+  "context": "Advice at a station or airport.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Keep' is a simple command. 'Luggage' is never used as 'luggages'.",
+  "words": [
+   "luggage",
+   "keep"
+  ]
+ },
+ {
+  "en": "What time does the next train leave?",
+  "tamil": "அடுத்த ட்ரெயின் எத்தனை மணிக்கு கிளம்பும்?",
+  "context": "Asking at an enquiry counter.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Use 'does' with 'the next train'. After 'does' the verb stays simple: 'leave'.",
+  "words": [
+   "next",
+   "leave"
+  ],
+  "alt": {
+   "en": "When is the next train leaving?",
+   "tamil": "அடுத்த ட்ரெயின் எப்போ கிளம்புது?"
+  }
+ },
+ {
+  "en": "I am waiting at the bus stop right now.",
+  "tamil": "நான் இப்போ பஸ் ஸ்டாப்பில் காத்திருக்கேன்.",
+  "context": "Replying to a friend on the phone.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Am waiting' shows the action is happening now. 'Right now' adds emphasis.",
+  "words": [
+   "waiting",
+   "stop"
+  ]
+ },
+ {
+  "en": "The traffic was terrible this morning.",
+  "tamil": "இன்னைக்கு காலைல டிராஃபிக் ரொம்ப மோசமா இருந்துச்சு.",
+  "context": "Explaining why you reached late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was' is used with a single thing like 'traffic'. 'Terrible' means very bad.",
+  "words": [
+   "traffic",
+   "terrible"
+  ]
+ },
+ {
+  "en": "Do you have a room with air conditioning?",
+  "tamil": "ஏசி இருக்கிற ரூம் இருக்கா?",
+  "context": "Asking at a hotel reception.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you have' is a simple way to ask if something is available.",
+  "words": [
+   "room",
+   "conditioning"
+  ]
+ },
+ {
+  "en": "Please wake me up when we reach Salem.",
+  "tamil": "சேலம் வந்ததும் என்னை எழுப்பி விடுங்க.",
+  "context": "Asking a co-passenger on an overnight journey.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Wake me up' means make me awake. 'When we reach' uses present for a future time.",
+  "words": [
+   "wake",
+   "reach"
+  ]
+ },
+ {
+  "en": "I won't take an auto in this rain.",
+  "tamil": "இந்த மழைல நான் ஆட்டோ எடுக்க மாட்டேன்.",
+  "context": "Deciding how to travel.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Won't' means will not. It shows a decision about the future.",
+  "words": [
+   "auto",
+   "rain"
+  ]
+ }
+]

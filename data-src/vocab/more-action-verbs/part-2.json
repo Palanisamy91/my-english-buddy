@@ -1,0 +1,346 @@
+[
+ {
+  "word": "sip",
+  "meaning": "to drink a little at a time",
+  "tamil": "மெதுவாகக் குடி",
+  "pos": "verb",
+  "pron": "SIP",
+  "example": "She sipped her hot coffee slowly.",
+  "exampleTamil": "அவள் தன் சூடான காபியை மெதுவாகக் குடித்தாள்.",
+  "synonyms": [
+   "taste",
+   "drink"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bite",
+  "meaning": "to cut or hold something with your teeth",
+  "tamil": "கடி",
+  "pos": "verb",
+  "pron": "BITE",
+  "example": "Do not bite your nails.",
+  "exampleTamil": "நகங்களைக் கடிக்காதே.",
+  "synonyms": [
+   "chew",
+   "nibble"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sign in",
+  "meaning": "to enter your name and password to use a site",
+  "tamil": "உள்நுழை",
+  "pos": "phrasal verb",
+  "pron": "sine IN",
+  "example": "Please sign in with your email address.",
+  "exampleTamil": "தயவுசெய்து உங்கள் மின்னஞ்சல் முகவரியுடன் உள்நுழையுங்கள்.",
+  "synonyms": [
+   "log in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "give back",
+  "meaning": "to return something to its owner",
+  "tamil": "திருப்பிக் கொடு",
+  "pos": "phrasal verb",
+  "pron": "giv BAK",
+  "example": "Please give back my pen after the exam.",
+  "exampleTamil": "தேர்வுக்குப் பிறகு என் பேனாவைத் திருப்பிக் கொடு.",
+  "synonyms": [
+   "return"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "plug in",
+  "meaning": "to connect a device to the electric socket",
+  "tamil": "மின் இணைப்பில் சொருகு",
+  "pos": "phrasal verb",
+  "pron": "plug IN",
+  "example": "Plug in the charger, my phone is dead.",
+  "exampleTamil": "சார்ஜரை சொருகு, என் போன் செயலிழந்துவிட்டது.",
+  "synonyms": [
+   "connect"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "paste",
+  "meaning": "to put copied text or pictures in a new place on a screen",
+  "tamil": "ஒட்டு",
+  "pos": "verb",
+  "pron": "PAYST",
+  "example": "Copy the address and paste it in the email.",
+  "exampleTamil": "முகவரியை நகலெடுத்து மின்னஞ்சலில் ஒட்டுங்கள்.",
+  "synonyms": [
+   "insert"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "attach",
+  "meaning": "to add a file to an email",
+  "tamil": "இணை",
+  "pos": "verb",
+  "pron": "uh-TACH",
+  "example": "I have attached my resume to this email.",
+  "exampleTamil": "என் சுயவிவரத்தை இந்த மின்னஞ்சலுடன் இணைத்துள்ளேன்.",
+  "synonyms": [
+   "add",
+   "connect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flip",
+  "meaning": "to turn something over quickly",
+  "tamil": "புரட்டு",
+  "pos": "verb",
+  "pron": "FLIP",
+  "example": "He flipped the pages looking for the recipe.",
+  "exampleTamil": "அவன் சமையல் குறிப்பைத் தேடிப் பக்கங்களைப் புரட்டினான்.",
+  "synonyms": [
+   "turn",
+   "flick"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spill",
+  "meaning": "to let liquid fall out by accident",
+  "tamil": "சிந்து",
+  "pos": "verb",
+  "pron": "SPIL",
+  "example": "Be careful, you will spill the tea.",
+  "exampleTamil": "கவனமாக இரு, தேநீரைச் சிந்திவிடுவாய்.",
+  "synonyms": [
+   "slop",
+   "tip over"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "type",
+  "meaning": "to write words using a keyboard",
+  "tamil": "தட்டச்சு செய்",
+  "pos": "verb",
+  "pron": "TIPE",
+  "example": "She can type very fast without looking.",
+  "exampleTamil": "அவளால் பார்க்காமலேயே மிக வேகமாகத் தட்டச்சு செய்ய முடியும்.",
+  "synonyms": [
+   "key in"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "arrange",
+  "meaning": "to plan or organise something so it can happen",
+  "tamil": "ஏற்பாடு செய்",
+  "pos": "verb",
+  "pron": "uh-RAYNJ",
+  "example": "Can you arrange a cab for tomorrow morning?",
+  "exampleTamil": "நாளை காலைக்கு ஒரு வாடகைக் கார் ஏற்பாடு செய்ய முடியுமா?",
+  "synonyms": [
+   "organise",
+   "plan"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "announce",
+  "meaning": "to tell people something officially",
+  "tamil": "அறிவி",
+  "pos": "verb",
+  "pron": "uh-NOWNSS",
+  "example": "The company announced a holiday for Diwali.",
+  "exampleTamil": "தீபாவளிக்கு நிறுவனம் விடுமுறை அறிவித்தது.",
+  "synonyms": [
+   "declare",
+   "reveal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inform",
+  "meaning": "to give someone facts or news",
+  "tamil": "தெரியப்படுத்து",
+  "pos": "verb",
+  "pron": "in-FORM",
+  "example": "Please inform me if the plan changes.",
+  "exampleTamil": "திட்டம் மாறினால் தயவுசெய்து எனக்குத் தெரியப்படுத்துங்கள்.",
+  "synonyms": [
+   "tell",
+   "notify"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "earn",
+  "meaning": "to get money for the work you do",
+  "tamil": "சம்பாதி",
+  "pos": "verb",
+  "pron": "URN",
+  "example": "He earns a good salary at the bank.",
+  "exampleTamil": "அவர் வங்கியில் நல்ல சம்பளம் சம்பாதிக்கிறார்.",
+  "synonyms": [
+   "make",
+   "get"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "save up",
+  "meaning": "to keep money to buy something later",
+  "tamil": "சேமித்து வை",
+  "pos": "phrasal verb",
+  "pron": "sayv UP",
+  "example": "I need to save up for a new laptop.",
+  "exampleTamil": "நான் ஒரு புதிய லேப்டாப் வாங்கச் சேமிக்க வேண்டும்.",
+  "synonyms": [
+   "put aside"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "come across",
+  "meaning": "to find or meet something by chance",
+  "tamil": "தற்செயலாகக் கண்டுபிடி",
+  "pos": "phrasal verb",
+  "pron": "kum uh-KROSS",
+  "example": "You may come across this word in news.",
+  "exampleTamil": "இந்தச் சொல்லை நீங்கள் செய்திகளில் காணலாம்.",
+  "synonyms": [
+   "find",
+   "stumble on"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bump into",
+  "meaning": "to meet someone by chance",
+  "tamil": "தற்செயலாகச் சந்தி",
+  "pos": "phrasal verb",
+  "pron": "bump IN-too",
+  "example": "I bumped into my old teacher at the market.",
+  "exampleTamil": "நான் சந்தையில் என் பழைய ஆசிரியரைத் தற்செயலாகச் சந்தித்தேன்.",
+  "synonyms": [
+   "run into",
+   "meet"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "turn up",
+  "meaning": "to arrive, or to make sound or heat higher",
+  "tamil": "வந்து சேர்; அளவை உயர்த்து",
+  "pos": "phrasal verb",
+  "pron": "turn UP",
+  "example": "Please turn up the volume, I cannot hear.",
+  "exampleTamil": "தயவுசெய்து ஒலியை அதிகப்படுத்துங்கள், என்னால் கேட்க முடியவில்லை.",
+  "synonyms": [
+   "increase",
+   "raise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "drop by",
+  "meaning": "to visit someone for a short time",
+  "tamil": "சும்மா சென்று பார்",
+  "pos": "phrasal verb",
+  "pron": "drop BY",
+  "example": "I will drop by your house this evening.",
+  "exampleTamil": "நான் இன்று மாலை உன் வீட்டுக்குச் சும்மா வந்து பார்க்கிறேன்.",
+  "synonyms": [
+   "visit",
+   "stop by"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "speed up",
+  "meaning": "to go faster or make something faster",
+  "tamil": "வேகப்படுத்து",
+  "pos": "phrasal verb",
+  "pron": "speed UP",
+  "example": "We need to speed up to finish today.",
+  "exampleTamil": "இன்றே முடிக்க நாம் வேகப்படுத்த வேண்டும்.",
+  "synonyms": [
+   "accelerate",
+   "hurry"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hand in",
+  "meaning": "to give your work to a teacher or boss",
+  "tamil": "ஒப்படை",
+  "pos": "phrasal verb",
+  "pron": "hand IN",
+  "example": "Hand in your assignment by Friday.",
+  "exampleTamil": "உங்கள் பணியை வெள்ளிக்கிழமைக்குள் ஒப்படையுங்கள்.",
+  "synonyms": [
+   "submit",
+   "give in"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "turn down",
+  "meaning": "to refuse an offer, or to lower the volume",
+  "tamil": "நிராகரி; குறை",
+  "pos": "phrasal verb",
+  "pron": "turn DOWN",
+  "example": "He turned down the job because the pay was low.",
+  "exampleTamil": "சம்பளம் குறைவு என்பதால் அவர் அந்த வேலையை நிராகரித்தார்.",
+  "synonyms": [
+   "refuse",
+   "decline"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "adjust",
+  "meaning": "to change something a little to make it better",
+  "tamil": "சரிசெய்",
+  "pos": "verb",
+  "pron": "uh-JUST",
+  "example": "Can you adjust the seat? It is too low.",
+  "exampleTamil": "இருக்கையைச் சரிசெய்ய முடியுமா? மிகவும் தாழ்வாக உள்ளது.",
+  "synonyms": [
+   "change",
+   "tune"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "measure",
+  "meaning": "to find the size or amount of something",
+  "tamil": "அளவிடு",
+  "pos": "verb",
+  "pron": "MEZH-ur",
+  "example": "Measure the window before you buy curtains.",
+  "exampleTamil": "திரைச்சீலைகள் வாங்கும் முன் ஜன்னலை அளவிடு.",
+  "synonyms": [
+   "gauge",
+   "size"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "assemble",
+  "meaning": "to put the parts of something together",
+  "tamil": "பொருத்தி அமை",
+  "pos": "verb",
+  "pron": "uh-SEM-bul",
+  "example": "It took us an hour to assemble the table.",
+  "exampleTamil": "மேசையைப் பொருத்தி அமைக்க எங்களுக்கு ஒரு மணி நேரம் ஆனது.",
+  "synonyms": [
+   "build",
+   "put together"
+  ],
+  "level": "intermediate"
+ }
+]

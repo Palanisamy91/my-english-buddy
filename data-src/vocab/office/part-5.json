@@ -1,0 +1,701 @@
+[
+ {
+  "word": "stationery",
+  "tamil": "எழுது பொருட்கள்",
+  "pos": "noun",
+  "pron": "STAY-shuh-ner-ee",
+  "example": "We order stationery for the whole office every month.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு மாதமும் முழு அலுவலகத்துக்கும் எழுது பொருட்கள் வாங்குகிறோம்.",
+  "synonyms": [
+   "office supplies",
+   "writing materials"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stapler",
+  "tamil": "ஸ்டேப்ளர், காகிதம் தைக்கும் கருவி",
+  "pos": "noun",
+  "pron": "STAY-pler",
+  "example": "Can I borrow your stapler for a minute?",
+  "exampleTamil": "உங்கள் ஸ்டேப்ளரை ஒரு நிமிடம் கடனாகத் தர முடியுமா?",
+  "synonyms": [
+   "stitching tool"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "staple",
+  "tamil": "ஸ்டேப்ளர் பின்",
+  "pos": "noun",
+  "pron": "STAY-pul",
+  "example": "There are no staples left in the box.",
+  "exampleTamil": "பெட்டியில் ஸ்டேப்ளர் பின்கள் எதுவும் மீதமில்லை.",
+  "synonyms": [
+   "fastener",
+   "clip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "paperclip",
+  "tamil": "காகிதக் கிளிப்",
+  "pos": "noun",
+  "pron": "PAY-per-klip",
+  "example": "She held the pages together with a paperclip.",
+  "exampleTamil": "அவர் பக்கங்களை ஒரு காகிதக் கிளிப்பால் சேர்த்து வைத்தார்.",
+  "synonyms": [
+   "clip",
+   "fastener"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "notebook",
+  "tamil": "குறிப்பேடு",
+  "pos": "noun",
+  "pron": "NOHT-buk",
+  "example": "He writes every task in his notebook.",
+  "exampleTamil": "அவர் ஒவ்வொரு பணியையும் தன் குறிப்பேட்டில் எழுதுகிறார்.",
+  "synonyms": [
+   "journal",
+   "jotter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "notepad",
+  "tamil": "குறிப்புத் தாள் கட்டு",
+  "pos": "noun",
+  "pron": "NOHT-pad",
+  "example": "Keep a notepad on your desk for quick notes.",
+  "exampleTamil": "விரைவான குறிப்புகளுக்கு உங்கள் மேசையில் ஒரு குறிப்புத் தாள் வையுங்கள்.",
+  "synonyms": [
+   "memo pad",
+   "jotter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "marker",
+  "tamil": "மார்க்கர் பேனா",
+  "pos": "noun",
+  "pron": "MAR-ker",
+  "example": "The marker has run out, so please bring a new one.",
+  "exampleTamil": "மார்க்கரில் மை தீர்ந்துவிட்டது, புதியதைக் கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "felt pen",
+   "pen"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "highlighter",
+  "tamil": "முக்கியப் பகுதியைக் காட்டும் பேனா",
+  "pos": "noun",
+  "pron": "HY-ly-ter",
+  "example": "Use a highlighter to mark the important lines.",
+  "exampleTamil": "முக்கியமான வரிகளைக் குறிக்க ஹைலைட்டர் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "marker pen"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "printer",
+  "tamil": "அச்சுப்பொறி",
+  "pos": "noun",
+  "pron": "PRIN-ter",
+  "example": "The printer on our floor is out of order.",
+  "exampleTamil": "எங்கள் தளத்தில் உள்ள அச்சுப்பொறி பழுதாகி உள்ளது.",
+  "synonyms": [
+   "print machine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "photocopier",
+  "tamil": "ஜெராக்ஸ் இயந்திரம்",
+  "pos": "noun",
+  "pron": "FOH-toh-kop-ee-er",
+  "example": "The photocopier jams whenever we use thick paper.",
+  "exampleTamil": "தடித்த காகிதம் பயன்படுத்தும்போதெல்லாம் ஜெராக்ஸ் இயந்திரம் அடைத்துக்கொள்கிறது.",
+  "synonyms": [
+   "copier",
+   "xerox machine"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "toner",
+  "tamil": "அச்சுப்பொறியின் மைத்தூள்",
+  "pos": "noun",
+  "pron": "TOH-ner",
+  "example": "We need to replace the toner before the report is printed.",
+  "exampleTamil": "அறிக்கையை அச்சிடுவதற்கு முன் டோனரை மாற்ற வேண்டும்.",
+  "synonyms": [
+   "printer powder",
+   "ink"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cartridge",
+  "tamil": "மை நிரப்பும் பெட்டி",
+  "pos": "noun",
+  "pron": "KAR-trij",
+  "example": "The ink cartridge needs to be changed again.",
+  "exampleTamil": "மை கார்ட்ரிட்ஜை மீண்டும் மாற்ற வேண்டும்.",
+  "synonyms": [
+   "ink holder",
+   "refill"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cabinet",
+  "tamil": "கோப்பு அலமாரி",
+  "pos": "noun",
+  "pron": "KAB-ih-net",
+  "example": "All old records are kept in the steel cabinet.",
+  "exampleTamil": "பழைய பதிவுகள் அனைத்தும் இரும்பு அலமாரியில் வைக்கப்பட்டுள்ளன.",
+  "synonyms": [
+   "cupboard",
+   "file storage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "desk",
+  "tamil": "மேசை",
+  "pos": "noun",
+  "pron": "DESK",
+  "example": "My desk is next to the window.",
+  "exampleTamil": "என் மேசை ஜன்னலுக்கு அருகில் உள்ளது.",
+  "synonyms": [
+   "table",
+   "workstation"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cubicle",
+  "tamil": "தடுப்புப் பணியிடம்",
+  "pos": "noun",
+  "pron": "KYOO-bih-kul",
+  "example": "Each employee has a small cubicle on this floor.",
+  "exampleTamil": "இந்தத் தளத்தில் ஒவ்வொரு ஊழியருக்கும் ஒரு சிறிய தடுப்புப் பணியிடம் உள்ளது.",
+  "synonyms": [
+   "booth",
+   "partitioned desk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "workstation",
+  "tamil": "பணி மேசை",
+  "pos": "noun",
+  "pron": "WERK-stay-shun",
+  "example": "Please keep your workstation clean and tidy.",
+  "exampleTamil": "தயவுசெய்து உங்கள் பணி மேசையைச் சுத்தமாக வையுங்கள்.",
+  "synonyms": [
+   "desk",
+   "work area"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lobby",
+  "tamil": "நுழைவு மண்டபம்",
+  "pos": "noun",
+  "pron": "LOB-ee",
+  "example": "Visitors should wait in the lobby on the ground floor.",
+  "exampleTamil": "வருகையாளர்கள் தரைத் தளத்தில் உள்ள நுழைவு மண்டபத்தில் காத்திருக்க வேண்டும்.",
+  "synonyms": [
+   "foyer",
+   "entrance hall"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lift",
+  "tamil": "மின்தூக்கி",
+  "pos": "noun",
+  "pron": "LIFT",
+  "example": "The lift is not working, so we took the stairs.",
+  "exampleTamil": "மின்தூக்கி வேலை செய்யவில்லை, அதனால் படிக்கட்டில் ஏறினோம்.",
+  "synonyms": [
+   "elevator"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "canteen",
+  "tamil": "உணவகம், கேண்டீன்",
+  "pos": "noun",
+  "pron": "kan-TEEN",
+  "example": "The canteen serves lunch from twelve to two.",
+  "exampleTamil": "கேண்டீனில் பன்னிரண்டு முதல் இரண்டு மணி வரை மதிய உணவு கிடைக்கும்.",
+  "synonyms": [
+   "cafeteria",
+   "dining hall"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pantry",
+  "tamil": "அலுவலகத் தேநீர்ச் சமையலறை",
+  "pos": "noun",
+  "pron": "PAN-tree",
+  "example": "There is a coffee machine in the pantry.",
+  "exampleTamil": "பேன்ட்ரியில் ஒரு காபி இயந்திரம் உள்ளது.",
+  "synonyms": [
+   "kitchenette",
+   "tea room"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "restroom",
+  "tamil": "கழிவறை",
+  "pos": "noun",
+  "pron": "REST-room",
+  "example": "The restroom is at the end of the corridor.",
+  "exampleTamil": "கழிவறை தாழ்வாரத்தின் முடிவில் உள்ளது.",
+  "synonyms": [
+   "toilet",
+   "washroom"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "badge",
+  "tamil": "அடையாளப் பில்லை",
+  "pos": "noun",
+  "pron": "BAJ",
+  "example": "You must wear your badge at all times.",
+  "exampleTamil": "நீங்கள் எப்போதும் உங்கள் அடையாளப் பில்லையை அணிந்திருக்க வேண்டும்.",
+  "synonyms": [
+   "ID tag",
+   "pass"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "visitor",
+  "tamil": "வருகையாளர்",
+  "pos": "noun",
+  "pron": "VIZ-ih-ter",
+  "example": "Every visitor has to sign in at the front desk.",
+  "exampleTamil": "ஒவ்வொரு வருகையாளரும் வரவேற்பு மேசையில் பதிவு செய்ய வேண்டும்.",
+  "synonyms": [
+   "guest",
+   "caller"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "premises",
+  "tamil": "அலுவலக வளாகம்",
+  "pos": "noun",
+  "pron": "PREM-ih-siz",
+  "example": "Smoking is not allowed anywhere on the premises.",
+  "exampleTamil": "வளாகத்தில் எங்கும் புகைபிடிக்க அனுமதி இல்லை.",
+  "synonyms": [
+   "property",
+   "site",
+   "grounds"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "facility",
+  "tamil": "வசதி",
+  "pos": "noun",
+  "pron": "fuh-SIL-ih-tee",
+  "example": "The new office has a gym facility for staff.",
+  "exampleTamil": "புதிய அலுவலகத்தில் ஊழியர்களுக்கு உடற்பயிற்சி வசதி உள்ளது.",
+  "synonyms": [
+   "amenity",
+   "service"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "furniture",
+  "tamil": "மரச்சாமான்கள்",
+  "pos": "noun",
+  "pron": "FER-nih-cher",
+  "example": "We bought new furniture for the conference area.",
+  "exampleTamil": "மாநாட்டுப் பகுதிக்கு நாங்கள் புதிய மரச்சாமான்கள் வாங்கினோம்.",
+  "synonyms": [
+   "fittings",
+   "fixtures"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "partition",
+  "tamil": "தடுப்புச் சுவர்",
+  "pos": "noun",
+  "pron": "par-TISH-un",
+  "example": "A glass partition separates the two departments.",
+  "exampleTamil": "ஒரு கண்ணாடித் தடுப்பு இரண்டு துறைகளைப் பிரிக்கிறது.",
+  "synonyms": [
+   "divider",
+   "screen"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lighting",
+  "tamil": "விளக்கொளி அமைப்பு",
+  "pos": "noun",
+  "pron": "LY-ting",
+  "example": "The lighting in this room is too dim for reading.",
+  "exampleTamil": "படிப்பதற்கு இந்த அறையின் வெளிச்சம் மிகவும் குறைவு.",
+  "synonyms": [
+   "illumination",
+   "light"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ventilation",
+  "tamil": "காற்றோட்ட வசதி",
+  "pos": "noun",
+  "pron": "ven-tuh-LAY-shun",
+  "example": "Good ventilation keeps the office fresh and comfortable.",
+  "exampleTamil": "நல்ல காற்றோட்டம் அலுவலகத்தைப் புத்துணர்ச்சியாக வைத்திருக்கிறது.",
+  "synonyms": [
+   "airflow",
+   "air circulation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "janitor",
+  "tamil": "துப்புரவுப் பணியாளர்",
+  "pos": "noun",
+  "pron": "JAN-ih-ter",
+  "example": "The janitor cleans all the floors before we arrive.",
+  "exampleTamil": "நாங்கள் வருவதற்கு முன் துப்புரவுப் பணியாளர் எல்லாத் தளங்களையும் சுத்தம் செய்கிறார்.",
+  "synonyms": [
+   "cleaner",
+   "caretaker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "housekeeping",
+  "tamil": "அலுவலகத் தூய்மைப் பராமரிப்பு",
+  "pos": "noun",
+  "pron": "HOWS-kee-ping",
+  "example": "Housekeeping staff clean the meeting rooms every evening.",
+  "exampleTamil": "தூய்மைப் பணியாளர்கள் ஒவ்வொரு மாலையும் கூட்ட அறைகளைச் சுத்தம் செய்கிறார்கள்.",
+  "synonyms": [
+   "cleaning",
+   "upkeep"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "maintenance",
+  "tamil": "பராமரிப்பு",
+  "pos": "noun",
+  "pron": "MAYN-tuh-nuns",
+  "example": "The lift is closed for maintenance today.",
+  "exampleTamil": "மின்தூக்கி இன்று பராமரிப்புக்காக மூடப்பட்டுள்ளது.",
+  "synonyms": [
+   "upkeep",
+   "servicing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "supplies",
+  "tamil": "தேவையான பொருட்கள்",
+  "pos": "noun",
+  "pron": "suh-PLYZ",
+  "example": "Office supplies are kept in the store room.",
+  "exampleTamil": "அலுவலகப் பொருட்கள் சேமிப்பு அறையில் வைக்கப்பட்டுள்ளன.",
+  "synonyms": [
+   "materials",
+   "provisions"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "inventory",
+  "tamil": "இருப்புப் பட்டியல்",
+  "pos": "noun",
+  "pron": "IN-ven-tor-ee",
+  "example": "We check the inventory of stationery every month.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு மாதமும் எழுது பொருள் இருப்பைச் சரிபார்க்கிறோம்.",
+  "synonyms": [
+   "stock",
+   "stock list"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "remote",
+  "tamil": "தொலைதூரத்திலிருந்து செய்யும்",
+  "pos": "adjective",
+  "pron": "rih-MOHT",
+  "example": "Many companies now offer remote jobs.",
+  "exampleTamil": "இப்போது பல நிறுவனங்கள் தொலைதூர வேலைகளை வழங்குகின்றன.",
+  "synonyms": [
+   "off-site",
+   "distant"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hybrid",
+  "tamil": "அலுவலகமும் வீடும் கலந்த முறை",
+  "pos": "adjective",
+  "pron": "HY-brid",
+  "example": "We follow a hybrid model of three days in the office.",
+  "exampleTamil": "நாங்கள் வாரத்தில் மூன்று நாட்கள் அலுவலகம் என்ற கலப்பு முறையைப் பின்பற்றுகிறோம்.",
+  "synonyms": [
+   "mixed",
+   "blended"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "telecommute",
+  "tamil": "வீட்டிலிருந்து தொலைவழி வேலை செய்",
+  "pos": "verb",
+  "pron": "TEL-uh-kuh-myoot",
+  "example": "She telecommutes two days a week to save travel time.",
+  "exampleTamil": "பயண நேரத்தைச் சேமிக்க அவர் வாரத்தில் இரு நாட்கள் வீட்டிலிருந்து வேலை செய்கிறார்.",
+  "synonyms": [
+   "work remotely",
+   "work from home"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "isolation",
+  "tamil": "தனிமை",
+  "pos": "noun",
+  "pron": "eye-suh-LAY-shun",
+  "example": "Working alone at home can cause feelings of isolation.",
+  "exampleTamil": "வீட்டில் தனியாக வேலை செய்வது தனிமை உணர்வை ஏற்படுத்தலாம்.",
+  "synonyms": [
+   "loneliness",
+   "separation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boundary",
+  "tamil": "எல்லைக் கோடு",
+  "pos": "noun",
+  "pron": "BOWN-duh-ree",
+  "example": "Set a clear boundary between work and family time.",
+  "exampleTamil": "வேலை நேரத்துக்கும் குடும்ப நேரத்துக்கும் இடையே தெளிவான எல்லை வகுங்கள்.",
+  "synonyms": [
+   "limit",
+   "border"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flexitime",
+  "tamil": "நெகிழ்வான வேலை நேர முறை",
+  "pos": "noun",
+  "pron": "FLEK-see-tym",
+  "example": "Our company offers flexitime, so you can choose your start time.",
+  "exampleTamil": "எங்கள் நிறுவனம் நெகிழ்வான நேரம் வழங்குகிறது, எனவே தொடக்க நேரத்தை நீங்கள் தேர்வு செய்யலாம்.",
+  "synonyms": [
+   "flexible hours",
+   "flextime"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "punctuality",
+  "tamil": "நேரந்தவறாமை",
+  "pos": "noun",
+  "pron": "punk-choo-AL-ih-tee",
+  "example": "Punctuality is very important in our office.",
+  "exampleTamil": "எங்கள் அலுவலகத்தில் நேரந்தவறாமை மிகவும் முக்கியம்.",
+  "synonyms": [
+   "timeliness",
+   "promptness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tardy",
+  "tamil": "தாமதமாக வருகிற",
+  "pos": "adjective",
+  "pron": "TAR-dee",
+  "example": "The manager warned him about being tardy again.",
+  "exampleTamil": "மீண்டும் தாமதமாக வந்ததற்காக மேலாளர் அவரை எச்சரித்தார்.",
+  "synonyms": [
+   "late",
+   "slow"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "workaholic",
+  "tamil": "வேலையே கதி என்று இருப்பவர்",
+  "pos": "noun",
+  "pron": "wer-kuh-HOL-ik",
+  "example": "My boss is a workaholic who answers mails at midnight.",
+  "exampleTamil": "என் முதலாளி நள்ளிரவிலும் மின்னஞ்சலுக்குப் பதிலளிக்கும் வேலைப்பித்தர்.",
+  "synonyms": [
+   "overworker",
+   "career-obsessed person"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "declutter",
+  "tamil": "தேவையற்றவற்றை அகற்று",
+  "pos": "verb",
+  "pron": "dee-KLUT-er",
+  "example": "I decided to declutter my workspace on Friday.",
+  "exampleTamil": "வெள்ளிக்கிழமை என் பணியிடத்தில் தேவையற்றவற்றை அகற்ற முடிவு செய்தேன்.",
+  "synonyms": [
+   "tidy up",
+   "clear out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "automate",
+  "tamil": "தானியங்கி ஆக்கு",
+  "pos": "verb",
+  "pron": "AW-tuh-mayt",
+  "example": "We automated the monthly report to save time.",
+  "exampleTamil": "நேரத்தைச் சேமிக்க மாதாந்திர அறிக்கையைத் தானியங்கியாக்கினோம்.",
+  "synonyms": [
+   "mechanize",
+   "computerize"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "efficiency",
+  "tamil": "திறன்மிகு செயல்பாடு",
+  "pos": "noun",
+  "pron": "ih-FISH-un-see",
+  "example": "The new system improved our efficiency a lot.",
+  "exampleTamil": "புதிய அமைப்பு எங்கள் செயல்திறனை மிகவும் உயர்த்தியது.",
+  "synonyms": [
+   "productivity",
+   "effectiveness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "downtime",
+  "tamil": "வேலை இல்லாத நேரம், ஓய்வு நேரம்",
+  "pos": "noun",
+  "pron": "DOWN-tym",
+  "example": "Use your downtime to learn something new.",
+  "exampleTamil": "உங்கள் ஓய்வு நேரத்தில் புதிதாக ஏதாவது கற்றுக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "free time",
+   "idle time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "idle",
+  "tamil": "வேலையின்றி சும்மா இருக்கும்",
+  "pos": "adjective",
+  "pron": "Y-dul",
+  "example": "The machines stayed idle during the power cut.",
+  "exampleTamil": "மின்வெட்டின் போது இயந்திரங்கள் சும்மா நின்றன.",
+  "synonyms": [
+   "inactive",
+   "unused"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "work from home",
+  "tamil": "வீட்டிலிருந்து வேலை செய்",
+  "pos": "phrase",
+  "pron": "WERK-from-HOHM",
+  "example": "I work from home on Wednesdays and Fridays.",
+  "exampleTamil": "நான் புதன் மற்றும் வெள்ளிக்கிழமைகளில் வீட்டிலிருந்து வேலை செய்கிறேன்.",
+  "synonyms": [
+   "telecommute",
+   "work remotely"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lunch break",
+  "tamil": "மதிய உணவு இடைவேளை",
+  "pos": "phrase",
+  "pron": "LUNCH-brayk",
+  "example": "Our lunch break is from one to two o'clock.",
+  "exampleTamil": "எங்கள் மதிய உணவு இடைவேளை ஒன்று முதல் இரண்டு மணி வரை.",
+  "synonyms": [
+   "midday break",
+   "lunch hour"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "working hours",
+  "tamil": "வேலை நேரம்",
+  "pos": "phrase",
+  "pron": "WER-king-OW-erz",
+  "example": "Our working hours are nine to six, Monday to Friday.",
+  "exampleTamil": "எங்கள் வேலை நேரம் திங்கள் முதல் வெள்ளி வரை காலை ஒன்பது முதல் மாலை ஆறு.",
+  "synonyms": [
+   "office hours",
+   "duty hours"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "set up",
+  "tamil": "ஏற்பாடு செய், நிறுவு",
+  "pos": "phrasal verb",
+  "pron": "SET-UP",
+  "example": "The IT team will set up your desk tomorrow.",
+  "exampleTamil": "தகவல் தொழில்நுட்பக் குழு நாளை உங்கள் மேசையை அமைத்துத் தரும்.",
+  "synonyms": [
+   "arrange",
+   "install"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "take a break",
+  "tamil": "சற்று ஓய்வெடு",
+  "pos": "phrase",
+  "pron": "TAYK-uh-BRAYK",
+  "example": "You should take a break after two hours of work.",
+  "exampleTamil": "இரண்டு மணி நேர வேலைக்குப் பிறகு நீங்கள் சற்று ஓய்வெடுக்க வேண்டும்.",
+  "synonyms": [
+   "rest",
+   "pause"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "knock off",
+  "tamil": "வேலையை முடித்துக் கிளம்பு",
+  "pos": "phrasal verb",
+  "pron": "NOK-OF",
+  "example": "Most people knock off around six in the evening.",
+  "exampleTamil": "பெரும்பாலானோர் மாலை ஆறு மணி வாக்கில் வேலையை முடித்துக் கிளம்புவார்கள்.",
+  "synonyms": [
+   "finish work",
+   "clock out"
+  ],
+  "level": "advanced"
+ }
+]

@@ -1,0 +1,371 @@
+[
+ {
+  "en": "Why was my payment declined?",
+  "tamil": "என் பேமெண்ட் ஏன் நிராகரிக்கப்பட்டது?",
+  "context": "Calling bank customer care.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Why' asks the reason. 'Declined' means the payment was refused.",
+  "words": [
+   "payment",
+   "declined"
+  ],
+  "usage": "Ask it on a helpline call when your payment fails.",
+  "leelaQ": "What can be the reasons for a declined payment?",
+  "answer": "The balance may be low or the network may be weak."
+ },
+ {
+  "en": "My phone recharge is due tomorrow.",
+  "tamil": "என் போன் ரீசார்ஜ் நாளைக்கு முடியுது.",
+  "context": "Telling a friend about a plan expiry.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Due' means something must be paid or done by a time.",
+  "words": [
+   "recharge",
+   "due"
+  ],
+  "usage": "Use it when you remind yourself or others about a payment date.",
+  "leelaQ": "How often do you recharge your phone?",
+  "answer": "I recharge it once a month."
+ },
+ {
+  "en": "Keep the receipt safe in case you need a refund.",
+  "tamil": "பணம் திருப்பி வேணும்னா தேவைப்படும், ரசீதை பத்திரமா வச்சுக்கோங்க.",
+  "context": "Advising a friend after buying something.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'In case' means because something may happen later.",
+  "words": [
+   "receipt",
+   "safe"
+  ],
+  "usage": "Use it when you advise a friend after a purchase.",
+  "leelaQ": "Where do you keep important bills and receipts?",
+  "answer": "I keep them in a file at home."
+ },
+ {
+  "en": "I checked three shops before buying this phone.",
+  "tamil": "இந்த போனை வாங்கறதுக்கு முன்னாடி மூணு கடை பார்த்தேன்.",
+  "context": "Telling a friend how you compared prices.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Before buying' uses the -ing form after 'before'.",
+  "words": [
+   "shops",
+   "buying"
+  ],
+  "usage": "Use it when you tell a friend how you found a good deal.",
+  "leelaQ": "How do you find the best price for something?",
+  "answer": "I compare prices in a few shops and on the internet."
+ },
+ {
+  "en": "This shop does not take credit cards.",
+  "tamil": "இந்த கடையில கிரெடிட் கார்டு எடுத்துக்க மாட்டாங்க.",
+  "context": "Telling a friend about a payment rule.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Does not take' says what the shop refuses to accept.",
+  "words": [
+   "credit cards"
+  ],
+  "usage": "Use it to warn a friend before they shop and find no card option.",
+  "leelaQ": "Do you prefer credit cards or debit cards?",
+  "answer": "I prefer debit cards because I cannot overspend."
+ },
+ {
+  "en": "Can I get a printout of my bank statement?",
+  "tamil": "என் வங்கி அறிக்கையை பிரிண்ட் எடுத்து தர முடியுமா?",
+  "context": "Asking at the bank counter.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can I get ...?' is a common way to ask for a service.",
+  "words": [
+   "statement",
+   "printout"
+  ],
+  "usage": "Ask it at the bank when you need a statement for a visa or loan.",
+  "leelaQ": "When do people need a bank statement?",
+  "answer": "They need it for a loan or a visa."
+ },
+ {
+  "en": "Everything is getting costlier these days.",
+  "tamil": "இப்பல்லாம் எல்லாமே விலை ஏறிட்டே போகுது.",
+  "context": "Complaining about prices to a neighbour.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Getting costlier' shows a change that keeps happening.",
+  "words": [
+   "costlier"
+  ],
+  "usage": "Use it in everyday talk about rising prices.",
+  "leelaQ": "What has become costlier in your area?",
+  "answer": "Vegetables and rent have become costlier."
+ },
+ {
+  "en": "I have applied for a home loan.",
+  "tamil": "நான் வீட்டுக் கடனுக்கு விண்ணப்பிச்சிருக்கேன்.",
+  "context": "Sharing news with a colleague.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have applied' shows you did it and are now waiting.",
+  "words": [
+   "applied",
+   "home loan"
+  ],
+  "usage": "Use it when you share a big money plan with friends or colleagues.",
+  "leelaQ": "What kind of house would you like to buy?",
+  "answer": "I would like a small house near my office."
+ },
+ {
+  "en": "You may get a better rate at another bank.",
+  "tamil": "வேற வங்கியில இன்னும் நல்ல வட்டி கிடைக்கலாம்.",
+  "context": "Giving advice to a friend about a deposit.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'May' shows a possibility, not a sure thing.",
+  "words": [
+   "rate",
+   "bank"
+  ],
+  "usage": "Use it to suggest a friend compare banks before deciding.",
+  "leelaQ": "How do you choose a bank?",
+  "answer": "I check the interest rate and the nearest branch."
+ },
+ {
+  "en": "Does this bill include tax?",
+  "tamil": "இந்த பில்ல வரி சேர்த்து இருக்கா?",
+  "context": "Asking a cashier at a restaurant.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Include' means the price already has the tax inside.",
+  "words": [
+   "bill",
+   "tax"
+  ],
+  "usage": "Ask it at a restaurant or shop to understand the total price.",
+  "leelaQ": "Do you read your bills before paying?",
+  "answer": "Yes, I read them quickly before I pay."
+ },
+ {
+  "en": "I will ask my father before I sign anything.",
+  "tamil": "எதுலயும் கையெழுத்து போடறதுக்கு முன்னாடி அப்பாகிட்ட கேட்பேன்.",
+  "context": "Telling an agent you need advice first.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Before I sign' uses the present tense after 'before' even for the future.",
+  "words": [
+   "sign"
+  ],
+  "usage": "Use it to politely slow down an agent who is in a hurry.",
+  "leelaQ": "Who do you ask for advice about money?",
+  "answer": "I ask my father and my elder brother."
+ },
+ {
+  "en": "Could you send me your UPI ID?",
+  "tamil": "உங்க UPI ஐடி அனுப்ப முடியுமா?",
+  "context": "Asking a friend for payment details.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you send me ...?' is polite and short.",
+  "words": [
+   "send"
+  ],
+  "usage": "Use it when you need to pay a friend or a seller by phone.",
+  "leelaQ": "What do you need to send money to someone?",
+  "answer": "I need their phone number or UPI ID."
+ },
+ {
+  "en": "My brother lent me two thousand rupees.",
+  "tamil": "என் அண்ணன் எனக்கு ரெண்டாயிரம் ரூபாய் கடன் கொடுத்தார்.",
+  "context": "Telling a friend how you managed a payment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Lent' is the past of 'lend'. Borrow and lend are opposites.",
+  "words": [
+   "lent"
+  ],
+  "usage": "Use it when you explain where you got money from.",
+  "leelaQ": "Did anyone help you with money when you needed it?",
+  "answer": "Yes, my brother helped me once."
+ },
+ {
+  "en": "How do I reset my net banking password?",
+  "tamil": "என் நெட் பேங்கிங் பாஸ்வேர்டை எப்படி மாத்தறது?",
+  "context": "Asking a bank helpdesk.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How do I ...?' asks for the way to do something.",
+  "words": [
+   "reset",
+   "password"
+  ],
+  "usage": "Ask it at the bank or on a helpline when you cannot log in.",
+  "leelaQ": "How do you remember all your passwords?",
+  "answer": "I write hints in a safe notebook."
+ },
+ {
+  "en": "Rent takes almost half of my salary.",
+  "tamil": "வாடகை என் சம்பளத்துல கிட்டத்தட்ட பாதி எடுத்துக்குது.",
+  "context": "Talking about living costs in a big city.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Takes half of my salary' means half of the money goes there.",
+  "words": [
+   "rent",
+   "salary"
+  ],
+  "usage": "Use it when you talk about the cost of living.",
+  "leelaQ": "How much of your income goes on housing?",
+  "answer": "About one third of my income goes on housing."
+ },
+ {
+  "en": "I did not know about the hidden charges.",
+  "tamil": "மறைமுக கட்டணங்கள் பத்தி எனக்கு தெரியாது.",
+  "context": "Complaining to a service provider.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Hidden charges' are costs nobody told you about.",
+  "words": [
+   "hidden",
+   "charges"
+  ],
+  "usage": "Use it when you complain about a surprise fee on a bill.",
+  "leelaQ": "What should you do when you see a strange charge?",
+  "answer": "I should ask the company to explain it."
+ },
+ {
+  "en": "She is paying the school fees at the counter.",
+  "tamil": "அவங்க கவுண்டர்ல பள்ளிக் கட்டணம் கட்டிட்டு இருக்காங்க.",
+  "context": "Telling someone where your wife is.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with 'is' describes something happening now.",
+  "words": [
+   "school fees",
+   "counter"
+  ],
+  "usage": "Use it when you explain where someone is right now.",
+  "leelaQ": "How do parents usually pay school fees?",
+  "answer": "They pay online or at the school office."
+ },
+ {
+  "en": "Please call me when the money comes.",
+  "tamil": "பணம் வந்ததும் எனக்கு கூப்பிடுங்க.",
+  "context": "Asking a friend to inform you.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'When' with the present tense talks about a future time.",
+  "words": [
+   "call",
+   "money"
+  ],
+  "usage": "Use it when you wait for a payment and need a quick update.",
+  "leelaQ": "Who do you call first when you get good news?",
+  "answer": "I call my mother first."
+ },
+ {
+  "en": "The bank manager explained the loan process to us.",
+  "tamil": "வங்கி மேலாளர் லோன் நடைமுறையை எங்களுக்கு விளக்கினார்.",
+  "context": "Telling a friend about a bank visit.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Explained ... to us' shows who got the explanation.",
+  "words": [
+   "manager",
+   "process"
+  ],
+  "usage": "Use it when you talk about a visit to the bank.",
+  "leelaQ": "Have you ever met a bank manager? What did you ask?",
+  "answer": "Yes, I asked about a savings scheme."
+ },
+ {
+  "en": "Will you pay by cash or by card?",
+  "tamil": "ரொக்கமா கட்டுவீங்களா, கார்டா?",
+  "context": "A cashier asking a customer.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Or' gives two choices. 'By cash' and 'by card' show the method.",
+  "words": [
+   "cash",
+   "card"
+  ],
+  "usage": "A shop cashier asks this at the counter when billing.",
+  "leelaQ": "Which is safer, cash or card?",
+  "answer": "Cards are safer because we can block them if lost."
+ },
+ {
+  "en": "Online shopping often gives good cashback offers.",
+  "tamil": "ஆன்லைன் ஷாப்பிங்ல அடிக்கடி நல்ல கேஷ்பேக் ஆஃபர் கிடைக்கும்.",
+  "context": "Telling a friend about a saving tip.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Often' shows how frequently something happens.",
+  "words": [
+   "cashback",
+   "offers"
+  ],
+  "usage": "Use it in chats about saving money while shopping.",
+  "leelaQ": "Do you buy things online? What was your last order?",
+  "answer": "Yes, my last order was a pair of shoes."
+ },
+ {
+  "en": "The price has gone up since last week.",
+  "tamil": "போன வாரத்துல இருந்து விலை ஏறிடுச்சு.",
+  "context": "Telling a customer about a price change.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Since' is used with present perfect for a starting point in time.",
+  "words": [
+   "price"
+  ],
+  "usage": "Use it when you notice prices change in shops or online.",
+  "leelaQ": "Which thing became expensive recently?",
+  "answer": "Tomatoes became expensive recently."
+ },
+ {
+  "en": "Could you tell me where the closest cash machine is?",
+  "tamil": "பக்கத்துல கேஷ் மெஷின் எங்க இருக்குன்னு சொல்ல முடியுமா?",
+  "context": "Asking a passer-by for directions to a cash machine.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "\"Could you tell me\" is polite, so the verb \"is\" comes after the place word.",
+  "words": [
+   "closest",
+   "cash machine"
+  ],
+  "usage": "Ask it from a stranger or shopkeeper when you need cash quickly.",
+  "leelaQ": "How do you find places when you are in a new city?",
+  "answer": "I use a map app on my phone."
+ },
+ {
+  "en": "We should compare prices before we buy.",
+  "tamil": "வாங்கறதுக்கு முன்னாடி விலைகளை ஒப்பிட்டு பார்க்கணும்.",
+  "context": "Advising your sister before shopping.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' gives advice. 'Compare' means look at two or more things together.",
+  "words": [
+   "compare",
+   "prices"
+  ],
+  "usage": "Use it when you give shopping advice to family.",
+  "leelaQ": "How do you decide what to buy when two things look the same?",
+  "answer": "I choose the one with the better price and quality."
+ },
+ {
+  "en": "I will not buy it unless the price comes down.",
+  "tamil": "விலை குறையலனா நான் இதை வாங்க மாட்டேன்.",
+  "context": "Telling a seller your limit.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Unless' means 'if not'. 'Will not' is a firm decision.",
+  "words": [
+   "buy",
+   "price"
+  ],
+  "usage": "Use it while bargaining at a market or shop.",
+  "leelaQ": "Do you bargain in shops? Why or why not?",
+  "answer": "Yes, I bargain because small shops allow it."
+ }
+]

@@ -1,0 +1,377 @@
+[
+ {
+  "en": "I'm so sorry, I didn't mean to hurt you.",
+  "tamil": "ரொம்ப மன்னிச்சிடுங்க, உங்களை காயப்படுத்தணும்னு நான் நினைக்கலை.",
+  "context": "Apologising after saying something hurtful.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Didn't mean to' tells the person it was not your intention.",
+  "words": [
+   "mean",
+   "hurt"
+  ],
+  "usage": "Use it with friends or family when your words upset them by mistake.",
+  "leelaQ": "What do you do when you hurt a friend by mistake?",
+  "answer": "I say sorry and explain that I did not mean it."
+ },
+ {
+  "en": "Excuse me, you're standing on my foot.",
+  "tamil": "மன்னிக்கணும், நீங்க என் காலை மிதிச்சிட்டு நிக்கறீங்க.",
+  "context": "Politely telling someone in a crowd.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Excuse me' is a gentle way to get attention before you complain.",
+  "words": [
+   "excuse",
+   "standing"
+  ],
+  "usage": "Use it in a bus, train or crowded temple when someone steps on you.",
+  "leelaQ": "How do you speak to a stranger in a crowded bus?",
+  "answer": "I say excuse me and speak in a polite voice."
+ },
+ {
+  "en": "Please forgive me for being late to your function.",
+  "tamil": "உங்க விழாவுக்கு தாமதமா வந்ததுக்கு என்னை மன்னிச்சிடுங்க.",
+  "context": "Apologising to a host for arriving late.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Forgive me for' is followed by an -ing word.",
+  "words": [
+   "forgive",
+   "function"
+  ],
+  "usage": "Say it to the host when you reach a function after the start time.",
+  "leelaQ": "What was the reason you were late the last time?",
+  "answer": "There was heavy traffic on the main road."
+ },
+ {
+  "en": "It's my fault. I should have called you first.",
+  "tamil": "என் தப்புதான். நான் முதல்ல உங்களுக்கு போன் பண்ணியிருக்கணும்.",
+  "context": "Accepting blame after a misunderstanding.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should have' + a verb shows a past mistake or regret.",
+  "words": [
+   "fault",
+   "should have"
+  ],
+  "usage": "Use it with family or friends when you accept your mistake honestly.",
+  "leelaQ": "Is it easy for you to accept your own mistake?",
+  "answer": "Yes, I think saying sorry quickly is always better."
+ },
+ {
+  "en": "No problem at all, these things happen.",
+  "tamil": "பிரச்சினையே இல்லை, இதெல்லாம் நடக்கத்தான் செய்யும்.",
+  "context": "Accepting someone's apology kindly.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "This line makes the other person feel relaxed after saying sorry.",
+  "words": [
+   "problem",
+   "happen"
+  ],
+  "usage": "Say it when a friend or neighbour apologises for a small mistake.",
+  "leelaQ": "How do you reply when someone says sorry to you?",
+  "answer": "I smile and say it is okay, no problem."
+ },
+ {
+  "en": "You look great today. Is that a new saree?",
+  "tamil": "இன்னைக்கு நீங்க ரொம்ப அழகா இருக்கீங்க. இது புது புடவையா?",
+  "context": "Complimenting a colleague's dress.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A compliment plus a question is a nice way to start talking.",
+  "words": [
+   "great",
+   "saree"
+  ],
+  "usage": "Use it with a friend or colleague to start the day on a happy note.",
+  "leelaQ": "What was the last compliment you gave someone?",
+  "answer": "I told my friend that her new haircut looks nice."
+ },
+ {
+  "en": "Your son is so polite. You have brought him up very well.",
+  "tamil": "உங்க பையன் ரொம்ப மரியாதையானவன். நீங்க நல்லா வளர்த்திருக்கீங்க.",
+  "context": "Praising a neighbour's child.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Bring up' means to raise a child. 'Have brought up' is present perfect.",
+  "words": [
+   "polite",
+   "brought"
+  ],
+  "usage": "Say it to parents when their child behaves well in front of you.",
+  "leelaQ": "What good habits did your parents teach you?",
+  "answer": "They taught me to respect elders and speak the truth."
+ },
+ {
+  "en": "Thank you for your kind words, that means a lot to me.",
+  "tamil": "உங்க அன்பான வார்த்தைகளுக்கு நன்றி, அது எனக்கு ரொம்ப முக்கியம்.",
+  "context": "Replying to a heartfelt compliment.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Means a lot' shows deep feeling and thanks.",
+  "words": [
+   "kind",
+   "means"
+  ],
+  "usage": "Use it after someone praises you or says something touching.",
+  "leelaQ": "How do you reply when someone praises your work?",
+  "answer": "I smile and say thank you very much."
+ },
+ {
+  "en": "I really appreciate your help with the shifting.",
+  "tamil": "வீடு மாத்தறதுல நீங்க செஞ்ச உதவிக்கு ரொம்ப நன்றி.",
+  "context": "Thanking friends who helped you move house.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Appreciate' is a stronger and more formal word than 'like' for thanks.",
+  "words": [
+   "appreciate",
+   "shifting"
+  ],
+  "usage": "Say it to friends or neighbours who helped you in a big task.",
+  "leelaQ": "Who helped you the most in the last month?",
+  "answer": "My neighbour helped me a lot when I was sick."
+ },
+ {
+  "en": "I owe you one. You saved me today.",
+  "tamil": "நான் உங்களுக்கு கடமைப்பட்டிருக்கேன். இன்னைக்கு நீங்கதான் என்னைக் காப்பாத்தினீங்க.",
+  "context": "Thanking a friend after a big favour.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'I owe you one' means I will return this favour in future.",
+  "words": [
+   "owe",
+   "saved"
+  ],
+  "usage": "Use it with close friends or colleagues after they help in an emergency.",
+  "leelaQ": "When did a friend save you from a problem?",
+  "answer": "A friend gave me a lift when my bike broke down."
+ },
+ {
+  "en": "You shouldn't have, it's such a beautiful gift!",
+  "tamil": "இதெல்லாம் வேண்டாமே, எவ்ளோ அழகான பரிசு!",
+  "context": "Receiving a surprise gift.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'You shouldn't have' is a polite way to say thank you for a nice gift.",
+  "words": [
+   "shouldn't",
+   "gift"
+  ],
+  "usage": "Say it when someone gives you an unexpected present.",
+  "leelaQ": "What was the best gift you ever received?",
+  "answer": "The best gift was a watch from my father."
+ },
+ {
+  "en": "Could you pass me the water jug, please?",
+  "tamil": "தயவு செஞ்சு அந்த தண்ணி ஜக்கை கொஞ்சம் தர்றீங்களா?",
+  "context": "Asking someone at the dining table.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you pass me' is a polite way to ask for something at a table.",
+  "words": [
+   "pass",
+   "jug"
+  ],
+  "usage": "Use it at a family meal or a function dinner table.",
+  "leelaQ": "What do you usually drink with your meals?",
+  "answer": "I usually drink plain water with my meals."
+ },
+ {
+  "en": "Let me help you with those bags.",
+  "tamil": "அந்த பைகளை தூக்க நான் உதவி பண்றேன்.",
+  "context": "Offering to carry bags for an elderly neighbour.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me...' is a simple way to offer help.",
+  "words": [
+   "help",
+   "bags"
+  ],
+  "usage": "Say it to elders, guests or neighbours who are carrying heavy things.",
+  "leelaQ": "When did you last help an elder person?",
+  "answer": "I helped my grandmother cross the road yesterday."
+ },
+ {
+  "en": "We have been neighbours for ten years, but we never talk.",
+  "tamil": "நாம பத்து வருஷமா பக்கத்து வீட்டுக்காரங்க, ஆனா பேசிக்கவே மாட்டோம்.",
+  "context": "Chatting about a quiet neighbour.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Never' makes the sentence negative. 'Have been' shows something that started in the past and continues.",
+  "words": [
+   "neighbours",
+   "never"
+  ],
+  "usage": "Use it when you talk about people you live near but do not know well.",
+  "leelaQ": "Do you know your neighbours well?",
+  "answer": "I know a few of them and we talk on weekends."
+ },
+ {
+  "en": "The new neighbours seem very friendly.",
+  "tamil": "புது பக்கத்து வீட்டுக்காரங்க ரொம்ப நட்பா தெரியறாங்க.",
+  "context": "Telling your family about new neighbours.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Seem' is used when you form an opinion by looking or listening.",
+  "words": [
+   "neighbours",
+   "friendly"
+  ],
+  "usage": "Use it at home or with friends when you speak about new people nearby.",
+  "leelaQ": "How do you welcome new neighbours?",
+  "answer": "I take some sweets and say hello to them."
+ },
+ {
+  "en": "Could you please keep the music down after ten?",
+  "tamil": "பத்து மணிக்கு மேல பாட்டை கொஞ்சம் சத்தம் குறைச்சு வைக்க முடியுமா?",
+  "context": "Requesting a neighbour politely about noise.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Keep the music down' means to lower the volume. 'Could you please' keeps it polite.",
+  "words": [
+   "music",
+   "after"
+  ],
+  "usage": "Use it with a neighbour when the noise disturbs your sleep or study.",
+  "leelaQ": "What do you do when the neighbours are very noisy?",
+  "answer": "I speak to them kindly and ask them to lower the sound."
+ },
+ {
+  "en": "Our building is having a Diwali get-together next Sunday.",
+  "tamil": "அடுத்த ஞாயிற்றுக்கிழமை எங்க அப்பார்ட்மென்ட்ல தீபாவளி கெட்-டுகெதர் இருக்கு.",
+  "context": "Telling a friend about a community event.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous can be used for a planned event in the near future.",
+  "words": [
+   "building",
+   "get-together"
+  ],
+  "usage": "Use it to invite friends or tell family about a function in your area.",
+  "leelaQ": "How do you celebrate festivals with your neighbours?",
+  "answer": "We share sweets and sit together in the evening."
+ },
+ {
+  "en": "Do you want me to water your plants while you are away?",
+  "tamil": "நீங்க ஊருல இல்லாதப்ப செடிகளுக்கு நான் தண்ணி ஊத்தணுமா?",
+  "context": "Offering help to a neighbour going on a trip.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you want me to...' is a kind way to offer help.",
+  "words": [
+   "water",
+   "plants"
+  ],
+  "usage": "Use it with a neighbour before they leave for a long trip.",
+  "leelaQ": "What can neighbours do for each other when someone travels?",
+  "answer": "They can collect the post and watch the house."
+ },
+ {
+  "en": "I'll keep an eye on your house while you're gone.",
+  "tamil": "நீங்க போயிருக்கும்போது உங்க வீட்டை நான் பாத்துக்கறேன்.",
+  "context": "Promising a neighbour who is travelling.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Keep an eye on' means to watch something carefully.",
+  "words": [
+   "eye",
+   "gone"
+  ],
+  "usage": "Say it to a neighbour or friend who is leaving home for some days.",
+  "leelaQ": "Would you trust a neighbour with your house keys?",
+  "answer": "Yes, I would trust a neighbour I know well."
+ },
+ {
+  "en": "What time does the wedding start tomorrow?",
+  "tamil": "நாளைக்கு கல்யாணம் எத்தனை மணிக்கு ஆரம்பிக்கும்?",
+  "context": "Checking the muhurtham time with a relative.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Use present simple for a fixed schedule or event time.",
+  "words": [
+   "wedding",
+   "start"
+  ],
+  "usage": "Ask it to a family member or friend before you go to a wedding.",
+  "leelaQ": "What time do weddings usually start in your family?",
+  "answer": "Most weddings start early in the morning."
+ },
+ {
+  "en": "Congratulations to both of you, wishing you a happy married life.",
+  "tamil": "உங்க ரெண்டு பேருக்கும் வாழ்த்துகள், மகிழ்ச்சியான திருமண வாழ்க்கை அமையட்டும்.",
+  "context": "Greeting the couple on stage at a wedding.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "This is a common wish for a newly married couple.",
+  "words": [
+   "congratulations",
+   "married"
+  ],
+  "usage": "Say it to the bride and groom when you meet them on the stage.",
+  "leelaQ": "What do you say to the couple at a wedding?",
+  "answer": "I say congratulations and wish them a happy life."
+ },
+ {
+  "en": "Don't forget to give the gift to the bride before we leave.",
+  "tamil": "நாம கிளம்பறதுக்கு முன்னாடி மணப்பொண்ணுக்கு பரிசு குடுக்க மறந்துடாதே.",
+  "context": "Reminding your husband or friend at a wedding.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Don't forget to' + a verb is a common reminder.",
+  "words": [
+   "forget",
+   "gift"
+  ],
+  "usage": "Use it with family members before leaving a function.",
+  "leelaQ": "What gift do you usually give at a wedding?",
+  "answer": "I usually give a gift set or some money in a cover."
+ },
+ {
+  "en": "The wedding hall was decorated with fresh jasmine flowers.",
+  "tamil": "கல்யாண மண்டபம் புது மல்லிகைப் பூக்களால அலங்கரிக்கப்பட்டிருந்தது.",
+  "context": "Describing a wedding to a friend who missed it.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was decorated' is passive: it tells what was done, not who did it.",
+  "words": [
+   "decorated",
+   "jasmine"
+  ],
+  "usage": "Use it when you tell someone about a function you attended.",
+  "leelaQ": "How was the last function you attended?",
+  "answer": "It was very nice and the food was tasty."
+ },
+ {
+  "en": "Have you had lunch yet, or will you join us?",
+  "tamil": "மதிய சாப்பாடு சாப்பிட்டீங்களா, இல்ல எங்களோட சேர்றீங்களா?",
+  "context": "Inviting a relative to eat at a function.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you had lunch yet?' is a very common greeting in Indian homes.",
+  "words": [
+   "lunch",
+   "join"
+  ],
+  "usage": "Use it with relatives or guests at a wedding or family event.",
+  "leelaQ": "Do you like to eat lunch alone or with others?",
+  "answer": "I like to eat lunch with my friends."
+ },
+ {
+  "en": "I am really sorry for making you wait so long.",
+  "tamil": "உங்களை இவ்வளவு நேரம் காத்திருக்க வச்சதுக்கு ரொம்ப மன்னிக்கணும்.",
+  "context": "Apologising to a friend after being late.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Sorry for' is followed by an -ing word. 'Really' adds feeling.",
+  "words": [
+   "sorry",
+   "wait"
+  ],
+  "usage": "Use it when you reach late to meet a friend or a relative.",
+  "leelaQ": "What do you say when you reach late to meet someone?",
+  "answer": "I say sorry and tell them the reason for the delay."
+ }
+]

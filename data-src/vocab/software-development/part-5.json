@@ -1,0 +1,873 @@
+[
+ {
+  "word": "outage",
+  "tamil": "சேவை முடக்கம் (அவுட்டேஜ்)",
+  "pos": "noun",
+  "pron": "OW-tij",
+  "example": "The outage lasted almost two hours last night.",
+  "exampleTamil": "நேற்றிரவு அவுட்டேஜ் கிட்டத்தட்ட இரண்டு மணி நேரம் நீடித்தது.",
+  "synonyms": [
+   "downtime",
+   "breakdown"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rollback",
+  "tamil": "முந்தைய பதிப்புக்குத் திரும்புதல்",
+  "pos": "noun",
+  "pron": "ROHL-bak",
+  "example": "We did a rollback within ten minutes of the alert.",
+  "exampleTamil": "அலர்ட் வந்த பத்து நிமிடங்களுக்குள் ரோல்பேக் செய்தோம்.",
+  "synonyms": [
+   "reversal",
+   "undo"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "alert",
+  "tamil": "எச்சரிக்கை அறிவிப்பு (அலர்ட்)",
+  "pos": "noun",
+  "pron": "uh-LERT",
+  "example": "I got an alert about high CPU usage.",
+  "exampleTamil": "அதிக CPU பயன்பாடு பற்றி எனக்கு ஒரு அலர்ட் வந்தது.",
+  "synonyms": [
+   "alarm",
+   "notification"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "restore",
+  "tamil": "மீட்டெடு",
+  "pos": "verb",
+  "pron": "rih-STOR",
+  "example": "We restored the data from last night's backup.",
+  "exampleTamil": "நேற்றிரவு பேக்கப்பிலிருந்து தரவை மீட்டெடுத்தோம்.",
+  "synonyms": [
+   "recover",
+   "bring back"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sort",
+  "tamil": "வரிசைப்படுத்து",
+  "pos": "verb",
+  "pron": "SORT",
+  "example": "The function will sort the names alphabetically.",
+  "exampleTamil": "இந்த ஃபங்ஷன் பெயர்களை அகர வரிசையில் வரிசைப்படுத்தும்.",
+  "synonyms": [
+   "arrange",
+   "order"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stack",
+  "tamil": "அடுக்கு (ஸ்டாக்)",
+  "pos": "noun",
+  "pron": "STAK",
+  "example": "A stack removes the last item you added first.",
+  "exampleTamil": "ஸ்டாக் கடைசியாகச் சேர்த்த உருப்படியை முதலில் நீக்குகிறது.",
+  "synonyms": [
+   "pile",
+   "last-in-first-out list"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tree",
+  "tamil": "மரம் போன்ற தரவு அமைப்பு (ட்ரீ)",
+  "pos": "noun",
+  "pron": "TREE",
+  "example": "A file system is a good example of a tree.",
+  "exampleTamil": "கோப்பு அமைப்பு ட்ரீக்கு ஒரு நல்ல உதாரணம்.",
+  "synonyms": [
+   "hierarchy",
+   "branching structure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "graph",
+  "tamil": "இணைப்புகளைக் காட்டும் தரவு அமைப்பு (கிராஃப்)",
+  "pos": "noun",
+  "pron": "GRAF",
+  "example": "Social networks are usually stored as a graph.",
+  "exampleTamil": "சமூக வலைப்பின்னல்கள் பொதுவாக கிராஃபாகச் சேமிக்கப்படுகின்றன.",
+  "synonyms": [
+   "network",
+   "diagram"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "terminal",
+  "tamil": "கட்டளை உள்ளீட்டுத் திரை (டெர்மினல்)",
+  "pos": "noun",
+  "pron": "TER-mih-nul",
+  "example": "Open the terminal and type the command.",
+  "exampleTamil": "டெர்மினலைத் திறந்து கட்டளையை டைப் செய்யுங்கள்.",
+  "synonyms": [
+   "command line",
+   "console"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "editor",
+  "tamil": "நிரல் எழுதும் மென்பொருள் (எடிட்டர்)",
+  "pos": "noun",
+  "pron": "ED-ih-ter",
+  "example": "Which code editor do you prefer?",
+  "exampleTamil": "நீங்கள் எந்த கோட் எடிட்டரை விரும்புகிறீர்கள்?",
+  "synonyms": [
+   "IDE",
+   "text tool"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "plugin",
+  "tamil": "கூடுதல் வசதிச் சேர்க்கை (ப்ளக்இன்)",
+  "pos": "noun",
+  "pron": "PLUG-in",
+  "example": "I installed a plugin to format my code.",
+  "exampleTamil": "கோடை ஃபார்மேட் செய்ய ஒரு ப்ளக்இன் நிறுவினேன்.",
+  "synonyms": [
+   "add-on",
+   "extension"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "upload",
+  "tamil": "பதிவேற்று (அப்லோட்)",
+  "pos": "verb",
+  "pron": "UP-lohd",
+  "example": "Please upload the build file to the shared folder.",
+  "exampleTamil": "பில்ட் கோப்பை பகிரப்பட்ட ஃபோல்டரில் அப்லோட் செய்யுங்கள்.",
+  "synonyms": [
+   "submit",
+   "post"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "offline",
+  "tamil": "இணையமில்லாத (ஆஃப்லைன்)",
+  "pos": "adjective",
+  "pron": "OF-lyn",
+  "example": "The app still works when you are offline.",
+  "exampleTamil": "நீங்கள் ஆஃப்லைனில் இருந்தாலும் ஆப் வேலை செய்யும்.",
+  "synonyms": [
+   "disconnected",
+   "unplugged"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "setup",
+  "tamil": "ஆரம்ப அமைப்பு (செட்அப்)",
+  "pos": "noun",
+  "pron": "SET-up",
+  "example": "The setup takes about five minutes.",
+  "exampleTamil": "செட்அப் முடிய சுமார் ஐந்து நிமிடங்கள் ஆகும்.",
+  "synonyms": [
+   "installation",
+   "configuration"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "icon",
+  "tamil": "சிறு படக்குறியீடு (ஐகான்)",
+  "pos": "noun",
+  "pron": "Y-kon",
+  "example": "Tap the gear icon to open the settings.",
+  "exampleTamil": "செட்டிங்ஸைத் திறக்க கியர் ஐகானைத் தட்டுங்கள்.",
+  "synonyms": [
+   "symbol",
+   "image"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "link",
+  "tamil": "இணைப்பு (லிங்க்)",
+  "pos": "noun",
+  "pron": "LINK",
+  "example": "Send me the link to the pull request.",
+  "exampleTamil": "புல் ரிக்வெஸ்ட்டின் லிங்கை எனக்கு அனுப்புங்கள்.",
+  "synonyms": [
+   "URL",
+   "hyperlink"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tool",
+  "tamil": "கருவி (டூல்)",
+  "pos": "noun",
+  "pron": "TOOL",
+  "example": "This tool checks your code for common mistakes.",
+  "exampleTamil": "இந்தக் கருவி உங்கள் கோடில் உள்ள பொதுவான தவறுகளைச் சரிபார்க்கிறது.",
+  "synonyms": [
+   "utility",
+   "instrument"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "file",
+  "tamil": "கோப்பு (ஃபைல்)",
+  "pos": "noun",
+  "pron": "FYL",
+  "example": "Save the file before you close the editor.",
+  "exampleTamil": "எடிட்டரை மூடும் முன் ஃபைலை சேமியுங்கள்.",
+  "synonyms": [
+   "document",
+   "record"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "folder",
+  "tamil": "கோப்புறை (ஃபோல்டர்)",
+  "pos": "noun",
+  "pron": "FOHL-der",
+  "example": "Put the test files in a separate folder.",
+  "exampleTamil": "டெஸ்ட் ஃபைல்களை தனி ஃபோல்டரில் வையுங்கள்.",
+  "synonyms": [
+   "directory",
+   "container"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "incident",
+  "tamil": "சேவைத் தடங்கல் நிகழ்வு (இன்சிடென்ட்)",
+  "pos": "noun",
+  "pron": "IN-sih-dunt",
+  "example": "We opened an incident as soon as the site went down.",
+  "exampleTamil": "தளம் செயலிழந்தவுடனே ஒரு இன்சிடென்ட் தொடங்கினோம்.",
+  "synonyms": [
+   "outage event",
+   "emergency"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "postmortem",
+  "tamil": "நிகழ்வுக்குப் பிந்தைய ஆய்வு (போஸ்ட்மார்ட்டம்)",
+  "pos": "noun",
+  "pron": "pohst-MOR-tum",
+  "example": "The postmortem will be held on Monday morning.",
+  "exampleTamil": "போஸ்ட்மார்ட்டம் திங்கள்கிழமை காலை நடைபெறும்.",
+  "synonyms": [
+   "review",
+   "retrospective"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "severity",
+  "tamil": "பிரச்சினையின் தீவிர நிலை",
+  "pos": "noun",
+  "pron": "sih-VAIR-ih-tee",
+  "example": "This is a severity one issue, so drop everything.",
+  "exampleTamil": "இது முதல் நிலைத் தீவிரப் பிரச்சினை, மற்ற வேலைகளை நிறுத்துங்கள்.",
+  "synonyms": [
+   "seriousness",
+   "priority"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mitigate",
+  "tamil": "பாதிப்பைக் குறை (மிட்டிகேட்)",
+  "pos": "verb",
+  "pron": "MIT-ih-gayt",
+  "example": "A temporary cache helped mitigate the impact.",
+  "exampleTamil": "ஒரு தற்காலிக கேஷ் பாதிப்பைக் குறைக்க உதவியது.",
+  "synonyms": [
+   "reduce",
+   "limit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "workaround",
+  "tamil": "தற்காலிகத் தீர்வு (வொர்க்அரவுண்ட்)",
+  "pos": "noun",
+  "pron": "WERK-uh-rownd",
+  "example": "There is a simple workaround until the fix is ready.",
+  "exampleTamil": "திருத்தம் தயாராகும் வரை ஒரு எளிய வொர்க்அரவுண்ட் உள்ளது.",
+  "synonyms": [
+   "temporary solution",
+   "stopgap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fallback",
+  "tamil": "மாற்று ஏற்பாடு (ஃபால்பேக்)",
+  "pos": "noun",
+  "pron": "FAWL-bak",
+  "example": "The system uses a fallback if the main service fails.",
+  "exampleTamil": "முதன்மைச் சேவை தோல்வியடைந்தால் அமைப்பு ஃபால்பேக்கைப் பயன்படுத்தும்.",
+  "synonyms": [
+   "backup plan",
+   "alternative"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "retry",
+  "tamil": "மீண்டும் முயற்சி செய் (ரீட்ரை)",
+  "pos": "verb",
+  "pron": "ree-TRY",
+  "example": "The client will retry the request three times.",
+  "exampleTamil": "கிளையன்ட் ரிக்வெஸ்ட்டை மூன்று முறை ரீட்ரை செய்யும்.",
+  "synonyms": [
+   "try again",
+   "reattempt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "resilient",
+  "tamil": "தாக்குப்பிடிக்கும் திறன் கொண்ட",
+  "pos": "adjective",
+  "pron": "rih-ZIL-yunt",
+  "example": "We want a resilient system that recovers by itself.",
+  "exampleTamil": "தானாக மீளும் ஒரு உறுதியான அமைப்பை நாங்கள் விரும்புகிறோம்.",
+  "synonyms": [
+   "tough",
+   "durable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sandbox",
+  "tamil": "பாதுகாப்பான சோதனைச் சூழல் (சாண்ட்பாக்ஸ்)",
+  "pos": "noun",
+  "pron": "SAND-boks",
+  "example": "Try the new API in the sandbox first.",
+  "exampleTamil": "புதிய API-ஐ முதலில் சாண்ட்பாக்ஸில் முயற்சியுங்கள்.",
+  "synonyms": [
+   "test area",
+   "safe environment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "debugger",
+  "tamil": "பிழை தேடும் கருவி (டீபக்கர்)",
+  "pos": "noun",
+  "pron": "dee-BUG-er",
+  "example": "The debugger showed me exactly where the value changed.",
+  "exampleTamil": "மதிப்பு எங்கே மாறியது என்பதை டீபக்கர் சரியாகக் காட்டியது.",
+  "synonyms": [
+   "debugging tool",
+   "inspector"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "emulator",
+  "tamil": "சாதன மாதிரி இயக்கி (எமுலேட்டர்)",
+  "pos": "noun",
+  "pron": "EM-yuh-lay-ter",
+  "example": "I tested the app on an Android emulator.",
+  "exampleTamil": "நான் ஆப்பை ஒரு Android எமுலேட்டரில் சோதித்தேன்.",
+  "synonyms": [
+   "simulator",
+   "virtual device"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "toolchain",
+  "tamil": "கருவிகளின் தொடர் வரிசை (டூல்செயின்)",
+  "pos": "noun",
+  "pron": "TOOL-chayn",
+  "example": "Our toolchain includes a linter, a compiler and a test runner.",
+  "exampleTamil": "எங்கள் டூல்செயினில் லிண்டர், கம்பைலர், டெஸ்ட் ரன்னர் உள்ளன.",
+  "synonyms": [
+   "toolset",
+   "build tools"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shell",
+  "tamil": "கட்டளை இயக்கச் சூழல் (ஷெல்)",
+  "pos": "noun",
+  "pron": "SHEL",
+  "example": "Open a shell and run the script.",
+  "exampleTamil": "ஒரு ஷெல்லைத் திறந்து ஸ்கிரிப்டை இயக்குங்கள்.",
+  "synonyms": [
+   "command line",
+   "terminal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "traverse",
+  "tamil": "ஒவ்வொன்றாகக் கடந்து செல்",
+  "pos": "verb",
+  "pron": "truh-VERS",
+  "example": "The code will traverse every node in the tree.",
+  "exampleTamil": "இந்த கோட் ட்ரீயில் உள்ள ஒவ்வொரு நோடையும் கடந்து செல்லும்.",
+  "synonyms": [
+   "walk through",
+   "visit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "complexity",
+  "tamil": "சிக்கலான தன்மை (காம்ப்ளெக்சிட்டி)",
+  "pos": "noun",
+  "pron": "kum-PLEK-sih-tee",
+  "example": "The time complexity of this loop is quadratic.",
+  "exampleTamil": "இந்த லூப்பின் நேரச் சிக்கல்தன்மை இருபடி ஆகும்.",
+  "synonyms": [
+   "difficulty",
+   "intricacy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "binary search",
+  "tamil": "பாதியாகப் பிரித்துத் தேடும் முறை",
+  "pos": "noun",
+  "pron": "BY-nuh-ree SERCH",
+  "example": "Binary search only works on sorted data.",
+  "exampleTamil": "பைனரி சர்ச் வரிசைப்படுத்தப்பட்ட தரவில் மட்டுமே வேலை செய்யும்.",
+  "synonyms": [
+   "halving search",
+   "logarithmic search"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "root cause",
+  "tamil": "மூல காரணம்",
+  "pos": "noun",
+  "pron": "ROOT KAWZ",
+  "example": "We finally found the root cause of the crash.",
+  "exampleTamil": "க்ராஷின் மூல காரணத்தை இறுதியாகக் கண்டுபிடித்தோம்.",
+  "synonyms": [
+   "underlying reason",
+   "origin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "edge case",
+  "tamil": "அரிதான எல்லை நிலைமை",
+  "pos": "noun",
+  "pron": "EJ KAYS",
+  "example": "Your code fails on one edge case.",
+  "exampleTamil": "உங்கள் கோட் ஒரு எட்ஜ் கேஸில் தோல்வியடைகிறது.",
+  "synonyms": [
+   "corner case",
+   "rare scenario"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dry run",
+  "tamil": "உண்மையில் மாற்றாமல் செய்யும் சோதனை ஓட்டம்",
+  "pos": "noun",
+  "pron": "DRY RUN",
+  "example": "Let us do a dry run before the real deployment.",
+  "exampleTamil": "உண்மையான டெப்ளாய்மெண்ட்டுக்கு முன் ஒரு ட்ரை ரன் செய்வோம்.",
+  "synonyms": [
+   "trial run",
+   "rehearsal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "verbose",
+  "tamil": "மிக விவரமாக வெளியிடும் (வெர்போஸ்)",
+  "pos": "adjective",
+  "pron": "ver-BOHS",
+  "example": "Turn on verbose mode to see more log details.",
+  "exampleTamil": "கூடுதல் லாக் விவரங்களைப் பார்க்க வெர்போஸ் மோடை இயக்குங்கள்.",
+  "synonyms": [
+   "detailed",
+   "wordy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "modular",
+  "tamil": "பகுதிகளாகப் பிரிக்கப்பட்ட (மாட்யூலர்)",
+  "pos": "adjective",
+  "pron": "MOJ-uh-ler",
+  "example": "A modular design makes the system easier to change.",
+  "exampleTamil": "மாட்யூலர் வடிவமைப்பு அமைப்பை மாற்றுவதை எளிதாக்குகிறது.",
+  "synonyms": [
+   "componentized",
+   "flexible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reusable",
+  "tamil": "மீண்டும் பயன்படுத்தக்கூடிய",
+  "pos": "adjective",
+  "pron": "ree-YOO-zuh-bul",
+  "example": "Write reusable functions instead of copying code.",
+  "exampleTamil": "கோடை நகலெடுப்பதற்குப் பதிலாக மீண்டும் பயன்படுத்தக்கூடிய ஃபங்ஷன்களை எழுதுங்கள்.",
+  "synonyms": [
+   "repeatable",
+   "shareable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "redundant",
+  "tamil": "தேவையற்ற மறுமுறை (ரிடண்டன்ட்)",
+  "pos": "adjective",
+  "pron": "rih-DUN-dunt",
+  "example": "This check is redundant because the input is already validated.",
+  "exampleTamil": "உள்ளீடு ஏற்கனவே சரிபார்க்கப்பட்டதால் இந்த சோதனை தேவையற்றது.",
+  "synonyms": [
+   "unnecessary",
+   "duplicate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stable",
+  "tamil": "நிலையான",
+  "pos": "adjective",
+  "pron": "STAY-bul",
+  "example": "The new version is stable enough for production.",
+  "exampleTamil": "புதிய பதிப்பு ப்ரொடக்ஷனுக்குப் போதுமான நிலைத்தன்மை கொண்டது.",
+  "synonyms": [
+   "steady",
+   "reliable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trivial",
+  "tamil": "மிகச் சிறிய, எளிய",
+  "pos": "adjective",
+  "pron": "TRIV-ee-ul",
+  "example": "It is a trivial change, so a quick review is enough.",
+  "exampleTamil": "இது ஒரு சிறிய மாற்றம், விரைவான ரிவ்யூ போதும்.",
+  "synonyms": [
+   "minor",
+   "simple"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pointer",
+  "tamil": "நினைவக முகவரியைக் குறிக்கும் மாறி (பாயின்டர்)",
+  "pos": "noun",
+  "pron": "POYN-ter",
+  "example": "A null pointer caused the crash.",
+  "exampleTamil": "ஒரு நல் பாயின்டர் க்ராஷை ஏற்படுத்தியது.",
+  "synonyms": [
+   "reference",
+   "address"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "legacy",
+  "tamil": "பழைய கால (லெகசி)",
+  "pos": "adjective",
+  "pron": "LEG-uh-see",
+  "example": "We still maintain a legacy system from 2005.",
+  "exampleTamil": "2005-இலிருந்து ஒரு லெகசி அமைப்பை இன்னும் பராமரிக்கிறோம்.",
+  "synonyms": [
+   "old",
+   "inherited"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "robust",
+  "tamil": "உறுதியான, வலுவான",
+  "pos": "adjective",
+  "pron": "roh-BUST",
+  "example": "We need a more robust error handling strategy.",
+  "exampleTamil": "நமக்கு இன்னும் உறுதியான பிழைக் கையாளும் உத்தி தேவை.",
+  "synonyms": [
+   "strong",
+   "sturdy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deprecated",
+  "tamil": "இனி பயன்படுத்தக் கூடாது எனக் குறிக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "DEP-rih-kay-tid",
+  "example": "This method is deprecated, so please use the new one.",
+  "exampleTamil": "இந்த மெத்தட் டிப்ரிகேட்டட், புதியதைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "outdated",
+   "discouraged"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "obsolete",
+  "tamil": "காலாவதியான",
+  "pos": "adjective",
+  "pron": "ob-suh-LEET",
+  "example": "That library has become obsolete and unsupported.",
+  "exampleTamil": "அந்த லைப்ரரி காலாவதியாகி ஆதரவு இல்லாமல் போனது.",
+  "synonyms": [
+   "outdated",
+   "out of use"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "volatile",
+  "tamil": "நிலையற்ற, மாறக்கூடிய",
+  "pos": "adjective",
+  "pron": "VOL-uh-tyl",
+  "example": "Data in volatile memory is lost when power is off.",
+  "exampleTamil": "மின்சாரம் நின்றால் வோலட்டைல் நினைவகத்தில் உள்ள தரவு இழக்கப்படும்.",
+  "synonyms": [
+   "unstable",
+   "temporary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "heuristic",
+  "tamil": "அனுபவ அடிப்படையிலான விரைவுத் தீர்வு",
+  "pos": "noun",
+  "pron": "hyoo-RIS-tik",
+  "example": "The tool uses a simple heuristic to guess the best option.",
+  "exampleTamil": "சிறந்த தேர்வைக் கணிக்க இந்தக் கருவி ஒரு எளிய ஹியூரிஸ்டிக் பயன்படுத்துகிறது.",
+  "synonyms": [
+   "rule of thumb",
+   "shortcut"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hash table",
+  "tamil": "சாவி-மதிப்பு தேடல் அமைப்பு",
+  "pos": "noun",
+  "pron": "HASH TAY-bul",
+  "example": "A hash table gives very fast lookups.",
+  "exampleTamil": "ஹேஷ் டேபிள் மிக வேகமான தேடலைத் தருகிறது.",
+  "synonyms": [
+   "dictionary",
+   "map"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "greedy",
+  "tamil": "உடனடி சிறந்ததையே தேர்ந்தெடுக்கும் (க்ரீடி)",
+  "pos": "adjective",
+  "pron": "GREE-dee",
+  "example": "A greedy algorithm picks the best choice at each step.",
+  "exampleTamil": "ஒரு க்ரீடி அல்காரிதம் ஒவ்வொரு படியிலும் சிறந்த தேர்வை எடுக்கிறது.",
+  "synonyms": [
+   "short-sighted",
+   "locally optimal"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "race condition",
+  "tamil": "நேரத்தைச் சார்ந்த முரண்பாட்டுப் பிழை",
+  "pos": "noun",
+  "pron": "RAYS kun-DISH-un",
+  "example": "A race condition caused the duplicate orders.",
+  "exampleTamil": "ஒரு ரேஸ் கண்டிஷன் இரட்டை ஆர்டர்களை ஏற்படுத்தியது.",
+  "synonyms": [
+   "timing bug",
+   "concurrency issue"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "circuit breaker",
+  "tamil": "தோல்வியைத் தடுக்கும் தானியங்கி நிறுத்தி",
+  "pos": "noun",
+  "pron": "SER-kit BRAY-ker",
+  "example": "A circuit breaker stops calls to a failing service.",
+  "exampleTamil": "சர்க்யூட் பிரேக்கர் தோல்வியடையும் சேவைக்கான அழைப்புகளை நிறுத்துகிறது.",
+  "synonyms": [
+   "safety switch",
+   "protection"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "feature flag",
+  "tamil": "அம்சத்தை இயக்க/நிறுத்தும் சுவிட்ச்",
+  "pos": "noun",
+  "pron": "FEE-cher FLAG",
+  "example": "We hid the new page behind a feature flag.",
+  "exampleTamil": "புதிய பக்கத்தை ஒரு ஃபீச்சர் ஃப்ளாக்குக்குப் பின்னால் மறைத்தோம்.",
+  "synonyms": [
+   "toggle",
+   "switch"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "backoff",
+  "tamil": "மீள்முயற்சிகளுக்கிடையே காத்திருப்பு (பேக்ஆஃப்)",
+  "pos": "noun",
+  "pron": "BAK-off",
+  "example": "Exponential backoff prevents overloading the server.",
+  "exampleTamil": "எக்ஸ்போனென்ஷியல் பேக்ஆஃப் சர்வர் அதிக சுமையடைவதைத் தடுக்கிறது.",
+  "synonyms": [
+   "delay",
+   "waiting period"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "canary",
+  "tamil": "சிறு பயனர் குழுவில் முதலில் வெளியிடும் முறை",
+  "pos": "noun",
+  "pron": "kuh-NAIR-ee",
+  "example": "We ran a canary release for five percent of users.",
+  "exampleTamil": "ஐந்து சதவீத பயனர்களுக்கு ஒரு கேனரி ரிலீஸ் நடத்தினோம்.",
+  "synonyms": [
+   "trial release",
+   "early test"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "observability",
+  "tamil": "அமைப்பின் உள்நிலையைப் பார்க்கும் திறன்",
+  "pos": "noun",
+  "pron": "ob-zerv-uh-BIL-ih-tee",
+  "example": "Better observability would have shortened the outage.",
+  "exampleTamil": "சிறந்த ஆப்சர்வபிலிட்டி அவுட்டேஜை குறைத்திருக்கும்.",
+  "synonyms": [
+   "visibility",
+   "insight"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "runbook",
+  "tamil": "சிக்கலைத் தீர்க்கும் படிநிலை வழிகாட்டி (ரன்புக்)",
+  "pos": "noun",
+  "pron": "RUN-buk",
+  "example": "Follow the runbook if the database goes down.",
+  "exampleTamil": "டேட்டாபேஸ் செயலிழந்தால் ரன்புக்கைப் பின்பற்றுங்கள்.",
+  "synonyms": [
+   "playbook",
+   "procedure"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "triage",
+  "tamil": "முன்னுரிமை வகைப்படுத்து (ட்ரையாஜ்)",
+  "pos": "verb",
+  "pron": "TREE-ahzh",
+  "example": "We triage new bugs every Monday morning.",
+  "exampleTamil": "ஒவ்வொரு திங்கள் காலையும் புதிய பக்குகளை ட்ரையாஜ் செய்கிறோம்.",
+  "synonyms": [
+   "prioritize",
+   "sort"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "decommission",
+  "tamil": "சேவையிலிருந்து நிரந்தரமாக நீக்கு",
+  "pos": "verb",
+  "pron": "dee-kuh-MISH-un",
+  "example": "We will decommission the old server next month.",
+  "exampleTamil": "அடுத்த மாதம் பழைய சர்வரை சேவையிலிருந்து நீக்குவோம்.",
+  "synonyms": [
+   "retire",
+   "shut down"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gotcha",
+  "tamil": "எதிர்பாராத சிக்கல் (காட்சா)",
+  "pos": "noun",
+  "pron": "GOCH-uh",
+  "example": "There is one gotcha with this API: it ignores empty values.",
+  "exampleTamil": "இந்த API-யில் ஒரு காட்சா உள்ளது: அது வெற்று மதிப்புகளைப் புறக்கணிக்கிறது.",
+  "synonyms": [
+   "catch",
+   "pitfall"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "kludge",
+  "tamil": "அவசரத்தில் செய்த மோசமான தீர்வு (க்ளூஜ்)",
+  "pos": "noun",
+  "pron": "KLOOJ",
+  "example": "That workaround is a kludge, not a real solution.",
+  "exampleTamil": "அந்த வொர்க்அரவுண்ட் ஒரு க்ளூஜ், உண்மையான தீர்வு அல்ல.",
+  "synonyms": [
+   "hack",
+   "quick patch"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "heisenbug",
+  "tamil": "பார்க்கும்போது மறையும் பிழை (ஹைசன்பக்)",
+  "pos": "noun",
+  "pron": "HY-zun-bug",
+  "example": "It was a heisenbug that vanished whenever we added logging.",
+  "exampleTamil": "லாகிங் சேர்த்தபோதெல்லாம் மறைந்துவிடும் ஒரு ஹைசன்பக் அது.",
+  "synonyms": [
+   "elusive bug",
+   "intermittent bug"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "amortized",
+  "tamil": "காலப்போக்கில் சராசரியாக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "AM-or-tyzd",
+  "example": "The amortized cost of each insert is constant.",
+  "exampleTamil": "ஒவ்வொரு இன்செர்ட்டின் சராசரிச் செலவும் மாறாதது.",
+  "synonyms": [
+   "averaged",
+   "spread out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "heap",
+  "tamil": "நினைவகப் பகுதி / முன்னுரிமை அமைப்பு (ஹீப்)",
+  "pos": "noun",
+  "pron": "HEEP",
+  "example": "The object is stored on the heap, not the stack.",
+  "exampleTamil": "அந்த ஆப்ஜெக்ட் ஸ்டாக்கில் அல்ல, ஹீப்பில் சேமிக்கப்பட்டுள்ளது.",
+  "synonyms": [
+   "memory pool",
+   "priority queue"
+  ],
+  "level": "advanced"
+ }
+]

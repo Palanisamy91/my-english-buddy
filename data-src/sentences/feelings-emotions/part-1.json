@@ -1,0 +1,311 @@
+[
+ {
+  "en": "I'm so happy to see you again!",
+  "tamil": "உன்னை மறுபடியும் பார்த்ததில் எனக்கு ரொம்ப சந்தோஷம்!",
+  "context": "Meeting a friend after a long time",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'So' makes the feeling stronger. We use 'to see' after a feeling word.",
+  "words": [
+   "happy"
+  ]
+ },
+ {
+  "en": "Why are you looking so sad today?",
+  "tamil": "இன்னைக்கு ஏன் இவ்வளவு சோகமா இருக்க?",
+  "context": "Noticing a friend seems low",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Looking' describes how someone seems right now. 'So' adds emphasis.",
+  "words": [
+   "sad"
+  ],
+  "alt": {
+   "en": "What happened? You look very upset.",
+   "tamil": "என்ன ஆச்சு? நீ ரொம்ப வருத்தமா தெரியுற."
+  }
+ },
+ {
+  "en": "I'm worried about my exam results.",
+  "tamil": "என் தேர்வு முடிவுகளைப் பத்தி எனக்கு கவலையா இருக்கு.",
+  "context": "Sharing a worry with a friend",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use 'worried about' with the thing that bothers you.",
+  "words": [
+   "worried",
+   "results"
+  ]
+ },
+ {
+  "en": "I'm really stressed because of the deadline.",
+  "tamil": "டெட்லைன் காரணமா நான் ரொம்ப ஸ்ட்ரெஸ்ஸா இருக்கேன்.",
+  "context": "Telling a colleague about work pressure",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Because of' is followed by a noun, like 'deadline'.",
+  "words": [
+   "stressed",
+   "deadline"
+  ]
+ },
+ {
+  "en": "I'm so excited about the trip next week!",
+  "tamil": "அடுத்த வாரம் டிரிப் போறதை நினைச்சா எனக்கு ரொம்ப உற்சாகமா இருக்கு!",
+  "context": "Talking about a coming holiday",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Excited about' goes with a future event you look forward to.",
+  "words": [
+   "excited",
+   "trip"
+  ],
+  "alt": {
+   "en": "I can't wait for the trip next week!",
+   "tamil": "அடுத்த வாரம் டிரிப்புக்கு காத்திருக்க முடியலை!"
+  }
+ },
+ {
+  "en": "My parents are proud of me.",
+  "tamil": "என் அம்மா அப்பா என்னை நினைச்சு பெருமைப்படுறாங்க.",
+  "context": "Sharing good news about family",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Say 'proud of' a person. Use 'me' after 'of'.",
+  "words": [
+   "proud"
+  ]
+ },
+ {
+  "en": "I'm too tired to cook tonight.",
+  "tamil": "இன்னைக்கு ராத்திரி சமைக்கிற அளவுக்கு எனக்கு சக்தி இல்ல, ரொம்ப களைப்பா இருக்கு.",
+  "context": "Explaining why you will not cook",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Too tired to' plus a verb means you are so tired that you cannot do it.",
+  "words": [
+   "tired",
+   "tonight"
+  ]
+ },
+ {
+  "en": "Don't worry, it will all be fine in the end.",
+  "tamil": "கவலைப்படாத, கடைசியில எல்லாம் சரியாயிடும்.",
+  "context": "Comforting a nervous friend",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will be' gives a promise about the future. Start with 'Don't worry' to comfort.",
+  "words": [
+   "worry",
+   "fine"
+  ],
+  "alt": {
+   "en": "Relax, it'll all work out.",
+   "tamil": "ரிலாக்ஸ், எல்லாம் நல்லபடியா முடியும்."
+  }
+ },
+ {
+  "en": "I'm here for you if you need to talk.",
+  "tamil": "நீ பேசணும்னா நான் இருக்கேன்.",
+  "context": "Supporting someone who is upset",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'I'm here for you' means you will support the person.",
+  "words": [
+   "talk"
+  ]
+ },
+ {
+  "en": "It's okay to feel sad sometimes.",
+  "tamil": "சில நேரம் வருத்தமா இருக்கிறது தப்பில்ல.",
+  "context": "Reassuring someone who is crying",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'It's okay to' plus a verb tells someone their feeling is normal.",
+  "words": [
+   "okay",
+   "sometimes"
+  ]
+ },
+ {
+  "en": "I think you did your best.",
+  "tamil": "நீ உன்னால முடிஞ்சதைச் செஞ்சன்னு நான் நினைக்கிறேன்.",
+  "context": "Comforting someone after a failure",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'I think' makes your opinion soft and kind. 'Did' is the past of 'do'.",
+  "words": [
+   "best"
+  ]
+ },
+ {
+  "en": "Cheer up! Tomorrow will be a better day.",
+  "tamil": "உற்சாகமா இரு! நாளைக்கு நல்ல நாளா இருக்கும்.",
+  "context": "Encouraging a friend who is low",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Cheer up' is a short command to feel happier.",
+  "words": [
+   "cheer",
+   "better"
+  ]
+ },
+ {
+  "en": "I felt very nervous before the interview.",
+  "tamil": "இன்டர்வியூவுக்கு முன்னாடி எனக்கு ரொம்ப பதற்றமா இருந்துச்சு.",
+  "context": "Telling a story about a past event",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Felt' is the past of 'feel'. Use 'before' with a noun for time.",
+  "words": [
+   "nervous",
+   "interview"
+  ]
+ },
+ {
+  "en": "She was so angry that she didn't speak to anyone.",
+  "tamil": "அவளுக்கு ரொம்ப கோவம், அதனால யார்கிட்டயும் பேசலை.",
+  "context": "Describing someone's anger",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'So ... that' shows a result. 'Didn't speak' is the past negative.",
+  "words": [
+   "angry"
+  ]
+ },
+ {
+  "en": "Have you ever felt lonely in a new city?",
+  "tamil": "புது ஊர்ல நீ எப்பவாவது தனிமையா உணர்ந்திருக்கியா?",
+  "context": "Starting a chat about moving away",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you ever' asks about life experience.",
+  "words": [
+   "lonely",
+   "ever"
+  ]
+ },
+ {
+  "en": "I've been feeling low since last week.",
+  "tamil": "போன வாரத்துல இருந்து நான் மனசு சரியில்லாம இருக்கேன்.",
+  "context": "Admitting you feel down",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been feeling' plus 'since' shows a feeling that started in the past and continues.",
+  "words": [
+   "feeling",
+   "since"
+  ]
+ },
+ {
+  "en": "I'm not angry, just a little disappointed.",
+  "tamil": "எனக்கு கோவம் இல்ல, கொஞ்சம் ஏமாற்றமா இருக்கு.",
+  "context": "Telling someone how you really feel",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Just a little' makes the feeling lighter.",
+  "words": [
+   "angry",
+   "disappointed"
+  ]
+ },
+ {
+  "en": "Are you feeling better now?",
+  "tamil": "இப்ப உனக்கு பரவாயில்லையா?",
+  "context": "Checking on a sick or upset friend",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Better' is the comparative of 'good'. We often ask this after someone was unwell.",
+  "words": [
+   "better",
+   "feeling"
+  ],
+  "alt": {
+   "en": "How are you feeling now?",
+   "tamil": "இப்ப எப்படி இருக்க?"
+  }
+ },
+ {
+  "en": "I never get bored when I'm with you.",
+  "tamil": "உன்கூட இருக்கும்போது எனக்கு எப்பவும் போர் அடிக்காது.",
+  "context": "Telling a friend you enjoy their company",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' already makes the sentence negative, so we do not add 'not'.",
+  "words": [
+   "bored",
+   "never"
+  ]
+ },
+ {
+  "en": "Could you please be quiet? I'm feeling really irritated.",
+  "tamil": "கொஞ்சம் அமைதியா இருக்கீங்களா? எனக்கு ரொம்ப எரிச்சலா இருக்கு.",
+  "context": "Politely asking for peace",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you please' is a polite way to ask. Then explain your feeling.",
+  "words": [
+   "irritated",
+   "quiet"
+  ]
+ },
+ {
+  "en": "Please don't be embarrassed. It happens to everyone.",
+  "tamil": "தயவுசெஞ்சு வெட்கப்படாதே. எல்லாருக்கும் இப்படி நடக்கும்.",
+  "context": "Comforting someone after a small mistake",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Don't be' plus an adjective is a gentle request.",
+  "words": [
+   "embarrassed",
+   "happens"
+  ]
+ },
+ {
+  "en": "I'm so jealous of your new phone!",
+  "tamil": "உன் புது போன் பார்த்து எனக்கு ரொம்ப பொறாமையா இருக்கு!",
+  "context": "Joking with a friend",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Jealous of' a person means you want what they have. Said as a joke, it is friendly.",
+  "words": [
+   "jealous"
+  ]
+ },
+ {
+  "en": "I'm so relieved that the exam is over.",
+  "tamil": "தேர்வு முடிஞ்சதுல எனக்கு பெரிய நிம்மதி.",
+  "context": "After finishing something stressful",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Relieved' means the worry has gone. 'That' joins the reason.",
+  "words": [
+   "relieved",
+   "over"
+  ]
+ },
+ {
+  "en": "Honestly, I'm fed up with this traffic.",
+  "tamil": "உண்மையைச் சொல்லணும்னா, இந்த டிராபிக்கால எனக்கு வெறுத்துப் போச்சு.",
+  "context": "Complaining about daily traffic",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Fed up with' means very tired of something that keeps happening.",
+  "words": [
+   "traffic",
+   "honestly"
+  ]
+ },
+ {
+  "en": "Do you think it's wrong to feel jealous?",
+  "tamil": "பொறாமைப்படுறது தப்புன்னு நீ நினைக்கிறியா?",
+  "context": "Asking a friend's opinion about feelings",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you think' asks for an opinion. 'It's wrong to' plus a verb gives a judgement.",
+  "words": [
+   "wrong",
+   "jealous"
+  ]
+ }
+]

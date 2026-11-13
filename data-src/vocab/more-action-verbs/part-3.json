@@ -1,0 +1,345 @@
+[
+ {
+  "word": "trim",
+  "meaning": "to cut a small part to make something neat",
+  "tamil": "ஒழுங்காக வெட்டு",
+  "pos": "verb",
+  "pron": "TRIM",
+  "example": "He trims his beard every week.",
+  "exampleTamil": "அவர் வாரந்தோறும் தன் தாடியை ஒழுங்காக வெட்டுகிறார்.",
+  "synonyms": [
+   "cut",
+   "clip"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pile",
+  "meaning": "to put things on top of each other",
+  "tamil": "குவி",
+  "pos": "verb",
+  "pron": "PYLE",
+  "example": "She piled the books on the table.",
+  "exampleTamil": "அவள் புத்தகங்களை மேசையின் மீது குவித்தாள்.",
+  "synonyms": [
+   "stack",
+   "heap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rotate",
+  "meaning": "to turn around a centre point",
+  "tamil": "சுழற்று",
+  "pos": "verb",
+  "pron": "ROH-tayt",
+  "example": "Rotate the photo so that it is straight.",
+  "exampleTamil": "புகைப்படத்தை நேராக இருக்கும்படி சுழற்றுங்கள்.",
+  "synonyms": [
+   "turn",
+   "spin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shrug",
+  "meaning": "to lift your shoulders to show you do not know or care",
+  "tamil": "தோள்களைக் குலுக்கு",
+  "pos": "verb",
+  "pron": "SHRUG",
+  "example": "He just shrugged when I asked him why.",
+  "exampleTamil": "நான் ஏன் என்று கேட்டபோது அவன் தோள்களைக் குலுக்கினான்.",
+  "synonyms": [
+   "lift shoulders"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "glance",
+  "meaning": "to look quickly at something",
+  "tamil": "ஒரு பார்வை பார்",
+  "pos": "verb",
+  "pron": "GLANSS",
+  "example": "She glanced at her watch and stood up.",
+  "exampleTamil": "அவள் தன் கடிகாரத்தை ஒரு பார்வை பார்த்து எழுந்தாள்.",
+  "synonyms": [
+   "peek",
+   "look"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unplug",
+  "meaning": "to remove a plug from the socket",
+  "tamil": "மின் இணைப்பைத் துண்டி",
+  "pos": "verb",
+  "pron": "un-PLUG",
+  "example": "Unplug the iron when you finish.",
+  "exampleTamil": "முடித்ததும் இஸ்திரிப் பெட்டியின் மின் இணைப்பைத் துண்டி.",
+  "synonyms": [
+   "disconnect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sigh",
+  "meaning": "to breathe out loudly when tired or sad",
+  "tamil": "பெருமூச்சு விடு",
+  "pos": "verb",
+  "pron": "SY",
+  "example": "She sighed and closed her book.",
+  "exampleTamil": "அவள் பெருமூச்சு விட்டுத் தன் புத்தகத்தை மூடினாள்.",
+  "synonyms": [
+   "groan"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "take care of",
+  "meaning": "to look after someone or something",
+  "tamil": "கவனித்துக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "tayk KAIR uv",
+  "example": "Who will take care of the baby tonight?",
+  "exampleTamil": "இன்று இரவு குழந்தையை யார் கவனித்துக்கொள்வார்கள்?",
+  "synonyms": [
+   "look after",
+   "mind"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "take part in",
+  "meaning": "to join an activity with other people",
+  "tamil": "பங்கேற்",
+  "pos": "phrasal verb",
+  "pron": "tayk PART in",
+  "example": "I want to take part in the sports day.",
+  "exampleTamil": "நான் விளையாட்டு நாளில் பங்கேற்க விரும்புகிறேன்.",
+  "synonyms": [
+   "join",
+   "participate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "break up",
+  "meaning": "to end a relationship, or to split into parts",
+  "tamil": "பிரிந்து செல்",
+  "pos": "phrasal verb",
+  "pron": "brayk UP",
+  "example": "Please do not break up the group.",
+  "exampleTamil": "தயவுசெய்து குழுவைப் பிரிக்காதீர்கள்.",
+  "synonyms": [
+   "split up",
+   "separate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "call for",
+  "meaning": "to need or ask for something",
+  "tamil": "தேவைப்படு",
+  "pos": "phrasal verb",
+  "pron": "KAWL for",
+  "example": "This problem calls for quick action.",
+  "exampleTamil": "இந்தப் பிரச்சினைக்கு விரைவான நடவடிக்கை தேவை.",
+  "synonyms": [
+   "need",
+   "require"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "count on",
+  "meaning": "to trust that someone will help you",
+  "tamil": "நம்பியிரு",
+  "pos": "phrasal verb",
+  "pron": "KOWNT on",
+  "example": "You can always count on me.",
+  "exampleTamil": "நீ எப்போதும் என்னை நம்பலாம்.",
+  "synonyms": [
+   "rely on",
+   "trust"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grow up",
+  "meaning": "to change from a child into an adult",
+  "tamil": "வளர்",
+  "pos": "phrasal verb",
+  "pron": "groh UP",
+  "example": "I want to grow up and become a doctor.",
+  "exampleTamil": "நான் வளர்ந்து மருத்துவராக விரும்புகிறேன்.",
+  "synonyms": [
+   "mature"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "keep up",
+  "meaning": "to move or work at the same speed as others",
+  "tamil": "ஈடுகொடு",
+  "pos": "phrasal verb",
+  "pron": "keep UP",
+  "example": "I cannot keep up with this fast class.",
+  "exampleTamil": "இந்த வேகமான வகுப்புக்கு என்னால் ஈடுகொடுக்க முடியவில்லை.",
+  "synonyms": [
+   "match",
+   "stay level"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "line up",
+  "meaning": "to stand in a row and wait",
+  "tamil": "வரிசையில் நில்",
+  "pos": "phrasal verb",
+  "pron": "lyne UP",
+  "example": "Everyone lined up outside the ticket counter.",
+  "exampleTamil": "எல்லோரும் டிக்கெட் கவுண்டருக்கு வெளியே வரிசையில் நின்றனர்.",
+  "synonyms": [
+   "queue up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mess up",
+  "meaning": "to do something badly or make it untidy",
+  "tamil": "சொதப்பு",
+  "pos": "phrasal verb",
+  "pron": "mess UP",
+  "example": "I messed up the interview by being nervous.",
+  "exampleTamil": "பதற்றத்தால் நான் நேர்காணலைச் சொதப்பிவிட்டேன்.",
+  "synonyms": [
+   "spoil",
+   "ruin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "miss out",
+  "meaning": "to lose a chance to enjoy or get something",
+  "tamil": "வாய்ப்பை இழ",
+  "pos": "phrasal verb",
+  "pron": "miss OWT",
+  "example": "Book now or you will miss out on the offer.",
+  "exampleTamil": "இப்போதே முன்பதிவு செய், இல்லையேல் சலுகையை இழப்பாய்.",
+  "synonyms": [
+   "lose out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "open up",
+  "meaning": "to start talking about your feelings honestly",
+  "tamil": "மனம் திறந்து பேசு",
+  "pos": "phrasal verb",
+  "pron": "OH-pun UP",
+  "example": "He finally opened up about his worries.",
+  "exampleTamil": "அவன் கடைசியில் தன் கவலைகளைப் பற்றி மனம் திறந்து பேசினான்.",
+  "synonyms": [
+   "confide"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pay back",
+  "meaning": "to return money you borrowed",
+  "tamil": "திருப்பிச் செலுத்து",
+  "pos": "phrasal verb",
+  "pron": "pay BAK",
+  "example": "I will pay you back on Monday.",
+  "exampleTamil": "நான் உனக்குத் திங்கட்கிழமை பணத்தைத் திருப்பிச் செலுத்துவேன்.",
+  "synonyms": [
+   "repay",
+   "return"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rely on",
+  "meaning": "to depend on someone or something",
+  "tamil": "சார்ந்திரு",
+  "pos": "phrasal verb",
+  "pron": "ri-LY on",
+  "example": "Many people rely on buses to go to work.",
+  "exampleTamil": "பலர் வேலைக்குச் செல்ல பேருந்துகளைச் சார்ந்திருக்கிறார்கள்.",
+  "synonyms": [
+   "depend on",
+   "count on"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "settle down",
+  "meaning": "to start a calm, steady life in one place",
+  "tamil": "நிலையாகக் குடியமர்",
+  "pos": "phrasal verb",
+  "pron": "SET-ul DOWN",
+  "example": "He wants to settle down and buy a house.",
+  "exampleTamil": "அவன் நிலையாகக் குடியமர்ந்து ஒரு வீடு வாங்க விரும்புகிறான்.",
+  "synonyms": [
+   "stay",
+   "calm down"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "show off",
+  "meaning": "to try to make people admire you",
+  "tamil": "பெருமை காட்டு",
+  "pos": "phrasal verb",
+  "pron": "shoh OFF",
+  "example": "He likes to show off his new bike.",
+  "exampleTamil": "அவன் தன் புதிய பைக்கைப் பெருமையாகக் காட்ட விரும்புகிறான்.",
+  "synonyms": [
+   "boast",
+   "brag"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shut down",
+  "meaning": "to stop working or close a business",
+  "tamil": "மூடு; நிறுத்து",
+  "pos": "phrasal verb",
+  "pron": "shut DOWN",
+  "example": "The shop shut down after ten years.",
+  "exampleTamil": "பத்து ஆண்டுகளுக்குப் பிறகு அந்தக் கடை மூடப்பட்டது.",
+  "synonyms": [
+   "close",
+   "stop"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "step in",
+  "meaning": "to help in a difficult situation",
+  "tamil": "தலையிட்டு உதவு",
+  "pos": "phrasal verb",
+  "pron": "step IN",
+  "example": "The manager stepped in to solve the problem.",
+  "exampleTamil": "மேலாளர் தலையிட்டுப் பிரச்சினையைத் தீர்த்தார்.",
+  "synonyms": [
+   "intervene",
+   "help"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stick to",
+  "meaning": "to keep following a plan or rule",
+  "tamil": "கடைப்பிடி",
+  "pos": "phrasal verb",
+  "pron": "STIK too",
+  "example": "Try to stick to your budget this month.",
+  "exampleTamil": "இந்த மாதம் உன் பட்ஜெட்டைக் கடைப்பிடிக்க முயற்சி செய்.",
+  "synonyms": [
+   "follow",
+   "keep to"
+  ],
+  "level": "intermediate"
+ }
+]

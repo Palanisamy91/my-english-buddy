@@ -1,0 +1,238 @@
+[
+ {
+  "en": "Sorry, someone is sitting here.",
+  "tamil": "மன்னிக்கணும், இங்க யாரோ உக்காந்திருக்காங்க.",
+  "context": "Politely saying a seat is taken.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Is sitting shows the person is there right now.",
+  "words": [
+   "sitting"
+  ]
+ },
+ {
+  "en": "Which one do you like more?",
+  "tamil": "உனக்கு எது அதிகமா புடிச்சிருக்கு?",
+  "context": "Asking a friend to choose between two things.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Which is used when there are limited choices.",
+  "words": [
+   "like",
+   "more"
+  ]
+ },
+ {
+  "en": "I like the blue one.",
+  "tamil": "எனக்கு நீல நிறத்துல இருக்கிறது புடிச்சிருக்கு.",
+  "context": "Choosing something in a shop.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "One replaces a noun so you do not need to repeat it.",
+  "words": [
+   "blue"
+  ]
+ },
+ {
+  "en": "Do you know how to cook?",
+  "tamil": "உனக்கு சமைக்கத் தெரியுமா?",
+  "context": "Asking about a skill.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Know how to is used for a skill or ability.",
+  "words": [
+   "cook"
+  ]
+ },
+ {
+  "en": "Not really, but I can make tea.",
+  "tamil": "பெரிசா தெரியாது, ஆனா டீ போடுவேன்.",
+  "context": "Giving a modest honest answer.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "Not really is a soft no. Can talks about ability.",
+  "words": [
+   "really"
+  ]
+ },
+ {
+  "en": "Can I use your phone for a minute?",
+  "tamil": "ஒரு நிமிஷம் உங்க போனை யூஸ் பண்ணலாமா?",
+  "context": "Asking to borrow something politely.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "Can I is used to ask for permission. For a minute shows it is short.",
+  "words": [
+   "minute"
+  ]
+ },
+ {
+  "en": "Of course, here you go.",
+  "tamil": "கண்டிப்பா, இந்தா எடுத்துக்கோ.",
+  "context": "Giving something to a person who asked.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Here you go is what we say when we hand something over.",
+  "words": [
+   "course"
+  ]
+ },
+ {
+  "en": "What are your plans for Sunday?",
+  "tamil": "ஞாயிற்றுக்கிழமைக்கு உன் பிளான் என்ன?",
+  "context": "Making weekend plans with a friend.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Plans for plus a day is a natural way to ask about the future.",
+  "words": [
+   "plans",
+   "sunday"
+  ]
+ },
+ {
+  "en": "I am going to visit my grandparents.",
+  "tamil": "நான் என் தாத்தா பாட்டியைப் பார்க்கப் போறேன்.",
+  "context": "Sharing your plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "Am going to shows a plan you already decided.",
+  "words": [
+   "visit",
+   "grandparents"
+  ]
+ },
+ {
+  "en": "Why did you not pick up my call yesterday?",
+  "tamil": "நேத்து என் போனை ஏன் எடுக்கல?",
+  "context": "Asking a friend with some worry.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Did you not is the full form of didn't you. Pick up means to answer a call.",
+  "words": [
+   "pick up"
+  ]
+ },
+ {
+  "en": "My phone battery was dead.",
+  "tamil": "என் போன் பேட்டரி தீர்ந்து போயிருந்தது.",
+  "context": "Giving a reason.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Dead here means fully empty. Was is the past form for a single thing.",
+  "words": [
+   "battery",
+   "dead"
+  ]
+ },
+ {
+  "en": "Where did you buy this bag?",
+  "tamil": "இந்த பையை எங்க வாங்கின?",
+  "context": "Asking about a nice thing someone has.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Did is used for past questions and buy stays in the base form.",
+  "words": [
+   "bag"
+  ],
+  "alt": {
+   "en": "Where did you get that bag from?",
+   "tamil": "அந்த பையை எங்கிருந்து வாங்கின?"
+  }
+ },
+ {
+  "en": "I got it from the market near my house.",
+  "tamil": "என் வீட்டுப் பக்கத்துல இருக்கிற மார்க்கெட்டுல வாங்கினேன்.",
+  "context": "Answering where you bought something.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Got it from is a natural way to say where you bought something.",
+  "words": [
+   "market"
+  ]
+ },
+ {
+  "en": "What is the price of this shirt?",
+  "tamil": "இந்த சட்டை என்ன விலை?",
+  "context": "Asking the price in a shop.",
+  "tense": "present",
+  "type": "question",
+  "explain": "The price of is a clear way to ask the cost of something.",
+  "words": [
+   "shirt"
+  ]
+ },
+ {
+  "en": "It costs only two hundred rupees.",
+  "tamil": "இதோட விலை இருநூறு ரூபாய் தான்.",
+  "context": "The shopkeeper answers about price.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Costs has s because it is for one thing. Only shows it is not much.",
+  "words": [
+   "costs",
+   "rupees"
+  ]
+ },
+ {
+  "en": "Have you completed your assignment?",
+  "tamil": "உன் அசைன்மெண்டை முடிச்சிட்டியா?",
+  "context": "A friend asking about work.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "Have you completed asks if the work is done by now.",
+  "words": [
+   "completed",
+   "assignment"
+  ]
+ },
+ {
+  "en": "No, I haven't started yet.",
+  "tamil": "இல்ல, நான் இன்னும் ஆரம்பிக்கவே இல்ல.",
+  "context": "Honest negative answer.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "Haven't is short for have not. Yet is used in negative sentences and questions.",
+  "words": [
+   "started",
+   "yet"
+  ]
+ },
+ {
+  "en": "Could you please speak a little slowly?",
+  "tamil": "கொஞ்சம் மெதுவா பேச முடியுமா, தயவு செய்து?",
+  "context": "Politely asking someone who speaks fast.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "Could is more polite than can. A little slowly softens the request.",
+  "words": [
+   "slowly"
+  ],
+  "alt": {
+   "en": "Please speak slowly, I did not understand.",
+   "tamil": "மெதுவா பேசுங்க, எனக்குப் புரியல."
+  }
+ },
+ {
+  "en": "Sure, is this speed okay for you?",
+  "tamil": "சரி, இந்த வேகம் உனக்கு ஓகே வா?",
+  "context": "Replying kindly to a speed request.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A short question after sure checks that the other person is comfortable.",
+  "words": [
+   "speed"
+  ]
+ },
+ {
+  "en": "Can you tell me the way to the station?",
+  "tamil": "ஸ்டேஷனுக்கு போற வழியைச் சொல்ல முடியுமா?",
+  "context": "Asking for directions.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "Tell me the way is a common way to ask for directions.",
+  "words": [
+   "station",
+   "way"
+  ]
+ }
+]

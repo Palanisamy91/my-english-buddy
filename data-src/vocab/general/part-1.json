@@ -1,0 +1,678 @@
+[
+ {
+  "word": "achieve",
+  "tamil": "அடைதல், சாதித்தல்",
+  "pos": "verb",
+  "pron": "uh-CHEEV",
+  "example": "She worked hard to achieve her dream.",
+  "exampleTamil": "அவள் தன் கனவை அடைய கடினமாக உழைத்தாள்.",
+  "synonyms": [
+   "accomplish",
+   "attain"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "avoid",
+  "tamil": "தவிர்த்தல்",
+  "pos": "verb",
+  "pron": "uh-VOYD",
+  "example": "Try to avoid driving during heavy rain.",
+  "exampleTamil": "கனமழையின் போது வண்டி ஓட்டுவதைத் தவிர்க்க முயலுங்கள்.",
+  "synonyms": [
+   "evade",
+   "steer clear of"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "consider",
+  "tamil": "கருத்தில் கொள்ளுதல்",
+  "pos": "verb",
+  "pron": "kun-SID-er",
+  "example": "Please consider my request before you decide.",
+  "exampleTamil": "நீங்கள் முடிவு செய்யும் முன் என் கோரிக்கையைக் கருத்தில் கொள்ளுங்கள்.",
+  "synonyms": [
+   "think about",
+   "contemplate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "require",
+  "tamil": "தேவைப்படுதல்",
+  "pos": "verb",
+  "pron": "ri-KWIRE",
+  "example": "This job requires a lot of patience.",
+  "exampleTamil": "இந்த வேலைக்கு நிறைய பொறுமை தேவை.",
+  "synonyms": [
+   "need",
+   "demand"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "improve",
+  "tamil": "மேம்படுத்துதல்",
+  "pos": "verb",
+  "pron": "im-PROOV",
+  "example": "Reading daily will improve your vocabulary.",
+  "exampleTamil": "தினமும் படிப்பது உங்கள் சொற்களஞ்சியத்தை மேம்படுத்தும்.",
+  "synonyms": [
+   "enhance",
+   "better"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "prevent",
+  "tamil": "தடுத்தல்",
+  "pos": "verb",
+  "pron": "pri-VENT",
+  "example": "Regular exercise can prevent many illnesses.",
+  "exampleTamil": "தொடர்ந்து உடற்பயிற்சி செய்வது பல நோய்களைத் தடுக்கும்.",
+  "synonyms": [
+   "stop",
+   "avert"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "manage",
+  "tamil": "சமாளித்தல், நிர்வகித்தல்",
+  "pos": "verb",
+  "pron": "MAN-ij",
+  "example": "How do you manage to stay so calm?",
+  "exampleTamil": "நீங்கள் எப்படி இவ்வளவு அமைதியாக சமாளிக்கிறீர்கள்?",
+  "synonyms": [
+   "cope",
+   "handle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "expect",
+  "tamil": "எதிர்பார்த்தல்",
+  "pos": "verb",
+  "pron": "ik-SPEKT",
+  "example": "I didn't expect such a warm welcome.",
+  "exampleTamil": "இவ்வளவு அன்பான வரவேற்பை நான் எதிர்பார்க்கவில்லை.",
+  "synonyms": [
+   "anticipate",
+   "look for"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "notice",
+  "tamil": "கவனித்தல்",
+  "pos": "verb",
+  "pron": "NOH-tis",
+  "example": "Did you notice the change in his voice?",
+  "exampleTamil": "அவன் குரலில் ஏற்பட்ட மாற்றத்தை நீங்கள் கவனித்தீர்களா?",
+  "synonyms": [
+   "observe",
+   "spot"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "depend",
+  "tamil": "சார்ந்திருத்தல்",
+  "pos": "verb",
+  "pron": "di-PEND",
+  "example": "Our plan depends on the weather tomorrow.",
+  "exampleTamil": "நம் திட்டம் நாளைய வானிலையைப் பொறுத்தது.",
+  "synonyms": [
+   "rely",
+   "hinge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "admit",
+  "tamil": "ஒப்புக்கொள்ளுதல்",
+  "pos": "verb",
+  "pron": "ad-MIT",
+  "example": "He finally admitted that he was wrong.",
+  "exampleTamil": "அவன் தான் தவறு என்று கடைசியில் ஒப்புக்கொண்டான்.",
+  "synonyms": [
+   "confess",
+   "acknowledge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mention",
+  "tamil": "குறிப்பிடுதல்",
+  "pos": "verb",
+  "pron": "MEN-shun",
+  "example": "She didn't mention anything about the trip.",
+  "exampleTamil": "அவள் பயணத்தைப் பற்றி எதுவும் குறிப்பிடவில்லை.",
+  "synonyms": [
+   "refer to",
+   "bring up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "insist",
+  "tamil": "வற்புறுத்துதல்",
+  "pos": "verb",
+  "pron": "in-SIST",
+  "example": "My mother insists that I eat breakfast.",
+  "exampleTamil": "நான் காலை உணவு சாப்பிட வேண்டும் என்று அம்மா வற்புறுத்துகிறார்.",
+  "synonyms": [
+   "demand",
+   "maintain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "realise",
+  "tamil": "உணர்தல்",
+  "pos": "verb",
+  "pron": "REE-uh-lize",
+  "example": "I realised I had left my phone at home.",
+  "exampleTamil": "என் தொலைபேசியை வீட்டில் விட்டுவிட்டேன் என்பதை உணர்ந்தேன்.",
+  "synonyms": [
+   "understand",
+   "grasp"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "doubt",
+  "tamil": "சந்தேகப்படுதல்",
+  "pos": "verb",
+  "pron": "DOWT",
+  "example": "I doubt that he will arrive on time.",
+  "exampleTamil": "அவன் சரியான நேரத்துக்கு வருவான் என்று எனக்குச் சந்தேகம்.",
+  "synonyms": [
+   "question",
+   "distrust"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "assume",
+  "tamil": "ஊகித்தல்",
+  "pos": "verb",
+  "pron": "uh-SYOOM",
+  "example": "Don't assume everyone knows the rules.",
+  "exampleTamil": "எல்லோருக்கும் விதிகள் தெரியும் என்று ஊகிக்காதீர்கள்.",
+  "synonyms": [
+   "presume",
+   "suppose"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recognise",
+  "tamil": "அடையாளம் காணுதல்",
+  "pos": "verb",
+  "pron": "REK-ug-nize",
+  "example": "I hardly recognised him after ten years.",
+  "exampleTamil": "பத்து ஆண்டுகளுக்குப் பிறகு அவனை என்னால் அடையாளம் காண முடியவில்லை.",
+  "synonyms": [
+   "identify",
+   "acknowledge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "decide",
+  "tamil": "முடிவு செய்தல்",
+  "pos": "verb",
+  "pron": "di-SIDE",
+  "example": "We decided to walk instead of taking a bus.",
+  "exampleTamil": "பேருந்தில் போவதற்குப் பதிலாக நடந்து போக முடிவு செய்தோம்.",
+  "synonyms": [
+   "resolve",
+   "determine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "believe",
+  "tamil": "நம்புதல்",
+  "pos": "verb",
+  "pron": "bi-LEEV",
+  "example": "I believe honesty is always the best policy.",
+  "exampleTamil": "நேர்மையே எப்போதும் சிறந்த வழி என்று நான் நம்புகிறேன்.",
+  "synonyms": [
+   "trust",
+   "think"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "remind",
+  "tamil": "நினைவூட்டுதல்",
+  "pos": "verb",
+  "pron": "ri-MIND",
+  "example": "Please remind me to call my sister tonight.",
+  "exampleTamil": "இன்றிரவு என் தங்கைக்குப் போன் செய்ய எனக்கு நினைவூட்டுங்கள்.",
+  "synonyms": [
+   "prompt",
+   "jog someone's memory"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "allow",
+  "tamil": "அனுமதித்தல்",
+  "pos": "verb",
+  "pron": "uh-LOW",
+  "example": "They don't allow children inside the hall.",
+  "exampleTamil": "அவர்கள் குழந்தைகளை மண்டபத்துக்குள் அனுமதிப்பதில்லை.",
+  "synonyms": [
+   "permit",
+   "let"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "provide",
+  "tamil": "வழங்குதல்",
+  "pos": "verb",
+  "pron": "pruh-VIDE",
+  "example": "The school provides free books to every student.",
+  "exampleTamil": "பள்ளி ஒவ்வொரு மாணவருக்கும் இலவசப் புத்தகங்களை வழங்குகிறது.",
+  "synonyms": [
+   "supply",
+   "give"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "develop",
+  "tamil": "வளர்த்தல், உருவாக்குதல்",
+  "pos": "verb",
+  "pron": "di-VEL-up",
+  "example": "Good habits develop slowly over many months.",
+  "exampleTamil": "நல்ல பழக்கங்கள் பல மாதங்களில் மெதுவாக உருவாகும்.",
+  "synonyms": [
+   "grow",
+   "build up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "increase",
+  "tamil": "அதிகரித்தல்",
+  "pos": "verb",
+  "pron": "in-KREES",
+  "example": "Prices increase every year without fail.",
+  "exampleTamil": "விலைகள் ஒவ்வோர் ஆண்டும் தவறாமல் அதிகரிக்கின்றன.",
+  "synonyms": [
+   "rise",
+   "grow"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "reduce",
+  "tamil": "குறைத்தல்",
+  "pos": "verb",
+  "pron": "ri-DYOOS",
+  "example": "Walking daily can reduce stress levels.",
+  "exampleTamil": "தினமும் நடப்பது மன அழுத்தத்தைக் குறைக்கும்.",
+  "synonyms": [
+   "decrease",
+   "cut"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "encourage",
+  "tamil": "ஊக்குவித்தல்",
+  "pos": "verb",
+  "pron": "in-KUR-ij",
+  "example": "Teachers should encourage students to ask questions.",
+  "exampleTamil": "ஆசிரியர்கள் மாணவர்களைக் கேள்வி கேட்க ஊக்குவிக்க வேண்டும்.",
+  "synonyms": [
+   "motivate",
+   "inspire"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "persuade",
+  "tamil": "சம்மதிக்க வைத்தல்",
+  "pos": "verb",
+  "pron": "per-SWAYD",
+  "example": "I managed to persuade him to join us.",
+  "exampleTamil": "அவனை எங்களுடன் சேர சம்மதிக்க வைத்தேன்.",
+  "synonyms": [
+   "convince",
+   "win over"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "convince",
+  "tamil": "நம்ப வைத்தல்",
+  "pos": "verb",
+  "pron": "kun-VINS",
+  "example": "Nothing could convince her to change her mind.",
+  "exampleTamil": "அவள் மனதை மாற்ற எதுவும் அவளை நம்ப வைக்க முடியவில்லை.",
+  "synonyms": [
+   "persuade",
+   "assure"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "predict",
+  "tamil": "முன்கணித்தல்",
+  "pos": "verb",
+  "pron": "pri-DIKT",
+  "example": "Nobody can predict exactly what will happen next.",
+  "exampleTamil": "அடுத்து என்ன நடக்கும் என்பதை யாராலும் துல்லியமாக முன்கணிக்க முடியாது.",
+  "synonyms": [
+   "forecast",
+   "foresee"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "estimate",
+  "tamil": "மதிப்பிடுதல்",
+  "pos": "verb",
+  "pron": "ES-tih-mate",
+  "example": "Can you estimate how long the trip will take?",
+  "exampleTamil": "பயணம் எவ்வளவு நேரம் ஆகும் என்று மதிப்பிட முடியுமா?",
+  "synonyms": [
+   "guess",
+   "approximate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "compare",
+  "tamil": "ஒப்பிடுதல்",
+  "pos": "verb",
+  "pron": "kum-PAIR",
+  "example": "Don't compare yourself with other people.",
+  "exampleTamil": "உங்களை மற்றவர்களுடன் ஒப்பிடாதீர்கள்.",
+  "synonyms": [
+   "contrast",
+   "weigh"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "describe",
+  "tamil": "விவரித்தல்",
+  "pos": "verb",
+  "pron": "di-SKRIBE",
+  "example": "Could you describe what you saw that night?",
+  "exampleTamil": "அன்றிரவு நீங்கள் பார்த்ததை விவரிக்க முடியுமா?",
+  "synonyms": [
+   "explain",
+   "depict"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "explain",
+  "tamil": "விளக்குதல்",
+  "pos": "verb",
+  "pron": "ik-SPLAYN",
+  "example": "Let me explain why I was late.",
+  "exampleTamil": "நான் ஏன் தாமதமானேன் என்பதை விளக்குகிறேன்.",
+  "synonyms": [
+   "clarify",
+   "make clear"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "complain",
+  "tamil": "புகார் செய்தல்",
+  "pos": "verb",
+  "pron": "kum-PLAYN",
+  "example": "People often complain about the traffic here.",
+  "exampleTamil": "இங்குள்ள போக்குவரத்தைப் பற்றி மக்கள் அடிக்கடி புகார் செய்கிறார்கள்.",
+  "synonyms": [
+   "grumble",
+   "protest"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "apologise",
+  "tamil": "மன்னிப்பு கேட்டல்",
+  "pos": "verb",
+  "pron": "uh-POL-uh-jize",
+  "example": "I apologise for the confusion earlier.",
+  "exampleTamil": "முன்பு ஏற்பட்ட குழப்பத்துக்கு மன்னிப்பு கேட்கிறேன்.",
+  "synonyms": [
+   "say sorry",
+   "express regret"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "refuse",
+  "tamil": "மறுத்தல்",
+  "pos": "verb",
+  "pron": "ri-FYOOZ",
+  "example": "He refused to accept any help from us.",
+  "exampleTamil": "அவன் எங்களிடமிருந்து எந்த உதவியையும் ஏற்க மறுத்தான்.",
+  "synonyms": [
+   "decline",
+   "reject"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "deserve",
+  "tamil": "தகுதி பெறுதல்",
+  "pos": "verb",
+  "pron": "di-ZURV",
+  "example": "You deserve a long holiday after this year.",
+  "exampleTamil": "இந்த ஆண்டுக்குப் பிறகு நீங்கள் ஒரு நீண்ட விடுமுறைக்குத் தகுதியானவர்.",
+  "synonyms": [
+   "merit",
+   "earn"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "struggle",
+  "tamil": "போராடுதல்",
+  "pos": "verb",
+  "pron": "STRUG-ul",
+  "example": "Many students struggle with maths at first.",
+  "exampleTamil": "பல மாணவர்கள் முதலில் கணிதத்தில் சிரமப்படுகிறார்கள்.",
+  "synonyms": [
+   "strive",
+   "have difficulty"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "attempt",
+  "tamil": "முயற்சி செய்தல்",
+  "pos": "verb",
+  "pron": "uh-TEMPT",
+  "example": "He attempted to fix the problem himself.",
+  "exampleTamil": "அவன் பிரச்சினையைத் தானே சரிசெய்ய முயன்றான்.",
+  "synonyms": [
+   "try",
+   "endeavour"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "influence",
+  "tamil": "செல்வாக்கு செலுத்துதல்",
+  "pos": "verb",
+  "pron": "IN-floo-uns",
+  "example": "Friends can strongly influence your choices.",
+  "exampleTamil": "நண்பர்கள் உங்கள் தேர்வுகளில் வலுவாகச் செல்வாக்கு செலுத்தலாம்.",
+  "synonyms": [
+   "affect",
+   "sway"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "affect",
+  "tamil": "பாதித்தல்",
+  "pos": "verb",
+  "pron": "uh-FEKT",
+  "example": "Lack of sleep affects your mood badly.",
+  "exampleTamil": "தூக்கமின்மை உங்கள் மனநிலையை மோசமாகப் பாதிக்கும்.",
+  "synonyms": [
+   "impact",
+   "touch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "contribute",
+  "tamil": "பங்களித்தல்",
+  "pos": "verb",
+  "pron": "kun-TRIB-yoot",
+  "example": "Everyone can contribute something to the project.",
+  "exampleTamil": "திட்டத்துக்கு ஒவ்வொருவரும் ஏதாவது பங்களிக்கலாம்.",
+  "synonyms": [
+   "add",
+   "donate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "maintain",
+  "tamil": "பராமரித்தல், தக்கவைத்தல்",
+  "pos": "verb",
+  "pron": "mayn-TAYN",
+  "example": "It is hard to maintain a healthy routine.",
+  "exampleTamil": "ஆரோக்கியமான வழக்கத்தைத் தக்கவைப்பது கடினம்.",
+  "synonyms": [
+   "keep up",
+   "sustain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "obtain",
+  "tamil": "பெறுதல்",
+  "pos": "verb",
+  "pron": "ub-TAYN",
+  "example": "You can obtain the form from the front desk.",
+  "exampleTamil": "அந்தப் படிவத்தை வரவேற்பு மேசையில் பெறலாம்.",
+  "synonyms": [
+   "get",
+   "acquire"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ensure",
+  "tamil": "உறுதி செய்தல்",
+  "pos": "verb",
+  "pron": "in-SHOOR",
+  "example": "Please ensure that all the doors are locked.",
+  "exampleTamil": "எல்லா கதவுகளும் பூட்டப்பட்டுள்ளன என்பதை உறுதி செய்யுங்கள்.",
+  "synonyms": [
+   "make sure",
+   "guarantee"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overcome",
+  "tamil": "வெல்லுதல், கடத்தல்",
+  "pos": "verb",
+  "pron": "oh-ver-KUM",
+  "example": "She learned to overcome her fear of speaking in public.",
+  "exampleTamil": "பொதுவில் பேசும் பயத்தை வெல்ல அவள் கற்றுக்கொண்டாள்.",
+  "synonyms": [
+   "conquer",
+   "defeat"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "neglect",
+  "tamil": "புறக்கணித்தல்",
+  "pos": "verb",
+  "pron": "ni-GLEKT",
+  "example": "Don't neglect your health while you work.",
+  "exampleTamil": "வேலை செய்யும்போது உங்கள் உடல்நலத்தைப் புறக்கணிக்காதீர்கள்.",
+  "synonyms": [
+   "ignore",
+   "overlook"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hesitate",
+  "tamil": "தயங்குதல்",
+  "pos": "verb",
+  "pron": "HEZ-ih-tayt",
+  "example": "Don't hesitate to ask if you need help.",
+  "exampleTamil": "உதவி தேவைப்பட்டால் கேட்கத் தயங்காதீர்கள்.",
+  "synonyms": [
+   "pause",
+   "waver"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "replace",
+  "tamil": "மாற்றுதல்",
+  "pos": "verb",
+  "pron": "ri-PLAYS",
+  "example": "Nothing can replace a mother's love.",
+  "exampleTamil": "தாயின் அன்புக்கு எதுவும் மாற்றாக முடியாது.",
+  "synonyms": [
+   "substitute",
+   "take the place of"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "focus",
+  "tamil": "கவனம் செலுத்துதல்",
+  "pos": "verb",
+  "pron": "FOH-kus",
+  "example": "I can't focus when the room is noisy.",
+  "exampleTamil": "அறை சத்தமாக இருக்கும்போது என்னால் கவனம் செலுத்த முடியவில்லை.",
+  "synonyms": [
+   "concentrate",
+   "centre on"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cope",
+  "tamil": "சமாளித்தல்",
+  "pos": "verb",
+  "pron": "KOHP",
+  "example": "He is learning to cope with pressure.",
+  "exampleTamil": "அவன் அழுத்தத்தைச் சமாளிக்கக் கற்றுக்கொள்கிறான்.",
+  "synonyms": [
+   "manage",
+   "get by"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ignore",
+  "tamil": "புறக்கணித்தல், கண்டுகொள்ளாமல் விடுதல்",
+  "pos": "verb",
+  "pron": "ig-NOR",
+  "example": "He ignored every warning we gave him.",
+  "exampleTamil": "நாங்கள் கொடுத்த எல்லா எச்சரிக்கைகளையும் அவன் கண்டுகொள்ளவில்லை.",
+  "synonyms": [
+   "disregard",
+   "overlook"
+  ],
+  "level": "beginner"
+ }
+]

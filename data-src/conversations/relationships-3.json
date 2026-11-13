@@ -1,0 +1,353 @@
+[
+ {
+  "category": "relationships",
+  "context": "Asking for personal space",
+  "level": "beginner",
+  "en": "I need some time alone today. Is that okay?",
+  "tamil": "இன்னைக்கு எனக்கு கொஞ்ச நேரம் தனியா இருக்கணும். பரவாயில்லையா?",
+  "reply": "Of course. Take all the time you need, and just text me when you're ready.",
+  "replyTamil": "கண்டிப்பா. உனக்கு எவ்வளவு நேரம் வேணுமோ எடுத்துக்கோ, தயாரானதும் எனக்கு மெசேஜ் பண்ணு."
+ },
+ {
+  "category": "relationships",
+  "context": "Setting a boundary about work calls",
+  "level": "intermediate",
+  "en": "I'd rather not take office calls during dinner. Can we keep that time for ourselves?",
+  "tamil": "சாப்பாட்டு நேரத்துல ஆபீஸ் கால் எடுக்க எனக்கு விருப்பமில்ல. அந்த நேரத்தை நமக்காகவே வச்சுக்கலாமா?",
+  "reply": "You're right. I'll put my phone on silent from now on, I promise.",
+  "replyTamil": "நீ சொல்றது சரிதான். இனிமே என் போனை சைலண்ட்ல வச்சுடுறேன், சத்தியமா."
+ },
+ {
+  "category": "relationships",
+  "context": "Declining a personal question politely",
+  "level": "advanced",
+  "en": "I'd prefer not to get into my salary, if you don't mind. It's a bit private for me.",
+  "tamil": "உங்களுக்கு ஆட்சேபனை இல்லன்னா என் சம்பளத்தைப் பத்தி பேச வேண்டாம். அது எனக்கு கொஞ்சம் தனிப்பட்ட விஷயம்.",
+  "reply": "Oh, sorry, I didn't mean to pry. Let's talk about something else.",
+  "replyTamil": "ஓ, மன்னிச்சுக்கோங்க, நான் துருவிக் கேக்கணும்னு நினைக்கல. வேற ஏதாவது பேசலாம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Asking a partner to knock first",
+  "level": "beginner",
+  "en": "Please knock before you come in. I like some privacy.",
+  "tamil": "உள்ள வர்றதுக்கு முன்னாடி கதவைத் தட்டுங்க. எனக்கு கொஞ்சம் தனிமை பிடிக்கும்.",
+  "reply": "Oh, sure. Sorry, I never thought about it.",
+  "replyTamil": "ஓ, சரி. மன்னிச்சுக்கோ, நான் அதைப் பத்தி யோசிக்கவே இல்ல."
+ },
+ {
+  "category": "relationships",
+  "context": "Saying no to a late-night plan",
+  "level": "intermediate",
+  "en": "We're all going out after the movie. You're coming, right?",
+  "tamil": "படம் முடிஞ்சதும் நாங்க எல்லாரும் வெளிய போறோம். நீயும் வர்றல்ல?",
+  "reply": "Not tonight, I'm afraid. I have an early start tomorrow, but have fun!",
+  "replyTamil": "இன்னைக்கு வேண்டாம்பா. நாளைக்கு காலையில சீக்கிரம் வேலை இருக்கு, நீங்க நல்லா என்ஜாய் பண்ணுங்க!"
+ },
+ {
+  "category": "relationships",
+  "context": "Not sharing a phone password",
+  "level": "advanced",
+  "en": "Why won't you give me your phone password? Is there something you're hiding?",
+  "tamil": "உன் போன் பாஸ்வேர்டை ஏன் சொல்ல மாட்டேங்கற? எதையாவது மறைக்கிறியா?",
+  "reply": "No, nothing like that. I just think everyone is entitled to a little privacy, even in a close relationship.",
+  "replyTamil": "இல்ல, அப்படி எதுவும் இல்ல. நெருக்கமான உறவுலயும் எல்லாருக்கும் கொஞ்சம் தனிமை உரிமை இருக்குன்னு நினைக்கிறேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Politely refusing a loan request from a friend",
+  "level": "intermediate",
+  "en": "Could you lend me twenty thousand rupees till next month? It's a bit urgent.",
+  "tamil": "அடுத்த மாசம் வரைக்கும் எனக்கு இருபதாயிரம் ரூபாய் கடனா தர முடியுமா? கொஞ்சம் அவசரம்.",
+  "reply": "I wish I could help, but I've made it a rule not to lend money to friends. I hope you understand.",
+  "replyTamil": "உதவணும்னு ஆசைதான், ஆனா நண்பர்களுக்கு கடன் குடுக்கறதில்லன்னு ஒரு விதி வச்சிருக்கேன். புரிஞ்சுப்பேன்னு நினைக்கிறேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Asking family not to compare",
+  "level": "advanced",
+  "en": "Please don't compare me with my cousin in front of everyone. It really hurts.",
+  "tamil": "எல்லார் முன்னாடியும் என்னை என் கசினோட ஒப்பிடாதீங்க. அது ரொம்ப வலிக்குது.",
+  "reply": "I didn't realise it bothered you that much. I'll be more careful from now on.",
+  "replyTamil": "அது உன்னை இவ்வளவு பாதிக்குதுன்னு எனக்குத் தெரியாது. இனிமே நான் கவனமா இருப்பேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "A gentle breakup talk",
+  "level": "intermediate",
+  "en": "I think we want different things now. I'm sorry, but I don't see this going forward.",
+  "tamil": "நமக்கு இப்போ வேற வேற விஷயங்கள் வேணும்னு தோணுது. மன்னிச்சுக்கோ, இது முன்னுக்குப் போகும்னு எனக்குத் தோணல.",
+  "reply": "Thank you for telling me honestly. It hurts, but I'd rather know the truth.",
+  "replyTamil": "நேர்மையா சொன்னதுக்கு நன்றி. வலிக்குது, ஆனா உண்மை தெரியறதுதான் எனக்குப் பிடிக்கும்."
+ },
+ {
+  "category": "relationships",
+  "context": "Staying friends after a breakup",
+  "level": "beginner",
+  "en": "I hope we can still be friends.",
+  "tamil": "நாம இன்னும் நண்பர்களா இருக்கலாம்னு நம்புறேன்.",
+  "reply": "Maybe, but I need some time first. Let's see how it goes.",
+  "replyTamil": "இருக்கலாம், ஆனா முதல்ல எனக்குக் கொஞ்சம் நேரம் வேணும். எப்படிப் போகுதுன்னு பார்க்கலாம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Comforting a friend after a breakup",
+  "level": "beginner",
+  "en": "I heard about you and Divya. Are you okay?",
+  "tamil": "உனக்கும் திவ்யாவுக்கும் நடந்தது கேள்விப்பட்டேன். நீ நல்லா இருக்கியா?",
+  "reply": "I'm hanging in there. Honestly, it helps just to talk about it.",
+  "replyTamil": "எப்படியோ சமாளிச்சுட்டு இருக்கேன். உண்மையைச் சொன்னா, பேசினாலே கொஞ்சம் நிம்மதியா இருக்கு."
+ },
+ {
+  "category": "relationships",
+  "context": "Encouraging someone to heal",
+  "level": "intermediate",
+  "en": "Be kind to yourself. It takes time to get over something like this.",
+  "tamil": "உன்கிட்ட நீயே பொறுமையா இரு. இது மாதிரி விஷயத்துல இருந்து மீள நேரம் ஆகும்.",
+  "reply": "I know. Some days are fine, and some days are really hard.",
+  "replyTamil": "தெரியும். சில நாள் நல்லா இருக்கும், சில நாள் ரொம்பக் கஷ்டமா இருக்கும்."
+ },
+ {
+  "category": "relationships",
+  "context": "Closure after parting ways",
+  "level": "advanced",
+  "en": "I don't regret any of it. I'm grateful for the good times, even though it didn't work out.",
+  "tamil": "நான் எதுக்கும் வருத்தப்படல. இது சரியா வரலைன்னாலும் நல்ல நாட்களுக்காக நன்றியோட இருக்கேன்.",
+  "reply": "That's a mature way to look at it. I feel the same, and I wish you all the best.",
+  "replyTamil": "அது முதிர்ச்சியான பார்வை. எனக்கும் அப்படித்தான் தோணுது, உனக்கு எல்லா நலமும் கிடைக்கட்டும்."
+ },
+ {
+  "category": "relationships",
+  "context": "Returning belongings kindly",
+  "level": "intermediate",
+  "en": "I found your charger and a few books in my bag. Where can I drop them off?",
+  "tamil": "என் பைல உன்னோட சார்ஜரும் சில புத்தகங்களும் இருந்துச்சு. எங்க கொண்டு வந்து தரட்டும்?",
+  "reply": "Just leave them with the security at my apartment. Thanks for being so considerate.",
+  "replyTamil": "என் அபார்ட்மெண்ட் செக்யூரிட்டிகிட்ட குடுத்துடுங்க. இவ்வளவு யோசிச்சதுக்கு நன்றி."
+ },
+ {
+  "category": "relationships",
+  "context": "Giving someone space after a split",
+  "level": "beginner",
+  "en": "I won't call you for a while. I want you to feel comfortable.",
+  "tamil": "கொஞ்ச நாளைக்கு உனக்கு போன் பண்ண மாட்டேன். நீ சங்கடமில்லாம இருக்கணும்.",
+  "reply": "Thanks, I really appreciate that. It means a lot.",
+  "replyTamil": "நன்றி, அதை நான் ரொம்ப மதிக்கிறேன். அது எனக்கு பெரிய விஷயம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Greeting a neighbour in the lift",
+  "level": "beginner",
+  "en": "Good morning! Off to work already?",
+  "tamil": "குட் மார்னிங்! அதுக்குள்ள வேலைக்குக் கிளம்பிட்டீங்களா?",
+  "reply": "Yes, I have a meeting at nine. Have a nice day!",
+  "replyTamil": "ஆமா, ஒன்பது மணிக்கு மீட்டிங் இருக்கு. உங்களுக்கும் நல்ல நாளா அமையட்டும்!"
+ },
+ {
+  "context": "Chatting with a neighbour about the heat",
+  "level": "beginner",
+  "en": "This heat is unbearable lately, don't you think?",
+  "tamil": "இந்த நாட்களில் வெயில் தாங்கவே முடியலை, உங்களுக்கு அப்படித் தோணலையா?",
+  "reply": "Totally. I keep the fan on all night now.",
+  "replyTamil": "நிச்சயமா. இப்போ இரவு முழுக்க ஃபேன் போட்டுத்தான் தூங்குறேன்.",
+  "category": "relationships"
+ },
+ {
+  "category": "relationships",
+  "context": "Chatting with a colleague from another team",
+  "level": "intermediate",
+  "en": "We keep bumping into each other at the pantry. I'm Anand, from the payments team.",
+  "tamil": "பேன்ட்ரியில நாம அடிக்கடி சந்திச்சுக்கறோம். நான் ஆனந்த், பேமெண்ட்ஸ் டீம்.",
+  "reply": "Nice to finally put a name to the face. I'm Meena, from QA.",
+  "replyTamil": "கடைசியா முகத்துக்கு ஒரு பேர் தெரிஞ்சதுல சந்தோஷம். நான் மீனா, க்யூஏ டீம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Talking to a parent at school pickup",
+  "level": "intermediate",
+  "en": "Your daughter and mine seem to be great friends. We should arrange a playdate sometime.",
+  "tamil": "உங்க பொண்ணும் என் பொண்ணும் நல்ல நண்பர்கள் போல இருக்காங்க. எப்பவாவது விளையாட ஏற்பாடு பண்ணலாம்.",
+  "reply": "That'd be lovely. She talks about your daughter all the time.",
+  "replyTamil": "அது ரொம்ப நல்லா இருக்கும். அவ எப்பவும் உங்க பொண்ணைப் பத்தியே பேசிட்டு இருப்பா."
+ },
+ {
+  "category": "relationships",
+  "context": "Meeting a co-passenger on a train",
+  "level": "beginner",
+  "en": "Are you travelling to Madurai too?",
+  "tamil": "நீங்களும் மதுரைக்குத்தான் போறீங்களா?",
+  "reply": "Yes, I'm going home for the festival. And you?",
+  "replyTamil": "ஆமா, பண்டிகைக்கு வீட்டுக்குப் போறேன். நீங்க?"
+ },
+ {
+  "category": "relationships",
+  "context": "Politely ending a chat with an acquaintance",
+  "level": "advanced",
+  "en": "It was lovely catching up, but I should dash. Let's do this again soon.",
+  "tamil": "உங்களை சந்திச்சுப் பேசினது சந்தோஷம், ஆனா நான் கிளம்பணும். சீக்கிரம் மறுபடியும் சந்திக்கலாம்.",
+  "reply": "Absolutely, don't let me keep you. Take care, and say hi to your family.",
+  "replyTamil": "கண்டிப்பா, உங்களை தாமதப்படுத்த மாட்டேன். பத்திரமா இருங்க, வீட்டுல எல்லாரையும் கேட்டதா சொல்லுங்க."
+ },
+ {
+  "category": "relationships",
+  "context": "Running into a neighbour at the market",
+  "level": "intermediate",
+  "en": "Oh, hello! I didn't recognise you without your helmet.",
+  "tamil": "அட, வணக்கம்! ஹெல்மெட் இல்லாம உங்களை அடையாளமே தெரியல.",
+  "reply": "Ha, that happens a lot. How are you? We rarely meet these days.",
+  "replyTamil": "ஹா, அடிக்கடி நடக்குது இது. நீங்க எப்படி இருக்கீங்க? இப்பல்லாம் சந்திக்கவே முடியறதில்ல."
+ },
+ {
+  "category": "relationships",
+  "context": "Acquaintance asking about family",
+  "level": "beginner",
+  "en": "How's your mother keeping these days?",
+  "tamil": "உங்க அம்மா இப்போ எப்படி இருக்காங்க?",
+  "reply": "She's doing well, thanks for asking. She's a bit tired of the heat, though.",
+  "replyTamil": "நல்லா இருக்காங்க, கேட்டதுக்கு நன்றி. ஆனா வெயில் அவங்களுக்கு கொஞ்சம் சோர்வா இருக்கு."
+ },
+ {
+  "category": "relationships",
+  "context": "Remembering a name at a meetup",
+  "level": "advanced",
+  "en": "I'm terrible with names. Remind me again, was it Lakshmi or Latha?",
+  "tamil": "எனக்கு பேர் ஞாபகம் வைக்கவே வராது. திரும்பச் சொல்லுங்க, லட்சுமியா லதாவா?",
+  "reply": "No harm done, it's Latha. Most people mix us up anyway.",
+  "replyTamil": "பரவாயில்ல, லதா. பெரும்பாலானவங்க எங்களைக் குழப்பிக்கறதுதான்."
+ },
+ {
+  "category": "relationships",
+  "context": "Thanking a friend for help moving house",
+  "level": "beginner",
+  "en": "Thanks a lot for helping us shift. We couldn't have done it without you.",
+  "tamil": "வீடு மாத்த உதவினதுக்கு ரொம்ப நன்றி. நீ இல்லாம எங்களால முடிஞ்சிருக்காது.",
+  "reply": "Arey, no need for thanks. That's what friends are for.",
+  "replyTamil": "அட, நன்றியெல்லாம் எதுக்கு. நண்பர்கள்னா அதுக்குத்தானே."
+ },
+ {
+  "category": "relationships",
+  "context": "Thanking someone for a thoughtful gift",
+  "level": "beginner",
+  "en": "This is so sweet of you. Thank you for remembering my birthday.",
+  "tamil": "இது ரொம்ப அன்பான செயல். என் பிறந்தநாளை ஞாபகம் வச்சதுக்கு நன்றி.",
+  "reply": "How could I forget? I'm glad you like it.",
+  "replyTamil": "நான் எப்படி மறப்பேன்? உனக்குப் பிடிச்சதுல சந்தோஷம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Thanking a friend who stayed in hospital",
+  "level": "intermediate",
+  "en": "I'll never forget how you stayed with us at the hospital all night.",
+  "tamil": "ஆஸ்பத்திரியில ராத்திரி முழுக்க எங்க கூடவே இருந்தத நான் ஒரு நாளும் மறக்க மாட்டேன்.",
+  "reply": "Please, don't mention it. I just wanted to be there for you.",
+  "replyTamil": "அதைப் பத்தி பேசாதீங்க. உங்களுக்குத் துணையா இருக்கணும்னு தான் நினைச்சேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Thanking a mentor for guidance",
+  "level": "advanced",
+  "en": "I owe a lot of what I am today to your advice. I can't thank you enough.",
+  "tamil": "நான் இன்னைக்கு இருக்கற நிலைமைக்கு உங்க அறிவுரைதான் பெரிய காரணம். எப்படி நன்றி சொல்றதுன்னே தெரியல.",
+  "reply": "That's very kind, but the credit is yours. I only pointed you in the right direction.",
+  "replyTamil": "அது ரொம்ப பெருந்தன்மை, ஆனா பெருமை உங்களுக்குத்தான். நான் சரியான திசையை மட்டும்தான் காட்டினேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Thanking a neighbour for watching the house",
+  "level": "intermediate",
+  "en": "Thanks for keeping an eye on our house while we were away. Here's some sweets from Madurai.",
+  "tamil": "நாங்க ஊர்ல இல்லாதப்போ வீட்டைப் பார்த்துக்கிட்டதுக்கு நன்றி. இதோ மதுரை ஸ்வீட்ஸ்.",
+  "reply": "Oh, you shouldn't have! It was no trouble at all, but thank you.",
+  "replyTamil": "அட, இதெல்லாம் எதுக்கு! எந்தச் சிரமமும் இல்ல, இருந்தாலும் நன்றி."
+ },
+ {
+  "category": "relationships",
+  "context": "Thanking a partner for patience",
+  "level": "beginner",
+  "en": "Thank you for being so patient with me.",
+  "tamil": "என்கிட்ட இவ்வளவு பொறுமையா இருந்ததுக்கு நன்றி.",
+  "reply": "You'd do the same for me. We're a team, remember?",
+  "replyTamil": "நீயும் எனக்காக அப்படித்தான் செய்வ. நாம ஒரு டீம், ஞாபகம் இருக்கா?"
+ },
+ {
+  "category": "relationships",
+  "context": "Thanking a friend for honest feedback",
+  "level": "advanced",
+  "en": "I know it wasn't easy to say that to my face, and I appreciate your honesty.",
+  "tamil": "அதை என் முகத்துக்கு நேரா சொல்றது சுலபம் இல்லன்னு தெரியும், உன் நேர்மைக்கு நான் நன்றி சொல்றேன்.",
+  "reply": "I only said it because I care. I'm glad you took it the right way.",
+  "replyTamil": "உன் மேல அக்கறை இருக்கறதாலதான் சொன்னேன். நீ அதை சரியா எடுத்துக்கிட்டதுல சந்தோஷம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Finding an old school friend",
+  "level": "beginner",
+  "en": "Ravi? Is that really you? It's been ten years!",
+  "tamil": "ரவியா? உண்மையிலேயே நீதானா? பத்து வருஷம் ஆச்சே!",
+  "reply": "Yes, it's me! You haven't changed a bit.",
+  "replyTamil": "ஆமா, நான்தான்! நீ கொஞ்சம் கூட மாறவே இல்ல."
+ },
+ {
+  "category": "relationships",
+  "context": "Reaching out to an old friend on social media",
+  "level": "intermediate",
+  "en": "Hey, I saw your photo online and thought I'd say hello. How have you been all these years?",
+  "tamil": "ஹே, உன் போட்டோவை ஆன்லைன்ல பார்த்தேன், சரி ஹலோ சொல்லலாம்னு நினைச்சேன். இத்தனை வருஷமா எப்படி இருக்க?",
+  "reply": "What a lovely surprise! Life's been busy, but good. Tell me everything about you!",
+  "replyTamil": "என்ன ஒரு அழகான ஆச்சரியம்! வாழ்க்கை பிசியா இருந்தாலும் நல்லா இருக்கு. உன்னைப் பத்தி எல்லாம் சொல்லு!"
+ },
+ {
+  "category": "relationships",
+  "context": "Apologising for losing touch",
+  "level": "intermediate",
+  "en": "I'm sorry I fell out of touch. Work took over everything.",
+  "tamil": "தொடர்பை விட்டுட்டதுக்கு மன்னிச்சுக்கோ. வேலைதான் எல்லா நேரத்தையும் எடுத்துக்கிடுச்சு.",
+  "reply": "Don't worry about it. I was just as bad. I'm glad you messaged.",
+  "replyTamil": "அதைப் பத்தி கவலைப்படாதே. நானும் அப்படித்தான். நீ மெசேஜ் பண்ணினதுல சந்தோஷம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Planning a school reunion",
+  "level": "beginner",
+  "en": "We're planning a school reunion next month. Will you come?",
+  "tamil": "அடுத்த மாசம் ஸ்கூல் ரீயூனியன் பிளான் பண்றோம். நீ வருவியா?",
+  "reply": "I wouldn't miss it! Who all are coming?",
+  "replyTamil": "நான் மிஸ் பண்ணவே மாட்டேன்! யார் யாரெல்லாம் வர்றாங்க?"
+ },
+ {
+  "category": "relationships",
+  "context": "Reminiscing about college days",
+  "level": "advanced",
+  "en": "Remember how we used to bunk class and head straight to the canteen? Those were the days.",
+  "tamil": "வகுப்பை கட் அடிச்சிட்டு நேரா கேன்டீனுக்கு ஓடினது ஞாபகம் இருக்கா? அதெல்லாம் ஒரு காலம்.",
+  "reply": "How could I forget? Looking back, that canteen tea was the highlight of my college life.",
+  "replyTamil": "எப்படி மறப்பேன்? திரும்பிப் பார்த்தா, அந்த கேன்டீன் டீதான் என் காலேஜ் வாழ்க்கையோட சிறப்பு."
+ },
+ {
+  "category": "relationships",
+  "context": "Catching up after a long gap",
+  "level": "beginner",
+  "en": "So, what have you been up to lately?",
+  "tamil": "அப்புறம், இப்போ என்ன பண்ணிட்டு இருக்க?",
+  "reply": "I'm working in Bengaluru now, and I got married last year. What about you?",
+  "replyTamil": "இப்போ பெங்களூர்ல வேலை பார்க்கிறேன், போன வருஷம் கல்யாணம் ஆச்சு. நீ?"
+ },
+ {
+  "category": "relationships",
+  "context": "Suggesting a meet-up with an old friend",
+  "level": "intermediate",
+  "en": "I'll be in Chennai next weekend. We should definitely meet up and catch up properly.",
+  "tamil": "அடுத்த வாரக் கடைசியில நான் சென்னையில இருப்பேன். கண்டிப்பா சந்திச்சு நிம்மதியா பேசணும்.",
+  "reply": "Yes, let's do that! Saturday evening at Marina, like old times?",
+  "replyTamil": "ஆமா, பண்ணலாம்! பழைய மாதிரி சனிக்கிழமை சாயங்காலம் மெரினால?"
+ },
+ {
+  "category": "relationships",
+  "context": "Friend who came back after years abroad",
+  "level": "advanced",
+  "en": "It feels like no time has passed. We just picked up right where we left off.",
+  "tamil": "கொஞ்சம் கூட நேரம் கடந்த மாதிரியே இல்ல. விட்ட இடத்துல இருந்தே நாம மறுபடி ஆரம்பிச்சுட்ட மாதிரி இருக்கு.",
+  "reply": "That's the sign of a real friendship. Let's not let so many years slip by again.",
+  "replyTamil": "அதுதான் உண்மையான நட்போட அடையாளம். இனிமே இவ்வளவு வருஷம் கடக்க விடக்கூடாது."
+ }
+]

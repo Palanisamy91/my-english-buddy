@@ -1,0 +1,346 @@
+[
+ {
+  "word": "money",
+  "meaning": "Coins and notes that you use to buy things.",
+  "tamil": "பணம்",
+  "pos": "noun",
+  "pron": "MUN-ee",
+  "example": "I need some money to buy vegetables from the market.",
+  "exampleTamil": "சந்தையில் காய்கறி வாங்க எனக்குக் கொஞ்சம் பணம் வேண்டும்.",
+  "synonyms": [
+   "cash",
+   "funds"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "price",
+  "meaning": "The amount of money you pay to buy something.",
+  "tamil": "விலை",
+  "pos": "noun",
+  "pron": "PRYSS",
+  "example": "What is the price of this shirt?",
+  "exampleTamil": "இந்தச் சட்டையின் விலை என்ன?",
+  "synonyms": [
+   "cost",
+   "rate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sale",
+  "meaning": "A time when a shop sells things at lower prices.",
+  "tamil": "தள்ளுபடி விற்பனை",
+  "pos": "noun",
+  "pron": "SAYL",
+  "example": "There is a big sale at the cloth shop this week.",
+  "exampleTamil": "இந்த வாரம் துணிக்கடையில் பெரிய தள்ளுபடி விற்பனை நடக்கிறது.",
+  "synonyms": [
+   "discount sale",
+   "clearance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "store",
+  "meaning": "A place where you go to buy things.",
+  "tamil": "கடை",
+  "pos": "noun",
+  "pron": "STOR",
+  "example": "The store near my house opens at eight.",
+  "exampleTamil": "என் வீட்டின் அருகிலுள்ள கடை எட்டு மணிக்குத் திறக்கும்.",
+  "synonyms": [
+   "shop",
+   "outlet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "price drop",
+  "meaning": "A fall in the price of something.",
+  "tamil": "விலை குறைவு",
+  "pos": "noun",
+  "pron": "PRYSS DROP",
+  "example": "There was a price drop on mobile phones this week.",
+  "exampleTamil": "இந்த வாரம் கைப்பேசிகளின் விலை குறைந்தது.",
+  "synonyms": [
+   "price cut",
+   "reduction"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "online shopping",
+  "meaning": "Buying things on the internet.",
+  "tamil": "இணையத்தில் பொருட்கள் வாங்குதல்",
+  "pos": "noun",
+  "pron": "ON-lyn SHOP-ing",
+  "example": "My mother loves online shopping for kitchen things.",
+  "exampleTamil": "என் அம்மாவுக்கு சமையலறைப் பொருட்களை இணையத்தில் வாங்குவது பிடிக்கும்.",
+  "synonyms": [
+   "e-shopping",
+   "web shopping"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rich",
+  "meaning": "Having a lot of money.",
+  "tamil": "பணக்காரர்",
+  "pos": "adjective",
+  "pron": "RICH",
+  "example": "He became rich after selling his land.",
+  "exampleTamil": "நிலத்தை விற்ற பிறகு அவர் பணக்காரர் ஆனார்.",
+  "synonyms": [
+   "wealthy",
+   "well-off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "poor",
+  "meaning": "Having very little money.",
+  "tamil": "ஏழை",
+  "pos": "adjective",
+  "pron": "POOR",
+  "example": "They were poor, but they always shared their food.",
+  "exampleTamil": "அவர்கள் ஏழைகள், ஆனால் எப்போதும் உணவைப் பகிர்ந்துகொண்டனர்.",
+  "synonyms": [
+   "needy",
+   "penniless"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wealthy",
+  "meaning": "Having a lot of money, land or property.",
+  "tamil": "செல்வந்தர்",
+  "pos": "adjective",
+  "pron": "WEL-thee",
+  "example": "A wealthy family lives in the big house on the hill.",
+  "exampleTamil": "மலையிலுள்ள பெரிய வீட்டில் ஒரு செல்வந்தக் குடும்பம் வசிக்கிறது.",
+  "synonyms": [
+   "rich",
+   "prosperous"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "income",
+  "meaning": "The money a person gets from work or business.",
+  "tamil": "வருமானம்",
+  "pos": "noun",
+  "pron": "IN-kum",
+  "example": "Her monthly income is enough for the whole family.",
+  "exampleTamil": "அவளுடைய மாத வருமானம் முழுக் குடும்பத்துக்கும் போதுமானது.",
+  "synonyms": [
+   "earnings",
+   "salary"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cash payment",
+  "meaning": "Money paid with notes and coins, not by card.",
+  "tamil": "ரொக்கமாகச் செலுத்தும் தொகை",
+  "pos": "noun",
+  "pron": "KASH PAY-ment",
+  "example": "The shop only accepts cash payment for small items.",
+  "exampleTamil": "சிறிய பொருட்களுக்கு அந்தக் கடை ரொக்கப் பணம் மட்டுமே ஏற்கும்.",
+  "synonyms": [
+   "paying in cash"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "worth",
+  "meaning": "Having a certain value in money.",
+  "tamil": "மதிப்புள்ள",
+  "pos": "adjective",
+  "pron": "WURTH",
+  "example": "This old watch is worth ten thousand rupees.",
+  "exampleTamil": "இந்தப் பழைய கடிகாரம் பத்தாயிரம் ரூபாய் மதிப்புள்ளது.",
+  "synonyms": [
+   "valued at",
+   "priced at"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "value",
+  "meaning": "How much something is worth or how useful it is.",
+  "tamil": "மதிப்பு",
+  "pos": "noun",
+  "pron": "VAL-yoo",
+  "example": "Gold keeps its value for many years.",
+  "exampleTamil": "தங்கம் பல ஆண்டுகள் தன் மதிப்பைத் தக்கவைக்கும்.",
+  "synonyms": [
+   "worth",
+   "price"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shopping bag",
+  "meaning": "A bag that you use to carry things you buy.",
+  "tamil": "பொருட்கள் வாங்கும் பை",
+  "pos": "noun",
+  "pron": "SHOP-ing BAG",
+  "example": "Please bring your own shopping bag to the market.",
+  "exampleTamil": "தயவுசெய்து சந்தைக்கு உங்கள் சொந்த பையைக் கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "carry bag",
+   "tote"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "payday",
+  "meaning": "The day when you get your salary.",
+  "tamil": "சம்பள நாள்",
+  "pos": "noun",
+  "pron": "PAY-day",
+  "example": "Everyone is happy on payday.",
+  "exampleTamil": "சம்பள நாளில் எல்லோரும் மகிழ்ச்சியாக இருக்கிறார்கள்.",
+  "synonyms": [
+   "salary day"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shopping",
+  "meaning": "Going to shops to buy things.",
+  "tamil": "பொருட்கள் வாங்குதல்",
+  "pos": "noun",
+  "pron": "SHOP-ing",
+  "example": "We are going shopping for festival clothes tomorrow.",
+  "exampleTamil": "நாளை பண்டிகைக்கான துணிகள் வாங்கச் செல்கிறோம்.",
+  "synonyms": [
+   "buying",
+   "purchasing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shopping list",
+  "meaning": "A list of things you want to buy.",
+  "tamil": "வாங்க வேண்டிய பொருட்களின் பட்டியல்",
+  "pos": "noun",
+  "pron": "SHOP-ing LIST",
+  "example": "Please add rice and oil to the shopping list.",
+  "exampleTamil": "தயவுசெய்து அரிசியையும் எண்ணெயையும் வாங்கும் பட்டியலில் சேருங்கள்.",
+  "synonyms": [
+   "buying list"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pocket money",
+  "meaning": "A small amount of money given to a child each week or month.",
+  "tamil": "கைச்செலவுக்கான பணம்",
+  "pos": "noun",
+  "pron": "POK-it MUN-ee",
+  "example": "My father gives me pocket money every Sunday.",
+  "exampleTamil": "என் அப்பா ஒவ்வொரு ஞாயிற்றுக்கிழமையும் எனக்குக் கைச்செலவுக்குப் பணம் தருகிறார்.",
+  "synonyms": [
+   "allowance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "loose change",
+  "meaning": "Small coins that you carry in your pocket or bag.",
+  "tamil": "சில்லறைக் காசுகள்",
+  "pos": "noun",
+  "pron": "LOOSS CHAYNJ",
+  "example": "I gave the beggar all my loose change.",
+  "exampleTamil": "என்னிடமிருந்த எல்லாச் சில்லறைக் காசுகளையும் பிச்சைக்காரருக்குக் கொடுத்தேன்.",
+  "synonyms": [
+   "small change",
+   "coins"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "price tag",
+  "meaning": "A small label on a product that shows its price.",
+  "tamil": "விலைச் சீட்டு",
+  "pos": "noun",
+  "pron": "PRYSS TAG",
+  "example": "She looked at the price tag and put the bag back.",
+  "exampleTamil": "அவள் விலைச் சீட்டைப் பார்த்துவிட்டுப் பையைத் திரும்ப வைத்துவிட்டாள்.",
+  "synonyms": [
+   "label",
+   "sticker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "credit card",
+  "meaning": "A plastic card that lets you buy now and pay the bank later.",
+  "tamil": "கடன் அட்டை",
+  "pos": "noun",
+  "pron": "KRED-it KARD",
+  "example": "He paid the hotel bill with his credit card.",
+  "exampleTamil": "அவர் தன் கடன் அட்டையால் ஹோட்டல் கட்டணத்தைச் செலுத்தினார்.",
+  "synonyms": [
+   "plastic",
+   "card"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "debit card",
+  "meaning": "A bank card that takes money straight from your account.",
+  "tamil": "பற்று அட்டை",
+  "pos": "noun",
+  "pron": "DEB-it KARD",
+  "example": "I use my debit card to pay at the supermarket.",
+  "exampleTamil": "பல்பொருள் அங்காடியில் பணம் செலுத்த என் பற்று அட்டையைப் பயன்படுத்துகிறேன்.",
+  "synonyms": [
+   "bank card",
+   "atm card"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bank account",
+  "meaning": "An arrangement with a bank where your money is kept safely.",
+  "tamil": "வங்கிக் கணக்கு",
+  "pos": "noun",
+  "pron": "BANK uh-KOWNT",
+  "example": "My salary comes into my bank account on the first.",
+  "exampleTamil": "என் சம்பளம் மாதம் முதல் தேதியில் என் வங்கிக் கணக்கில் வரும்.",
+  "synonyms": [
+   "account"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "on sale",
+  "meaning": "Being sold at a lower price than usual.",
+  "tamil": "தள்ளுபடி விலையில்",
+  "pos": "phrase",
+  "pron": "on SAYL",
+  "example": "All the winter jackets are on sale now.",
+  "exampleTamil": "எல்லாக் குளிர்கால ஜாக்கெட்டுகளும் இப்போது தள்ளுபடி விலையில் உள்ளன.",
+  "synonyms": [
+   "discounted",
+   "reduced"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "in stock",
+  "meaning": "Available in the shop and ready to buy.",
+  "tamil": "கையிருப்பில் உள்ளது",
+  "pos": "phrase",
+  "pron": "in STOK",
+  "example": "Do you have this phone in stock?",
+  "exampleTamil": "இந்தத் தொலைபேசி உங்களிடம் கையிருப்பில் உள்ளதா?",
+  "synonyms": [
+   "available"
+  ],
+  "level": "beginner"
+ }
+]

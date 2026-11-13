@@ -1,0 +1,454 @@
+[
+ {
+  "word": "police",
+  "tamil": "காவல்துறை, போலீஸ்",
+  "pos": "noun",
+  "pron": "puh-LEES",
+  "example": "Call the police if you see anything suspicious.",
+  "exampleTamil": "சந்தேகமாக ஏதாவது பார்த்தால் போலீஸை அழையுங்கள்.",
+  "synonyms": [
+   "law enforcement"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "address",
+  "tamil": "முகவரி",
+  "pos": "noun",
+  "pron": "uh-DRESS",
+  "example": "Can you tell me your exact address, please?",
+  "exampleTamil": "உங்கள் சரியான முகவரியைச் சொல்ல முடியுமா?",
+  "synonyms": [
+   "location"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "victim",
+  "tamil": "பாதிக்கப்பட்டவர்",
+  "pos": "noun",
+  "pron": "VIK-tim",
+  "example": "The victim is conscious but cannot move his leg.",
+  "exampleTamil": "பாதிக்கப்பட்டவர் சுயநினைவுடன் இருக்கிறார், ஆனால் காலை அசைக்க முடியவில்லை.",
+  "synonyms": [
+   "casualty",
+   "sufferer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "witness",
+  "tamil": "சாட்சி, நேரில் கண்டவர்",
+  "pos": "noun",
+  "pron": "WIT-nus",
+  "example": "I am a witness, and I saw the whole accident.",
+  "exampleTamil": "நான் ஒரு சாட்சி, விபத்து முழுவதையும் பார்த்தேன்.",
+  "synonyms": [
+   "eyewitness",
+   "observer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "evacuate",
+  "tamil": "வெளியேற்று",
+  "pos": "verb",
+  "pron": "ih-VAK-yoo-ayt",
+  "example": "Everyone must evacuate the building when the alarm rings.",
+  "exampleTamil": "அலாரம் அடித்தால் அனைவரும் கட்டிடத்தை விட்டு வெளியேற வேண்டும்.",
+  "synonyms": [
+   "clear out",
+   "leave"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "trapped",
+  "tamil": "சிக்கிக்கொண்ட",
+  "pos": "adjective",
+  "pron": "TRAPT",
+  "example": "Two people are trapped inside the lift on the third floor.",
+  "exampleTamil": "மூன்றாம் மாடியில் இரண்டு பேர் லிஃப்டுக்குள் சிக்கிக்கொண்டுள்ளனர்.",
+  "synonyms": [
+   "stuck",
+   "caught"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "seizure",
+  "tamil": "வலிப்பு",
+  "pos": "noun",
+  "pron": "SEE-zhur",
+  "example": "He had a seizure and fell down on the road.",
+  "exampleTamil": "அவருக்கு வலிப்பு வந்து சாலையில் விழுந்துவிட்டார்.",
+  "synonyms": [
+   "fit",
+   "convulsion"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "allergic",
+  "tamil": "ஒவ்வாமை உள்ள",
+  "pos": "adjective",
+  "pron": "uh-LUR-jik",
+  "example": "She is allergic to penicillin, so tell the doctor.",
+  "exampleTamil": "அவளுக்கு பெனிசிலின் ஒவ்வாது, எனவே மருத்துவரிடம் சொல்லுங்கள்.",
+  "synonyms": [
+   "hypersensitive"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "siren",
+  "tamil": "சைரன் ஒலி",
+  "pos": "noun",
+  "pron": "SY-run",
+  "example": "We heard a siren and then saw the fire engine.",
+  "exampleTamil": "சைரன் ஒலி கேட்டது, பிறகு தீயணைப்பு வண்டியைப் பார்த்தோம்.",
+  "synonyms": [
+   "alarm",
+   "hooter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "specialist",
+  "tamil": "நிபுணர் மருத்துவர்",
+  "pos": "noun",
+  "pron": "SPESH-uh-list",
+  "example": "I would like to book an appointment with a heart specialist.",
+  "exampleTamil": "நான் இதய நிபுணரிடம் சந்திப்புக்கு முன்பதிவு செய்ய விரும்புகிறேன்.",
+  "synonyms": [
+   "expert",
+   "consultant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overseas",
+  "tamil": "வெளிநாட்டில்",
+  "pos": "adverb",
+  "pron": "oh-vur-SEEZ",
+  "example": "My brother lives overseas, so we talk on video calls.",
+  "exampleTamil": "என் தம்பி வெளிநாட்டில் வசிக்கிறார், அதனால் வீடியோ அழைப்பில் பேசுவோம்.",
+  "synonyms": [
+   "abroad"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "prefix",
+  "tamil": "முன்னொட்டு எண்",
+  "pos": "noun",
+  "pron": "PREE-fiks",
+  "example": "Add the country prefix before dialling the number.",
+  "exampleTamil": "எண்ணை அழைக்கும் முன் நாட்டுக் குறியீட்டை சேர்க்கவும்.",
+  "synonyms": [
+   "code"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "headphones",
+  "tamil": "ஹெட்ஃபோன்",
+  "pos": "noun",
+  "pron": "HED-fohnz",
+  "example": "I wear headphones during calls to avoid the office noise.",
+  "exampleTamil": "அலுவலக சத்தத்தைத் தவிர்க்க அழைப்புகளின்போது ஹெட்ஃபோன் அணிவேன்.",
+  "synonyms": [
+   "headset"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stream",
+  "tamil": "நேரலை/தொடர் ஒளிபரப்பு",
+  "pos": "verb",
+  "pron": "STREEM",
+  "example": "We will stream the training session for remote staff.",
+  "exampleTamil": "தொலைதூர ஊழியர்களுக்காக பயிற்சி அமர்வை நேரலை செய்வோம்.",
+  "synonyms": [
+   "broadcast",
+   "transmit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "livestream",
+  "tamil": "நேரலை ஒளிபரப்பு",
+  "pos": "noun",
+  "pron": "LYV-streem",
+  "example": "Did you watch the livestream of the product launch?",
+  "exampleTamil": "பொருள் அறிமுக நேரலையைப் பார்த்தீர்களா?",
+  "synonyms": [
+   "live broadcast"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "avatar",
+  "tamil": "சின்னப் படம்",
+  "pos": "noun",
+  "pron": "AV-uh-tar",
+  "example": "Your avatar shows instead of your face when the camera is off.",
+  "exampleTamil": "கேமரா அணைந்திருந்தால் உங்கள் முகத்துக்குப் பதிலாக சின்னப் படம் தெரியும்.",
+  "synonyms": [
+   "profile picture"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "caption",
+  "tamil": "திரை வசனம்",
+  "pos": "noun",
+  "pron": "KAP-shun",
+  "example": "Turn on the caption option if the audio is unclear.",
+  "exampleTamil": "ஒலி தெளிவாக இல்லையென்றால் வசன வசதியை இயக்குங்கள்.",
+  "synonyms": [
+   "subtitle"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "subtitle",
+  "tamil": "துணைத் தலைப்பு/வசனம்",
+  "pos": "noun",
+  "pron": "SUB-ty-tul",
+  "example": "The video has English subtitles for every speaker.",
+  "exampleTamil": "வீடியோவில் ஒவ்வொரு பேச்சாளருக்கும் ஆங்கில வசனம் உள்ளது.",
+  "synonyms": [
+   "caption"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "playback",
+  "tamil": "மீண்டும் ஒலிக்கச் செய்தல்",
+  "pos": "noun",
+  "pron": "PLAY-bak",
+  "example": "Use playback to hear the voice message again.",
+  "exampleTamil": "குரல் செய்தியை மீண்டும் கேட்க ப்ளேபேக் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "replay"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dictate",
+  "tamil": "சொல்லி எழுதவை",
+  "pos": "verb",
+  "pron": "DIK-tayt",
+  "example": "I dictate my messages while driving instead of typing.",
+  "exampleTamil": "வண்டி ஓட்டும்போது தட்டச்சு செய்யாமல் செய்திகளைச் சொல்லி எழுதவைக்கிறேன்.",
+  "synonyms": [
+   "speak aloud"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "autocorrect",
+  "tamil": "தானியங்கி திருத்தம்",
+  "pos": "noun",
+  "pron": "AW-toh-kuh-rekt",
+  "example": "Autocorrect changed my message into something very funny.",
+  "exampleTamil": "தானியங்கி திருத்தம் என் செய்தியை வேடிக்கையாக மாற்றிவிட்டது.",
+  "synonyms": [
+   "auto-fix"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "typo",
+  "tamil": "எழுத்துப் பிழை",
+  "pos": "noun",
+  "pron": "TY-poh",
+  "example": "Sorry for the typo in my last message.",
+  "exampleTamil": "என் கடைசி செய்தியில் எழுத்துப் பிழைக்கு மன்னிக்கவும்.",
+  "synonyms": [
+   "spelling mistake"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "abbreviation",
+  "tamil": "சுருக்கெழுத்து",
+  "pos": "noun",
+  "pron": "uh-bree-vee-AY-shun",
+  "example": "ASAP is a common abbreviation in text messages.",
+  "exampleTamil": "ASAP என்பது குறுஞ்செய்திகளில் பொதுவான சுருக்கெழுத்து.",
+  "synonyms": [
+   "short form"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "acronym",
+  "tamil": "முதலெழுத்துச் சுருக்கம்",
+  "pos": "noun",
+  "pron": "AK-ruh-nim",
+  "example": "What does this acronym mean in your message?",
+  "exampleTamil": "உங்கள் செய்தியில் இந்த முதலெழுத்துச் சுருக்கத்தின் பொருள் என்ன?",
+  "synonyms": [
+   "initialism"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "meme",
+  "tamil": "மீம்",
+  "pos": "noun",
+  "pron": "MEEM",
+  "example": "He sent a funny meme in the group chat.",
+  "exampleTamil": "அவர் குழு அரட்டையில் ஒரு வேடிக்கையான மீம் அனுப்பினார்.",
+  "synonyms": [
+   "viral image"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "away",
+  "tamil": "இல்லாத, வெளியே",
+  "pos": "adjective",
+  "pron": "uh-WAY",
+  "example": "I will be away from my desk for ten minutes.",
+  "exampleTamil": "நான் பத்து நிமிடம் என் மேசையில் இருக்க மாட்டேன்.",
+  "synonyms": [
+   "absent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "reaction",
+  "tamil": "எதிர்வினை",
+  "pos": "noun",
+  "pron": "ree-AK-shun",
+  "example": "She added a thumbs-up reaction to my message.",
+  "exampleTamil": "அவள் என் செய்திக்கு ஒரு கட்டைவிரல் எதிர்வினை சேர்த்தாள்.",
+  "synonyms": [
+   "response"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overage",
+  "tamil": "கூடுதல் பயன்பாடு",
+  "pos": "noun",
+  "pron": "OH-vur-ij",
+  "example": "You will pay an overage charge beyond the monthly limit.",
+  "exampleTamil": "மாத வரம்புக்கு மேல் கூடுதல் பயன்பாட்டுக் கட்டணம் செலுத்துவீர்கள்.",
+  "synonyms": [
+   "excess"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "surcharge",
+  "tamil": "கூடுதல் கட்டணம்",
+  "pos": "noun",
+  "pron": "SUR-charj",
+  "example": "There is a small surcharge for international roaming.",
+  "exampleTamil": "சர்வதேச ரோமிங்குக்கு சிறிய கூடுதல் கட்டணம் உண்டு.",
+  "synonyms": [
+   "extra fee"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "billing",
+  "tamil": "கட்டணப் பட்டியல் தயாரிப்பு",
+  "pos": "noun",
+  "pron": "BIL-ing",
+  "example": "The billing cycle starts on the fifth of every month.",
+  "exampleTamil": "கட்டண சுழற்சி ஒவ்வொரு மாதமும் ஐந்தாம் தேதி தொடங்குகிறது.",
+  "synonyms": [
+   "invoicing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rollover",
+  "tamil": "மீதியை அடுத்த மாதத்துக்கு எடுத்துச் செல்லுதல்",
+  "pos": "noun",
+  "pron": "ROHL-oh-vur",
+  "example": "Does this plan offer data rollover for unused gigabytes?",
+  "exampleTamil": "பயன்படுத்தாத ஜிபிக்களுக்கு இந்த திட்டம் ரோல்ஓவர் தருகிறதா?",
+  "synonyms": [
+   "carry-over"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tower",
+  "tamil": "கோபுரம்",
+  "pos": "noun",
+  "pron": "TOW-ur",
+  "example": "There is no mobile tower near our village.",
+  "exampleTamil": "எங்கள் கிராமம் அருகே மொபைல் கோபுரம் இல்லை.",
+  "synonyms": [
+   "mast"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "antenna",
+  "tamil": "ஆண்டெனா",
+  "pos": "noun",
+  "pron": "an-TEN-uh",
+  "example": "The antenna on the roof improves the signal.",
+  "exampleTamil": "கூரையில் உள்ள ஆண்டெனா சிக்னலை மேம்படுத்துகிறது.",
+  "synonyms": [
+   "aerial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wireless",
+  "tamil": "கம்பியில்லா",
+  "pos": "adjective",
+  "pron": "WYR-lis",
+  "example": "I prefer wireless earbuds because there are no cables.",
+  "exampleTamil": "கம்பிகள் இல்லாததால் நான் வயர்லெஸ் இயர்பட்ஸை விரும்புகிறேன்.",
+  "synonyms": [
+   "cordless"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cellular",
+  "tamil": "செல்லுலார், மொபைல் வலையமைப்பு",
+  "pos": "adjective",
+  "pron": "SEL-yuh-lur",
+  "example": "Switch to cellular data when the wifi is slow.",
+  "exampleTamil": "வைஃபை மெதுவாக இருந்தால் செல்லுலார் டேட்டாவுக்கு மாறுங்கள்.",
+  "synonyms": [
+   "mobile"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "satellite",
+  "tamil": "செயற்கைக்கோள்",
+  "pos": "noun",
+  "pron": "SAT-uh-lyt",
+  "example": "Satellite phones work even in remote mountain areas.",
+  "exampleTamil": "செயற்கைக்கோள் போன்கள் தொலைதூர மலைப் பகுதிகளிலும் வேலை செய்யும்.",
+  "synonyms": [
+   "orbiter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gigabyte",
+  "tamil": "ஜிகாபைட்",
+  "pos": "noun",
+  "pron": "GIG-uh-byt",
+  "example": "I use about two gigabytes of data every day.",
+  "exampleTamil": "நான் தினமும் சுமார் இரண்டு ஜிகாபைட் டேட்டா பயன்படுத்துகிறேன்.",
+  "synonyms": [
+   "GB"
+  ],
+  "level": "beginner"
+ }
+]

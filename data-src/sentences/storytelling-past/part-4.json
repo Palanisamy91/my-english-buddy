@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Tell me exactly what you saw at the shop.",
+  "tamil": "கடையில நீங்க என்ன பார்த்தீங்கன்னு சரியா சொல்லுங்க.",
+  "context": "A shop owner or a family member asking for details.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Exactly' asks for clear details. 'Saw' is the past of 'see'.",
+  "words": [
+   "exactly",
+   "saw"
+  ],
+  "usage": "Use it when you want the facts, for example after a complaint.",
+  "leelaQ": "What do you notice when you enter a new shop?",
+  "answer": "I notice the prices and the number of customers."
+ },
+ {
+  "en": "I didn't know the answer, but I smiled and tried anyway.",
+  "tamil": "எனக்கு பதில் தெரியல, ஆனா சிரிச்சுக்கிட்டே முயற்சி பண்ணினேன்.",
+  "context": "Telling about an interview or exam moment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Negative past uses 'did not' plus the base verb: 'did not know'.",
+  "words": [
+   "answer",
+   "smiled"
+  ],
+  "usage": "Use it to tell how you handled a hard situation.",
+  "leelaQ": "How did you feel in your last interview or exam?",
+  "answer": "I felt nervous at first, but I answered calmly."
+ },
+ {
+  "en": "They did not inform me that the meeting was cancelled.",
+  "tamil": "மீட்டிங் கேன்சல் ஆனதை அவங்க எனக்கு சொல்லவே இல்ல.",
+  "context": "Complaining politely at work.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not inform' is a negative past. It is a polite way to complain.",
+  "words": [
+   "inform",
+   "cancelled"
+  ],
+  "usage": "Use it politely when you were not told about a change.",
+  "leelaQ": "How do you want to be told about a change in plan?",
+  "answer": "I would like a message or a call in advance."
+ },
+ {
+  "en": "Last night we ate dinner on the terrace because of the heat.",
+  "tamil": "நேத்து ராத்திரி வெக்கை தாங்காம மொட்டை மாடியில சாப்பிட்டோம்.",
+  "context": "Telling a friend about a summer night.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Because of' is followed by a noun like 'the heat'. 'Ate' is the past of 'eat'.",
+  "words": [
+   "terrace",
+   "heat"
+  ],
+  "usage": "Use it to describe a small family moment.",
+  "leelaQ": "What did you do last night after dinner?",
+  "answer": "We sat outside and talked for a while."
+ },
+ {
+  "en": "Have you heard what happened at the party last night?",
+  "tamil": "நேத்து ராத்திரி பார்ட்டில என்ன நடந்துச்சுன்னு கேள்விப்பட்டீங்களா?",
+  "context": "Sharing gossip with a friend.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you heard' starts news. 'What happened' is the news itself.",
+  "words": [
+   "heard",
+   "party"
+  ],
+  "usage": "Use it to start sharing news or a surprising story.",
+  "leelaQ": "Have you heard any interesting news today?",
+  "answer": "Yes, I heard that our road will be repaired."
+ },
+ {
+  "en": "We have already booked the tickets for the temple trip.",
+  "tamil": "கோவில் பயணத்துக்கு டிக்கெட் ஏற்கனவே புக் பண்ணிட்டோம்.",
+  "context": "Telling a family member the plan is ready.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect with 'already' shows an action is complete before now.",
+  "words": [
+   "booked",
+   "tickets"
+  ],
+  "usage": "Use it to tell relatives that arrangements are done.",
+  "leelaQ": "Have you planned anything for the next holiday?",
+  "answer": "Yes, we have planned a trip to Kerala."
+ },
+ {
+  "en": "How did you reach the airport so early?",
+  "tamil": "நீங்க எப்படி இவ்ளோ சீக்கிரம் ஏர்போர்ட்டுக்கு வந்தீங்க?",
+  "context": "Asking a friend with surprise.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'How did you' asks about the way something was done.",
+  "words": [
+   "reach",
+   "airport"
+  ],
+  "usage": "Use it when you are surprised someone came earlier than expected.",
+  "leelaQ": "How did you reach your office today?",
+  "answer": "I came by metro and then walked."
+ },
+ {
+  "en": "I danced on the stage for the first time, and my legs were shaking.",
+  "tamil": "நான் முதல் தடவை மேடையில டான்ஸ் ஆடினேன், கால் நடுங்கிக்கிட்டு இருந்துச்சு.",
+  "context": "Telling a friend about a first-time experience.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'For the first time' is used to talk about something new in your life.",
+  "words": [
+   "stage",
+   "shaking"
+  ],
+  "usage": "Use it to share a nervous but memorable moment.",
+  "leelaQ": "What was the first time you spoke or performed in front of people?",
+  "answer": "I gave a speech in school and I was very nervous."
+ },
+ {
+  "en": "Could you describe how the accident happened?",
+  "tamil": "விபத்து எப்படி நடந்துச்சுன்னு விவரிக்க முடியுமா?",
+  "context": "A police officer or an insurance person asking.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Describe how' asks for a clear explanation in steps.",
+  "words": [
+   "describe",
+   "accident"
+  ],
+  "usage": "Use it in formal situations like an insurance call or a police station.",
+  "leelaQ": "Can you describe your house in a few words?",
+  "answer": "It is a small house with two rooms and a garden."
+ },
+ {
+  "en": "Two days ago, a cow stood in the middle of the road for ten minutes.",
+  "tamil": "ரெண்டு நாள் முன்னாடி ஒரு மாடு பத்து நிமிஷம் ரோட்டு நடுவுல நின்னுச்சு.",
+  "context": "Telling a friend why you were stuck in traffic.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Ago' goes after the time: 'two days ago'. It always shows past time.",
+  "words": [
+   "ago",
+   "middle"
+  ],
+  "usage": "Use it to explain a traffic delay or a funny road scene.",
+  "leelaQ": "What was the strangest thing you saw on the road?",
+  "answer": "I saw a dog riding on a scooter with its owner."
+ },
+ {
+  "en": "I lived in Coimbatore until I finished my school.",
+  "tamil": "நான் ஸ்கூல் முடிக்கிற வரைக்கும் கோயம்புத்தூர்ல இருந்தேன்.",
+  "context": "Introducing your background to a new colleague.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Until' shows the time when something stopped.",
+  "words": [
+   "lived",
+   "until"
+  ],
+  "usage": "Use it when you talk about where you grew up.",
+  "leelaQ": "Where did you live before you came here?",
+  "answer": "I lived in a small village near Erode."
+ },
+ {
+  "en": "Did you remember to lock the door before leaving?",
+  "tamil": "போகும் முன்னாடி கதவை பூட்டுறது ஞாபகம் இருந்துச்சா?",
+  "context": "Asking a family member after leaving home.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Remember to' is for a task you needed to do. Use it for reminders.",
+  "words": [
+   "remember",
+   "lock"
+  ],
+  "usage": "Use it with family members after you leave the house.",
+  "leelaQ": "Do you always check the door and windows before going out?",
+  "answer": "Yes, I check them twice before I leave."
+ },
+ {
+  "en": "The shopkeeper gave me extra change by mistake, so I returned it.",
+  "tamil": "கடைக்காரர் தப்பா அதிகமா சில்லறை கொடுத்துட்டார், நான் திருப்பிக் கொடுத்துட்டேன்.",
+  "context": "Telling a friend about an honest moment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'By mistake' means not on purpose. 'Returned' means gave it back.",
+  "words": [
+   "change",
+   "mistake"
+  ],
+  "usage": "Use it to tell a short story about honesty.",
+  "leelaQ": "Have you ever found something that was not yours?",
+  "answer": "Yes, I found a purse and gave it to the police."
+ },
+ {
+  "en": "What did you eat for dinner yesterday?",
+  "tamil": "நேத்து நைட் டின்னருக்கு என்ன சாப்பிட்டீங்க?",
+  "context": "Making small talk with a friend.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Eat' stays in base form after 'did'. The answer will use 'ate'.",
+  "words": [
+   "dinner",
+   "eat"
+  ],
+  "usage": "Use it for easy small talk about daily life.",
+  "leelaQ": "What was your dinner last night, and who cooked it?",
+  "answer": "I ate dosa and chutney at home."
+ },
+ {
+  "en": "We all laughed so much that the teacher sent us out.",
+  "tamil": "நாங்க எல்லாரும் ரொம்ப சிரிச்சதால டீச்சர் வெளியில அனுப்பிட்டாங்க.",
+  "context": "Telling a funny school memory.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'So much that' joins a strong action with its result.",
+  "words": [
+   "laughed",
+   "sent"
+  ],
+  "usage": "Use it to tell a funny memory from school or college.",
+  "leelaQ": "Did you ever get sent out of the class?",
+  "answer": "Yes, once I was talking to my friend in class."
+ },
+ {
+  "en": "Please start from the beginning.",
+  "tamil": "தயவு செய்து ஆரம்பத்துல இருந்து சொல்லுங்க.",
+  "context": "Asking someone to explain a story in order.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'From the beginning' means from the first part. It helps you follow the order of events.",
+  "words": [
+   "start",
+   "beginning"
+  ],
+  "usage": "Use it when you did not understand a long story or problem.",
+  "leelaQ": "How do you explain a problem to someone clearly?",
+  "answer": "I start with the first step and go in order."
+ },
+ {
+  "en": "I have been to Delhi only once, and it was very cold.",
+  "tamil": "நான் டெல்லிக்கு ஒரே ஒரு தடவை தான் போயிருக்கேன், ரொம்ப குளிரா இருந்துச்சு.",
+  "context": "Telling a colleague about your travel experience.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been to' means you went and came back. It talks about experience.",
+  "words": [
+   "only once",
+   "cold"
+  ],
+  "usage": "Use it to say what places you have visited in life.",
+  "leelaQ": "Which cities have you visited so far?",
+  "answer": "I have visited Chennai, Madurai and Bangalore."
+ },
+ {
+  "en": "Her phone rang in the middle of the meeting, and everybody looked at her.",
+  "tamil": "மீட்டிங் நடுவுல அவ ஃபோன் அடிச்சுது, எல்லாரும் அவளை பார்த்தாங்க.",
+  "context": "Telling a friend about an embarrassing office moment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'In the middle of' means during. 'Rang' is the past of 'ring'.",
+  "words": [
+   "rang",
+   "meeting"
+  ],
+  "usage": "Use it to tell a short office incident to friends.",
+  "leelaQ": "What should we do with our phone during a meeting?",
+  "answer": "We should keep it silent or on vibration."
+ },
+ {
+  "en": "Have you told your parents about the new job yet?",
+  "tamil": "புது வேலையை பத்தி அப்பா அம்மாகிட்ட சொல்லிட்டீங்களா?",
+  "context": "Asking a friend about family news.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Told' is the past participle of 'tell'. 'Yet' asks if it is done by now.",
+  "words": [
+   "told",
+   "parents"
+  ],
+  "usage": "Use it to ask a friend if they shared important news.",
+  "leelaQ": "Who was the first person you told about your good news?",
+  "answer": "I first told my mother."
+ },
+ {
+  "en": "Last year I fell sick before my exam, but I still passed.",
+  "tamil": "போன வருஷம் பரீட்சைக்கு முன்னாடி உடம்பு சரியில்லாம போச்சு, ஆனாலும் பாஸ் பண்ணிட்டேன்.",
+  "context": "Telling a friend about a hard time.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Fell sick' means became ill. 'Still' shows a surprising result.",
+  "words": [
+   "sick",
+   "passed"
+  ],
+  "usage": "Use it to share how you handled a difficult time.",
+  "leelaQ": "Did you ever work hard in spite of a problem?",
+  "answer": "Yes, I studied for my exam even with a fever."
+ },
+ {
+  "en": "Which school did you go to as a child?",
+  "tamil": "சின்ன வயசுல நீங்க எந்த ஸ்கூலுக்கு போனீங்க?",
+  "context": "Asking a new friend about their education.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Which' asks to choose from a group. 'Did you go' is a past question.",
+  "words": [
+   "school",
+   "child"
+  ],
+  "usage": "Use it when you meet someone new and talk about the past.",
+  "leelaQ": "What was your school like when you were a child?",
+  "answer": "I went to a government school near my house."
+ },
+ {
+  "en": "I saw an old photo of my school yesterday, and I felt so happy.",
+  "tamil": "நேத்து என் ஸ்கூலோட பழைய போட்டோவை பார்த்தேன், ரொம்ப சந்தோஷமா இருந்துச்சு.",
+  "context": "Sharing a nice memory with a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Saw' is the past of 'see'. 'Felt' tells the feeling after the event.",
+  "words": [
+   "photo",
+   "felt"
+  ],
+  "usage": "Use it to talk about nostalgia with friends and family.",
+  "leelaQ": "What old memory makes you happy?",
+  "answer": "My school trip to Kanyakumari always makes me happy."
+ },
+ {
+  "en": "Can you tell me what you did after you left the office?",
+  "tamil": "ஆபீஸை விட்டு கிளம்பினதுக்கு அப்புறம் என்ன பண்ணுனீங்கன்னு சொல்ல முடியுமா?",
+  "context": "Asking a friend about their evening.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "Two past verbs 'did' and 'left' show the order of events.",
+  "words": [
+   "left",
+   "office"
+  ],
+  "usage": "Use it to ask someone about their day in a friendly way.",
+  "leelaQ": "What do you do after you leave the office?",
+  "answer": "I go home, rest, and then cook dinner."
+ },
+ {
+  "en": "Please wait, I will tell you the full story.",
+  "tamil": "கொஞ்சம் இருங்க, நான் முழு கதையையும் சொல்றேன்.",
+  "context": "Asking a friend to be patient.",
+  "tense": "future",
+  "type": "request",
+  "explain": "'Will' shows a promise. 'Please wait' politely asks for time.",
+  "words": [
+   "wait",
+   "full"
+  ],
+  "usage": "Use it when a story is too long to tell quickly.",
+  "leelaQ": "What do you say when you need a little time to explain?",
+  "answer": "I say, please wait, I will explain it clearly."
+ },
+ {
+  "en": "Just tell me what the doctor said yesterday.",
+  "tamil": "நேத்து டாக்டர் என்ன சொன்னார்னு மட்டும் சொல்லுங்க.",
+  "context": "Asking a relative who visited a doctor.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Just' makes the request short and direct. 'Said' is past tense.",
+  "words": [
+   "doctor",
+   "said"
+  ],
+  "usage": "Use it with family when you are worried and want a quick answer.",
+  "leelaQ": "Do you visit the doctor often?",
+  "answer": "No, I visit only when I am really sick."
+ }
+]

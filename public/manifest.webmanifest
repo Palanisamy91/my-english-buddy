@@ -1,0 +1,11 @@
+{
+  "name": "My English Buddy",
+  "short_name": "English Buddy",
+  "description": "Daily English practice with Tamil support. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9edf7",
+  "theme_color": "#6a3fc9",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

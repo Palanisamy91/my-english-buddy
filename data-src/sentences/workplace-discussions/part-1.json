@@ -1,0 +1,376 @@
+[
+ {
+  "en": "I am free after three if you want to discuss.",
+  "tamil": "நீங்க பேசணும்னா மூணு மணிக்கு மேல நான் ஃப்ரீ.",
+  "context": "Offering a time to a colleague for a talk.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'If you want to' makes the offer flexible and polite.",
+  "words": [
+   "free",
+   "discuss"
+  ],
+  "usage": "Use it with a teammate who needs a talk with you during a busy day.",
+  "leelaQ": "When are you free to talk in the day?",
+  "answer": "I am usually free in the afternoon after lunch."
+ },
+ {
+  "en": "I'm going to talk to my manager about the deadline.",
+  "tamil": "டெட்லைனைப் பத்தி என் மேனேஜர்கிட்ட பேசப் போறேன்.",
+  "context": "Saying what you plan to do about a tight deadline.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' shows a plan you have already decided to follow.",
+  "words": [
+   "manager",
+   "deadline"
+  ],
+  "usage": "Use it with a teammate when you have a plan to raise a problem with your boss.",
+  "leelaQ": "Who will you talk to if a deadline is too tight?",
+  "answer": "I am going to talk to my manager and ask for more time."
+ },
+ {
+  "en": "Should I add you to this email?",
+  "tamil": "இந்த மின்னஞ்சல்ல உங்களையும் சேர்க்கணுமா?",
+  "context": "Checking if a colleague should be in the mail loop.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Should I' asks for advice or permission about your own action.",
+  "words": [
+   "add",
+   "email"
+  ],
+  "usage": "Use it at work when you are not sure who should receive a message.",
+  "leelaQ": "Who do you add in your office emails?",
+  "answer": "I add my manager and the team members who need to know."
+ },
+ {
+  "en": "Is the client joining the call?",
+  "tamil": "கிளையன்ட் காலுக்கு வர்றாரா?",
+  "context": "Asking before a meeting begins.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Is joining' can talk about a plan for the near future.",
+  "words": [
+   "client",
+   "joining"
+  ],
+  "usage": "Use it just before an online meeting when you are not sure who will attend.",
+  "leelaQ": "Who usually joins your online meetings?",
+  "answer": "Our team members and sometimes the client join them."
+ },
+ {
+  "en": "Our manager is travelling, so the meeting is online.",
+  "tamil": "எங்க மேனேஜர் பயணத்துல இருக்காரு, அதனால மீட்டிங் ஆன்லைன்ல.",
+  "context": "Explaining why the meeting is not in the office.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'So' joins a reason with a result.",
+  "words": [
+   "travelling",
+   "online"
+  ],
+  "usage": "Use it when a teammate asks why the meeting is held online.",
+  "leelaQ": "Do you prefer online or office meetings?",
+  "answer": "I prefer office meetings because it is easy to talk face to face."
+ },
+ {
+  "en": "My colleague covered for me when I was sick.",
+  "tamil": "நான் உடம்பு சரியில்லாம இருந்தப்போ என் கொலீக் என் வேலையை பாத்துக்கிட்டாரு.",
+  "context": "Thanking a teammate who helped you.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Covered for me' means did my work while I was away.",
+  "words": [
+   "covered",
+   "sick"
+  ],
+  "usage": "Use it to thank a colleague or to tell a manager how teammates support each other.",
+  "leelaQ": "Who helps you at work when you are away?",
+  "answer": "My teammate takes care of my tasks when I am on leave."
+ },
+ {
+  "en": "We have not received the client's reply yet.",
+  "tamil": "கிளையன்ட்டோட பதில் இன்னும் வரலை.",
+  "context": "Updating a manager on a pending reply.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have not ... yet' means something is still pending.",
+  "words": [
+   "received",
+   "reply"
+  ],
+  "usage": "Use it when your manager asks if the client has answered.",
+  "leelaQ": "What do you do when a client does not reply?",
+  "answer": "I send a reminder and then I call them."
+ },
+ {
+  "en": "Has everyone received the agenda?",
+  "tamil": "எல்லாருக்கும் அஜெண்டா வந்துடுச்சா?",
+  "context": "Checking before a meeting starts.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Has everyone' takes a singular verb. An agenda is a list of topics for a meeting.",
+  "words": [
+   "received",
+   "agenda"
+  ],
+  "usage": "Use it as an organiser before a meeting to make sure people are ready.",
+  "leelaQ": "What does a good meeting agenda have?",
+  "answer": "It has the topics, the time and the names of the speakers."
+ },
+ {
+  "en": "I wrote down all the points from the meeting.",
+  "tamil": "மீட்டிங்ல இருந்த எல்லா பாயின்ட்களையும் எழுதி வச்சிருக்கேன்.",
+  "context": "Telling a colleague you have the meeting notes.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Wrote down' is the past of 'write down'. It means to make a written note.",
+  "words": [
+   "wrote down",
+   "points"
+  ],
+  "usage": "Use it when a teammate missed the meeting and wants the details.",
+  "leelaQ": "Do you take notes in meetings?",
+  "answer": "Yes, I write the main points in my notebook."
+ },
+ {
+  "en": "You should share your ideas in the meeting.",
+  "tamil": "மீட்டிங்ல உங்க ஐடியாக்களை சொல்லணும்.",
+  "context": "Encouraging a shy teammate to speak up.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' is used to give friendly advice.",
+  "words": [
+   "ideas",
+   "share"
+  ],
+  "usage": "Use it to encourage a junior colleague who stays quiet in meetings.",
+  "leelaQ": "Do you share your ideas in meetings?",
+  "answer": "Yes, I share my ideas when I feel confident about them."
+ },
+ {
+  "en": "Your feedback helped me a lot.",
+  "tamil": "உங்க ஃபீட்பேக் எனக்கு ரொம்ப உதவியா இருந்துச்சு.",
+  "context": "Thanking a senior for useful comments.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Helped me a lot' is a warm way to thank someone for advice.",
+  "words": [
+   "feedback",
+   "helped"
+  ],
+  "usage": "Use it after a manager or senior gives you good feedback on your work.",
+  "leelaQ": "Who gave you useful feedback recently?",
+  "answer": "My team lead gave me good feedback on my last report."
+ },
+ {
+  "en": "We are going to launch the update next week.",
+  "tamil": "நாங்க அடுத்த வாரம் அப்டேட்டை வெளியிடப் போறோம்.",
+  "context": "Announcing a plan to the whole team.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' is good for planned events. 'Launch' means to start something new.",
+  "words": [
+   "launch",
+   "update"
+  ],
+  "usage": "Use it when you tell the team or a client about a planned release.",
+  "leelaQ": "What is your team planning for next week?",
+  "answer": "We are going to test the new feature and share it."
+ },
+ {
+  "en": "We have a new target for this month.",
+  "tamil": "இந்த மாசத்துக்கு எங்களுக்கு ஒரு புது டார்கெட் இருக்கு.",
+  "context": "Telling the team about a new goal.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Have' is used here for something that belongs to the team.",
+  "words": [
+   "target",
+   "month"
+  ],
+  "usage": "Use it when a manager shares monthly goals with the team.",
+  "leelaQ": "What target do you have this month?",
+  "answer": "I have to finish three tasks before the end of the month."
+ },
+ {
+  "en": "I could finish early because the team helped.",
+  "tamil": "டீம் உதவுனதால நான் சீக்கிரம் முடிக்க முடிஞ்சது.",
+  "context": "Crediting your teammates for a quick finish.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Could' is used here for ability in the past. 'Because' gives the reason.",
+  "words": [
+   "finish",
+   "because"
+  ],
+  "usage": "Use it to give credit to your team when your manager praises you.",
+  "leelaQ": "How does teamwork help you at work?",
+  "answer": "It helps me finish my tasks faster and learn new things."
+ },
+ {
+  "en": "Our team lead sends the daily summary at six.",
+  "tamil": "எங்க டீம் லீட் தினமும் ஆறு மணிக்கு சுருக்கத்தை அனுப்புவாரு.",
+  "context": "Explaining the daily routine to a new joiner.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "The simple present is used for fixed daily routines. 'Sends' takes an 's' after 'lead'.",
+  "words": [
+   "summary",
+   "sends"
+  ],
+  "usage": "Use it to explain office routines to a new person in your team.",
+  "leelaQ": "What daily reports do you send or receive?",
+  "answer": "I get a daily summary from my team lead in the evening."
+ },
+ {
+  "en": "I have attached the document to this email.",
+  "tamil": "இந்த மின்னஞ்சல்ல டாக்குமென்ட்டை இணைச்சிருக்கேன்.",
+  "context": "Writing the first lines of an email with a file.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have attached' is the usual phrase in emails. It tells the reader to check the file.",
+  "words": [
+   "attached",
+   "document"
+  ],
+  "usage": "Use it in an email when you send a file along with your message.",
+  "leelaQ": "What do you write when you send a file by email?",
+  "answer": "I write that I have attached the file and ask them to check it."
+ },
+ {
+  "en": "He explained the problem very clearly.",
+  "tamil": "அவர் பிரச்சனையை ரொம்ப தெளிவா விளக்குனாரு.",
+  "context": "Praising a colleague after a meeting.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Clearly' is an adverb that tells how he explained.",
+  "words": [
+   "explained",
+   "clearly"
+  ],
+  "usage": "Use it to praise a teammate in front of others or to your manager.",
+  "leelaQ": "Can you explain your work clearly to others?",
+  "answer": "Yes, I use simple words and give small examples."
+ },
+ {
+  "en": "Could you explain that point again?",
+  "tamil": "அந்த பாயின்ட்டை ஒருமுறை திரும்ப விளக்க முடியுமா?",
+  "context": "Asking a speaker to repeat politely.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could you' sounds more polite than 'can you'.",
+  "words": [
+   "explain",
+   "point"
+  ],
+  "usage": "Use it in a meeting or a call when you missed a detail.",
+  "leelaQ": "How do you ask someone to repeat something?",
+  "answer": "I say could you explain that again, please."
+ },
+ {
+  "en": "The meeting has been moved to four o'clock.",
+  "tamil": "மீட்டிங்கை நாலு மணிக்கு மாத்திட்டாங்க.",
+  "context": "Telling a colleague about a new meeting time.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has been moved' shows a change that is already done. It is common in office updates.",
+  "words": [
+   "moved"
+  ],
+  "usage": "Use it when you tell your team that a meeting time has changed.",
+  "leelaQ": "What do you say when a meeting time changes?",
+  "answer": "I tell my team that the meeting has been moved to a new time."
+ },
+ {
+  "en": "We have finished almost sixty percent of the work.",
+  "tamil": "கிட்டத்தட்ட அறுபது சதவீத வேலையை முடிச்சிட்டோம்.",
+  "context": "Giving a progress update to a manager.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Almost' means nearly. 'Have finished' links the work done to the present.",
+  "words": [
+   "finished",
+   "percent"
+  ],
+  "usage": "Use it when your manager asks how much work is complete.",
+  "leelaQ": "How much of your work is finished today?",
+  "answer": "I have finished about half of my tasks."
+ },
+ {
+  "en": "I agree with you, but I have one small concern.",
+  "tamil": "நீங்க சொல்றது சரிதான், ஆனா எனக்கு ஒரு சின்ன கவலை இருக்கு.",
+  "context": "Politely raising a doubt in a discussion.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Start with 'I agree' and then use 'but' to add your doubt. It sounds polite.",
+  "words": [
+   "agree",
+   "concern"
+  ],
+  "usage": "Use it in a meeting when you accept an idea but want to raise a point.",
+  "leelaQ": "How do you raise a doubt politely in a meeting?",
+  "answer": "I say I agree first, and then I explain my small concern."
+ },
+ {
+  "en": "Did the manager approve my leave?",
+  "tamil": "மேனேஜர் என் லீவை அங்கீகரிச்சாரா?",
+  "context": "Asking a teammate or HR about leave status.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Approve' means to officially say yes to something.",
+  "words": [
+   "approve",
+   "leave"
+  ],
+  "usage": "Use it with HR or a colleague when you are waiting for leave approval.",
+  "leelaQ": "When do you apply for leave in your company?",
+  "answer": "I apply at least a week before I need the leave."
+ },
+ {
+  "en": "The feedback was honest, and I accepted it.",
+  "tamil": "ஃபீட்பேக் நேர்மையா இருந்துச்சு, நானும் அதை ஏத்துக்கிட்டேன்.",
+  "context": "Telling a friend how you took criticism.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'And' joins two past actions. 'Accepted' means took it without anger.",
+  "words": [
+   "feedback",
+   "accepted"
+  ],
+  "usage": "Use it to show a mature attitude when you talk about criticism.",
+  "leelaQ": "How do you feel when you get feedback?",
+  "answer": "I feel a little nervous, but I try to learn from it."
+ },
+ {
+  "en": "I will send you the updated file by evening.",
+  "tamil": "சாயங்காலத்துக்குள்ள அப்டேட் பண்ண ஃபைலை அனுப்பிடறேன்.",
+  "context": "Promising a colleague a revised document.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' is used for a promise. 'By evening' sets a clear deadline.",
+  "words": [
+   "updated",
+   "evening"
+  ],
+  "usage": "Use it with a teammate who is waiting for your work.",
+  "leelaQ": "When do you usually send your reports to your manager?",
+  "answer": "I usually send them before lunch so my manager can check them."
+ },
+ {
+  "en": "What time is the review call?",
+  "tamil": "ரிவியூ கால் எத்தனை மணிக்கு?",
+  "context": "Asking a teammate about a meeting time.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A short and common question for schedules.",
+  "words": [
+   "time",
+   "review"
+  ],
+  "usage": "Use it with a colleague when you forgot the time of a meeting.",
+  "leelaQ": "What time does your office day start?",
+  "answer": "It starts at nine thirty in the morning."
+ }
+]

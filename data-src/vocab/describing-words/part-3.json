@@ -1,0 +1,352 @@
+[
+ {
+  "word": "secretly",
+  "meaning": "In a way that others do not know.",
+  "tamil": "ரகசியமாக",
+  "pos": "adverb",
+  "pron": "SEE-krit-lee",
+  "example": "She secretly planned a surprise party for him.",
+  "exampleTamil": "அவள் அவனுக்காக ரகசியமாக ஒரு ஆச்சரிய விருந்தைத் திட்டமிட்டாள்.",
+  "synonyms": [
+   "privately",
+   "covertly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "incredibly",
+  "meaning": "To a very great degree; hard to believe.",
+  "tamil": "நம்ப முடியாத அளவுக்கு",
+  "pos": "adverb",
+  "pron": "in-KRED-uh-blee",
+  "example": "The festival food was incredibly tasty.",
+  "exampleTamil": "திருவிழா உணவு நம்ப முடியாத அளவுக்கு சுவையாக இருந்தது.",
+  "synonyms": [
+   "extremely",
+   "amazingly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "terribly",
+  "meaning": "Very badly or very much.",
+  "tamil": "மிகவும் மோசமாக",
+  "pos": "adverb",
+  "pron": "TAIR-uh-blee",
+  "example": "I am terribly sorry for being late.",
+  "exampleTamil": "தாமதமாக வந்ததற்கு நான் மிகவும் வருந்துகிறேன்.",
+  "synonyms": [
+   "very",
+   "badly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fluently",
+  "meaning": "Smoothly and easily, without stopping.",
+  "tamil": "சரளமாக",
+  "pos": "adverb",
+  "pron": "FLOO-ent-lee",
+  "example": "She speaks English fluently.",
+  "exampleTamil": "அவள் ஆங்கிலத்தை சரளமாகப் பேசுகிறாள்.",
+  "synonyms": [
+   "smoothly",
+   "easily"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "warmly",
+  "meaning": "In a friendly and kind way.",
+  "tamil": "அன்புடன்",
+  "pos": "adverb",
+  "pron": "WORM-lee",
+  "example": "The family welcomed us warmly.",
+  "exampleTamil": "குடும்பத்தினர் எங்களை அன்புடன் வரவேற்றனர்.",
+  "synonyms": [
+   "kindly",
+   "cordially"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "firmly",
+  "meaning": "In a strong and steady way.",
+  "tamil": "உறுதியாக",
+  "pos": "adverb",
+  "pron": "FERM-lee",
+  "example": "He firmly refused to take the money.",
+  "exampleTamil": "அவன் பணத்தை வாங்க உறுதியாக மறுத்தான்.",
+  "synonyms": [
+   "strongly",
+   "steadily"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tightly",
+  "meaning": "In a close and firm way.",
+  "tamil": "இறுக்கமாக",
+  "pos": "adverb",
+  "pron": "TYTE-lee",
+  "example": "Hold the rope tightly with both hands.",
+  "exampleTamil": "கயிற்றை இரண்டு கைகளாலும் இறுக்கமாகப் பிடியுங்கள்.",
+  "synonyms": [
+   "firmly",
+   "securely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "loosely",
+  "meaning": "In a way that is not tight.",
+  "tamil": "தளர்வாக",
+  "pos": "adverb",
+  "pron": "LOOS-lee",
+  "example": "She tied her hair loosely.",
+  "exampleTamil": "அவள் தன் முடியைத் தளர்வாகக் கட்டினாள்.",
+  "synonyms": [
+   "slackly",
+   "freely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "steadily",
+  "meaning": "At a regular and even pace.",
+  "tamil": "சீராக",
+  "pos": "adverb",
+  "pron": "STED-ih-lee",
+  "example": "The price of onions is rising steadily.",
+  "exampleTamil": "வெங்காய விலை சீராக உயர்ந்து வருகிறது.",
+  "synonyms": [
+   "regularly",
+   "constantly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rapidly",
+  "meaning": "Very fast.",
+  "tamil": "வேகமாக",
+  "pos": "adverb",
+  "pron": "RAP-id-lee",
+  "example": "The city is growing rapidly.",
+  "exampleTamil": "நகரம் வேகமாக வளர்ந்து வருகிறது.",
+  "synonyms": [
+   "quickly",
+   "swiftly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "brisk",
+  "meaning": "Quick and full of energy.",
+  "tamil": "சுறுசுறுப்பான விரைவான",
+  "pos": "adjective",
+  "pron": "BRISK",
+  "example": "We went for a brisk walk after dinner.",
+  "exampleTamil": "இரவு உணவுக்குப் பிறகு நாங்கள் விறுவிறுப்பாக நடந்தோம்.",
+  "synonyms": [
+   "quick",
+   "lively"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hasty",
+  "meaning": "Done too quickly without enough thought.",
+  "tamil": "அவசரமான",
+  "pos": "adjective",
+  "pron": "HAY-stee",
+  "example": "Do not make a hasty decision.",
+  "exampleTamil": "அவசரமாக முடிவெடுக்க வேண்டாம்.",
+  "synonyms": [
+   "rushed",
+   "rash"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "accurate",
+  "meaning": "Correct and exact.",
+  "tamil": "துல்லியமான",
+  "pos": "adjective",
+  "pron": "AK-yuh-rit",
+  "example": "Is your watch accurate?",
+  "exampleTamil": "உங்கள் கடிகாரம் துல்லியமாக இருக்கிறதா?",
+  "synonyms": [
+   "exact",
+   "correct"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shabby",
+  "meaning": "Old, worn and in poor condition.",
+  "tamil": "பழைய, நைந்த",
+  "pos": "adjective",
+  "pron": "SHAB-ee",
+  "example": "He wore a shabby coat with torn sleeves.",
+  "exampleTamil": "அவன் கிழிந்த கைகளுடன் நைந்த கோட்டை அணிந்திருந்தான்.",
+  "synonyms": [
+   "worn",
+   "scruffy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spotless",
+  "meaning": "Perfectly clean.",
+  "tamil": "மிகத் தூய்மையான",
+  "pos": "adjective",
+  "pron": "SPOT-lis",
+  "example": "My mother keeps the kitchen spotless.",
+  "exampleTamil": "என் அம்மா சமையலறையை மிகத் தூய்மையாக வைத்திருக்கிறார்.",
+  "synonyms": [
+   "clean",
+   "immaculate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "odd",
+  "meaning": "Strange or unusual.",
+  "tamil": "விசித்திரமான",
+  "pos": "adjective",
+  "pron": "OD",
+  "example": "It is odd that he did not call me.",
+  "exampleTamil": "அவன் எனக்கு அழைக்காதது விசித்திரமாக இருக்கிறது.",
+  "synonyms": [
+   "strange",
+   "unusual"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "weird",
+  "meaning": "Very strange and hard to explain.",
+  "tamil": "வினோதமான",
+  "pos": "adjective",
+  "pron": "WEERD",
+  "example": "I heard a weird noise at night.",
+  "exampleTamil": "இரவில் நான் ஒரு வினோதமான சத்தம் கேட்டேன்.",
+  "synonyms": [
+   "bizarre",
+   "peculiar"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crunchy",
+  "meaning": "Making a loud sound when you bite it.",
+  "tamil": "மொறுமொறுப்பான",
+  "pos": "adjective",
+  "pron": "KRUN-chee",
+  "example": "The murukku was crunchy and tasty.",
+  "exampleTamil": "முறுக்கு மொறுமொறுப்பாகவும் சுவையாகவும் இருந்தது.",
+  "synonyms": [
+   "crisp",
+   "crispy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fluffy",
+  "meaning": "Soft and light like fur or cotton.",
+  "tamil": "பஞ்சு போன்ற மென்மையான",
+  "pos": "adjective",
+  "pron": "FLUF-ee",
+  "example": "The idlis were soft and fluffy.",
+  "exampleTamil": "இட்லிகள் மென்மையாகவும் பஞ்சு போலவும் இருந்தன.",
+  "synonyms": [
+   "soft",
+   "downy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sweltering",
+  "meaning": "Uncomfortably hot and humid.",
+  "tamil": "புழுக்கமான கடும் வெப்பமான",
+  "pos": "adjective",
+  "pron": "SWEL-ter-ing",
+  "example": "It was a sweltering afternoon in May.",
+  "exampleTamil": "மே மாதத்தில் அது கடும் வெப்பமான மதியம்.",
+  "synonyms": [
+   "scorching",
+   "sticky"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wrinkled",
+  "meaning": "Having small lines or folds on the surface.",
+  "tamil": "சுருக்கமுள்ள",
+  "pos": "adjective",
+  "pron": "RING-kuld",
+  "example": "My shirt is wrinkled, so I need to iron it.",
+  "exampleTamil": "என் சட்டை சுருக்கமாக இருக்கிறது, அதனால் அயர்ன் செய்ய வேண்டும்.",
+  "synonyms": [
+   "creased",
+   "crumpled"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crooked",
+  "meaning": "Not straight; bent or twisted.",
+  "tamil": "வளைந்த",
+  "pos": "adjective",
+  "pron": "KROOK-id",
+  "example": "The picture on the wall is crooked.",
+  "exampleTamil": "சுவரில் உள்ள படம் சாய்வாக இருக்கிறது.",
+  "synonyms": [
+   "bent",
+   "twisted"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fragrant",
+  "meaning": "Having a sweet, pleasant smell.",
+  "tamil": "நறுமணமுள்ள",
+  "pos": "adjective",
+  "pron": "FRAY-grunt",
+  "example": "The garden was full of fragrant jasmine.",
+  "exampleTamil": "தோட்டம் நறுமணமுள்ள மல்லிகைப் பூக்களால் நிறைந்திருந்தது.",
+  "synonyms": [
+   "aromatic",
+   "sweet-smelling"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vibrant",
+  "meaning": "Full of life, energy and bright color.",
+  "tamil": "துடிப்பான",
+  "pos": "adjective",
+  "pron": "VY-brunt",
+  "example": "The city has a vibrant street market.",
+  "exampleTamil": "அந்த நகரத்தில் துடிப்பான தெருச் சந்தை உள்ளது.",
+  "synonyms": [
+   "lively",
+   "colorful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "luxurious",
+  "meaning": "Very comfortable and expensive.",
+  "tamil": "ஆடம்பரமான",
+  "pos": "adjective",
+  "pron": "lug-ZHOOR-ee-us",
+  "example": "They stayed in a luxurious hotel by the sea.",
+  "exampleTamil": "அவர்கள் கடற்கரையோர ஆடம்பர விடுதியில் தங்கினர்.",
+  "synonyms": [
+   "lavish",
+   "grand"
+  ],
+  "level": "intermediate"
+ }
+]

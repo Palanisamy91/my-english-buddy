@@ -1,0 +1,340 @@
+[
+ {
+  "word": "student",
+  "meaning": "A person who studies at a school or college.",
+  "tamil": "மாணவர்",
+  "pos": "noun",
+  "pron": "STOO-dunt",
+  "example": "Every student must wear the school uniform.",
+  "exampleTamil": "ஒவ்வொரு மாணவரும் பள்ளிச் சீருடை அணிய வேண்டும்.",
+  "synonyms": [
+   "learner",
+   "pupil"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "teacher",
+  "meaning": "A person whose job is to teach students.",
+  "tamil": "ஆசிரியர்",
+  "pos": "noun",
+  "pron": "TEE-chur",
+  "example": "Our teacher explains every lesson very clearly.",
+  "exampleTamil": "எங்கள் ஆசிரியர் ஒவ்வொரு பாடத்தையும் மிகத் தெளிவாக விளக்குகிறார்.",
+  "synonyms": [
+   "instructor",
+   "tutor"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "classroom",
+  "meaning": "A room in a school where students are taught.",
+  "tamil": "வகுப்பறை",
+  "pos": "noun",
+  "pron": "KLAS-room",
+  "example": "The classroom was quiet before the exam started.",
+  "exampleTamil": "தேர்வு தொடங்கும் முன் வகுப்பறை அமைதியாக இருந்தது.",
+  "synonyms": [
+   "schoolroom"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "homework",
+  "meaning": "School work that a student does at home.",
+  "tamil": "வீட்டுப்பாடம்",
+  "pos": "noun",
+  "pron": "HOHM-wurk",
+  "example": "I finish my homework before I watch television.",
+  "exampleTamil": "நான் தொலைக்காட்சி பார்ப்பதற்கு முன் வீட்டுப்பாடத்தை முடித்து விடுவேன்.",
+  "synonyms": [
+   "assignment"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "textbook",
+  "meaning": "A book used for studying a particular subject.",
+  "tamil": "பாடப்புத்தகம்",
+  "pos": "noun",
+  "pron": "TEKST-buk",
+  "example": "Please open your science textbook to page twenty.",
+  "exampleTamil": "உங்கள் அறிவியல் பாடப்புத்தகத்தில் இருபதாம் பக்கத்தைத் திறங்கள்.",
+  "synonyms": [
+   "coursebook"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "exam",
+  "meaning": "A formal test of what you know about a subject.",
+  "tamil": "தேர்வு",
+  "pos": "noun",
+  "pron": "ig-ZAM",
+  "example": "My maths exam is on Monday morning.",
+  "exampleTamil": "என் கணிதத் தேர்வு திங்கள் காலை நடைபெறும்.",
+  "synonyms": [
+   "test",
+   "examination"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quiz",
+  "meaning": "A short test with quick questions.",
+  "tamil": "சிறு வினாடி வினா",
+  "pos": "noun",
+  "pron": "KWIZ",
+  "example": "We had a quick quiz on history today.",
+  "exampleTamil": "இன்று வரலாறு பற்றி ஒரு சிறு வினாடி வினா நடந்தது.",
+  "synonyms": [
+   "short test"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "marks",
+  "meaning": "Points or scores a student gets in a test.",
+  "tamil": "மதிப்பெண்கள்",
+  "pos": "noun",
+  "pron": "MARKS",
+  "example": "She got full marks in the English paper.",
+  "exampleTamil": "அவள் ஆங்கிலத் தாளில் முழு மதிப்பெண் பெற்றாள்.",
+  "synonyms": [
+   "score",
+   "points"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pencil",
+  "meaning": "A thin wooden tool with a lead centre used for writing or drawing.",
+  "tamil": "பென்சில்",
+  "pos": "noun",
+  "pron": "PEN-sul",
+  "example": "Bring a pencil and an eraser for the drawing class.",
+  "exampleTamil": "ஓவிய வகுப்புக்கு ஒரு பென்சிலும் அழிப்பானும் கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "lead pencil"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lesson",
+  "meaning": "A period of time when a teacher teaches something.",
+  "tamil": "பாடம்",
+  "pos": "noun",
+  "pron": "LES-un",
+  "example": "Today's lesson is about the water cycle.",
+  "exampleTamil": "இன்றைய பாடம் நீர் சுழற்சி பற்றியது.",
+  "synonyms": [
+   "class",
+   "period"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "school",
+  "meaning": "A place where children go to learn.",
+  "tamil": "பள்ளி",
+  "pos": "noun",
+  "pron": "SKOOL",
+  "example": "My school starts at nine in the morning.",
+  "exampleTamil": "என் பள்ளி காலை ஒன்பது மணிக்குத் தொடங்கும்.",
+  "synonyms": [
+   "academy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "college",
+  "meaning": "A place where people study after finishing school.",
+  "tamil": "கல்லூரி",
+  "pos": "noun",
+  "pron": "KOL-ij",
+  "example": "My brother goes to college by bus.",
+  "exampleTamil": "என் அண்ணன் பேருந்தில் கல்லூரிக்குப் போகிறார்.",
+  "synonyms": [
+   "institute"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "university",
+  "meaning": "A large place where people study for a degree.",
+  "tamil": "பல்கலைக்கழகம்",
+  "pos": "noun",
+  "pron": "yoo-nuh-VUR-suh-tee",
+  "example": "She wants to study medicine at a good university.",
+  "exampleTamil": "அவள் ஒரு நல்ல பல்கலைக்கழகத்தில் மருத்துவம் படிக்க விரும்புகிறாள்.",
+  "synonyms": [
+   "varsity"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pupil",
+  "meaning": "A child who is taught at a school.",
+  "tamil": "பள்ளி மாணவர்",
+  "pos": "noun",
+  "pron": "PYOO-pul",
+  "example": "The new pupil sat next to me.",
+  "exampleTamil": "புதிய மாணவர் என் அருகில் அமர்ந்தார்.",
+  "synonyms": [
+   "student",
+   "schoolchild"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "principal",
+  "meaning": "The head of a school or college.",
+  "tamil": "முதல்வர்",
+  "pos": "noun",
+  "pron": "PRIN-suh-pul",
+  "example": "The principal gave a short speech at the assembly.",
+  "exampleTamil": "முதல்வர் காலைக் கூட்டத்தில் ஒரு சிறு உரை ஆற்றினார்.",
+  "synonyms": [
+   "head",
+   "headmaster"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "kindergarten",
+  "meaning": "A school for very young children before regular school.",
+  "tamil": "மழலையர் பள்ளி",
+  "pos": "noun",
+  "pron": "KIN-dur-gar-tun",
+  "example": "My little sister has just started kindergarten.",
+  "exampleTamil": "என் தங்கை இப்போதுதான் மழலையர் பள்ளியில் சேர்ந்தாள்.",
+  "synonyms": [
+   "nursery",
+   "preschool"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chalk",
+  "meaning": "A soft white stick used for writing on a blackboard.",
+  "tamil": "சுண்ணக்கட்டி",
+  "pos": "noun",
+  "pron": "CHAWK",
+  "example": "The teacher wrote the answer with a piece of chalk.",
+  "exampleTamil": "ஆசிரியர் ஒரு சுண்ணக்கட்டியால் விடையை எழுதினார்.",
+  "synonyms": [
+   "crayon"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "blackboard",
+  "meaning": "A dark board in a classroom that teachers write on.",
+  "tamil": "கரும்பலகை",
+  "pos": "noun",
+  "pron": "BLAK-bord",
+  "example": "Please copy the notes from the blackboard.",
+  "exampleTamil": "தயவுசெய்து கரும்பலகையிலிருந்து குறிப்புகளைப் பார்த்து எழுதுங்கள்.",
+  "synonyms": [
+   "chalkboard"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "calculator",
+  "meaning": "A small machine that does maths for you.",
+  "tamil": "கணிப்பான்",
+  "pos": "noun",
+  "pron": "KAL-kyuh-lay-tur",
+  "example": "You may use a calculator in the maths test.",
+  "exampleTamil": "கணிதத் தேர்வில் நீங்கள் கணிப்பானைப் பயன்படுத்தலாம்.",
+  "synonyms": [
+   "counting machine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dictionary",
+  "meaning": "A book that lists words and explains their meanings.",
+  "tamil": "அகராதி",
+  "pos": "noun",
+  "pron": "DIK-shuh-nair-ee",
+  "example": "I looked up the new word in the dictionary.",
+  "exampleTamil": "நான் புதிய சொல்லை அகராதியில் பார்த்தேன்.",
+  "synonyms": [
+   "word book",
+   "lexicon"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "essay",
+  "meaning": "A short piece of writing on one topic.",
+  "tamil": "கட்டுரை",
+  "pos": "noun",
+  "pron": "ES-ay",
+  "example": "We have to write an essay on our village.",
+  "exampleTamil": "நாம் நம் கிராமத்தைப் பற்றி ஒரு கட்டுரை எழுத வேண்டும்.",
+  "synonyms": [
+   "composition",
+   "article"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chapter",
+  "meaning": "One main section of a book.",
+  "tamil": "அத்தியாயம்",
+  "pos": "noun",
+  "pron": "CHAP-tur",
+  "example": "I read two chapters of the novel last night.",
+  "exampleTamil": "நேற்று இரவு நான் அந்த நாவலின் இரண்டு அத்தியாயங்களைப் படித்தேன்.",
+  "synonyms": [
+   "section",
+   "part"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "practice",
+  "meaning": "Doing something again and again to get better at it.",
+  "tamil": "பயிற்சி",
+  "pos": "noun",
+  "pron": "PRAK-tis",
+  "example": "English speaking needs a lot of practice every day.",
+  "exampleTamil": "ஆங்கிலம் பேசுவதற்கு தினமும் நிறைய பயிற்சி தேவை.",
+  "synonyms": [
+   "training",
+   "drill"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "study",
+  "meaning": "To spend time learning about something from books or lessons.",
+  "tamil": "படி, கற்றுக்கொள்",
+  "pos": "verb",
+  "pron": "STUD-ee",
+  "example": "I study for two hours every evening.",
+  "exampleTamil": "நான் தினமும் மாலை இரண்டு மணி நேரம் படிக்கிறேன்.",
+  "synonyms": [
+   "learn",
+   "revise"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fail",
+  "meaning": "To not pass a test or exam.",
+  "tamil": "தோல்வியடை",
+  "pos": "verb",
+  "pron": "FAYL",
+  "example": "He was sad because he failed the science test.",
+  "exampleTamil": "அறிவியல் தேர்வில் தோல்வியடைந்ததால் அவன் வருத்தமாக இருந்தான்.",
+  "synonyms": [
+   "flunk"
+  ],
+  "level": "beginner"
+ }
+]

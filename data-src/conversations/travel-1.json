@@ -1,0 +1,398 @@
+[
+ {
+  "category": "travel",
+  "context": "Asking about the train platform",
+  "level": "beginner",
+  "en": "Excuse me, which platform does the Chennai Express leave from?",
+  "tamil": "மன்னிக்கவும், சென்னை எக்ஸ்பிரஸ் எந்த பிளாட்பாரத்திலிருந்து புறப்படும்?",
+  "reply": "Platform number four. You'd better hurry, it leaves in ten minutes.",
+  "replyTamil": "நான்காவது பிளாட்பாரம். சீக்கிரம் போங்க, பத்து நிமிஷத்துல கிளம்பிடும்."
+ },
+ {
+  "category": "travel",
+  "context": "Booking at the railway counter",
+  "level": "intermediate",
+  "en": "I booked on IRCTC, but my ticket is still on the waiting list. What should I do?",
+  "tamil": "நான் ஐஆர்சிடிசியில புக் பண்ணினேன், ஆனா என் டிக்கெட் இன்னும் வெயிட்டிங் லிஸ்ட்லயே இருக்கு. என்ன பண்ணலாம்?",
+  "reply": "Check the chart status closer to departure. Sometimes it gets confirmed at the last minute, and you can try Tatkal too.",
+  "replyTamil": "புறப்படுற நேரம் நெருங்கும்போது சார்ட் நிலைமையைப் பாருங்க. சில சமயம் கடைசி நேரத்துல கன்ஃபார்ம் ஆகிடும், தட்காலும் முயற்சி பண்ணலாம்."
+ },
+ {
+  "category": "travel",
+  "context": "At the ticket counter",
+  "level": "beginner",
+  "en": "Next, please! Where would you like to go?",
+  "tamil": "அடுத்தவங்க வாங்க! நீங்க எங்க போகணும்?",
+  "reply": "Two tickets to Madurai, please. Sleeper class, for tonight's train.",
+  "replyTamil": "மதுரைக்கு ரெண்டு டிக்கெட் குடுங்க. ஸ்லீப்பர் கிளாஸ், இன்னைக்கு ராத்திரி ட்ரெயினுக்கு."
+ },
+ {
+  "category": "travel",
+  "context": "Finding your coach on the platform",
+  "level": "intermediate",
+  "en": "Where's the coach position indicator? I can't find my coach, S7.",
+  "tamil": "கோச் பொசிஷன் போர்டு எங்க இருக்கு? என்னோட கோச் எஸ்7 எனக்குக் கிடைக்கல.",
+  "reply": "It's on that board near the stairs. Usually S7 stops somewhere in the middle of the platform.",
+  "replyTamil": "அதோ படிக்கட்டு பக்கத்துல இருக்குற போர்டுல இருக்கு. பொதுவா எஸ்7 பிளாட்பாரத்தோட நடுவுல எங்கயாவது நிக்கும்."
+ },
+ {
+  "category": "travel",
+  "context": "Someone is in your reserved seat",
+  "level": "beginner",
+  "en": "Sorry, I think you are sitting in my seat. It is twenty-four B.",
+  "tamil": "மன்னிக்கவும், நீங்கள் என் சீட்டில் உட்கார்ந்திருக்கிறீர்கள் என்று நினைக்கிறேன். அது இருபத்து நான்கு பி.",
+  "reply": "Oh, is it? Let me check my ticket again. Sorry, I misread the number!",
+  "replyTamil": "ஓ, அப்படியா? என் டிக்கெட்டை மறுபடி பார்க்கிறேன். மன்னிக்கவும், நம்பரை தவறாகப் படித்துவிட்டேன்!"
+ },
+ {
+  "category": "travel",
+  "context": "Waiting for a delayed train",
+  "level": "intermediate",
+  "en": "The announcement says the Pallavan Express is delayed by thirty minutes.",
+  "tamil": "பல்லவன் எக்ஸ்பிரஸ் முப்பது நிமிஷம் லேட்டுன்னு அறிவிப்பு வந்திருக்கு.",
+  "reply": "Oh no. Let's grab some tea and wait in the waiting room then.",
+  "replyTamil": "அடடா. சரி, டீ குடிச்சுட்டு வெயிட்டிங் ரூம்ல உட்கார்ந்து காத்திருக்கலாம்."
+ },
+ {
+  "category": "travel",
+  "context": "Tatkal booking tips",
+  "level": "intermediate",
+  "en": "Tatkal booking opens at ten sharp, so be ready with the passenger details.",
+  "tamil": "தட்கால் புக்கிங் சரியா பத்து மணிக்குத் தொடங்கும், அதனால பயணிகளோட விவரங்களை ரெடியா வச்சுக்கோங்க.",
+  "reply": "I've saved everything in autofill already. Last time the payment page hung and I lost the seats.",
+  "replyTamil": "எல்லாத்தையும் ஆட்டோஃபில்ல சேவ் பண்ணிட்டேன். போன தடவை பேமெண்ட் பேஜ் ஹேங் ஆகி சீட் போயிடுச்சு."
+ },
+ {
+  "category": "travel",
+  "context": "Hoping for an AC upgrade",
+  "level": "advanced",
+  "en": "I was hoping to upgrade to AC, but apparently there's no vacancy whatsoever.",
+  "tamil": "ஏசிக்கு அப்கிரேட் பண்ணலாம்னு நினைச்சேன், ஆனா ஒரு இடம் கூட காலி இல்லையாம்.",
+  "reply": "Fingers crossed, then. Ask the ticket examiner once you board; he might sort something out if a berth frees up.",
+  "replyTamil": "அப்போ கடவுள்தான் பார்த்துக்கணும். ஏறினதும் டிக்கெட் பரிசோதகர்கிட்ட கேளுங்க, பெர்த் காலியானா ஏதாவது ஏற்பாடு பண்ணுவார்."
+ },
+ {
+  "category": "travel",
+  "context": "Checking the ticket on arrival",
+  "level": "beginner",
+  "en": "Do I need a printout of the ticket?",
+  "tamil": "டிக்கெட்டை பிரிண்ட் எடுத்துட்டு வரணுமா?",
+  "reply": "No, the SMS and an ID card are enough. I've saved the e-ticket on my phone too.",
+  "replyTamil": "வேண்டாம், எஸ்எம்எஸ்ஸும் அடையாள அட்டையும் போதும். நான் இ-டிக்கெட்டை போன்லயும் சேவ் பண்ணி வச்சிருக்கேன்."
+ },
+ {
+  "category": "travel",
+  "context": "Asking which bus goes where",
+  "level": "beginner",
+  "en": "Does this bus go to Koyambedu?",
+  "tamil": "இந்த பஸ் கோயம்பேடு போகுமா?",
+  "reply": "Yes, it does. Hop in, it's about to leave.",
+  "replyTamil": "ஆமா, போகும். ஏறுங்க, இப்போ கிளம்பிடும்."
+ },
+ {
+  "category": "travel",
+  "context": "Lost bus pass",
+  "level": "intermediate",
+  "en": "I've lost my bus pass. Can I get a duplicate from the depot?",
+  "tamil": "என்னோட பஸ் பாஸ் தொலைஞ்சு போச்சு. டெப்போவுல டூப்ளிகேட் வாங்க முடியுமா?",
+  "reply": "Yes, you can. Carry your ID proof and a passport photo, and they'll issue a new one for a small fee.",
+  "replyTamil": "முடியும். அடையாள அட்டையும் பாஸ்போர்ட் சைஸ் போட்டோவும் எடுத்துட்டுப் போங்க, கொஞ்சம் கட்டணம் வாங்கிட்டு புதுசு தருவாங்க."
+ },
+ {
+  "category": "travel",
+  "context": "Telling the conductor your stop",
+  "level": "beginner",
+  "en": "Where are you getting down?",
+  "tamil": "நீங்க எங்க இறங்கணும்?",
+  "reply": "At the Anna Nagar bus stand. Please tell me when it comes.",
+  "replyTamil": "அண்ணா நகர் பஸ் ஸ்டாண்ட்ல. அது வரும்போது சொல்லுங்க, ப்ளீஸ்."
+ },
+ {
+  "category": "travel",
+  "context": "Seat swap on a long bus ride",
+  "level": "intermediate",
+  "en": "I get travel sick at the back. Would you mind swapping seats with me?",
+  "tamil": "பின்னாடி உட்கார்ந்தா எனக்கு வாந்தி வர மாதிரி இருக்கும். நாம சீட் மாத்திக்கலாமா?",
+  "reply": "Not at all. Take the window seat, I'm fine with the aisle.",
+  "replyTamil": "தாராளமா. நீங்க ஜன்னல் சீட்ல உட்காருங்க, எனக்கு நடைபாதை பக்கம் ஓகே."
+ },
+ {
+  "category": "travel",
+  "context": "Crowded bus",
+  "level": "beginner",
+  "en": "Please move inside, there's plenty of space at the back.",
+  "tamil": "உள்ள போங்க, பின்னாடி நிறைய இடம் இருக்கு.",
+  "reply": "Sorry, I'm trying. It's very crowded today.",
+  "replyTamil": "மன்னிக்கணும், முயற்சி பண்றேன். இன்னைக்கு ரொம்ப கூட்டமா இருக்கு."
+ },
+ {
+  "category": "travel",
+  "context": "Ticket machine problem on a bus",
+  "level": "intermediate",
+  "en": "The ticket machine isn't working, so we're accepting only UPI today.",
+  "tamil": "டிக்கெட் மெஷின் வேலை செய்யல, அதனால இன்னைக்கு யுபிஐ மட்டும்தான் வாங்குறோம்.",
+  "reply": "That's fine with me. Give me a second to scan the code.",
+  "replyTamil": "எனக்கு அது ஓகேதான். கோடை ஸ்கேன் பண்ண ஒரு நிமிஷம் குடுங்க."
+ },
+ {
+  "category": "travel",
+  "context": "Next bus to another city",
+  "level": "beginner",
+  "en": "When is the next bus to Coimbatore?",
+  "tamil": "கோயம்புத்தூருக்கு அடுத்த பஸ் எப்போ?",
+  "reply": "There's one at nine thirty. It's an AC sleeper, so it costs a bit more.",
+  "replyTamil": "ஒன்பதரைக்கு ஒண்ணு இருக்கு. அது ஏசி ஸ்லீப்பர், அதனால கொஞ்சம் அதிகமா ஆகும்."
+ },
+ {
+  "category": "travel",
+  "context": "Express or ordinary bus",
+  "level": "intermediate",
+  "en": "Is this an express bus, or does it stop at every village?",
+  "tamil": "இது எக்ஸ்பிரஸ் பஸ்ஸா, இல்ல ஒவ்வொரு கிராமத்துலயும் நிக்குமா?",
+  "reply": "It's supposed to be express, but the driver stops wherever people wave. We'll reach in about four hours.",
+  "replyTamil": "எக்ஸ்பிரஸ்ன்னுதான் சொல்றாங்க, ஆனா கை காட்டுற இடத்துல எல்லாம் டிரைவர் நிறுத்துவார். நாலு மணி நேரத்துல போயிடுவோம்."
+ },
+ {
+  "category": "travel",
+  "context": "Missing the last bus",
+  "level": "advanced",
+  "en": "The last bus has already left, and I'm stranded here with no cab in sight.",
+  "tamil": "கடைசி பஸ் ஏற்கனவே போயிடுச்சு, நான் இங்க மாட்டிக்கிட்டேன், கேப் கூட எதுவும் தெரியல.",
+  "reply": "Don't panic. Try the private bus stand across the road; they often run late-night services, or I can help you book a ride.",
+  "replyTamil": "பதறாதீங்க. ரோட்டுக்கு அந்தப் பக்கம் இருக்குற தனியார் பஸ் ஸ்டாண்டுல பாருங்க, அவங்க ராத்திரி நேரத்துலயும் ஓட்டுவாங்க, இல்லன்னா நான் ஒரு ரைடு புக் பண்ண உதவறேன்."
+ },
+ {
+  "category": "travel",
+  "context": "Airport check-in counter",
+  "level": "beginner",
+  "en": "Passport and ticket, please.",
+  "tamil": "பாஸ்போர்ட்டும் டிக்கெட்டும் குடுங்க.",
+  "reply": "Here you are. Can I get a window seat?",
+  "replyTamil": "இந்தாங்க. எனக்கு ஜன்னல் சீட் கிடைக்குமா?"
+ },
+ {
+  "category": "travel",
+  "context": "Security check at the airport",
+  "level": "intermediate",
+  "en": "Please remove your laptop and belt and place them in the tray.",
+  "tamil": "உங்க லேப்டாப்பையும் பெல்ட்டையும் எடுத்து டிரேயில வைங்க.",
+  "reply": "Sure. Do I need to take my phone out too?",
+  "replyTamil": "சரிங்க. என் போனையும் வெளிய எடுக்கணுமா?"
+ },
+ {
+  "category": "travel",
+  "context": "Choosing a seat",
+  "level": "beginner",
+  "en": "Would you like a window or an aisle seat?",
+  "tamil": "உங்களுக்கு ஜன்னல் சீட் வேணுமா, நடைபாதை சீட் வேணுமா?",
+  "reply": "Window, please. I like watching the clouds.",
+  "replyTamil": "ஜன்னல் சீட் குடுங்க. எனக்கு மேகங்களைப் பார்க்கப் பிடிக்கும்."
+ },
+ {
+  "category": "travel",
+  "context": "Overbooked flight",
+  "level": "advanced",
+  "en": "The flight to Delhi is overbooked, and they're asking if anyone would volunteer for a later one.",
+  "tamil": "டெல்லி விமானத்துல டிக்கெட் அதிகமா புக் ஆயிடுச்சு, யாராவது அடுத்த ஃப்ளைட்டுல வர சம்மதமான்னு கேக்குறாங்க.",
+  "reply": "Hmm, depends on the compensation. If they offer a voucher and a hotel stay, I might consider it since I'm not in a rush.",
+  "replyTamil": "ம்ம், நஷ்ட ஈடு என்னன்னு பொறுத்தது. வவுச்சரும் ஹோட்டல் தங்குமிடமும் தந்தா யோசிப்பேன், எனக்கு அவசரம் இல்ல."
+ },
+ {
+  "category": "travel",
+  "context": "Power bank in hand baggage",
+  "level": "intermediate",
+  "en": "Is it okay if I carry this power bank in my hand baggage?",
+  "tamil": "இந்த பவர் பேங்கை கைப்பையில எடுத்துட்டுப் போகலாமா?",
+  "reply": "Yes, power banks must go in the cabin bag, not the checked one. Just keep it handy for the security check.",
+  "replyTamil": "ஆமா, பவர் பேங்க் கேபின் பையிலதான் இருக்கணும், செக்-இன் பையில வைக்கக் கூடாது. செக்யூரிட்டி செக்குக்கு எடுக்க வசதியா வச்சுக்கோங்க."
+ },
+ {
+  "category": "travel",
+  "context": "Boarding gate information",
+  "level": "beginner",
+  "en": "Your flight is boarding at gate twelve.",
+  "tamil": "உங்க ஃப்ளைட் கேட் பன்னிரண்டுல ஏறுது.",
+  "reply": "Thank you. Is it far from here?",
+  "replyTamil": "நன்றி. இங்கிருந்து தூரமா?"
+ },
+ {
+  "category": "travel",
+  "context": "Long layover plans",
+  "level": "advanced",
+  "en": "I'm dreading the layover in Dubai; it's almost six hours and I'm bound to get bored.",
+  "tamil": "துபாய்ல இருக்குற லேஓவரை நினைச்சாலே பயமா இருக்கு, கிட்டத்தட்ட ஆறு மணி நேரம், கண்டிப்பா போரடிக்கும்.",
+  "reply": "See if your card gets you into the lounge. Otherwise, take a walk, grab a bite, and catch up on that series.",
+  "replyTamil": "உங்க கார்டுல லவுஞ்சுக்குள்ள போக முடியுமான்னு பாருங்க. இல்லன்னா கொஞ்சம் நடங்க, எதையாவது சாப்பிடுங்க, அந்த சீரிஸையும் பார்த்து முடிச்சுடலாம்."
+ },
+ {
+  "category": "travel",
+  "context": "Web check-in and bag drop",
+  "level": "intermediate",
+  "en": "I've done the web check-in, so can I just drop my bag?",
+  "tamil": "நான் வெப் செக்-இன் பண்ணிட்டேன், அதனால பையை மட்டும் குடுத்தா போதுமா?",
+  "reply": "Yes, the bag drop counter is on your left. Keep your boarding pass ready.",
+  "replyTamil": "ஆமா, பேக் டிராப் கவுண்டர் உங்க இடது பக்கம் இருக்கு. போர்டிங் பாஸை ரெடியா வச்சுக்கோங்க."
+ },
+ {
+  "category": "travel",
+  "context": "Overweight suitcase",
+  "level": "beginner",
+  "en": "Your bag is overweight by three kilos.",
+  "tamil": "உங்க பை மூணு கிலோ அதிகமா இருக்கு.",
+  "reply": "Oh, sorry. Can I take out a few things and put them in my backpack?",
+  "replyTamil": "ஐயோ, மன்னிக்கணும். சில பொருட்களை எடுத்து என் முதுகுப் பையில வச்சுக்கலாமா?"
+ },
+ {
+  "category": "travel",
+  "context": "Extra baggage charges",
+  "level": "intermediate",
+  "en": "I'll have to charge you for the extra baggage. It's five hundred rupees per kilo.",
+  "tamil": "அதிக லக்கேஜுக்கு நான் கட்டணம் வாங்கணும். கிலோவுக்கு ஐநூறு ரூபாய்.",
+  "reply": "That's expensive! Let me move some books into my hand baggage instead; it should come under the limit.",
+  "replyTamil": "ரொம்ப அதிகமா இருக்கே! சில புத்தகங்களை கைப்பையில மாத்திடறேன், அப்போ வரம்புக்குள்ள வந்துடும்."
+ },
+ {
+  "category": "travel",
+  "context": "Finding the baggage belt",
+  "level": "beginner",
+  "en": "Which belt is the Chennai flight luggage on?",
+  "tamil": "சென்னை ஃப்ளைட்டோட லக்கேஜ் எந்த பெல்ட்டுல வரும்?",
+  "reply": "Belt number three. The bags are just starting to come out.",
+  "replyTamil": "மூணாவது பெல்ட். பைகள் இப்போதான் வர ஆரம்பிக்குது."
+ },
+ {
+  "category": "travel",
+  "context": "Broken zip on a suitcase",
+  "level": "intermediate",
+  "en": "The zip of my suitcase is broken, and it came out of the belt like this.",
+  "tamil": "என் சூட்கேஸோட ஜிப் உடைஞ்சிருக்கு, பெல்ட்டுல வரும்போதே இப்படித்தான் வந்தது.",
+  "reply": "Please file a damage report at the airline counter before you leave the airport, and keep the baggage tag.",
+  "replyTamil": "ஏர்போர்ட்டை விட்டுப் போறதுக்கு முன்னாடி ஏர்லைன் கவுண்டர்ல சேதம் பத்தி புகார் குடுங்க, பேக்கேஜ் டேக்கையும் பத்திரமா வச்சுக்கோங்க."
+ },
+ {
+  "category": "travel",
+  "context": "Wrong suitcase mix-up",
+  "level": "beginner",
+  "en": "This suitcase isn't mine. Mine is black with a red ribbon.",
+  "tamil": "இந்த சூட்கேஸ் என்னோடது இல்ல. என்னோடது கருப்பு, சிவப்பு ரிப்பன் கட்டியிருக்கும்.",
+  "reply": "Oh, sorry! I picked it by mistake. They look so similar.",
+  "replyTamil": "ஐயோ, மன்னிக்கணும்! தெரியாம எடுத்துட்டேன். ரெண்டும் ஒரே மாதிரி இருக்கு."
+ },
+ {
+  "category": "travel",
+  "context": "Damaged trolley bag",
+  "level": "intermediate",
+  "en": "My trolley bag wheels got damaged during the flight. Who do I talk to?",
+  "tamil": "ஃப்ளைட்ல என் டிராலி பையோட சக்கரங்கள் உடைஞ்சு போச்சு. யார்கிட்ட பேசணும்?",
+  "reply": "Go to the baggage claim office near the exit. Show them your tag and take a photo of the damage as proof.",
+  "replyTamil": "வெளியேறும் வழி பக்கத்துல இருக்குற பேக்கேஜ் க்ளெய்ம் ஆபீசுக்குப் போங்க. டேக்கைக் காட்டுங்க, சேதத்தை ஆதாரத்துக்கு போட்டோ எடுத்துக்கோங்க."
+ },
+ {
+  "category": "travel",
+  "context": "Keeping an eye on your bags",
+  "level": "beginner",
+  "en": "Please keep your bags with you at all times.",
+  "tamil": "உங்க பைகளை எப்பவும் உங்ககூடவே வச்சுக்கோங்க.",
+  "reply": "Of course. I'm not leaving it for a second.",
+  "replyTamil": "கண்டிப்பா. ஒரு நொடி கூட அதை விட்டுப் போக மாட்டேன்."
+ },
+ {
+  "category": "travel",
+  "context": "Cabin bag size rules",
+  "level": "intermediate",
+  "en": "Is a cabin bag this size allowed, or do I need to check it in?",
+  "tamil": "இந்த சைஸ் கேபின் பேக் அனுமதிக்கப்படுமா, இல்ல செக்-இன் பண்ணணுமா?",
+  "reply": "Seven kilos is the limit, and I think it's slightly bigger than the size box. Let's measure it at the counter.",
+  "replyTamil": "ஏழு கிலோதான் வரம்பு, இது சைஸ் பெட்டியை விட கொஞ்சம் பெரிசுன்னு நினைக்கிறேன். கவுண்டர்ல அளந்து பார்ப்போம்."
+ },
+ {
+  "category": "travel",
+  "context": "Packing fragile items",
+  "level": "advanced",
+  "en": "I wouldn't put anything fragile in the checked luggage; they throw bags around like it's nothing.",
+  "tamil": "உடையக்கூடிய எதையும் செக்-இன் லக்கேஜ்ல நான் வைக்க மாட்டேன்; பைகளை அவங்க எப்படி தூக்கி எறியறாங்கன்னு தெரியாதா.",
+  "reply": "Good point. I'll hand-carry the really delicate things and wrap the rest in my clothes, just in case.",
+  "replyTamil": "நல்ல விஷயம். ரொம்ப நொறுங்கக்கூடியதை கையில எடுத்துட்டுப் போறேன், மத்ததை துணிக்குள்ள சுத்தி வைக்கிறேன், எதுக்கும் இருக்கட்டும்."
+ },
+ {
+  "category": "travel",
+  "context": "Hiring an auto",
+  "level": "beginner",
+  "en": "Auto, sir? Where do you want to go?",
+  "tamil": "ஆட்டோ வேணுமா சார்? எங்க போகணும்?",
+  "reply": "Marina Beach. Will you come on the meter?",
+  "replyTamil": "மெரினா பீச். மீட்டர் போட்டு வருவீங்களா?"
+ },
+ {
+  "category": "travel",
+  "context": "Cab arriving soon",
+  "level": "beginner",
+  "en": "Your cab driver is two minutes away.",
+  "tamil": "உங்க கேப் டிரைவர் இன்னும் ரெண்டு நிமிஷத்துல வந்துடுவார்.",
+  "reply": "Okay, I'm standing near the main gate, in a blue shirt.",
+  "replyTamil": "சரி, நான் மெயின் கேட் பக்கத்துல நீல சட்டையில நிக்கிறேன்."
+ },
+ {
+  "category": "travel",
+  "context": "Surge pricing in a cab app",
+  "level": "intermediate",
+  "en": "The app is showing surge pricing, so the fare is double right now.",
+  "tamil": "ஆப்புல சர்ஜ் விலை காட்டுது, அதனால இப்போ கட்டணம் ரெட்டிப்பா இருக்கு.",
+  "reply": "Wow. Let's wait fifteen minutes, maybe it'll come down. Or shall we take the metro instead?",
+  "replyTamil": "அடேயப்பா. பதினைஞ்சு நிமிஷம் காத்திருக்கலாம், ஒருவேளை குறையும். இல்லன்னா மெட்ரோவுல போயிடலாமா?"
+ },
+ {
+  "category": "travel",
+  "context": "Starting a ride with an OTP",
+  "level": "beginner",
+  "en": "Please share the OTP to start the ride.",
+  "tamil": "ரைடை ஆரம்பிக்க ஓடிபி சொல்லுங்க.",
+  "reply": "Sure, it's four, seven, two, nine.",
+  "replyTamil": "சரி, நாலு, ஏழு, ரெண்டு, ஒன்பது."
+ },
+ {
+  "category": "travel",
+  "context": "Driver can't find the pickup point",
+  "level": "intermediate",
+  "en": "Sir, I can't find your pickup location on the map. Can you share a landmark?",
+  "tamil": "சார், மேப்ல உங்க இடம் எனக்குத் தெரியல. ஏதாவது அடையாளம் சொல்ல முடியுமா?",
+  "reply": "I'm right opposite the Saravana Bhavan hotel, next to the pharmacy. I'll wave at you.",
+  "replyTamil": "சரவண பவன் ஹோட்டலுக்கு நேர் எதிர்ல, மருந்துக் கடைக்குப் பக்கத்துல இருக்கேன். நான் கை காட்டுறேன்."
+ },
+ {
+  "category": "travel",
+  "context": "Repeated cab cancellations",
+  "level": "advanced",
+  "en": "The driver cancelled on me for the third time, and I've been standing here for twenty minutes.",
+  "tamil": "டிரைவர் மூணாவது தடவையா கேன்சல் பண்ணிட்டார், நான் இருபது நிமிஷமா இங்கயே நிக்கிறேன்.",
+  "reply": "That's annoying. They cancel when the destination isn't worth it for them. Try booking an auto instead, or just wave one down.",
+  "replyTamil": "எரிச்சலா இருக்கும். போற இடம் கட்டுபடியாகாதுன்னா அவங்க கேன்சல் பண்ணிடுவாங்க. ஆட்டோ புக் பண்ணிப் பாருங்க, இல்லன்னா கை காட்டி நிறுத்துங்க."
+ },
+ {
+  "category": "travel",
+  "context": "Fare higher than the estimate",
+  "level": "advanced",
+  "en": "I was charged more than the estimate shown in the app. Is that fair?",
+  "tamil": "ஆப்புல காட்டின மதிப்பீட்டை விட அதிகமா கட்டணம் வாங்கிட்டாங்க. இது நியாயமா?",
+  "reply": "Not really. Raise a complaint under the ride details; they usually refund the difference if the toll or waiting charge wasn't shown.",
+  "replyTamil": "இல்ல. ரைடு விவரத்துல புகார் குடுங்க; டோல் அல்லது காத்திருப்பு கட்டணம் முன்னாடி காட்டலன்னா பொதுவா வித்தியாசத் தொகையைத் திருப்பிக் குடுப்பாங்க."
+ },
+ {
+  "category": "travel",
+  "context": "Choosing the route with a driver",
+  "level": "intermediate",
+  "en": "Which route shall I take, sir, the flyover or the main road?",
+  "tamil": "எந்த வழியில போகட்டும் சார், மேம்பாலத்துலயா, மெயின் ரோட்டுலயா?",
+  "reply": "Take the main road. The flyover is usually jammed at this time of day.",
+  "replyTamil": "மெயின் ரோட்டுல போங்க. இந்த நேரத்துல மேம்பாலத்துல பொதுவா டிராஃபிக் ஜாம் இருக்கும்."
+ },
+ {
+  "category": "travel",
+  "context": "Suspicious taxi meter",
+  "level": "advanced",
+  "en": "The meter seems to be running unusually fast. Should I say something to him?",
+  "tamil": "மீட்டர் வழக்கத்தை விட ரொம்ப வேகமா ஓடுற மாதிரி இருக்கு. அவர்கிட்ட ஏதாவது சொல்லணுமா?",
+  "reply": "I'd mention it politely first. If he doesn't fix it, we can get down and take another ride; we're not obliged to put up with it.",
+  "replyTamil": "முதல்ல மரியாதையா சொல்லிப் பார்க்கலாம். அவர் சரி பண்ணலன்னா இறங்கி வேற வண்டியில போயிடலாம், பொறுத்துக்கணும்னு அவசியம் இல்ல."
+ }
+]

@@ -1,0 +1,768 @@
+[
+ {
+  "word": "memo",
+  "tamil": "அலுவலகக் குறிப்பாணை",
+  "pos": "noun",
+  "pron": "MEM-oh",
+  "example": "The manager sent a memo about the new timings.",
+  "exampleTamil": "புதிய நேரங்கள் பற்றி மேலாளர் ஒரு குறிப்பாணை அனுப்பினார்.",
+  "synonyms": [
+   "note",
+   "circular"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "draft",
+  "tamil": "வரைவு, முதல் பிரதி",
+  "pos": "noun",
+  "pron": "DRAFT",
+  "example": "Please review the first draft before I send it.",
+  "exampleTamil": "நான் அனுப்புவதற்கு முன் முதல் வரைவைப் பார்த்துவிடுங்கள்.",
+  "synonyms": [
+   "rough copy",
+   "outline"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "proofread",
+  "tamil": "பிழை திருத்திப் பார்",
+  "pos": "verb",
+  "pron": "PROOF-reed",
+  "example": "Always proofread your email before you click send.",
+  "exampleTamil": "அனுப்பு பொத்தானை அழுத்துவதற்கு முன் எப்போதும் மின்னஞ்சலில் பிழை பார்க்கவும்.",
+  "synonyms": [
+   "check",
+   "review",
+   "correct"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "summary",
+  "tamil": "சுருக்கம்",
+  "pos": "noun",
+  "pron": "SUM-uh-ree",
+  "example": "Could you write a short summary of the report?",
+  "exampleTamil": "அறிக்கையின் ஒரு சிறிய சுருக்கத்தை எழுத முடியுமா?",
+  "synonyms": [
+   "overview",
+   "recap",
+   "digest"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "report",
+  "tamil": "அறிக்கை",
+  "pos": "noun",
+  "pron": "rih-PORT",
+  "example": "She submitted the monthly sales report yesterday.",
+  "exampleTamil": "அவர் நேற்று மாதாந்திர விற்பனை அறிக்கையைச் சமர்ப்பித்தார்.",
+  "synonyms": [
+   "account",
+   "statement"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "invoice",
+  "tamil": "விலைப்பட்டியல், பில்",
+  "pos": "noun",
+  "pron": "IN-voys",
+  "example": "The accounts team will raise the invoice today.",
+  "exampleTamil": "கணக்குப் பிரிவு இன்று விலைப்பட்டியலைத் தயாரிக்கும்.",
+  "synonyms": [
+   "bill",
+   "statement of charges"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "quotation",
+  "tamil": "விலை மதிப்பீட்டுப் பட்டியல்",
+  "pos": "noun",
+  "pron": "kwoh-TAY-shun",
+  "example": "We asked three suppliers to send a quotation.",
+  "exampleTamil": "மூன்று விநியோகஸ்தர்களிடம் விலைப்புள்ளி அனுப்பச் சொன்னோம்.",
+  "synonyms": [
+   "quote",
+   "price offer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "budget",
+  "tamil": "வரவு செலவுத் திட்டம்",
+  "pos": "noun",
+  "pron": "BUJ-it",
+  "example": "Our budget for this quarter is quite limited.",
+  "exampleTamil": "இந்தக் காலாண்டுக்கான எங்கள் பட்ஜெட் மிகவும் குறைவு.",
+  "synonyms": [
+   "funds",
+   "allocation"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "expense",
+  "tamil": "செலவு",
+  "pos": "noun",
+  "pron": "ik-SPENS",
+  "example": "Travel expenses are paid back within ten days.",
+  "exampleTamil": "பயணச் செலவுகள் பத்து நாட்களுக்குள் திருப்பித் தரப்படும்.",
+  "synonyms": [
+   "cost",
+   "expenditure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "permission",
+  "tamil": "அனுமதி",
+  "pos": "noun",
+  "pron": "per-MISH-un",
+  "example": "You need permission to leave the office early.",
+  "exampleTamil": "அலுவலகத்திலிருந்து சீக்கிரம் செல்ல உங்களுக்கு அனுமதி தேவை.",
+  "synonyms": [
+   "consent",
+   "clearance",
+   "leave"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "policy",
+  "tamil": "கொள்கை, விதிமுறை",
+  "pos": "noun",
+  "pron": "POL-uh-see",
+  "example": "The company policy does not allow personal calls.",
+  "exampleTamil": "தனிப்பட்ட அழைப்புகளை நிறுவனக் கொள்கை அனுமதிக்காது.",
+  "synonyms": [
+   "rule",
+   "principle",
+   "guideline"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "regulation",
+  "tamil": "ஒழுங்குமுறை விதி",
+  "pos": "noun",
+  "pron": "reg-yuh-LAY-shun",
+  "example": "Safety regulations must be followed in the factory.",
+  "exampleTamil": "தொழிற்சாலையில் பாதுகாப்பு விதிமுறைகளைப் பின்பற்ற வேண்டும்.",
+  "synonyms": [
+   "rule",
+   "law",
+   "directive"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "guideline",
+  "tamil": "வழிகாட்டு நெறி",
+  "pos": "noun",
+  "pron": "GYDE-lyn",
+  "example": "Please read the guidelines before filling the form.",
+  "exampleTamil": "படிவத்தை நிரப்புவதற்கு முன் வழிகாட்டுதல்களைப் படியுங்கள்.",
+  "synonyms": [
+   "instruction",
+   "recommendation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "procedure",
+  "tamil": "நடைமுறை",
+  "pos": "noun",
+  "pron": "pruh-SEE-jer",
+  "example": "What is the procedure for claiming medical expenses?",
+  "exampleTamil": "மருத்துவச் செலவைக் கோருவதற்கான நடைமுறை என்ன?",
+  "synonyms": [
+   "process",
+   "method",
+   "protocol"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "compliance",
+  "tamil": "விதிகளுக்கு இணங்குதல்",
+  "pos": "noun",
+  "pron": "kum-PLY-unts",
+  "example": "Compliance training is compulsory for every new joiner.",
+  "exampleTamil": "விதி இணக்கப் பயிற்சி ஒவ்வொரு புதிய ஊழியருக்கும் கட்டாயம்.",
+  "synonyms": [
+   "conformity",
+   "obedience"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "confidential",
+  "tamil": "ரகசியமான",
+  "pos": "adjective",
+  "pron": "kon-fih-DEN-shul",
+  "example": "Salary details are strictly confidential in our company.",
+  "exampleTamil": "எங்கள் நிறுவனத்தில் சம்பள விவரங்கள் கண்டிப்பாக ரகசியமானவை.",
+  "synonyms": [
+   "private",
+   "secret",
+   "classified"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "signature",
+  "tamil": "கையொப்பம்",
+  "pos": "noun",
+  "pron": "SIG-nuh-cher",
+  "example": "I still need your signature on this letter.",
+  "exampleTamil": "இந்தக் கடிதத்தில் எனக்கு இன்னும் உங்கள் கையொப்பம் வேண்டும்.",
+  "synonyms": [
+   "autograph",
+   "sign-off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sign",
+  "tamil": "கையொப்பமிடு",
+  "pos": "verb",
+  "pron": "SYN",
+  "example": "Please sign here and return the form to HR.",
+  "exampleTamil": "இங்கே கையொப்பமிட்டு படிவத்தை மனிதவளத் துறையிடம் கொடுங்கள்.",
+  "synonyms": [
+   "autograph",
+   "endorse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stamp",
+  "tamil": "முத்திரை",
+  "pos": "noun",
+  "pron": "STAMP",
+  "example": "The document is not valid without the official stamp.",
+  "exampleTamil": "அதிகாரப்பூர்வ முத்திரை இல்லாமல் இந்த ஆவணம் செல்லாது.",
+  "synonyms": [
+   "seal",
+   "mark"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "announcement",
+  "tamil": "அறிவிப்பு",
+  "pos": "noun",
+  "pron": "uh-NOWNS-ment",
+  "example": "There will be an important announcement at noon.",
+  "exampleTamil": "மதியம் ஒரு முக்கிய அறிவிப்பு இருக்கும்.",
+  "synonyms": [
+   "notice",
+   "declaration"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "circular",
+  "tamil": "சுற்றறிக்கை",
+  "pos": "noun",
+  "pron": "SER-kyuh-ler",
+  "example": "HR has issued a circular about the holiday list.",
+  "exampleTamil": "விடுமுறைப் பட்டியல் பற்றி மனிதவளத் துறை சுற்றறிக்கை வெளியிட்டுள்ளது.",
+  "synonyms": [
+   "notice",
+   "memo"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "notify",
+  "tamil": "தெரிவி, அறிவி",
+  "pos": "verb",
+  "pron": "NOH-tuh-fy",
+  "example": "Please notify your supervisor if you will be late.",
+  "exampleTamil": "நீங்கள் தாமதமாக வருவதாக இருந்தால் உங்கள் மேற்பார்வையாளருக்குத் தெரிவியுங்கள்.",
+  "synonyms": [
+   "inform",
+   "alert",
+   "tell"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "acknowledge",
+  "tamil": "பெற்றதை ஒப்புக்கொள்",
+  "pos": "verb",
+  "pron": "ak-NOL-ij",
+  "example": "Kindly acknowledge this email once you receive it.",
+  "exampleTamil": "இந்த மின்னஞ்சல் கிடைத்ததும் தயவுசெய்து உறுதிப்படுத்துங்கள்.",
+  "synonyms": [
+   "confirm receipt",
+   "recognize"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "paperwork",
+  "tamil": "காகிதப் பணிகள்",
+  "pos": "noun",
+  "pron": "PAY-per-werk",
+  "example": "There is a lot of paperwork when you join a company.",
+  "exampleTamil": "நிறுவனத்தில் சேரும்போது நிறைய காகிதப் பணிகள் இருக்கும்.",
+  "synonyms": [
+   "documentation",
+   "admin work"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "revise",
+  "tamil": "திருத்தி எழுது",
+  "pos": "verb",
+  "pron": "rih-VYZ",
+  "example": "We had to revise the plan after the feedback.",
+  "exampleTamil": "கருத்துகளுக்குப் பிறகு நாங்கள் திட்டத்தைத் திருத்த வேண்டியிருந்தது.",
+  "synonyms": [
+   "amend",
+   "rework",
+   "modify"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "revision",
+  "tamil": "திருத்தம்",
+  "pos": "noun",
+  "pron": "rih-VIZH-un",
+  "example": "The final revision will be ready by Friday.",
+  "exampleTamil": "இறுதித் திருத்தம் வெள்ளிக்கிழமைக்குள் தயாராக இருக்கும்.",
+  "synonyms": [
+   "amendment",
+   "edit",
+   "update"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "photocopy",
+  "tamil": "நகல் எடு, ஜெராக்ஸ்",
+  "pos": "verb",
+  "pron": "FOH-toh-kop-ee",
+  "example": "Could you photocopy these pages for the team?",
+  "exampleTamil": "குழுவுக்காக இந்தப் பக்கங்களை நகல் எடுக்க முடியுமா?",
+  "synonyms": [
+   "xerox",
+   "duplicate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shred",
+  "tamil": "துண்டு துண்டாக வெட்டி அழி",
+  "pos": "verb",
+  "pron": "SHRED",
+  "example": "Old confidential papers should be shredded, not thrown away.",
+  "exampleTamil": "பழைய ரகசிய காகிதங்களை எறியாமல் துண்டாக்கி அழிக்க வேண்டும்.",
+  "synonyms": [
+   "tear up",
+   "destroy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tone",
+  "tamil": "பேச்சு அல்லது எழுத்தின் தொனி",
+  "pos": "noun",
+  "pron": "TOHN",
+  "example": "The tone of his email sounded rather rude.",
+  "exampleTamil": "அவருடைய மின்னஞ்சலின் தொனி சற்று கடுமையாக இருந்தது.",
+  "synonyms": [
+   "manner",
+   "style",
+   "attitude"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "greeting",
+  "tamil": "வணக்கம் கூறுதல்",
+  "pos": "noun",
+  "pron": "GREE-ting",
+  "example": "Start the email with a polite greeting.",
+  "exampleTamil": "மின்னஞ்சலை ஒரு பணிவான வணக்கத்துடன் தொடங்குங்கள்.",
+  "synonyms": [
+   "salutation",
+   "welcome"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "recipient",
+  "tamil": "பெறுபவர்",
+  "pos": "noun",
+  "pron": "rih-SIP-ee-ent",
+  "example": "Check the recipient's address before sending the file.",
+  "exampleTamil": "கோப்பை அனுப்பும் முன் பெறுபவரின் முகவரியைச் சரிபாருங்கள்.",
+  "synonyms": [
+   "receiver",
+   "addressee"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sender",
+  "tamil": "அனுப்புபவர்",
+  "pos": "noun",
+  "pron": "SEN-der",
+  "example": "I did not recognise the sender of this message.",
+  "exampleTamil": "இந்தச் செய்தியை அனுப்பியவரை எனக்குத் தெரியவில்லை.",
+  "synonyms": [
+   "dispatcher",
+   "source"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "letterhead",
+  "tamil": "நிறுவனத்தின் தலைப்புத் தாள்",
+  "pos": "noun",
+  "pron": "LET-er-hed",
+  "example": "Print the offer on the company letterhead.",
+  "exampleTamil": "வேலை வாய்ப்பை நிறுவனத் தலைப்புத் தாளில் அச்சிடுங்கள்.",
+  "synonyms": [
+   "official stationery",
+   "header"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "envelope",
+  "tamil": "உறை",
+  "pos": "noun",
+  "pron": "EN-vuh-lohp",
+  "example": "She put the cheque in a sealed envelope.",
+  "exampleTamil": "அவர் காசோலையை ஒட்டப்பட்ட உறையில் வைத்தார்.",
+  "synonyms": [
+   "cover",
+   "wrapper"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "courier",
+  "tamil": "கூரியர், தூதுப் பொதி சேவை",
+  "pos": "noun",
+  "pron": "KUR-ee-er",
+  "example": "The documents will reach you by courier tomorrow.",
+  "exampleTamil": "ஆவணங்கள் நாளை கூரியரில் உங்களுக்கு வந்து சேரும்.",
+  "synonyms": [
+   "messenger",
+   "delivery service"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spreadsheet",
+  "tamil": "விரிதாள் (எக்செல் கோப்பு)",
+  "pos": "noun",
+  "pron": "SPRED-sheet",
+  "example": "I keep all expenses in one spreadsheet.",
+  "exampleTamil": "எல்லாச் செலவுகளையும் நான் ஒரு விரிதாளில் வைத்திருக்கிறேன்.",
+  "synonyms": [
+   "worksheet",
+   "excel sheet"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "presentation",
+  "tamil": "விளக்கக்காட்சி",
+  "pos": "noun",
+  "pron": "prez-un-TAY-shun",
+  "example": "Her presentation on cost savings impressed everyone.",
+  "exampleTamil": "செலவு சேமிப்பு பற்றிய அவரது விளக்கக்காட்சி எல்லோரையும் கவர்ந்தது.",
+  "synonyms": [
+   "talk",
+   "slideshow"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "handout",
+  "tamil": "விநியோகிக்கப்படும் தாள்",
+  "pos": "noun",
+  "pron": "HAND-owt",
+  "example": "The trainer gave each of us a printed handout.",
+  "exampleTamil": "பயிற்சியாளர் எங்கள் ஒவ்வொருவருக்கும் அச்சிட்ட தாளைக் கொடுத்தார்.",
+  "synonyms": [
+   "leaflet",
+   "printout"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "brochure",
+  "tamil": "விளம்பரச் சிறுபுத்தகம்",
+  "pos": "noun",
+  "pron": "broh-SHOOR",
+  "example": "We designed a new brochure for our products.",
+  "exampleTamil": "எங்கள் பொருட்களுக்காகப் புதிய சிறுபுத்தகம் வடிவமைத்தோம்.",
+  "synonyms": [
+   "pamphlet",
+   "leaflet"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "statement",
+  "tamil": "கணக்கு அறிக்கை",
+  "pos": "noun",
+  "pron": "STAYT-ment",
+  "example": "Please attach your latest bank statement to the form.",
+  "exampleTamil": "படிவத்துடன் உங்கள் சமீபத்திய வங்கி அறிக்கையை இணையுங்கள்.",
+  "synonyms": [
+   "account",
+   "record"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "audit",
+  "tamil": "தணிக்கை",
+  "pos": "noun",
+  "pron": "AW-dit",
+  "example": "The yearly audit starts next Monday.",
+  "exampleTamil": "ஆண்டுத் தணிக்கை வரும் திங்கள் தொடங்குகிறது.",
+  "synonyms": [
+   "inspection",
+   "review"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "auditor",
+  "tamil": "தணிக்கையாளர்",
+  "pos": "noun",
+  "pron": "AW-dih-ter",
+  "example": "The auditor found a mistake in the accounts.",
+  "exampleTamil": "தணிக்கையாளர் கணக்குகளில் ஒரு தவறைக் கண்டுபிடித்தார்.",
+  "synonyms": [
+   "inspector",
+   "examiner"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "liability",
+  "tamil": "பொறுப்புக்கடமை, கடன் பொறுப்பு",
+  "pos": "noun",
+  "pron": "ly-uh-BIL-uh-tee",
+  "example": "The company accepts no liability for lost items.",
+  "exampleTamil": "தொலைந்த பொருட்களுக்கு நிறுவனம் எந்தப் பொறுப்பையும் ஏற்காது.",
+  "synonyms": [
+   "responsibility",
+   "obligation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "disclaimer",
+  "tamil": "பொறுப்புத் துறப்பு அறிவிப்பு",
+  "pos": "noun",
+  "pron": "dis-KLAY-mer",
+  "example": "Add a disclaimer at the end of the email.",
+  "exampleTamil": "மின்னஞ்சலின் இறுதியில் ஒரு பொறுப்புத் துறப்பு சேர்க்கவும்.",
+  "synonyms": [
+   "warning",
+   "denial"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "declaration",
+  "tamil": "உறுதிமொழி அறிவிப்பு",
+  "pos": "noun",
+  "pron": "dek-luh-RAY-shun",
+  "example": "Every employee must submit a tax declaration form.",
+  "exampleTamil": "ஒவ்வொரு ஊழியரும் வரி அறிவிப்புப் படிவத்தைச் சமர்ப்பிக்க வேண்டும்.",
+  "synonyms": [
+   "statement",
+   "announcement"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mandatory",
+  "tamil": "கட்டாயமான",
+  "pos": "adjective",
+  "pron": "MAN-duh-tor-ee",
+  "example": "Wearing an ID card is mandatory inside the building.",
+  "exampleTamil": "கட்டடத்துக்குள் அடையாள அட்டை அணிவது கட்டாயம்.",
+  "synonyms": [
+   "compulsory",
+   "required",
+   "obligatory"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "optional",
+  "tamil": "விருப்பத்துக்குரிய",
+  "pos": "adjective",
+  "pron": "OP-shuh-nul",
+  "example": "Attending the training is optional, not compulsory.",
+  "exampleTamil": "பயிற்சியில் கலந்துகொள்வது விருப்பத்துக்குரியது, கட்டாயமில்லை.",
+  "synonyms": [
+   "voluntary",
+   "elective"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "eligible",
+  "tamil": "தகுதியுள்ள",
+  "pos": "adjective",
+  "pron": "EL-ih-juh-bul",
+  "example": "You are eligible for a bonus after one year.",
+  "exampleTamil": "ஒரு வருடத்துக்குப் பிறகு நீங்கள் போனஸுக்குத் தகுதி பெறுவீர்கள்.",
+  "synonyms": [
+   "entitled",
+   "qualified"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "eligibility",
+  "tamil": "தகுதி",
+  "pos": "noun",
+  "pron": "el-ih-juh-BIL-uh-tee",
+  "example": "Check your eligibility before applying for the loan.",
+  "exampleTamil": "கடனுக்கு விண்ணப்பிக்கும் முன் உங்கள் தகுதியைச் சரிபாருங்கள்.",
+  "synonyms": [
+   "qualification",
+   "entitlement"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exception",
+  "tamil": "விதிவிலக்கு",
+  "pos": "noun",
+  "pron": "ik-SEP-shun",
+  "example": "We made an exception because it was an emergency.",
+  "exampleTamil": "அவசரநிலை என்பதால் நாங்கள் ஒரு விதிவிலக்கு அளித்தோம்.",
+  "synonyms": [
+   "special case",
+   "exemption"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "waiver",
+  "tamil": "கட்டணம் அல்லது உரிமை விலக்கு",
+  "pos": "noun",
+  "pron": "WAY-ver",
+  "example": "He applied for a fee waiver for the course.",
+  "exampleTamil": "அவர் பாடநெறிக் கட்டண விலக்குக்கு விண்ணப்பித்தார்.",
+  "synonyms": [
+   "exemption",
+   "concession"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "clearance",
+  "tamil": "அனுமதிச் சான்று",
+  "pos": "noun",
+  "pron": "KLEER-uns",
+  "example": "You need security clearance to enter that floor.",
+  "exampleTamil": "அந்தத் தளத்துக்குள் நுழைய உங்களுக்குப் பாதுகாப்பு அனுமதி தேவை.",
+  "synonyms": [
+   "authorization",
+   "permit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "formality",
+  "tamil": "சம்பிரதாய நடைமுறை",
+  "pos": "noun",
+  "pron": "for-MAL-ih-tee",
+  "example": "The signing is only a formality now.",
+  "exampleTamil": "கையொப்பமிடுவது இப்போது ஒரு சம்பிரதாயம் மட்டுமே.",
+  "synonyms": [
+   "routine step",
+   "convention"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sign off",
+  "tamil": "இறுதி ஒப்புதல் கொடு",
+  "pos": "phrasal verb",
+  "pron": "SYN-OF",
+  "example": "The director must sign off on the final budget.",
+  "exampleTamil": "இறுதி பட்ஜெட்டுக்கு இயக்குநர் இறுதி ஒப்புதல் தர வேண்டும்.",
+  "synonyms": [
+   "approve",
+   "authorize"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fill out",
+  "tamil": "படிவத்தை நிரப்பு",
+  "pos": "phrasal verb",
+  "pron": "FIL-OWT",
+  "example": "Please fill out this form in capital letters.",
+  "exampleTamil": "இந்தப் படிவத்தைப் பெரிய எழுத்துகளில் நிரப்புங்கள்.",
+  "synonyms": [
+   "complete",
+   "fill in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "write up",
+  "tamil": "விரிவாக எழுதி முடி",
+  "pos": "phrasal verb",
+  "pron": "RYT-UP",
+  "example": "I need to write up the notes before I leave.",
+  "exampleTamil": "புறப்படுவதற்கு முன் நான் குறிப்புகளை முழுமையாக எழுத வேண்டும்.",
+  "synonyms": [
+   "document",
+   "record"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "send out",
+  "tamil": "பலருக்கு அனுப்பு",
+  "pos": "phrasal verb",
+  "pron": "SEND-OWT",
+  "example": "We send out the newsletter on the first of every month.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு மாதமும் முதல் நாள் செய்திமடலை அனுப்புகிறோம்.",
+  "synonyms": [
+   "distribute",
+   "dispatch"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "look into",
+  "tamil": "ஆராய்ந்து பார்",
+  "pos": "phrasal verb",
+  "pron": "LUK-IN-too",
+  "example": "I will look into the billing error today.",
+  "exampleTamil": "பில்லிங் தவறை நான் இன்று ஆராய்ந்து பார்க்கிறேன்.",
+  "synonyms": [
+   "investigate",
+   "examine"
+  ],
+  "level": "intermediate"
+ }
+]

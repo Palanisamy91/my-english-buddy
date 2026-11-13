@@ -1,0 +1,339 @@
+[
+ {
+  "word": "steering",
+  "meaning": "The system or wheel used to turn a vehicle",
+  "tamil": "ஸ்டீயரிங்",
+  "pos": "noun",
+  "pron": "STEER-ing",
+  "example": "Hold the steering with both hands.",
+  "exampleTamil": "ஸ்டீயரிங்கை இரண்டு கையாலும் பிடிங்க.",
+  "synonyms": [
+   "steering wheel"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "license",
+  "meaning": "An official paper that allows you to drive",
+  "tamil": "உரிமம்",
+  "pos": "noun",
+  "pron": "LY-suns",
+  "example": "I got my driving license last month.",
+  "exampleTamil": "நான் போன மாசம் என் ஓட்டுநர் உரிமம் வாங்கினேன்.",
+  "synonyms": [
+   "permit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tent",
+  "meaning": "A shelter made of cloth that you use when camping",
+  "tamil": "கூடாரம்",
+  "pos": "noun",
+  "pron": "TENT",
+  "example": "We put up a tent near the lake.",
+  "exampleTamil": "நாங்க ஏரிக்குப் பக்கத்துல ஒரு கூடாரம் போட்டோம்.",
+  "synonyms": [
+   "canvas shelter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "campsite",
+  "meaning": "A place where people stay in tents for a holiday",
+  "tamil": "முகாம் இடம்",
+  "pos": "noun",
+  "pron": "KAMP-site",
+  "example": "The campsite was quiet and clean.",
+  "exampleTamil": "முகாம் இடம் அமைதியா சுத்தமா இருந்துச்சு.",
+  "synonyms": [
+   "camping ground"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hiking",
+  "meaning": "Walking a long way in hills or forests for fun",
+  "tamil": "மலை நடைப்பயணம்",
+  "pos": "noun",
+  "pron": "HY-king",
+  "example": "We are going hiking in the Nilgiris this weekend.",
+  "exampleTamil": "இந்த வாரக் கடைசியில நாங்க நீலகிரில மலை நடைப்பயணம் போறோம்.",
+  "synonyms": [
+   "trekking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trail",
+  "meaning": "A narrow path through hills, forests or countryside",
+  "tamil": "மலைப் பாதை",
+  "pos": "noun",
+  "pron": "TRAYL",
+  "example": "The trail to the waterfall is very steep.",
+  "exampleTamil": "நீர்வீழ்ச்சிக்குப் போற மலைப் பாதை ரொம்ப செங்குத்தா இருக்கு.",
+  "synonyms": [
+   "track",
+   "path"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spacious",
+  "meaning": "Having a lot of room inside",
+  "tamil": "விசாலமான",
+  "pos": "adjective",
+  "pron": "SPAY-shus",
+  "example": "The hotel room was clean and spacious.",
+  "exampleTamil": "ஹோட்டல் ரூம் சுத்தமாவும் விசாலமாவும் இருந்துச்சு.",
+  "synonyms": [
+   "roomy",
+   "large"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nonstop",
+  "meaning": "Without any stop on the way",
+  "tamil": "இடைநிற்காத",
+  "pos": "adjective",
+  "pron": "non-STOP",
+  "example": "There is a nonstop bus to Madurai at nine.",
+  "exampleTamil": "ஒன்பது மணிக்கு மதுரைக்கு இடைநிற்காத பஸ் இருக்கு.",
+  "synonyms": [
+   "direct",
+   "without stops"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overnight",
+  "meaning": "Lasting or happening through the night",
+  "tamil": "இரவு முழுவதும்",
+  "pos": "adjective",
+  "pron": "OH-ver-nite",
+  "example": "We took an overnight bus to Bangalore.",
+  "exampleTamil": "நாங்க பெங்களூருக்கு இரவு பஸ்ல போனோம்.",
+  "synonyms": [
+   "night-long"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "unreserved",
+  "meaning": "Not booked in advance, so anyone can sit",
+  "tamil": "முன்பதிவு இல்லாத",
+  "pos": "adjective",
+  "pron": "un-ri-ZERVD",
+  "example": "The unreserved coach was completely full.",
+  "exampleTamil": "முன்பதிவு இல்லாத பெட்டி முழுசா நிறைஞ்சிருந்துச்சு.",
+  "synonyms": [
+   "general",
+   "unbooked"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vacant",
+  "meaning": "Empty and not being used by anyone",
+  "tamil": "காலியான",
+  "pos": "adjective",
+  "pron": "VAY-kunt",
+  "example": "Is this seat vacant?",
+  "exampleTamil": "இந்த இருக்கை காலியா?",
+  "synonyms": [
+   "empty",
+   "free"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "direct",
+  "meaning": "Going straight to a place without stopping",
+  "tamil": "நேரடியான",
+  "pos": "adjective",
+  "pron": "duh-REKT",
+  "example": "Is there a direct train to Coimbatore?",
+  "exampleTamil": "கோயம்புத்தூருக்கு நேரடி ரயில் இருக்கா?",
+  "synonyms": [
+   "straight",
+   "nonstop"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "foreign",
+  "meaning": "Coming from or belonging to another country",
+  "tamil": "வெளிநாட்டு",
+  "pos": "adjective",
+  "pron": "FOR-in",
+  "example": "Many foreign visitors come to Mahabalipuram.",
+  "exampleTamil": "மகாபலிபுரத்துக்கு நிறைய வெளிநாட்டுப் பயணிகள் வராங்க.",
+  "synonyms": [
+   "overseas",
+   "international"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "refuel",
+  "meaning": "To fill a vehicle with fuel again",
+  "tamil": "மறுபடி எரிபொருள் நிரப்பு",
+  "pos": "verb",
+  "pron": "ree-FYOO-ul",
+  "example": "We need to refuel the car before the highway.",
+  "exampleTamil": "நெடுஞ்சாலைக்கு போறதுக்கு முன்னாடி காருக்கு பெட்ரோல் போடணும்.",
+  "synonyms": [
+   "fill up",
+   "tank up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lost-and-found",
+  "meaning": "A place where lost things are kept for their owners",
+  "tamil": "தொலைந்த பொருள் அலுவலகம்",
+  "pos": "noun",
+  "pron": "LOST-and-FOUND",
+  "example": "I left my umbrella, so I went to the lost-and-found.",
+  "exampleTamil": "நான் குடையை மறந்துட்டேன், அதனால தொலைந்த பொருள் அலுவலகத்துக்குப் போனேன்.",
+  "synonyms": [
+   "lost property"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ticket counter",
+  "meaning": "The window or desk where you buy tickets",
+  "tamil": "டிக்கெட் கவுண்டர்",
+  "pos": "noun",
+  "pron": "TIK-it KOWN-ter",
+  "example": "The queue at the ticket counter is very long.",
+  "exampleTamil": "டிக்கெட் கவுண்டர்ல வரிசை ரொம்ப நீளமா இருக்கு.",
+  "synonyms": [
+   "booking window"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wheelchair",
+  "meaning": "A chair with wheels for a person who cannot walk",
+  "tamil": "சக்கர நாற்காலி",
+  "pos": "noun",
+  "pron": "WEEL-chair",
+  "example": "The airport gave my grandmother a wheelchair.",
+  "exampleTamil": "ஏர்போர்ட்ல என் பாட்டிக்கு சக்கர நாற்காலி கொடுத்தாங்க.",
+  "synonyms": [
+   "invalid chair"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pothole",
+  "meaning": "A hole in the surface of a road",
+  "tamil": "சாலைக் குழி",
+  "pos": "noun",
+  "pron": "POT-hohl",
+  "example": "Our bus hit a big pothole and shook badly.",
+  "exampleTamil": "எங்க பஸ் பெரிய சாலைக் குழியில இடிச்சு ரொம்ப குலுங்குச்சு.",
+  "synonyms": [
+   "hole",
+   "road damage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "diversion",
+  "meaning": "A different road you must use when the usual one is closed",
+  "tamil": "மாற்றுப் பாதை",
+  "pos": "noun",
+  "pron": "dy-VER-zhun",
+  "example": "There is a diversion because of the road work.",
+  "exampleTamil": "சாலை வேலை நடக்கறதால மாற்றுப் பாதை இருக்கு.",
+  "synonyms": [
+   "detour"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "barricade",
+  "meaning": "A barrier put across a road to stop vehicles",
+  "tamil": "தடுப்பு வேலி",
+  "pos": "noun",
+  "pron": "BAR-uh-kayd",
+  "example": "The police put a barricade across the main road.",
+  "exampleTamil": "போலீஸ் பிரதான சாலையில தடுப்பு வேலி போட்டாங்க.",
+  "synonyms": [
+   "barrier",
+   "roadblock"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "checkpost",
+  "meaning": "A place on a road where vehicles are stopped and checked",
+  "tamil": "சோதனைச் சாவடி",
+  "pos": "noun",
+  "pron": "CHEK-pohst",
+  "example": "They checked our bags at the state border checkpost.",
+  "exampleTamil": "மாநில எல்லைச் சோதனைச் சாவடியில எங்க பைகளைச் சோதிச்சாங்க.",
+  "synonyms": [
+   "checkpoint"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "motorist",
+  "meaning": "A person who drives a car",
+  "tamil": "வாகன ஓட்டி",
+  "pos": "noun",
+  "pron": "MOH-ter-ist",
+  "example": "Every motorist should follow the traffic rules.",
+  "exampleTamil": "ஒவ்வொரு வாகன ஓட்டியும் போக்குவரத்து விதிகளைப் பின்பற்றணும்.",
+  "synonyms": [
+   "driver",
+   "car owner"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stampede",
+  "meaning": "A sudden rush of a frightened crowd",
+  "tamil": "நெரிசல் ஓட்டம்",
+  "pos": "noun",
+  "pron": "stam-PEED",
+  "example": "People ran in a stampede when the train arrived.",
+  "exampleTamil": "ரயில் வந்தவுடனே மக்கள் நெரிசலா ஓடினாங்க.",
+  "synonyms": [
+   "panicked rush"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "forex",
+  "meaning": "Money of other countries that you exchange for travel",
+  "tamil": "அந்நியச் செலாவணி",
+  "pos": "noun",
+  "pron": "FOR-eks",
+  "example": "I will buy some forex before my trip to Singapore.",
+  "exampleTamil": "சிங்கப்பூர் பயணத்துக்கு முன்னாடி கொஞ்சம் அந்நியச் செலாவணி வாங்கப்போறேன்.",
+  "synonyms": [
+   "foreign currency"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "jam",
+  "meaning": "A situation where many vehicles cannot move on a road",
+  "tamil": "போக்குவரத்து நெரிசல்",
+  "pos": "noun",
+  "pron": "JAM",
+  "example": "We were stuck in a jam for an hour.",
+  "exampleTamil": "நாங்க ஒரு மணி நேரம் போக்குவரத்து நெரிசல்ல மாட்டிக்கிட்டோம்.",
+  "synonyms": [
+   "gridlock",
+   "congestion"
+  ],
+  "level": "beginner"
+ }
+]

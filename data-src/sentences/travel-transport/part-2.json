@@ -1,0 +1,254 @@
+[
+ {
+  "en": "Excuse me, is this seat taken?",
+  "tamil": "மன்னிக்கணும், இந்த சீட்டில் யாராவது இருக்காங்களா?",
+  "context": "Asking a stranger politely on a train.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is this seat taken' is the usual polite phrase to ask if someone is sitting there.",
+  "words": [
+   "excuse",
+   "taken"
+  ]
+ },
+ {
+  "en": "We have already checked in online.",
+  "tamil": "நாங்க ஏற்கனவே ஆன்லைனில் செக்-இன் பண்ணிட்டோம்.",
+  "context": "Telling the airline staff.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have checked in' shows the action is done. 'Already' means earlier than expected.",
+  "words": [
+   "checked",
+   "online"
+  ]
+ },
+ {
+  "en": "The ticket collector is coming to check tickets.",
+  "tamil": "டிக்கெட் செக்கர் டிக்கெட் பார்க்க வராரு.",
+  "context": "Warning your friend on a train.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is coming' shows something is about to happen. 'To check' tells the purpose.",
+  "words": [
+   "collector",
+   "check"
+  ]
+ },
+ {
+  "en": "Where is the nearest petrol bunk?",
+  "tamil": "பக்கத்தில் இருக்கிற பெட்ரோல் பங்க் எங்க இருக்கு?",
+  "context": "Asking while driving a bike or car.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Nearest' means the closest one. 'Where is' asks about a place.",
+  "words": [
+   "nearest",
+   "petrol"
+  ]
+ },
+ {
+  "en": "Our bus broke down on the highway.",
+  "tamil": "எங்க பஸ் நெடுஞ்சாலைல பழுதாயிடுச்சு.",
+  "context": "Explaining a travel problem.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Broke down' is the past of 'break down'. It means stopped working.",
+  "words": [
+   "bus",
+   "highway"
+  ]
+ },
+ {
+  "en": "You should book train tickets early.",
+  "tamil": "நீங்க ட்ரெயின் டிக்கெட்டை சீக்கிரம் புக் பண்ணணும்.",
+  "context": "Giving advice before festival season.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' is used for advice. 'Early' tells when it is best to do it.",
+  "words": [
+   "book",
+   "early"
+  ]
+ },
+ {
+  "en": "I have never travelled by flight.",
+  "tamil": "நான் இதுவரைக்கும் ஃபிளைட்டில் போனதே இல்ல.",
+  "context": "Talking about your experience.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have never' talks about your whole life up to now. It means not even once.",
+  "words": [
+   "never",
+   "travelled"
+  ]
+ },
+ {
+  "en": "Could you stop here, please?",
+  "tamil": "இங்க நிறுத்த முடியுமா, தயவுசெஞ்சு?",
+  "context": "Asking a driver to stop.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could you' is polite. Adding 'please' at the end makes it softer.",
+  "words": [
+   "stop",
+   "here"
+  ]
+ },
+ {
+  "en": "What is the check-out time?",
+  "tamil": "செக்-அவுட் டைம் என்ன?",
+  "context": "Asking at the hotel desk.",
+  "tense": "present",
+  "type": "question",
+  "explain": "This question asks for a fixed time. Hotels use 'check-out' for the time you leave.",
+  "words": [
+   "check-out",
+   "time"
+  ]
+ },
+ {
+  "en": "The auto driver asked for double the fare.",
+  "tamil": "ஆட்டோ டிரைவர் ரெண்டு மடங்கு கட்டணம் கேட்டார்.",
+  "context": "Complaining about an unfair price.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Double the fare' means two times the normal price. 'Asked for' means requested.",
+  "words": [
+   "driver",
+   "fare"
+  ]
+ },
+ {
+  "en": "I'll call you when I reach the station.",
+  "tamil": "ஸ்டேஷன் போய் சேர்ந்ததும் உனக்கு கால் பண்றேன்.",
+  "context": "Promising to inform someone.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll' is short for 'I will'. After 'when' we use a present form: 'reach'.",
+  "words": [
+   "call",
+   "station"
+  ]
+ },
+ {
+  "en": "Is the flight on time?",
+  "tamil": "ஃபிளைட் சரியான நேரத்துக்கு இருக்கா?",
+  "context": "Checking at the airport or on the phone.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'On time' means not late. This is a short, common travel question.",
+  "words": [
+   "flight",
+   "time"
+  ]
+ },
+ {
+  "en": "Don't forget to carry your ID card.",
+  "tamil": "உங்க ஐடி கார்டு எடுத்துட்டு போக மறந்துடாதீங்க.",
+  "context": "Reminding a friend before a journey.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't forget to' is a friendly reminder. It is followed by a simple verb.",
+  "words": [
+   "forget",
+   "carry"
+  ]
+ },
+ {
+  "en": "There is no direct bus to that village.",
+  "tamil": "அந்த கிராமத்துக்கு நேரடி பஸ் இல்ல.",
+  "context": "Explaining the route to a visitor.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'There is no' says something does not exist. 'Direct' means without changing.",
+  "words": [
+   "direct",
+   "village"
+  ]
+ },
+ {
+  "en": "We are going to visit Ooty next month.",
+  "tamil": "அடுத்த மாசம் நாங்க ஊட்டி போகப் போறோம்.",
+  "context": "Sharing holiday plans.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Are going to' is for plans you have already made. 'Next month' shows the time.",
+  "words": [
+   "visit",
+   "month"
+  ]
+ },
+ {
+  "en": "The hotel staff were very helpful.",
+  "tamil": "ஹோட்டல் ஸ்டாஃப் ரொம்ப உதவியா இருந்தாங்க.",
+  "context": "Sharing your trip experience.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Staff' is a group, so here we use 'were'. 'Helpful' means ready to help.",
+  "words": [
+   "staff",
+   "helpful"
+  ]
+ },
+ {
+  "en": "Can you share the location on WhatsApp?",
+  "tamil": "லொகேஷனை வாட்ஸ்அப்பில் ஷேர் பண்ண முடியுமா?",
+  "context": "Asking a driver or friend how to find a place.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can you' asks for help. 'Share the location' is very common in India.",
+  "words": [
+   "share",
+   "location"
+  ]
+ },
+ {
+  "en": "My train gets in at midnight.",
+  "tamil": "என் ட்ரெயின் நடுராத்திரிக்கு வந்து சேரும்.",
+  "context": "Telling someone your arrival plan.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "We use present simple for timetables. 'Gets in' means arrives at the station.",
+  "words": [
+   "train",
+   "midnight"
+  ]
+ },
+ {
+  "en": "Please take the second right after the temple.",
+  "tamil": "கோயிலுக்கு அப்புறம் ரெண்டாவது ரைட்டில் போங்க.",
+  "context": "Giving road directions.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Use ordinal numbers like 'second' to count turnings. 'After the temple' is a landmark.",
+  "words": [
+   "second",
+   "temple"
+  ]
+ },
+ {
+  "en": "They are checking everyone's bags at the airport.",
+  "tamil": "ஏர்போர்ட்டில் எல்லாரோட பேக்கையும் செக் பண்றாங்க.",
+  "context": "Describing security at the airport.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Are checking' shows it is happening now. 'Everyone's' shows the bags belong to everyone.",
+  "words": [
+   "checking",
+   "bags"
+  ]
+ },
+ {
+  "en": "Is breakfast included in the room rent?",
+  "tamil": "ரூம் வாடகைல காலை சாப்பாடு சேர்த்துதா?",
+  "context": "Asking before you book a hotel.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Included' means already part of the price. This is useful before you pay.",
+  "words": [
+   "breakfast",
+   "included"
+  ]
+ }
+]

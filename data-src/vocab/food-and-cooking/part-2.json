@@ -1,0 +1,338 @@
+[
+ {
+  "word": "pongal",
+  "meaning": "A South Indian dish of rice and lentils cooked together",
+  "tamil": "அரிசி பருப்பு சேர்த்துச் சமைக்கும் தென்னிந்திய உணவு, பொங்கல்",
+  "pos": "noun",
+  "pron": "PON-gul",
+  "example": "We eat sweet pongal during the harvest festival.",
+  "exampleTamil": "அறுவடைத் திருவிழாவின் போது நாங்கள் சர்க்கரைப் பொங்கல் சாப்பிடுவோம்.",
+  "synonyms": [
+   "rice dish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "samosa",
+  "meaning": "A fried triangle snack filled with potato or meat",
+  "tamil": "உருளைக்கிழங்கு அல்லது இறைச்சி நிரப்பிய முக்கோண பொரியல், சமோசா",
+  "pos": "noun",
+  "pron": "suh-MOH-suh",
+  "example": "I bought two hot samosas from the street stall.",
+  "exampleTamil": "நான் தெருக்கடையில் இரண்டு சூடான சமோசா வாங்கினேன்.",
+  "synonyms": [
+   "snack"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "vada",
+  "meaning": "A round fried snack made from lentil batter",
+  "tamil": "பருப்பு மாவில் பொரித்த உருண்டை வடிவ சிற்றுண்டி, வடை",
+  "pos": "noun",
+  "pron": "VAH-duh",
+  "example": "The tea shop sells crispy vadas in the evening.",
+  "exampleTamil": "அந்த டீக்கடையில் மாலையில் மொறுமொறுப்பான வடை விற்கிறார்கள்.",
+  "synonyms": [
+   "fritter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "burnt",
+  "meaning": "Spoiled or black because it was cooked too long",
+  "tamil": "அதிகமாகச் சமைத்து கருகிய",
+  "pos": "adjective",
+  "pron": "BURNT",
+  "example": "The toast is burnt, so I cannot eat it.",
+  "exampleTamil": "ரொட்டி கருகிவிட்டது, அதனால் என்னால் சாப்பிட முடியாது.",
+  "synonyms": [
+   "charred",
+   "scorched"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "brunch",
+  "meaning": "A meal eaten late morning, instead of breakfast and lunch",
+  "tamil": "காலை உணவும் மதிய உணவும் சேர்ந்த தாமதமான காலை உணவு",
+  "pos": "noun",
+  "pron": "BRUNCH",
+  "example": "On Sundays we go out for brunch.",
+  "exampleTamil": "ஞாயிற்றுக்கிழமைகளில் நாங்கள் பிரஞ்ச் சாப்பிட வெளியே செல்வோம்.",
+  "synonyms": [
+   "late breakfast"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "supper",
+  "meaning": "A light meal eaten in the evening",
+  "tamil": "மாலை அல்லது இரவில் சாப்பிடும் இலகுவான உணவு",
+  "pos": "noun",
+  "pron": "SUP-er",
+  "example": "We usually have a light supper at eight.",
+  "exampleTamil": "நாங்கள் பொதுவாக எட்டு மணிக்கு இலகுவான இரவு உணவு சாப்பிடுவோம்.",
+  "synonyms": [
+   "dinner"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "steam",
+  "meaning": "To cook food using the hot vapour from boiling water",
+  "tamil": "கொதிக்கும் நீரின் ஆவியில் உணவை வேகவைத்தல்",
+  "pos": "verb",
+  "pron": "STEEM",
+  "example": "Idlis are made by steaming the batter.",
+  "exampleTamil": "மாவை ஆவியில் வேகவைத்து இட்லி செய்யப்படுகிறது.",
+  "synonyms": [
+   "cook"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chill",
+  "meaning": "To make something cold, especially in the fridge",
+  "tamil": "குளிர்சாதனப் பெட்டியில் வைத்து குளிரச் செய்தல்",
+  "pos": "verb",
+  "pron": "CHIL",
+  "example": "Please chill the juice before the guests arrive.",
+  "exampleTamil": "விருந்தினர்கள் வருவதற்கு முன் ஜூஸை குளிர வையுங்கள்.",
+  "synonyms": [
+   "cool",
+   "refrigerate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "serve",
+  "meaning": "To give food to people at a meal",
+  "tamil": "உணவைப் பரிமாறுதல்",
+  "pos": "verb",
+  "pron": "SERV",
+  "example": "She serves hot rice to everyone first.",
+  "exampleTamil": "அவள் முதலில் எல்லோருக்கும் சூடான சாதம் பரிமாறுவாள்.",
+  "synonyms": [
+   "dish out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "aroma",
+  "meaning": "A pleasant strong smell, especially of food",
+  "tamil": "உணவின் இனிமையான மணம்",
+  "pos": "noun",
+  "pron": "uh-ROH-muh",
+  "example": "The aroma of fresh coffee filled the kitchen.",
+  "exampleTamil": "புதிய காபியின் மணம் சமையலறை முழுவதும் நிறைந்தது.",
+  "synonyms": [
+   "smell",
+   "fragrance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "baked",
+  "meaning": "Cooked in an oven with dry heat",
+  "tamil": "அடுப்பில் உலர் வெப்பத்தில் சுடப்பட்ட",
+  "pos": "adjective",
+  "pron": "BAYKT",
+  "example": "We bought some freshly baked bread this morning.",
+  "exampleTamil": "இன்று காலை நாங்கள் புதிதாகச் சுட்ட ரொட்டி வாங்கினோம்.",
+  "synonyms": [
+   "oven-cooked"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boiled",
+  "meaning": "Cooked in hot bubbling water",
+  "tamil": "கொதிக்கும் நீரில் வேகவைத்த",
+  "pos": "adjective",
+  "pron": "BOYLD",
+  "example": "The doctor told him to drink only boiled water.",
+  "exampleTamil": "காய்ச்சிய தண்ணீரை மட்டுமே குடிக்கும்படி மருத்துவர் அவனிடம் கூறினார்.",
+  "synonyms": [
+   "cooked in water"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fried",
+  "meaning": "Cooked in hot oil or fat",
+  "tamil": "எண்ணெயில் பொரித்த",
+  "pos": "adjective",
+  "pron": "FRYD",
+  "example": "Fried food every day is not good for health.",
+  "exampleTamil": "தினமும் பொரித்த உணவு உடலுக்கு நல்லதல்ல.",
+  "synonyms": [
+   "deep-fried",
+   "crisp"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "blend",
+  "meaning": "To mix food together smoothly, often in a machine",
+  "tamil": "உணவுப் பொருட்களை மிக்சியில் நன்றாகக் கலத்தல்",
+  "pos": "verb",
+  "pron": "BLEND",
+  "example": "Blend the mango and milk to make a shake.",
+  "exampleTamil": "மாம்பழத்தையும் பாலையும் கலந்து ஷேக் செய்யுங்கள்.",
+  "synonyms": [
+   "mix",
+   "puree"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "brew",
+  "meaning": "To make tea or coffee by pouring hot water over it",
+  "tamil": "தேயிலை அல்லது காபியை வெந்நீரில் ஊறவைத்துத் தயாரித்தல்",
+  "pos": "verb",
+  "pron": "BROO",
+  "example": "Let the tea brew for three minutes.",
+  "exampleTamil": "டீ மூன்று நிமிடங்கள் ஊறட்டும்.",
+  "synonyms": [
+   "steep",
+   "make"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "broth",
+  "meaning": "A thin soup made by boiling meat or vegetables",
+  "tamil": "இறைச்சி அல்லது காய்கறிகளை வேகவைத்துச் செய்த மெல்லிய சூப்",
+  "pos": "noun",
+  "pron": "BROTH",
+  "example": "Warm chicken broth helped her cold.",
+  "exampleTamil": "சூடான சிக்கன் சூப் அவளுடைய சளிக்கு உதவியது.",
+  "synonyms": [
+   "stock",
+   "soup"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "burner",
+  "meaning": "The part of a gas stove where the flame comes out",
+  "tamil": "கேஸ் அடுப்பில் தீ வரும் பகுதி",
+  "pos": "noun",
+  "pron": "BUR-ner",
+  "example": "Turn off the burner when the milk boils.",
+  "exampleTamil": "பால் பொங்கியதும் அடுப்பை அணைத்து விடுங்கள்.",
+  "synonyms": [
+   "gas ring"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "calories",
+  "meaning": "Units that measure the energy in food",
+  "tamil": "உணவில் உள்ள ஆற்றலை அளவிடும் அலகு, கலோரிகள்",
+  "pos": "noun",
+  "pron": "KAL-uh-reez",
+  "example": "A glass of sugarcane juice has many calories.",
+  "exampleTamil": "ஒரு கிளாஸ் கரும்புச்சாற்றில் நிறைய கலோரிகள் உள்ளன.",
+  "synonyms": [
+   "energy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cinnamon",
+  "meaning": "A sweet brown spice from tree bark",
+  "tamil": "மரப்பட்டையிலிருந்து கிடைக்கும் இனிப்பு மசாலா, இலவங்கப்பட்டை",
+  "pos": "noun",
+  "pron": "SIN-uh-mun",
+  "example": "Add a small piece of cinnamon to the biryani.",
+  "exampleTamil": "பிரியாணியில் ஒரு சிறிய துண்டு பட்டை சேர்க்கவும்.",
+  "synonyms": [
+   "spice"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clove",
+  "meaning": "A small dried flower bud used as a strong spice",
+  "tamil": "மணமுள்ள சிறிய காய்ந்த மொட்டு மசாலா, கிராம்பு",
+  "pos": "noun",
+  "pron": "KLOHV",
+  "example": "She put two cloves in the masala tea.",
+  "exampleTamil": "அவள் மசாலா டீயில் இரண்டு கிராம்பு போட்டாள்.",
+  "synonyms": [
+   "spice"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dice",
+  "meaning": "To cut food into small square pieces",
+  "tamil": "உணவை சிறிய சதுரத் துண்டுகளாக வெட்டுதல்",
+  "pos": "verb",
+  "pron": "DYSE",
+  "example": "Dice the onions and tomatoes for the salad.",
+  "exampleTamil": "சாலட்டுக்கு வெங்காயத்தையும் தக்காளியையும் சிறு துண்டுகளாக நறுக்குங்கள்.",
+  "synonyms": [
+   "cube",
+   "chop"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fizzy",
+  "meaning": "Full of small bubbles, like soda",
+  "tamil": "சோடா போல குமிழ்கள் நிறைந்த",
+  "pos": "adjective",
+  "pron": "FIZ-ee",
+  "example": "The doctor said to avoid fizzy drinks.",
+  "exampleTamil": "சோடா பானங்களைத் தவிர்க்கும்படி மருத்துவர் கூறினார்.",
+  "synonyms": [
+   "bubbly",
+   "sparkling"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "popcorn",
+  "meaning": "Corn that bursts into light white puffs when it is heated.",
+  "tamil": "சூடாக்கும்போது வெடித்து வெள்ளையாகப் பொரியும் சோளம்.",
+  "pos": "noun",
+  "pron": "POP-korn",
+  "example": "We shared a big bucket of popcorn at the movie.",
+  "exampleTamil": "படத்தில் நாங்கள் பெரிய வாளி பாப்கார்னைப் பகிர்ந்து கொண்டோம்.",
+  "synonyms": [
+   "snack"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "grill",
+  "meaning": "To cook food over strong direct heat from above or below.",
+  "tamil": "மேலிருந்தோ கீழிருந்தோ வரும் நேரடி வெப்பத்தில் உணவை சுடுதல்.",
+  "pos": "verb",
+  "pron": "GRIL",
+  "example": "We grilled fish on the beach last night.",
+  "exampleTamil": "நேற்றிரவு கடற்கரையில் மீனை நெருப்பில் சுட்டோம்.",
+  "synonyms": [
+   "barbecue",
+   "toast"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crumble",
+  "meaning": "To break food into very small pieces with your fingers.",
+  "tamil": "உணவை விரல்களால் மிகச் சிறு துண்டுகளாக உதிர்த்தல்.",
+  "pos": "verb",
+  "pron": "KRUM-bul",
+  "example": "Crumble the paneer over the hot rice.",
+  "exampleTamil": "சூடான சாதத்தின் மேல் பனீரை உதிர்த்துப் போடுங்கள்.",
+  "synonyms": [
+   "break",
+   "crush"
+  ],
+  "level": "intermediate"
+ }
+]

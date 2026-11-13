@@ -1,0 +1,345 @@
+[
+ {
+  "word": "greet",
+  "meaning": "To say hello to someone when you meet them",
+  "tamil": "வாழ்த்து சொல்லு, வரவேற்று பேசு",
+  "pos": "verb",
+  "pron": "GREET",
+  "example": "I greet my neighbours every morning with a smile.",
+  "exampleTamil": "நான் தினமும் காலை என் அண்டை வீட்டாரை புன்னகையுடன் வாழ்த்துகிறேன்.",
+  "synonyms": [
+   "welcome",
+   "hail"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "visit",
+  "meaning": "To go and spend time at a person's place or a place",
+  "tamil": "சென்று பார்",
+  "pos": "verb",
+  "pron": "VIZ-it",
+  "example": "We visit my grandmother every Sunday.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு ஞாயிற்றுக்கிழமையும் என் பாட்டியைப் பார்க்கச் செல்கிறோம்.",
+  "synonyms": [
+   "call on",
+   "stop by"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shower",
+  "meaning": "A wash under falling water; also a short rain",
+  "tamil": "குளியல்; சிறிய மழை",
+  "pos": "noun",
+  "pron": "SHOW-er",
+  "example": "I take a shower before going to bed.",
+  "exampleTamil": "நான் படுக்கைக்குச் செல்லும் முன் குளிக்கிறேன்.",
+  "synonyms": [
+   "bath",
+   "sprinkle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tonight",
+  "meaning": "On the evening or night of today",
+  "tamil": "இன்று இரவு",
+  "pos": "adverb",
+  "pron": "tuh-NITE",
+  "example": "Are you free tonight for dinner?",
+  "exampleTamil": "இன்று இரவு இரவு உணவுக்கு நீங்கள் ஃப்ரீயா?",
+  "synonyms": [
+   "this evening"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "yesterday",
+  "meaning": "The day before today",
+  "tamil": "நேற்று",
+  "pos": "adverb",
+  "pron": "YES-ter-day",
+  "example": "It rained a lot yesterday.",
+  "exampleTamil": "நேற்று நிறைய மழை பெய்தது.",
+  "synonyms": [
+   "the day before"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "early",
+  "meaning": "Before the usual or expected time",
+  "tamil": "சீக்கிரம், முன்னதாக",
+  "pos": "adverb",
+  "pron": "ER-lee",
+  "example": "I wake up early on weekdays.",
+  "exampleTamil": "நான் வார நாட்களில் சீக்கிரம் எழுந்திருக்கிறேன்.",
+  "synonyms": [
+   "ahead of time",
+   "soon"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "late",
+  "meaning": "After the usual or expected time",
+  "tamil": "தாமதமாக",
+  "pos": "adverb",
+  "pron": "LAYT",
+  "example": "Sorry, I am late because of the traffic.",
+  "exampleTamil": "மன்னிக்கவும், போக்குவரத்தால் நான் தாமதமாகிவிட்டேன்.",
+  "synonyms": [
+   "delayed",
+   "behind time"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hurry",
+  "meaning": "To move or act quickly because time is short",
+  "tamil": "அவசரப்படு",
+  "pos": "verb",
+  "pron": "HUR-ee",
+  "example": "Hurry up, the bus is coming!",
+  "exampleTamil": "சீக்கிரம், பேருந்து வருகிறது!",
+  "synonyms": [
+   "rush",
+   "hasten"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "promise",
+  "meaning": "To say you will surely do something",
+  "tamil": "வாக்குறுதி கொடு",
+  "pos": "verb",
+  "pron": "PROM-iss",
+  "example": "I promise I will call you tomorrow.",
+  "exampleTamil": "நாளை உனக்கு போன் செய்வேன் என்று வாக்குறுதி தருகிறேன்.",
+  "synonyms": [
+   "swear",
+   "assure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "joke",
+  "meaning": "Something said to make people laugh",
+  "tamil": "நகைச்சுவை, ஜோக்",
+  "pos": "noun",
+  "pron": "JOKE",
+  "example": "My uncle always tells funny jokes at dinner.",
+  "exampleTamil": "என் மாமா இரவு உணவில் எப்போதும் வேடிக்கையான ஜோக்குகள் சொல்வார்.",
+  "synonyms": [
+   "gag",
+   "funny story"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lovely",
+  "meaning": "Very nice and pleasant",
+  "tamil": "அழகான, இனிமையான",
+  "pos": "adjective",
+  "pron": "LUV-lee",
+  "example": "What a lovely day for a walk!",
+  "exampleTamil": "நடைப்பயிற்சிக்கு என்ன ஒரு அருமையான நாள்!",
+  "synonyms": [
+   "nice",
+   "charming"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "terrible",
+  "meaning": "Very bad or unpleasant",
+  "tamil": "மிக மோசமான",
+  "pos": "adjective",
+  "pron": "TER-uh-bul",
+  "example": "The weather was terrible during our trip.",
+  "exampleTamil": "எங்கள் பயணத்தின்போது வானிலை மிக மோசமாக இருந்தது.",
+  "synonyms": [
+   "awful",
+   "horrible"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wonderful",
+  "meaning": "Very good; making you feel happy",
+  "tamil": "அற்புதமான",
+  "pos": "adjective",
+  "pron": "WUN-der-ful",
+  "example": "You cooked a wonderful meal today.",
+  "exampleTamil": "இன்று நீங்கள் அற்புதமான உணவு சமைத்தீர்கள்.",
+  "synonyms": [
+   "great",
+   "fantastic"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "interesting",
+  "meaning": "Making you want to know or hear more",
+  "tamil": "சுவாரசியமான",
+  "pos": "adjective",
+  "pron": "IN-tuh-res-ting",
+  "example": "That was an interesting story.",
+  "exampleTamil": "அது ஒரு சுவாரசியமான கதை.",
+  "synonyms": [
+   "fascinating",
+   "engaging"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "guess",
+  "meaning": "To give an answer without being sure",
+  "tamil": "ஊகித்துச் சொல்",
+  "pos": "verb",
+  "pron": "GES",
+  "example": "Can you guess my age?",
+  "exampleTamil": "என் வயதை ஊகித்துச் சொல்ல முடியுமா?",
+  "synonyms": [
+   "estimate",
+   "suppose"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wonder",
+  "meaning": "To think about something and want to know",
+  "tamil": "யோசித்துப் பார், வியந்து கேள்",
+  "pos": "verb",
+  "pron": "WUN-der",
+  "example": "I wonder what time the shop opens.",
+  "exampleTamil": "கடை எத்தனை மணிக்கு திறக்கும் என்று யோசிக்கிறேன்.",
+  "synonyms": [
+   "ponder",
+   "ask oneself"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "upstairs",
+  "meaning": "On or to a higher floor of a building",
+  "tamil": "மாடியில், மேல் தளத்தில்",
+  "pos": "adverb",
+  "pron": "UP-stairz",
+  "example": "My room is upstairs, next to the balcony.",
+  "exampleTamil": "என் அறை மாடியில், பால்கனிக்கு பக்கத்தில் உள்ளது.",
+  "synonyms": [
+   "on the upper floor"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "downstairs",
+  "meaning": "On or to a lower floor of a building",
+  "tamil": "கீழ் தளத்தில்",
+  "pos": "adverb",
+  "pron": "DOWN-stairz",
+  "example": "Please wait downstairs, I am coming.",
+  "exampleTamil": "தயவுசெய்து கீழே காத்திருங்கள், நான் வருகிறேன்.",
+  "synonyms": [
+   "on the ground floor"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "everywhere",
+  "meaning": "In every place",
+  "tamil": "எல்லா இடத்திலும்",
+  "pos": "adverb",
+  "pron": "EV-ree-wair",
+  "example": "I looked everywhere for my keys.",
+  "exampleTamil": "என் சாவிகளை எல்லா இடத்திலும் தேடினேன்.",
+  "synonyms": [
+   "all over"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "somewhere",
+  "meaning": "In or to a place that is not named",
+  "tamil": "எங்கோ ஓர் இடத்தில்",
+  "pos": "adverb",
+  "pron": "SUM-wair",
+  "example": "Let us go somewhere quiet to talk.",
+  "exampleTamil": "பேசுவதற்கு அமைதியான எங்காவது போகலாம்.",
+  "synonyms": [
+   "someplace"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "nobody",
+  "meaning": "No person at all",
+  "tamil": "யாரும் இல்லை",
+  "pos": "pronoun",
+  "pron": "NO-bod-ee",
+  "example": "Nobody answered the door.",
+  "exampleTamil": "யாரும் கதவைத் திறக்கவில்லை.",
+  "synonyms": [
+   "no one"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "everybody",
+  "meaning": "All the people",
+  "tamil": "எல்லோரும்",
+  "pos": "pronoun",
+  "pron": "EV-ree-bod-ee",
+  "example": "Everybody is waiting for you in the hall.",
+  "exampleTamil": "எல்லோரும் ஹாலில் உங்களுக்காகக் காத்திருக்கிறார்கள்.",
+  "synonyms": [
+   "everyone",
+   "all"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sunshine",
+  "meaning": "Light and warmth from the sun",
+  "tamil": "சூரிய வெளிச்சம்",
+  "pos": "noun",
+  "pron": "SUN-shine",
+  "example": "The children are playing in the sunshine.",
+  "exampleTamil": "குழந்தைகள் சூரிய வெளிச்சத்தில் விளையாடுகிறார்கள்.",
+  "synonyms": [
+   "sunlight",
+   "daylight"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fog",
+  "meaning": "Thick cloud near the ground that is hard to see through",
+  "tamil": "பனிமூட்டம்",
+  "pos": "noun",
+  "pron": "FOG",
+  "example": "There was heavy fog on the road this morning.",
+  "exampleTamil": "இன்று காலை சாலையில் அடர்த்தியான பனிமூட்டம் இருந்தது.",
+  "synonyms": [
+   "mist",
+   "haze"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dry",
+  "meaning": "Not wet; without water",
+  "tamil": "உலர்ந்த, வறண்ட",
+  "pos": "adjective",
+  "pron": "DRY",
+  "example": "The clothes are dry now, you can fold them.",
+  "exampleTamil": "துணிகள் இப்போது காய்ந்துவிட்டன, மடிக்கலாம்.",
+  "synonyms": [
+   "not wet",
+   "arid"
+  ],
+  "level": "beginner"
+ }
+]

@@ -1,0 +1,364 @@
+[
+ {
+  "en": "Oh nice, that sounds like a great plan!",
+  "tamil": "ஓ நல்லா இருக்கே, அது சூப்பர் பிளான் மாதிரி இருக்கு!",
+  "context": "Reacting happily to a friend's weekend plan.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Sounds like ...' is a friendly way to react to someone's idea.",
+  "words": [
+   "plan",
+   "great"
+  ],
+  "usage": "Use it with a friend who just told you what they will do.",
+  "leelaQ": "What plan do you have for this weekend?",
+  "answer": "I am going to visit my grandmother this weekend."
+ },
+ {
+  "en": "It has been ages, you look so well!",
+  "tamil": "எவ்வளவு நாளாச்சு, நீ ரொம்ப நல்லா இருக்க!",
+  "context": "Greeting an old friend warmly.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'It has been ages' means a very long time. It is a warm, casual greeting.",
+  "words": [
+   "ages",
+   "well"
+  ],
+  "usage": "Use it when you meet a friend or relative after a long gap.",
+  "leelaQ": "Who did you meet after ages recently?",
+  "answer": "I met my school friend at a wedding last month."
+ },
+ {
+  "en": "I was just thinking about you!",
+  "tamil": "நான் இப்பதான் உன்னைப் பத்தி யோசிச்சுக்கிட்டு இருந்தேன்!",
+  "context": "Meeting a friend you were thinking about.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Just' shows the action happened a moment ago. It is a warm way to greet someone.",
+  "words": [
+   "thinking"
+  ],
+  "usage": "Say it when a friend calls or appears at the right moment.",
+  "leelaQ": "Who did you think about today?",
+  "answer": "I thought about my school friend Karthik today."
+ },
+ {
+  "en": "Let's catch up over tea this Sunday.",
+  "tamil": "இந்த ஞாயிற்றுக்கிழமை டீ குடிச்சுக்கிட்டே பேசலாம்.",
+  "context": "Suggesting a meeting.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let's' means 'let us'. 'Catch up' means to share news after some time.",
+  "words": [
+   "catch up"
+  ],
+  "usage": "Use it to suggest a meet-up with a friend you have not seen lately.",
+  "leelaQ": "Who would you like to catch up with this week?",
+  "answer": "I would like to catch up with my school friend."
+ },
+ {
+  "en": "It is really good to see you again.",
+  "tamil": "உன்னை மறுபடியும் பார்த்தது ரொம்ப சந்தோஷம்.",
+  "context": "Greeting a friend after a long time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Good to see you' is a simple, warm greeting for people you like.",
+  "words": [
+   "again"
+  ],
+  "usage": "Use it when you meet a friend or relative after many months.",
+  "leelaQ": "When did you last meet an old friend?",
+  "answer": "I met an old friend last month at a wedding."
+ },
+ {
+  "en": "I have never tried that, but it looks tasty.",
+  "tamil": "நான் அதை ஒரு தடவை கூட சாப்பிட்டதில்ல, ஆனா டேஸ்டியா தெரியுது.",
+  "context": "Reacting to new food.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Never' shows you have no experience. 'But' adds a positive idea.",
+  "words": [
+   "never",
+   "tasty"
+  ],
+  "usage": "Use it when a friend shows you a food that you have not eaten.",
+  "leelaQ": "What food have you never tried?",
+  "answer": "I have never tried sushi."
+ },
+ {
+  "en": "The weather is so nice today, isn't it?",
+  "tamil": "இன்னைக்கு வெதர் ரொம்ப நல்லா இருக்கு, இல்லையா?",
+  "context": "Starting small talk.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Isn't it?' is a question tag. It invites the other person to agree.",
+  "words": [
+   "weather",
+   "nice"
+  ],
+  "usage": "Use it to start a friendly chat with a neighbour or a colleague.",
+  "leelaQ": "What kind of weather do you like?",
+  "answer": "I like cool weather with a light breeze."
+ },
+ {
+  "en": "Wow, that is such good news!",
+  "tamil": "வாவ், இது ரொம்ப நல்ல செய்தி!",
+  "context": "Reacting to a friend's happy news.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Such' makes the word 'good' stronger. Use it to show real excitement.",
+  "words": [
+   "news"
+  ],
+  "usage": "Say it when someone tells you about a job, a baby or a result.",
+  "leelaQ": "What good news did you hear recently?",
+  "answer": "My cousin got a new job, and that was good news."
+ },
+ {
+  "en": "Oh no, I am so sorry to hear that.",
+  "tamil": "அய்யோ, அதைக் கேட்க ரொம்ப வருத்தமா இருக்கு.",
+  "context": "Responding kindly to bad news.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Sorry to hear that' shows sympathy. It does not mean you did something wrong.",
+  "words": [
+   "sorry"
+  ],
+  "usage": "Use it when a friend or colleague shares a problem or a loss.",
+  "leelaQ": "How do you comfort a friend who feels sad?",
+  "answer": "I sit with him and listen to his problem."
+ },
+ {
+  "en": "Any plans for the long weekend?",
+  "tamil": "லீவு நாளுக்கு ஏதாவது பிளான் இருக்கா?",
+  "context": "Asking a colleague about holiday plans.",
+  "tense": "present",
+  "type": "question",
+  "explain": "This short question skips 'do you have'. It is common in casual talk.",
+  "words": [
+   "plans",
+   "long weekend"
+  ],
+  "usage": "Use it on a Friday with a friend or colleague before a holiday.",
+  "leelaQ": "What will you do on the next long weekend?",
+  "answer": "I will visit my native place and meet my relatives."
+ },
+ {
+  "en": "That happens to me all the time.",
+  "tamil": "அது எனக்கும் எப்பவும் நடக்கும்.",
+  "context": "Agreeing with a friend's small problem.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'All the time' means very often. It shows you understand the other person.",
+  "words": [
+   "happens"
+  ],
+  "usage": "Use it to connect with a friend who shares a common problem.",
+  "leelaQ": "What small problem happens to you often?",
+  "answer": "I often forget my umbrella at the office."
+ },
+ {
+  "en": "Please tell me more about it.",
+  "tamil": "தயவு செஞ்சு அதைப் பத்தி இன்னும் சொல்லுங்க.",
+  "context": "Showing interest in a story.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Tell me more' keeps a chat going. 'Please' makes it polite.",
+  "words": [
+   "tell me more"
+  ],
+  "usage": "Use it when someone shares a story and you are curious.",
+  "leelaQ": "What do you ask when you are interested in a story?",
+  "answer": "I ask the person to tell me more about it."
+ },
+ {
+  "en": "Yes, I completely agree with you on that.",
+  "tamil": "ஆமா, அந்த விஷயத்துல நான் உன்கூட முழுசா ஒத்துக்கிறேன்.",
+  "context": "Agreeing strongly in a discussion.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Completely' makes 'agree' stronger. 'On that' points to the topic.",
+  "words": [
+   "agree",
+   "completely"
+  ],
+  "usage": "Use it in a chat with friends or in a meeting to support an idea.",
+  "leelaQ": "Which opinion of your friends do you agree with?",
+  "answer": "I agree with my friends that tea is better than coffee."
+ },
+ {
+  "en": "Let me think, I am not sure yet.",
+  "tamil": "யோசிக்கிறேன், எனக்கு இன்னும் உறுதியா தெரியல.",
+  "context": "Not ready to decide.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not sure' shows you have not decided. 'Yet' means up to now.",
+  "words": [
+   "sure",
+   "yet"
+  ],
+  "usage": "Use it when a friend asks you to decide on a plan quickly.",
+  "leelaQ": "What are you not sure about these days?",
+  "answer": "I am not sure about my holiday plan."
+ },
+ {
+  "en": "Did you see the cricket score this morning?",
+  "tamil": "இன்னைக்கு காலைல கிரிக்கெட் ஸ்கோர் பார்த்தியா?",
+  "context": "Starting a chat about cricket.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did' + base verb makes a past question. Sports is a very common topic.",
+  "words": [
+   "cricket",
+   "score"
+  ],
+  "usage": "Use it with friends or colleagues when a big match is on.",
+  "leelaQ": "Do you like watching cricket?",
+  "answer": "Yes, I watch every India match with my father."
+ },
+ {
+  "en": "It has been raining since morning.",
+  "tamil": "காலையிலிருந்து மழை பெய்துக்கிட்டே இருக்கு.",
+  "context": "Small talk about the weather.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has been raining since morning' shows an action that started in the past and continues now.",
+  "words": [
+   "raining",
+   "morning"
+  ],
+  "usage": "Use it as small talk with neighbours or colleagues on a rainy day.",
+  "leelaQ": "How is the weather where you are today?",
+  "answer": "It is cloudy today, and it rained a little in the morning."
+ },
+ {
+  "en": "I am just relaxing at home today.",
+  "tamil": "நான் இன்னைக்கு வீட்டுலயே சும்மா ரிலாக்ஸ் பண்ணிக்கிட்டு இருக்கேன்.",
+  "context": "Telling a friend what you are doing.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Just' means nothing special. Present continuous shows what you are doing now.",
+  "words": [
+   "relaxing"
+  ],
+  "usage": "Say it when a friend asks what you are doing on a holiday.",
+  "leelaQ": "How do you relax at home?",
+  "answer": "I listen to old songs and drink hot tea."
+ },
+ {
+  "en": "Where did you get that bag?",
+  "tamil": "அந்த பேக் எங்க வாங்கின?",
+  "context": "Complimenting someone's bag.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Asking where someone bought a thing is a friendly way to praise it.",
+  "words": [
+   "bag"
+  ],
+  "usage": "Use it when you like something that a friend is carrying.",
+  "leelaQ": "Where do you usually buy your clothes?",
+  "answer": "I usually buy my clothes from a shop in T Nagar."
+ },
+ {
+  "en": "We should definitely meet up sometime.",
+  "tamil": "நாம கண்டிப்பா எப்பவாவது சந்திக்கணும்.",
+  "context": "Ending a chat with an old friend.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should definitely' shows a strong wish to do something. 'Meet up' means to meet casually.",
+  "words": [
+   "meet up",
+   "definitely"
+  ],
+  "usage": "Use it at the end of a chat when you want to see someone again.",
+  "leelaQ": "Who would you like to meet up with soon?",
+  "answer": "I would like to meet my college friends soon."
+ },
+ {
+  "en": "Could you say that once again?",
+  "tamil": "அதை இன்னொரு தடவை சொல்ல முடியுமா?",
+  "context": "Asking for repetition.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is polite. 'Once again' is natural spoken Indian English.",
+  "words": [
+   "once again"
+  ],
+  "usage": "Use it on a call or in a noisy place when you missed something.",
+  "leelaQ": "What do you do when you did not hear someone?",
+  "answer": "I politely ask the person to say it once again."
+ },
+ {
+  "en": "I will call you back in five minutes.",
+  "tamil": "நான் அஞ்சு நிமிஷத்துல திரும்ப கூப்பிடுறேன்.",
+  "context": "Ending a call because you are busy.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Call back' means to phone someone again. 'In five minutes' gives a clear time.",
+  "words": [
+   "call you back"
+  ],
+  "usage": "Use it when you cannot talk right now but want to talk soon.",
+  "leelaQ": "What do you say when you are busy and someone calls?",
+  "answer": "I say I will call back in a few minutes."
+ },
+ {
+  "en": "It is a small world, I cannot believe it!",
+  "tamil": "உலகம் ரொம்ப சின்னது, என்னால நம்பவே முடியல!",
+  "context": "Surprised at a coincidence.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Small world' is said when you meet someone by chance. 'Cannot believe' shows surprise.",
+  "words": [
+   "small world",
+   "believe"
+  ],
+  "usage": "Say it when you meet an old friend in an unexpected place.",
+  "leelaQ": "When did you meet someone by chance?",
+  "answer": "I met my teacher at a railway station by chance."
+ },
+ {
+  "en": "How did your day go today?",
+  "tamil": "இன்னைக்கு உன் நாள் எப்படி போச்சு?",
+  "context": "Asking a family member in the evening.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'How did ... go' asks if something went well. It is friendlier than a plain 'How was'.",
+  "words": [
+   "day",
+   "go"
+  ],
+  "usage": "Use it with family or friends when they come home in the evening.",
+  "leelaQ": "What was the best part of your day today?",
+  "answer": "The best part was having dinner with my family."
+ },
+ {
+  "en": "Actually, I am a bit tired today.",
+  "tamil": "உண்மையில, நான் இன்னைக்கு கொஞ்சம் டயர்டா இருக்கேன்.",
+  "context": "Politely sharing how you feel.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'A bit' makes the feeling softer. 'Actually' starts an honest answer.",
+  "words": [
+   "tired"
+  ],
+  "usage": "Use it when a friend asks if you are free to go out.",
+  "leelaQ": "How do you feel today?",
+  "answer": "I feel a bit sleepy because I woke up early."
+ },
+ {
+  "en": "My day was pretty busy, but it went well.",
+  "tamil": "என் நாள் கொஞ்சம் பிஸியா இருந்தது, ஆனா நல்லா போச்சு.",
+  "context": "Answering 'How was your day?'",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Pretty' here means quite. 'But' joins two different ideas.",
+  "words": [
+   "busy"
+  ],
+  "usage": "Use it when family or friends ask about your day in the evening.",
+  "leelaQ": "How was your day today?",
+  "answer": "My day was good, and I finished all my work."
+ }
+]

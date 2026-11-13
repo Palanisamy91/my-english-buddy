@@ -1,0 +1,375 @@
+[
+ {
+  "en": "Yesterday I missed the bus, so I walked to the office.",
+  "tamil": "நேத்து பஸ்ஸை விட்டுட்டேன், அதனால ஆபீஸ் வரைக்கும் நடந்தே போனேன்.",
+  "context": "Explaining to a colleague why you looked tired.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Missed' and 'walked' are past tense. 'So' joins a result to its reason.",
+  "words": [
+   "missed",
+   "walked"
+  ],
+  "usage": "Use it with colleagues to explain a small problem from the day before.",
+  "leelaQ": "What happened to you on the way to work yesterday?",
+  "answer": "Yesterday I missed the bus, so I took an auto."
+ },
+ {
+  "en": "What happened to you yesterday?",
+  "tamil": "நேத்து உனக்கு என்ன ஆச்சு?",
+  "context": "Asking a colleague why they were absent.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'What happened?' asks about an event. Use it to show concern.",
+  "words": [
+   "happened"
+  ],
+  "usage": "Use it with a colleague or friend who missed something.",
+  "leelaQ": "Why did you miss the office or class last time?",
+  "answer": "I missed it because I had a fever."
+ },
+ {
+  "en": "We went to Ooty last summer and it rained every day.",
+  "tamil": "போன கோடையில ஊட்டிக்கு போனோம், தினமும் மழை பெய்துச்சு.",
+  "context": "Telling a friend about a holiday.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Went' is the past of 'go'. 'Last summer' tells when it happened.",
+  "words": [
+   "rained",
+   "summer"
+  ],
+  "usage": "Use it when you share a trip story with friends or relatives.",
+  "leelaQ": "Where did you go for your last holiday?",
+  "answer": "We went to Munnar last year and the weather was lovely."
+ },
+ {
+  "en": "Please tell me what happened at the bank.",
+  "tamil": "பேங்க்ல என்ன நடந்துச்சுன்னு தயவு செய்து சொல்லுங்க.",
+  "context": "Asking a family member for the full story.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please tell me' is a polite request. 'What happened' follows without a question form.",
+  "words": [
+   "tell",
+   "bank"
+  ],
+  "usage": "Use it with family or friends when you want the whole story.",
+  "leelaQ": "Can you tell me about a time you went to a bank?",
+  "answer": "I went to open an account and waited for an hour."
+ },
+ {
+  "en": "When I was small, I used to catch fish in the village pond.",
+  "tamil": "நான் சின்னவனா இருந்தப்போ ஊர் குளத்துல மீன் பிடிப்பேன்.",
+  "context": "Sharing a childhood memory with friends.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Used to' talks about a habit in the past that does not happen now.",
+  "words": [
+   "used to",
+   "pond"
+  ],
+  "usage": "Use it to talk about childhood with friends, cousins or new colleagues.",
+  "leelaQ": "What did you love doing when you were a child?",
+  "answer": "I used to play cricket in the street every evening."
+ },
+ {
+  "en": "I did not sleep well last night because of the noise.",
+  "tamil": "சத்தம் காரணமா நேத்து ராத்திரி நல்லா தூங்கல.",
+  "context": "Telling a colleague why you look tired.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "Negative past: 'did not' plus the base verb 'sleep'.",
+  "words": [
+   "sleep",
+   "noise"
+  ],
+  "usage": "Use it to explain tiredness to a friend or manager.",
+  "leelaQ": "How did you sleep last night?",
+  "answer": "I slept well because the night was cool."
+ },
+ {
+  "en": "I have visited Madurai three times this year.",
+  "tamil": "இந்த வருஷம் மூணு தடவை மதுரைக்கு போயிருக்கேன்.",
+  "context": "Telling a friend how often you travelled.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect (have + visited) links past visits with now. 'This year' is not finished yet.",
+  "words": [
+   "visited",
+   "times"
+  ],
+  "usage": "Use it to say how many times you did something up to now.",
+  "leelaQ": "How many times have you travelled this year?",
+  "answer": "I have travelled four times this year, mostly for work."
+ },
+ {
+  "en": "Where did you go last weekend?",
+  "tamil": "போன வார இறுதியில எங்க போனீங்க?",
+  "context": "Starting a Monday chat with a friend.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Use 'did' plus the base verb 'go' in past questions. Do not say 'did you went'.",
+  "words": [
+   "weekend"
+  ],
+  "usage": "Use it on Monday to start a friendly talk at work or college.",
+  "leelaQ": "What did you do on the last weekend?",
+  "answer": "I went to my native place with my family."
+ },
+ {
+  "en": "First I called the mechanic, then I waited near the bike for an hour.",
+  "tamil": "முதல்ல மெக்கானிக்கை கூப்பிட்டேன், அப்புறம் வண்டி பக்கத்துலயே ஒரு மணி நேரம் காத்திருந்தேன்.",
+  "context": "Describing what happened when your bike broke down.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'First' and 'then' show the order of events in a story.",
+  "words": [
+   "mechanic",
+   "waited"
+  ],
+  "usage": "Use it to tell events in order when you explain a problem to a friend.",
+  "leelaQ": "What did you do when your vehicle broke down?",
+  "answer": "First I stopped on the side, then I called my brother."
+ },
+ {
+  "en": "Did you enjoy the trip to Kodaikanal?",
+  "tamil": "கொடைக்கானல் டிரிப் ரசிச்சீங்களா?",
+  "context": "Asking a friend after their holiday.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Past yes/no questions start with 'Did' and use the base verb.",
+  "words": [
+   "enjoy",
+   "trip"
+  ],
+  "usage": "Use it when a friend or colleague comes back from a trip.",
+  "leelaQ": "Did you enjoy your last trip, and why?",
+  "answer": "Yes, I enjoyed it because the weather was cool."
+ },
+ {
+  "en": "My phone fell into the water, and I panicked.",
+  "tamil": "என் ஃபோன் தண்ணில விழுந்துடுச்சு, நான் பயந்துட்டேன்.",
+  "context": "Telling a friend about a small accident.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Fell' is the irregular past of 'fall'. 'Panicked' shows a sudden fear.",
+  "words": [
+   "fell",
+   "panicked"
+  ],
+  "usage": "Use it to share a stressful moment in a casual chat.",
+  "leelaQ": "Have you ever dropped your phone? What happened?",
+  "answer": "Yes, I dropped it in the bucket and it stopped working."
+ },
+ {
+  "en": "Could you tell me how the interview went?",
+  "tamil": "இன்டர்வியூ எப்படி போச்சுன்னு சொல்ல முடியுமா?",
+  "context": "Asking a friend after a job interview.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is polite. 'How the interview went' stays in statement order.",
+  "words": [
+   "interview",
+   "went"
+  ],
+  "usage": "Use it to politely ask about someone's recent experience.",
+  "leelaQ": "How did your last interview or exam go?",
+  "answer": "It went well, and I answered most questions."
+ },
+ {
+  "en": "After we finished lunch, we all went to see a movie.",
+  "tamil": "சாப்பிட்டு முடிச்சப்புறம் எல்லாரும் சினிமாவுக்கு போனோம்.",
+  "context": "Telling a colleague about a family outing.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'After' joins two past events. The first event happened before the second.",
+  "words": [
+   "finished",
+   "movie"
+  ],
+  "usage": "Use it to tell what you did after a meal or event.",
+  "leelaQ": "What did you do last Sunday after lunch?",
+  "answer": "After lunch we rested for some time and then visited my aunt."
+ },
+ {
+  "en": "We have not met each other since college.",
+  "tamil": "காலேஜுக்கு அப்புறம் நாங்க ஒருத்தரை ஒருத்தர் பார்க்கவே இல்ல.",
+  "context": "Talking about an old friend.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have not' with 'since' shows a long time without an action.",
+  "words": [
+   "met",
+   "since"
+  ],
+  "usage": "Use it when you talk about an old friend you have lost touch with.",
+  "leelaQ": "Who is an old friend you haven't met for years?",
+  "answer": "I have not met my school friend Ravi for ten years."
+ },
+ {
+  "en": "I have just come back from my cousin's wedding.",
+  "tamil": "நான் இப்பதான் என் மாமா பையன் கல்யாணத்துல இருந்து வந்தேன்.",
+  "context": "Telling a neighbour where you were.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have just' means something finished a very short time ago.",
+  "words": [
+   "just",
+   "wedding"
+  ],
+  "usage": "Use it when someone asks where you were, or why you are tired.",
+  "leelaQ": "Have you been to a wedding recently?",
+  "answer": "Yes, I have just attended my friend's wedding in Salem."
+ },
+ {
+  "en": "Have you ever been to Rameswaram?",
+  "tamil": "நீங்க எப்பவாவது ராமேஸ்வரம் போயிருக்கீங்களா?",
+  "context": "Asking about someone's travel experience.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you ever...?' asks about experience in a whole life.",
+  "words": [
+   "ever",
+   "rameswaram"
+  ],
+  "usage": "Use it to ask new friends about places they have visited.",
+  "leelaQ": "Have you ever been to a famous temple town?",
+  "answer": "Yes, I have been to Madurai and Tirupati."
+ },
+ {
+  "en": "Last month my brother lost his wallet in the train.",
+  "tamil": "போன மாசம் என் தம்பி ரயில்ல பர்ஸை தொலைச்சுட்டான்.",
+  "context": "Telling a friend about a family problem.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Lost' is the past of 'lose'. 'Last month' tells us when.",
+  "words": [
+   "lost",
+   "wallet"
+  ],
+  "usage": "Use it to tell a friend a sad or unlucky event from the past.",
+  "leelaQ": "Did you ever lose something important?",
+  "answer": "Yes, I once lost my ID card in the market."
+ },
+ {
+  "en": "What did you do after the exam finished?",
+  "tamil": "பரீட்சை முடிஞ்சப்புறம் என்ன பண்ணுனீங்க?",
+  "context": "Asking a friend about the day of the exam.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'What did you do' asks about an action. 'After' adds the time order.",
+  "words": [
+   "exam",
+   "finished"
+  ],
+  "usage": "Use it to ask what someone did after an event.",
+  "leelaQ": "What did you do after your last exam?",
+  "answer": "I went home and slept for a few hours."
+ },
+ {
+  "en": "I was cooking when the gas cylinder ran out.",
+  "tamil": "நான் சமைச்சுட்டு இருந்தப்போ கேஸ் சிலிண்டர் தீர்ந்துடுச்சு.",
+  "context": "Telling a neighbour about a kitchen problem.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past continuous (was cooking) shows the long action. Simple past (ran out) shows the sudden one.",
+  "words": [
+   "cooking",
+   "cylinder"
+  ],
+  "usage": "Use it to explain what you were doing when something suddenly happened.",
+  "leelaQ": "What were you doing when the power went off?",
+  "answer": "I was watching TV when the power went off."
+ },
+ {
+  "en": "Tell me about your last holiday.",
+  "tamil": "உங்க கடைசி விடுமுறையை பத்தி சொல்லுங்க.",
+  "context": "Chatting with a new friend.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "A simple imperative to invite someone to tell their story.",
+  "words": [
+   "holiday",
+   "last"
+  ],
+  "usage": "Use it in casual chats to start a story.",
+  "leelaQ": "Where did you spend your last holiday?",
+  "answer": "I went to Pondicherry and enjoyed the beach."
+ },
+ {
+  "en": "Finally, the auto driver found the right street after one hour.",
+  "tamil": "கடைசியா ஆட்டோ டிரைவர் ஒரு மணி நேரம் கழிச்சு சரியான தெருவை கண்டுபிடிச்சார்.",
+  "context": "Telling a friend about a long journey.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Finally' shows the last event in a story after some waiting.",
+  "words": [
+   "finally",
+   "street"
+  ],
+  "usage": "Use it at the end of a story to show the problem was solved.",
+  "leelaQ": "Have you ever got lost in a new place?",
+  "answer": "Yes, I got lost in Bangalore and a shopkeeper showed me the way."
+ },
+ {
+  "en": "He never told me about the accident.",
+  "tamil": "அவன் விபத்தை பத்தி எனக்கு எப்பவுமே சொல்லல.",
+  "context": "Complaining that a friend hid something.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Never' makes the sentence negative. It is used with a past verb.",
+  "words": [
+   "never",
+   "accident"
+  ],
+  "usage": "Use it when someone did not share important news with you.",
+  "leelaQ": "Do you like to share bad news with friends?",
+  "answer": "Yes, I share it so they can help me."
+ },
+ {
+  "en": "We have lived in this house for ten years.",
+  "tamil": "நாங்க இந்த வீட்டுல பத்து வருஷமா இருக்கோம்.",
+  "context": "Telling a new neighbour about yourself.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect with 'for' shows something that started in the past and still continues.",
+  "words": [
+   "lived",
+   "years"
+  ],
+  "usage": "Use it when you talk about how long you have stayed in a place.",
+  "leelaQ": "How long have you lived in your present house?",
+  "answer": "We have lived here for five years."
+ },
+ {
+  "en": "Who told you about the accident?",
+  "tamil": "அந்த விபத்தை பத்தி உங்களுக்கு யாரு சொன்னாங்க?",
+  "context": "Asking a family member how they heard bad news.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Who' asks about the person. After 'who' in a past question, use the past verb directly.",
+  "words": [
+   "accident",
+   "told"
+  ],
+  "usage": "Use it to find out the source of news in a serious situation.",
+  "leelaQ": "How do you usually get the news every day?",
+  "answer": "I read it on my phone in the morning."
+ },
+ {
+  "en": "My grandmother used to tell us stories every night.",
+  "tamil": "எங்க பாட்டி தினமும் ராத்திரி எங்களுக்கு கதை சொல்லுவாங்க.",
+  "context": "Remembering your childhood with a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Used to' shows a regular habit in the past.",
+  "words": [
+   "grandmother",
+   "stories"
+  ],
+  "usage": "Use it to share warm family memories in a chat.",
+  "leelaQ": "Who told you stories when you were small?",
+  "answer": "My grandfather told me stories before I slept."
+ }
+]

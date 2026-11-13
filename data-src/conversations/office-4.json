@@ -1,0 +1,335 @@
+[
+ {
+  "category": "office",
+  "context": "Disappointed with the hike",
+  "level": "intermediate",
+  "en": "I got only a seven percent hike this year. Honestly, I expected more.",
+  "tamil": "இந்த வருஷம் ஏழு சதவீதம் மட்டும்தான் உயர்வு கிடைச்சது. உண்மையில, நான் இன்னும் அதிகம் எதிர்பார்த்தேன்.",
+  "reply": "I can understand that. Have you talked to your manager about what you need to do for a bigger jump next time?",
+  "replyTamil": "புரிஞ்சுக்க முடியுது. அடுத்த முறை பெரிய உயர்வு கிடைக்க என்ன செய்யணும்னு மேனேஜர்கிட்ட பேசினீங்களா?"
+ },
+ {
+  "category": "office",
+  "context": "Rating discussion",
+  "level": "intermediate",
+  "en": "My rating came as 'meets expectations'. Can I ask what would take it to the next level?",
+  "tamil": "என் ரேட்டிங் 'எதிர்பார்ப்பை பூர்த்தி செய்கிறது'ன்னு வந்திருக்கு. அடுத்த நிலைக்குப் போக என்ன வேணும்னு கேட்கலாமா?",
+  "reply": "Of course. Mainly, take ownership of a bigger project and mentor the juniors.",
+  "replyTamil": "கண்டிப்பா. முக்கியமா, ஒரு பெரிய ப்ராஜெக்ட்டோட பொறுப்பை எடுத்துக்கோங்க, ஜூனியர்களுக்கு வழிகாட்டுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Asking someone to speak for you in review",
+  "level": "intermediate",
+  "en": "Would you mind giving me some peer feedback this cycle? I'd really appreciate it.",
+  "tamil": "இந்த சுற்றுல எனக்கு ஒரு பியர் ஃபீட்பேக் கொடுக்க முடியுமா? ரொம்ப உதவியா இருக்கும்.",
+  "reply": "Happy to. You've been great to work with, so it'll be easy to write.",
+  "replyTamil": "மகிழ்ச்சியா செய்றேன். உங்ககூட வேலை செய்றது நல்லா இருக்கு, அதனால எழுத ஈசியா இருக்கும்."
+ },
+ {
+  "category": "office",
+  "context": "Negotiating salary at promotion",
+  "level": "advanced",
+  "en": "Now that I've taken on the lead responsibilities, I'd like to discuss how my compensation reflects that.",
+  "tamil": "லீட் பொறுப்புகளை ஏற்றுக்கொண்ட நிலையில், என் சம்பளம் அதை எப்படி பிரதிபலிக்குது என்பதைப் பத்தி பேச விரும்பறேன்.",
+  "reply": "That's fair. Let me take it up with HR and get back to you with something concrete by next week.",
+  "replyTamil": "நியாயம்தான். எச்ஆர்கிட்ட பேசி, அடுத்த வாரத்துக்குள்ள உறுதியான பதிலோட வர்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Asked about salary expectations",
+  "level": "advanced",
+  "en": "If a raise isn't possible right now, would you consider a revised title or a review in six months?",
+  "tamil": "இப்போ சம்பள உயர்வு சாத்தியம் இல்லன்னா, பதவிப் பெயரை மாற்றுவது அல்லது ஆறு மாசத்துல மறுபடி பரிசீலிப்பது பத்தி யோசிப்பீங்களா?",
+  "reply": "That's a reasonable middle ground. Let me check what the budget allows and revert.",
+  "replyTamil": "அது நல்ல நடுவழி. பட்ஜெட்ல என்ன முடியும்னு பார்த்துட்டு சொல்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Congratulating on a promotion",
+  "level": "beginner",
+  "en": "I got promoted!",
+  "tamil": "எனக்கு பிரமோஷன் கிடைச்சிருக்கு!",
+  "reply": "Wow, congratulations! You totally deserve it. Treat us at the canteen!",
+  "replyTamil": "வாவ், வாழ்த்துகள்! நீங்க கண்டிப்பா தகுதியானவர். கேன்டீன்ல ட்ரீட் கொடுங்க!"
+ },
+ {
+  "category": "office",
+  "context": "First day at the company",
+  "level": "beginner",
+  "en": "Welcome to the team! Is it your first day?",
+  "tamil": "டீமுக்கு வரவேற்கிறேன்! இன்னைக்கு உங்க முதல் நாளா?",
+  "reply": "Yes, it is. I'm a little nervous, but everyone has been so friendly.",
+  "replyTamil": "ஆமா. கொஞ்சம் பதட்டமா இருக்கு, ஆனா எல்லாரும் ரொம்ப நட்பா இருக்காங்க."
+ },
+ {
+  "category": "office",
+  "context": "Getting a laptop",
+  "level": "beginner",
+  "en": "Have you received your laptop yet?",
+  "tamil": "உங்க லேப்டாப் வந்துடுச்சா?",
+  "reply": "Yes, IT gave it this morning. I'm still waiting for my email ID, though.",
+  "replyTamil": "ஆமா, இன்னைக்கு காலையில ஐடி கொடுத்தாங்க. ஆனா என் மெயில் ஐடி இன்னும் வரல."
+ },
+ {
+  "category": "office",
+  "context": "Introducing the new joiner",
+  "level": "beginner",
+  "en": "Everyone, this is Meena. She's joining our team today.",
+  "tamil": "எல்லாரும், இவங்க மீனா. இன்னைக்கு நம்ம டீம்ல சேர்றாங்க.",
+  "reply": "Hi everyone, nice to meet you all. I'm looking forward to working with you.",
+  "replyTamil": "எல்லாருக்கும் வணக்கம், உங்க எல்லாரையும் சந்திச்சதுல சந்தோஷம். உங்ககூட வேலை செய்ய ஆவலா இருக்கேன்."
+ },
+ {
+  "category": "office",
+  "context": "Setting up development environment",
+  "level": "intermediate",
+  "en": "Is there a setup guide for the project? I'm unable to build it on my machine.",
+  "tamil": "ப்ராஜெக்ட்டுக்கு செட்டப் கைடு ஏதாவது இருக்கா? என் மெஷின்ல பில்ட் பண்ண முடியல.",
+  "reply": "There's a wiki page, but it's outdated. Sit with me and I'll show you the right steps.",
+  "replyTamil": "ஒரு விக்கி பேஜ் இருக்கு, ஆனா அது பழசு. என் பக்கத்துல உக்காருங்க, சரியான ஸ்டெப்ஸ் காட்டுறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Buddy for new joiner",
+  "level": "intermediate",
+  "en": "You've been assigned as my buddy for the first month. Where should I begin?",
+  "tamil": "முதல் மாசத்துக்கு நீங்க என் பட்டியா நியமிக்கப்பட்டிருக்கீங்க. நான் எங்கிருந்து ஆரம்பிக்கணும்?",
+  "reply": "Start with the architecture doc, then pick a small bug from the backlog. That's the best way to learn.",
+  "replyTamil": "ஆர்கிடெக்சர் டாக்குமென்ட்டை முதல்ல படிங்க, அப்புறம் பேக்லாக்ல இருந்து ஒரு சின்ன பக்கை எடுங்க. கத்துக்க அதுதான் சிறந்த வழி."
+ },
+ {
+  "category": "office",
+  "context": "Lost in acronyms",
+  "level": "intermediate",
+  "en": "Everyone keeps using abbreviations I don't understand. Is there a list somewhere?",
+  "tamil": "எல்லாரும் எனக்குப் புரியாத சுருக்கெழுத்துகளைப் பயன்படுத்துறாங்க. எங்கேயாவது லிஸ்ட் இருக்கா?",
+  "reply": "Ha, we all felt the same. Just ask whenever you're lost, nobody will mind.",
+  "replyTamil": "ஹா, எங்க எல்லாருக்கும் அப்படித்தான் இருந்துச்சு. குழப்பமா இருக்கும்போது கேளுங்க, யாரும் தப்பா நினைக்க மாட்டாங்க."
+ },
+ {
+  "category": "office",
+  "context": "Induction session timing",
+  "level": "intermediate",
+  "en": "The HR induction is at eleven, and then there's a security training in the afternoon.",
+  "tamil": "எச்ஆர் இண்டக்ஷன் பதினோரு மணிக்கு, அப்புறம் மதியம் செக்யூரிட்டி ட்ரெய்னிங் இருக்கு.",
+  "reply": "Got it. Where's the induction held? I don't know my way around the building yet.",
+  "replyTamil": "சரி. இண்டக்ஷன் எங்கே நடக்குது? எனக்கு இன்னும் கட்டிடம் பழக்கமாகல."
+ },
+ {
+  "category": "office",
+  "context": "Ramping up quickly",
+  "level": "advanced",
+  "en": "Don't worry about hitting the ground running. Take a few weeks to find your feet.",
+  "tamil": "வந்தவுடனே வேகமா ஓடணும்னு கவலைப்படாதீங்க. பழகிக்க சில வாரங்கள் எடுத்துக்கோங்க.",
+  "reply": "I appreciate that. I'll try to pick things up fast, but I'll shout if I'm struggling.",
+  "replyTamil": "அதுக்கு நன்றி. சீக்கிரம் கத்துக்க முயற்சி பண்றேன், சிரமமா இருந்தா சொல்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Feeling like an outsider",
+  "level": "advanced",
+  "en": "I'm still trying to get a feel for how decisions are made around here.",
+  "tamil": "இங்கே முடிவுகள் எப்படி எடுக்கப்படுது என்பதை இன்னும் புரிஞ்சுக்க முயற்சி பண்ணிட்டிருக்கேன்.",
+  "reply": "It takes a while. Most things are settled informally, so sit in on a few design discussions.",
+  "replyTamil": "கொஞ்ச காலம் ஆகும். பெரும்பாலானவை முறைசாரா பேச்சுலயே முடிவாகும், அதனால சில டிசைன் விவாதங்கள்ல உட்கார்ந்து கேளுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Starting a client call",
+  "level": "beginner",
+  "en": "Hello, can you hear me clearly?",
+  "tamil": "வணக்கம், என் குரல் தெளிவா கேக்குதா?",
+  "reply": "Yes, loud and clear. Please go ahead.",
+  "replyTamil": "ஆமா, தெளிவா கேக்குது. நீங்க தொடங்குங்க."
+ },
+ {
+  "category": "office",
+  "context": "Introducing the team to a client",
+  "level": "beginner",
+  "en": "Let me introduce my team. This is Arun, our tester.",
+  "tamil": "என் டீமை அறிமுகப்படுத்தறேன். இவர் அருண், எங்க டெஸ்டர்.",
+  "reply": "Nice to meet you, Arun. I've heard good things about your work.",
+  "replyTamil": "உங்களைச் சந்திச்சதுல மகிழ்ச்சி, அருண். உங்க வேலை பத்தி நல்லா கேள்விப்பட்டிருக்கேன்."
+ },
+ {
+  "category": "office",
+  "context": "Starting the demo",
+  "level": "beginner",
+  "en": "Can you see my screen now?",
+  "tamil": "இப்போ என் ஸ்கிரீன் தெரியுதா?",
+  "reply": "Yes, I can see it. Could you zoom in a little? The text is small.",
+  "replyTamil": "ஆமா, தெரியுது. கொஞ்சம் ஜூம் பண்ண முடியுமா? எழுத்து சின்னதா இருக்கு."
+ },
+ {
+  "category": "office",
+  "context": "Client asks for a feature",
+  "level": "beginner",
+  "en": "Can you add a download button here?",
+  "tamil": "இங்கே ஒரு டவுன்லோட் பட்டன் சேர்க்க முடியுமா?",
+  "reply": "Sure, that's easy. I'll note it down and show you in the next demo.",
+  "replyTamil": "சரி, அது சுலபம். குறிச்சு வச்சுக்கிறேன், அடுத்த டெமோல காட்டறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Client is unhappy about progress",
+  "level": "intermediate",
+  "en": "We were expecting the reports module by now. What's the holdup?",
+  "tamil": "இதுக்குள்ள ரிப்போர்ட்ஸ் மாட்யூல் வந்திருக்கணும்னு எதிர்பார்த்தோம். என்ன தாமதம்?",
+  "reply": "We're sorry about that. The data format changed late, but we'll have it ready by Thursday.",
+  "replyTamil": "அதுக்கு வருந்துகிறோம். டேட்டா ஃபார்மேட் கடைசி நேரத்துல மாறிடுச்சு, ஆனா வியாழக்கிழமைக்குள்ள தயாரா இருக்கும்."
+ },
+ {
+  "category": "office",
+  "context": "Demo goes wrong",
+  "level": "intermediate",
+  "en": "The page isn't loading in the demo. Give me a second, please.",
+  "tamil": "டெமோவுல பேஜ் லோட் ஆகல. ஒரு நிமிஷம் கொடுங்க.",
+  "reply": "No problem, take your time. Maybe try refreshing once, or switch to the backup environment?",
+  "replyTamil": "பிரச்சனை இல்ல, நிதானமா பாருங்க. ஒரு தடவை ரிஃப்ரெஷ் பண்ணிப் பாருங்க, இல்ல பேக்கப் என்விரான்மென்டுக்கு மாறலாமா?"
+ },
+ {
+  "category": "office",
+  "context": "Client asks for a status report",
+  "level": "intermediate",
+  "en": "Could you share a weekly status report so that our management stays in the loop?",
+  "tamil": "எங்க நிர்வாகம் தெரிஞ்சுக்கிட்டே இருக்க, வாராந்திர ஸ்டேட்டஸ் ரிப்போர்ட் அனுப்ப முடியுமா?",
+  "reply": "Certainly. We'll send it every Friday evening, with the next steps included.",
+  "replyTamil": "கண்டிப்பா. ஒவ்வொரு வெள்ளிக்கிழமை சாயங்காலமும் அடுத்த படிகளோட சேர்த்து அனுப்புறோம்."
+ },
+ {
+  "category": "office",
+  "context": "Clarifying requirement",
+  "level": "intermediate",
+  "en": "Just to confirm, you want the invoice to be generated automatically at month end, right?",
+  "tamil": "உறுதி செய்துக்கறேன், மாசக் கடைசில இன்வாய்ஸ் தானா உருவாகணும்னு விரும்பறீங்க, சரியா?",
+  "reply": "Exactly. And it should go to the finance team by email, without anyone clicking anything.",
+  "replyTamil": "சரியா சொன்னீங்க. யாரும் எதையும் கிளிக் பண்ணாம, ஃபைனான்ஸ் டீமுக்கு மெயில்ல போகணும்."
+ },
+ {
+  "category": "office",
+  "context": "Client wants changes after sign-off",
+  "level": "advanced",
+  "en": "We understand the scope was frozen, but could we squeeze in one more small change?",
+  "tamil": "ஸ்கோப் முடிவாகிடுச்சுன்னு புரியுது, ஆனா இன்னும் ஒரு சின்ன மாற்றத்தை சேர்க்க முடியுமா?",
+  "reply": "We'll try our best. Since it's outside the agreed scope, I'll share an effort estimate first, if that's okay.",
+  "replyTamil": "எங்களால முடிஞ்சதைப் பண்றோம். ஒத்துக்கிட்ட ஸ்கோப்புக்கு வெளியே இருக்கறதால, முதல்ல உழைப்பு மதிப்பீட்டை அனுப்பறேன், சரியா?"
+ },
+ {
+  "category": "office",
+  "context": "Managing client expectations",
+  "level": "advanced",
+  "en": "I don't want to over-promise. Let's say we'll aim for next Wednesday and confirm by Monday.",
+  "tamil": "நான் அதிகமா வாக்குறுதி கொடுக்க விரும்பல. அடுத்த புதன்கிழமைய இலக்கா வச்சு, திங்கள்கிழமை உறுதி பண்றோம்னு சொல்லலாம்.",
+  "reply": "That sounds sensible. Clients usually prefer an honest date over a missed one.",
+  "replyTamil": "அது நியாயமா இருக்கு. தவறவிட்ட தேதியை விட நேர்மையான தேதியைத்தான் க்ளையன்ட்கள் விரும்புவாங்க."
+ },
+ {
+  "category": "office",
+  "context": "Wrapping up a client call",
+  "level": "beginner",
+  "en": "Thanks for your time today. We'll send the minutes of the meeting by evening.",
+  "tamil": "இன்னைக்கு உங்க நேரத்துக்கு நன்றி. மீட்டிங் குறிப்புகளை சாயந்திரத்துக்குள்ள அனுப்பறோம்.",
+  "reply": "Thank you, that would be great. Have a good day!",
+  "replyTamil": "நன்றி, அது உதவியா இருக்கும். நல்ல நாளா அமையட்டும்!"
+ },
+ {
+  "category": "office",
+  "context": "Client praises the product",
+  "level": "advanced",
+  "en": "Honestly, our users have been raving about the new dashboard. Great work, all of you.",
+  "tamil": "உண்மையில, எங்க பயனர்கள் புது டாஷ்போர்டை ரொம்பப் புகழ்ந்து பேசறாங்க. நீங்க எல்லாரும் சிறப்பா வேலை செஞ்சிருக்கீங்க.",
+  "reply": "That's wonderful to hear. I'll pass it on to the team, they've worked really hard on it.",
+  "replyTamil": "கேக்கவே சந்தோஷமா இருக்கு. டீமுக்குச் சொல்றேன், அவங்க ரொம்பக் கஷ்டப்பட்டு உழைச்சாங்க."
+ },
+ {
+  "category": "office",
+  "context": "Going to lunch",
+  "level": "beginner",
+  "en": "It's lunch time. Are you coming to the canteen?",
+  "tamil": "மதிய சாப்பாட்டு நேரம். கேன்டீனுக்கு வர்றீங்களா?",
+  "reply": "Yes, give me two minutes. Let me save this file first.",
+  "replyTamil": "ஆமா, ரெண்டு நிமிஷம் கொடுங்க. இந்த ஃபைலை முதல்ல சேவ் பண்ணிடறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Today's lunch menu",
+  "level": "beginner",
+  "en": "What's on the menu today?",
+  "tamil": "இன்னைக்கு மெனுவுல என்ன இருக்கு?",
+  "reply": "Sambar rice and curd rice, and I think there's chicken biryani on Fridays.",
+  "replyTamil": "சாம்பார் சாதம், தயிர் சாதம், வெள்ளிக்கிழமைகள்ல சிக்கன் பிரியாணி இருக்கும்னு நினைக்கிறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Coffee break",
+  "level": "beginner",
+  "en": "Let's go for a tea break.",
+  "tamil": "டீ குடிக்க போகலாம் வாங்க.",
+  "reply": "Good idea. I need a break from this screen anyway.",
+  "replyTamil": "நல்ல யோசனை. எனக்கும் இந்த ஸ்கிரீன்ல இருந்து ஒரு ப்ரேக் வேணும்."
+ },
+ {
+  "category": "office",
+  "context": "Canteen food quality",
+  "level": "beginner",
+  "en": "The food in the canteen was too salty today.",
+  "tamil": "இன்னைக்கு கேன்டீன் சாப்பாடு ரொம்ப உப்பா இருந்துச்சு.",
+  "reply": "Really? Mine was fine, but the curd rice was a bit sour.",
+  "replyTamil": "அப்படியா? என்னுது நல்லா இருந்துச்சு, ஆனா தயிர் சாதம் கொஞ்சம் புளிப்பா இருந்துச்சு."
+ },
+ {
+  "category": "office",
+  "context": "Lunch box sharing",
+  "level": "intermediate",
+  "en": "My mother made lemon rice today. Do you want to try some?",
+  "tamil": "இன்னைக்கு அம்மா எலுமிச்சை சாதம் செஞ்சிருக்காங்க. கொஞ்சம் சாப்பிட்டுப் பாக்கறீங்களா?",
+  "reply": "Oh, it smells wonderful. Just a little, please, I've got my own lunch too.",
+  "replyTamil": "ஓ, வாசனை அருமையா இருக்கு. கொஞ்சமா கொடுங்க, என்கிட்டயும் லஞ்ச் இருக்கு."
+ },
+ {
+  "category": "office",
+  "context": "Canteen payment",
+  "level": "intermediate",
+  "en": "Does the canteen accept UPI, or do I have to use the food card?",
+  "tamil": "கேன்டீன்ல யூபிஐ ஏத்துக்குவாங்களா, இல்ல ஃபுட் கார்டுதான் பயன்படுத்தணுமா?",
+  "reply": "Only the food card, I'm afraid. You can recharge it at the counter near the entrance.",
+  "replyTamil": "ஃபுட் கார்டு மட்டும்தான், மன்னிக்கணும். நுழைவாயில் பக்கத்துல இருக்கற கவுன்டர்ல ரீசார்ஜ் பண்ணிக்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Long canteen queue",
+  "level": "intermediate",
+  "en": "The queue is so long today. Shall we order from outside instead?",
+  "tamil": "இன்னைக்கு வரிசை ரொம்ப நீளமா இருக்கு. வெளியில இருந்து ஆர்டர் பண்ணலாமா?",
+  "reply": "Let's give it ten minutes. It usually clears up once the first batch leaves.",
+  "replyTamil": "பத்து நிமிஷம் பார்ப்போம். முதல் கூட்டம் போனதும் பொதுவா வரிசை குறைஞ்சிடும்."
+ },
+ {
+  "category": "office",
+  "context": "Skipping lunch",
+  "level": "intermediate",
+  "en": "You skipped lunch again. You can't keep running on tea and biscuits.",
+  "tamil": "நீங்க மறுபடியும் மதிய சாப்பாட்டை விட்டுட்டீங்க. டீயும் பிஸ்கெட்டுமா எத்தனை நாள் ஓட்டுவீங்க.",
+  "reply": "I know, I know. This bug ate up my whole afternoon. I'll grab something right now.",
+  "replyTamil": "தெரியும், தெரியும். இந்த பக் என் மதியத்தையே முழுங்கிடுச்சு. இப்பவே ஏதாவது சாப்பிடறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Team lunch plan",
+  "level": "advanced",
+  "en": "Since the release went through smoothly, shall we do a team lunch somewhere nice on Friday?",
+  "tamil": "ரிலீஸ் சீராப் போனதால, வெள்ளிக்கிழமை எங்காவது நல்ல இடத்துல டீம் லஞ்ச் வச்சுக்கலாமா?",
+  "reply": "I'm all for it. Let's pick a place that has vegetarian options too, so everyone is covered.",
+  "replyTamil": "எனக்கு முழு சம்மதம். எல்லாருக்கும் ஒத்துவர, சைவ உணவும் இருக்கற இடமா பார்ப்போம்."
+ },
+ {
+  "category": "office",
+  "context": "Vending machine woes",
+  "level": "advanced",
+  "en": "The coffee machine on our floor has been out of order for ages. Someone should raise a ticket.",
+  "tamil": "நம்ம ஃப்ளோர்ல இருக்கற காபி மெஷின் பல நாளா வேலை செய்யல. யாராவது டிக்கெட் போடணும்.",
+  "reply": "I already did twice, but nothing happened. Maybe a nudge from the manager would speed things up.",
+  "replyTamil": "நான் ஏற்கனவே ரெண்டு தடவை போட்டுட்டேன், ஒண்ணும் நடக்கல. மேனேஜர் ஒரு தள்ளு தள்ளினா வேகமாகும்னு நினைக்கிறேன்."
+ }
+]

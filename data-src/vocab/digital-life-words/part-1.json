@@ -1,0 +1,352 @@
+[
+ {
+  "word": "follower",
+  "meaning": "A person who subscribes to see your posts on social media.",
+  "tamil": "பின்தொடர்பவர்",
+  "pos": "noun",
+  "pron": "FOL-oh-er",
+  "example": "She has ten thousand followers on Instagram.",
+  "exampleTamil": "அவருக்கு இன்ஸ்டாகிராமில் பத்தாயிரம் பின்தொடர்பவர்கள் உள்ளனர்.",
+  "synonyms": [
+   "fan",
+   "subscriber"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "feed",
+  "meaning": "The list of posts that keeps updating on a social media app.",
+  "tamil": "செய்தி ஓடை (ஃபீட்)",
+  "pos": "noun",
+  "pron": "FEED",
+  "example": "My feed is full of cricket videos today.",
+  "exampleTamil": "இன்று என் ஃபீடில் முழுக்க கிரிக்கெட் வீடியோக்கள்தான்.",
+  "synonyms": [
+   "timeline",
+   "stream"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "filter",
+  "meaning": "A tool that changes how a photo looks, or hides unwanted things.",
+  "tamil": "வடிகட்டி",
+  "pos": "noun",
+  "pron": "FIL-ter",
+  "example": "This filter makes your face look very bright.",
+  "exampleTamil": "இந்த வடிகட்டி உங்கள் முகத்தை மிகவும் பிரகாசமாகக் காட்டுகிறது.",
+  "synonyms": [
+   "effect",
+   "screen"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "blog",
+  "meaning": "A website where a person writes articles about their ideas or life.",
+  "tamil": "வலைப்பதிவு",
+  "pos": "noun",
+  "pron": "BLOG",
+  "example": "He writes a blog about street food in Chennai.",
+  "exampleTamil": "அவர் சென்னை தெருவோர உணவு பற்றி ஒரு வலைப்பதிவு எழுதுகிறார்.",
+  "synonyms": [
+   "weblog",
+   "online diary"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "blogger",
+  "meaning": "A person who writes a blog regularly.",
+  "tamil": "வலைப்பதிவாளர்",
+  "pos": "noun",
+  "pron": "BLOG-er",
+  "example": "My cousin is a travel blogger.",
+  "exampleTamil": "என் உறவினர் ஒரு பயண வலைப்பதிவாளர்.",
+  "synonyms": [
+   "writer",
+   "content creator"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lock",
+  "meaning": "To protect a phone or app so others cannot open it.",
+  "tamil": "பூட்டு",
+  "pos": "verb",
+  "pron": "LOK",
+  "example": "Please lock your phone before you leave the desk.",
+  "exampleTamil": "நீங்கள் மேசையை விட்டுப் போகும் முன் உங்கள் போனைப் பூட்டுங்கள்.",
+  "synonyms": [
+   "secure",
+   "protect"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "zoom",
+  "meaning": "To make something look bigger on a screen.",
+  "tamil": "பெரிதாக்கு",
+  "pos": "verb",
+  "pron": "ZOOM",
+  "example": "Zoom in so I can read the small text.",
+  "exampleTamil": "சிறிய எழுத்தை நான் படிக்க பெரிதாக்குங்கள்.",
+  "synonyms": [
+   "enlarge",
+   "magnify"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "copy",
+  "meaning": "To make another version of a file or text.",
+  "tamil": "நகலெடு",
+  "pos": "verb",
+  "pron": "KOP-ee",
+  "example": "Copy this link and send it to me.",
+  "exampleTamil": "இந்த இணைப்பை நகலெடுத்து எனக்கு அனுப்புங்கள்.",
+  "synonyms": [
+   "duplicate",
+   "replicate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "save",
+  "meaning": "To keep a file or work so you do not lose it.",
+  "tamil": "சேமி",
+  "pos": "verb",
+  "pron": "SAYV",
+  "example": "Do not forget to save your document.",
+  "exampleTamil": "உங்கள் ஆவணத்தைச் சேமிக்க மறக்காதீர்கள்.",
+  "synonyms": [
+   "store",
+   "keep"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rename",
+  "meaning": "To give a file or folder a new name.",
+  "tamil": "பெயர் மாற்று",
+  "pos": "verb",
+  "pron": "ree-NAYM",
+  "example": "I will rename this file before I upload it.",
+  "exampleTamil": "நான் இதைப் பதிவேற்றும் முன் இந்தக் கோப்பின் பெயரை மாற்றுவேன்.",
+  "synonyms": [
+   "retitle",
+   "relabel"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trash",
+  "meaning": "The place on a device where deleted files go for a while.",
+  "tamil": "குப்பைத் தொட்டி",
+  "pos": "noun",
+  "pron": "TRASH",
+  "example": "I found my old photo in the trash.",
+  "exampleTamil": "என் பழைய புகைப்படத்தை குப்பைத் தொட்டியில் கண்டுபிடித்தேன்.",
+  "synonyms": [
+   "bin",
+   "recycle bin"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "format",
+  "meaning": "To clear a drive or change the way text looks.",
+  "tamil": "வடிவமை",
+  "pos": "verb",
+  "pron": "FOR-mat",
+  "example": "He had to format his pen drive to use it.",
+  "exampleTamil": "அவன் தன் பென் டிரைவைப் பயன்படுத்த அதை வடிவமைக்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "erase",
+   "arrange"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "drive",
+  "meaning": "A device or online space used to keep files.",
+  "tamil": "கோப்புகளை சேமிக்கும் சாதனம் (டிரைவ்)",
+  "pos": "noun",
+  "pron": "DRYV",
+  "example": "I saved all the photos on my drive.",
+  "exampleTamil": "நான் எல்லா புகைப்படங்களையும் என் டிரைவில் சேமித்தேன்.",
+  "synonyms": [
+   "disk",
+   "storage"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "flash",
+  "meaning": "The bright light of a camera or phone.",
+  "tamil": "ஒளிக்கீற்று (ஃப்ளாஷ்)",
+  "pos": "noun",
+  "pron": "FLASH",
+  "example": "Turn on the flash because the room is dark.",
+  "exampleTamil": "அறை இருட்டாக இருப்பதால் ஃப்ளாஷை இயக்குங்கள்.",
+  "synonyms": [
+   "flare",
+   "light"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gallery",
+  "meaning": "The app or place where photos on your phone are shown.",
+  "tamil": "புகைப்படத் தொகுப்பு (கேலரி)",
+  "pos": "noun",
+  "pron": "GAL-uh-ree",
+  "example": "Open the gallery and choose the best picture.",
+  "exampleTamil": "கேலரியைத் திறந்து சிறந்த படத்தைத் தேர்ந்தெடுங்கள்.",
+  "synonyms": [
+   "photo library",
+   "album"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "album",
+  "meaning": "A group of photos or songs kept together.",
+  "tamil": "ஆல்பம்",
+  "pos": "noun",
+  "pron": "AL-bum",
+  "example": "She made an album of our trip photos.",
+  "exampleTamil": "அவள் நம் பயணப் புகைப்படங்களுக்கு ஒரு ஆல்பம் உருவாக்கினாள்.",
+  "synonyms": [
+   "collection",
+   "folder"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "theme",
+  "meaning": "The set of colours and style used on a phone or app.",
+  "tamil": "தோற்ற அமைப்பு (தீம்)",
+  "pos": "noun",
+  "pron": "THEEM",
+  "example": "I changed the theme to dark mode.",
+  "exampleTamil": "நான் தீமை டார்க் மோடுக்கு மாற்றினேன்.",
+  "synonyms": [
+   "style",
+   "design"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tab",
+  "meaning": "A small section at the top of a browser for one web page.",
+  "tamil": "தாவல் (டேப்)",
+  "pos": "noun",
+  "pron": "TAB",
+  "example": "I have too many tabs open on my laptop.",
+  "exampleTamil": "என் லேப்டாப்பில் நிறைய டேப்கள் திறந்திருக்கின்றன.",
+  "synonyms": [
+   "page",
+   "window"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "popup",
+  "meaning": "A small window that suddenly appears on the screen.",
+  "tamil": "திடீரெனத் தோன்றும் சாளரம்",
+  "pos": "noun",
+  "pron": "POP-up",
+  "example": "A popup asked me to rate the app.",
+  "exampleTamil": "ஒரு பாப்அப் செயலியை மதிப்பிடச் சொன்னது.",
+  "synonyms": [
+   "pop-up window",
+   "alert"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "banner",
+  "meaning": "A long strip of advertisement or message on a website.",
+  "tamil": "பதாகை (பேனர்)",
+  "pos": "noun",
+  "pron": "BAN-er",
+  "example": "A banner at the top shows the festival offer.",
+  "exampleTamil": "மேலே உள்ள பேனர் திருவிழா சலுகையைக் காட்டுகிறது.",
+  "synonyms": [
+   "header",
+   "ad strip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "form",
+  "meaning": "An online page where you type your details.",
+  "tamil": "படிவம்",
+  "pos": "noun",
+  "pron": "FORM",
+  "example": "Please fill in the form and press submit.",
+  "exampleTamil": "தயவுசெய்து படிவத்தை நிரப்பி சமர்ப்பி பொத்தானை அழுத்துங்கள்.",
+  "synonyms": [
+   "application",
+   "sheet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "field",
+  "meaning": "A box on a form where you type one piece of information.",
+  "tamil": "புலம் (தகவல் பெட்டி)",
+  "pos": "noun",
+  "pron": "FEELD",
+  "example": "You must fill every field marked with a star.",
+  "exampleTamil": "நட்சத்திரம் குறித்த ஒவ்வொரு புலத்தையும் நீங்கள் நிரப்ப வேண்டும்.",
+  "synonyms": [
+   "box",
+   "entry"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ads",
+  "meaning": "Short messages that try to sell you something online.",
+  "tamil": "விளம்பரங்கள்",
+  "pos": "noun",
+  "pron": "ADZ",
+  "example": "I hate the ads that come before the video.",
+  "exampleTamil": "வீடியோவுக்கு முன் வரும் விளம்பரங்களை நான் வெறுக்கிறேன்.",
+  "synonyms": [
+   "promotions",
+   "commercials"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "connected",
+  "meaning": "Joined to the internet or to another device.",
+  "tamil": "இணைக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "kuh-NEK-tid",
+  "example": "Is your phone connected to the wifi?",
+  "exampleTamil": "உங்கள் போன் வைஃபையுடன் இணைக்கப்பட்டுள்ளதா?",
+  "synonyms": [
+   "linked",
+   "online"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wired",
+  "meaning": "Joined with a cable, not wireless.",
+  "tamil": "கம்பி மூலம் இணைக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "WY-erd",
+  "example": "I prefer wired earphones because they never need charging.",
+  "exampleTamil": "அவை சார்ஜ் செய்யத் தேவையில்லை என்பதால் நான் வயர் இயர்போன்களை விரும்புகிறேன்.",
+  "synonyms": [
+   "cabled",
+   "plugged in"
+  ],
+  "level": "beginner"
+ }
+]

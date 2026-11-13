@@ -1,0 +1,352 @@
+[
+ {
+  "word": "naive",
+  "meaning": "Trusting too easily because of little experience",
+  "tamil": "உலக அனுபவம் இல்லாத, எளிதில் நம்பும்",
+  "pos": "adjective",
+  "pron": "ny-EEV",
+  "example": "It was naive of me to trust a stranger online.",
+  "exampleTamil": "இணையத்தில் தெரியாதவரை நம்பியது என் அனுபவமின்மை.",
+  "synonyms": [
+   "innocent",
+   "gullible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reserved",
+  "meaning": "Quiet and not showing your feelings easily",
+  "tamil": "தன் உணர்வுகளை வெளிக்காட்டாத, ஒதுங்கிய",
+  "pos": "adjective",
+  "pron": "rih-ZERVD",
+  "example": "My father is a reserved man who speaks very little.",
+  "exampleTamil": "என் அப்பா குறைவாக பேசும், உணர்வுகளை வெளிக்காட்டாத மனிதர்.",
+  "synonyms": [
+   "reticent",
+   "quiet"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fearless",
+  "meaning": "Not afraid of anything",
+  "tamil": "அச்சமற்ற",
+  "pos": "adjective",
+  "pron": "FEER-lis",
+  "example": "The fearless girl climbed the tall tree alone.",
+  "exampleTamil": "அச்சமற்ற சிறுமி தனியாக உயரமான மரத்தில் ஏறினாள்.",
+  "synonyms": [
+   "brave",
+   "bold"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "courageous",
+  "meaning": "Brave when facing danger or difficulty",
+  "tamil": "துணிச்சலான, தைரியமான",
+  "pos": "adjective",
+  "pron": "kuh-RAY-jus",
+  "example": "It was courageous of her to speak the truth.",
+  "exampleTamil": "உண்மையைப் பேசியது அவளின் தைரியமான செயல்.",
+  "synonyms": [
+   "brave",
+   "bold"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flustered",
+  "meaning": "Nervous and confused because of too much to do",
+  "tamil": "குழப்பத்தில் பதற்றமடைந்த",
+  "pos": "adjective",
+  "pron": "FLUS-terd",
+  "example": "She felt flustered when the guests arrived early.",
+  "exampleTamil": "விருந்தினர்கள் சீக்கிரம் வந்ததும் அவள் பதற்றமும் குழப்பமும் அடைந்தாள்.",
+  "synonyms": [
+   "rattled",
+   "confused"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shaken",
+  "meaning": "Upset and a little scared after a bad experience",
+  "tamil": "அதிர்ச்சியில் நடுங்கிய",
+  "pos": "adjective",
+  "pron": "SHAY-kun",
+  "example": "He was badly shaken after the bike accident.",
+  "exampleTamil": "பைக் விபத்துக்குப் பிறகு அவன் மிகவும் அதிர்ச்சியடைந்திருந்தான்.",
+  "synonyms": [
+   "shocked",
+   "rattled"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "horror",
+  "meaning": "A strong feeling of fear and shock",
+  "tamil": "கடும் பயம், திகில்",
+  "pos": "noun",
+  "pron": "HOR-er",
+  "example": "She screamed in horror when she saw the snake.",
+  "exampleTamil": "பாம்பைப் பார்த்ததும் அவள் திகிலில் அலறினாள்.",
+  "synonyms": [
+   "terror",
+   "dread"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "awe",
+  "meaning": "A feeling of wonder mixed with respect",
+  "tamil": "வியப்பும் மரியாதையும் கலந்த உணர்வு",
+  "pos": "noun",
+  "pron": "AW",
+  "example": "We stood in awe in front of the huge temple tower.",
+  "exampleTamil": "பெரிய கோவில் கோபுரத்தின் முன் நாங்கள் வியப்புடன் நின்றோம்.",
+  "synonyms": [
+   "wonder",
+   "amazement"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fascinated",
+  "meaning": "Very interested in something",
+  "tamil": "மிகவும் ஆர்வம் கொண்ட, கவரப்பட்ட",
+  "pos": "adjective",
+  "pron": "FAS-uh-nay-tid",
+  "example": "The children were fascinated by the magic show.",
+  "exampleTamil": "குழந்தைகள் மாயாஜால நிகழ்ச்சியால் மிகவும் கவரப்பட்டனர்.",
+  "synonyms": [
+   "captivated",
+   "enchanted"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "intrigued",
+  "meaning": "Curious because something seems strange or interesting",
+  "tamil": "ஆர்வம் தூண்டப்பட்ட",
+  "pos": "adjective",
+  "pron": "in-TREEGD",
+  "example": "I am intrigued by the old locked box in the attic.",
+  "exampleTamil": "பரணில் உள்ள பழைய பூட்டிய பெட்டியைப் பற்றி எனக்கு ஆர்வமாக உள்ளது.",
+  "synonyms": [
+   "curious",
+   "interested"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "weary",
+  "meaning": "Very tired, especially after a long time doing something",
+  "tamil": "களைத்துப்போன, சோர்வடைந்த",
+  "pos": "adjective",
+  "pron": "WEER-ee",
+  "example": "The weary travellers slept as soon as they reached home.",
+  "exampleTamil": "களைத்த பயணிகள் வீடு வந்ததும் உடனே தூங்கினர்.",
+  "synonyms": [
+   "exhausted",
+   "tired"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "numb",
+  "meaning": "Unable to feel anything, in body or emotion",
+  "tamil": "உணர்ச்சியற்ற, மரத்துப்போன",
+  "pos": "adjective",
+  "pron": "NUM",
+  "example": "I felt numb after hearing the sad news.",
+  "exampleTamil": "அந்த சோகச் செய்தியைக் கேட்டதும் நான் உணர்ச்சியற்று போனேன்.",
+  "synonyms": [
+   "unfeeling",
+   "dazed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tolerant",
+  "meaning": "Willing to accept opinions or ways different from yours",
+  "tamil": "பொறுத்துக்கொள்ளும், சகிப்புத்தன்மை உள்ள",
+  "pos": "adjective",
+  "pron": "TOL-er-unt",
+  "example": "We should be tolerant of different beliefs.",
+  "exampleTamil": "வெவ்வேறு நம்பிக்கைகளை நாம் சகிப்புடன் ஏற்க வேண்டும்.",
+  "synonyms": [
+   "accepting",
+   "open-minded"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clingy",
+  "meaning": "Wanting to stay too close to someone all the time",
+  "tamil": "ஒட்டிக்கொண்டே இருக்கும்",
+  "pos": "adjective",
+  "pron": "KLING-ee",
+  "example": "My son gets clingy when he is not feeling well.",
+  "exampleTamil": "உடம்பு சரியில்லாதபோது என் மகன் என்னை விட்டு விலகாமல் ஒட்டிக்கொள்கிறான்.",
+  "synonyms": [
+   "needy",
+   "dependent"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "devoted",
+  "meaning": "Showing great love and loyalty",
+  "tamil": "அர்ப்பணிப்புள்ள, அன்பில் ஆழ்ந்த",
+  "pos": "adjective",
+  "pron": "dih-VOH-tid",
+  "example": "She is a devoted mother who cares for everyone.",
+  "exampleTamil": "அவள் எல்லோரையும் கவனிக்கும் அர்ப்பணிப்புள்ள தாய்.",
+  "synonyms": [
+   "loyal",
+   "dedicated"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "admiration",
+  "meaning": "A feeling of respect and liking for someone",
+  "tamil": "போற்றுதல், மதிப்புடன் கூடிய பாராட்டு",
+  "pos": "noun",
+  "pron": "ad-muh-RAY-shun",
+  "example": "I have great admiration for my teacher's patience.",
+  "exampleTamil": "என் ஆசிரியரின் பொறுமையின் மேல் எனக்கு பெரிய மதிப்பும் போற்றுதலும் உண்டு.",
+  "synonyms": [
+   "respect",
+   "esteem"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pity",
+  "meaning": "A sad feeling for someone who is suffering",
+  "tamil": "பரிதாபம், இரக்க உணர்வு",
+  "pos": "noun",
+  "pron": "PIT-ee",
+  "example": "I felt pity for the hungry puppy on the road.",
+  "exampleTamil": "சாலையில் இருந்த பசியான நாய்க்குட்டியைப் பார்த்து எனக்கு பரிதாபம் ஏற்பட்டது.",
+  "synonyms": [
+   "sympathy",
+   "compassion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gratitude",
+  "meaning": "The feeling of being thankful",
+  "tamil": "நன்றி உணர்வு",
+  "pos": "noun",
+  "pron": "GRAT-ih-tood",
+  "example": "She wrote a letter to show her gratitude to the doctor.",
+  "exampleTamil": "மருத்துவருக்கு தன் நன்றியை தெரிவிக்க அவள் கடிதம் எழுதினாள்.",
+  "synonyms": [
+   "thankfulness",
+   "appreciation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "heartache",
+  "meaning": "Deep emotional pain, often from loss or love",
+  "tamil": "மனவலி, இதய வேதனை",
+  "pos": "noun",
+  "pron": "HART-ayk",
+  "example": "He suffered great heartache after his friend moved abroad.",
+  "exampleTamil": "நண்பன் வெளிநாடு சென்றபின் அவன் பெரும் மனவேதனை அடைந்தான்.",
+  "synonyms": [
+   "sorrow",
+   "grief"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grimace",
+  "meaning": "To twist your face because of pain or dislike",
+  "tamil": "வலியால் முகத்தை சுளிக்க",
+  "pos": "verb",
+  "pron": "GRIM-us",
+  "example": "He grimaced as he drank the bitter medicine.",
+  "exampleTamil": "கசப்பான மருந்தைக் குடிக்கும்போது அவன் முகத்தை சுளித்தான்.",
+  "synonyms": [
+   "wince",
+   "frown"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wince",
+  "meaning": "To show a quick sign of pain on your face",
+  "tamil": "வலியில் சட்டென முகம் சுளிக்க",
+  "pos": "verb",
+  "pron": "WINS",
+  "example": "She winced when the nurse gave her the injection.",
+  "exampleTamil": "செவிலியர் ஊசி போட்டதும் அவள் வலியில் முகம் சுளித்தாள்.",
+  "synonyms": [
+   "grimace",
+   "flinch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flinch",
+  "meaning": "To move back suddenly because of fear or pain",
+  "tamil": "பயத்தில் சட்டென பின்வாங்க",
+  "pos": "verb",
+  "pron": "FLINCH",
+  "example": "The dog flinched when I raised my hand.",
+  "exampleTamil": "நான் கையை உயர்த்தியதும் நாய் பயந்து பின்வாங்கியது.",
+  "synonyms": [
+   "recoil",
+   "cringe"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mischievous",
+  "meaning": "Playful in a way that causes small trouble",
+  "tamil": "குறும்புத்தனமான, சேட்டைக்காரனான",
+  "pos": "adjective",
+  "pron": "MIS-chih-vus",
+  "example": "The mischievous twins swapped our shoes for fun.",
+  "exampleTamil": "குறும்புக்கார இரட்டையர்கள் வேடிக்கைக்காக எங்கள் காலணிகளை மாற்றி வைத்தனர்.",
+  "synonyms": [
+   "naughty",
+   "playful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "irritable",
+  "meaning": "Getting annoyed very easily",
+  "tamil": "எளிதில் எரிச்சலடையும்",
+  "pos": "adjective",
+  "pron": "IR-ih-tuh-bul",
+  "example": "I become irritable when I do not sleep enough.",
+  "exampleTamil": "போதுமான தூக்கம் இல்லாவிட்டால் நான் எளிதில் எரிச்சலடைகிறேன்.",
+  "synonyms": [
+   "grumpy",
+   "short-tempered"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "jovial",
+  "meaning": "Cheerful and friendly",
+  "tamil": "கலகலப்பாக பழகும், மகிழ்ச்சியான",
+  "pos": "adjective",
+  "pron": "JOH-vee-ul",
+  "example": "Our jovial neighbour greets everyone with a big smile.",
+  "exampleTamil": "எங்கள் கலகலப்பான அண்டை வீட்டுக்காரர் எல்லோரையும் பெரிய புன்னகையுடன் வரவேற்கிறார்.",
+  "synonyms": [
+   "cheerful",
+   "jolly"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,370 @@
+[
+ {
+  "en": "Could you please keep this between us?",
+  "tamil": "இதை நமக்குள்ளயே வச்சுக்க முடியுமா?",
+  "context": "Asking a friend to keep a secret.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Between us' means a secret. 'Please' keeps it respectful.",
+  "words": [
+   "between us"
+  ],
+  "usage": "Use it with a close friend or trusted colleague.",
+  "leelaQ": "You tell a friend a private matter. What do you ask?",
+  "answer": "Could you please keep this between us?"
+ },
+ {
+  "en": "I'll take care of the bill, please don't worry.",
+  "tamil": "நான் பில்லை பாத்துக்கறேன், கவலைப்படாதீங்க.",
+  "context": "Offering to pay at a restaurant.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll take care of' means I will handle it. It is a kind offer.",
+  "words": [
+   "bill",
+   "worry"
+  ],
+  "usage": "Use it when you want to treat friends or guests.",
+  "leelaQ": "The bill comes at the end of a lunch. What do you offer?",
+  "answer": "I'll take care of the bill, please don't worry."
+ },
+ {
+  "en": "Would you mind not talking loudly in the library?",
+  "tamil": "லைப்ரரில சத்தமா பேசாம இருக்க முடியுமா?",
+  "context": "Asking a person to be quiet in a library.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Would you mind not ...?' is a very polite way to stop someone.",
+  "words": [
+   "mind",
+   "loudly"
+  ],
+  "usage": "Use it in public places when someone's noise disturbs you.",
+  "leelaQ": "A person talks loudly while you study. What do you politely ask?",
+  "answer": "Would you mind not talking loudly in the library? I am studying."
+ },
+ {
+  "en": "May I have your attention, please?",
+  "tamil": "தயவு செய்து எல்லாரும் கொஞ்சம் கவனிக்கறீங்களா?",
+  "context": "Starting an announcement.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "This is a formal phrase used to get a group's attention.",
+  "words": [
+   "attention"
+  ],
+  "usage": "Use it as a host, teacher or speaker before announcing something.",
+  "leelaQ": "You must make an announcement in a hall. How do you begin?",
+  "answer": "May I have your attention, please?"
+ },
+ {
+  "en": "Can you help me carry this table upstairs?",
+  "tamil": "இந்த மேசையை மாடிக்கு தூக்கிட்டு போக உதவ முடியுமா?",
+  "context": "Asking a neighbour for physical help.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Help me carry' uses a base verb after 'help me'. It is a short and clear request.",
+  "words": [
+   "carry",
+   "upstairs"
+  ],
+  "usage": "Use it with neighbours or friends when a task needs two people.",
+  "leelaQ": "You must move heavy furniture. What do you ask a neighbour?",
+  "answer": "Can you help me carry this table upstairs?"
+ },
+ {
+  "en": "I'm sorry to bother you, but is this seat taken?",
+  "tamil": "தொந்தரவுக்கு மன்னிக்கணும், இந்த இடம் காலியா?",
+  "context": "Asking in a cinema hall or train.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Sorry to bother you' opens the question politely.",
+  "words": [
+   "bother",
+   "seat"
+  ],
+  "usage": "Use it with strangers in theatres, trains or buses.",
+  "leelaQ": "You see a seat with a bag on it. What do you ask?",
+  "answer": "I'm sorry to bother you, but is this seat taken?"
+ },
+ {
+  "en": "Please don't touch that, it is very hot.",
+  "tamil": "தயவு செய்து அதை தொடாதீங்க, ரொம்ப சூடு.",
+  "context": "Warning a child in the kitchen.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't' plus 'please' gives a safe and gentle warning.",
+  "words": [
+   "touch",
+   "hot"
+  ],
+  "usage": "Use it at home to stop children or guests from getting hurt.",
+  "leelaQ": "A child goes near the stove. What do you say?",
+  "answer": "Please don't touch that, it is very hot."
+ },
+ {
+  "en": "Could you recommend a good doctor near here?",
+  "tamil": "இங்க பக்கத்துல ஒரு நல்ல டாக்டரை சொல்ல முடியுமா?",
+  "context": "Asking a neighbour for advice.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Recommend' means suggest something good.",
+  "words": [
+   "recommend",
+   "doctor"
+  ],
+  "usage": "Use it with neighbours or colleagues when you are new in an area.",
+  "leelaQ": "You have moved to a new area. What do you ask your neighbour?",
+  "answer": "Could you recommend a good doctor near here?"
+ },
+ {
+  "en": "Please sit down, uncle. You look tired.",
+  "tamil": "தயவுசெஞ்சு உக்காருங்க அங்கிள். சோர்வா தெரியறீங்க.",
+  "context": "Offering a seat to an elderly man.",
+  "tense": "imperative",
+  "type": "statement",
+  "explain": "'Please sit down' is a polite offer of a seat, followed by a caring reason.",
+  "words": [
+   "sit down",
+   "tired"
+  ],
+  "usage": "Use it with elders, pregnant women or tired visitors.",
+  "leelaQ": "An old man stands in a bus. What do you tell him?",
+  "answer": "Please sit down, uncle. You look tired, so take my seat."
+ },
+ {
+  "en": "Can we please start the meeting a little later?",
+  "tamil": "மீட்டிங்கை கொஞ்சம் தாமதமா தொடங்கலாமா?",
+  "context": "Asking a team to change a time.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'We' makes the request about the group. 'Please' keeps it kind.",
+  "words": [
+   "start",
+   "later"
+  ],
+  "usage": "Use it at work when a delay will help the team.",
+  "leelaQ": "Half the team is stuck in traffic. What do you suggest?",
+  "answer": "Can we please start the meeting a little later?"
+ },
+ {
+  "en": "I wish I could, but I have another plan.",
+  "tamil": "எனக்கும் வரணும்னு ஆசை, ஆனா எனக்கு வேற ஒரு பிளான் இருக்கு.",
+  "context": "Politely refusing an invitation.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I wish I could' shows you want to but cannot. It keeps the friendship warm.",
+  "words": [
+   "wish",
+   "plan"
+  ],
+  "usage": "Use it with friends when you must refuse but want to be kind.",
+  "leelaQ": "A friend invites you but you have other plans. What do you say?",
+  "answer": "I wish I could, but I have another plan."
+ },
+ {
+  "en": "Would you please sign here?",
+  "tamil": "தயவு செய்து இங்க கையெழுத்து போடுங்க.",
+  "context": "A courier boy asking for a signature.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Sign here' shows where. 'Would you please' makes the order polite.",
+  "words": [
+   "sign"
+  ],
+  "usage": "Use it as delivery staff or office staff when papers need a signature.",
+  "leelaQ": "A courier delivers a parcel. What do you ask the receiver?",
+  "answer": "Would you please sign here?"
+ },
+ {
+  "en": "Don't worry, I will explain everything slowly.",
+  "tamil": "கவலைப்படாதீங்க, நான் எல்லாத்தையும் மெதுவா விளக்கறேன்.",
+  "context": "Calming a nervous new student.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Don't worry' calms the listener. 'I will' makes a promise.",
+  "words": [
+   "worry",
+   "explain"
+  ],
+  "usage": "Use it as a teacher or senior to give confidence.",
+  "leelaQ": "A new student feels afraid. What do you say to help?",
+  "answer": "Don't worry, I will explain everything slowly."
+ },
+ {
+  "en": "Could you give me your phone number, please?",
+  "tamil": "உங்க ஃபோன் நம்பரை கொடுக்க முடியுமா?",
+  "context": "Asking a new acquaintance for contact.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Give me your number' is direct, so 'could you' and 'please' make it polite.",
+  "words": [
+   "phone number"
+  ],
+  "usage": "Use it when you meet someone and want to stay in touch.",
+  "leelaQ": "You meet a useful contact at a function. What do you ask?",
+  "answer": "Could you give me your phone number, please?"
+ },
+ {
+  "en": "Please make yourself comfortable.",
+  "tamil": "தயவு செய்து வசதியா இருங்க.",
+  "context": "Welcoming a guest.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "This phrase tells guests to relax and feel at home.",
+  "words": [
+   "comfortable"
+  ],
+  "usage": "Use it when a guest arrives at your home or office.",
+  "leelaQ": "A guest looks nervous in your home. What do you say?",
+  "answer": "Please make yourself comfortable."
+ },
+ {
+  "en": "Can I pay by card, or do you take only cash?",
+  "tamil": "நான் கார்டுல கொடுக்கலாமா, இல்ல கேஷ் மட்டும்தான் வாங்குவீங்களா?",
+  "context": "Asking a shopkeeper about payment.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "This question gives two options. It is common when shopping.",
+  "words": [
+   "card",
+   "cash"
+  ],
+  "usage": "Use it in shops and restaurants when you are not sure about payment.",
+  "leelaQ": "You have no cash in a small shop. What do you ask?",
+  "answer": "Can I pay by card, or do you take only cash?"
+ },
+ {
+  "en": "I am afraid I cannot agree with you on this.",
+  "tamil": "நான் இதுல உங்ககூட ஒத்துக்க முடியாதுன்னு பயப்படறேன்.",
+  "context": "Disagreeing politely in a meeting.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'I am afraid' softens a disagreement. It sounds respectful.",
+  "words": [
+   "agree"
+  ],
+  "usage": "Use it in meetings or discussions when you have a different opinion.",
+  "leelaQ": "You disagree with a colleague's idea. How do you say it kindly?",
+  "answer": "I am afraid I cannot agree with you on this."
+ },
+ {
+  "en": "Could you please wait outside for a few minutes?",
+  "tamil": "தயவு செய்து வெளியில சில நிமிஷம் காத்திருக்க முடியுமா?",
+  "context": "Asking a visitor to wait outside.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'A few minutes' tells the person it will be short.",
+  "words": [
+   "wait",
+   "outside"
+  ],
+  "usage": "Use it as staff or a host when you are not ready for the visitor.",
+  "leelaQ": "A visitor arrives while you are in a meeting. What do you say?",
+  "answer": "Could you please wait outside for a few minutes?"
+ },
+ {
+  "en": "Please excuse me for being late.",
+  "tamil": "தாமதமா வந்ததுக்கு தயவு செய்து மன்னிச்சுக்கோங்க.",
+  "context": "Apologising when you arrive late.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Excuse me for' plus -ing is a polite way to say sorry.",
+  "words": [
+   "excuse",
+   "late"
+  ],
+  "usage": "Use it at meetings or classes when you reach after the start.",
+  "leelaQ": "You enter a class ten minutes late. What do you say?",
+  "answer": "Please excuse me for being late, madam."
+ },
+ {
+  "en": "Can I get a receipt for this payment?",
+  "tamil": "இந்த பணத்துக்கு ஒரு ரசீது கிடைக்குமா?",
+  "context": "Asking a shop for a bill.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Get a receipt' is a common and polite way to ask for proof of payment.",
+  "words": [
+   "receipt",
+   "payment"
+  ],
+  "usage": "Use it in shops, offices and hospitals after paying.",
+  "leelaQ": "You paid fees at the office. What do you ask for?",
+  "answer": "Can I get a receipt for this payment?"
+ },
+ {
+  "en": "I'll be happy to wait if you are busy.",
+  "tamil": "நீங்க பிஸியா இருந்தா நான் சந்தோஷமா காத்திருக்கறேன்.",
+  "context": "Telling a busy shopkeeper you can wait.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'If you are busy' shows you respect the other person's time.",
+  "words": [
+   "happy",
+   "busy"
+  ],
+  "usage": "Use it with shopkeepers, doctors or officers who are occupied.",
+  "leelaQ": "A clerk is busy with another customer. What do you say?",
+  "answer": "I'll be happy to wait if you are busy."
+ },
+ {
+  "en": "Would you like to try this sweet?",
+  "tamil": "இந்த இனிப்பை சாப்பிட்டு பாக்கறீங்களா?",
+  "context": "Offering sweets to a visitor.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like to try ...?' invites someone to taste something.",
+  "words": [
+   "try",
+   "sweet"
+  ],
+  "usage": "Use it during festivals or when guests visit.",
+  "leelaQ": "It is Diwali and a guest arrives. What do you offer?",
+  "answer": "Would you like to try this sweet? My mother made it."
+ },
+ {
+  "en": "Please keep your voice down, the baby is sleeping.",
+  "tamil": "தயவு செய்து சத்தம் போடாதீங்க, குழந்தை தூங்குது.",
+  "context": "Asking family members to be quiet.",
+  "tense": "present-continuous",
+  "type": "request",
+  "explain": "'Keep your voice down' means speak softly. The reason is added after a comma.",
+  "words": [
+   "voice",
+   "sleeping"
+  ],
+  "usage": "Use it at home or in a hospital when someone is resting.",
+  "leelaQ": "Your baby is sleeping and guests are loud. What do you say?",
+  "answer": "Please keep your voice down, the baby is sleeping."
+ },
+ {
+  "en": "Could you help me find this address?",
+  "tamil": "இந்த முகவரியை கண்டுபிடிக்க எனக்கு உதவ முடியுமா?",
+  "context": "Asking a shopkeeper for directions.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Help me find' uses a base verb after 'me'.",
+  "words": [
+   "address",
+   "find"
+  ],
+  "usage": "Use it with shopkeepers or auto drivers in a new place.",
+  "leelaQ": "You hold a written address and are lost. What do you ask?",
+  "answer": "Could you help me find this address?"
+ },
+ {
+  "en": "I don't think I can finish it today, sorry.",
+  "tamil": "இன்னிக்கு என்னால இதை முடிக்க முடியும்னு தோணல, மன்னிக்கணும்.",
+  "context": "Telling a boss about a delay.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'I don't think' is softer than 'I cannot'. 'Sorry' adds politeness.",
+  "words": [
+   "finish"
+  ],
+  "usage": "Use it with a manager when a task will not be ready on time.",
+  "leelaQ": "The report will not be ready today. What do you tell your boss?",
+  "answer": "I don't think I can finish it today, sorry."
+ }
+]

@@ -1,0 +1,351 @@
+[
+ {
+  "word": "restate",
+  "meaning": "to say something again in a clear or different way",
+  "tamil": "மீண்டும் தெளிவாகக் கூறு",
+  "pos": "verb",
+  "pron": "ree-STAYT",
+  "example": "Could you restate your question, please?",
+  "exampleTamil": "தயவுசெய்து உன் கேள்வியை மீண்டும் தெளிவாகக் கூறுவாயா?",
+  "synonyms": [
+   "repeat",
+   "reword"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "simplify",
+  "meaning": "to make something easier to understand",
+  "tamil": "எளிதாக்கு",
+  "pos": "verb",
+  "pron": "SIM-pluh-fy",
+  "example": "Can you simplify the instructions for me?",
+  "exampleTamil": "வழிமுறைகளை எனக்காக எளிதாக்க முடியுமா?",
+  "synonyms": [
+   "clarify",
+   "ease"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "advise",
+  "meaning": "to tell someone what you think they should do",
+  "tamil": "ஆலோசனை கூறு",
+  "pos": "verb",
+  "pron": "ad-VYZ",
+  "example": "I advise you to check the email again.",
+  "exampleTamil": "மின்னஞ்சலை மீண்டும் சரிபார்க்குமாறு உனக்கு ஆலோசனை கூறுகிறேன்.",
+  "synonyms": [
+   "recommend",
+   "counsel"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "urge",
+  "meaning": "to strongly ask someone to do something",
+  "tamil": "வலியுறுத்து",
+  "pos": "verb",
+  "pron": "URJ",
+  "example": "The manager urged everyone to reply quickly.",
+  "exampleTamil": "விரைவாகப் பதிலளிக்குமாறு மேலாளர் எல்லோரையும் வலியுறுத்தினார்.",
+  "synonyms": [
+   "press",
+   "encourage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nag",
+  "meaning": "to keep asking someone again and again in an annoying way",
+  "tamil": "திரும்பத் திரும்பத் தொந்தரவு செய்",
+  "pos": "verb",
+  "pron": "NAG",
+  "example": "Please do not nag me about the report.",
+  "exampleTamil": "அறிக்கையைப் பற்றி என்னைத் திரும்பத் திரும்பத் தொந்தரவு செய்யாதே.",
+  "synonyms": [
+   "pester",
+   "badger"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "plead",
+  "meaning": "to ask in an emotional, serious way",
+  "tamil": "மன்றாடு",
+  "pos": "verb",
+  "pron": "PLEED",
+  "example": "She pleaded with him to forgive her.",
+  "exampleTamil": "அவள் தன்னை மன்னிக்குமாறு அவனிடம் மன்றாடினாள்.",
+  "synonyms": [
+   "beg",
+   "appeal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "appeal",
+  "meaning": "to make a serious request to someone for help",
+  "tamil": "வேண்டுகோள் விடு",
+  "pos": "verb",
+  "pron": "uh-PEEL",
+  "example": "The school appealed to parents for support.",
+  "exampleTamil": "பள்ளி பெற்றோரிடம் ஆதரவு கேட்டு வேண்டுகோள் விடுத்தது.",
+  "synonyms": [
+   "request",
+   "plead"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "demand",
+  "meaning": "to ask for something very firmly",
+  "tamil": "கடுமையாகக் கோரு",
+  "pos": "verb",
+  "pron": "di-MAND",
+  "example": "The customers demanded a full refund.",
+  "exampleTamil": "வாடிக்கையாளர்கள் முழுப் பணத்தையும் திருப்பித் தருமாறு கோரினர்.",
+  "synonyms": [
+   "insist",
+   "require"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stammer",
+  "meaning": "to speak with pauses and repeated sounds, often from nerves",
+  "tamil": "திக்கிப் பேசு",
+  "pos": "verb",
+  "pron": "STAM-er",
+  "example": "He stammered when the boss asked him a question.",
+  "exampleTamil": "முதலாளி கேள்வி கேட்டபோது அவன் திக்கித் திக்கிப் பேசினான்.",
+  "synonyms": [
+   "stutter",
+   "falter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "retract",
+  "meaning": "to take back something you said",
+  "tamil": "முன்பு சொன்னதை வாபஸ் பெறு",
+  "pos": "verb",
+  "pron": "ri-TRAKT",
+  "example": "He had to retract his harsh comment.",
+  "exampleTamil": "அவன் தன் கடுமையான கருத்தை வாபஸ் பெற வேண்டியிருந்தது.",
+  "synonyms": [
+   "withdraw",
+   "take back"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gist",
+  "meaning": "the main idea of what someone said",
+  "tamil": "சாராம்சம், முக்கிய கருத்து",
+  "pos": "noun",
+  "pron": "JIST",
+  "example": "I got the gist of his long email.",
+  "exampleTamil": "அவனுடைய நீண்ட மின்னஞ்சலின் சாராம்சத்தைப் புரிந்துகொண்டேன்.",
+  "synonyms": [
+   "essence",
+   "main point"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "eloquent",
+  "meaning": "able to speak clearly and in a moving way",
+  "tamil": "சரளமாகவும் கவர்ச்சியாகவும் பேசும்",
+  "pos": "adjective",
+  "pron": "EL-uh-kwent",
+  "example": "She gave an eloquent speech at the meeting.",
+  "exampleTamil": "கூட்டத்தில் அவள் கவர்ச்சிகரமான சிறந்த உரை ஆற்றினாள்.",
+  "synonyms": [
+   "fluent",
+   "articulate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "diplomatic",
+  "meaning": "careful not to upset people when you speak",
+  "tamil": "சாமர்த்தியமாகப் பேசும்",
+  "pos": "adjective",
+  "pron": "dip-luh-MAT-ik",
+  "example": "He gave a diplomatic answer to avoid a fight.",
+  "exampleTamil": "சண்டையைத் தவிர்க்க அவன் சாமர்த்தியமாகப் பதில் சொன்னான்.",
+  "synonyms": [
+   "tactful",
+   "polite"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tactless",
+  "meaning": "saying things that hurt people without thinking",
+  "tamil": "பிறர் மனம் புண்படப் பேசும்",
+  "pos": "adjective",
+  "pron": "TAKT-les",
+  "example": "It was tactless to mention her failure.",
+  "exampleTamil": "அவளுடைய தோல்வியைக் குறிப்பிடுவது நாகரிகமற்றது.",
+  "synonyms": [
+   "insensitive",
+   "rude"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gracious",
+  "meaning": "kind and polite, especially when you are in a higher position",
+  "tamil": "கனிவான, பண்புள்ள",
+  "pos": "adjective",
+  "pron": "GRAY-shus",
+  "example": "She was gracious in accepting the criticism.",
+  "exampleTamil": "விமர்சனத்தை ஏற்பதில் அவள் பண்புடன் நடந்துகொண்டாள்.",
+  "synonyms": [
+   "courteous",
+   "kind"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "utter",
+  "meaning": "to say a word or sound",
+  "tamil": "ஒலி எழுப்பு, சொல்",
+  "pos": "verb",
+  "pron": "UT-er",
+  "example": "He was so shocked he could not utter a word.",
+  "exampleTamil": "அவன் மிகவும் அதிர்ச்சியடைந்ததால் ஒரு வார்த்தையும் பேச முடியவில்லை.",
+  "synonyms": [
+   "say",
+   "speak"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "eavesdrop",
+  "meaning": "to listen secretly to a private talk",
+  "tamil": "ஒட்டுக்கேள்",
+  "pos": "verb",
+  "pron": "EEVZ-drop",
+  "example": "It is wrong to eavesdrop on private calls.",
+  "exampleTamil": "தனிப்பட்ட அழைப்புகளை ஒட்டுக்கேட்பது தவறு.",
+  "synonyms": [
+   "listen in",
+   "overhear"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "impartial",
+  "meaning": "fair and not taking anyone's side",
+  "tamil": "பாரபட்சமற்ற",
+  "pos": "adjective",
+  "pron": "im-PAR-shul",
+  "example": "A good manager gives impartial feedback to everyone.",
+  "exampleTamil": "நல்ல மேலாளர் எல்லோருக்கும் பாரபட்சமற்ற கருத்து தருவார்.",
+  "synonyms": [
+   "fair",
+   "neutral"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "irony",
+  "meaning": "saying the opposite of what you mean, or a funny twist in events",
+  "tamil": "முரண், கேலிச் சொல்",
+  "pos": "noun",
+  "pron": "Y-ruh-nee",
+  "example": "There is irony in a fire station catching fire.",
+  "exampleTamil": "தீயணைப்பு நிலையத்திலேயே தீப்பிடிப்பதில் ஒரு முரண் உள்ளது.",
+  "synonyms": [
+   "sarcasm",
+   "twist"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ironic",
+  "meaning": "strange or funny because it is the opposite of what is expected",
+  "tamil": "முரணான, எதிர்பார்ப்புக்கு மாறான",
+  "pos": "adjective",
+  "pron": "y-RON-ik",
+  "example": "It is ironic that the speaker forgot his words.",
+  "exampleTamil": "பேச்சாளர் தன் வார்த்தைகளையே மறந்தது முரணானது.",
+  "synonyms": [
+   "paradoxical"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sarcasm",
+  "meaning": "words that mean the opposite, used to mock someone",
+  "tamil": "கேலி, குத்தல் பேச்சு",
+  "pos": "noun",
+  "pron": "SAR-kaz-um",
+  "example": "I could hear the sarcasm in his voice.",
+  "exampleTamil": "அவன் குரலில் குத்தல் பேச்சை நான் கேட்க முடிந்தது.",
+  "synonyms": [
+   "mockery",
+   "irony"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "implore",
+  "meaning": "to ask someone in a desperate, emotional way",
+  "tamil": "கெஞ்சி வேண்டு",
+  "pos": "verb",
+  "pron": "im-PLOR",
+  "example": "I implore you to reconsider your decision.",
+  "exampleTamil": "உன் முடிவை மறுபரிசீலனை செய்யுமாறு உன்னைக் கெஞ்சி வேண்டுகிறேன்.",
+  "synonyms": [
+   "beg",
+   "plead"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pester",
+  "meaning": "to bother someone again and again with requests",
+  "tamil": "தொல்லை கொடு",
+  "pos": "verb",
+  "pron": "PES-ter",
+  "example": "Stop pestering her with so many calls.",
+  "exampleTamil": "இத்தனை அழைப்புகளால் அவளைத் தொல்லை செய்வதை நிறுத்து.",
+  "synonyms": [
+   "nag",
+   "annoy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "understate",
+  "meaning": "to describe something as smaller or less serious than it is",
+  "tamil": "குறைத்துக் கூறு",
+  "pos": "verb",
+  "pron": "un-der-STAYT",
+  "example": "Do not understate the risks in your report.",
+  "exampleTamil": "உன் அறிக்கையில் ஆபத்துகளைக் குறைத்துக் கூறாதே.",
+  "synonyms": [
+   "downplay",
+   "minimize"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overstate",
+  "meaning": "to describe something as bigger or more serious than it is",
+  "tamil": "மிகைப்படுத்திக் கூறு",
+  "pos": "verb",
+  "pron": "oh-ver-STAYT",
+  "example": "He tends to overstate his role in the project.",
+  "exampleTamil": "அவன் திட்டத்தில் தன் பங்கை மிகைப்படுத்திக் கூறுவான்.",
+  "synonyms": [
+   "exaggerate",
+   "inflate"
+  ],
+  "level": "advanced"
+ }
+]

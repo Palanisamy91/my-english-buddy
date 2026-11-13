@@ -1,0 +1,247 @@
+[
+ {
+  "en": "What time does the class begin tomorrow?",
+  "tamil": "நாளைக்கு கிளாஸ் எத்தனை மணிக்கு ஆரம்பிக்கும்?",
+  "context": "Asking a classmate about the schedule.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Use does with the class and the base verb begin.",
+  "words": [
+   "class",
+   "begin"
+  ]
+ },
+ {
+  "en": "It starts at ten thirty.",
+  "tamil": "அது பத்தரை மணிக்கு ஆரம்பிக்கும்.",
+  "context": "Answering the question about meeting time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use at before a clock time. Simple present can talk about schedules.",
+  "words": [
+   "starts"
+  ]
+ },
+ {
+  "en": "Where is the nearest bus stop?",
+  "tamil": "பக்கத்துல இருக்கிற பஸ் ஸ்டாப் எங்க இருக்கு?",
+  "context": "Asking a stranger on the road.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Nearest means the closest one. Where is is used for one place.",
+  "words": [
+   "nearest",
+   "bus stop"
+  ],
+  "alt": {
+   "en": "Excuse me, where can I find a bus stop?",
+   "tamil": "மன்னிக்கணும், பஸ் ஸ்டாப் எங்க கிடைக்கும்?"
+  }
+ },
+ {
+  "en": "It is just around the corner.",
+  "tamil": "அது இந்த முக்கிலேயே இருக்கு.",
+  "context": "Telling someone a place is very close.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Around the corner is a common phrase meaning very near.",
+  "words": [
+   "corner"
+  ]
+ },
+ {
+  "en": "Why are you late today?",
+  "tamil": "இன்னைக்கு ஏன் தாமதமா வந்த?",
+  "context": "Asking a friend who came late.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Why asks for a reason. Are goes with you.",
+  "words": [
+   "late"
+  ]
+ },
+ {
+  "en": "I missed my usual train.",
+  "tamil": "நான் வழக்கமா போற ட்ரெயினை தவறவிட்டுட்டேன்.",
+  "context": "Explaining why you were late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Missed is the past form of miss. Usual means normal or regular.",
+  "words": [
+   "missed",
+   "usual"
+  ]
+ },
+ {
+  "en": "How do you go to office?",
+  "tamil": "நீ ஆபீசுக்கு எப்படி போற?",
+  "context": "Asking about someone's daily travel.",
+  "tense": "present",
+  "type": "question",
+  "explain": "How asks about the way or method. Do is used with you.",
+  "words": [
+   "office"
+  ],
+  "alt": {
+   "en": "How do you usually travel to work?",
+   "tamil": "நீ பொதுவா வேலைக்கு எப்படி பயணம் பண்ணுவ?"
+  }
+ },
+ {
+  "en": "I go by metro every day.",
+  "tamil": "நான் தினமும் மெட்ரோவுல போறேன்.",
+  "context": "Answering about your travel.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use by before a vehicle, like by bus or by metro.",
+  "words": [
+   "metro"
+  ]
+ },
+ {
+  "en": "Do you drink coffee or tea?",
+  "tamil": "நீ காபி குடிப்பியா, டீ குடிப்பியா?",
+  "context": "Offering a drink to a guest.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Use or to give two choices in a question.",
+  "words": [
+   "coffee",
+   "drink"
+  ]
+ },
+ {
+  "en": "I prefer tea, please.",
+  "tamil": "எனக்கு டீ தான் புடிக்கும், தயவு செய்து.",
+  "context": "Replying politely to a drink offer.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Prefer means like one thing more than another. Please makes it polite.",
+  "words": [
+   "prefer"
+  ]
+ },
+ {
+  "en": "Can you help me with this form?",
+  "tamil": "இந்த படிவத்துல எனக்கு உதவி செய்ய முடியுமா?",
+  "context": "Asking a colleague for help.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "Can you is a simple and polite way to ask for help.",
+  "words": [
+   "form",
+   "help"
+  ]
+ },
+ {
+  "en": "Sure, I will do it right now.",
+  "tamil": "சரி, நான் இப்பவே செய்றேன்.",
+  "context": "Agreeing to help immediately.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "I will shows a quick decision. Right now means immediately.",
+  "words": [
+   "sure"
+  ]
+ },
+ {
+  "en": "When will the results come out?",
+  "tamil": "ரிசல்ட் எப்போ வரும்?",
+  "context": "Asking a teacher or officer about a date.",
+  "tense": "future",
+  "type": "question",
+  "explain": "Will talks about the future. Come out means to be published.",
+  "words": [
+   "results"
+  ]
+ },
+ {
+  "en": "They will be announced next week.",
+  "tamil": "அவை அடுத்த வாரம் அறிவிக்கப்படும்.",
+  "context": "Answering about results.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "Will be announced is a passive future form. It focuses on the news, not the person.",
+  "words": [
+   "announced"
+  ]
+ },
+ {
+  "en": "Who is the new manager?",
+  "tamil": "புது மேனேஜர் யாரு?",
+  "context": "Asking about a change in your office.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Who asks about a person. The new manager is a noun phrase.",
+  "words": [
+   "manager"
+  ]
+ },
+ {
+  "en": "Her name is Priya, and she is very friendly.",
+  "tamil": "அவங்க பேரு பிரியா, ரொம்ப நட்பா பழகுவாங்க.",
+  "context": "Describing a new person to a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use and to join two short ideas into one sentence.",
+  "words": [
+   "friendly"
+  ]
+ },
+ {
+  "en": "What did you have for lunch?",
+  "tamil": "மதியம் என்ன சாப்பிட்ட?",
+  "context": "Casual chat during a break.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Did is the helper for past questions, and the main verb stays as have.",
+  "words": [
+   "lunch"
+  ]
+ },
+ {
+  "en": "I had rice and sambar.",
+  "tamil": "நான் சாதமும் சாம்பாரும் சாப்பிட்டேன்.",
+  "context": "Answering what you ate.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Had is the past of have. Have is used for meals.",
+  "words": [
+   "sambar"
+  ]
+ },
+ {
+  "en": "How long have you lived here?",
+  "tamil": "நீ இங்க எவ்வளவு நாளா இருக்க?",
+  "context": "Getting to know a neighbour.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "Have lived shows something that started in the past and continues now.",
+  "words": [
+   "lived"
+  ]
+ },
+ {
+  "en": "I have lived here for five years.",
+  "tamil": "நான் இங்க அஞ்சு வருஷமா இருக்கேன்.",
+  "context": "Answering about where you live.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Use for with a period of time, like for five years.",
+  "words": [
+   "years"
+  ]
+ },
+ {
+  "en": "Is anyone sitting on this seat?",
+  "tamil": "இந்த சீட்ல யாராவது உக்காந்திருக்காங்களா?",
+  "context": "Asking politely in a bus or cinema.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Is anyone sitting checks if a seat is taken right now.",
+  "words": [
+   "anyone",
+   "seat"
+  ]
+ }
+]

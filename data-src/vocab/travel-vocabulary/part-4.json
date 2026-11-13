@@ -1,0 +1,334 @@
+[
+ {
+  "word": "jet-lag",
+  "meaning": "tiredness caused by travelling across time zones",
+  "tamil": "நேர மாற்றச் சோர்வு",
+  "pos": "noun",
+  "pron": "JET-lag",
+  "example": "I had jet-lag for three days after the trip.",
+  "exampleTamil": "பயணத்திற்குப் பின் மூன்று நாட்கள் எனக்கு நேர மாற்றச் சோர்வு இருந்தது.",
+  "synonyms": [
+   "tiredness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "expedition",
+  "meaning": "an organised journey for a special purpose, like exploring",
+  "tamil": "ஆய்வுப் பயணம்",
+  "pos": "noun",
+  "pron": "ek-spih-DISH-un",
+  "example": "They joined an expedition to the Himalayas.",
+  "exampleTamil": "அவர்கள் இமயமலைக்கான ஆய்வுப் பயணத்தில் சேர்ந்தனர்.",
+  "synonyms": [
+   "trek",
+   "journey"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overbook",
+  "meaning": "to sell more tickets or rooms than are available",
+  "tamil": "அளவுக்கு மீறி முன்பதிவு செய்",
+  "pos": "verb",
+  "pron": "oh-ver-BOOK",
+  "example": "The airline overbooked the flight, so some people waited.",
+  "exampleTamil": "விமான நிறுவனம் இருக்கைகளை அதிகம் முன்பதிவு செய்ததால் சிலர் காத்திருந்தனர்.",
+  "synonyms": [
+   "oversell"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "standby",
+  "meaning": "a ticket or seat given only if someone else cancels",
+  "tamil": "காத்திருப்புப் பயணி",
+  "pos": "noun",
+  "pron": "STAND-by",
+  "example": "I flew standby because the flight was full.",
+  "exampleTamil": "விமானம் நிரம்பியிருந்ததால் நான் காத்திருப்புப் பயணியாகப் பறந்தேன்.",
+  "synonyms": [
+   "waitlist"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hail",
+  "meaning": "to wave or call to stop a taxi or auto",
+  "tamil": "கை காட்டி நிறுத்து",
+  "pos": "verb",
+  "pron": "HAYL",
+  "example": "He tried to hail an auto outside the station.",
+  "exampleTamil": "அவன் நிலையத்திற்கு வெளியே ஒரு ஆட்டோவை கை காட்டி நிறுத்த முயன்றான்.",
+  "synonyms": [
+   "flag down"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "airfare",
+  "meaning": "the price of a plane ticket",
+  "tamil": "விமானக் கட்டணம்",
+  "pos": "noun",
+  "pron": "AIR-fair",
+  "example": "Airfare goes up during the festival season.",
+  "exampleTamil": "பண்டிகைக் காலத்தில் விமானக் கட்டணம் உயர்கிறது.",
+  "synonyms": [
+   "fare",
+   "ticket price"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "canyon",
+  "meaning": "a deep valley with steep rocky sides",
+  "tamil": "ஆழமான பள்ளத்தாக்கு",
+  "pos": "noun",
+  "pron": "KAN-yun",
+  "example": "The river has cut a deep canyon.",
+  "exampleTamil": "ஆறு ஒரு ஆழமான பள்ளத்தாக்கை உருவாக்கியுள்ளது.",
+  "synonyms": [
+   "gorge"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "glacier",
+  "meaning": "a huge slow-moving mass of ice",
+  "tamil": "பனியாறு",
+  "pos": "noun",
+  "pron": "GLAY-sher",
+  "example": "We saw a glacier from the helicopter.",
+  "exampleTamil": "நாங்கள் ஹெலிகாப்டரிலிருந்து ஒரு பனியாற்றைக் கண்டோம்.",
+  "synonyms": [
+   "ice sheet"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "volcano",
+  "meaning": "a mountain that can throw out hot melted rock",
+  "tamil": "எரிமலை",
+  "pos": "noun",
+  "pron": "vol-KAY-noh",
+  "example": "The volcano last erupted many years ago.",
+  "exampleTamil": "அந்த எரிமலை பல ஆண்டுகளுக்கு முன் கடைசியாக வெடித்தது.",
+  "synonyms": [
+   "crater"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vaccination",
+  "meaning": "an injection that protects you from a disease",
+  "tamil": "தடுப்பூசி",
+  "pos": "noun",
+  "pron": "vak-sih-NAY-shun",
+  "example": "Some countries ask for proof of vaccination.",
+  "exampleTamil": "சில நாடுகள் தடுப்பூசிக்கான சான்றைக் கேட்கின்றன.",
+  "synonyms": [
+   "jab",
+   "shot"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "immunization",
+  "meaning": "protecting a person from disease using vaccines",
+  "tamil": "நோய்த்தடுப்பு",
+  "pos": "noun",
+  "pron": "im-yuh-nih-ZAY-shun",
+  "example": "Check the immunization rules before you travel.",
+  "exampleTamil": "பயணம் செய்யும் முன் நோய்த்தடுப்பு விதிகளைச் சரிபாருங்கள்.",
+  "synonyms": [
+   "vaccination"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "checkpoint",
+  "meaning": "a place on a road where vehicles are stopped and checked",
+  "tamil": "சோதனைச் சாவடி",
+  "pos": "noun",
+  "pron": "CHEK-poynt",
+  "example": "Police stopped us at a checkpoint near the border.",
+  "exampleTamil": "எல்லைக்கு அருகில் காவலர்கள் சோதனைச் சாவடியில் எங்களை நிறுத்தினர்.",
+  "synonyms": [
+   "roadblock"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "conveyor",
+  "meaning": "a moving belt that carries bags at the airport",
+  "tamil": "நகரும் பட்டை",
+  "pos": "noun",
+  "pron": "kun-VAY-er",
+  "example": "Our bags came out on the conveyor.",
+  "exampleTamil": "எங்கள் பைகள் நகரும் பட்டையில் வந்தன.",
+  "synonyms": [
+   "belt"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nomad",
+  "meaning": "a person who moves from place to place and has no fixed home",
+  "tamil": "நாடோடி",
+  "pos": "noun",
+  "pron": "NOH-mad",
+  "example": "He lives like a nomad and works from cafes.",
+  "exampleTamil": "அவன் நாடோடியைப் போல வாழ்ந்து கஃபேக்களில் வேலை செய்கிறான்.",
+  "synonyms": [
+   "wanderer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hospitality",
+  "meaning": "friendly and generous treatment of guests",
+  "tamil": "விருந்தோம்பல்",
+  "pos": "noun",
+  "pron": "hos-pih-TAL-ih-tee",
+  "example": "We loved the warm hospitality of the villagers.",
+  "exampleTamil": "கிராம மக்களின் அன்பான விருந்தோம்பல் எங்களுக்குப் பிடித்தது.",
+  "synonyms": [
+   "welcome",
+   "kindness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hitchhike",
+  "meaning": "to travel by asking drivers for free rides",
+  "tamil": "இலவசமாக வாகனத்தில் ஏறிப் பயணம் செய்",
+  "pos": "verb",
+  "pron": "HICH-hyk",
+  "example": "They hitchhiked across the country as students.",
+  "exampleTamil": "அவர்கள் மாணவர்களாக இருந்தபோது நாடு முழுவதும் இலவச வாகனங்களில் பயணித்தனர்.",
+  "synonyms": [
+   "thumb a ride"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "embark",
+  "meaning": "to get on a ship or plane, or to begin a journey",
+  "tamil": "கப்பல் அல்லது விமானத்தில் ஏறு",
+  "pos": "verb",
+  "pron": "im-BARK",
+  "example": "Passengers will embark at gate five.",
+  "exampleTamil": "பயணிகள் ஐந்தாம் வாயிலில் ஏறுவார்கள்.",
+  "synonyms": [
+   "board",
+   "set out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "secluded",
+  "meaning": "quiet and far from other people",
+  "tamil": "தனிமையான",
+  "pos": "adjective",
+  "pron": "sih-KLOO-did",
+  "example": "We found a secluded beach with no one on it.",
+  "exampleTamil": "யாருமே இல்லாத ஒரு தனிமையான கடற்கரையை நாங்கள் கண்டோம்.",
+  "synonyms": [
+   "isolated",
+   "private"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overland",
+  "meaning": "across land, not by sea or air",
+  "tamil": "தரைவழியாக",
+  "pos": "adverb",
+  "pron": "OH-ver-land",
+  "example": "They travelled overland from Delhi to Nepal.",
+  "exampleTamil": "அவர்கள் டெல்லியிலிருந்து நேபாளத்திற்குத் தரைவழியாகப் பயணித்தனர்.",
+  "synonyms": [
+   "by road"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sojourn",
+  "meaning": "a short stay in a place",
+  "tamil": "தற்காலிகத் தங்கல்",
+  "pos": "noun",
+  "pron": "SOH-jern",
+  "example": "Our sojourn in Goa lasted a week.",
+  "exampleTamil": "கோவாவில் எங்கள் தற்காலிகத் தங்கல் ஒரு வாரம் நீடித்தது.",
+  "synonyms": [
+   "stay",
+   "visit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "expat",
+  "meaning": "a person living outside their home country",
+  "tamil": "வெளிநாட்டில் வசிப்பவர்",
+  "pos": "noun",
+  "pron": "EKS-pat",
+  "example": "Many Indian expats return home for Pongal.",
+  "exampleTamil": "பல இந்திய வெளிநாட்டுவாசிகள் பொங்கலுக்கு வீடு திரும்புகின்றனர்.",
+  "synonyms": [
+   "emigrant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overpass",
+  "meaning": "a bridge that carries a road over another road",
+  "tamil": "மேம்பாலம்",
+  "pos": "noun",
+  "pron": "OH-ver-pass",
+  "example": "Take the overpass to avoid the traffic.",
+  "exampleTamil": "போக்குவரத்தைத் தவிர்க்க மேம்பாலத்தில் செல்லுங்கள்.",
+  "synonyms": [
+   "flyover"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "underpass",
+  "meaning": "a road or path that goes under another road",
+  "tamil": "சுரங்கப்பாதை",
+  "pos": "noun",
+  "pron": "UN-der-pass",
+  "example": "Use the underpass to cross the busy road.",
+  "exampleTamil": "பரபரப்பான சாலையைக் கடக்க சுரங்கப்பாதையைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "subway"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gridlock",
+  "meaning": "a traffic jam where no vehicle can move",
+  "tamil": "முற்றிலும் முடங்கிய போக்குவரத்து",
+  "pos": "noun",
+  "pron": "GRID-lok",
+  "example": "Rain caused gridlock all over the city.",
+  "exampleTamil": "மழையால் நகரம் முழுவதும் போக்குவரத்து முற்றிலும் முடங்கியது.",
+  "synonyms": [
+   "traffic jam"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "windshield",
+  "meaning": "the large glass at the front of a vehicle",
+  "tamil": "முன்பக்கக் கண்ணாடி",
+  "pos": "noun",
+  "pron": "WIND-sheeld",
+  "example": "A stone hit the windshield on the highway.",
+  "exampleTamil": "நெடுஞ்சாலையில் ஒரு கல் முன்பக்கக் கண்ணாடியில் பட்டது.",
+  "synonyms": [
+   "windscreen"
+  ],
+  "level": "advanced"
+ }
+]

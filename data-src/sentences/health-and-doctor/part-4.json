@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Are you feeling dizzy or weak?",
+  "tamil": "உங்களுக்கு தலை சுத்துதா இல்ல சோர்வா இருக்கா?",
+  "context": "A doctor asking about symptoms.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Dizzy' means the head feels like spinning. 'Or' offers two symptoms to choose from.",
+  "words": [
+   "dizzy",
+   "weak"
+  ],
+  "usage": "A doctor or a nurse asks this at a check-up.",
+  "leelaQ": "How do you feel when you are very tired?",
+  "answer": "I feel weak, and I cannot focus on my work."
+ },
+ {
+  "en": "Where does it hurt exactly?",
+  "tamil": "சரியா எங்க வலிக்குது?",
+  "context": "A doctor asking about pain.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Exactly' asks for the exact spot. 'Hurt' is a verb for pain.",
+  "words": [
+   "hurt",
+   "exactly"
+  ],
+  "usage": "A doctor or physiotherapist asks this to find the pain.",
+  "leelaQ": "Can you show where you had pain last time?",
+  "answer": "I had pain in my lower back, near the waist."
+ },
+ {
+  "en": "Did you eat anything unusual last night?",
+  "tamil": "நேத்து ராத்திரி ஏதாவது வித்தியாசமா சாப்பிட்டீங்களா?",
+  "context": "A doctor asking about stomach trouble.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Anything unusual' means something not normal. 'Did you eat ...?' asks about the past.",
+  "words": [
+   "unusual",
+   "last night"
+  ],
+  "usage": "Doctors ask this when a patient has stomach pain or loose motion.",
+  "leelaQ": "What did you eat for dinner yesterday?",
+  "answer": "I ate chapati and dal with a little rice."
+ },
+ {
+  "en": "When should I come back for the next check-up?",
+  "tamil": "அடுத்த செக்-அப்புக்கு நான் எப்போ திரும்ப வரணும்?",
+  "context": "Asking a doctor before leaving.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Come back' means return. 'Should I' asks for the doctor's advice.",
+  "words": [
+   "come back",
+   "next"
+  ],
+  "usage": "Ask this at the end of a visit to the doctor.",
+  "leelaQ": "What do you ask the doctor before leaving the room?",
+  "answer": "I ask about the food rules and the next visit date."
+ },
+ {
+  "en": "Do you do any exercise at home?",
+  "tamil": "நீங்க வீட்டுல ஏதாவது உடற்பயிற்சி பண்றீங்களா?",
+  "context": "A doctor or friend asking about your lifestyle.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you do ...?' asks about a habit. 'Any' makes the question open.",
+  "words": [
+   "exercise",
+   "home"
+  ],
+  "usage": "A doctor or a trainer asks this to learn about your lifestyle.",
+  "leelaQ": "Do you do any exercise at home? Which one?",
+  "answer": "Yes, I do simple stretching for ten minutes every morning."
+ },
+ {
+  "en": "Will I need an injection?",
+  "tamil": "எனக்கு ஊசி போடணுமா?",
+  "context": "Asking a doctor, a bit nervously.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will I need ...?' asks if something will be required. It is short and polite.",
+  "words": [
+   "need",
+   "injection"
+  ],
+  "usage": "Say it to a doctor or a nurse when you feel afraid.",
+  "leelaQ": "Are you afraid of injections? Why?",
+  "answer": "Yes, a little, because I do not like the pain."
+ },
+ {
+  "en": "What did the doctor say about your report?",
+  "tamil": "உங்க ரிப்போர்ட் பத்தி டாக்டர் என்ன சொன்னாரு?",
+  "context": "Asking a friend or relative after their visit.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'What did ... say' asks about past words. The verb 'say' stays in base form.",
+  "words": [
+   "doctor",
+   "report"
+  ],
+  "usage": "Use it with a friend or family member who went for a test.",
+  "leelaQ": "How do you feel when you wait for a test result?",
+  "answer": "I feel nervous until the doctor says everything is normal."
+ },
+ {
+  "en": "How is your father's health now?",
+  "tamil": "உங்க அப்பாவோட உடம்பு இப்போ எப்படி இருக்கு?",
+  "context": "Asking about a colleague's family member.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How is ... now?' is a polite way to ask about recovery. 'Health' is a noun.",
+  "words": [
+   "father",
+   "health"
+  ],
+  "usage": "Use it in an office or neighbourhood when you care about someone.",
+  "leelaQ": "How is your family's health these days?",
+  "answer": "Everyone is fine, thank God, and we are all busy."
+ },
+ {
+  "en": "Please open your mouth and say aaah.",
+  "tamil": "வாயைத் திறந்து ஆஹ்னு சொல்லுங்க.",
+  "context": "A doctor checking your throat.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Two imperatives are joined with 'and'. Doctors use simple commands like this.",
+  "words": [
+   "open",
+   "mouth"
+  ],
+  "usage": "Doctors say this during a throat check-up.",
+  "leelaQ": "What does a doctor check first when you have a cold?",
+  "answer": "He checks my throat, my nose and my temperature."
+ },
+ {
+  "en": "Could you speak a little slower, doctor?",
+  "tamil": "கொஞ்சம் மெதுவா பேச முடியுமா டாக்டர்?",
+  "context": "Asking a doctor to repeat clearly.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'A little slower' is a soft way to ask. 'Could you' makes it polite.",
+  "words": [
+   "slower",
+   "doctor"
+  ],
+  "usage": "Use it when someone speaks fast and you cannot follow.",
+  "leelaQ": "What do you do when you do not understand something?",
+  "answer": "I ask the person to repeat it slowly."
+ },
+ {
+  "en": "Breathe in slowly and then breathe out.",
+  "tamil": "மெதுவா மூச்சை உள்ள இழுத்து அப்புறம் வெளியே விடுங்க.",
+  "context": "A doctor listening to your chest.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Breathe in' and 'breathe out' are phrasal verbs. 'Slowly' tells how to do it.",
+  "words": [
+   "breathe",
+   "slowly"
+  ],
+  "usage": "Doctors, nurses and yoga teachers give this instruction.",
+  "leelaQ": "When do you take deep breaths?",
+  "answer": "I take deep breaths when I feel stressed or angry."
+ },
+ {
+  "en": "Can you take me to the hospital right now?",
+  "tamil": "நீ இப்போவே என்னை ஆஸ்பத்திரிக்கு கூட்டிட்டுப் போக முடியுமா?",
+  "context": "Asking a family member in an urgent case.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Right now' shows urgency. 'Take me to' means to go with me and drop me.",
+  "words": [
+   "hospital",
+   "right now"
+  ],
+  "usage": "Say it to family or a neighbour in an emergency.",
+  "leelaQ": "Who will you call if you need help at night?",
+  "answer": "I will call my brother or a neighbour who has a car."
+ },
+ {
+  "en": "I do not eat non-veg food during fasting days.",
+  "tamil": "நான் விரத நாட்கள்ல அசைவம் சாப்பிட மாட்டேன்.",
+  "context": "Explaining a food rule to a colleague.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Do not eat' is a present negative. 'Non-veg' is a short form of non-vegetarian.",
+  "words": [
+   "non-veg",
+   "fasting"
+  ],
+  "usage": "Use it politely when someone offers you food on a fasting day.",
+  "leelaQ": "What food do you avoid and why?",
+  "answer": "I avoid very spicy food because it upsets my stomach."
+ },
+ {
+  "en": "I have never taken any sleeping pills.",
+  "tamil": "நான் இதுவரைக்கும் தூக்க மாத்திரை எடுத்ததே இல்ல.",
+  "context": "Telling a doctor about your history.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have never taken' talks about your whole life up to now. 'Any' stresses none.",
+  "words": [
+   "never",
+   "sleeping pills"
+  ],
+  "usage": "Say it when a doctor asks about medicines you took before.",
+  "leelaQ": "What natural way do you use to fall asleep?",
+  "answer": "I drink warm milk and listen to soft music."
+ },
+ {
+  "en": "I get a headache whenever I sit before the computer too long.",
+  "tamil": "கம்ப்யூட்டர் முன்னாடி ரொம்ப நேரம் உக்கார்ந்தா எனக்கு தலைவலி வரும்.",
+  "context": "Explaining your problem to a doctor.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Whenever' means every time. It joins a habit and its result.",
+  "words": [
+   "headache",
+   "whenever"
+  ],
+  "usage": "Use it with a doctor or an optician when you describe your problem.",
+  "leelaQ": "Do you work on a computer? How do you rest your eyes?",
+  "answer": "Yes, I look away for a minute after every hour."
+ },
+ {
+  "en": "It is only a mild infection, so there is nothing to worry about.",
+  "tamil": "இது சின்ன இன்ஃபெக்ஷன் தான், அதனால கவலைப்பட ஒண்ணும் இல்ல.",
+  "context": "A doctor calming a patient.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Mild' means not serious. 'Nothing to worry about' is a comforting phrase.",
+  "words": [
+   "mild",
+   "infection"
+  ],
+  "usage": "Doctors or elders use it to comfort someone who is anxious.",
+  "leelaQ": "What do you say to a person who is worried about health?",
+  "answer": "I tell them to relax and follow the doctor's advice."
+ },
+ {
+  "en": "I stayed in bed the whole day because of the fever.",
+  "tamil": "காய்ச்சல் காரணமா நான் நாள் முழுக்க படுக்கையிலேயே இருந்தேன்.",
+  "context": "Telling a friend why you did not call.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Because of' is followed by a noun. 'The whole day' means all day.",
+  "words": [
+   "stayed",
+   "because of"
+  ],
+  "usage": "Use it to explain why you missed work or a call.",
+  "leelaQ": "What do you do on a day when you are sick?",
+  "answer": "I rest at home, drink hot soup and watch some TV."
+ },
+ {
+  "en": "The pain has reduced a lot after the injection.",
+  "tamil": "ஊசி போட்டதுக்கு அப்புறம் வலி ரொம்ப குறைஞ்சிடுச்சு.",
+  "context": "Telling the doctor how you feel.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has reduced' shows a change with a result now. 'A lot' means very much.",
+  "words": [
+   "pain",
+   "reduced"
+  ],
+  "usage": "Say it in a follow-up visit or when family asks about your health.",
+  "leelaQ": "How do you feel when your pain goes away?",
+  "answer": "I feel relaxed and happy, and I start doing my work again."
+ },
+ {
+  "en": "My neighbour is a doctor, so we ask him for small problems.",
+  "tamil": "எங்க பக்கத்து வீட்டுக்காரர் டாக்டர், அதனால சின்ன பிரச்சனைனா அவர் கிட்ட கேப்போம்.",
+  "context": "Talking about a helpful neighbour.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'So' joins a reason and a result. 'Small problems' means minor health issues.",
+  "words": [
+   "neighbour",
+   "small"
+  ],
+  "usage": "Use it in a talk about community and support.",
+  "leelaQ": "Do you have a helpful neighbour? How do they help?",
+  "answer": "Yes, my neighbour helps us when we need a lift or a tool."
+ },
+ {
+  "en": "I will ask my wife to prepare light food for dinner.",
+  "tamil": "நான் ராத்திரிக்கு லேசான சாப்பாடு செய்யச் சொல்லி என் மனைவிகிட்ட கேக்கறேன்.",
+  "context": "Telling a doctor or friend about diet changes.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will ask ... to ...' shows a plan. 'Light food' means easy-to-digest food.",
+  "words": [
+   "light food",
+   "dinner"
+  ],
+  "usage": "Use it when you plan to eat simple food after an illness.",
+  "leelaQ": "What light food do you eat when you are sick?",
+  "answer": "I eat rice porridge or idli with a little chutney."
+ },
+ {
+  "en": "Many people in my office have caught the viral fever.",
+  "tamil": "எங்க ஆபீஸ்ல நிறைய பேருக்கு வைரல் காய்ச்சல் பிடிச்சிருக்கு.",
+  "context": "Telling a friend about an illness at work.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have caught' is used with a fever or cold. 'Many people' is a plural subject.",
+  "words": [
+   "viral fever",
+   "caught"
+  ],
+  "usage": "Use it when you talk about a seasonal illness.",
+  "leelaQ": "What do you do to stay safe in the rainy season?",
+  "answer": "I drink boiled water and avoid street food."
+ },
+ {
+  "en": "I am going to take two days' leave for my health.",
+  "tamil": "நான் என் உடம்புக்காக ரெண்டு நாள் லீவு எடுக்கப் போறேன்.",
+  "context": "Telling a manager you need rest.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Am going to take' shows a plan. 'Leave' means a break from work.",
+  "words": [
+   "leave",
+   "health"
+  ],
+  "usage": "Say it to a manager, a teacher or a friend when you need rest.",
+  "leelaQ": "Do you take leave when you are not well?",
+  "answer": "Yes, I take one or two days so that I can recover fully."
+ },
+ {
+  "en": "Walking after dinner helps with digestion.",
+  "tamil": "சாப்பிட்ட பிறகு நடந்தா செரிமானம் நல்லா இருக்கும்.",
+  "context": "Giving a health tip to a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Walking' acts as a noun here. 'Helps with' shows the benefit.",
+  "words": [
+   "walking",
+   "digestion"
+  ],
+  "usage": "Use it as friendly advice in a talk about health.",
+  "leelaQ": "Do you walk after dinner? For how long?",
+  "answer": "Yes, I walk for fifteen minutes near my house."
+ },
+ {
+  "en": "My sister is waiting outside the doctor's room.",
+  "tamil": "என் தங்கை டாக்டர் ரூமுக்கு வெளியே காத்துட்டு இருக்கா.",
+  "context": "Telling a nurse who is with you.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is waiting' shows an action in progress. 'Outside' tells the place.",
+  "words": [
+   "sister",
+   "waiting"
+  ],
+  "usage": "Say it at a hospital to explain who has come with you.",
+  "leelaQ": "Who comes with you when you visit a hospital?",
+  "answer": "My sister usually comes with me and carries my file."
+ },
+ {
+  "en": "Health is more important than money, so take care.",
+  "tamil": "உடம்பு தான் பணத்தை விட முக்கியம், அதனால பாத்துக்கோங்க.",
+  "context": "Advising a friend who works too much.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'More ... than' compares two things. 'Take care' is a warm closing phrase.",
+  "words": [
+   "health",
+   "important"
+  ],
+  "usage": "Use it kindly with a friend who ignores their health.",
+  "leelaQ": "What is more important to you, health or money? Why?",
+  "answer": "Health is more important, because I need it for everything."
+ }
+]

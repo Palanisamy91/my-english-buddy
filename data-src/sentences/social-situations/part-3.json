@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Welcome to our home. We are so happy you could come.",
+  "tamil": "எங்க வீட்டுக்கு வரவேற்கிறோம். நீங்க வந்தது ரொம்ப சந்தோஷம்.",
+  "context": "Greeting guests arriving for a house-warming.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'We are happy you could come' shows the guests are valued.",
+  "words": [
+   "welcome",
+   "happy"
+  ],
+  "usage": "Say it at the door when guests arrive for a function at your house.",
+  "leelaQ": "How do you feel when guests come to your home?",
+  "answer": "I feel very happy and a little busy."
+ },
+ {
+  "en": "Congratulations on your new house, it is really spacious.",
+  "tamil": "புது வீட்டுக்கு வாழ்த்துகள், இது ரொம்ப விசாலமா இருக்கு.",
+  "context": "Visiting a friend's house-warming ceremony.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Spacious' means having a lot of room inside.",
+  "words": [
+   "house",
+   "spacious"
+  ],
+  "usage": "Say it to a friend who has just moved into a new home.",
+  "leelaQ": "What kind of house would you like to live in?",
+  "answer": "I would like a small house with a garden."
+ },
+ {
+  "en": "Sorry to bother you, but do you have a pen I could borrow?",
+  "tamil": "தொந்தரவுக்கு மன்னிக்கணும், நான் வாங்கிக்கற மாதிரி உங்ககிட்ட பேனா இருக்கா?",
+  "context": "Asking a stranger for a pen at a function.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Sorry to bother you' is a polite opening before a small request.",
+  "words": [
+   "bother",
+   "borrow"
+  ],
+  "usage": "Use it with strangers when you need a small favour.",
+  "leelaQ": "Do you carry a pen with you every day?",
+  "answer": "Yes, I always keep a pen in my bag."
+ },
+ {
+  "en": "It has been ages since we met! How are you?",
+  "tamil": "நாம சந்திச்சு பல வருஷமாச்சு! எப்படி இருக்கீங்க?",
+  "context": "Meeting an old school friend by chance.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Ages' means a very long time. It is used in spoken English.",
+  "words": [
+   "ages",
+   "met"
+  ],
+  "usage": "Say it when you unexpectedly meet someone after many years.",
+  "leelaQ": "Whom did you meet after a long time recently?",
+  "answer": "I met my school friend at the bus stand."
+ },
+ {
+  "en": "Let's exchange numbers so we can plan a meetup.",
+  "tamil": "நம்பர் மாத்திக்கலாம், அப்புறம் சந்திக்க திட்டம் போடலாம்.",
+  "context": "Getting a new friend's phone number.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let's' is used to make a suggestion for both of you.",
+  "words": [
+   "exchange",
+   "meetup"
+  ],
+  "usage": "Use it when you like a new person and want to meet again.",
+  "leelaQ": "How many contacts do you have on your phone?",
+  "answer": "I have around two hundred contacts."
+ },
+ {
+  "en": "What kind of work do you do?",
+  "tamil": "நீங்க என்ன மாதிரி வேலை செய்யறீங்க?",
+  "context": "Making small talk with a new acquaintance.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What kind of' asks about the type of something. It sounds friendly, not pushy.",
+  "words": [
+   "kind",
+   "work"
+  ],
+  "usage": "Ask it casually when you meet someone for the first time.",
+  "leelaQ": "What kind of work do you do and do you enjoy it?",
+  "answer": "I work in an office and I enjoy it."
+ },
+ {
+  "en": "I work in a software company near the airport.",
+  "tamil": "நான் விமான நிலையம் பக்கத்துல ஒரு சாஃப்ட்வேர் கம்பெனியில வேலை பாக்கறேன்.",
+  "context": "Telling a new person about your job.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Work in' is used for a company or field; 'work at' for a place.",
+  "words": [
+   "software",
+   "airport"
+  ],
+  "usage": "Say it when someone asks about your job at a party.",
+  "leelaQ": "Where is your office and how do you go there?",
+  "answer": "My office is near the station and I go by bus."
+ },
+ {
+  "en": "You two must come over for tea this evening.",
+  "tamil": "நீங்க ரெண்டு பேரும் இன்னைக்கு சாயந்திரம் டீக்கு வீட்டுக்கு வரணும்.",
+  "context": "Inviting neighbours to your home.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Come over' means to visit someone's home. 'Must' makes the invitation warm.",
+  "words": [
+   "come over",
+   "evening"
+  ],
+  "usage": "Use it to invite close neighbours or friends for a casual visit.",
+  "leelaQ": "Do you like drinking tea in the evening?",
+  "answer": "Yes, I always drink tea at five o'clock."
+ },
+ {
+  "en": "We'll definitely come to your daughter's engagement.",
+  "tamil": "உங்க பொண்ணோட நிச்சயதார்த்தத்துக்கு நிச்சயம் வருவோம்.",
+  "context": "Accepting an invitation from a colleague.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Definitely' shows you are very sure about coming.",
+  "words": [
+   "definitely",
+   "engagement"
+  ],
+  "usage": "Say it to promise a friend or colleague that you will attend.",
+  "leelaQ": "Do you always keep your promise to attend functions?",
+  "answer": "Yes, I try my best to attend every function."
+ },
+ {
+  "en": "I'm sorry, we already have another function that day.",
+  "tamil": "மன்னிக்கணும், அன்னைக்கு எங்களுக்கு வேற ஒரு விழா இருக்கு.",
+  "context": "Declining a wedding invitation politely.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Giving a short reason makes a refusal polite.",
+  "words": [
+   "already",
+   "another"
+  ],
+  "usage": "Say it when you cannot go to a function because of another plan.",
+  "leelaQ": "What do you do if two functions come on the same day?",
+  "answer": "I go to the closer relative's function first."
+ },
+ {
+  "en": "Would you mind taking a photo of all of us?",
+  "tamil": "எங்க எல்லாரையும் ஒரு போட்டோ எடுக்க முடியுமா?",
+  "context": "Asking a stranger to take a group photo.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Would you mind...ing' is a very polite request form.",
+  "words": [
+   "mind",
+   "photo"
+  ],
+  "usage": "Use it with strangers at a tourist place or a function.",
+  "leelaQ": "Do you like taking photos at functions?",
+  "answer": "Yes, I love taking photos with my family."
+ },
+ {
+  "en": "Everyone loved your speech at the reception.",
+  "tamil": "வரவேற்புல நீங்க பேசினது எல்லாருக்கும் ரொம்ப பிடிச்சிருந்துச்சு.",
+  "context": "Praising a friend after his speech.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Loved' is a stronger word than 'liked'.",
+  "words": [
+   "speech",
+   "reception"
+  ],
+  "usage": "Say it to a person who spoke on stage and did well.",
+  "leelaQ": "Can you speak confidently in front of a crowd?",
+  "answer": "Not yet, but I am practising every day."
+ },
+ {
+  "en": "Thank you for coming all the way from Chennai.",
+  "tamil": "சென்னையில இருந்து இவ்வளவு தூரம் வந்ததுக்கு நன்றி.",
+  "context": "Thanking a relative who travelled far.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'All the way' stresses the long distance someone travelled.",
+  "words": [
+   "coming",
+   "way"
+  ],
+  "usage": "Say it to guests who have made a long trip for your function.",
+  "leelaQ": "Which relative lives very far from your home?",
+  "answer": "My uncle lives in Bangalore, very far from us."
+ },
+ {
+  "en": "I didn't recognise you at first. You've changed so much!",
+  "tamil": "எனக்கு முதல்ல உங்களை அடையாளமே தெரியலை. நீங்க ரொம்ப மாறிட்டீங்க!",
+  "context": "Meeting someone after many years.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Recognise' means to know someone from before.",
+  "words": [
+   "recognise",
+   "changed"
+  ],
+  "usage": "Use it with old friends or relatives you meet after a long gap.",
+  "leelaQ": "Has any friend of yours changed a lot over the years?",
+  "answer": "Yes, my friend became much slimmer and more confident."
+ },
+ {
+  "en": "Make sure you give my regards to your parents.",
+  "tamil": "உங்க அம்மா அப்பாகிட்ட என் வணக்கத்தை சொல்லுங்க.",
+  "context": "Saying goodbye to a friend.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Give my regards to' is a polite way to send greetings.",
+  "words": [
+   "regards",
+   "parents"
+  ],
+  "usage": "Say it at the end of a chat when you want to greet someone's family.",
+  "leelaQ": "How are your parents and what do they do?",
+  "answer": "They are fine and they enjoy gardening."
+ },
+ {
+  "en": "Are you enjoying the party so far?",
+  "tamil": "இதுவரைக்கும் பார்ட்டியை எஞ்சாய் பண்றீங்களா?",
+  "context": "Checking on a guest at your party.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'So far' means until now.",
+  "words": [
+   "enjoying",
+   "party"
+  ],
+  "usage": "Ask it to a guest to show care as a host.",
+  "leelaQ": "What do you enjoy most at a party?",
+  "answer": "I enjoy the music and meeting new people."
+ },
+ {
+  "en": "I'm new to this city, so I don't know many people yet.",
+  "tamil": "நான் இந்த ஊருக்கு புதுசு, அதனால இன்னும் நிறைய பேரை தெரியாது.",
+  "context": "Telling a friendly colleague about yourself.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Yet' is used in negatives to mean 'until now'.",
+  "words": [
+   "new",
+   "yet"
+  ],
+  "usage": "Use it to explain why you are alone when you move to a new place.",
+  "leelaQ": "How do you make friends in a new city?",
+  "answer": "I join a club and talk to my neighbours."
+ },
+ {
+  "en": "Let me introduce my friend Priya, she's visiting from Coimbatore.",
+  "tamil": "என் தோழி பிரியாவை அறிமுகப்படுத்தறேன், அவ கோயம்புத்தூர்ல இருந்து வந்திருக்கா.",
+  "context": "Introducing a friend to your colleagues.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me introduce' is a formal and polite way to bring in a new person.",
+  "words": [
+   "introduce",
+   "visiting"
+  ],
+  "usage": "Use it when you bring a friend to a group of people.",
+  "leelaQ": "Who did you introduce to your family last?",
+  "answer": "I introduced my best friend to my parents."
+ },
+ {
+  "en": "I was so nervous about meeting her parents for the first time.",
+  "tamil": "அவளோட அம்மா அப்பாவை முதல் தடவை பாக்க எனக்கு ரொம்ப பதட்டமா இருந்துச்சு.",
+  "context": "Telling a friend about a nervous experience.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Nervous about' + an -ing word shows worry about a future event.",
+  "words": [
+   "nervous",
+   "parents"
+  ],
+  "usage": "Say it when you share your feelings about a big meeting.",
+  "leelaQ": "What makes you nervous when you meet new people?",
+  "answer": "I get nervous when I have to speak first."
+ },
+ {
+  "en": "Please accept this small gift as a token of my thanks.",
+  "tamil": "என் நன்றியோட அடையாளமா இந்த சின்ன பரிசை ஏத்துக்கோங்க.",
+  "context": "Giving a gift to someone who helped you.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'A token of' means a small sign of a feeling.",
+  "words": [
+   "accept",
+   "token"
+  ],
+  "usage": "Say it when you hand over a thank-you gift to a helper or teacher.",
+  "leelaQ": "Whom would you like to give a thank-you gift?",
+  "answer": "I would like to thank my teacher with a gift."
+ },
+ {
+  "en": "My family is going to visit your village next month.",
+  "tamil": "என் குடும்பம் அடுத்த மாசம் உங்க கிராமத்துக்கு வரப்போறோம்.",
+  "context": "Telling a friend about a planned visit.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' is used for plans you have already decided.",
+  "words": [
+   "village",
+   "visit"
+  ],
+  "usage": "Say it to a friend or relative when you plan to meet them.",
+  "leelaQ": "Which village or town would you like to visit?",
+  "answer": "I would like to visit a hill station in the summer."
+ },
+ {
+  "en": "What a lovely surprise! I never expected to see you here.",
+  "tamil": "என்ன ஒரு இனிய ஆச்சரியம்! உங்களை இங்க பாப்பேன்னு நான் நினைக்கவே இல்லை.",
+  "context": "Meeting a friend unexpectedly in a mall.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Never expected' shows complete surprise. 'What a...' shows strong feeling.",
+  "words": [
+   "surprise",
+   "expected"
+  ],
+  "usage": "Use it when you meet a known person in an unexpected place.",
+  "leelaQ": "Have you ever met a friend in a surprising place?",
+  "answer": "Yes, I once met my cousin at the airport."
+ },
+ {
+  "en": "Do join us if you are free this Sunday.",
+  "tamil": "இந்த ஞாயிற்றுக்கிழமை உங்களுக்கு நேரமிருந்தா எங்களோட சேருங்க.",
+  "context": "Giving a casual invite to a neighbour.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Do' before a verb makes a request warm and strong.",
+  "words": [
+   "join",
+   "free"
+  ],
+  "usage": "Use it to invite someone in a friendly, no-pressure way.",
+  "leelaQ": "What do you usually do on Sunday?",
+  "answer": "I relax at home and meet my friends."
+ },
+ {
+  "en": "That is a lovely saree. The colour suits you very well.",
+  "tamil": "அது அழகான புடவை. அந்த நிறம் உங்களுக்கு ரொம்ப பொருத்தமா இருக்கு.",
+  "context": "Complimenting a relative at a wedding.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Suits you' means looks good on you. It is a polite way to praise someone.",
+  "words": [
+   "lovely",
+   "suits"
+  ],
+  "usage": "Say it to a woman at a wedding or festival to praise her dress.",
+  "leelaQ": "Whose dress did you praise at the last function?",
+  "answer": "I praised my cousin's saree at her friend's wedding."
+ },
+ {
+  "en": "We are inviting everyone for my sister's engagement next Sunday.",
+  "tamil": "அடுத்த ஞாயிற்றுக்கிழமை என் தங்கை நிச்சயதார்த்தத்துக்கு எல்லாரையும் கூப்பிடறோம்.",
+  "context": "Inviting a neighbour to a family function.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with 'next Sunday' talks about a planned event.",
+  "words": [
+   "inviting",
+   "engagement"
+  ],
+  "usage": "Use it when you personally invite neighbours or friends to a family event.",
+  "leelaQ": "Who will you invite to the next family function?",
+  "answer": "I will invite my neighbours and close friends."
+ }
+]

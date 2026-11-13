@@ -1,0 +1,377 @@
+[
+ {
+  "word": "endless",
+  "meaning": "Seeming to have no end",
+  "tamil": "முடிவில்லாத",
+  "pos": "adjective",
+  "pron": "END-less",
+  "example": "The endless traffic made us late for the wedding.",
+  "exampleTamil": "முடிவில்லாத போக்குவரத்து நெரிசலால் நாங்கள் திருமணத்திற்கு தாமதமானோம்.",
+  "synonyms": [
+   "unending",
+   "infinite",
+   "constant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fantastic",
+  "meaning": "Extremely good; wonderful",
+  "tamil": "அருமையான, அற்புதமான",
+  "pos": "adjective",
+  "pron": "fan-TAS-tik",
+  "example": "We had a fantastic trip to Kerala last month.",
+  "exampleTamil": "கடந்த மாதம் கேரளாவுக்கு அற்புதமான பயணம் சென்றோம்.",
+  "synonyms": [
+   "wonderful",
+   "great",
+   "amazing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fiery",
+  "meaning": "Very hot or full of strong feeling",
+  "tamil": "காரமான, உணர்ச்சி மிக்க",
+  "pos": "adjective",
+  "pron": "FYE-uh-ree",
+  "example": "The leader gave a fiery speech to the crowd.",
+  "exampleTamil": "தலைவர் கூட்டத்திற்கு உணர்ச்சிமிக்க உரை ஆற்றினார்.",
+  "synonyms": [
+   "burning",
+   "passionate",
+   "intense"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "filthy",
+  "meaning": "Extremely dirty",
+  "tamil": "மிகவும் அழுக்கான",
+  "pos": "adjective",
+  "pron": "FIL-thee",
+  "example": "His shoes were filthy after walking in the mud.",
+  "exampleTamil": "சேற்றில் நடந்ததால் அவன் காலணிகள் மிகவும் அழுக்காக இருந்தன.",
+  "synonyms": [
+   "dirty",
+   "grubby",
+   "unclean"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flavorful",
+  "meaning": "Full of good taste",
+  "tamil": "சுவை நிறைந்த",
+  "pos": "adjective",
+  "pron": "FLAY-ver-ful",
+  "example": "My mother makes a flavorful sambar every Sunday.",
+  "exampleTamil": "என் அம்மா ஒவ்வொரு ஞாயிறும் சுவையான சாம்பார் செய்வார்.",
+  "synonyms": [
+   "tasty",
+   "delicious",
+   "rich"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "frequent",
+  "meaning": "Happening often",
+  "tamil": "அடிக்கடி நடக்கும்",
+  "pos": "adjective",
+  "pron": "FREE-kwunt",
+  "example": "Frequent power cuts disturb our studies.",
+  "exampleTamil": "அடிக்கடி ஏற்படும் மின்வெட்டு எங்கள் படிப்பைத் தொந்தரவு செய்கிறது.",
+  "synonyms": [
+   "regular",
+   "common",
+   "repeated"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grim",
+  "meaning": "Serious, gloomy and without hope",
+  "tamil": "கடுமையான, இருண்ட",
+  "pos": "adjective",
+  "pron": "GRIM",
+  "example": "The doctor had a grim look on his face.",
+  "exampleTamil": "மருத்துவரின் முகத்தில் கடுமையான தோற்றம் இருந்தது.",
+  "synonyms": [
+   "stern",
+   "bleak",
+   "serious"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hefty",
+  "meaning": "Large, heavy or big in amount",
+  "tamil": "கனமான, பெரிய அளவிலான",
+  "pos": "adjective",
+  "pron": "HEF-tee",
+  "example": "He paid a hefty fine for parking in the wrong place.",
+  "exampleTamil": "தவறான இடத்தில் வாகனம் நிறுத்தியதற்கு அவன் பெரிய அபராதம் செலுத்தினான்.",
+  "synonyms": [
+   "heavy",
+   "large",
+   "substantial"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hilarious",
+  "meaning": "Extremely funny",
+  "tamil": "மிகவும் நகைச்சுவையான",
+  "pos": "adjective",
+  "pron": "hih-LAIR-ee-us",
+  "example": "Your story about the cat was hilarious.",
+  "exampleTamil": "பூனை பற்றிய உன் கதை மிகவும் நகைச்சுவையாக இருந்தது.",
+  "synonyms": [
+   "funny",
+   "comical",
+   "amusing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hostile",
+  "meaning": "Unfriendly and ready to oppose",
+  "tamil": "பகைமையான",
+  "pos": "adjective",
+  "pron": "HOS-tyle",
+  "example": "The neighbours were hostile to the new family.",
+  "exampleTamil": "அண்டை வீட்டார் புதிய குடும்பத்திடம் பகைமையாக நடந்துகொண்டனர்.",
+  "synonyms": [
+   "unfriendly",
+   "aggressive",
+   "angry"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ideal",
+  "meaning": "Perfect or the best possible",
+  "tamil": "சிறந்த, மிகப் பொருத்தமான",
+  "pos": "adjective",
+  "pron": "eye-DEE-ul",
+  "example": "This quiet town is ideal for a long holiday.",
+  "exampleTamil": "இந்த அமைதியான நகரம் நீண்ட விடுமுறைக்கு மிகப் பொருத்தமானது.",
+  "synonyms": [
+   "perfect",
+   "best",
+   "suitable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "identical",
+  "meaning": "Exactly the same",
+  "tamil": "அச்சு அசலான, ஒரே மாதிரியான",
+  "pos": "adjective",
+  "pron": "eye-DEN-tih-kul",
+  "example": "The twins wore identical shirts to school.",
+  "exampleTamil": "இரட்டையர்கள் பள்ளிக்கு ஒரே மாதிரியான சட்டைகள் அணிந்தனர்.",
+  "synonyms": [
+   "same",
+   "matching",
+   "alike"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ignorant",
+  "meaning": "Not knowing something you should know",
+  "tamil": "அறியாமையுள்ள",
+  "pos": "adjective",
+  "pron": "IG-nuh-runt",
+  "example": "He was ignorant of the new traffic rules.",
+  "exampleTamil": "புதிய போக்குவரத்து விதிகள் பற்றி அவனுக்குத் தெரியாது.",
+  "synonyms": [
+   "unaware",
+   "uninformed",
+   "uneducated"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "inexperienced",
+  "meaning": "Having little practice or knowledge of a job",
+  "tamil": "அனுபவமில்லாத",
+  "pos": "adjective",
+  "pron": "in-ik-SPEER-ee-unst",
+  "example": "The company hired an inexperienced driver by mistake.",
+  "exampleTamil": "நிறுவனம் தவறுதலாக அனுபவமில்லாத ஓட்டுநரை வேலைக்கு எடுத்தது.",
+  "synonyms": [
+   "new",
+   "green",
+   "untrained"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "isolated",
+  "meaning": "Far from other people or places",
+  "tamil": "தனிமைப்பட்ட, ஒதுக்குப்புறமான",
+  "pos": "adjective",
+  "pron": "EYE-suh-lay-tid",
+  "example": "Their farmhouse is in an isolated village.",
+  "exampleTamil": "அவர்களின் பண்ணை வீடு ஒரு ஒதுக்குப்புறமான கிராமத்தில் உள்ளது.",
+  "synonyms": [
+   "remote",
+   "lonely",
+   "separate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "knowledgeable",
+  "meaning": "Knowing a lot about many things",
+  "tamil": "அறிவுள்ள, நிறைய தெரிந்த",
+  "pos": "adjective",
+  "pron": "NOL-ij-uh-bul",
+  "example": "Our teacher is very knowledgeable about history.",
+  "exampleTamil": "எங்கள் ஆசிரியர் வரலாற்றைப் பற்றி நிறைய தெரிந்தவர்.",
+  "synonyms": [
+   "informed",
+   "learned",
+   "wise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lenient",
+  "meaning": "Not strict when punishing or judging",
+  "tamil": "மென்மையான, தளர்வான",
+  "pos": "adjective",
+  "pron": "LEE-nee-unt",
+  "example": "The teacher was lenient with students who came late.",
+  "exampleTamil": "தாமதமாக வந்த மாணவர்களிடம் ஆசிரியர் தளர்வாக நடந்துகொண்டார்.",
+  "synonyms": [
+   "gentle",
+   "merciful",
+   "easygoing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lightweight",
+  "meaning": "Not heavy; easy to carry",
+  "tamil": "எடை குறைவான",
+  "pos": "adjective",
+  "pron": "LITE-wayt",
+  "example": "I bought a lightweight bag for travelling.",
+  "exampleTamil": "பயணத்திற்காக நான் எடை குறைவான பை வாங்கினேன்.",
+  "synonyms": [
+   "light",
+   "portable",
+   "thin"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lucky",
+  "meaning": "Having good things happen by chance",
+  "tamil": "அதிர்ஷ்டமுள்ள",
+  "pos": "adjective",
+  "pron": "LUK-ee",
+  "example": "You are lucky to have such kind friends.",
+  "exampleTamil": "இவ்வளவு அன்பான நண்பர்கள் இருப்பதில் நீ அதிர்ஷ்டசாலி.",
+  "synonyms": [
+   "fortunate",
+   "blessed",
+   "happy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "magnificent",
+  "meaning": "Very grand and impressive",
+  "tamil": "பிரம்மாண்டமான, சிறப்பான",
+  "pos": "adjective",
+  "pron": "mag-NIF-ih-sunt",
+  "example": "The Madurai temple is a magnificent building.",
+  "exampleTamil": "மதுரைக் கோயில் ஒரு பிரம்மாண்டமான கட்டிடம்.",
+  "synonyms": [
+   "grand",
+   "splendid",
+   "impressive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mature",
+  "meaning": "Behaving like a grown-up; fully grown",
+  "tamil": "முதிர்ச்சியுள்ள",
+  "pos": "adjective",
+  "pron": "muh-CHOOR",
+  "example": "He is very mature for a boy of twelve.",
+  "exampleTamil": "பன்னிரண்டு வயது பையனுக்கு அவன் மிகவும் முதிர்ச்சியாக இருக்கிறான்.",
+  "synonyms": [
+   "grown-up",
+   "adult",
+   "sensible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "meaningful",
+  "meaning": "Having a clear purpose or importance",
+  "tamil": "அர்த்தமுள்ள",
+  "pos": "adjective",
+  "pron": "MEE-ning-ful",
+  "example": "She does meaningful work by teaching poor children.",
+  "exampleTamil": "ஏழைக் குழந்தைகளுக்குக் கற்பித்து அவள் அர்த்தமுள்ள பணி செய்கிறாள்.",
+  "synonyms": [
+   "important",
+   "useful",
+   "worthwhile"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "neat",
+  "meaning": "Tidy and well arranged",
+  "tamil": "நேர்த்தியான, ஒழுங்கான",
+  "pos": "adjective",
+  "pron": "NEET",
+  "example": "Her handwriting is always neat and clear.",
+  "exampleTamil": "அவளுடைய கையெழுத்து எப்போதும் நேர்த்தியாகவும் தெளிவாகவும் இருக்கும்.",
+  "synonyms": [
+   "tidy",
+   "orderly",
+   "clean"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "needy",
+  "meaning": "Poor and lacking basic things",
+  "tamil": "ஏழ்மையான, தேவையுள்ள",
+  "pos": "adjective",
+  "pron": "NEE-dee",
+  "example": "The club gives food to needy families every month.",
+  "exampleTamil": "அந்த மன்றம் ஒவ்வொரு மாதமும் ஏழைக் குடும்பங்களுக்கு உணவு வழங்குகிறது.",
+  "synonyms": [
+   "poor",
+   "deprived",
+   "underprivileged"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nimble",
+  "meaning": "Quick and light in movement",
+  "tamil": "சுறுசுறுப்பான, லாவகமான",
+  "pos": "adjective",
+  "pron": "NIM-bul",
+  "example": "The nimble goat jumped across the rocks.",
+  "exampleTamil": "சுறுசுறுப்பான ஆடு பாறைகளின் மேல் தாவிச் சென்றது.",
+  "synonyms": [
+   "agile",
+   "quick",
+   "swift"
+  ],
+  "level": "advanced"
+ }
+]

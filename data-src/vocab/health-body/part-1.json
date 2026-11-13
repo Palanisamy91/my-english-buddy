@@ -1,0 +1,332 @@
+[
+ {
+  "word": "doctor",
+  "meaning": "A person trained to treat sick people.",
+  "tamil": "மருத்துவர்",
+  "pos": "noun",
+  "pron": "DOK-ter",
+  "example": "I have an appointment with the doctor at five.",
+  "exampleTamil": "எனக்கு ஐந்து மணிக்கு மருத்துவரைப் பார்க்க நேரம் இருக்கு.",
+  "synonyms": [
+   "physician"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pain",
+  "meaning": "A hurting feeling in your body.",
+  "tamil": "வலி",
+  "pos": "noun",
+  "pron": "PAYN",
+  "example": "I have a sharp pain in my leg.",
+  "exampleTamil": "என் காலில் கூர்மையான வலி இருக்கு.",
+  "synonyms": [
+   "ache",
+   "soreness"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chest",
+  "meaning": "The front part of the body between neck and stomach.",
+  "tamil": "மார்பு",
+  "pos": "noun",
+  "pron": "CHEST",
+  "example": "He felt a tightness in his chest.",
+  "exampleTamil": "அவனுக்கு மார்பில் இறுக்கமாக இருந்தது.",
+  "synonyms": [
+   "breast"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "neck",
+  "meaning": "The part that joins your head to your body.",
+  "tamil": "கழுத்து",
+  "pos": "noun",
+  "pron": "NEK",
+  "example": "My neck hurts after long hours at the computer.",
+  "exampleTamil": "கணினியில் நீண்ட நேரம் வேலை செய்ததால் என் கழுத்து வலிக்குது.",
+  "synonyms": [
+   "nape"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "back",
+  "meaning": "The rear part of the body from shoulders to hips.",
+  "tamil": "முதுகு",
+  "pos": "noun",
+  "pron": "BAK",
+  "example": "I have a pain in my lower back.",
+  "exampleTamil": "எனக்கு கீழ் முதுகில் வலி இருக்கு.",
+  "synonyms": [
+   "spine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "skin",
+  "meaning": "The outer covering of the body.",
+  "tamil": "தோல்",
+  "pos": "noun",
+  "pron": "SKIN",
+  "example": "Drink water to keep your skin healthy.",
+  "exampleTamil": "தோல் ஆரோக்கியமா இருக்க தண்ணீர் குடி.",
+  "synonyms": [
+   "hide"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bone",
+  "meaning": "A hard part of the body that forms the skeleton.",
+  "tamil": "எலும்பு",
+  "pos": "noun",
+  "pron": "BOHN",
+  "example": "He broke a bone in his hand.",
+  "exampleTamil": "அவன் கையில் எலும்பு உடைந்தது.",
+  "synonyms": [
+   "skeleton part"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "muscle",
+  "meaning": "Body tissue that helps you move.",
+  "tamil": "தசை",
+  "pos": "noun",
+  "pron": "MUS-ul",
+  "example": "I pulled a muscle while playing cricket.",
+  "exampleTamil": "கிரிக்கெட் விளையாடும்போது எனக்கு தசை பிடிப்பு ஏற்பட்டது.",
+  "synonyms": [
+   "tissue"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "blood",
+  "meaning": "The red liquid that flows in the body.",
+  "tamil": "இரத்தம்",
+  "pos": "noun",
+  "pron": "BLUD",
+  "example": "The nurse took a blood sample.",
+  "exampleTamil": "செவிலியர் இரத்த மாதிரி எடுத்தார்.",
+  "synonyms": [
+   "gore"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "heart",
+  "meaning": "The organ that pumps blood.",
+  "tamil": "இதயம்",
+  "pos": "noun",
+  "pron": "HART",
+  "example": "My grandfather has a weak heart.",
+  "exampleTamil": "என் தாத்தாவுக்கு பலவீனமான இதயம்.",
+  "synonyms": [
+   "ticker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lungs",
+  "meaning": "The two organs in your chest used for breathing.",
+  "tamil": "நுரையீரல்",
+  "pos": "noun",
+  "pron": "LUNGZ",
+  "example": "Smoking damages your lungs.",
+  "exampleTamil": "புகைபிடித்தல் உங்கள் நுரையீரலை பாதிக்கும்.",
+  "synonyms": [
+   "respiratory organs"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "brain",
+  "meaning": "The organ in your head that controls thinking.",
+  "tamil": "மூளை",
+  "pos": "noun",
+  "pron": "BRAYN",
+  "example": "Exercise is good for your brain too.",
+  "exampleTamil": "உடற்பயிற்சி மூளைக்கும் நல்லது.",
+  "synonyms": [
+   "mind"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tooth",
+  "meaning": "One of the hard white parts in your mouth for chewing.",
+  "tamil": "பல்",
+  "pos": "noun",
+  "pron": "TOOTH",
+  "example": "My tooth has been hurting since morning.",
+  "exampleTamil": "காலையிலிருந்து என் பல் வலிக்குது.",
+  "synonyms": [
+   "molar"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hospital",
+  "meaning": "A place where sick people get treatment.",
+  "tamil": "மருத்துவமனை",
+  "pos": "noun",
+  "pron": "HOS-pi-tul",
+  "example": "They took him to the hospital immediately.",
+  "exampleTamil": "அவர்கள் அவனை உடனே மருத்துவமனைக்குக் கொண்டு போனார்கள்.",
+  "synonyms": [
+   "medical centre"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "infection",
+  "meaning": "A sickness caused by germs.",
+  "tamil": "தொற்று",
+  "pos": "noun",
+  "pron": "in-FEK-shun",
+  "example": "The wound got an infection.",
+  "exampleTamil": "காயத்தில் தொற்று ஏற்பட்டது.",
+  "synonyms": [
+   "contagion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "diabetes",
+  "meaning": "A disease with too much sugar in the blood.",
+  "tamil": "நீரிழிவு நோய்",
+  "pos": "noun",
+  "pron": "dy-uh-BEE-teez",
+  "example": "My uncle has diabetes, so he avoids sweets.",
+  "exampleTamil": "என் மாமாவுக்கு சர்க்கரை நோய், அதனால் இனிப்பைத் தவிர்க்கிறார்.",
+  "synonyms": [
+   "sugar disease"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "yoga",
+  "meaning": "Exercise with stretching and breathing for body and mind.",
+  "tamil": "யோகா",
+  "pos": "noun",
+  "pron": "YOH-guh",
+  "example": "I do yoga every morning before work.",
+  "exampleTamil": "நான் தினமும் காலை வேலைக்கு முன் யோகா செய்கிறேன்.",
+  "synonyms": [
+   "asana practice"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "diet",
+  "meaning": "The food you usually eat, or a special eating plan.",
+  "tamil": "உணவுமுறை",
+  "pos": "noun",
+  "pron": "DY-et",
+  "example": "The doctor told him to follow a low-salt diet.",
+  "exampleTamil": "உப்பு குறைவான உணவுமுறையைப் பின்பற்ற மருத்துவர் அவனிடம் சொன்னார்.",
+  "synonyms": [
+   "eating plan"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "vitamin",
+  "meaning": "A natural substance in food that your body needs.",
+  "tamil": "வைட்டமின்",
+  "pos": "noun",
+  "pron": "VY-tuh-min",
+  "example": "Oranges are full of vitamin C.",
+  "exampleTamil": "ஆரஞ்சில் வைட்டமின் சி நிறைய இருக்கு.",
+  "synonyms": [
+   "nutrient"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sleep",
+  "meaning": "To rest with your eyes closed at night.",
+  "tamil": "தூங்கு",
+  "pos": "verb",
+  "pron": "SLEEP",
+  "example": "I could not sleep well last night.",
+  "exampleTamil": "நேற்று இரவு எனக்கு நல்லா தூக்கம் வரலை.",
+  "synonyms": [
+   "rest",
+   "doze"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cure",
+  "meaning": "To make a sick person well again.",
+  "tamil": "குணப்படுத்து",
+  "pos": "verb",
+  "pron": "KYOOR",
+  "example": "This medicine will cure your cold.",
+  "exampleTamil": "இந்த மருந்து உன் சளியை குணப்படுத்தும்.",
+  "synonyms": [
+   "heal",
+   "treat"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "swelling",
+  "meaning": "A part of the body that becomes bigger because of injury.",
+  "tamil": "வீக்கம்",
+  "pos": "noun",
+  "pron": "SWEL-ing",
+  "example": "There is a swelling on his foot.",
+  "exampleTamil": "அவன் காலில் வீக்கம் இருக்கு.",
+  "synonyms": [
+   "lump"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "healthy",
+  "meaning": "Strong and not sick.",
+  "tamil": "ஆரோக்கியமான",
+  "pos": "adjective",
+  "pron": "HEL-thee",
+  "example": "Eating fruits keeps you healthy.",
+  "exampleTamil": "பழங்கள் சாப்பிடுவது உன்னை ஆரோக்கியமா வைக்கும்.",
+  "synonyms": [
+   "fit",
+   "well"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sick",
+  "meaning": "Not well; having an illness.",
+  "tamil": "உடம்பு சரியில்லாத",
+  "pos": "adjective",
+  "pron": "SIK",
+  "example": "She stayed home because she was sick.",
+  "exampleTamil": "அவளுக்கு உடம்பு சரியில்லாததால் வீட்டிலேயே இருந்தாள்.",
+  "synonyms": [
+   "ill",
+   "unwell"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "weight",
+  "meaning": "How heavy a person or thing is.",
+  "tamil": "எடை",
+  "pos": "noun",
+  "pron": "WAYT",
+  "example": "He wants to lose some weight.",
+  "exampleTamil": "அவன் கொஞ்சம் எடை குறைக்க விரும்புகிறான்.",
+  "synonyms": [
+   "heaviness"
+  ],
+  "level": "beginner"
+ }
+]

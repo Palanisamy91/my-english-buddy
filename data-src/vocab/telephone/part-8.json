@@ -1,0 +1,806 @@
+[
+ {
+  "word": "payphone",
+  "tamil": "பொது தொலைபேசி",
+  "pos": "noun",
+  "pron": "PAY-fohn",
+  "example": "There is an old payphone near the bus stand.",
+  "exampleTamil": "பேருந்து நிலையம் அருகே ஒரு பழைய பொது தொலைபேசி உள்ளது.",
+  "synonyms": [
+   "public phone"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cordless",
+  "tamil": "கம்பியில்லா",
+  "pos": "adjective",
+  "pron": "KORD-less",
+  "example": "We bought a cordless phone for the living room.",
+  "exampleTamil": "நாங்கள் வரவேற்பறைக்கு ஒரு கம்பியில்லா போன் வாங்கினோம்.",
+  "synonyms": [
+   "wireless"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hands-free",
+  "tamil": "கைபிடிக்காமல் பயன்படுத்தும்",
+  "pos": "adjective",
+  "pron": "handz-FREE",
+  "example": "Use the hands-free mode while you are driving.",
+  "exampleTamil": "வண்டி ஓட்டும்போது ஹேண்ட்ஸ்-ஃப்ரீ முறையைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "speaker mode"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "telecom",
+  "tamil": "தொலைத்தொடர்பு",
+  "pos": "noun",
+  "pron": "TEL-ih-kom",
+  "example": "My brother works in the telecom industry.",
+  "exampleTamil": "என் சகோதரர் தொலைத்தொடர்புத் துறையில் வேலை செய்கிறார்.",
+  "synonyms": [
+   "telecommunications"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "transcribe",
+  "tamil": "எழுத்தில் மாற்று",
+  "pos": "verb",
+  "pron": "tran-SKRYB",
+  "example": "Can this tool transcribe our calls automatically?",
+  "exampleTamil": "இந்தக் கருவி எங்கள் அழைப்புகளைத் தானாக எழுத்தாக மாற்ற முடியுமா?",
+  "synonyms": [
+   "write out",
+   "type up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "inbound",
+  "tamil": "உள்வரும்",
+  "pos": "adjective",
+  "pron": "IN-bownd",
+  "example": "Inbound calls are handled by the support team.",
+  "exampleTamil": "உள்வரும் அழைப்புகளை ஆதரவுக் குழு கையாளுகிறது.",
+  "synonyms": [
+   "incoming"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "outbound",
+  "tamil": "வெளிச்செல்லும்",
+  "pos": "adjective",
+  "pron": "OWT-bownd",
+  "example": "Our outbound calls are made from a different number.",
+  "exampleTamil": "எங்கள் வெளிச்செல்லும் அழைப்புகள் வேறு எண்ணிலிருந்து செய்யப்படுகின்றன.",
+  "synonyms": [
+   "outgoing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "authenticate",
+  "tamil": "அடையாளத்தை உறுதிசெய்",
+  "pos": "verb",
+  "pron": "aw-THEN-tih-kayt",
+  "example": "The bank will authenticate you with a code.",
+  "exampleTamil": "வங்கி உங்களை ஒரு குறியீட்டால் உறுதிசெய்யும்.",
+  "synonyms": [
+   "verify",
+   "validate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "helpdesk",
+  "tamil": "உதவி மையம்",
+  "pos": "noun",
+  "pron": "HELP-desk",
+  "example": "Please call the helpdesk if the app crashes.",
+  "exampleTamil": "செயலி செயலிழந்தால் உதவி மையத்தை அழையுங்கள்.",
+  "synonyms": [
+   "support desk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inconvenience",
+  "tamil": "சிரமம்",
+  "pos": "noun",
+  "pron": "in-kun-VEE-nyuns",
+  "example": "We regret any inconvenience this may have caused.",
+  "exampleTamil": "இதனால் ஏற்பட்ட எந்தச் சிரமத்திற்கும் வருந்துகிறோம்.",
+  "synonyms": [
+   "trouble",
+   "bother"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "impatient",
+  "tamil": "பொறுமையற்ற",
+  "pos": "adjective",
+  "pron": "im-PAY-shunt",
+  "example": "The caller sounded impatient and a bit angry.",
+  "exampleTamil": "அழைத்தவர் பொறுமையற்றவராகவும் சற்று கோபமாகவும் ஒலித்தார்.",
+  "synonyms": [
+   "restless",
+   "irritable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "accent",
+  "tamil": "உச்சரிப்பு பாணி",
+  "pos": "noun",
+  "pron": "AK-sent",
+  "example": "Her accent is easy to understand on the phone.",
+  "exampleTamil": "அவளது உச்சரிப்பு போனில் புரிந்துகொள்ள எளிது.",
+  "synonyms": [
+   "pronunciation style"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "enunciate",
+  "tamil": "தெளிவாக உச்சரி",
+  "pos": "verb",
+  "pron": "ih-NUN-see-ayt",
+  "example": "Please enunciate your name slowly for me.",
+  "exampleTamil": "தயவுசெய்து உங்கள் பெயரை மெதுவாகத் தெளிவாக உச்சரியுங்கள்.",
+  "synonyms": [
+   "articulate",
+   "pronounce"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "clarity",
+  "tamil": "தெளிவு",
+  "pos": "noun",
+  "pron": "KLAR-ih-tee",
+  "example": "The call had great clarity on both sides.",
+  "exampleTamil": "அழைப்பு இரு பக்கமும் மிகத் தெளிவாக இருந்தது.",
+  "synonyms": [
+   "clearness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "loud",
+  "tamil": "உரத்த",
+  "pos": "adjective",
+  "pron": "LOWD",
+  "example": "The music was too loud, so I could not hear.",
+  "exampleTamil": "இசை மிக உரத்ததாக இருந்ததால் எனக்குக் கேட்கவில்லை.",
+  "synonyms": [
+   "noisy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "softly",
+  "tamil": "மெதுவாக; மென்மையாக",
+  "pos": "adverb",
+  "pron": "SOFT-lee",
+  "example": "She spoke softly so the baby would not wake.",
+  "exampleTamil": "குழந்தை விழிக்காதபடி அவள் மெதுவாகப் பேசினாள்.",
+  "synonyms": [
+   "gently",
+   "quietly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "record",
+  "tamil": "பதிவு செய்",
+  "pos": "verb",
+  "pron": "rih-KORD",
+  "example": "Do you mind if we record this call?",
+  "exampleTamil": "இந்த அழைப்பைப் பதிவு செய்தால் பரவாயில்லையா?",
+  "synonyms": [
+   "tape",
+   "capture"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "join",
+  "tamil": "சேர்",
+  "pos": "verb",
+  "pron": "JOYN",
+  "example": "You can join the call from your phone.",
+  "exampleTamil": "உங்கள் போனிலிருந்து அழைப்பில் சேரலாம்.",
+  "synonyms": [
+   "enter",
+   "connect to"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rejoin",
+  "tamil": "மீண்டும் சேர்",
+  "pos": "verb",
+  "pron": "ree-JOYN",
+  "example": "I lost power, so I had to rejoin the meeting.",
+  "exampleTamil": "மின்சாரம் போனதால் நான் மீண்டும் கூட்டத்தில் சேர வேண்டியிருந்தது.",
+  "synonyms": [
+   "return to"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "present",
+  "tamil": "முன்வை; காட்டு",
+  "pos": "verb",
+  "pron": "prih-ZENT",
+  "example": "I will present the slides after the introduction.",
+  "exampleTamil": "அறிமுகத்திற்குப் பிறகு நான் ஸ்லைடுகளைக் காட்டுவேன்.",
+  "synonyms": [
+   "show",
+   "display"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gif",
+  "tamil": "அசையும் படம்",
+  "pos": "noun",
+  "pron": "JIF",
+  "example": "She replied with a funny gif in the chat.",
+  "exampleTamil": "அவள் அரட்டையில் ஒரு வேடிக்கையான அசையும் படத்துடன் பதிலளித்தாள்.",
+  "synonyms": [
+   "animation"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "profile",
+  "tamil": "சுயவிவரம்",
+  "pos": "noun",
+  "pron": "PROH-fyl",
+  "example": "Add a clear photo to your profile.",
+  "exampleTamil": "உங்கள் சுயவிவரத்தில் தெளிவான புகைப்படத்தைச் சேர்க்கவும்.",
+  "synonyms": [
+   "account page"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "unsend",
+  "tamil": "அனுப்பியதைத் திரும்பப்பெறு",
+  "pos": "verb",
+  "pron": "un-SEND",
+  "example": "You can unsend a message within ten minutes.",
+  "exampleTamil": "பத்து நிமிடங்களுக்குள் அனுப்பிய செய்தியைத் திரும்பப் பெறலாம்.",
+  "synonyms": [
+   "retract",
+   "recall"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "snooze",
+  "tamil": "தள்ளிப்போடு",
+  "pos": "verb",
+  "pron": "SNOOZ",
+  "example": "I snoozed the alert because I was in a meeting.",
+  "exampleTamil": "கூட்டத்தில் இருந்ததால் அறிவிப்பைத் தள்ளிப்போட்டேன்.",
+  "synonyms": [
+   "delay",
+   "postpone"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unsubscribe",
+  "tamil": "சந்தாவை நிறுத்து",
+  "pos": "verb",
+  "pron": "un-sub-SKRYB",
+  "example": "Click here to unsubscribe from these texts.",
+  "exampleTamil": "இந்தக் குறுஞ்செய்திகளிலிருந்து விலக இங்கே கிளிக் செய்யுங்கள்.",
+  "synonyms": [
+   "opt out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "junk",
+  "tamil": "குப்பை செய்திகள்",
+  "pos": "noun",
+  "pron": "JUNK",
+  "example": "Most of my texts are junk from advertisers.",
+  "exampleTamil": "என் பெரும்பாலான குறுஞ்செய்திகள் விளம்பரக் குப்பைகள்.",
+  "synonyms": [
+   "rubbish",
+   "spam"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "emoticon",
+  "tamil": "முக ஐகான்",
+  "pos": "noun",
+  "pron": "ih-MOH-tih-kon",
+  "example": "He ended his message with a smiling emoticon.",
+  "exampleTamil": "அவன் தன் செய்தியை சிரிக்கும் முக ஐகானுடன் முடித்தான்.",
+  "synonyms": [
+   "smiley"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hashtag",
+  "tamil": "ஹேஷ்டேக்",
+  "pos": "noun",
+  "pron": "HASH-tag",
+  "example": "Add a hashtag so people can find the post.",
+  "exampleTamil": "மக்கள் பதிவைக் கண்டுபிடிக்க ஒரு ஹேஷ்டேக் சேர்க்கவும்.",
+  "synonyms": [
+   "tag"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "autoreply",
+  "tamil": "தானியங்கி பதில்",
+  "pos": "noun",
+  "pron": "AW-toh-ree-ply",
+  "example": "My autoreply says I am away until Monday.",
+  "exampleTamil": "நான் திங்கள் வரை வெளியே இருப்பதாக என் தானியங்கி பதில் சொல்கிறது.",
+  "synonyms": [
+   "automatic response"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cap",
+  "tamil": "உச்ச வரம்பு",
+  "pos": "noun",
+  "pron": "KAP",
+  "example": "There is a cap of ten gigabytes on this plan.",
+  "exampleTamil": "இந்தத் திட்டத்தில் பத்து ஜிகாபைட் உச்ச வரம்பு உள்ளது.",
+  "synonyms": [
+   "limit",
+   "ceiling"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "usage",
+  "tamil": "பயன்பாடு",
+  "pos": "noun",
+  "pron": "YOO-sij",
+  "example": "Check your data usage in the app.",
+  "exampleTamil": "செயலியில் உங்கள் டேட்டா பயன்பாட்டைப் பாருங்கள்.",
+  "synonyms": [
+   "consumption",
+   "use"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "megabyte",
+  "tamil": "மெகாபைட்",
+  "pos": "noun",
+  "pron": "MEG-uh-byt",
+  "example": "This photo is only a few megabytes in size.",
+  "exampleTamil": "இந்தப் புகைப்படம் சில மெகாபைட் அளவே.",
+  "synonyms": [
+   "MB"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "esim",
+  "tamil": "மின்னணு சிம்",
+  "pos": "noun",
+  "pron": "EE-sim",
+  "example": "My new phone supports an esim instead of a card.",
+  "exampleTamil": "என் புதிய போன் கார்டுக்குப் பதிலாக இ-சிம் ஆதரிக்கிறது.",
+  "synonyms": [
+   "digital SIM"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dual-sim",
+  "tamil": "இரட்டை சிம்",
+  "pos": "adjective",
+  "pron": "DOO-ul-sim",
+  "example": "I prefer a dual-sim phone for work and home.",
+  "exampleTamil": "வேலை மற்றும் வீட்டிற்கு இரட்டை சிம் போனை விரும்புகிறேன்.",
+  "synonyms": [
+   "two-SIM"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overcharge",
+  "tamil": "அதிகக் கட்டணம் வசூலி",
+  "pos": "verb",
+  "pron": "oh-ver-CHARJ",
+  "example": "They overcharged me for roaming last month.",
+  "exampleTamil": "கடந்த மாதம் ரோமிங்குக்கு அவர்கள் எனக்கு அதிகக் கட்டணம் வசூலித்தனர்.",
+  "synonyms": [
+   "rip off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "booster",
+  "tamil": "சிக்னல் பெருக்கி",
+  "pos": "noun",
+  "pron": "BOO-ster",
+  "example": "We fitted a signal booster on the roof.",
+  "exampleTamil": "நாங்கள் கூரையில் சிக்னல் பெருக்கியைப் பொருத்தினோம்.",
+  "synonyms": [
+   "amplifier"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bars",
+  "tamil": "சிக்னல் கோடுகள்",
+  "pos": "noun",
+  "pron": "BARZ",
+  "example": "I have only two bars of signal here.",
+  "exampleTamil": "இங்கே எனக்கு இரண்டு கோடு சிக்னல் மட்டுமே உள்ளது.",
+  "synonyms": [
+   "signal strength"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "location",
+  "tamil": "இடம்",
+  "pos": "noun",
+  "pron": "loh-KAY-shun",
+  "example": "Please share your exact location with the operator.",
+  "exampleTamil": "உங்கள் சரியான இடத்தை இயக்குநருடன் பகிருங்கள்.",
+  "synonyms": [
+   "place",
+   "position"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fire",
+  "tamil": "தீ",
+  "pos": "noun",
+  "pron": "FY-er",
+  "example": "There is a fire in the building next door!",
+  "exampleTamil": "பக்கத்து கட்டிடத்தில் தீ பிடித்துள்ளது!",
+  "synonyms": [
+   "blaze"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "burglar",
+  "tamil": "கொள்ளையன்",
+  "pos": "noun",
+  "pron": "BER-gler",
+  "example": "A burglar tried to enter through the window.",
+  "exampleTamil": "ஒரு கொள்ளையன் ஜன்னல் வழியாக நுழைய முயன்றான்.",
+  "synonyms": [
+   "thief",
+   "robber"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "intruder",
+  "tamil": "அத்துமீறி நுழைபவர்",
+  "pos": "noun",
+  "pron": "in-TROO-der",
+  "example": "Call the police if you see an intruder.",
+  "exampleTamil": "அத்துமீறி நுழைபவரைப் பார்த்தால் காவல்துறையை அழையுங்கள்.",
+  "synonyms": [
+   "trespasser"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "injury",
+  "tamil": "காயம்",
+  "pos": "noun",
+  "pron": "IN-juh-ree",
+  "example": "The caller described a serious head injury.",
+  "exampleTamil": "அழைத்தவர் தலையில் ஏற்பட்ட கடுமையான காயத்தை விவரித்தார்.",
+  "synonyms": [
+   "wound",
+   "harm"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fracture",
+  "tamil": "எலும்பு முறிவு",
+  "pos": "noun",
+  "pron": "FRAK-cher",
+  "example": "The doctor said it was a small fracture.",
+  "exampleTamil": "அது சிறிய எலும்பு முறிவு என்று மருத்துவர் கூறினார்.",
+  "synonyms": [
+   "break",
+   "crack"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "poison",
+  "tamil": "விஷம்",
+  "pos": "noun",
+  "pron": "POY-zun",
+  "example": "Call the helpline at once if a child swallows poison.",
+  "exampleTamil": "குழந்தை விஷம் விழுங்கினால் உடனே உதவி எண்ணை அழையுங்கள்.",
+  "synonyms": [
+   "toxin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "drowning",
+  "tamil": "நீரில் மூழ்குதல்",
+  "pos": "noun",
+  "pron": "DROWN-ing",
+  "example": "A passerby called for help during the drowning.",
+  "exampleTamil": "நீரில் மூழ்கியபோது ஒரு வழிப்போக்கர் உதவிக்கு அழைத்தார்.",
+  "synonyms": [
+   "sinking"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "panic",
+  "tamil": "பதற்றம்",
+  "pos": "noun",
+  "pron": "PAN-ik",
+  "example": "Try not to panic when you call for help.",
+  "exampleTamil": "உதவிக்கு அழைக்கும்போது பதற்றப்படாதீர்கள்.",
+  "synonyms": [
+   "alarm",
+   "fear"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "help",
+  "tamil": "உதவி",
+  "pos": "noun",
+  "pron": "HELP",
+  "example": "Help is on the way, so stay where you are.",
+  "exampleTamil": "உதவி வந்துகொண்டிருக்கிறது, அங்கேயே இருங்கள்.",
+  "synonyms": [
+   "aid",
+   "assistance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fully-booked",
+  "tamil": "முழுவதும் முன்பதிவு",
+  "pos": "adjective",
+  "pron": "FUL-ee-BUKT",
+  "example": "Sorry, the doctor is fully-booked this week.",
+  "exampleTamil": "மன்னிக்கவும், மருத்துவருக்கு இந்த வாரம் முழுவதும் முன்பதிவு ஆகிவிட்டது.",
+  "synonyms": [
+   "no slots"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "waitlist",
+  "tamil": "காத்திருப்புப் பட்டியல்",
+  "pos": "noun",
+  "pron": "WAYT-list",
+  "example": "I can put you on the waitlist for a cancellation.",
+  "exampleTamil": "ரத்து ஏற்பட்டால் உங்களைக் காத்திருப்புப் பட்டியலில் சேர்க்கலாம்.",
+  "synonyms": [
+   "waiting list"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reserve",
+  "tamil": "முன்பதிவு செய்",
+  "pos": "verb",
+  "pron": "rih-ZERV",
+  "example": "Can I reserve a table for tonight?",
+  "exampleTamil": "இன்றிரவுக்கு ஒரு மேசையை முன்பதிவு செய்யலாமா?",
+  "synonyms": [
+   "book"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "kindly",
+  "tamil": "தயவுசெய்து",
+  "pos": "adverb",
+  "pron": "KYND-lee",
+  "example": "Kindly hold the line for a moment.",
+  "exampleTamil": "தயவுசெய்து சற்று இணைப்பில் காத்திருங்கள்.",
+  "synonyms": [
+   "please"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "assist",
+  "tamil": "உதவு",
+  "pos": "verb",
+  "pron": "uh-SIST",
+  "example": "How may I assist you today?",
+  "exampleTamil": "இன்று உங்களுக்கு எப்படி உதவலாம்?",
+  "synonyms": [
+   "help",
+   "support"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "appreciate",
+  "tamil": "மதித்து நன்றி கூறு",
+  "pos": "verb",
+  "pron": "uh-PREE-shee-ayt",
+  "example": "I appreciate your patience while we fix this.",
+  "exampleTamil": "இதைச் சரிசெய்யும்வரை உங்கள் பொறுமையை மதிக்கிறேன்.",
+  "synonyms": [
+   "value",
+   "be thankful for"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "certainly",
+  "tamil": "நிச்சயமாக",
+  "pos": "adverb",
+  "pron": "SER-tun-lee",
+  "example": "Certainly, I can transfer you to billing.",
+  "exampleTamil": "நிச்சயமாக, உங்களை பில்லிங் பிரிவுக்கு மாற்றுகிறேன்.",
+  "synonyms": [
+   "of course",
+   "sure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "regrettably",
+  "tamil": "வருந்தத்தக்க வகையில்",
+  "pos": "adverb",
+  "pron": "rih-GRET-uh-blee",
+  "example": "Regrettably, we cannot offer you a refund by phone.",
+  "exampleTamil": "வருந்தத்தக்க வகையில், போனில் பணத்தைத் திருப்பித் தர இயலாது.",
+  "synonyms": [
+   "sadly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "momentarily",
+  "tamil": "சிறிது நேரத்தில்",
+  "pos": "adverb",
+  "pron": "moh-men-TAIR-ih-lee",
+  "example": "Someone will be with you momentarily.",
+  "exampleTamil": "சிறிது நேரத்தில் ஒருவர் உங்களுடன் பேசுவார்.",
+  "synonyms": [
+   "shortly",
+   "briefly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "decimal",
+  "tamil": "தசமப் புள்ளி",
+  "pos": "noun",
+  "pron": "DES-ih-mul",
+  "example": "Say point for the decimal when reading numbers.",
+  "exampleTamil": "எண்களைப் படிக்கும்போது தசமப் புள்ளிக்கு பாயிண்ட் என்று சொல்லுங்கள்.",
+  "synonyms": [
+   "point"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "percent",
+  "tamil": "சதவீதம்",
+  "pos": "noun",
+  "pron": "per-SENT",
+  "example": "The battery is at ten percent already.",
+  "exampleTamil": "பேட்டரி ஏற்கனவே பத்து சதவீதத்தில் உள்ளது.",
+  "synonyms": [
+   "per cent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dozen",
+  "tamil": "பன்னிரண்டு",
+  "pos": "noun",
+  "pron": "DUZ-un",
+  "example": "I left a dozen missed calls for him.",
+  "exampleTamil": "நான் அவனுக்குப் பன்னிரண்டு தவறிய அழைப்புகள் விட்டேன்.",
+  "synonyms": [
+   "twelve"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vowel",
+  "tamil": "உயிரெழுத்து",
+  "pos": "noun",
+  "pron": "VOW-ul",
+  "example": "The second letter in his name is a vowel.",
+  "exampleTamil": "அவன் பெயரின் இரண்டாவது எழுத்து ஒரு உயிரெழுத்து.",
+  "synonyms": [
+   "a, e, i, o, u"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "consonant",
+  "tamil": "மெய்யெழுத்து",
+  "pos": "noun",
+  "pron": "KON-suh-nunt",
+  "example": "Is that last letter a consonant or a vowel?",
+  "exampleTamil": "அந்தக் கடைசி எழுத்து மெய்யா உயிரா?",
+  "synonyms": [
+   "non-vowel letter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "capitalize",
+  "tamil": "பெரிய எழுத்தாக்கு",
+  "pos": "verb",
+  "pron": "KAP-ih-tuh-lyz",
+  "example": "Do I capitalize the first letter of the surname?",
+  "exampleTamil": "குடும்பப் பெயரின் முதல் எழுத்தைப் பெரிய எழுத்தாக எழுத வேண்டுமா?",
+  "synonyms": [
+   "uppercase"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "syllable",
+  "tamil": "அசை",
+  "pos": "noun",
+  "pron": "SIL-uh-bul",
+  "example": "My name has three syllables, so say it slowly.",
+  "exampleTamil": "என் பெயரில் மூன்று அசைகள் உள்ளன, மெதுவாகச் சொல்லுங்கள்.",
+  "synonyms": [
+   "sound unit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pronunciation",
+  "tamil": "உச்சரிப்பு",
+  "pos": "noun",
+  "pron": "pruh-nun-see-AY-shun",
+  "example": "Your pronunciation is very clear on the phone.",
+  "exampleTamil": "போனில் உங்கள் உச்சரிப்பு மிகத் தெளிவாக உள்ளது.",
+  "synonyms": [
+   "enunciation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dictation",
+  "tamil": "சொல்லி எழுதுதல்",
+  "pos": "noun",
+  "pron": "dik-TAY-shun",
+  "example": "The assistant took dictation over the phone.",
+  "exampleTamil": "உதவியாளர் போனில் சொன்னதை எழுதிக்கொண்டார்.",
+  "synonyms": [
+   "transcription"
+  ],
+  "level": "advanced"
+ }
+]

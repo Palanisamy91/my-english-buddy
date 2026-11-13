@@ -1,0 +1,346 @@
+[
+ {
+  "word": "put on",
+  "meaning": "to wear something on your body",
+  "tamil": "அணிந்து கொள்",
+  "pos": "phrasal verb",
+  "pron": "poot ON",
+  "example": "It is cold, so put on your jacket.",
+  "exampleTamil": "குளிராக இருக்கிறது, அதனால் உன் ஜாக்கெட்டை அணிந்து கொள்.",
+  "synonyms": [
+   "wear",
+   "dress in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "take off",
+  "meaning": "to remove clothes or shoes from your body",
+  "tamil": "கழற்று",
+  "pos": "phrasal verb",
+  "pron": "tayk OFF",
+  "example": "Please take off your shoes before you come in.",
+  "exampleTamil": "உள்ளே வரும் முன் தயவுசெய்து உன் காலணிகளைக் கழற்று.",
+  "synonyms": [
+   "remove"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sit down",
+  "meaning": "to move your body into a sitting position",
+  "tamil": "உட்கார்",
+  "pos": "phrasal verb",
+  "pron": "sit DOWN",
+  "example": "Please sit down and have some tea.",
+  "exampleTamil": "தயவுசெய்து உட்கார்ந்து தேநீர் அருந்துங்கள்.",
+  "synonyms": [
+   "take a seat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stand up",
+  "meaning": "to rise onto your feet from sitting",
+  "tamil": "எழுந்து நில்",
+  "pos": "phrasal verb",
+  "pron": "stand UP",
+  "example": "Students stand up when the teacher enters.",
+  "exampleTamil": "ஆசிரியர் உள்ளே வரும்போது மாணவர்கள் எழுந்து நிற்கிறார்கள்.",
+  "synonyms": [
+   "rise",
+   "get up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "look for",
+  "meaning": "to try to find something or someone",
+  "tamil": "தேடு",
+  "pos": "phrasal verb",
+  "pron": "LOOK for",
+  "example": "I am looking for my house keys.",
+  "exampleTamil": "நான் என் வீட்டுச் சாவியைத் தேடிக்கொண்டிருக்கிறேன்.",
+  "synonyms": [
+   "search for",
+   "seek"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fill in",
+  "meaning": "to write information in the empty spaces of a form",
+  "tamil": "படிவத்தை நிரப்பு",
+  "pos": "phrasal verb",
+  "pron": "fil IN",
+  "example": "Please fill in this form with your name and phone number.",
+  "exampleTamil": "தயவுசெய்து இந்தப் படிவத்தில் உங்கள் பெயர் மற்றும் தொலைபேசி எண்ணை நிரப்புங்கள்.",
+  "synonyms": [
+   "complete",
+   "fill out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "log in",
+  "meaning": "to enter your name and password to use a website or app",
+  "tamil": "உள்நுழை",
+  "pos": "phrasal verb",
+  "pron": "log IN",
+  "example": "I cannot log in because I forgot my password.",
+  "exampleTamil": "கடவுச்சொல்லை மறந்ததால் என்னால் உள்நுழைய முடியவில்லை.",
+  "synonyms": [
+   "sign in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "log out",
+  "meaning": "to leave a website or app after using it",
+  "tamil": "வெளியேறு",
+  "pos": "phrasal verb",
+  "pron": "log OWT",
+  "example": "Always log out of your bank account on a shared computer.",
+  "exampleTamil": "பொதுவான கணினியில் உங்கள் வங்கிக் கணக்கிலிருந்து எப்போதும் வெளியேறுங்கள்.",
+  "synonyms": [
+   "sign out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sign up",
+  "meaning": "to register your name for a service or course",
+  "tamil": "பதிவு செய்",
+  "pos": "phrasal verb",
+  "pron": "sine UP",
+  "example": "I want to sign up for a yoga class.",
+  "exampleTamil": "நான் யோகா வகுப்புக்குப் பதிவு செய்ய விரும்புகிறேன்.",
+  "synonyms": [
+   "register",
+   "enrol"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "write down",
+  "meaning": "to put words on paper so you remember them",
+  "tamil": "எழுதி வை",
+  "pos": "phrasal verb",
+  "pron": "rite DOWN",
+  "example": "Let me write down your address.",
+  "exampleTamil": "உங்கள் முகவரியை நான் எழுதி வைக்கிறேன்.",
+  "synonyms": [
+   "note down",
+   "jot down"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "throw away",
+  "meaning": "to put something you do not need in the dustbin",
+  "tamil": "தூக்கி எறி",
+  "pos": "phrasal verb",
+  "pron": "throh uh-WAY",
+  "example": "Do not throw away the bill, we may need it.",
+  "exampleTamil": "பில்லைத் தூக்கி எறியாதே, நமக்குத் தேவைப்படலாம்.",
+  "synonyms": [
+   "discard",
+   "dump"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rush",
+  "meaning": "to move or do something very fast",
+  "tamil": "அவசரமாகச் செல்",
+  "pos": "verb",
+  "pron": "RUSH",
+  "example": "Don't rush, we still have enough time.",
+  "exampleTamil": "அவசரப்படாதே, நமக்கு இன்னும் போதுமான நேரம் இருக்கிறது.",
+  "synonyms": [
+   "hurry",
+   "dash"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "knock",
+  "meaning": "to hit a door gently so people know you are there",
+  "tamil": "கதவைத் தட்டு",
+  "pos": "verb",
+  "pron": "NOK",
+  "example": "Please knock before you enter the room.",
+  "exampleTamil": "அறைக்குள் நுழையும் முன் தயவுசெய்து கதவைத் தட்டுங்கள்.",
+  "synonyms": [
+   "tap",
+   "rap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "carry",
+  "meaning": "to hold something and take it to another place",
+  "tamil": "சுமந்து செல்",
+  "pos": "verb",
+  "pron": "KAH-ree",
+  "example": "Can you carry this bag for me?",
+  "exampleTamil": "எனக்காக இந்தப் பையை சுமந்து வர முடியுமா?",
+  "synonyms": [
+   "bring",
+   "bear"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stick",
+  "meaning": "to join one thing to another with glue or tape",
+  "tamil": "ஒட்டு",
+  "pos": "verb",
+  "pron": "STIK",
+  "example": "Stick the photo on the first page.",
+  "exampleTamil": "புகைப்படத்தை முதல் பக்கத்தில் ஒட்டு.",
+  "synonyms": [
+   "glue",
+   "paste"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stare",
+  "meaning": "to look at something for a long time",
+  "tamil": "உற்றுப் பார்",
+  "pos": "verb",
+  "pron": "STAIR",
+  "example": "It is rude to stare at strangers.",
+  "exampleTamil": "அந்நியர்களை உற்றுப் பார்ப்பது அநாகரிகம்.",
+  "synonyms": [
+   "gaze",
+   "gape"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "print",
+  "meaning": "to make words or pictures on paper using a printer",
+  "tamil": "அச்சிடு",
+  "pos": "verb",
+  "pron": "PRINT",
+  "example": "I need to print my ticket before the journey.",
+  "exampleTamil": "பயணத்துக்கு முன் நான் என் டிக்கெட்டை அச்சிட வேண்டும்.",
+  "synonyms": [
+   "type out",
+   "publish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spend",
+  "meaning": "to use money to buy things or pay for things",
+  "tamil": "செலவழி",
+  "pos": "verb",
+  "pron": "SPEND",
+  "example": "I try not to spend too much on clothes.",
+  "exampleTamil": "நான் உடைகளுக்கு அதிகமாகச் செலவழிக்காமல் இருக்க முயற்சிக்கிறேன்.",
+  "synonyms": [
+   "pay",
+   "use"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "blink",
+  "meaning": "to close and open your eyes quickly",
+  "tamil": "கண் சிமிட்டு",
+  "pos": "verb",
+  "pron": "BLINGK",
+  "example": "The bright light made me blink.",
+  "exampleTamil": "பிரகாசமான வெளிச்சம் என்னைக் கண் சிமிட்ட வைத்தது.",
+  "synonyms": [
+   "wink",
+   "flutter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "show up",
+  "meaning": "to arrive at a place, often when people expect you",
+  "tamil": "வந்து சேர்",
+  "pos": "phrasal verb",
+  "pron": "shoh UP",
+  "example": "He did not show up for the meeting.",
+  "exampleTamil": "அவர் கூட்டத்துக்கு வந்து சேரவில்லை.",
+  "synonyms": [
+   "arrive",
+   "turn up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "look up",
+  "meaning": "to search for information in a book or online",
+  "tamil": "தேடிப் பார்",
+  "pos": "phrasal verb",
+  "pron": "look UP",
+  "example": "I will look up the word in the dictionary.",
+  "exampleTamil": "நான் அந்தச் சொல்லை அகராதியில் தேடிப் பார்ப்பேன்.",
+  "synonyms": [
+   "search",
+   "check"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "try on",
+  "meaning": "to wear clothes to see if they fit you",
+  "tamil": "அணிந்து பார்",
+  "pos": "phrasal verb",
+  "pron": "try ON",
+  "example": "Can I try on this shirt in a larger size?",
+  "exampleTamil": "இந்தச் சட்டையை பெரிய அளவில் அணிந்து பார்க்கலாமா?",
+  "synonyms": [
+   "test"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pick out",
+  "meaning": "to choose one thing from many",
+  "tamil": "தேர்ந்தெடு",
+  "pos": "phrasal verb",
+  "pron": "pik OWT",
+  "example": "She picked out a red saree for the wedding.",
+  "exampleTamil": "அவள் திருமணத்துக்காக ஒரு சிவப்புப் புடவையைத் தேர்ந்தெடுத்தாள்.",
+  "synonyms": [
+   "choose",
+   "select"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "move in",
+  "meaning": "to start living in a new house",
+  "tamil": "புதிய வீட்டில் குடிபுகு",
+  "pos": "phrasal verb",
+  "pron": "moov IN",
+  "example": "We will move in next Monday.",
+  "exampleTamil": "நாங்கள் அடுத்த திங்கட்கிழமை புதிய வீட்டில் குடிபுகுவோம்.",
+  "synonyms": [
+   "settle in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "move out",
+  "meaning": "to leave the house where you were living",
+  "tamil": "வீட்டைக் காலி செய்",
+  "pos": "phrasal verb",
+  "pron": "moov OWT",
+  "example": "They have to move out by the end of the month.",
+  "exampleTamil": "அவர்கள் மாத இறுதிக்குள் வீட்டைக் காலி செய்ய வேண்டும்.",
+  "synonyms": [
+   "leave",
+   "vacate"
+  ],
+  "level": "beginner"
+ }
+]

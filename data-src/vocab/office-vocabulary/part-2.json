@@ -1,0 +1,348 @@
+[
+ {
+  "word": "bulletin",
+  "meaning": "A short official notice or news report.",
+  "tamil": "அறிவிப்பு அறிக்கை",
+  "pos": "noun",
+  "pron": "BUL-uh-tin",
+  "example": "Check the bulletin board for holiday dates.",
+  "exampleTamil": "விடுமுறை தேதிகளுக்கு அறிவிப்புப் பலகையைப் பாருங்கள்.",
+  "synonyms": [
+   "notice",
+   "update"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "debt",
+  "meaning": "Money that you owe to someone.",
+  "tamil": "கடன்",
+  "pos": "noun",
+  "pron": "DET",
+  "example": "The company paid off its debt early.",
+  "exampleTamil": "நிறுவனம் தன் கடனை முன்கூட்டியே அடைத்தது.",
+  "synonyms": [
+   "loan",
+   "dues"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "interest",
+  "meaning": "Extra money paid for borrowing or saving money.",
+  "tamil": "வட்டி",
+  "pos": "noun",
+  "pron": "IN-trest",
+  "example": "The bank gives interest on savings.",
+  "exampleTamil": "வங்கி சேமிப்புக்கு வட்டி தருகிறது.",
+  "synonyms": [
+   "return"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cheque",
+  "meaning": "A paper that tells a bank to pay money.",
+  "tamil": "காசோலை",
+  "pos": "noun",
+  "pron": "CHEK",
+  "example": "He gave me a cheque for the rent.",
+  "exampleTamil": "அவர் வாடகைக்காக எனக்கு ஒரு காசோலை கொடுத்தார்.",
+  "synonyms": [
+   "check"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stress",
+  "meaning": "Worry and pressure caused by a difficult situation.",
+  "tamil": "மன அழுத்தம்",
+  "pos": "noun",
+  "pron": "STRES",
+  "example": "Too much work causes stress.",
+  "exampleTamil": "அதிக வேலை மன அழுத்தத்தை உண்டாக்குகிறது.",
+  "synonyms": [
+   "pressure",
+   "strain"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chairman",
+  "meaning": "The person who heads a company or board.",
+  "tamil": "தலைவர்",
+  "pos": "noun",
+  "pron": "CHAIR-mun",
+  "example": "The chairman spoke to all the employees.",
+  "exampleTamil": "தலைவர் அனைத்து ஊழியர்களிடமும் பேசினார்.",
+  "synonyms": [
+   "head",
+   "president"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "freelancer",
+  "meaning": "A person who works for many clients, not one employer.",
+  "tamil": "சுயதொழில் பணியாளர்",
+  "pos": "noun",
+  "pron": "FREE-lan-ser",
+  "example": "She works as a freelancer in design.",
+  "exampleTamil": "அவள் வடிவமைப்பில் சுயதொழில் பணியாளராக வேலை செய்கிறாள்.",
+  "synonyms": [
+   "contractor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "termination",
+  "meaning": "The end of a job or a contract.",
+  "tamil": "பணி முடிவு",
+  "pos": "noun",
+  "pron": "ter-mih-NAY-shun",
+  "example": "He received a letter of termination.",
+  "exampleTamil": "அவருக்கு பணி முடிவுக் கடிதம் கிடைத்தது.",
+  "synonyms": [
+   "ending",
+   "dismissal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dismissal",
+  "meaning": "Being told to leave your job.",
+  "tamil": "பணிநீக்கம்",
+  "pos": "noun",
+  "pron": "dis-MIS-ul",
+  "example": "His dismissal came as a shock to everyone.",
+  "exampleTamil": "அவரது பணிநீக்கம் எல்லோருக்கும் அதிர்ச்சியாக இருந்தது.",
+  "synonyms": [
+   "sacking",
+   "firing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "authority",
+  "meaning": "The power to make decisions and give orders.",
+  "tamil": "அதிகாரம்",
+  "pos": "noun",
+  "pron": "uh-THOR-ih-tee",
+  "example": "Only the manager has the authority to approve leave.",
+  "exampleTamil": "விடுப்பு அனுமதிக்கும் அதிகாரம் மேலாளருக்கு மட்டுமே உண்டு.",
+  "synonyms": [
+   "power",
+   "control"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "discipline",
+  "meaning": "Following rules and controlling your behaviour.",
+  "tamil": "ஒழுக்கம்",
+  "pos": "noun",
+  "pron": "DIS-ih-plin",
+  "example": "Good discipline helps you finish work on time.",
+  "exampleTamil": "நல்ல ஒழுக்கம் வேலையை நேரத்தில் முடிக்க உதவும்.",
+  "synonyms": [
+   "control",
+   "order"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "statistics",
+  "meaning": "Numbers and facts collected and studied.",
+  "tamil": "புள்ளிவிவரங்கள்",
+  "pos": "noun",
+  "pron": "stuh-TIS-tiks",
+  "example": "The report includes sales statistics.",
+  "exampleTamil": "அறிக்கையில் விற்பனை புள்ளிவிவரங்கள் உள்ளன.",
+  "synonyms": [
+   "figures",
+   "data"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "analysis",
+  "meaning": "Careful study of something to understand it.",
+  "tamil": "பகுப்பாய்வு",
+  "pos": "noun",
+  "pron": "uh-NAL-uh-sis",
+  "example": "We did a cost analysis before buying.",
+  "exampleTamil": "வாங்குவதற்கு முன் நாங்கள் செலவுப் பகுப்பாய்வு செய்தோம்.",
+  "synonyms": [
+   "study",
+   "examination"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tender",
+  "meaning": "A formal offer to do work or supply goods for a price.",
+  "tamil": "ஒப்பந்தப்புள்ளி",
+  "pos": "noun",
+  "pron": "TEN-der",
+  "example": "Our firm submitted a tender for the road work.",
+  "exampleTamil": "எங்கள் நிறுவனம் சாலைப் பணிக்கு ஒப்பந்தப்புள்ளி சமர்ப்பித்தது.",
+  "synonyms": [
+   "bid",
+   "offer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bid",
+  "meaning": "An offer of a price to win work or buy something.",
+  "tamil": "ஏலக் கோரிக்கை",
+  "pos": "noun",
+  "pron": "BID",
+  "example": "Their bid for the project was the lowest.",
+  "exampleTamil": "அந்த திட்டத்திற்கான அவர்களின் கோரிக்கை மிகக் குறைவாக இருந்தது.",
+  "synonyms": [
+   "offer",
+   "tender"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "asset",
+  "meaning": "Something valuable that a person or company owns.",
+  "tamil": "சொத்து",
+  "pos": "noun",
+  "pron": "AS-et",
+  "example": "Skilled staff are our biggest asset.",
+  "exampleTamil": "திறமையான ஊழியர்களே எங்கள் மிகப்பெரிய சொத்து.",
+  "synonyms": [
+   "property",
+   "resource"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "investment",
+  "meaning": "Money put into something to earn more later.",
+  "tamil": "முதலீடு",
+  "pos": "noun",
+  "pron": "in-VEST-ment",
+  "example": "Buying new machines was a smart investment.",
+  "exampleTamil": "புதிய இயந்திரங்கள் வாங்கியது புத்திசாலித்தனமான முதலீடு.",
+  "synonyms": [
+   "funding",
+   "stake"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shareholder",
+  "meaning": "A person who owns part of a company.",
+  "tamil": "பங்குதாரர்",
+  "pos": "noun",
+  "pron": "SHAIR-hohl-der",
+  "example": "Every shareholder got an invitation to the meeting.",
+  "exampleTamil": "ஒவ்வொரு பங்குதாரருக்கும் கூட்டத்துக்கான அழைப்பு கிடைத்தது.",
+  "synonyms": [
+   "stockholder",
+   "investor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dividend",
+  "meaning": "Part of a company's profit paid to shareholders.",
+  "tamil": "பங்கு ஈவு",
+  "pos": "noun",
+  "pron": "DIV-ih-dend",
+  "example": "The company will pay a dividend this year.",
+  "exampleTamil": "நிறுவனம் இந்த ஆண்டு பங்கு ஈவு வழங்கும்.",
+  "synonyms": [
+   "payout",
+   "share"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ledger",
+  "meaning": "A book or file where money records are kept.",
+  "tamil": "கணக்கேடு",
+  "pos": "noun",
+  "pron": "LEJ-er",
+  "example": "The accountant updated the ledger.",
+  "exampleTamil": "கணக்காளர் கணக்கேட்டைப் புதுப்பித்தார்.",
+  "synonyms": [
+   "account book",
+   "record"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deficit",
+  "meaning": "The amount by which money spent is more than money earned.",
+  "tamil": "பற்றாக்குறை",
+  "pos": "noun",
+  "pron": "DEF-ih-sit",
+  "example": "The company faced a budget deficit.",
+  "exampleTamil": "நிறுவனம் நிதிப் பற்றாக்குறையை எதிர்கொண்டது.",
+  "synonyms": [
+   "shortfall",
+   "gap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inflation",
+  "meaning": "A general rise in prices over time.",
+  "tamil": "பணவீக்கம்",
+  "pos": "noun",
+  "pron": "in-FLAY-shun",
+  "example": "Inflation makes everyday goods costlier.",
+  "exampleTamil": "பணவீக்கம் அன்றாடப் பொருட்களை விலை உயர்ந்ததாக்குகிறது.",
+  "synonyms": [
+   "price rise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recession",
+  "meaning": "A period when the economy and business slow down.",
+  "tamil": "பொருளாதார மந்தநிலை",
+  "pos": "noun",
+  "pron": "rih-SESH-un",
+  "example": "Many firms cut jobs during the recession.",
+  "exampleTamil": "மந்தநிலையின் போது பல நிறுவனங்கள் வேலைகளைக் குறைத்தன.",
+  "synonyms": [
+   "downturn",
+   "slump"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "assess",
+  "meaning": "To judge the quality or value of something.",
+  "tamil": "மதிப்பிடு",
+  "pos": "verb",
+  "pron": "uh-SES",
+  "example": "The manager will assess your work each month.",
+  "exampleTamil": "மேலாளர் ஒவ்வொரு மாதமும் உங்கள் வேலையை மதிப்பிடுவார்.",
+  "synonyms": [
+   "evaluate",
+   "judge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "expand",
+  "meaning": "To become bigger or add more.",
+  "tamil": "விரிவாக்கு",
+  "pos": "verb",
+  "pron": "ik-SPAND",
+  "example": "The company plans to expand into Chennai.",
+  "exampleTamil": "நிறுவனம் சென்னைக்கு விரிவாக்க திட்டமிட்டுள்ளது.",
+  "synonyms": [
+   "grow",
+   "enlarge"
+  ],
+  "level": "intermediate"
+ }
+]

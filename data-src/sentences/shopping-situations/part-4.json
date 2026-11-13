@@ -1,0 +1,375 @@
+[
+  {
+    "en": "I want to return this shirt because the stitching is loose.",
+    "tamil": "இந்த சட்டையோட தையல் தளர்வா இருக்கு, அதனால திருப்பிக் கொடுக்கணும்.",
+    "context": "Telling the shop staff why you are returning a shirt.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Because' gives the reason. 'Loose' describes bad stitching.",
+    "words": [
+      "return",
+      "stitching"
+    ],
+    "usage": "Use it at the customer service desk of a clothes shop.",
+    "leelaQ": "Have you ever returned something to a shop?",
+    "answer": "Yes, I once returned a bag because the zip was broken."
+  },
+  {
+    "en": "Can I get a refund, or only an exchange?",
+    "tamil": "எனக்கு பணம் திரும்ப கிடைக்குமா, இல்ல மாத்திக்க மட்டும்தானா?",
+    "context": "Asking about the return policy at a store.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'Or' offers two choices. A refund means getting your money back.",
+    "words": [
+      "refund",
+      "exchange"
+    ],
+    "usage": "Use it at the billing counter when you want to return an item.",
+    "leelaQ": "Would you prefer a refund or an exchange?",
+    "answer": "I would prefer a refund because I do not need another item."
+  },
+  {
+    "en": "I have kept the bill, so you can check the date.",
+    "tamil": "நான் பில் வச்சிருக்கேன், நீங்க தேதியைப் பாத்துக்கலாம்.",
+    "context": "Showing the bill while returning a product.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Have kept' shows you still hold the bill now. 'So' gives the result.",
+    "words": [
+      "bill",
+      "date"
+    ],
+    "usage": "Use it when a shopkeeper asks for proof of purchase.",
+    "leelaQ": "Do you keep your shopping bills at home?",
+    "answer": "Yes, I keep the bills for big things like a phone or a fridge."
+  },
+  {
+    "en": "There is a mistake in this bill, you have charged me twice.",
+    "tamil": "இந்த பில்ல தப்பு இருக்கு, ரெண்டு தடவை காசு போட்டிருக்கீங்க.",
+    "context": "Pointing out a double charge at the billing counter.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'You have charged' tells about a mistake that has just happened.",
+    "words": [
+      "mistake",
+      "charged"
+    ],
+    "usage": "Use it politely at a billing counter when the total looks wrong.",
+    "leelaQ": "What do you do when a bill has a mistake?",
+    "answer": "I show it to the cashier and ask them to check it again."
+  },
+  {
+    "en": "Could you please give me a carry bag?",
+    "tamil": "எனக்கு ஒரு கேரி பேக் கொடுக்க முடியுமா?",
+    "context": "Asking for a bag at a supermarket counter.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Could you please' is a very polite way to ask for something.",
+    "words": [
+      "carry bag"
+    ],
+    "usage": "Use it at a supermarket counter after your items are billed.",
+    "leelaQ": "What do you carry your groceries in?",
+    "answer": "I carry them in a cloth bag that I bring from home."
+  },
+  {
+    "en": "Is this the last piece, or do you have more in the store?",
+    "tamil": "இதுதான் கடைசி பீஸா, இல்ல உள்ள இன்னும் இருக்கா?",
+    "context": "Asking if more stock is available.",
+    "tense": "present",
+    "type": "question",
+    "explain": "This question asks about stock. 'Or' gives two possible answers.",
+    "words": [
+      "piece",
+      "store"
+    ],
+    "usage": "Use it when you like an item but want a fresh or undamaged one.",
+    "leelaQ": "Do you check the stock before you go to a shop?",
+    "answer": "Yes, I sometimes call the shop first to check the stock."
+  },
+  {
+    "en": "The delivery person left my parcel at the wrong house.",
+    "tamil": "டெலிவரி ஆள் என் பார்சல தப்பான வீட்டுல வச்சுட்டுப் போயிட்டாரு.",
+    "context": "Complaining to customer care about a misdelivered parcel.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Left' is the past form of 'leave'. 'Wrong house' says what went wrong.",
+    "words": [
+      "parcel",
+      "wrong"
+    ],
+    "usage": "Use it when you call the customer care of an online shop.",
+    "leelaQ": "What would you do if your parcel went to the wrong address?",
+    "answer": "I would call the delivery person and then the customer care."
+  },
+  {
+    "en": "I am looking for a gift for my sister, can you suggest something?",
+    "tamil": "நான் என் தங்கச்சிக்கு ஒரு பரிசு தேடுறேன், நீங்க ஏதாவது சொல்ல முடியுமா?",
+    "context": "Asking a salesperson for gift ideas.",
+    "tense": "present-continuous",
+    "type": "request",
+    "explain": "'I am looking for' says what you want now. 'Can you suggest' asks for advice.",
+    "words": [
+      "gift",
+      "suggest"
+    ],
+    "usage": "Use it with a salesperson when you are not sure what to buy.",
+    "leelaQ": "What gift would you buy for your sister?",
+    "answer": "I would buy her a nice handbag or a set of bangles."
+  },
+  {
+    "en": "The price on the tag is different from the price on the screen.",
+    "tamil": "டேக்ல இருக்கிற விலையும் ஸ்கிரீன்ல இருக்கிற விலையும் வேற வேற.",
+    "context": "Pointing out a price mismatch at the billing counter.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Different from' compares two things. It is a polite way to point out a problem.",
+    "words": [
+      "tag",
+      "screen"
+    ],
+    "usage": "Use it at a billing counter when the scanned price is higher than the tag.",
+    "leelaQ": "Do you check the price when the cashier scans an item?",
+    "answer": "Yes, I always look at the screen to see the right price."
+  },
+  {
+    "en": "Please do not pack it yet, I want to check the expiry date.",
+    "tamil": "இன்னும் பேக் பண்ணாதீங்க, எக்ஸ்பைரி தேதியைப் பாக்கணும்.",
+    "context": "Asking a shop assistant to wait before packing.",
+    "tense": "imperative",
+    "type": "negative",
+    "explain": "'Please do not' is a polite way to stop someone. 'Yet' means not now.",
+    "words": [
+      "pack",
+      "expiry date"
+    ],
+    "usage": "Use it at a grocery or medical shop before you pay.",
+    "leelaQ": "Do you check the expiry date when you buy food?",
+    "answer": "Yes, I always check it, especially for milk and biscuits."
+  },
+  {
+    "en": "How much will it cost if I take three of them?",
+    "tamil": "மூணு வாங்கினா எவ்வளவு ஆகும்?",
+    "context": "Asking for a bulk price from a seller.",
+    "tense": "future",
+    "type": "question",
+    "explain": "'If' makes a condition. Use 'will' in the main part to ask about the result.",
+    "words": [
+      "cost",
+      "three"
+    ],
+    "usage": "Use it when you want a better price for buying more than one.",
+    "leelaQ": "Do you buy things in bulk to save money?",
+    "answer": "Yes, I buy rice and oil in bulk because it is cheaper."
+  },
+  {
+    "en": "The shop gave me a free gift with my purchase.",
+    "tamil": "கடையில நான் வாங்குனதுக்கு ஒரு இலவச பரிசு கொடுத்தாங்க.",
+    "context": "Telling a friend about a free gift at a shop.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Gave' is the past of 'give'. 'With my purchase' means along with what I bought.",
+    "words": [
+      "free gift",
+      "purchase"
+    ],
+    "usage": "Use it when you share a good shopping experience with friends.",
+    "leelaQ": "What is the best free gift you ever got?",
+    "answer": "I once got a steel water bottle with a pack of groceries."
+  },
+  {
+    "en": "I am waiting in the queue at the billing counter.",
+    "tamil": "நான் பில்லிங் கவுண்டர்ல வரிசையில நிக்கிறேன்.",
+    "context": "Telling someone on the phone where you are.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "'I am waiting' shows an action happening now. 'Queue' means a line of people.",
+    "words": [
+      "queue",
+      "billing counter"
+    ],
+    "usage": "Use it on a phone call when you are late because of a long line.",
+    "leelaQ": "Do you hate waiting in long queues?",
+    "answer": "Yes, I hate it, so I go shopping on weekday mornings."
+  },
+  {
+    "en": "Do you have a bigger size in the same design?",
+    "tamil": "இதே டிசைன்ல பெரிய சைஸ் இருக்கா?",
+    "context": "Asking for a larger size in a clothes shop.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Bigger' compares two sizes. 'Same design' means the one you like.",
+    "words": [
+      "bigger",
+      "design"
+    ],
+    "usage": "Use it in a clothes shop when the size you tried is too small.",
+    "leelaQ": "What size do you usually wear?",
+    "answer": "I usually wear medium, but sometimes I need a large."
+  },
+  {
+    "en": "My phone has stopped working, and it is still under warranty.",
+    "tamil": "என் போன் வேலை செய்யல, இன்னும் வாரண்டி இருக்கு.",
+    "context": "Telling a service centre about a faulty phone.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Has stopped' shows a result now. 'Under warranty' means the company will repair it.",
+    "words": [
+      "warranty",
+      "stopped working"
+    ],
+    "usage": "Use it at a service centre when something you bought breaks early.",
+    "leelaQ": "What do you do when your phone stops working?",
+    "answer": "I take it to the service centre and show the warranty card."
+  },
+  {
+    "en": "Will you be able to deliver it before Diwali?",
+    "tamil": "தீபாவளிக்கு முன்னாடி நீங்க டெலிவரி பண்ண முடியுமா?",
+    "context": "Asking a seller about delivery before a festival.",
+    "tense": "future",
+    "type": "question",
+    "explain": "'Will you be able to' asks politely if something is possible in the future.",
+    "words": [
+      "deliver",
+      "able to"
+    ],
+    "usage": "Use it when you order something for a festival and need it on time.",
+    "leelaQ": "What do you buy before Diwali?",
+    "answer": "I buy new clothes, sweets and some crackers for the children."
+  },
+  {
+    "en": "I tried to apply the coupon, but it was not working.",
+    "tamil": "நான் கூப்பனைப் போட முயற்சி பண்ணேன், ஆனா அது வேலை செய்யல.",
+    "context": "Complaining to online customer care about a coupon.",
+    "tense": "past",
+    "type": "negative",
+    "explain": "'But' joins two opposite ideas. 'Was not working' tells about a problem in the past.",
+    "words": [
+      "coupon",
+      "apply"
+    ],
+    "usage": "Use it in a chat with customer support on a shopping app.",
+    "leelaQ": "Do you use coupons when you shop online?",
+    "answer": "Yes, I always look for a coupon before I place an order."
+  },
+  {
+    "en": "This is a bit expensive, can you come down a little?",
+    "tamil": "இது கொஞ்சம் அதிகமா இருக்கு, கொஞ்சம் குறைக்க முடியுமா?",
+    "context": "Bargaining politely at a street shop.",
+    "tense": "present",
+    "type": "request",
+    "explain": "'A bit' makes the complaint softer. 'Come down' means reduce the price.",
+    "words": [
+      "expensive",
+      "come down"
+    ],
+    "usage": "Use it at a street market when you want to bargain politely.",
+    "leelaQ": "Are you good at bargaining?",
+    "answer": "Not really, but I try to ask for a small discount."
+  },
+  {
+    "en": "We always compare prices online before we go to the shop.",
+    "tamil": "நாங்க கடைக்குப் போறதுக்கு முன்னாடி எப்பவும் ஆன்லைன்ல விலைய ஒப்பிட்டுப் பாப்போம்.",
+    "context": "Talking about shopping habits with a friend.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Always' shows a habit. 'Before we go' links two actions in time.",
+    "words": [
+      "compare",
+      "prices"
+    ],
+    "usage": "Use it when you chat with friends about smart shopping.",
+    "leelaQ": "Do you compare prices before buying?",
+    "answer": "Yes, I check two or three apps before I buy anything big."
+  },
+  {
+    "en": "The cashier gave me back the wrong change.",
+    "tamil": "கேஷியர் எனக்கு தப்பான சில்லறை கொடுத்துட்டாரு.",
+    "context": "Telling a friend about a billing mistake.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Gave back' means returned. 'Wrong change' means the money returned was incorrect.",
+    "words": [
+      "cashier",
+      "change"
+    ],
+    "usage": "Use it when you tell someone about a mistake at a shop counter.",
+    "leelaQ": "Do you count your change after paying?",
+    "answer": "Yes, I always count it before I leave the counter."
+  },
+  {
+    "en": "Is there a return policy if I do not like the product?",
+    "tamil": "பொருள் பிடிக்கலன்னா திருப்பிக் கொடுக்கற பாலிசி இருக்கா?",
+    "context": "Asking about returns before buying online.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'If' starts a condition. 'Return policy' means the rules for sending a product back.",
+    "words": [
+      "return policy",
+      "product"
+    ],
+    "usage": "Use it before buying an expensive item from an online shop.",
+    "leelaQ": "Do you read the return policy before buying?",
+    "answer": "No, but I will start reading it for big purchases."
+  },
+  {
+    "en": "I got a message that my order has been shipped.",
+    "tamil": "என் ஆர்டர் அனுப்பிட்டாங்கன்னு எனக்கு ஒரு மெசேஜ் வந்துச்சு.",
+    "context": "Telling a family member about an order update.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Has been shipped' is passive. It tells what happened to the order, not who did it.",
+    "words": [
+      "message",
+      "shipped"
+    ],
+    "usage": "Use it at home when you share an update about a parcel.",
+    "leelaQ": "What are you waiting for from an online order?",
+    "answer": "I am waiting for a pair of shoes that I ordered last week."
+  },
+  {
+    "en": "Please wait, I will check the stock at the back.",
+    "tamil": "கொஞ்சம் இருங்க, நான் பின்னாடி ஸ்டாக் பாத்துட்டு வரேன்.",
+    "context": "A shop assistant asking a customer to wait.",
+    "tense": "future",
+    "type": "request",
+    "explain": "'Please wait' is polite. 'I will check' promises an action in the near future.",
+    "words": [
+      "stock",
+      "check"
+    ],
+    "usage": "Shop staff say this when an item is not on the shelf.",
+    "leelaQ": "What would you say if a customer asked for something you did not have?",
+    "answer": "I would say sorry and offer a similar item."
+  },
+  {
+    "en": "We need to buy groceries for the whole month.",
+    "tamil": "நாங்க முழு மாசத்துக்கும் மளிகை சாமான் வாங்கணும்.",
+    "context": "Planning the monthly grocery shopping with family.",
+    "tense": "modal",
+    "type": "statement",
+    "explain": "'Need to' shows something necessary. 'For the whole month' tells how long it lasts.",
+    "words": [
+      "groceries",
+      "month"
+    ],
+    "usage": "Use it at home when you plan a big shopping trip.",
+    "leelaQ": "How often do you buy groceries?",
+    "answer": "I buy vegetables every week and other groceries every month."
+  },
+  {
+    "en": "Could you gift wrap this, please?",
+    "tamil": "இதை கிஃப்ட் ராப் பண்ணி கொடுக்க முடியுமா?",
+    "context": "Asking a shop to wrap a present.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "\"Could you\" is a polite request. \"Gift wrap\" means to cover a present with pretty paper.",
+    "words": [
+      "gift wrap"
+    ],
+    "usage": "Use it at a gift or clothes shop before a birthday or function.",
+    "leelaQ": "Who did you last buy a gift for?",
+    "answer": "I last bought a gift for my friend on her birthday."
+  }
+]

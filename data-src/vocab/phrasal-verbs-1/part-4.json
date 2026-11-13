@@ -1,0 +1,352 @@
+[
+ {
+  "word": "boil down",
+  "meaning": "to be mainly about one main point",
+  "tamil": "சாரமாக அமை",
+  "pos": "phrasal verb",
+  "pron": "boyl DOWN",
+  "example": "It all boils down to saving more money.",
+  "exampleTamil": "இது எல்லாம் இன்னும் அதிகம் பணம் சேமிப்பதில்தான் வந்து நிற்கிறது.",
+  "synonyms": [
+   "come down",
+   "amount"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "put up",
+  "meaning": "to fix something on a wall or build it",
+  "tamil": "மாட்டு; நிறுவு",
+  "pos": "phrasal verb",
+  "pron": "put UP",
+  "example": "We put up the new poster in the hall.",
+  "exampleTamil": "நாங்கள் புதிய சுவரொட்டியை மண்டபத்தில் மாட்டினோம்.",
+  "synonyms": [
+   "hang",
+   "display"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hold off",
+  "meaning": "to delay doing something",
+  "tamil": "தள்ளிப்போடு",
+  "pos": "phrasal verb",
+  "pron": "hohld OFF",
+  "example": "Let us hold off the trip until the rain stops.",
+  "exampleTamil": "மழை நிற்கும் வரை பயணத்தைத் தள்ளிப்போடுவோம்.",
+  "synonyms": [
+   "delay",
+   "postpone"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spell out",
+  "meaning": "to explain something very clearly and in detail",
+  "tamil": "தெளிவாக விளக்கு",
+  "pos": "phrasal verb",
+  "pron": "spel OWT",
+  "example": "Please spell out the rules so nobody is confused.",
+  "exampleTamil": "யாருக்கும் குழப்பம் வராதபடி விதிகளைத் தெளிவாக விளக்குங்கள்.",
+  "synonyms": [
+   "clarify",
+   "explain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "drink up",
+  "meaning": "to finish all of your drink",
+  "tamil": "முழுவதும் குடித்து முடி",
+  "pos": "phrasal verb",
+  "pron": "dringk UP",
+  "example": "Drink up your milk before it gets cold.",
+  "exampleTamil": "பால் ஆறுவதற்குள் முழுவதும் குடித்துவிடு.",
+  "synonyms": [
+   "finish",
+   "down"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pile up",
+  "meaning": "to collect in a large heap or amount",
+  "tamil": "குவிந்துவிடு",
+  "pos": "phrasal verb",
+  "pron": "pyl UP",
+  "example": "Dishes pile up quickly when guests stay with us.",
+  "exampleTamil": "விருந்தினர் தங்கும்போது பாத்திரங்கள் விரைவில் குவிந்துவிடும்.",
+  "synonyms": [
+   "accumulate",
+   "stack up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "talk down",
+  "meaning": "to speak as if someone is less important",
+  "tamil": "தாழ்த்திப் பேசு",
+  "pos": "phrasal verb",
+  "pron": "tawk DOWN",
+  "example": "Please do not talk down to your juniors.",
+  "exampleTamil": "தயவுசெய்து உங்கள் இளையவர்களை தாழ்த்திப் பேசாதீர்கள்.",
+  "synonyms": [
+   "belittle",
+   "patronize"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "run out",
+  "meaning": "to have nothing left of something",
+  "tamil": "தீர்ந்துபோ",
+  "pos": "phrasal verb",
+  "pron": "run OWT",
+  "example": "Hurry, or we will run out of sugar again.",
+  "exampleTamil": "சீக்கிரம், இல்லையெனில் மீண்டும் சர்க்கரை தீர்ந்துவிடும்.",
+  "synonyms": [
+   "use up",
+   "finish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tone down",
+  "meaning": "to make something less strong or harsh",
+  "tamil": "கடுமையைக் குறை",
+  "pos": "phrasal verb",
+  "pron": "tohn DOWN",
+  "example": "Please tone down your language in front of kids.",
+  "exampleTamil": "குழந்தைகள் முன் உங்கள் பேச்சின் கடுமையைக் குறையுங்கள்.",
+  "synonyms": [
+   "soften",
+   "moderate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "get on",
+  "meaning": "to climb into a bus, train or plane",
+  "tamil": "(பேருந்து, ரயிலில்) ஏறு",
+  "pos": "phrasal verb",
+  "pron": "get ON",
+  "example": "We usually get on the bus near the temple.",
+  "exampleTamil": "நாங்கள் வழக்கமாக கோயில் அருகே பேருந்தில் ஏறுவோம்.",
+  "synonyms": [
+   "board",
+   "climb on"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "drop out",
+  "meaning": "to leave school or a course before finishing",
+  "tamil": "படிப்பை பாதியில் விடு",
+  "pos": "phrasal verb",
+  "pron": "drop OWT",
+  "example": "He dropped out of college to start his own business.",
+  "exampleTamil": "அவன் சொந்த தொழில் தொடங்க கல்லூரியை பாதியில் விட்டான்.",
+  "synonyms": [
+   "quit",
+   "withdraw"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "phase out",
+  "meaning": "to stop using something slowly",
+  "tamil": "படிப்படியாக நிறுத்து",
+  "pos": "phrasal verb",
+  "pron": "fayz OWT",
+  "example": "The company will phase out old models next year.",
+  "exampleTamil": "நிறுவனம் அடுத்த ஆண்டு பழைய மாடல்களை படிப்படியாக நிறுத்தும்.",
+  "synonyms": [
+   "withdraw",
+   "discontinue"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "look out",
+  "meaning": "to be careful because of danger",
+  "tamil": "கவனமாக இரு",
+  "pos": "phrasal verb",
+  "pron": "luk OWT",
+  "example": "Look out! There is a car coming.",
+  "exampleTamil": "கவனம்! ஒரு கார் வருகிறது.",
+  "synonyms": [
+   "watch out",
+   "beware"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lose out",
+  "meaning": "to miss a chance or not get a benefit",
+  "tamil": "வாய்ப்பை இழ",
+  "pos": "phrasal verb",
+  "pron": "looz OWT",
+  "example": "Small shops lose out when big malls open nearby.",
+  "exampleTamil": "அருகில் பெரிய மால்கள் திறக்கும்போது சிறிய கடைகளுக்கு இழப்பு ஏற்படுகிறது.",
+  "synonyms": [
+   "miss out",
+   "suffer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ease up",
+  "meaning": "to become less strict or less intense",
+  "tamil": "தளர்த்து; குறைத்துக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "eez UP",
+  "example": "The rain finally eased up in the evening.",
+  "exampleTamil": "மாலையில் மழை ஒருவழியாகக் குறைந்தது.",
+  "synonyms": [
+   "relax",
+   "let up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "switch off",
+  "meaning": "to stop an electric device",
+  "tamil": "(மின் சாதனத்தை) நிறுத்து",
+  "pos": "phrasal verb",
+  "pron": "swich OFF",
+  "example": "Switch off the lights when you leave the room.",
+  "exampleTamil": "அறையை விட்டுச் செல்லும்போது விளக்குகளை அணையுங்கள்.",
+  "synonyms": [
+   "turn off",
+   "shut off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "slip up",
+  "meaning": "to make a small mistake",
+  "tamil": "சிறு தவறு செய்",
+  "pos": "phrasal verb",
+  "pron": "slip UP",
+  "example": "I slipped up and sent the mail to the wrong person.",
+  "exampleTamil": "நான் தவறுதலாக மின்னஞ்சலை வேறு ஒருவருக்கு அனுப்பிவிட்டேன்.",
+  "synonyms": [
+   "blunder",
+   "err"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "go on",
+  "meaning": "to continue or to happen",
+  "tamil": "தொடர்",
+  "pos": "phrasal verb",
+  "pron": "goh ON",
+  "example": "Please go on, I am listening.",
+  "exampleTamil": "தயவுசெய்து தொடருங்கள், நான் கேட்கிறேன்.",
+  "synonyms": [
+   "continue",
+   "proceed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "call in",
+  "meaning": "to ask someone to come and help",
+  "tamil": "உதவிக்கு அழை",
+  "pos": "phrasal verb",
+  "pron": "kawl IN",
+  "example": "We had to call in a plumber to fix the leak.",
+  "exampleTamil": "கசிவை சரிசெய்ய நாங்கள் ஒரு பிளம்பரை அழைக்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "summon",
+   "send for"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crack down",
+  "meaning": "to start dealing strictly with something illegal",
+  "tamil": "கடுமையான நடவடிக்கை எடு",
+  "pos": "phrasal verb",
+  "pron": "krak DOWN",
+  "example": "The police are cracking down on drunk driving.",
+  "exampleTamil": "குடித்துவிட்டு வாகனம் ஓட்டுவதற்கு எதிராக போலீசார் கடுமையான நடவடிக்கை எடுக்கிறார்கள்.",
+  "synonyms": [
+   "clamp down",
+   "punish"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "take down",
+  "meaning": "to lower something from a high place",
+  "tamil": "கீழே இறக்கு",
+  "pos": "phrasal verb",
+  "pron": "tayk DOWN",
+  "example": "Please take down the flag at sunset.",
+  "exampleTamil": "தயவுசெய்து சூரியன் மறையும்போது கொடியை இறக்குங்கள்.",
+  "synonyms": [
+   "lower",
+   "remove"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lay out",
+  "meaning": "to arrange or explain something clearly",
+  "tamil": "ஒழுங்காக அமை; விளக்கு",
+  "pos": "phrasal verb",
+  "pron": "lay OWT",
+  "example": "He will lay out the plan for the whole team.",
+  "exampleTamil": "அவர் முழு குழுவிற்கும் திட்டத்தை விளக்கிக் கூறுவார்.",
+  "synonyms": [
+   "arrange",
+   "set out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wolf down",
+  "meaning": "to eat very quickly",
+  "tamil": "அவசரமாக விழுங்கு",
+  "pos": "phrasal verb",
+  "pron": "woolf DOWN",
+  "example": "He wolfed down his lunch and ran to class.",
+  "exampleTamil": "அவன் மதிய உணவை அவசரமாக விழுங்கிவிட்டு வகுப்புக்கு ஓடினான்.",
+  "synonyms": [
+   "gobble",
+   "devour"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "keep on",
+  "meaning": "to continue doing something without stopping",
+  "tamil": "தொடர்ந்து செய்",
+  "pos": "phrasal verb",
+  "pron": "keep ON",
+  "example": "Keep on trying and you will succeed.",
+  "exampleTamil": "தொடர்ந்து முயற்சி செய், வெற்றி பெறுவாய்.",
+  "synonyms": [
+   "continue",
+   "persist"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rule out",
+  "meaning": "to decide that something is not possible",
+  "tamil": "சாத்தியமில்லை என விலக்கு",
+  "pos": "phrasal verb",
+  "pron": "rool OWT",
+  "example": "The doctor ruled out any serious illness.",
+  "exampleTamil": "தீவிர நோய் எதுவும் இல்லை என மருத்துவர் உறுதிசெய்தார்.",
+  "synonyms": [
+   "exclude",
+   "eliminate"
+  ],
+  "level": "intermediate"
+ }
+]

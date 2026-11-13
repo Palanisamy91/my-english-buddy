@@ -1,0 +1,352 @@
+[
+ {
+  "word": "hurl",
+  "meaning": "to throw something hard and with force",
+  "tamil": "வேகமாக வலுவாக வீசுதல்",
+  "pos": "verb",
+  "pron": "HERL",
+  "example": "The angry man hurled his bag across the room.",
+  "exampleTamil": "கோபமடைந்த மனிதன் தன் பையை அறை முழுவதும் வீசினான்.",
+  "synonyms": [
+   "fling",
+   "toss"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fling",
+  "meaning": "to throw something carelessly or with force",
+  "tamil": "கவனமின்றி வேகமாக வீசி எறிதல்",
+  "pos": "verb",
+  "pron": "FLING",
+  "example": "Do not fling your clothes on the floor.",
+  "exampleTamil": "உங்கள் துணிகளை தரையில் வீசி எறியாதீர்கள்.",
+  "synonyms": [
+   "hurl",
+   "throw"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lunge",
+  "meaning": "to make a sudden forward move",
+  "tamil": "திடீரென முன்னால் பாய்தல்",
+  "pos": "verb",
+  "pron": "LUNJ",
+  "example": "The goalkeeper lunged to stop the ball.",
+  "exampleTamil": "கோல்கீப்பர் பந்தைத் தடுக்க திடீரென முன்னால் பாய்ந்தார்.",
+  "synonyms": [
+   "dive",
+   "charge"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "saunter",
+  "meaning": "to walk in a slow, relaxed way",
+  "tamil": "மெதுவாக நிதானமாக உலாவுதல்",
+  "pos": "verb",
+  "pron": "SAWN-ter",
+  "example": "He sauntered into the office twenty minutes late.",
+  "exampleTamil": "அவர் இருபது நிமிடம் தாமதமாக நிதானமாக அலுவலகத்துக்குள் நுழைந்தார்.",
+  "synonyms": [
+   "stroll",
+   "amble"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "veer",
+  "meaning": "to change direction suddenly",
+  "tamil": "திடீரென திசை மாறுதல்",
+  "pos": "verb",
+  "pron": "VEER",
+  "example": "The auto veered left to avoid a pothole.",
+  "exampleTamil": "பள்ளத்தைத் தவிர்க்க ஆட்டோ திடீரென இடப்புறம் திரும்பியது.",
+  "synonyms": [
+   "swerve",
+   "swing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scurry",
+  "meaning": "to run quickly with small steps",
+  "tamil": "சிறு அடிகளில் வேகமாக ஓடுதல்",
+  "pos": "verb",
+  "pron": "SKUR-ee",
+  "example": "The mice scurried under the cupboard.",
+  "exampleTamil": "எலிகள் அலமாரியின் அடியில் வேகமாக ஓடின.",
+  "synonyms": [
+   "scamper",
+   "dash"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lurch",
+  "meaning": "to move suddenly and unsteadily",
+  "tamil": "திடீரென தடுமாறி நகர்தல்",
+  "pos": "verb",
+  "pron": "LERCH",
+  "example": "The bus lurched forward and everyone almost fell.",
+  "exampleTamil": "பேருந்து திடீரென முன்னால் தள்ளாடியது, எல்லோரும் கிட்டத்தட்ட விழுந்தனர்.",
+  "synonyms": [
+   "stagger",
+   "sway"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sculpt",
+  "meaning": "to make a figure from stone, clay or wood",
+  "tamil": "கல், களிமண் அல்லது மரத்தில் சிலை வடித்தல்",
+  "pos": "verb",
+  "pron": "SKULPT",
+  "example": "The artist sculpted a horse from a block of stone.",
+  "exampleTamil": "கலைஞர் ஒரு கல் பாளத்தில் குதிரைச் சிலை வடித்தார்.",
+  "synonyms": [
+   "carve",
+   "model"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fabricate",
+  "meaning": "to invent a false story, or to make something in a factory",
+  "tamil": "பொய்க்கதை புனைதல்; தயாரித்தல்",
+  "pos": "verb",
+  "pron": "FAB-rih-kayt",
+  "example": "He fabricated an excuse for being late.",
+  "exampleTamil": "தாமதத்துக்கு அவர் ஒரு பொய்யான காரணம் புனைந்தார்.",
+  "synonyms": [
+   "invent",
+   "forge"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "concoct",
+  "meaning": "to make something by mixing, or to invent a plan or story",
+  "tamil": "பொருட்களைக் கலந்து தயாரித்தல்; திட்டம் அல்லது கதை புனைதல்",
+  "pos": "verb",
+  "pron": "kun-KOKT",
+  "example": "She concocted a tasty drink from fruit and mint.",
+  "exampleTamil": "அவள் பழமும் புதினாவும் கலந்து சுவையான பானம் தயாரித்தாள்.",
+  "synonyms": [
+   "brew",
+   "cook up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "deduce",
+  "meaning": "to reach a conclusion from the facts you have",
+  "tamil": "உள்ள உண்மைகளிலிருந்து முடிவுக்கு வருதல்",
+  "pos": "verb",
+  "pron": "dih-DOOS",
+  "example": "From the wet floor, I deduced that it had rained.",
+  "exampleTamil": "ஈரமான தரையைப் பார்த்து மழை பெய்திருக்கிறது என்று ஊகித்தேன்.",
+  "synonyms": [
+   "conclude",
+   "infer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "decipher",
+  "meaning": "to work out the meaning of something hard to read",
+  "tamil": "படிக்க கடினமானதன் பொருளை கண்டுபிடித்தல்",
+  "pos": "verb",
+  "pron": "dih-SY-fer",
+  "example": "I could not decipher the doctor's handwriting.",
+  "exampleTamil": "மருத்துவரின் கையெழுத்தை என்னால் படிக்க முடியவில்லை.",
+  "synonyms": [
+   "decode",
+   "crack"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ruminate",
+  "meaning": "to think deeply and for a long time about something",
+  "tamil": "ஒன்றைப் பற்றி நீண்ட நேரம் ஆழமாக சிந்தித்தல்",
+  "pos": "verb",
+  "pron": "ROO-mih-nayt",
+  "example": "He sat alone and ruminated on his future.",
+  "exampleTamil": "அவர் தனியாக அமர்ந்து தன் எதிர்காலத்தைப் பற்றி ஆழமாக சிந்தித்தார்.",
+  "synonyms": [
+   "brood",
+   "muse"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fathom",
+  "meaning": "to understand something difficult after much thought",
+  "tamil": "கடினமான ஒன்றை நன்கு சிந்தித்துப் புரிந்துகொள்ளுதல்",
+  "pos": "verb",
+  "pron": "FATH-um",
+  "example": "I cannot fathom why he quit such a good job.",
+  "exampleTamil": "அவர் ஏன் அவ்வளவு நல்ல வேலையை விட்டார் என்று என்னால் புரிந்துகொள்ள முடியவில்லை.",
+  "synonyms": [
+   "grasp",
+   "comprehend"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "extricate",
+  "meaning": "to free someone or something from a difficult place or situation",
+  "tamil": "கடினமான இடம் அல்லது சூழலிலிருந்து விடுவித்தல்",
+  "pos": "verb",
+  "pron": "EK-strih-kayt",
+  "example": "The rescuers extricated the driver from the damaged car.",
+  "exampleTamil": "மீட்புப் பணியாளர்கள் சேதமடைந்த காரிலிருந்து ஓட்டுநரை வெளியே எடுத்தனர்.",
+  "synonyms": [
+   "free",
+   "release"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "unravel",
+  "meaning": "to untie threads, or to solve a mystery step by step",
+  "tamil": "நூல் சிக்கலை அவிழ்த்தல்; மர்மத்தை படிப்படியாக விடுவித்தல்",
+  "pos": "verb",
+  "pron": "un-RAV-ul",
+  "example": "The detective slowly unraveled the mystery.",
+  "exampleTamil": "துப்பறிவாளர் மர்மத்தை மெதுவாக படிப்படியாக விடுவித்தார்.",
+  "synonyms": [
+   "untangle",
+   "solve"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "untangle",
+  "meaning": "to remove knots or confusion from something",
+  "tamil": "முடிச்சுகள் அல்லது குழப்பத்தை நீக்குதல்",
+  "pos": "verb",
+  "pron": "un-TANG-ul",
+  "example": "She spent ten minutes untangling her earphone wire.",
+  "exampleTamil": "அவள் இயர்போன் வயரின் சிக்கலை அவிழ்க்க பத்து நிமிடம் செலவிட்டாள்.",
+  "synonyms": [
+   "unknot",
+   "sort out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "grapple",
+  "meaning": "to struggle hard to deal with a difficult problem",
+  "tamil": "கடினமான பிரச்சனையை சமாளிக்க கடுமையாக போராடுதல்",
+  "pos": "verb",
+  "pron": "GRAP-ul",
+  "example": "Many students grapple with maths in the early years.",
+  "exampleTamil": "பல மாணவர்கள் ஆரம்ப ஆண்டுகளில் கணிதத்துடன் போராடுகிறார்கள்.",
+  "synonyms": [
+   "wrestle",
+   "struggle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tinker",
+  "meaning": "to make small changes to try to fix or improve something",
+  "tamil": "சரிசெய்ய அல்லது மேம்படுத்த சிறு மாற்றங்களை செய்து பார்த்தல்",
+  "pos": "verb",
+  "pron": "TING-ker",
+  "example": "He tinkers with old radios on weekends.",
+  "exampleTamil": "அவர் வார இறுதிகளில் பழைய ரேடியோக்களை நோண்டிப் பழுது பார்க்கிறார்.",
+  "synonyms": [
+   "fiddle",
+   "tweak"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hobble",
+  "meaning": "to walk with difficulty because of pain in the leg or foot",
+  "tamil": "கால் வலியால் சிரமத்துடன் நொண்டி நடத்தல்",
+  "pos": "verb",
+  "pron": "HOB-ul",
+  "example": "He hobbled to the bus stop with a sprained ankle.",
+  "exampleTamil": "கணுக்கால் சுளுக்குடன் அவர் நொண்டி நொண்டி பேருந்து நிறுத்தம் சென்றார்.",
+  "synonyms": [
+   "limp",
+   "stagger"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "manipulate",
+  "meaning": "to handle or control something cleverly, often unfairly",
+  "tamil": "திறமையாக, பெரும்பாலும் நியாயமற்ற முறையில் கையாளுதல் அல்லது கட்டுப்படுத்துதல்",
+  "pos": "verb",
+  "pron": "muh-NIP-yuh-layt",
+  "example": "Some advertisers manipulate people's feelings to sell things.",
+  "exampleTamil": "சில விளம்பரதாரர்கள் பொருட்களை விற்க மக்களின் உணர்வுகளை கையாளுகிறார்கள்.",
+  "synonyms": [
+   "influence",
+   "exploit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "salvage",
+  "meaning": "to save something from loss, damage or failure",
+  "tamil": "இழப்பு அல்லது சேதத்திலிருந்து காப்பாற்றுதல்",
+  "pos": "verb",
+  "pron": "SAL-vij",
+  "example": "We managed to salvage some photos from the broken phone.",
+  "exampleTamil": "உடைந்த போனிலிருந்து சில புகைப்படங்களை மீட்டெடுக்க முடிந்தது.",
+  "synonyms": [
+   "rescue",
+   "recover"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "defuse",
+  "meaning": "to make a tense situation calmer or a bomb safe",
+  "tamil": "பதற்றமான சூழலை தணித்தல்; வெடிகுண்டை செயலிழக்கச் செய்தல்",
+  "pos": "verb",
+  "pron": "dee-FYOOZ",
+  "example": "He made a joke to defuse the tension in the room.",
+  "exampleTamil": "அறையில் இருந்த பதற்றத்தைத் தணிக்க அவர் ஒரு நகைச்சுவை சொன்னார்.",
+  "synonyms": [
+   "calm",
+   "ease"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mishandle",
+  "meaning": "to deal with something badly or carelessly",
+  "tamil": "ஒன்றை மோசமாக அல்லது கவனக்குறைவாக கையாளுதல்",
+  "pos": "verb",
+  "pron": "mis-HAN-dul",
+  "example": "The staff mishandled my luggage and broke the lock.",
+  "exampleTamil": "ஊழியர்கள் என் லக்கேஜை கவனக்குறைவாக கையாண்டு பூட்டை உடைத்துவிட்டனர்.",
+  "synonyms": [
+   "botch",
+   "mismanage"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dissect",
+  "meaning": "to cut something apart to study it, or to examine it in detail",
+  "tamil": "ஆராய்வதற்காக வெட்டிப் பிரித்தல்; நுணுக்கமாக ஆய்தல்",
+  "pos": "verb",
+  "pron": "dy-SEKT",
+  "example": "We dissected a frog in biology class.",
+  "exampleTamil": "உயிரியல் வகுப்பில் நாங்கள் ஒரு தவளையை வெட்டி ஆய்வு செய்தோம்.",
+  "synonyms": [
+   "analyze",
+   "examine"
+  ],
+  "level": "advanced"
+ }
+]

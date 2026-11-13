@@ -1,0 +1,912 @@
+[
+ {
+  "word": "happen",
+  "tamil": "நிகழ",
+  "pos": "verb",
+  "pron": "HAP-en",
+  "example": "What happened to your phone?",
+  "exampleTamil": "உங்கள் தொலைபேசிக்கு என்ன ஆனது?",
+  "synonyms": [
+   "occur",
+   "take place"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "finish",
+  "tamil": "முடிக்க",
+  "pos": "verb",
+  "pron": "FIN-ish",
+  "example": "Please finish your food before you go out.",
+  "exampleTamil": "வெளியே செல்லும் முன் உங்கள் உணவை முடியுங்கள்.",
+  "synonyms": [
+   "complete",
+   "end"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "continue",
+  "tamil": "தொடர",
+  "pos": "verb",
+  "pron": "kun-TIN-yoo",
+  "example": "We will continue the lesson tomorrow.",
+  "exampleTamil": "நாளை பாடத்தைத் தொடருவோம்.",
+  "synonyms": [
+   "carry on",
+   "proceed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "keep",
+  "tamil": "வைத்திருக்க",
+  "pos": "verb",
+  "pron": "KEEP",
+  "example": "Please keep this secret between us.",
+  "exampleTamil": "தயவுசெய்து இந்த ரகசியத்தை நமக்குள் வைத்திருங்கள்.",
+  "synonyms": [
+   "retain",
+   "hold on to"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "although",
+  "tamil": "என்றாலும்",
+  "pos": "conjunction",
+  "pron": "awl-THOH",
+  "example": "Although it was late, we kept working.",
+  "exampleTamil": "நேரமாகிவிட்டது என்றாலும் நாங்கள் தொடர்ந்து வேலை செய்தோம்.",
+  "synonyms": [
+   "even though",
+   "though"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "whereas",
+  "tamil": "ஆனால் மறுபுறம்",
+  "pos": "conjunction",
+  "pron": "wair-AZ",
+  "example": "He likes cities, whereas his wife prefers villages.",
+  "exampleTamil": "அவனுக்கு நகரங்கள் பிடிக்கும், ஆனால் அவன் மனைவிக்கு கிராமங்கள் பிடிக்கும்.",
+  "synonyms": [
+   "while",
+   "on the other hand"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "meanwhile",
+  "tamil": "இதற்கிடையில்",
+  "pos": "adverb",
+  "pron": "MEEN-wyl",
+  "example": "Cook the rice; meanwhile, I will chop the vegetables.",
+  "exampleTamil": "நீங்கள் சாதம் வையுங்கள்; இதற்கிடையில் நான் காய்கறிகளை நறுக்குகிறேன்.",
+  "synonyms": [
+   "in the meantime",
+   "at the same time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "therefore",
+  "tamil": "எனவே",
+  "pos": "adverb",
+  "pron": "THAIR-fawr",
+  "example": "The road was blocked; therefore, we took another route.",
+  "exampleTamil": "சாலை அடைக்கப்பட்டிருந்தது; எனவே நாங்கள் வேறு வழியில் சென்றோம்.",
+  "synonyms": [
+   "so",
+   "as a result"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "moreover",
+  "tamil": "மேலும்",
+  "pos": "adverb",
+  "pron": "mawr-OH-ver",
+  "example": "The plan is cheap; moreover, it is very simple.",
+  "exampleTamil": "இந்தத் திட்டம் மலிவானது; மேலும், மிகவும் எளிமையானது.",
+  "synonyms": [
+   "furthermore",
+   "in addition"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "furthermore",
+  "tamil": "அதுமட்டுமின்றி",
+  "pos": "adverb",
+  "pron": "FUR-ther-mawr",
+  "example": "The hotel is clean; furthermore, the staff are helpful.",
+  "exampleTamil": "ஹோட்டல் சுத்தமாக உள்ளது; அதுமட்டுமின்றி ஊழியர்களும் உதவிகரமாக உள்ளனர்.",
+  "synonyms": [
+   "moreover",
+   "besides"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nevertheless",
+  "tamil": "இருந்தபோதிலும்",
+  "pos": "adverb",
+  "pron": "nev-er-thuh-LES",
+  "example": "It was raining; nevertheless, we played outside.",
+  "exampleTamil": "மழை பெய்தது; இருந்தபோதிலும் நாங்கள் வெளியே விளையாடினோம்.",
+  "synonyms": [
+   "even so",
+   "nonetheless"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "otherwise",
+  "tamil": "இல்லையெனில்",
+  "pos": "adverb",
+  "pron": "UTH-er-wyz",
+  "example": "Hurry up, otherwise you will miss the bus.",
+  "exampleTamil": "சீக்கிரம் வாருங்கள், இல்லையெனில் பேருந்தைத் தவறவிடுவீர்கள்.",
+  "synonyms": [
+   "or else",
+   "if not"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "besides",
+  "tamil": "தவிர, மேலும்",
+  "pos": "preposition",
+  "pron": "bi-SYDZ",
+  "example": "Besides English, she speaks three other languages.",
+  "exampleTamil": "ஆங்கிலம் தவிர அவள் வேறு மூன்று மொழிகளும் பேசுவாள்.",
+  "synonyms": [
+   "apart from",
+   "in addition to"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "despite",
+  "tamil": "இருந்தபோதிலும்",
+  "pos": "preposition",
+  "pron": "di-SPYT",
+  "example": "Despite the heavy rain, the match continued.",
+  "exampleTamil": "கனமழை பெய்த போதிலும் போட்டி தொடர்ந்தது.",
+  "synonyms": [
+   "in spite of",
+   "regardless of"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unless",
+  "tamil": "தவிர (இல்லாவிட்டால்)",
+  "pos": "conjunction",
+  "pron": "un-LES",
+  "example": "We will go unless it rains.",
+  "exampleTamil": "மழை பெய்யாவிட்டால் நாங்கள் செல்வோம்.",
+  "synonyms": [
+   "if not",
+   "except if"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "whether",
+  "tamil": "என்பதா",
+  "pos": "conjunction",
+  "pron": "WETH-er",
+  "example": "I don't know whether he will come.",
+  "exampleTamil": "அவன் வருவானா என்று எனக்குத் தெரியாது.",
+  "synonyms": [
+   "if",
+   "regardless of whether"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "whenever",
+  "tamil": "எப்போதெல்லாம்",
+  "pos": "conjunction",
+  "pron": "wen-EV-er",
+  "example": "Call me whenever you need help.",
+  "exampleTamil": "உங்களுக்கு உதவி தேவைப்படும் போதெல்லாம் என்னை அழையுங்கள்.",
+  "synonyms": [
+   "every time",
+   "at any time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hardly",
+  "tamil": "கிட்டத்தட்ட இல்லை",
+  "pos": "adverb",
+  "pron": "HARD-lee",
+  "example": "I could hardly hear him in the noise.",
+  "exampleTamil": "சத்தத்தில் அவன் பேசுவது எனக்குக் கேட்கவே இல்லை.",
+  "synonyms": [
+   "barely",
+   "scarcely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "barely",
+  "tamil": "சிரமத்துடன் மட்டுமே",
+  "pos": "adverb",
+  "pron": "BAIR-lee",
+  "example": "She barely had time to eat lunch.",
+  "exampleTamil": "அவளுக்கு மதிய உணவு சாப்பிடவே நேரம் இருக்கவில்லை.",
+  "synonyms": [
+   "hardly",
+   "scarcely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nearly",
+  "tamil": "கிட்டத்தட்ட",
+  "pos": "adverb",
+  "pron": "NEER-lee",
+  "example": "I nearly missed my flight this morning.",
+  "exampleTamil": "இன்று காலை நான் கிட்டத்தட்ட என் விமானத்தைத் தவறவிடப் போனேன்.",
+  "synonyms": [
+   "almost",
+   "practically"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "merely",
+  "tamil": "வெறும்",
+  "pos": "adverb",
+  "pron": "MEER-lee",
+  "example": "It was merely a small mistake.",
+  "exampleTamil": "அது வெறும் ஒரு சிறிய தவறு மட்டுமே.",
+  "synonyms": [
+   "only",
+   "simply"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "eventually",
+  "tamil": "இறுதியில்",
+  "pos": "adverb",
+  "pron": "i-VEN-choo-uh-lee",
+  "example": "After many tries, he eventually passed the test.",
+  "exampleTamil": "பல முயற்சிகளுக்குப் பிறகு அவன் இறுதியில் தேர்வில் வெற்றி பெற்றான்.",
+  "synonyms": [
+   "finally",
+   "in the end"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "apparently",
+  "tamil": "வெளிப்படையாகத் தெரிகிறபடி",
+  "pos": "adverb",
+  "pron": "uh-PAIR-unt-lee",
+  "example": "Apparently, the meeting has been moved to Friday.",
+  "exampleTamil": "கூட்டம் வெள்ளிக்கிழமைக்கு மாற்றப்பட்டதாகத் தெரிகிறது.",
+  "synonyms": [
+   "seemingly",
+   "it appears"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "obviously",
+  "tamil": "தெளிவாக",
+  "pos": "adverb",
+  "pron": "OB-vee-us-lee",
+  "example": "Obviously, we need more time to finish.",
+  "exampleTamil": "முடிப்பதற்கு நமக்கு இன்னும் நேரம் தேவை என்பது தெளிவு.",
+  "synonyms": [
+   "clearly",
+   "evidently"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "definitely",
+  "tamil": "நிச்சயமாக",
+  "pos": "adverb",
+  "pron": "DEF-i-nit-lee",
+  "example": "I will definitely call you tomorrow.",
+  "exampleTamil": "நான் நாளை நிச்சயமாக உங்களை அழைப்பேன்.",
+  "synonyms": [
+   "certainly",
+   "without doubt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "actually",
+  "tamil": "உண்மையில்",
+  "pos": "adverb",
+  "pron": "AK-choo-uh-lee",
+  "example": "Actually, I prefer tea to coffee.",
+  "exampleTamil": "உண்மையில் எனக்கு காபியை விட தேநீர் பிடிக்கும்.",
+  "synonyms": [
+   "in fact",
+   "really"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "basically",
+  "tamil": "அடிப்படையில்",
+  "pos": "adverb",
+  "pron": "BAY-sik-lee",
+  "example": "Basically, the app helps you save money.",
+  "exampleTamil": "அடிப்படையில் இந்தச் செயலி பணத்தைச் சேமிக்க உதவுகிறது.",
+  "synonyms": [
+   "essentially",
+   "fundamentally"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "generally",
+  "tamil": "பொதுவாக",
+  "pos": "adverb",
+  "pron": "JEN-er-uh-lee",
+  "example": "People generally prefer simple instructions.",
+  "exampleTamil": "மக்கள் பொதுவாக எளிய வழிமுறைகளையே விரும்புவார்கள்.",
+  "synonyms": [
+   "usually",
+   "as a rule"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "particularly",
+  "tamil": "குறிப்பாக",
+  "pos": "adverb",
+  "pron": "per-TIK-yuh-ler-lee",
+  "example": "I particularly enjoyed the second half of the film.",
+  "exampleTamil": "படத்தின் இரண்டாம் பாதியை நான் குறிப்பாக ரசித்தேன்.",
+  "synonyms": [
+   "especially",
+   "notably"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mostly",
+  "tamil": "பெரும்பாலும்",
+  "pos": "adverb",
+  "pron": "MOHST-lee",
+  "example": "The audience was mostly young people.",
+  "exampleTamil": "பார்வையாளர்கள் பெரும்பாலும் இளைஞர்களாக இருந்தனர்.",
+  "synonyms": [
+   "mainly",
+   "largely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "extremely",
+  "tamil": "மிக மிக",
+  "pos": "adverb",
+  "pron": "ik-STREEM-lee",
+  "example": "The soup was extremely hot.",
+  "exampleTamil": "சூப் மிக மிகச் சூடாக இருந்தது.",
+  "synonyms": [
+   "very",
+   "exceedingly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "slightly",
+  "tamil": "சிறிதளவு",
+  "pos": "adverb",
+  "pron": "SLYT-lee",
+  "example": "The price has slightly increased this month.",
+  "exampleTamil": "இந்த மாதம் விலை சிறிதளவு அதிகரித்துள்ளது.",
+  "synonyms": [
+   "a little",
+   "marginally"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fairly",
+  "tamil": "ஓரளவு",
+  "pos": "adverb",
+  "pron": "FAIR-lee",
+  "example": "The test was fairly easy for me.",
+  "exampleTamil": "தேர்வு எனக்கு ஓரளவு எளிதாக இருந்தது.",
+  "synonyms": [
+   "reasonably",
+   "moderately"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rather",
+  "tamil": "சற்று, மாறாக",
+  "pos": "adverb",
+  "pron": "RATH-er",
+  "example": "It was a rather cold evening.",
+  "exampleTamil": "அது சற்றுக் குளிரான மாலைப் பொழுது.",
+  "synonyms": [
+   "somewhat",
+   "fairly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reason",
+  "tamil": "காரணம்",
+  "pos": "noun",
+  "pron": "REE-zun",
+  "example": "What is the reason for the delay?",
+  "exampleTamil": "தாமதத்துக்கான காரணம் என்ன?",
+  "synonyms": [
+   "cause",
+   "motive"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "result",
+  "tamil": "முடிவு, விளைவு",
+  "pos": "noun",
+  "pron": "ri-ZULT",
+  "example": "The result of the match surprised everyone.",
+  "exampleTamil": "போட்டியின் முடிவு எல்லோரையும் ஆச்சரியப்படுத்தியது.",
+  "synonyms": [
+   "outcome",
+   "consequence"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cause",
+  "tamil": "காரணமாக இருக்க",
+  "pos": "verb",
+  "pron": "KAWZ",
+  "example": "Heavy rain can cause floods in low areas.",
+  "exampleTamil": "கனமழை தாழ்வான பகுதிகளில் வெள்ளத்தை ஏற்படுத்தக்கூடும்.",
+  "synonyms": [
+   "lead to",
+   "bring about"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "effect",
+  "tamil": "விளைவு",
+  "pos": "noun",
+  "pron": "i-FEKT",
+  "example": "The medicine had a quick effect on the pain.",
+  "exampleTamil": "அந்த மருந்து வலியில் விரைவான விளைவை ஏற்படுத்தியது.",
+  "synonyms": [
+   "impact",
+   "result"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "consequence",
+  "tamil": "பின்விளைவு",
+  "pos": "noun",
+  "pron": "KON-si-kwens",
+  "example": "Missing the deadline had serious consequences.",
+  "exampleTamil": "கெடுவைத் தவறவிட்டதால் கடுமையான பின்விளைவுகள் ஏற்பட்டன.",
+  "synonyms": [
+   "result",
+   "outcome"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chance",
+  "tamil": "வாய்ப்பு",
+  "pos": "noun",
+  "pron": "CHANS",
+  "example": "This is your chance to try something new.",
+  "exampleTamil": "புதிதாக ஒன்றை முயற்சிக்க இது உங்களுக்கான வாய்ப்பு.",
+  "synonyms": [
+   "opportunity",
+   "possibility"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "habit",
+  "tamil": "பழக்கம்",
+  "pos": "noun",
+  "pron": "HAB-it",
+  "example": "Reading before bed is a good habit.",
+  "exampleTamil": "தூங்கும் முன் படிப்பது நல்ல பழக்கம்.",
+  "synonyms": [
+   "routine",
+   "custom"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "behaviour",
+  "tamil": "நடத்தை",
+  "pos": "noun",
+  "pron": "bi-HAYV-yer",
+  "example": "The teacher praised the students' good behaviour.",
+  "exampleTamil": "மாணவர்களின் நல்ல நடத்தையை ஆசிரியர் பாராட்டினார்.",
+  "synonyms": [
+   "conduct",
+   "manners"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "attitude",
+  "tamil": "மனப்போக்கு",
+  "pos": "noun",
+  "pron": "AT-i-tyood",
+  "example": "A positive attitude helps in tough times.",
+  "exampleTamil": "நேர்மறையான மனப்போக்கு கடினமான காலங்களில் உதவும்.",
+  "synonyms": [
+   "outlook",
+   "approach"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mood",
+  "tamil": "மனநிலை",
+  "pos": "noun",
+  "pron": "MOOD",
+  "example": "She is in a good mood today.",
+  "exampleTamil": "அவள் இன்று நல்ல மனநிலையில் இருக்கிறாள்.",
+  "synonyms": [
+   "spirits",
+   "temper"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "courage",
+  "tamil": "தைரியம்",
+  "pos": "noun",
+  "pron": "KUR-ij",
+  "example": "It takes courage to admit your mistakes.",
+  "exampleTamil": "தவறுகளை ஒப்புக்கொள்ள தைரியம் வேண்டும்.",
+  "synonyms": [
+   "bravery",
+   "nerve"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pride",
+  "tamil": "பெருமை",
+  "pos": "noun",
+  "pron": "PRYD",
+  "example": "He felt great pride in his daughter's success.",
+  "exampleTamil": "மகளின் வெற்றியில் அவர் மிகுந்த பெருமை கொண்டார்.",
+  "synonyms": [
+   "self-respect",
+   "satisfaction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trust",
+  "tamil": "நம்பிக்கை",
+  "pos": "noun",
+  "pron": "TRUST",
+  "example": "Trust takes years to build but seconds to break.",
+  "exampleTamil": "நம்பிக்கையை உருவாக்க ஆண்டுகள் ஆகும், உடைக்க சில நொடிகளே போதும்.",
+  "synonyms": [
+   "faith",
+   "confidence"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fear",
+  "tamil": "பயம்",
+  "pos": "noun",
+  "pron": "FEER",
+  "example": "Her fear of heights stopped her from climbing.",
+  "exampleTamil": "உயரம் குறித்த அவளது பயம் அவளை ஏறவிடவில்லை.",
+  "synonyms": [
+   "dread",
+   "terror"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "curiosity",
+  "tamil": "ஆர்வம், அறியும் ஆவல்",
+  "pos": "noun",
+  "pron": "kyoor-ee-OS-i-tee",
+  "example": "Curiosity made the child open the box.",
+  "exampleTamil": "அறியும் ஆவலால் அந்தக் குழந்தை பெட்டியைத் திறந்தது.",
+  "synonyms": [
+   "inquisitiveness",
+   "interest"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "honesty",
+  "tamil": "நேர்மை",
+  "pos": "noun",
+  "pron": "ON-is-tee",
+  "example": "Honesty is important in every relationship.",
+  "exampleTamil": "ஒவ்வொரு உறவிலும் நேர்மை முக்கியம்.",
+  "synonyms": [
+   "truthfulness",
+   "sincerity"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "freedom",
+  "tamil": "சுதந்திரம்",
+  "pos": "noun",
+  "pron": "FREE-dum",
+  "example": "Students need the freedom to ask questions.",
+  "exampleTamil": "மாணவர்களுக்கு கேள்வி கேட்கும் சுதந்திரம் வேண்டும்.",
+  "synonyms": [
+   "liberty",
+   "independence"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "truth",
+  "tamil": "உண்மை",
+  "pos": "noun",
+  "pron": "TROOTH",
+  "example": "Please tell me the truth about what happened.",
+  "exampleTamil": "என்ன நடந்தது என்ற உண்மையை எனக்குச் சொல்லுங்கள்.",
+  "synonyms": [
+   "fact",
+   "reality"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "benefit",
+  "tamil": "பயன்",
+  "pos": "noun",
+  "pron": "BEN-i-fit",
+  "example": "Regular exercise has many health benefits.",
+  "exampleTamil": "தொடர்ந்து உடற்பயிற்சி செய்வதில் பல உடல்நலப் பயன்கள் உள்ளன.",
+  "synonyms": [
+   "advantage",
+   "gain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "advantage",
+  "tamil": "சாதகம்",
+  "pos": "noun",
+  "pron": "ud-VAN-tij",
+  "example": "Knowing two languages is a big advantage.",
+  "exampleTamil": "இரண்டு மொழிகள் தெரிந்திருப்பது பெரிய சாதகம்.",
+  "synonyms": [
+   "benefit",
+   "edge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "difference",
+  "tamil": "வேறுபாடு",
+  "pos": "noun",
+  "pron": "DIF-runs",
+  "example": "Can you see the difference between these two photos?",
+  "exampleTamil": "இந்த இரு புகைப்படங்களுக்கு இடையிலான வேறுபாட்டைப் பார்க்க முடிகிறதா?",
+  "synonyms": [
+   "distinction",
+   "contrast"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "purpose",
+  "tamil": "நோக்கம்",
+  "pos": "noun",
+  "pron": "PUR-pus",
+  "example": "What is the purpose of your visit?",
+  "exampleTamil": "உங்கள் வருகையின் நோக்கம் என்ன?",
+  "synonyms": [
+   "aim",
+   "intention"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "situation",
+  "tamil": "சூழ்நிலை",
+  "pos": "noun",
+  "pron": "sich-oo-AY-shun",
+  "example": "The situation is getting better every day.",
+  "exampleTamil": "சூழ்நிலை நாளுக்கு நாள் மேம்பட்டு வருகிறது.",
+  "synonyms": [
+   "circumstances",
+   "state of affairs"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "knowledge",
+  "tamil": "அறிவு",
+  "pos": "noun",
+  "pron": "NOL-ij",
+  "example": "Her knowledge of history is impressive.",
+  "exampleTamil": "வரலாறு பற்றிய அவளது அறிவு வியக்க வைக்கிறது.",
+  "synonyms": [
+   "understanding",
+   "awareness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wisdom",
+  "tamil": "ஞானம்",
+  "pos": "noun",
+  "pron": "WIZ-dum",
+  "example": "Old people often share their wisdom with the young.",
+  "exampleTamil": "முதியவர்கள் பெரும்பாலும் தங்கள் ஞானத்தை இளையோருடன் பகிர்வார்கள்.",
+  "synonyms": [
+   "good judgement",
+   "insight"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "memory",
+  "tamil": "நினைவு",
+  "pos": "noun",
+  "pron": "MEM-uh-ree",
+  "example": "I have a happy memory of that summer.",
+  "exampleTamil": "அந்தக் கோடைக்காலம் பற்றி எனக்கு ஒரு மகிழ்ச்சியான நினைவு உண்டு.",
+  "synonyms": [
+   "recollection",
+   "remembrance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pleasure",
+  "tamil": "மகிழ்ச்சி",
+  "pos": "noun",
+  "pron": "PLEZH-er",
+  "example": "It was a pleasure to meet you.",
+  "exampleTamil": "உங்களைச் சந்தித்தது மகிழ்ச்சியாக இருந்தது.",
+  "synonyms": [
+   "delight",
+   "enjoyment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "kindness",
+  "tamil": "அன்பு, கருணை",
+  "pos": "noun",
+  "pron": "KYND-nis",
+  "example": "Thank you for your kindness during my illness.",
+  "exampleTamil": "என் நோயின் போது நீங்கள் காட்டிய கருணைக்கு நன்றி.",
+  "synonyms": [
+   "compassion",
+   "goodwill"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "anger",
+  "tamil": "கோபம்",
+  "pos": "noun",
+  "pron": "ANG-ger",
+  "example": "He could not hide his anger at the decision.",
+  "exampleTamil": "அந்த முடிவில் அவனால் தன் கோபத்தை மறைக்க முடியவில்லை.",
+  "synonyms": [
+   "rage",
+   "fury"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "regret",
+  "tamil": "வருத்தம்",
+  "pos": "noun",
+  "pron": "ri-GRET",
+  "example": "I have no regret about my choice.",
+  "exampleTamil": "என் தேர்வைப் பற்றி எனக்கு எந்த வருத்தமும் இல்லை.",
+  "synonyms": [
+   "remorse",
+   "sorrow"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "guilt",
+  "tamil": "குற்ற உணர்வு",
+  "pos": "noun",
+  "pron": "GILT",
+  "example": "She felt guilt after forgetting his birthday.",
+  "exampleTamil": "அவன் பிறந்தநாளை மறந்ததால் அவளுக்கு குற்ற உணர்வு ஏற்பட்டது.",
+  "synonyms": [
+   "shame",
+   "remorse"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "loyalty",
+  "tamil": "விசுவாசம்",
+  "pos": "noun",
+  "pron": "LOY-ul-tee",
+  "example": "The company rewards loyalty and hard work.",
+  "exampleTamil": "நிறுவனம் விசுவாசத்துக்கும் கடின உழைப்புக்கும் வெகுமதி அளிக்கிறது.",
+  "synonyms": [
+   "faithfulness",
+   "devotion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "imagination",
+  "tamil": "கற்பனை",
+  "pos": "noun",
+  "pron": "i-maj-i-NAY-shun",
+  "example": "Children have a wonderful imagination.",
+  "exampleTamil": "குழந்தைகளுக்கு அற்புதமான கற்பனை வளம் உண்டு.",
+  "synonyms": [
+   "creativity",
+   "fantasy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "figure out",
+  "tamil": "கண்டுபிடிக்க, புரிந்துகொள்ள",
+  "pos": "phrasal verb",
+  "pron": "FIG-yer OWT",
+  "example": "I cannot figure out how this machine works.",
+  "exampleTamil": "இந்த இயந்திரம் எப்படி வேலை செய்கிறது என்று எனக்குப் புரியவில்லை.",
+  "synonyms": [
+   "work out",
+   "understand"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "point out",
+  "tamil": "சுட்டிக்காட்ட",
+  "pos": "phrasal verb",
+  "pron": "POINT OWT",
+  "example": "She pointed out a mistake in my answer.",
+  "exampleTamil": "அவள் என் பதிலில் ஒரு தவறைச் சுட்டிக்காட்டினாள்.",
+  "synonyms": [
+   "indicate",
+   "highlight"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "give up",
+  "tamil": "கைவிட",
+  "pos": "phrasal verb",
+  "pron": "GIV UP",
+  "example": "Never give up on your dreams.",
+  "exampleTamil": "உங்கள் கனவுகளை ஒருபோதும் கைவிடாதீர்கள்.",
+  "synonyms": [
+   "quit",
+   "surrender"
+  ],
+  "level": "beginner"
+ }
+]

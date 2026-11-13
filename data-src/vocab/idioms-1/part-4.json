@@ -1,0 +1,340 @@
+[
+ {
+  "word": "hang in there",
+  "meaning": "do not give up, keep trying",
+  "tamil": "விடாமல் தாக்குப்பிடி",
+  "pos": "phrase",
+  "pron": "HANG in THAIR",
+  "example": "Hang in there, the exams will be over soon.",
+  "exampleTamil": "விடாமல் தாக்குப்பிடி, தேர்வுகள் விரைவில் முடிந்துவிடும்.",
+  "synonyms": [
+   "persevere",
+   "keep going"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "keep calm",
+  "meaning": "stay peaceful and not get upset",
+  "tamil": "அமைதியாக இரு",
+  "pos": "phrase",
+  "pron": "KEEP KAHM",
+  "example": "Please keep calm and listen to the instructions.",
+  "exampleTamil": "தயவுசெய்து அமைதியாக இருந்து வழிமுறைகளைக் கேளுங்கள்.",
+  "synonyms": [
+   "relax",
+   "stay cool"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "get a grip",
+  "meaning": "control your feelings and stay calm",
+  "tamil": "உணர்ச்சியைக் கட்டுப்படுத்து",
+  "pos": "phrase",
+  "pron": "get uh GRIP",
+  "example": "You need to get a grip before the meeting.",
+  "exampleTamil": "கூட்டத்திற்கு முன் நீ உன்னைக் கட்டுப்படுத்திக்கொள்ள வேண்டும்.",
+  "synonyms": [
+   "calm down",
+   "control yourself"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "head over heels",
+  "meaning": "deeply in love",
+  "tamil": "காதலில் மூழ்கிய",
+  "pos": "phrase",
+  "pron": "HED OH-ver HEELZ",
+  "example": "He fell head over heels for her.",
+  "exampleTamil": "அவன் அவள் மேல் ஆழ்ந்த காதலில் விழுந்தான்.",
+  "synonyms": [
+   "madly in love"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "think twice",
+  "meaning": "consider carefully before you act",
+  "tamil": "இருமுறை யோசித்தல்",
+  "pos": "phrase",
+  "pron": "THINK TWYSS",
+  "example": "Think twice before you lend him money.",
+  "exampleTamil": "அவனுக்குப் பணம் கடன் கொடுக்கும் முன் இருமுறை யோசி.",
+  "synonyms": [
+   "reconsider",
+   "hesitate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "back on track",
+  "meaning": "going well again after a problem",
+  "tamil": "மீண்டும் சரியான பாதையில்",
+  "pos": "phrase",
+  "pron": "BAK on TRAK",
+  "example": "The project is finally back on track.",
+  "exampleTamil": "திட்டம் இறுதியாக மீண்டும் சரியான பாதையில் வந்துவிட்டது.",
+  "synonyms": [
+   "recovered"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "blow off steam",
+  "meaning": "release anger or stress in a harmless way",
+  "tamil": "மன அழுத்தத்தை வெளியேற்றுதல்",
+  "pos": "phrase",
+  "pron": "BLOH of STEEM",
+  "example": "I play cricket to blow off steam.",
+  "exampleTamil": "மன அழுத்தத்தைக் குறைக்க நான் கிரிக்கெட் விளையாடுகிறேன்.",
+  "synonyms": [
+   "let off steam",
+   "unwind"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lose sleep",
+  "meaning": "worry so much that you cannot sleep",
+  "tamil": "கவலையில் தூக்கம் இழத்தல்",
+  "pos": "phrase",
+  "pron": "LOOZ SLEEP",
+  "example": "Do not lose sleep over a small mistake.",
+  "exampleTamil": "சிறிய தவறுக்காக தூக்கத்தை இழக்காதே.",
+  "synonyms": [
+   "worry",
+   "fret"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "come clean",
+  "meaning": "tell the truth about something hidden",
+  "tamil": "உண்மையை ஒப்புக்கொள்ளுதல்",
+  "pos": "phrase",
+  "pron": "KUM KLEEN",
+  "example": "He should come clean about the missing money.",
+  "exampleTamil": "காணாமல் போன பணம் பற்றி அவன் உண்மையை ஒப்புக்கொள்ள வேண்டும்.",
+  "synonyms": [
+   "confess",
+   "admit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "from scratch",
+  "meaning": "from the very beginning, using nothing ready-made",
+  "tamil": "முதலிலிருந்து, புதிதாக",
+  "pos": "phrase",
+  "pron": "from SKRATCH",
+  "example": "She built her business from scratch.",
+  "exampleTamil": "அவள் தன் தொழிலை முதலிலிருந்து உருவாக்கினாள்.",
+  "synonyms": [
+   "from zero"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sit tight",
+  "meaning": "stay where you are and wait patiently",
+  "tamil": "பொறுமையாகக் காத்திருத்தல்",
+  "pos": "phrase",
+  "pron": "SIT TYTE",
+  "example": "Sit tight, the doctor will see you soon.",
+  "exampleTamil": "பொறுமையாகக் காத்திரு, மருத்துவர் விரைவில் உன்னைப் பார்ப்பார்.",
+  "synonyms": [
+   "wait",
+   "stay put"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "take charge",
+  "meaning": "begin to control or lead something",
+  "tamil": "பொறுப்பை ஏற்றல்",
+  "pos": "phrase",
+  "pron": "TAYK CHARJ",
+  "example": "Someone must take charge of the event.",
+  "exampleTamil": "யாராவது நிகழ்ச்சியின் பொறுப்பை ஏற்க வேண்டும்.",
+  "synonyms": [
+   "lead",
+   "take over"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lose touch",
+  "meaning": "stop being in contact with someone",
+  "tamil": "தொடர்பை இழத்தல்",
+  "pos": "phrase",
+  "pron": "LOOZ TUCH",
+  "example": "I do not want to lose touch with my school friends.",
+  "exampleTamil": "என் பள்ளி நண்பர்களுடனான தொடர்பை இழக்க நான் விரும்பவில்லை.",
+  "synonyms": [
+   "drift apart"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "face value",
+  "meaning": "the obvious meaning, taken without doubt",
+  "tamil": "வெளித்தோற்ற மதிப்பு",
+  "pos": "phrase",
+  "pron": "FAYS VAL-yoo",
+  "example": "Do not take his promises at face value.",
+  "exampleTamil": "அவன் வாக்குறுதிகளை வெளித்தோற்றத்தை வைத்தே நம்பாதே.",
+  "synonyms": [
+   "apparent worth"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hold your horses",
+  "meaning": "wait, do not rush",
+  "tamil": "அவசரப்படாதே, பொறு",
+  "pos": "phrase",
+  "pron": "HOHLD yor HOR-siz",
+  "example": "Hold your horses, we have not finished yet.",
+  "exampleTamil": "அவசரப்படாதே, நாம் இன்னும் முடிக்கவில்லை.",
+  "synonyms": [
+   "slow down",
+   "wait"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "get the picture",
+  "meaning": "understand a situation",
+  "tamil": "நிலைமையைப் புரிந்துகொள்",
+  "pos": "phrase",
+  "pron": "get thuh PIK-cher",
+  "example": "I get the picture, so no more details please.",
+  "exampleTamil": "நிலைமை புரிகிறது, இனி விவரங்கள் வேண்டாம்.",
+  "synonyms": [
+   "understand"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lose your cool",
+  "meaning": "become angry or upset suddenly",
+  "tamil": "நிதானம் இழத்தல்",
+  "pos": "phrase",
+  "pron": "LOOZ yor KOOL",
+  "example": "Try not to lose your cool in traffic.",
+  "exampleTamil": "போக்குவரத்தில் நிதானம் இழக்காமல் இருக்க முயற்சி செய்.",
+  "synonyms": [
+   "lose control"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "out of shape",
+  "meaning": "not physically fit",
+  "tamil": "உடல் தகுதி இல்லாத",
+  "pos": "phrase",
+  "pron": "owt uv SHAYP",
+  "example": "I am out of shape after months of no exercise.",
+  "exampleTamil": "மாதங்களாக உடற்பயிற்சி இல்லாததால் நான் உடல் தகுதியை இழந்துவிட்டேன்.",
+  "synonyms": [
+   "unfit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ring a bell",
+  "meaning": "sound familiar; remind you of something",
+  "tamil": "எங்கோ கேட்டது போல இருத்தல்",
+  "pos": "phrase",
+  "pron": "RING uh BEL",
+  "example": "His name does ring a bell, but I cannot place him.",
+  "exampleTamil": "அவன் பெயர் எங்கோ கேட்டது போல இருக்கிறது, ஆனால் யாரென்று நினைவில்லை.",
+  "synonyms": [
+   "sound familiar"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "break the news",
+  "meaning": "tell someone important news",
+  "tamil": "செய்தியைத் தெரிவித்தல்",
+  "pos": "phrase",
+  "pron": "BRAYK thuh NOOZ",
+  "example": "Who will break the news to her parents?",
+  "exampleTamil": "அவளது பெற்றோருக்கு யார் இந்தச் செய்தியைத் தெரிவிப்பார்?",
+  "synonyms": [
+   "tell",
+   "announce"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "keep your word",
+  "meaning": "do what you promised",
+  "tamil": "கொடுத்த வாக்கைக் காப்பாற்று",
+  "pos": "phrase",
+  "pron": "KEEP yor WURD",
+  "example": "A good friend always keeps his word.",
+  "exampleTamil": "நல்ல நண்பன் எப்போதும் தன் வாக்கைக் காப்பாற்றுவான்.",
+  "synonyms": [
+   "be reliable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sick and tired",
+  "meaning": "very annoyed after a long time",
+  "tamil": "மிகவும் சலித்துப்போன",
+  "pos": "phrase",
+  "pron": "SIK and TY-erd",
+  "example": "I am sick and tired of this slow internet.",
+  "exampleTamil": "இந்த மெதுவான இணையத்தால் நான் மிகவும் சலித்துப்போனேன்.",
+  "synonyms": [
+   "fed up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "turn the tables",
+  "meaning": "change a situation so you gain the advantage",
+  "tamil": "நிலைமையை மாற்றுதல்",
+  "pos": "phrase",
+  "pron": "TURN thuh TAY-bulz",
+  "example": "They turned the tables and won the match.",
+  "exampleTamil": "அவர்கள் நிலைமையை மாற்றி போட்டியில் வென்றார்கள்.",
+  "synonyms": [
+   "reverse"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "under control",
+  "meaning": "being managed well; not causing problems",
+  "tamil": "கட்டுப்பாட்டில்",
+  "pos": "phrase",
+  "pron": "UN-der kun-TROHL",
+  "example": "Do not worry, the situation is under control.",
+  "exampleTamil": "கவலைப்படாதே, நிலைமை கட்டுப்பாட்டில் உள்ளது.",
+  "synonyms": [
+   "managed",
+   "handled"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cut it out",
+  "meaning": "stop doing something that annoys others",
+  "tamil": "நிறுத்து, போதும்",
+  "pos": "phrase",
+  "pron": "KUT it OWT",
+  "example": "Please cut it out, I am trying to study.",
+  "exampleTamil": "தயவுசெய்து நிறுத்து, நான் படிக்க முயற்சிக்கிறேன்.",
+  "synonyms": [
+   "stop",
+   "quit"
+  ],
+  "level": "intermediate"
+ }
+]

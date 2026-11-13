@@ -1,0 +1,376 @@
+[
+ {
+  "en": "Wash your hands before you eat.",
+  "tamil": "சாப்பிடுறதுக்கு முன்னாடி கை கழுவு.",
+  "context": "A parent teaching a child a good habit.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "A direct command in a caring tone. 'Before you eat' gives the time.",
+  "words": [
+   "wash",
+   "hands"
+  ],
+  "usage": "Use it at home before every meal.",
+  "leelaQ": "Why should we wash our hands before eating?",
+  "answer": "It removes germs and keeps us healthy."
+ },
+ {
+  "en": "My daily routine starts with a glass of warm water.",
+  "tamil": "என் தினசரி வேலை ஒரு டம்ளர் வெந்நீரோட ஆரம்பிக்கும்.",
+  "context": "Describing your healthy start to the day.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Starts with' shows the first thing in a routine. 'Warm' is less hot than 'hot'.",
+  "words": [
+   "routine",
+   "warm water"
+  ],
+  "usage": "Use it when you talk about your lifestyle or health.",
+  "leelaQ": "What is your daily routine like?",
+  "answer": "I wake up, exercise, take a bath and go to work."
+ },
+ {
+  "en": "We were having dinner when the lights went off.",
+  "tamil": "நாங்க சாப்பிட்டுட்டு இருக்கும்போது லைட் போய்டுச்சு.",
+  "context": "Telling a friend what happened last night.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past continuous (were having) shows the longer action. Past simple (went off) shows the short one.",
+  "words": [
+   "dinner",
+   "lights"
+  ],
+  "usage": "Use it to tell a short story about your evening.",
+  "leelaQ": "What were you doing at nine o'clock last night?",
+  "answer": "I was watching TV with my family."
+ },
+ {
+  "en": "I will go to bed early tonight.",
+  "tamil": "நான் இன்னைக்கு ராத்திரி சீக்கிரம் தூங்கப் போறேன்.",
+  "context": "Telling your family you are tired.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' shows a decision. 'Early' is an adverb that tells the time of the action.",
+  "words": [
+   "early",
+   "tonight"
+  ],
+  "usage": "Use it when you are tired and want to rest.",
+  "leelaQ": "What helps you sleep well at night?",
+  "answer": "I turn off my phone and read a book."
+ },
+ {
+  "en": "Don't leave the wet towel on the bed.",
+  "tamil": "ஈரத் துண்டை கட்டில்ல போடாதே.",
+  "context": "A mother correcting her son at home.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't leave' is a negative command. 'Wet' means not dry.",
+  "words": [
+   "wet",
+   "towel"
+  ],
+  "usage": "Use it at home when someone leaves things in the wrong place.",
+  "leelaQ": "What small habits annoy you at home?",
+  "answer": "I get annoyed when people leave wet towels on the bed."
+ },
+ {
+  "en": "Who is going to pick up the children today?",
+  "tamil": "இன்னைக்கு குழந்தைகளை யார் கூட்டிட்டு வரப்போறாங்க?",
+  "context": "Asking your family about the evening plan.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Who is going to ...?' asks about a planned action. 'Pick up' means to collect.",
+  "words": [
+   "pick up",
+   "children"
+  ],
+  "usage": "Use it at home when you need to plan the school pickup.",
+  "leelaQ": "Who picks up the children from school in your family?",
+  "answer": "My father picks them up on his way home."
+ },
+ {
+  "en": "I have to finish all my chores before the guests arrive.",
+  "tamil": "விருந்தாளிகள் வர்றதுக்குள்ள என் எல்லா வேலையும் முடிக்கணும்.",
+  "context": "Telling your sister why you are in a hurry.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Have to' shows a duty. 'Before the guests arrive' uses present simple after 'before'.",
+  "words": [
+   "chores",
+   "guests"
+  ],
+  "usage": "Use it at home when relatives are about to visit.",
+  "leelaQ": "How do you prepare your house for guests?",
+  "answer": "I clean the rooms and make some snacks."
+ },
+ {
+  "en": "Can you take out the garbage when you go downstairs?",
+  "tamil": "கீழே போகும்போது குப்பையை எடுத்துட்டு போக முடியுமா?",
+  "context": "Asking a family member to help with a chore.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Take out' means to carry outside. 'When you go' uses present simple for a near plan.",
+  "words": [
+   "garbage",
+   "downstairs"
+  ],
+  "usage": "Use it at home when someone is going out anyway.",
+  "leelaQ": "Who takes out the garbage in your home?",
+  "answer": "My brother takes it out every morning."
+ },
+ {
+  "en": "I take the same route to work every day.",
+  "tamil": "நான் தினமும் வேலைக்கு ஒரே வழியில போவேன்.",
+  "context": "Talking about your daily travel.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'The same' shows no change. 'Route' means the path you take.",
+  "words": [
+   "route",
+   "same"
+  ],
+  "usage": "Use it when you talk about your commute with a friend.",
+  "leelaQ": "Do you take the same route to work every day?",
+  "answer": "Yes, it is the fastest way for me."
+ },
+ {
+  "en": "She is not feeling well, so she is resting.",
+  "tamil": "அவளுக்கு உடம்பு சரியில்ல, அதனால ஓய்வு எடுத்துட்டு இருக்கா.",
+  "context": "Telling a visitor why your wife cannot meet them.",
+  "tense": "present-continuous",
+  "type": "negative",
+  "explain": "'Is not feeling well' is a polite way to say someone is sick. 'Resting' means taking a break.",
+  "words": [
+   "feeling well",
+   "resting"
+  ],
+  "usage": "Use it when a guest asks about a family member.",
+  "leelaQ": "What do you do when you do not feel well?",
+  "answer": "I take rest and drink hot water."
+ },
+ {
+  "en": "How was your day at school today?",
+  "tamil": "இன்னைக்கு ஸ்கூல்ல உன் நாள் எப்படி இருந்துச்சு?",
+  "context": "A parent asking a child in the evening.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'How was ...?' asks about a past experience. It is a warm way to start a talk.",
+  "words": [
+   "school",
+   "day"
+  ],
+  "usage": "Use it at home when your child or spouse comes back.",
+  "leelaQ": "How was your day today?",
+  "answer": "My day was busy, but it went well."
+ },
+ {
+  "en": "I always take a short nap after lunch on Sundays.",
+  "tamil": "ஞாயிற்றுக்கிழமை மதியம் சாப்பிட்டதும் நான் எப்பவுமே கொஞ்ச நேரம் தூங்குவேன்.",
+  "context": "Talking about your weekend habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'A short nap' means a little sleep in the day. 'Always' shows it is a regular habit.",
+  "words": [
+   "nap",
+   "sundays"
+  ],
+  "usage": "Use it in a casual chat about holidays.",
+  "leelaQ": "What do you usually do on Sunday afternoons?",
+  "answer": "I take a nap and then watch a movie."
+ },
+ {
+  "en": "Let's clean the house together this weekend.",
+  "tamil": "இந்த வார கடைசில நாம எல்லாரும் சேர்ந்து வீட்டை சுத்தம் பண்ணலாம்.",
+  "context": "Suggesting a family cleaning plan.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let's' + verb makes a suggestion that includes everyone. 'Together' means with all of us.",
+  "words": [
+   "clean",
+   "together"
+  ],
+  "usage": "Use it at home to share work among family members.",
+  "leelaQ": "How does your family share the housework?",
+  "answer": "Everyone has a small job, like dusting or sweeping."
+ },
+ {
+  "en": "The vegetable vendor comes down our street every morning.",
+  "tamil": "காய்கறிக்காரர் தினமும் காலைல எங்க தெரு வழியா வருவார்.",
+  "context": "Describing life in your neighbourhood.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Comes down our street' means walks along it. 'Vendor' means a seller.",
+  "words": [
+   "vendor",
+   "street"
+  ],
+  "usage": "Use it when you tell a new friend about your area.",
+  "leelaQ": "Do vendors come to your street to sell things?",
+  "answer": "Yes, a flower seller and a fruit seller come daily."
+ },
+ {
+  "en": "I was in a hurry, so I forgot my wallet.",
+  "tamil": "நான் அவசரத்துல இருந்தேன், அதனால என் பர்ஸை மறந்துட்டேன்.",
+  "context": "Explaining a mistake in the morning.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'In a hurry' means rushing. The second part gives the result with 'so'.",
+  "words": [
+   "hurry",
+   "wallet"
+  ],
+  "usage": "Use it when you realise you left something at home.",
+  "leelaQ": "What do you forget most often when you are in a hurry?",
+  "answer": "I often forget my phone charger."
+ },
+ {
+  "en": "Is it okay if I take a shower first?",
+  "tamil": "நான் முதல்ல குளிச்சுக்கலாமா?",
+  "context": "Asking a sibling at home in the morning.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Is it okay if ...?' asks permission politely. Use present simple after 'if'.",
+  "words": [
+   "shower",
+   "first"
+  ],
+  "usage": "Use it when many people share one bathroom in the morning.",
+  "leelaQ": "How do you share the bathroom in the morning?",
+  "answer": "We keep a fixed time for each person."
+ },
+ {
+  "en": "We have not decided what to cook for dinner.",
+  "tamil": "ராத்திரி சாப்பாட்டுக்கு என்ன சமைக்கணும்னு நாங்க இன்னும் முடிவு பண்ணல.",
+  "context": "Telling your neighbour about your evening plan.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have not decided' means the decision is still pending. 'What to cook' is a useful phrase.",
+  "words": [
+   "decided",
+   "cook"
+  ],
+  "usage": "Use it when someone asks what you are making.",
+  "leelaQ": "How do you decide what to cook every day?",
+  "answer": "I ask my family and cook what everyone likes."
+ },
+ {
+  "en": "I fill the water tank every morning before work.",
+  "tamil": "நான் தினமும் வேலைக்கு போறதுக்கு முன்னாடி தண்ணி டேங்க் நிரப்புவேன்.",
+  "context": "Describing a regular chore at home.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Fill' means to make something full. 'Before work' tells the time.",
+  "words": [
+   "fill",
+   "water tank"
+  ],
+  "usage": "Use it when you talk about your regular morning tasks.",
+  "leelaQ": "Which chore do you do every morning?",
+  "answer": "I water the plants and fill the water bottles."
+ },
+ {
+  "en": "She is going to wake the children at six.",
+  "tamil": "அவ ஆறு மணிக்கு குழந்தைகளை எழுப்பப் போறா.",
+  "context": "Telling a guest about the morning plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Is going to' shows a plan. 'Wake' needs an object: the children.",
+  "words": [
+   "wake",
+   "children"
+  ],
+  "usage": "Use it when a guest asks about the next day's schedule.",
+  "leelaQ": "What time will you wake up tomorrow?",
+  "answer": "I will wake up at six o'clock."
+ },
+ {
+  "en": "Please keep your shoes outside the house.",
+  "tamil": "தயவு செஞ்சு உங்க செருப்பை வீட்டுக்கு வெளியே விடுங்க.",
+  "context": "Asking a visitor politely at the door.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please keep' is a polite instruction. Many Indian homes ask guests to remove shoes.",
+  "words": [
+   "shoes",
+   "outside"
+  ],
+  "usage": "Use it at the door when a guest comes in.",
+  "leelaQ": "Do you remove your shoes before entering a house?",
+  "answer": "Yes, I always leave them outside the door."
+ },
+ {
+  "en": "What are you doing this evening?",
+  "tamil": "இன்னைக்கு சாயங்காலம் என்ன பண்ணப் போற?",
+  "context": "Asking a friend about their plans.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous can ask about a plan in the near future. 'This evening' shows the time.",
+  "words": [
+   "evening"
+  ],
+  "usage": "Use it with a friend or colleague when you want to meet.",
+  "leelaQ": "What are you doing this weekend?",
+  "answer": "I am visiting my grandparents on Sunday."
+ },
+ {
+  "en": "My phone alarm did not ring this morning.",
+  "tamil": "இன்னைக்கு காலைல என் ஃபோன் அலாரம் அடிக்கல.",
+  "context": "Explaining why you woke up late.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not ring' is the negative past. 'Ring' stays in the base form after 'did'.",
+  "words": [
+   "alarm",
+   "ring"
+  ],
+  "usage": "Use it at work or home to explain why you are late.",
+  "leelaQ": "Have you ever woken up late because of a problem with the alarm?",
+  "answer": "Yes, once my phone battery was dead."
+ },
+ {
+  "en": "I feel fresh after a morning walk.",
+  "tamil": "காலை நடைக்கு அப்புறம் எனக்கு புத்துணர்ச்சியா இருக்கும்.",
+  "context": "Telling a friend why you like walking.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Feel fresh' means feel energetic. 'After a morning walk' gives the reason.",
+  "words": [
+   "fresh",
+   "morning walk"
+  ],
+  "usage": "Use it when you suggest a healthy habit to a friend.",
+  "leelaQ": "How do you feel after a morning walk?",
+  "answer": "I feel active and happy for the whole day."
+ },
+ {
+  "en": "Can you check if the milk is boiling?",
+  "tamil": "பால் பொங்குதான்னு பாரு.",
+  "context": "Asking someone in the kitchen to help.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Check if' means look and find out. 'Boiling' means bubbling with heat.",
+  "words": [
+   "check",
+   "boiling"
+  ],
+  "usage": "Use it at home when your hands are busy in the kitchen.",
+  "leelaQ": "What do you do when milk boils over?",
+  "answer": "I clean the stove and make a fresh cup."
+ },
+ {
+  "en": "It takes me an hour to get ready.",
+  "tamil": "தயாராக எனக்கு ஒரு மணி நேரம் ஆகும்.",
+  "context": "Chatting with a friend about your routine.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'It takes me ...' tells how much time you need. 'Get ready' means prepare yourself.",
+  "words": [
+   "takes",
+   "get ready"
+  ],
+  "usage": "Use it when someone asks why you are always late.",
+  "leelaQ": "How long do you take to get ready in the morning?",
+  "answer": "I take about thirty minutes."
+ }
+]

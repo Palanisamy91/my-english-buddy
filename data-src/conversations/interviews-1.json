@@ -1,0 +1,452 @@
+[
+ {
+  "category": "interviews",
+  "context": "Arriving at the office for an interview",
+  "level": "beginner",
+  "en": "Good morning! Are you here for the ten o'clock interview?",
+  "tamil": "காலை வணக்கம்! பத்து மணி இன்டர்வியூக்கு வந்திருக்கீங்களா?",
+  "reply": "Yes, good morning. I'm Karthik, here for the developer position.",
+  "replyTamil": "ஆமாம், காலை வணக்கம். நான் கார்த்திக், டெவலப்பர் பணிக்காக வந்திருக்கேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Waiting room offer of water",
+  "level": "beginner",
+  "en": "Please take a seat. Would you like some water?",
+  "tamil": "உட்காருங்க. கொஞ்சம் தண்ணீர் வேணுமா?",
+  "reply": "Water would be great, thank you. It was a long bus ride.",
+  "replyTamil": "தண்ணீர் கிடைச்சா நல்லா இருக்கும், நன்றி. பஸ் பயணம் ரொம்ப நீளமா இருந்துச்சு."
+ },
+ {
+  "category": "interviews",
+  "context": "Small talk about finding the office",
+  "level": "beginner",
+  "en": "Did you find our office easily?",
+  "tamil": "எங்க ஆபீஸை சுலபமா கண்டுபிடிச்சீங்களா?",
+  "reply": "Yes, the auto driver knew the place. I left early just to be safe.",
+  "replyTamil": "ஆமாம், ஆட்டோ டிரைவருக்கு இடம் தெரிஞ்சிருந்துச்சு. பாதுகாப்புக்காக சீக்கிரமாவே கிளம்பிட்டேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Interviewer is running late",
+  "level": "intermediate",
+  "en": "The panel is running about ten minutes late. Sorry to keep you waiting.",
+  "tamil": "பேனல் ஒரு பத்து நிமிஷம் தாமதமா வராங்க. காத்திருக்க வச்சதுக்கு மன்னிச்சிடுங்க.",
+  "reply": "No problem at all. I'll just go through my notes while I wait.",
+  "replyTamil": "அதனால ஒண்ணும் பிரச்சனை இல்லை. காத்திருக்கும்போது என் குறிப்புகளை ஒரு தடவை பார்த்துக்கிறேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Visitor at the campus gate",
+  "level": "intermediate",
+  "en": "Is this your first visit to our Guindy campus?",
+  "tamil": "எங்க கிண்டி வளாகத்துக்கு நீங்க முதல் தடவையா வர்றீங்களா?",
+  "reply": "It is. The campus is huge! I almost got lost near the second gate.",
+  "replyTamil": "ஆமாம். வளாகம் ரொம்ப பெரிசா இருக்கு! ரெண்டாவது கேட் பக்கத்துல கிட்டத்தட்ட வழி தவறிட்டேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Talking about traffic before the interview",
+  "level": "beginner",
+  "en": "How was the traffic on your way here?",
+  "tamil": "வர்ற வழியில டிராபிக் எப்படி இருந்துச்சு?",
+  "reply": "Honestly, it was terrible near the flyover, but I planned for it, so I'm on time.",
+  "replyTamil": "உண்மையைச் சொன்னா மேம்பாலம் பக்கத்துல ரொம்ப மோசமா இருந்துச்சு. ஆனா முன்னாடியே திட்டமிட்டதால நேரத்துக்கு வந்துட்டேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Filling the visitor register",
+  "level": "beginner",
+  "en": "Please fill in this form and sign the visitor register.",
+  "tamil": "இந்த படிவத்தை நிரப்பி, விசிட்டர் ரெஜிஸ்டர்ல கையெழுத்து போடுங்க.",
+  "reply": "Sure. Should I write my own number here, or the alternate one?",
+  "replyTamil": "சரி. என்னோட நம்பரை எழுதணுமா, இல்ல மாற்று நம்பரை எழுதணுமா?"
+ },
+ {
+  "category": "interviews",
+  "context": "Leaving bag at reception",
+  "level": "intermediate",
+  "en": "You can leave your bag at reception. Only your documents are needed inside.",
+  "tamil": "உங்க பையை ரிசப்ஷன்ல வச்சிடலாம். உள்ள ஆவணங்கள் மட்டும் போதும்.",
+  "reply": "Thanks. May I carry my laptop in, though, in case they ask me to code something?",
+  "replyTamil": "நன்றி. ஆனா கோடிங் ஏதாவது பண்ணச் சொன்னா தேவைப்படும், அதனால லேப்டாப்பை உள்ள எடுத்துட்டுப் போகலாமா?"
+ },
+ {
+  "category": "interviews",
+  "context": "Interviewer notices nervousness",
+  "level": "advanced",
+  "en": "You seem a little nervous. Is this your first interview?",
+  "tamil": "நீங்க கொஞ்சம் பதட்டமா இருக்கற மாதிரி தெரியுது. இது உங்களோட முதல் இன்டர்வியூவா?",
+  "reply": "Is it that obvious? Actually, it's my first one since college, but I'm trying to stay calm.",
+  "replyTamil": "அவ்வளவு தெளிவா தெரியுதா? உண்மையில் காலேஜுக்கு அப்புறம் இது எனக்கு முதல் இன்டர்வியூ. ஆனா அமைதியா இருக்க முயற்சி பண்றேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Security check at reception",
+  "level": "beginner",
+  "en": "Your ID card, please. And keep your phone on silent.",
+  "tamil": "உங்க அடையாள அட்டையைக் காட்டுங்க. போனை சைலன்ட்ல வச்சிடுங்க.",
+  "reply": "Of course, here you go. It's already on silent.",
+  "replyTamil": "கண்டிப்பா, இந்தாங்க. ஏற்கனவே சைலன்ட்ல தான் இருக்கு."
+ },
+ {
+  "category": "interviews",
+  "context": "Opening the interview with an introduction",
+  "level": "beginner",
+  "en": "So, tell me a little about yourself.",
+  "tamil": "சரி, உங்களைப் பத்தி கொஞ்சம் சொல்லுங்க.",
+  "reply": "Sure. I'm Divya, from Madurai. I finished my B.E. in computer science last year, and I enjoy building web apps.",
+  "replyTamil": "சரிங்க. நான் திவ்யா, மதுரையைச் சேர்ந்தவ. போன வருஷம் கம்ப்யூட்டர் சயின்ஸ்ல பி.இ. முடிச்சேன். வெப் ஆப்ஸ் உருவாக்குறது எனக்குப் பிடிக்கும்."
+ },
+ {
+  "category": "interviews",
+  "context": "Asking about hometown",
+  "level": "beginner",
+  "en": "Where are you originally from?",
+  "tamil": "நீங்க பூர்வீகமா எந்த ஊர்?",
+  "reply": "I'm from Tirunelveli, but I've been living in Chennai for five years now.",
+  "replyTamil": "நான் திருநெல்வேலி. ஆனா இப்ப அஞ்சு வருஷமா சென்னையில இருக்கேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Asking for a resume walkthrough",
+  "level": "intermediate",
+  "en": "Could you walk me through your resume in about two minutes?",
+  "tamil": "உங்க ரெஸ்யூமை ஒரு ரெண்டு நிமிஷத்துல விளக்க முடியுமா?",
+  "reply": "Okay. I started as a support engineer, moved into development after a year, and for the last three years I've been working on Angular front ends.",
+  "replyTamil": "சரி. நான் சப்போர்ட் இன்ஜினியரா ஆரம்பிச்சேன். ஒரு வருஷம் கழிச்சு டெவலப்மென்ட்டுக்கு மாறினேன். கடந்த மூணு வருஷமா ஆங்குலர் ஃப்ரண்ட்எண்ட்ல வேலை பார்க்கிறேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Hobbies question",
+  "level": "beginner",
+  "en": "What do you like to do in your free time?",
+  "tamil": "ஓய்வு நேரத்துல என்ன செய்ய உங்களுக்குப் பிடிக்கும்?",
+  "reply": "I play cricket on weekends, and lately I'm trying to learn a bit of photography.",
+  "replyTamil": "வார இறுதியில கிரிக்கெட் விளையாடுவேன். இப்போதைக்கு கொஞ்சம் போட்டோகிராஃபியும் கத்துக்க முயற்சி பண்றேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Self-taught background",
+  "level": "intermediate",
+  "en": "Your resume says you're self-taught in Python. How did that happen?",
+  "tamil": "நீங்க பைதான் சுயமா கத்துக்கிட்டதா ரெஸ்யூம்ல இருக்கு. அது எப்படி நடந்துச்சு?",
+  "reply": "I watched tutorials at night while working in a small shop. Then I built little projects and put them on GitHub.",
+  "replyTamil": "ஒரு சின்ன கடையில வேலை பார்த்துக்கிட்டே ராத்திரியில டியூட்டோரியல் பார்ப்பேன். அப்புறம் சின்ன சின்ன ப்ராஜெக்ட் செஞ்சு கிட்ஹப்ல போட்டேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Family background question",
+  "level": "beginner",
+  "en": "Tell me briefly about your family background.",
+  "tamil": "உங்க குடும்பப் பின்னணியைப் பத்தி சுருக்கமா சொல்லுங்க.",
+  "reply": "My father is a teacher and my mother runs a small tailoring shop. My sister is studying medicine.",
+  "replyTamil": "அப்பா ஆசிரியர், அம்மா ஒரு சின்ன தையல் கடை நடத்துறாங்க. என் தங்கை மருத்துவம் படிக்கிறா."
+ },
+ {
+  "category": "interviews",
+  "context": "Describing yourself in three words",
+  "level": "intermediate",
+  "en": "If you had to describe yourself in three words, what would they be?",
+  "tamil": "உங்களை மூணு வார்த்தையில விவரிக்கணும்னா என்ன சொல்வீங்க?",
+  "reply": "Curious, dependable and a bit stubborn. The stubborn part helps when a bug refuses to go away.",
+  "replyTamil": "ஆர்வம் உள்ளவன், நம்பகமானவன், கொஞ்சம் பிடிவாதக்காரன். ஒரு பக் போகவே மாட்டேங்குதுன்னா, அந்தப் பிடிவாதம் தான் உதவும்."
+ },
+ {
+  "category": "interviews",
+  "context": "Beyond the resume",
+  "level": "advanced",
+  "en": "Beyond what's on paper, is there anything we should know about you?",
+  "tamil": "காகிதத்துல இருக்கறதுக்கு அப்பாற்பட்டு, உங்களைப் பத்தி நாங்க தெரிஞ்சுக்க வேண்டிய ஏதாவது இருக்கா?",
+  "reply": "Well, I'm the first graduate in my family, so I take opportunities seriously. I tend to over-prepare, but it has served me well.",
+  "replyTamil": "நான் எங்க குடும்பத்துலயே முதல் பட்டதாரி, அதனால வாய்ப்புகளை ரொம்ப தீவிரமா எடுத்துக்குவேன். ஓவரா தயாராகிடுவேன், ஆனா அது எனக்கு நல்லாவே உதவியிருக்கு."
+ },
+ {
+  "category": "interviews",
+  "context": "Current employment status",
+  "level": "beginner",
+  "en": "Are you working somewhere right now?",
+  "tamil": "இப்போ எங்கேயாவது வேலை பார்க்கிறீங்களா?",
+  "reply": "Yes, I'm in my second year at a service company in Taramani. I'm looking for better growth.",
+  "replyTamil": "ஆமாம், தரமணியில ஒரு சர்வீஸ் கம்பெனியில ரெண்டாவது வருஷம் வேலை பார்க்கிறேன். இன்னும் நல்ல வளர்ச்சிக்காகத் தேடுறேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "How you got into programming",
+  "level": "advanced",
+  "en": "What got you into programming in the first place?",
+  "tamil": "முதல்ல நீங்க ப்ரோகிராமிங்குக்கு வர்றதுக்கு என்ன காரணம்?",
+  "reply": "Funnily enough, it was a broken Nokia phone. I tried fixing the software, failed, and got hooked on how things actually work.",
+  "replyTamil": "வேடிக்கையா, ஒரு பழுதான நோக்கியா போன் தான். அதோட சாஃப்ட்வேரை சரிசெய்ய முயற்சி பண்ணி தோத்துப் போனேன். ஆனா விஷயங்கள் உண்மையில எப்படி வேலை செய்யுதுன்னு தெரிஞ்சுக்கறதுல மாட்டிக்கிட்டேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Asking about college",
+  "level": "beginner",
+  "en": "Which college did you study in?",
+  "tamil": "எந்த கல்லூரியில படிச்சீங்க?",
+  "reply": "I studied at a government engineering college in Coimbatore. I graduated this April.",
+  "replyTamil": "கோயம்புத்தூர்ல ஒரு அரசு இன்ஜினியரிங் கல்லூரியில படிச்சேன். இந்த ஏப்ரல்ல பட்டம் வாங்கினேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Final year project",
+  "level": "beginner",
+  "en": "What was your final year project about?",
+  "tamil": "உங்க இறுதி ஆண்டு ப்ராஜெக்ட் எதைப் பத்தி?",
+  "reply": "It was a bus tracking app for our college. Students could see the bus location on their phones.",
+  "replyTamil": "எங்க கல்லூரிக்கான பஸ் ட்ராக்கிங் ஆப். மாணவர்கள் தங்க போன்ல பஸ் எங்க இருக்குன்னு பார்க்கலாம்."
+ },
+ {
+  "category": "interviews",
+  "context": "Discussing marks",
+  "level": "intermediate",
+  "en": "Your CGPA is 8.2. Have you been consistent throughout?",
+  "tamil": "உங்க சிஜிபிஏ 8.2. படிப்பு முழுக்க சீரா இருந்தீங்களா?",
+  "reply": "Mostly, yes. My first-year marks were lower because I struggled with English, but I improved every semester.",
+  "replyTamil": "பெரும்பாலும் ஆமாம். முதல் வருஷம் இங்கிலீஷ்ல சிரமப்பட்டதால மார்க் கொஞ்சம் குறைவு, ஆனா ஒவ்வொரு செமஸ்டரும் முன்னேறினேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Checking for arrears",
+  "level": "beginner",
+  "en": "Do you have any arrears pending?",
+  "tamil": "ஏதாவது அரியர் பாக்கி இருக்கா?",
+  "reply": "No, sir. I cleared every subject in the first attempt.",
+  "replyTamil": "இல்லை சார். எல்லா பாடங்களையும் முதல் முயற்சியிலயே பாஸ் பண்ணிட்டேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Fresher without experience",
+  "level": "intermediate",
+  "en": "You're a fresher. How will you manage without industry experience?",
+  "tamil": "நீங்க ஃப்ரெஷர். தொழில்துறை அனுபவம் இல்லாம எப்படி சமாளிப்பீங்க?",
+  "reply": "I know there will be a learning curve, but I did two internships and I pick things up quickly. I'm also happy to take guidance from seniors.",
+  "replyTamil": "கத்துக்க வேண்டியது நிறைய இருக்குன்னு தெரியும். ஆனா ரெண்டு இன்டர்ன்ஷிப் பண்ணியிருக்கேன், சீக்கிரம் புரிஞ்சுப்பேன். சீனியர்கள் கிட்ட வழிகாட்டுதல் வாங்கிக்கவும் தயார்."
+ },
+ {
+  "category": "interviews",
+  "context": "Internship question",
+  "level": "beginner",
+  "en": "Did you do any internship during college?",
+  "tamil": "கல்லூரியில படிக்கும்போது ஏதாவது இன்டர்ன்ஷிப் பண்ணீங்களா?",
+  "reply": "Yes, for two months at a startup in Velachery. I worked on a small billing screen.",
+  "replyTamil": "ஆமாம், வேளச்சேரியில ஒரு ஸ்டார்ட்அப்ல ரெண்டு மாசம். ஒரு சின்ன பில்லிங் ஸ்கிரீன்ல வேலை பார்த்தேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Switching from mechanical to software",
+  "level": "intermediate",
+  "en": "You studied mechanical engineering but applied for a software job. Why?",
+  "tamil": "நீங்க மெக்கானிக்கல் படிச்சிருக்கீங்க, ஆனா சாஃப்ட்வேர் வேலைக்கு விண்ணப்பிச்சிருக்கீங்க. ஏன்?",
+  "reply": "In third year I realised I enjoyed coding more than machines. I completed an online course and built a few projects to prove it to myself.",
+  "replyTamil": "மூணாவது வருஷத்துல இயந்திரங்களை விட கோடிங் தான் எனக்குப் பிடிக்குதுன்னு புரிஞ்சுது. ஆன்லைன் கோர்ஸ் முடிச்சு, எனக்கே நிரூபிக்க சில ப்ராஜெக்ட்களும் செஞ்சேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Asking about certifications held",
+  "level": "beginner",
+  "en": "Do you hold any certifications?",
+  "tamil": "உங்ககிட்ட ஏதாவது சான்றிதழ்கள் இருக்கா?",
+  "reply": "I have a Java certificate from NPTEL and a cloud fundamentals certificate.",
+  "replyTamil": "என்கிட்ட என்பிடிஇஎல்ல வாங்கின ஜாவா சான்றிதழும், கிளவுட் அடிப்படைகள் சான்றிதழும் இருக்கு."
+ },
+ {
+  "category": "interviews",
+  "context": "Favourite subject at college",
+  "level": "intermediate",
+  "en": "Tell me about a subject you really enjoyed at college.",
+  "tamil": "கல்லூரியில நீங்க ரொம்ப ரசிச்சுப் படிச்ச ஒரு பாடத்தைப் பத்தி சொல்லுங்க.",
+  "reply": "Data structures, definitely. Our professor made us solve problems on paper first, and that habit still helps me think clearly.",
+  "replyTamil": "கண்டிப்பா டேட்டா ஸ்ட்ரக்சர்ஸ். எங்க பேராசிரியர் முதல்ல காகிதத்துல பிரச்சனைகளைத் தீர்க்க வைப்பார். அந்தப் பழக்கம் இப்பவும் தெளிவா யோசிக்க உதவுது."
+ },
+ {
+  "category": "interviews",
+  "context": "Failed campus placement",
+  "level": "advanced",
+  "en": "Campus placements didn't work out for you. What happened?",
+  "tamil": "கேம்பஸ் பிளேஸ்மென்ட் உங்களுக்கு கைகூடலை. என்ன ஆச்சு?",
+  "reply": "Honestly, I froze in the aptitude round. I took it as feedback, practised for six months, and I'm much sharper now.",
+  "replyTamil": "உண்மையைச் சொன்னா ஆப்டிட்யூட் சுற்றுல நான் உறைஞ்சு போயிட்டேன். அதை ஒரு பாடமா எடுத்துக்கிட்டு ஆறு மாசம் பயிற்சி பண்ணேன், இப்ப நல்லா தெளிவா இருக்கேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Total work experience so far",
+  "level": "beginner",
+  "en": "Roughly how long have you been working as a developer?",
+  "tamil": "நீங்க டெவலப்பரா வேலை செஞ்சு கிட்டத்தட்ட எவ்வளவு காலம் ஆகுது?",
+  "reply": "It's been a little over three years now, mostly on Angular front-end work.",
+  "replyTamil": "இப்போ மூணு வருஷத்துக்கு கொஞ்சம் மேலயே ஆச்சு, பெரும்பாலும் ஆங்குலர் ஃப்ரண்ட்-எண்ட் வேலை."
+ },
+ {
+  "category": "interviews",
+  "context": "Proudest project",
+  "level": "intermediate",
+  "en": "Tell me about the project you're proudest of.",
+  "tamil": "நீங்க ரொம்பப் பெருமைப்படற ப்ராஜெக்ட்டைப் பத்தி சொல்லுங்க.",
+  "reply": "We built a hospital appointment portal. I handled the booking screens, and waiting time at the counters dropped by almost half.",
+  "replyTamil": "நாங்க ஒரு மருத்துவமனை அப்பாயின்ட்மென்ட் போர்ட்டல் உருவாக்கினோம். புக்கிங் ஸ்கிரீன்களை நான் பார்த்துக்கிட்டேன். கவுன்டர்ல காத்திருக்கற நேரம் கிட்டத்தட்ட பாதியா குறைஞ்சது."
+ },
+ {
+  "category": "interviews",
+  "context": "Current role",
+  "level": "beginner",
+  "en": "What's your role in your current team?",
+  "tamil": "இப்போ இருக்கற டீம்ல உங்க பங்கு என்ன?",
+  "reply": "I'm a software engineer. I write new features and fix bugs in the dashboard.",
+  "replyTamil": "நான் சாஃப்ட்வேர் இன்ஜினியர். டாஷ்போர்டுக்கு புது வசதிகள் எழுதுறேன், பக்களையும் சரிசெய்றேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Team size",
+  "level": "intermediate",
+  "en": "How big is the team you work with?",
+  "tamil": "நீங்க வேலை பார்க்கற டீம் எவ்வளவு பெரிசு?",
+  "reply": "We're eight people: five developers, two testers and a lead. We do a quick standup every morning.",
+  "replyTamil": "எட்டு பேர்: ஐந்து டெவலப்பர்கள், ரெண்டு டெஸ்டர்கள், ஒரு லீட். தினமும் காலையில ஒரு சின்ன ஸ்டாண்டப் பண்ணுவோம்."
+ },
+ {
+  "category": "interviews",
+  "context": "Exact contribution",
+  "level": "intermediate",
+  "en": "What was your exact contribution in that project?",
+  "tamil": "அந்த ப்ராஜெக்ட்ல உங்க சரியான பங்களிப்பு என்ன?",
+  "reply": "I designed the reusable form components and wrote the API integration. The backend was handled by another team.",
+  "replyTamil": "மறுபயன்பாட்டு ஃபார்ம் கம்போனென்ட்களை வடிவமைச்சேன், ஏபிஐ இணைப்பையும் எழுதினேன். பேக்எண்டை வேற டீம் பார்த்துக்கிட்டாங்க."
+ },
+ {
+  "category": "interviews",
+  "context": "Daily tools",
+  "level": "beginner",
+  "en": "Which tools do you use every day?",
+  "tamil": "தினமும் என்னென்ன டூல்ஸ் பயன்படுத்துறீங்க?",
+  "reply": "VS Code, Git, Postman and Jira. Sometimes Chrome DevTools when something breaks.",
+  "replyTamil": "வி.எஸ். கோட், கிட், போஸ்ட்மேன், ஜிரா. ஏதாவது உடைஞ்சா சில சமயம் குரோம் டெவ்டூல்ஸ்."
+ },
+ {
+  "category": "interviews",
+  "context": "Long tenure at one company",
+  "level": "advanced",
+  "en": "That's a long stretch at one company. Did you ever feel stuck?",
+  "tamil": "ஒரே கம்பெனியில ரொம்ப நாள் இருந்திருக்கீங்க. எப்பவாவது தேங்கிட்ட மாதிரி தோணுச்சா?",
+  "reply": "Around the second year, work felt repetitive. I raised it with my manager, took on a migration project, and that reignited my interest.",
+  "replyTamil": "ரெண்டாவது வருஷத்துல வேலை திரும்பத் திரும்ப ஒரே மாதிரி இருந்துச்சு. மேனேஜர்கிட்ட சொன்னேன், ஒரு மைக்ரேஷன் ப்ராஜெக்ட் எடுத்தேன், அது என் ஆர்வத்தை மறுபடி கிளப்பிச்சு."
+ },
+ {
+  "category": "interviews",
+  "context": "Client interaction",
+  "level": "intermediate",
+  "en": "Have you worked directly with clients?",
+  "tamil": "நீங்க வாடிக்கையாளர்களோட நேரடியா வேலை பார்த்திருக்கீங்களா?",
+  "reply": "Yes, mostly on calls. I joined the weekly demos, noted their feedback and explained it to the team.",
+  "replyTamil": "ஆமாம், பெரும்பாலும் கால்ல. வாராந்திர டெமோல கலந்துக்கிட்டு அவங்க கருத்துகளை குறிச்சு டீமுக்கு விளக்குவேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "A project you did not enjoy",
+  "level": "beginner",
+  "en": "Was there a project you didn't enjoy?",
+  "tamil": "நீங்க ரசிக்காத ஏதாவது ப்ராஜெக்ட் இருந்துச்சா?",
+  "reply": "A testing-only project. It was useful, but I missed writing new code.",
+  "replyTamil": "டெஸ்டிங் மட்டும் இருந்த ஒரு ப்ராஜெக்ட். பயனுள்ளது தான், ஆனா புது கோட் எழுதறதை ரொம்ப மிஸ் பண்ணேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Redoing a project",
+  "level": "advanced",
+  "en": "If you could redo one project, what would you change?",
+  "tamil": "ஏதாவது ஒரு ப்ராஜெக்ட்டை திருப்பிச் செய்ய முடிஞ்சா என்ன மாத்துவீங்க?",
+  "reply": "I'd write tests from day one. We skipped them to save time, and we paid for it later with a lot of regression bugs.",
+  "replyTamil": "முதல் நாளிலிருந்தே டெஸ்ட் எழுதுவேன். நேரத்தை மிச்சப்படுத்த அதை விட்டோம், அப்புறம் நிறைய ரிகிரஷன் பக்களால அதுக்கு விலை கொடுத்தோம்."
+ },
+ {
+  "category": "interviews",
+  "context": "Explaining an API simply",
+  "level": "beginner",
+  "en": "What is an API, in simple words?",
+  "tamil": "ஏபிஐ-ன்னா என்னன்னு எளிமையா சொல்லுங்க.",
+  "reply": "It's like a waiter in a restaurant. The app tells the waiter what it wants, and the waiter brings it from the kitchen, which is the server.",
+  "replyTamil": "அது ஹோட்டல்ல இருக்கற சர்வர் மாதிரி. ஆப் தனக்கு என்ன வேணும்னு சர்வர்கிட்ட சொல்லும், அவர் சமையலறையில, அதாவது சர்வர்ல இருந்து கொண்டு வருவார்."
+ },
+ {
+  "category": "interviews",
+  "context": "Debugging missing data on a page",
+  "level": "intermediate",
+  "en": "How would you debug a page that isn't loading its data?",
+  "tamil": "டேட்டா ஏத்தாத ஒரு பக்கத்தை எப்படி டீபக் பண்ணுவீங்க?",
+  "reply": "First I open the network tab to see if the request went out. Then I check the status code and response, and only after that I look at my code.",
+  "replyTamil": "முதல்ல நெட்வொர்க் டேபைத் திறந்து ரிக்வெஸ்ட் போயிருக்கான்னு பார்ப்பேன். அப்புறம் ஸ்டேட்டஸ் கோடும் பதிலும் பார்ப்பேன். அதுக்கு அப்புறம் தான் என் கோடைப் பார்ப்பேன்."
+ },
+ {
+  "category": "interviews",
+  "context": "Purpose of Git",
+  "level": "beginner",
+  "en": "What is Git used for?",
+  "tamil": "கிட் எதுக்குப் பயன்படுது?",
+  "reply": "It keeps track of every change in our code. If something breaks, we can go back to an older version.",
+  "replyTamil": "நம்ம கோட்ல செய்யற ஒவ்வொரு மாற்றத்தையும் அது பதிவு பண்ணும். ஏதாவது உடைஞ்சா பழைய வெர்ஷனுக்குத் திரும்பிப் போயிடலாம்."
+ },
+ {
+  "category": "interviews",
+  "context": "Merge versus rebase",
+  "level": "intermediate",
+  "en": "Can you explain the difference between merge and rebase?",
+  "tamil": "மெர்ஜ்க்கும் ரீபேஸ்க்கும் இடையிலான வித்தியாசத்தை விளக்க முடியுமா?",
+  "reply": "Merge keeps both histories and adds a merge commit. Rebase replays my commits on top of the latest branch, so the history looks like a straight line.",
+  "replyTamil": "மெர்ஜ் ரெண்டு வரலாறுகளையும் வச்சுக்கிட்டு ஒரு மெர்ஜ் கமிட் சேர்க்கும். ரீபேஸ் என் கமிட்களை லேட்டஸ்ட் பிராஞ்ச் மேல திருப்பி வைக்கும், அதனால வரலாறு நேர்க்கோடு மாதிரி இருக்கும்."
+ },
+ {
+  "category": "interviews",
+  "context": "Primary key explained",
+  "level": "beginner",
+  "en": "What is a primary key in a database table?",
+  "tamil": "டேட்டாபேஸ் டேபிள்ல பிரைமரி கீ-ன்னா என்ன?",
+  "reply": "It's a column that uniquely identifies each row, like an Aadhaar number for a person. It can't repeat and can't be empty.",
+  "replyTamil": "ஒவ்வொரு வரிசையையும் தனித்துவமா அடையாளம் காட்டுற ஒரு காலம் அது. ஒருத்தருக்கு ஆதார் எண் மாதிரி. அது திரும்ப வரக்கூடாது, காலியாவும் இருக்கக்கூடாது."
+ },
+ {
+  "category": "interviews",
+  "context": "Why use a database index",
+  "level": "intermediate",
+  "en": "Why would you add an index to a database column?",
+  "tamil": "ஒரு டேட்டாபேஸ் காலத்துக்கு இண்டெக்ஸ் ஏன் சேர்ப்பீங்க?",
+  "reply": "It makes searching faster, like the index at the back of a book. The trade-off is that inserts get a little slower.",
+  "replyTamil": "புத்தகத்தோட பின்னாடி இருக்கற அட்டவணை மாதிரி தேடுறதை வேகமாக்கும். அதுக்கு ஈடா புதுசா சேர்க்கும்போது கொஞ்சம் மெதுவா இருக்கும்."
+ },
+ {
+  "category": "interviews",
+  "context": "Angular data binding",
+  "level": "intermediate",
+  "en": "How does data binding work in Angular?",
+  "tamil": "ஆங்குலர்ல டேட்டா பைண்டிங் எப்படி வேலை செய்யுது?",
+  "reply": "Angular keeps the template and the component in sync. With two-way binding, if the user types in a field, the variable changes, and if the variable changes, the screen updates.",
+  "replyTamil": "ஆங்குலர் டெம்ப்ளேட்டையும் கம்போனென்ட்டையும் ஒத்திசைவா வச்சிருக்கும். டூ-வே பைண்டிங்ல பயனர் ஒரு புலத்துல டைப் பண்ணா வேரியபிள் மாறும், வேரியபிள் மாறினா திரையும் புதுப்பிக்கும்."
+ },
+ {
+  "category": "interviews",
+  "context": "Why TypeScript",
+  "level": "intermediate",
+  "en": "Why would you pick TypeScript over plain JavaScript?",
+  "tamil": "சாதாரண ஜாவாஸ்கிரிப்டை விட டைப்ஸ்கிரிப்டை ஏன் தேர்ந்தெடுப்பீங்க?",
+  "reply": "It catches mistakes while I'm typing, not at runtime. Types also work like documentation, so new people understand the code faster.",
+  "replyTamil": "நான் டைப் பண்ணும்போதே தவறுகளைப் பிடிச்சிடும், ரன் ஆகும்போது இல்ல. டைப்ஸ் ஒரு ஆவணம் மாதிரியும் இருக்கறதால புது ஆட்கள் கோடை சீக்கிரம் புரிஞ்சுக்குவாங்க."
+ },
+ {
+  "category": "interviews",
+  "context": "Pointers in C",
+  "level": "beginner",
+  "en": "Have you worked with C? Tell me what a pointer is.",
+  "tamil": "சி மொழியில வேலை பார்த்திருக்கீங்களா? பாயின்டர்ன்னா என்னன்னு சொல்லுங்க.",
+  "reply": "Yes, in college. A pointer is a variable that stores the address of another variable, not the value itself.",
+  "replyTamil": "ஆமாம், காலேஜ்ல. பாயின்டர்ங்கறது இன்னொரு வேரியபிளோட முகவரியைச் சேமிக்கற வேரியபிள், மதிப்பை இல்லை."
+ },
+ {
+  "category": "interviews",
+  "context": "Slow Linux server",
+  "level": "advanced",
+  "en": "A Linux server has suddenly become slow. Where would you start?",
+  "tamil": "ஒரு லினக்ஸ் சர்வர் திடீர்னு மெதுவாயிடுச்சு. எங்க இருந்து ஆரம்பிப்பீங்க?",
+  "reply": "I'd check the load with top first, then memory and disk space. If one process is hogging the CPU, I'd read its logs before restarting anything.",
+  "replyTamil": "முதல்ல டாப் கமாண்ட்ல லோடைப் பார்ப்பேன், அப்புறம் மெமரி, டிஸ்க் இடம். ஒரு ப்ராசஸ் சிபியூவை முழுசா எடுத்துக்கிட்டிருந்தா, எதையும் ரீஸ்டார்ட் பண்றதுக்கு முன்னாடி அதோட லாக்ஸைப் படிப்பேன்."
+ }
+]

@@ -1,0 +1,377 @@
+[
+ {
+  "en": "By next year, I will have finished my degree.",
+  "tamil": "அடுத்த வருஷம் நான் என் டிகிரியை முடிச்சிருப்பேன்.",
+  "context": "Sharing your future goal in an interview.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "Future perfect (will have + past participle) shows something will be complete by a future time.",
+  "words": [
+   "degree",
+   "finished"
+  ],
+  "usage": "Use it to describe a goal you will complete by a certain time.",
+  "leelaQ": "What will you have achieved by next year?",
+  "answer": "I will have learned to speak English fluently."
+ },
+ {
+  "en": "This time tomorrow, I will be travelling to Delhi.",
+  "tamil": "நாளைக்கு இந்த நேரம் நான் டெல்லிக்கு பயணம் பண்ணிட்டு இருப்பேன்.",
+  "context": "Telling a colleague your travel plans.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "Future continuous (will be + verb-ing) shows an action that will be in progress at a future time.",
+  "words": [
+   "travelling",
+   "tomorrow"
+  ],
+  "usage": "Use it to explain where you will be at a certain time.",
+  "leelaQ": "Where will you be this time next week?",
+  "answer": "I will be sitting in my office this time next week."
+ },
+ {
+  "en": "Not only is he smart, but he is also kind.",
+  "tamil": "அவன் புத்திசாலி மட்டுமில்ல, அன்பானவனும் கூட.",
+  "context": "Praising a friend to others.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Not only ... but also' joins two good points; the word order flips after 'Not only'.",
+  "words": [
+   "smart",
+   "kind"
+  ],
+  "usage": "Use it when you speak highly of someone.",
+  "leelaQ": "Who is a person you admire, and why?",
+  "answer": "My teacher is not only strict, but also very kind."
+ },
+ {
+  "en": "Speaking in English every day makes you more confident.",
+  "tamil": "தினமும் ஆங்கிலத்துல பேசறது உன்ன இன்னும் தன்னம்பிக்கை ஆக்கும்.",
+  "context": "Motivating a classmate.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "A verb-ing phrase (a gerund) can be the subject of a sentence.",
+  "words": [
+   "speaking",
+   "confident"
+  ],
+  "usage": "Use it when you give advice about learning habits.",
+  "leelaQ": "What helps you feel confident when you speak?",
+  "answer": "Speaking slowly and clearly helps me feel confident."
+ },
+ {
+  "en": "I'm waiting for the bus, so I'll text you later.",
+  "tamil": "நான் பஸ்ஸுக்கு காத்துட்டு இருக்கேன், அதனால அப்புறம் மெசேஜ் பண்றேன்.",
+  "context": "Replying to a friend's call while outside.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'So' joins a reason with a result. Present continuous shows what is happening now.",
+  "words": [
+   "waiting",
+   "text"
+  ],
+  "usage": "Use it when you cannot talk because you are busy.",
+  "leelaQ": "What are you waiting for these days?",
+  "answer": "I am waiting for my exam results."
+ },
+ {
+  "en": "Hurry up, we're running out of time.",
+  "tamil": "சீக்கிரம், நமக்கு நேரம் முடிஞ்சிட்டு இருக்கு.",
+  "context": "Telling a friend before an exam or a train.",
+  "tense": "present-continuous",
+  "type": "request",
+  "explain": "'Run out of' means to have no more of something; the imperative 'Hurry up' urges quick action.",
+  "words": [
+   "hurry",
+   "time"
+  ],
+  "usage": "Use it with friends or family when time is short.",
+  "leelaQ": "What do you say when you are running late?",
+  "answer": "I say, hurry up, we are running late."
+ },
+ {
+  "en": "Wait here, I'll get the car.",
+  "tamil": "இங்கயே இரு, நான் காரை எடுத்துட்டு வரேன்.",
+  "context": "Telling an elderly relative at the hospital.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Wait here' is a direct instruction; 'I'll' adds a quick decision.",
+  "words": [
+   "wait",
+   "car"
+  ],
+  "usage": "Use it when you ask someone to stay while you do something.",
+  "leelaQ": "What do you tell your parents when you go to get something?",
+  "answer": "I tell them to sit here while I bring it."
+ },
+ {
+  "en": "Do you want me to help you with the luggage?",
+  "tamil": "லக்கேஜ் எடுக்க நான் உதவி பண்ணட்டுமா?",
+  "context": "Offering help at the railway station.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you want me to' + verb is a natural way to offer help.",
+  "words": [
+   "luggage",
+   "help"
+  ],
+  "usage": "Use it to offer help to a friend or traveller.",
+  "leelaQ": "How do you offer help to a friend who is moving house?",
+  "answer": "I say, do you want me to carry some boxes?"
+ },
+ {
+  "en": "Are you free this Saturday afternoon?",
+  "tamil": "இந்த சனிக்கிழமை மதியம் நீ ஃப்ரீயா?",
+  "context": "Inviting a friend for lunch.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Are you free' is a simple way to ask if someone is available.",
+  "words": [
+   "free",
+   "saturday"
+  ],
+  "usage": "Use it to invite a friend or colleague.",
+  "leelaQ": "What do you do when you are free on Saturdays?",
+  "answer": "I meet my friends and play cricket."
+ },
+ {
+  "en": "Whose bag is this on the chair?",
+  "tamil": "நாற்காலியில இருக்குற இந்த பை யாரோடது?",
+  "context": "Finding the owner of a lost bag.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Whose' asks about the owner of something.",
+  "words": [
+   "whose",
+   "bag"
+  ],
+  "usage": "Use it in a class or office when you find something left behind.",
+  "leelaQ": "What do you ask if you find a wallet on the road?",
+  "answer": "I ask, whose wallet is this?"
+ },
+ {
+  "en": "The movie had already started when we got there.",
+  "tamil": "நாங்க அங்க போனப்போ படம் ஏற்கனவே ஆரம்பிச்சிருச்சு.",
+  "context": "Telling a friend about a missed start.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past perfect shows the earlier event ('had started') before 'got there'.",
+  "words": [
+   "movie",
+   "started"
+  ],
+  "usage": "Use it to explain why you missed something.",
+  "leelaQ": "Have you ever reached a movie late? What happened?",
+  "answer": "Yes, the movie had started and we missed the first scene."
+ },
+ {
+  "en": "It's the first time I have flown in an aeroplane.",
+  "tamil": "நான் விமானத்துல பறக்கறது இதுதான் முதல் தடவை.",
+  "context": "Sharing your excitement with a co-passenger.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'It's the first time' is followed by present perfect.",
+  "words": [
+   "first time",
+   "aeroplane"
+  ],
+  "usage": "Use it to share a new experience with others.",
+  "leelaQ": "What is a first-time experience you remember?",
+  "answer": "It was my first time riding a metro train."
+ },
+ {
+  "en": "I've been learning English for six months.",
+  "tamil": "நான் ஆறு மாசமா ஆங்கிலம் கத்துக்கிட்டு இருக்கேன்.",
+  "context": "Introducing yourself in a language class.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect continuous with 'for' shows how long an action has been going on.",
+  "words": [
+   "learning",
+   "months"
+  ],
+  "usage": "Use it to tell someone about your learning journey.",
+  "leelaQ": "How long have you been learning English?",
+  "answer": "I have been learning English for one year."
+ },
+ {
+  "en": "I haven't seen him since last year.",
+  "tamil": "நான் அவனை போன வருஷத்துல இருந்து பாக்கல.",
+  "context": "Talking about an old friend.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Since' + a point in time is used with present perfect to show the start of a period.",
+  "words": [
+   "since",
+   "last year"
+  ],
+  "usage": "Use it when you talk about a person or place you have not met for a long time.",
+  "leelaQ": "Who haven't you met for a long time?",
+  "answer": "I haven't met my school friends for five years."
+ },
+ {
+  "en": "Let me know if you need anything.",
+  "tamil": "உனக்கு ஏதாவது வேணும்னா சொல்லு.",
+  "context": "Offering help to a new colleague.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me know' + if-clause is a friendly way to offer help.",
+  "words": [
+   "let me know",
+   "anything"
+  ],
+  "usage": "Use it at work or home to show you are ready to help.",
+  "leelaQ": "What do you say to a friend who is moving to a new place?",
+  "answer": "I say, let me know if you need any help."
+ },
+ {
+  "en": "Take your time, there is no hurry.",
+  "tamil": "மெதுவா பண்ணுங்க, அவசரம் இல்ல.",
+  "context": "Reassuring a nervous colleague.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Take your time' is a kind phrase that tells someone not to rush.",
+  "words": [
+   "take your time",
+   "hurry"
+  ],
+  "usage": "Use it when someone feels pressure and needs reassurance.",
+  "leelaQ": "What do you say to a friend who is nervous?",
+  "answer": "I say, take your time, there is no hurry."
+ },
+ {
+  "en": "Give me a call when you reach home.",
+  "tamil": "வீட்டுக்கு போனதும் எனக்கு ஒரு கால் பண்ணு.",
+  "context": "Saying goodbye to a friend at night.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Give me a call' is an informal imperative meaning to phone me.",
+  "words": [
+   "call",
+   "reach"
+  ],
+  "usage": "Use it with friends or family when you care about their safe arrival.",
+  "leelaQ": "What do you tell a friend who is travelling alone?",
+  "answer": "I tell him to call me when he reaches home."
+ },
+ {
+  "en": "Please sit down and make yourself comfortable.",
+  "tamil": "தயவு செய்து உட்காருங்க, சங்கோஜம் இல்லாம இருங்க.",
+  "context": "Welcoming a guest into your home.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Two imperatives joined by 'and' give a warm welcome.",
+  "words": [
+   "sit down",
+   "comfortable"
+  ],
+  "usage": "Use it when you welcome guests to your home.",
+  "leelaQ": "What do you say when a guest arrives at your home?",
+  "answer": "I say, please sit down and have some water."
+ },
+ {
+  "en": "Mind the gap while stepping into the train.",
+  "tamil": "ரயில்ல ஏறும்போது இடைவெளியை கவனிச்சு ஏறுங்க.",
+  "context": "Warning a child at the metro station.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Mind' + noun is an imperative that means 'be careful of'.",
+  "words": [
+   "mind",
+   "gap"
+  ],
+  "usage": "Use it for a safety warning in public places.",
+  "leelaQ": "What safety warnings do you know from public places?",
+  "answer": "I know 'mind the step' and 'wet floor'."
+ },
+ {
+  "en": "He neither called nor sent a message.",
+  "tamil": "அவன் கால் பண்ணவும் இல்ல, மெசேஜ் அனுப்பவும் இல்ல.",
+  "context": "Complaining about a friend's silence.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Neither ... nor' joins two negative ideas; the verb itself stays in positive form.",
+  "words": [
+   "neither",
+   "message"
+  ],
+  "usage": "Use it when you complain gently about someone who did nothing.",
+  "leelaQ": "Has someone ever forgotten to call you? What happened?",
+  "answer": "My friend neither called nor texted on my birthday."
+ },
+ {
+  "en": "Make sure you lock the door.",
+  "tamil": "கதவை பூட்டியாச்சான்னு பாத்துக்கோ.",
+  "context": "Reminding a family member leaving home.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Make sure' + clause tells someone to be certain something is done.",
+  "words": [
+   "make sure",
+   "lock"
+  ],
+  "usage": "Use it with family or roommates before leaving home.",
+  "leelaQ": "What do you make sure of before you sleep?",
+  "answer": "I make sure the doors are locked and the gas is off."
+ },
+ {
+  "en": "Where did you buy that lovely saree?",
+  "tamil": "அந்த அழகான புடவையை எங்க வாங்கின?",
+  "context": "Asking a relative at a function.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Past simple question: where + did + subject + base verb.",
+  "words": [
+   "saree",
+   "buy"
+  ],
+  "usage": "Use it to start a friendly chat about clothes or shopping.",
+  "leelaQ": "Where did you buy your favourite shirt?",
+  "answer": "I bought it at a small shop near my house."
+ },
+ {
+  "en": "Who is going to cook tonight?",
+  "tamil": "இன்னைக்கு ராத்திரி யார் சமைக்கப் போறாங்க?",
+  "context": "Asking family members at home.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Who is going to' asks about a plan or intention.",
+  "words": [
+   "cook",
+   "tonight"
+  ],
+  "usage": "Use it at home when you share household work.",
+  "leelaQ": "Who cooks in your house on Sundays?",
+  "answer": "My father cooks on Sundays, and he makes biryani."
+ },
+ {
+  "en": "What did the doctor say about your knee?",
+  "tamil": "உன் முழங்கால் பத்தி டாக்டர் என்ன சொன்னார்?",
+  "context": "Asking a relative who visited a hospital.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'What did ... say' is a past simple question about a conversation.",
+  "words": [
+   "doctor",
+   "knee"
+  ],
+  "usage": "Use it to ask about someone's health with care.",
+  "leelaQ": "What did your doctor say the last time you visited?",
+  "answer": "He said I should rest and drink more water."
+ },
+ {
+  "en": "Is there a pharmacy near here?",
+  "tamil": "பக்கத்துல மெடிக்கல் ஷாப் இருக்கா?",
+  "context": "Asking a stranger in an unknown area.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there' asks if something exists in a place.",
+  "words": [
+   "pharmacy",
+   "near"
+  ],
+  "usage": "Use it when you travel and need a shop quickly.",
+  "leelaQ": "What do you ask when you are in a new town?",
+  "answer": "I ask, is there a good restaurant near here?"
+ }
+]

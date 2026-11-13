@@ -1,0 +1,45 @@
+{
+  "name": "my-english-buddy",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Offline English practice app for Tamil speakers: vocabulary, sentences, daily lessons, speaking practice and live conversation with Lela.",
+  "scripts": {
+    "prestart": "node scripts/sync-db.mjs",
+    "start": "ng serve",
+    "prebuild": "node scripts/sync-db.mjs",
+    "build": "ng build && node scripts/make-precache.mjs",
+    "data": "node scripts/build-data.mjs",
+    "data:check": "node scripts/build-data.mjs --check",
+    "db": "node scripts/sync-db.mjs",
+    "conversations:add": "node scripts/add-conversations.mjs",
+    "db:check": "node scripts/sync-db.mjs --check",
+    "api": "npx --yes json-server@0.17.4 db.json --port 3000",
+    "test": "tsx --test test/*.test.ts",
+    "test:data": "node --test test/data.test.mjs",
+    "android:setup": "node scripts/android-setup.mjs",
+    "android:check": "node scripts/android-setup.mjs --check",
+    "android:sync": "npm run build && node scripts/android-setup.mjs && npx cap sync android"
+  },
+  "dependencies": {
+    "@angular/common": "^20.3.0",
+    "@angular/compiler": "^20.3.0",
+    "@angular/core": "^20.3.0",
+    "@angular/platform-browser": "^20.3.0",
+    "@angular/router": "^20.3.0",
+    "@capacitor-community/speech-recognition": "^7.0.1",
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/core": "^8.6.2",
+    "capacitor-native-settings": "^8.2.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.6.0",
+    "zone.js": "~0.15.0"
+  },
+  "devDependencies": {
+    "@angular/build": "^20.3.0",
+    "@angular/cli": "^20.3.0",
+    "@angular/compiler-cli": "^20.3.0",
+    "@capacitor/cli": "^8.6.2",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.2"
+  }
+}

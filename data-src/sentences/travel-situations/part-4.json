@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Where can I find an auto stand near the railway station?",
+  "tamil": "ரயில்வே ஸ்டேஷன் பக்கத்துல ஆட்டோ ஸ்டாண்ட் எங்க இருக்கு?",
+  "context": "Asking a local person for help after getting down from a train.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Where can I find' is a useful pattern to ask for the place of anything.",
+  "words": [
+   "auto stand",
+   "railway station"
+  ],
+  "usage": "Ask a shopkeeper or a policeman when you are new to a town.",
+  "leelaQ": "How do you go home from the railway station?",
+  "answer": "I usually take an auto from the stand outside the station."
+ },
+ {
+  "en": "The driver is taking a longer route to get more money.",
+  "tamil": "டிரைவர் அதிக காசுக்காக சுத்தி போறாரு.",
+  "context": "Telling a friend in the cab that something looks wrong.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous shows something happening right now. Use it carefully because it blames someone.",
+  "words": [
+   "route",
+   "driver"
+  ],
+  "usage": "Say it quietly to a friend when a cab goes the wrong way.",
+  "leelaQ": "What will you do if a cab driver takes a wrong route?",
+  "answer": "I will check the map and ask him to turn back."
+ },
+ {
+  "en": "Please wake me up when we reach Madurai.",
+  "tamil": "மதுரை வந்ததும் என்னை எழுப்பி விடுங்க.",
+  "context": "Asking a co-passenger on a night train.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' plus a command is a polite request. 'When we reach' tells the time clearly.",
+  "words": [
+   "wake",
+   "reach"
+  ],
+  "usage": "Say it to a nearby passenger or the bus conductor on an overnight journey.",
+  "leelaQ": "Do you sleep well during night journeys?",
+  "answer": "Not really, so I set an alarm on my phone."
+ },
+ {
+  "en": "My phone battery is dead, so I cannot show the e-ticket.",
+  "tamil": "என் போன் பேட்டரி தீர்ந்துடுச்சு, அதனால இ-டிக்கெட் காட்ட முடியல.",
+  "context": "Explaining a problem to the ticket checker.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Cannot' shows you are not able to do something. The 'so' part gives the reason first.",
+  "words": [
+   "battery",
+   "e-ticket"
+  ],
+  "usage": "Tell the ticket checker or a security guard when your phone has a problem.",
+  "leelaQ": "Do you carry a power bank when you travel?",
+  "answer": "Yes, I always keep a power bank in my bag."
+ },
+ {
+  "en": "Let us take a taxi because it is raining heavily.",
+  "tamil": "நல்ல மழை பெய்யறதால டாக்ஸி எடுத்துக்கலாம்.",
+  "context": "Suggesting a change of plan to a friend.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Let us' is used to make a suggestion. 'Because' gives the reason.",
+  "words": [
+   "taxi",
+   "heavily"
+  ],
+  "usage": "Use it when you and your friends or family must decide quickly how to travel.",
+  "leelaQ": "What do you do when it rains on a trip?",
+  "answer": "We stay inside and play cards, or we take a taxi."
+ },
+ {
+  "en": "Do you have a room with a view of the sea?",
+  "tamil": "கடல் தெரியற மாதிரி ரூம் இருக்கா?",
+  "context": "Asking at the hotel reception.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you have' is a simple way to ask if something is available.",
+  "words": [
+   "view",
+   "sea"
+  ],
+  "usage": "Ask this at the hotel counter or when booking on the phone.",
+  "leelaQ": "What kind of room do you like in a hotel?",
+  "answer": "I like a quiet room with a big window."
+ },
+ {
+  "en": "I have lost my wallet, and I need to call the police.",
+  "tamil": "என் பர்ஸ் தொலைஞ்சு போச்சு, நான் போலீஸுக்கு போன் பண்ணனும்.",
+  "context": "Reporting a problem to a stranger for help.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have lost' shows a past action with a result now. Say it clearly in an emergency.",
+  "words": [
+   "wallet",
+   "police"
+  ],
+  "usage": "Use it to ask a shopkeeper or hotel staff for help when something is stolen.",
+  "leelaQ": "What will you do if you lose your wallet in a new city?",
+  "answer": "I will call the bank and then go to the police station."
+ },
+ {
+  "en": "Is there a pharmacy open at this hour nearby?",
+  "tamil": "இந்த நேரத்துல பக்கத்துல மெடிக்கல் ஷாப் திறந்திருக்கா?",
+  "context": "Asking the hotel staff late at night.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'At this hour' means at this time of the day or night. It is a polite and natural phrase.",
+  "words": [
+   "pharmacy",
+   "nearby"
+  ],
+  "usage": "Ask at the hotel reception when someone feels sick at night.",
+  "leelaQ": "Do you keep medicines in your travel bag?",
+  "answer": "Yes, I keep tablets for fever and stomach pain."
+ },
+ {
+  "en": "The tour guide will pick us up from the hotel at eight.",
+  "tamil": "டூர் கைடு காலை எட்டு மணிக்கு ஹோட்டல்ல இருந்து எங்களை கூட்டிட்டு போவாரு.",
+  "context": "Telling your family the plan for tomorrow.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' is used for a plan or promise about the future. 'Pick up' means to collect someone.",
+  "words": [
+   "tour guide",
+   "pick"
+  ],
+  "usage": "Use it to share the plan for the next day with your group.",
+  "leelaQ": "What time does your day start on a trip?",
+  "answer": "It starts at seven, with breakfast at the hotel."
+ },
+ {
+  "en": "I booked two tickets online, but I did not get the confirmation.",
+  "tamil": "ஆன்லைன்ல ரெண்டு டிக்கெட் புக் பண்ணினேன், ஆனா கன்ஃபர்மேஷன் வரல.",
+  "context": "Complaining at a customer care desk.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'But' joins two ideas that are opposite. 'Did not get' is the negative of the simple past.",
+  "words": [
+   "confirmation",
+   "booked"
+  ],
+  "usage": "Say it to the customer care of a booking app or a railway counter.",
+  "leelaQ": "Do you book tickets online or at the counter?",
+  "answer": "I book them online because it is faster."
+ },
+ {
+  "en": "Can you please share your live location with me?",
+  "tamil": "உங்க லைவ் லொகேஷனை எனக்கு அனுப்ப முடியுமா?",
+  "context": "Asking a friend who is picking you up.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Share your location' is a common modern request. 'Please' keeps it polite.",
+  "words": [
+   "live location",
+   "share"
+  ],
+  "usage": "Use it with a driver or friend who will meet you in a new place.",
+  "leelaQ": "How do you find a place you do not know?",
+  "answer": "I open the map on my phone and follow it."
+ },
+ {
+  "en": "What time does the last bus to Pondicherry leave?",
+  "tamil": "பாண்டிச்சேரிக்கு கடைசி பஸ் எத்தனை மணிக்கு போகும்?",
+  "context": "Asking at the bus stand enquiry counter.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Does' goes with the question, so the verb 'leave' has no -s. Timetables use the simple present.",
+  "words": [
+   "last bus",
+   "leave"
+  ],
+  "usage": "Ask at the enquiry counter when you plan to return late.",
+  "leelaQ": "Have you ever missed the last bus?",
+  "answer": "Yes, once, and I had to take an auto home."
+ },
+ {
+  "en": "We should reach the airport two hours before the flight.",
+  "tamil": "நாம பிளைட்டுக்கு ரெண்டு மணி நேரம் முன்னாடியே ஏர்போர்ட் போகணும்.",
+  "context": "Giving advice to a friend who is travelling.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' gives advice. 'Two hours before' shows how early to be.",
+  "words": [
+   "airport",
+   "before"
+  ],
+  "usage": "Say it to a friend or relative who is flying for the first time.",
+  "leelaQ": "How early do you go to the airport?",
+  "answer": "I go two hours early to avoid the rush."
+ },
+ {
+  "en": "Sorry, I do not know this area, I am a tourist.",
+  "tamil": "மன்னிக்கணும், இந்த ஏரியா எனக்கு தெரியாது, நான் ஒரு டூரிஸ்ட்.",
+  "context": "Replying to a stranger who asks for directions.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Do not know' is a simple, polite way to say you cannot help. A short reason sounds kind.",
+  "words": [
+   "area",
+   "tourist"
+  ],
+  "usage": "Use it when a stranger asks you for directions in a place you are visiting.",
+  "leelaQ": "What do you say when someone asks for directions and you do not know?",
+  "answer": "I say sorry and suggest they ask a shopkeeper."
+ },
+ {
+  "en": "The hotel staff have been very helpful since we arrived.",
+  "tamil": "நாங்க வந்ததுல இருந்து ஹோட்டல் ஸ்டாஃப் ரொம்ப உதவியா இருக்காங்க.",
+  "context": "Giving feedback at check-out.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been' with 'since' shows something that started in the past and continues now.",
+  "words": [
+   "helpful",
+   "staff"
+  ],
+  "usage": "Say it to the manager or in a review when you are happy with the service.",
+  "leelaQ": "What makes a hotel stay good for you?",
+  "answer": "Clean rooms and friendly staff make it good for me."
+ },
+ {
+  "en": "Please show me the way to the bus stand on the map.",
+  "tamil": "பஸ் ஸ்டாண்டுக்கு போற வழியை மேப்ல காட்டுங்க.",
+  "context": "Asking a local person with your phone in hand.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Showing the map on your phone makes the answer easier for both of you.",
+  "words": [
+   "bus stand",
+   "map"
+  ],
+  "usage": "Use it when words are not enough and you need a local person to point the way.",
+  "leelaQ": "Do you use a map app on your phone?",
+  "answer": "Yes, I use it every time I go to a new place."
+ },
+ {
+  "en": "I am afraid of heights, so I will not take the cable car.",
+  "tamil": "எனக்கு உயரம்னா பயம், அதனால கேபிள் கார்ல போக மாட்டேன்.",
+  "context": "Telling friends at a hill station.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'I am afraid of' tells your fear. 'Will not' shows a firm decision for the future.",
+  "words": [
+   "heights",
+   "cable car"
+  ],
+  "usage": "Use it with friends when you want to skip a ride or an activity politely.",
+  "leelaQ": "What activity do you avoid on trips?",
+  "answer": "I avoid boat rides because I cannot swim."
+ },
+ {
+  "en": "How long does it take to reach Ooty by road?",
+  "tamil": "ஊட்டிக்கு ரோட்டுல போக எவ்வளவு நேரம் ஆகும்?",
+  "context": "Asking a travel agent.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How long does it take' is the common way to ask about the travel time.",
+  "words": [
+   "reach",
+   "by road"
+  ],
+  "usage": "Ask a travel agent, a driver or a friend before you plan a trip.",
+  "leelaQ": "Which place do you like to visit by road?",
+  "answer": "I like going to the hills by road with my family."
+ },
+ {
+  "en": "The guide told us to be back at the bus by five.",
+  "tamil": "கைடு எங்களை அஞ்சு மணிக்குள்ள பஸ்ஸுக்கு வரச் சொன்னாரு.",
+  "context": "Telling a friend what the guide said.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Told us to' reports an instruction. 'By five' means at or before five.",
+  "words": [
+   "guide",
+   "back"
+  ],
+  "usage": "Use it to repeat the instruction to others in your group on a tour.",
+  "leelaQ": "What do you do if your tour group leaves without you?",
+  "answer": "I call the guide at once and tell him where I am."
+ },
+ {
+  "en": "Could you keep my luggage here until the evening?",
+  "tamil": "என் லக்கேஜை சாயங்காலம் வரைக்கும் இங்க வெச்சுக்க முடியுமா?",
+  "context": "Asking at the hotel counter after check-out.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Until' shows the time limit. Hotels often keep bags for guests.",
+  "words": [
+   "luggage",
+   "until"
+  ],
+  "usage": "Ask the hotel staff or the railway cloak room when you have free hours before leaving.",
+  "leelaQ": "Where do you keep your bags when you wait for a train?",
+  "answer": "I keep them at the cloak room in the station."
+ },
+ {
+  "en": "The rooms were clean, but the food was not good.",
+  "tamil": "ரூம்கள் சுத்தமா இருந்தது, ஆனா சாப்பாடு நல்லா இல்ல.",
+  "context": "Telling a friend about a hotel.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'But' joins a good point and a bad point. 'Was not' is the negative of 'was'.",
+  "words": [
+   "clean",
+   "food"
+  ],
+  "usage": "Use it when friends ask you for an honest opinion about a hotel.",
+  "leelaQ": "How was the food on your last trip?",
+  "answer": "It was good, and I tried many local dishes."
+ },
+ {
+  "en": "We are going to visit the beach as soon as the rain stops.",
+  "tamil": "மழை நின்னதும் நாங்க பீச்சுக்கு போகப் போறோம்.",
+  "context": "Sharing your plan with the hotel receptionist.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' shows a plan. 'As soon as' means immediately after.",
+  "words": [
+   "beach",
+   "rain"
+  ],
+  "usage": "Use it when you tell someone your plan and it depends on the weather.",
+  "leelaQ": "What is your plan for the next holiday?",
+  "answer": "I am going to visit my grandparents in my village."
+ },
+ {
+  "en": "Does this train have a pantry car?",
+  "tamil": "இந்த ட்ரெயின்ல பேன்ட்ரி கார் இருக்கா?",
+  "context": "Asking the ticket checker or a co-passenger.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Pantry car' is the coach in a train where food is made. The question uses 'does ... have'.",
+  "words": [
+   "pantry car",
+   "train"
+  ],
+  "usage": "Ask the staff when you plan a long train journey and want to buy food.",
+  "leelaQ": "Do you carry food from home on a train?",
+  "answer": "Yes, my mother packs lunch for me."
+ },
+ {
+  "en": "I am looking for a cheap hotel near the beach.",
+  "tamil": "நான் பீச் பக்கத்துல ஒரு சீப்பான ஹோட்டல் தேடிட்டு இருக்கேன்.",
+  "context": "Talking to a travel agent.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Looking for' means searching. Present continuous shows you are doing it now.",
+  "words": [
+   "cheap",
+   "looking"
+  ],
+  "usage": "Use it at a travel agency or the hotel counter when you need a room within your budget.",
+  "leelaQ": "What do you check before you book a hotel?",
+  "answer": "I check the price, the location and the reviews."
+ },
+ {
+  "en": "Please do not forget to carry your ID card for the check-in.",
+  "tamil": "செக்-இன்னுக்கு உங்க ஐடி கார்டை எடுத்துட்டு வர மறக்காதீங்க.",
+  "context": "Reminding a friend before a hotel stay.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Do not forget' is a friendly reminder. Hotels in India need an ID proof at check-in.",
+  "words": [
+   "forget",
+   "check-in"
+  ],
+  "usage": "Say it to family or friends before you all leave for a trip.",
+  "leelaQ": "What things do you pack first for a trip?",
+  "answer": "I pack my ID card, charger and some clothes first."
+ }
+]

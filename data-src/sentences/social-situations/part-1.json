@@ -1,0 +1,376 @@
+[
+ {
+  "en": "Hi, I don't think we have met. I'm Karthik.",
+  "tamil": "ஹாய், நாம சந்திச்சதில்லன்னு நினைக்கிறேன். நான் கார்த்திக்.",
+  "context": "Introducing yourself to a stranger at a party.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'I don't think we have met' is a polite way to start talking to someone new.",
+  "words": [
+   "met",
+   "think"
+  ],
+  "usage": "Use it at a party or function when you want to introduce yourself to someone.",
+  "leelaQ": "How do you start a talk with a new person at a party?",
+  "answer": "I say hi and tell my name with a smile."
+ },
+ {
+  "en": "Nice to meet you. I have heard a lot about you.",
+  "tamil": "உங்களை சந்திச்சதுல சந்தோஷம். உங்களைப் பத்தி நிறைய கேள்விப்பட்டிருக்கேன்.",
+  "context": "Meeting a friend's relative for the first time.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'I have heard a lot about you' is a warm line that makes the other person feel good.",
+  "words": [
+   "meet",
+   "heard"
+  ],
+  "usage": "Say it when a friend or colleague introduces you to someone new.",
+  "leelaQ": "What do you say when a friend introduces you to his family?",
+  "answer": "I say nice to meet you and smile."
+ },
+ {
+  "en": "Which part of Tamil Nadu is your family from?",
+  "tamil": "உங்க குடும்பம் தமிழ்நாட்டுல எந்தப் பகுதி?",
+  "context": "Making small talk with a new neighbour.",
+  "tense": "present",
+  "type": "question",
+  "explain": "This question asks about someone's family roots in a friendly way.",
+  "words": [
+   "family",
+   "part"
+  ],
+  "usage": "Ask it to a new acquaintance when you want to start a friendly chat.",
+  "leelaQ": "Which part of your state is your family from?",
+  "answer": "My family is from the Coimbatore side."
+ },
+ {
+  "en": "Please come in and make yourself at home.",
+  "tamil": "தயவு செஞ்சு உள்ள வாங்க, உங்க வீடு மாதிரி நினைச்சுக்கோங்க.",
+  "context": "Welcoming guests at your front door.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Make yourself at home' means feel free and comfortable here.",
+  "words": [
+   "come in",
+   "at home"
+  ],
+  "usage": "Say it to guests when they enter your house for the first time.",
+  "leelaQ": "How do you welcome guests who come to your house?",
+  "answer": "I open the door, smile and ask them to sit down."
+ },
+ {
+  "en": "Thank you so much for inviting us tonight.",
+  "tamil": "இன்னைக்கு எங்களை கூப்பிட்டதுக்கு ரொம்ப நன்றி.",
+  "context": "Thanking the host at a dinner party.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Thank you for' is followed by an -ing word: inviting, helping, coming.",
+  "words": [
+   "inviting",
+   "tonight"
+  ],
+  "usage": "Say it to the host when you arrive or when you leave a party.",
+  "leelaQ": "Did you thank the host the last time you went to a party?",
+  "answer": "Yes, I thanked the host before I left."
+ },
+ {
+  "en": "The food was delicious, especially the biryani.",
+  "tamil": "சாப்பாடு ரொம்ப சுவையா இருந்துச்சு, குறிப்பா பிரியாணி.",
+  "context": "Praising the food at a friend's house.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Especially' points to the one thing you liked the most.",
+  "words": [
+   "delicious",
+   "especially"
+  ],
+  "usage": "Say it to the host after a meal to make them happy.",
+  "leelaQ": "What was the best dish you ate at a party?",
+  "answer": "The best dish I ate was my aunt's chicken biryani."
+ },
+ {
+  "en": "Can I get you something to drink?",
+  "tamil": "உங்களுக்கு குடிக்க ஏதாவது எடுத்துட்டு வரட்டுமா?",
+  "context": "Offering a drink to a guest at home.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can I get you...?' is a friendly way to offer something to a guest.",
+  "words": [
+   "drink"
+  ],
+  "usage": "Use it when a guest or visitor comes to your home or table.",
+  "leelaQ": "What do you offer a guest when he comes home?",
+  "answer": "I offer him tea or cold water first."
+ },
+ {
+  "en": "Sorry, could you tell me your name once more?",
+  "tamil": "மன்னிச்சிடுங்க, உங்க பேரை இன்னொரு தடவை சொல்றீங்களா?",
+  "context": "Asking a new person to repeat their name.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is a polite way to ask. 'Once more' means one more time.",
+  "words": [
+   "name",
+   "once more"
+  ],
+  "usage": "Use it when you did not hear a name clearly in a noisy place.",
+  "leelaQ": "What do you do when you do not hear someone's name?",
+  "answer": "I politely ask the person to say the name again."
+ },
+ {
+  "en": "I'm going to leave now, it's getting late.",
+  "tamil": "நான் இப்ப கிளம்பறேன், நேரமாச்சு.",
+  "context": "Saying goodbye early at a party.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' shows your plan. 'Getting late' means the time is moving on.",
+  "words": [
+   "leave",
+   "late"
+  ],
+  "usage": "Say it to the host when you need to go home early.",
+  "leelaQ": "How do you leave a party politely?",
+  "answer": "I thank the host and say I have to go home early."
+ },
+ {
+  "en": "It was lovely talking to you. Let's keep in touch.",
+  "tamil": "உங்ககிட்ட பேசினது ரொம்ப சந்தோஷம். தொடர்புல இருப்போம்.",
+  "context": "Ending a chat with someone you just met.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Keep in touch' means to stay in contact by phone or message.",
+  "words": [
+   "lovely",
+   "touch"
+  ],
+  "usage": "Say it at the end of a chat when you want to stay in contact.",
+  "leelaQ": "How do you stay in touch with people you meet newly?",
+  "answer": "I take their number and send them a message."
+ },
+ {
+  "en": "Would you like to join us for dinner on Saturday?",
+  "tamil": "சனிக்கிழமை எங்களோட டின்னருக்கு வர்றீங்களா?",
+  "context": "Inviting a colleague for a meal.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like to' is a polite way to invite someone.",
+  "words": [
+   "join",
+   "dinner"
+  ],
+  "usage": "Use it to invite friends, neighbours or colleagues in a polite way.",
+  "leelaQ": "Who would you like to invite for dinner this weekend?",
+  "answer": "I would like to invite my close friends this weekend."
+ },
+ {
+  "en": "I'm afraid I can't make it to the party this weekend.",
+  "tamil": "இந்த வாரக் கடைசி பார்ட்டிக்கு என்னால வர முடியாதுன்னு நினைக்கிறேன்.",
+  "context": "Politely declining an invitation.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'I'm afraid' softens bad news. 'Make it' means to be able to come.",
+  "words": [
+   "afraid",
+   "make it"
+  ],
+  "usage": "Use it to refuse an invitation without hurting the person.",
+  "leelaQ": "How do you say no to an invitation politely?",
+  "answer": "I say sorry, thank them and give a short reason."
+ },
+ {
+  "en": "Happy birthday! Wishing you a wonderful year ahead.",
+  "tamil": "பிறந்தநாள் வாழ்த்துகள்! வரப்போற வருஷம் அருமையா இருக்கட்டும்.",
+  "context": "Wishing a friend on his birthday.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Wishing you...' is a short form of 'I am wishing you...' used in greetings.",
+  "words": [
+   "wonderful",
+   "ahead"
+  ],
+  "usage": "Say it or write it in a card or message on someone's birthday.",
+  "leelaQ": "How do you wish your friends on their birthday?",
+  "answer": "I call them and say happy birthday with a gift."
+ },
+ {
+  "en": "Congratulations on your promotion, you really deserve it.",
+  "tamil": "உங்க பதவி உயர்வுக்கு வாழ்த்துகள், நீங்க அதுக்கு தகுதியானவங்க.",
+  "context": "Congratulating a colleague at work.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Congratulations on' is followed by the good news. 'Deserve' means you earned it.",
+  "words": [
+   "congratulations",
+   "deserve"
+  ],
+  "usage": "Say it to a friend or colleague who has got good news or success.",
+  "leelaQ": "Who got a good news recently and what did you say?",
+  "answer": "My cousin got a job and I said congratulations."
+ },
+ {
+  "en": "Is anyone sitting here, or can I take this chair?",
+  "tamil": "இங்க யாராவது உட்கார்ந்திருக்காங்களா, இல்ல நான் இந்த நாற்காலியை எடுத்துக்கலாமா?",
+  "context": "Looking for a seat at a crowded function.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "This is a polite way to check before taking a seat.",
+  "words": [
+   "sitting",
+   "chair"
+  ],
+  "usage": "Use it at weddings, events or meetings when seats are limited.",
+  "leelaQ": "Do you like to sit in front or at the back in a function?",
+  "answer": "I like to sit at the back so I can leave easily."
+ },
+ {
+  "en": "You have a lovely house. Did you decorate it yourself?",
+  "tamil": "உங்க வீடு ரொம்ப அழகா இருக்கு. நீங்களே அலங்கரிச்சீங்களா?",
+  "context": "Complimenting a friend's new home.",
+  "tense": "past",
+  "type": "question",
+  "explain": "A compliment followed by a question keeps the talk going.",
+  "words": [
+   "lovely",
+   "decorate"
+  ],
+  "usage": "Use it when you visit someone's house for the first time.",
+  "leelaQ": "What do you notice first when you visit a new house?",
+  "answer": "I notice the colour of the walls and the cleanliness."
+ },
+ {
+  "en": "Please don't trouble yourself, I'm fine with plain water.",
+  "tamil": "தயவு செஞ்சு சிரமப்படாதீங்க, எனக்கு சாதாரண தண்ணியே போதும்.",
+  "context": "Refusing extra effort from a host politely.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Don't trouble yourself' tells the host not to take extra effort.",
+  "words": [
+   "trouble",
+   "plain"
+  ],
+  "usage": "Say it when a host is doing too much for you and you want to be polite.",
+  "leelaQ": "What do you say when a host offers you too many things?",
+  "answer": "I say thank you and that a little is enough."
+ },
+ {
+  "en": "I'll introduce you to my cousin, she also loves cooking.",
+  "tamil": "என் கசினை உங்களுக்கு அறிமுகப்படுத்தறேன், அவளுக்கும் சமைக்கறது ரொம்ப பிடிக்கும்.",
+  "context": "Connecting two people at a function.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll introduce you to' is used to bring two people together.",
+  "words": [
+   "introduce",
+   "cousin"
+  ],
+  "usage": "Use it at a family function to connect a friend with a relative.",
+  "leelaQ": "Whom did you introduce to your friends recently?",
+  "answer": "I introduced my brother to my college friends."
+ },
+ {
+  "en": "Do you mind if I sit with you for a while?",
+  "tamil": "நான் கொஞ்ச நேரம் உங்களோட உட்கார்ந்தா பரவாயில்லையா?",
+  "context": "Joining someone at a table or bench.",
+  "tense": "present",
+  "type": "request",
+  "explain": "'Do you mind if I...' politely asks permission. Answer 'Not at all' to say yes.",
+  "words": [
+   "mind",
+   "while"
+  ],
+  "usage": "Use it to join a stranger's table at a canteen, wedding or function.",
+  "leelaQ": "Do you like sitting alone or with other people?",
+  "answer": "I like sitting with other people because I enjoy talking."
+ },
+ {
+  "en": "My wife and I will be there around seven.",
+  "tamil": "நானும் என் மனைவியும் ஏழு மணி போல அங்க இருப்போம்.",
+  "context": "Confirming your arrival time for a function.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Around seven' means near seven, not exactly seven.",
+  "words": [
+   "around",
+   "there"
+  ],
+  "usage": "Say it to the host when they ask if you are coming and at what time.",
+  "leelaQ": "What time do you usually reach a function?",
+  "answer": "I usually reach a little before the start time."
+ },
+ {
+  "en": "Thanks for dropping by, it made my day.",
+  "tamil": "வந்து பார்த்ததுக்கு நன்றி, என் நாளையே சந்தோஷமாக்கிட்டீங்க.",
+  "context": "Thanking a friend who visited unexpectedly.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Dropping by' means visiting without much planning. 'Made my day' means made me very happy.",
+  "words": [
+   "dropping by",
+   "made my day"
+  ],
+  "usage": "Say it to a friend or relative who visits you suddenly.",
+  "leelaQ": "Who visited you unexpectedly last time?",
+  "answer": "My old school friend visited me last month."
+ },
+ {
+  "en": "Don't be shy, take some more snacks.",
+  "tamil": "கூச்சப்படாதீங்க, இன்னும் கொஞ்சம் ஸ்நாக்ஸ் எடுத்துக்கோங்க.",
+  "context": "Encouraging a guest to eat more.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Don't be shy' is a friendly way to tell someone to feel free.",
+  "words": [
+   "shy",
+   "snacks"
+  ],
+  "usage": "Say it to guests at home who eat very little out of politeness.",
+  "leelaQ": "What snacks do you give guests at your home?",
+  "answer": "I give them murukku, sweets and hot tea."
+ },
+ {
+  "en": "How do you know the bride and groom?",
+  "tamil": "மணமக்களை உங்களுக்கு எப்படித் தெரியும்?",
+  "context": "Making conversation at a wedding.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A good small-talk question for any event where people come from different sides.",
+  "words": [
+   "bride",
+   "groom"
+  ],
+  "usage": "Ask it at a wedding to start a chat with a stranger sitting near you.",
+  "leelaQ": "Whose wedding did you go to last and how did you know them?",
+  "answer": "I went to my friend's wedding. We studied together in college."
+ },
+ {
+  "en": "Sorry for the late reply, I was travelling all day.",
+  "tamil": "தாமதமா பதில் சொன்னதுக்கு மன்னிச்சிடுங்க, நாள் முழுக்க பயணத்துல இருந்தேன்.",
+  "context": "Apologising for answering a message late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Sorry for' is followed by a noun. Then you can give the reason.",
+  "words": [
+   "reply",
+   "travelling"
+  ],
+  "usage": "Use it in a message or call when you could not reply on time.",
+  "leelaQ": "Why do people sometimes reply late to messages?",
+  "answer": "They may be busy at work or travelling."
+ },
+ {
+  "en": "Thank you so much for remembering my birthday.",
+  "tamil": "என் பிறந்தநாளை நினைவுல வச்சதுக்கு ரொம்ப நன்றி.",
+  "context": "Thanking a colleague who wished you.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'So much' makes the thanks stronger. 'Remembering' is the -ing form after 'for'.",
+  "words": [
+   "remembering",
+   "birthday"
+  ],
+  "usage": "Say it to a friend or colleague who wished you on your birthday.",
+  "leelaQ": "Who wished you first on your last birthday?",
+  "answer": "My mother wished me first, early in the morning."
+ }
+]

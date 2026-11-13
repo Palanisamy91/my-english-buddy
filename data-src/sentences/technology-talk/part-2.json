@@ -1,0 +1,377 @@
+[
+ {
+  "en": "The app asks for my location every time.",
+  "tamil": "அந்த ஆப் ஒவ்வொரு தடவையும் என் லொகேஷனைக் கேக்குது.",
+  "context": "Complaining about app permissions.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Every time' shows something that happens again and again.",
+  "words": [
+   "location",
+   "asks"
+  ],
+  "usage": "Say it when an app wants too many permissions.",
+  "leelaQ": "Do you allow apps to use your location?",
+  "answer": "Only maps and delivery apps can use my location."
+ },
+ {
+  "en": "Please do not click on unknown links.",
+  "tamil": "தெரியாத லிங்க்குகளை கிளிக் பண்ணாதீங்க.",
+  "context": "Warning colleagues about phishing messages.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Do not' plus a verb is a polite warning. 'Unknown' means not known.",
+  "words": [
+   "click",
+   "unknown"
+  ],
+  "usage": "A manager or an IT person can say this to protect the team.",
+  "leelaQ": "What would you do with a strange link in a message?",
+  "answer": "I would not open it and I would delete the message."
+ },
+ {
+  "en": "I downloaded the invoice, but I cannot open it.",
+  "tamil": "நான் இன்வாய்ஸை டவுன்லோட் பண்ணிட்டேன், ஆனா அதை திறக்க முடியல.",
+  "context": "Telling accounts staff about a file problem.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'But' joins two opposite ideas.",
+  "words": [
+   "downloaded",
+   "invoice"
+  ],
+  "usage": "Say it at work when a document does not open.",
+  "leelaQ": "What kind of files do you download most?",
+  "answer": "I download PDF files like bills and tickets."
+ },
+ {
+  "en": "We are using a new software for billing.",
+  "tamil": "நாங்க பில்லிங்குக்கு ஒரு புது சாஃப்ட்வேர் யூஸ் பண்றோம்.",
+  "context": "Telling a customer about a change in the shop.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous shows a current situation, not only this moment.",
+  "words": [
+   "software",
+   "billing"
+  ],
+  "usage": "Use it in a shop or office when systems are changing.",
+  "leelaQ": "Does your workplace use any special software?",
+  "answer": "Yes, we use software to track our orders."
+ },
+ {
+  "en": "The server is down, so the website will not open.",
+  "tamil": "சர்வர் டவுன், அதனால வெப்சைட் ஓப்பன் ஆகாது.",
+  "context": "Explaining why a website is not loading.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Down' means not working. 'Will not' says what to expect.",
+  "words": [
+   "server",
+   "website"
+  ],
+  "usage": "IT staff say this when customers cannot reach a site.",
+  "leelaQ": "What do you do when a website does not open?",
+  "answer": "I wait a little and try again."
+ },
+ {
+  "en": "I charged my phone all night, but it is still at ten percent.",
+  "tamil": "நான் நைட் முழுக்க போனை சார்ஜ் பண்ணினேன், ஆனா இன்னும் பத்து சதவீதம்தான் இருக்கு.",
+  "context": "Complaining to a repair shop about charging.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'All night' means for the whole night. 'Still' shows surprise.",
+  "words": [
+   "charged",
+   "percent"
+  ],
+  "usage": "Say it to a technician when the charger or battery may be faulty.",
+  "leelaQ": "How long does your phone take to charge?",
+  "answer": "It takes about two hours to charge fully."
+ },
+ {
+  "en": "I have not received the OTP yet.",
+  "tamil": "எனக்கு இன்னும் ஓடிபி வரல.",
+  "context": "Telling customer care about a missing code.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have not received... yet' shows something expected has not happened.",
+  "words": [
+   "received",
+   "otp"
+  ],
+  "usage": "Say it on a bank or app helpline when a code does not come.",
+  "leelaQ": "What do you do when an OTP does not come?",
+  "answer": "I wait one minute and then press resend."
+ },
+ {
+  "en": "She is learning to edit videos on her phone.",
+  "tamil": "அவ தன் போன்ல வீடியோ எடிட் பண்ணக் கத்துக்கிட்டு இருக்கா.",
+  "context": "Telling a friend about a new hobby.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Learning to' plus a verb says what someone is studying.",
+  "words": [
+   "edit",
+   "videos"
+  ],
+  "usage": "Use it when talking about a person's new skill.",
+  "leelaQ": "Would you like to make videos?",
+  "answer": "Yes, I would like to make short cooking videos."
+ },
+ {
+  "en": "Our team meeting is scheduled for ten o'clock.",
+  "tamil": "எங்க டீம் மீட்டிங் பத்து மணிக்கு ஷெட்யூல் ஆகியிருக்கு.",
+  "context": "Reminding a colleague about a meeting.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Is scheduled for' means a time has been fixed.",
+  "words": [
+   "meeting",
+   "scheduled"
+  ],
+  "usage": "Use it in office chats to confirm the time of a meeting.",
+  "leelaQ": "What time is your next meeting?",
+  "answer": "My next meeting is at three o'clock this afternoon."
+ },
+ {
+  "en": "I will call you back after I finish this online class.",
+  "tamil": "இந்த ஆன்லைன் கிளாஸ் முடிச்சதும் நான் உன்னைத் திருப்பிக் கூப்பிடுறேன்.",
+  "context": "Telling a friend you cannot talk now.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Call back' means call someone again. After 'after', use present simple.",
+  "words": [
+   "call back",
+   "online class"
+  ],
+  "usage": "Say it when you are busy but want to speak later.",
+  "leelaQ": "What do you say when you cannot take a call?",
+  "answer": "I say I am busy and I will call back soon."
+ },
+ {
+  "en": "My email got hacked last week.",
+  "tamil": "போன வாரம் என் மெயில் ஹேக் ஆயிடுச்சு.",
+  "context": "Telling a friend about an account problem.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Got hacked' means someone broke into the account.",
+  "words": [
+   "email",
+   "hacked"
+  ],
+  "usage": "Say it when you warn people about strange messages from your account.",
+  "leelaQ": "What can we do to protect our accounts?",
+  "answer": "We can use strong passwords and two-step login."
+ },
+ {
+  "en": "You should turn on two-step verification.",
+  "tamil": "நீ டூ-ஸ்டெப் வெரிஃபிகேஷனை ஆன் பண்ணணும்.",
+  "context": "Advising a friend about account safety.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' gives advice. Two-step verification adds a second check.",
+  "words": [
+   "verification",
+   "turn on"
+  ],
+  "usage": "Use it to advise family and friends who use online banking.",
+  "leelaQ": "Do you use two-step verification?",
+  "answer": "Yes, I use it for my email and my bank app."
+ },
+ {
+  "en": "The new phone has a very good camera.",
+  "tamil": "புது போன்ல கேமரா ரொம்ப நல்லா இருக்கு.",
+  "context": "Praising a phone you are thinking of buying.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Has' is used with he, she and it for possession.",
+  "words": [
+   "camera",
+   "phone"
+  ],
+  "usage": "Say it while talking about a phone at a shop or with friends.",
+  "leelaQ": "What do you look for when you buy a phone?",
+  "answer": "I look for good battery life and a clear camera."
+ },
+ {
+  "en": "I bought these earphones online last week.",
+  "tamil": "நான் இந்த இயர்ஃபோன்களை போன வாரம் ஆன்லைன்ல வாங்கினேன்.",
+  "context": "Telling a friend where you got something.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Last week' is a time word for the simple past.",
+  "words": [
+   "earphones",
+   "online"
+  ],
+  "usage": "Use it in casual talk about shopping for gadgets.",
+  "leelaQ": "Do you shop online?",
+  "answer": "Yes, I shop online for clothes and books."
+ },
+ {
+  "en": "The screen is too bright, so I am changing the settings.",
+  "tamil": "ஸ்கிரீன் ரொம்ப பிரைட்டா இருக்கு, அதனால நான் செட்டிங்ஸை மாத்துறேன்.",
+  "context": "Explaining what you are doing on a device.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Too' means more than needed. 'So' shows the result.",
+  "words": [
+   "bright",
+   "settings"
+  ],
+  "usage": "Say it when adjusting your phone in a dark place.",
+  "leelaQ": "Do you use your phone at night?",
+  "answer": "Yes, I use it at night with a low brightness."
+ },
+ {
+  "en": "I usually watch tutorials on YouTube to learn new things.",
+  "tamil": "புது விஷயங்கள் கத்துக்க நான் பொதுவா யூடியூப்ல டுடோரியல்ஸ் பாப்பேன்.",
+  "context": "Talking about how you learn online.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Usually' is a frequency word for habits. 'To learn' shows purpose.",
+  "words": [
+   "tutorials",
+   "usually"
+  ],
+  "usage": "Use it when someone asks how you learned a skill.",
+  "leelaQ": "What have you learned from YouTube?",
+  "answer": "I learned how to cook and fix small things at home."
+ },
+ {
+  "en": "Our printer is jammed again.",
+  "tamil": "எங்க பிரிண்டர்ல பேப்பர் மறுபடியும் சிக்கிடுச்சு.",
+  "context": "Telling the office that the printer is not working.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Jammed' means stuck. 'Again' shows it happens often.",
+  "words": [
+   "printer",
+   "jammed"
+  ],
+  "usage": "Say it in the office when you want help with a printer.",
+  "leelaQ": "How often do you print documents?",
+  "answer": "I print documents once or twice a week."
+ },
+ {
+  "en": "My friend helped me to set up my new smartphone.",
+  "tamil": "என் நண்பன் என் புது ஸ்மார்ட்போனை செட் பண்ண உதவினான்.",
+  "context": "Telling someone who helped you with a gadget.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Help someone to do' is a common pattern. 'Set up' means get ready to use.",
+  "words": [
+   "helped",
+   "smartphone"
+  ],
+  "usage": "Use it to thank or mention a person who helped with tech.",
+  "leelaQ": "Who helps you when you have a tech problem?",
+  "answer": "My younger brother helps me because he knows a lot."
+ },
+ {
+  "en": "I will be offline for an hour because of a power cut.",
+  "tamil": "கரண்ட் கட் ஆனதால நான் ஒரு மணி நேரம் ஆஃப்லைன்ல இருப்பேன்.",
+  "context": "Informing your team about no electricity.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will be' talks about a future state. 'Because of' is followed by a noun.",
+  "words": [
+   "offline",
+   "power cut"
+  ],
+  "usage": "Send it to your team when you expect a power or internet cut.",
+  "leelaQ": "What do you do during a power cut?",
+  "answer": "I read a book or talk with my family."
+ },
+ {
+  "en": "The online class starts at six, so please be on time.",
+  "tamil": "ஆன்லைன் கிளாஸ் ஆறு மணிக்குத் தொடங்கும், அதனால தயவுசெஞ்சு சரியான நேரத்துக்கு வாங்க.",
+  "context": "A teacher reminding students.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Present simple is used for fixed timetables. 'On time' means not late.",
+  "words": [
+   "class",
+   "on time"
+  ],
+  "usage": "A teacher or organiser can say this in a group chat.",
+  "leelaQ": "Have you attended any online class?",
+  "answer": "Yes, I attended an English class online."
+ },
+ {
+  "en": "I saved the document in a folder on my desktop.",
+  "tamil": "நான் டாக்குமெண்டை என் டெஸ்க்டாப்ல ஒரு ஃபோல்டர்ல சேவ் பண்ணினேன்.",
+  "context": "Telling a colleague where a file is.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'In' shows the folder and 'on' the desktop screen.",
+  "words": [
+   "document",
+   "folder"
+  ],
+  "usage": "Say it when someone asks where you kept a file.",
+  "leelaQ": "How do you keep your files organised?",
+  "answer": "I keep them in folders with clear names."
+ },
+ {
+  "en": "Please connect to the office Wi-Fi to download the update.",
+  "tamil": "அப்டேட்டை டவுன்லோட் பண்ண ஆஃபீஸ் வைஃபையில கனெக்ட் ஆகுங்க.",
+  "context": "Advising a coworker.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'To download' gives the reason. 'Please' keeps it polite.",
+  "words": [
+   "connect",
+   "update"
+  ],
+  "usage": "Use it when a large file should not use mobile data.",
+  "leelaQ": "When do you use mobile data?",
+  "answer": "I use it when I am outside and there is no Wi-Fi."
+ },
+ {
+  "en": "It is a good idea to back up your photos.",
+  "tamil": "உன் போட்டோக்களை பேக்அப் எடுத்து வைக்கிறது நல்லது.",
+  "context": "Advising a friend before changing phones.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'It is a good idea to' plus a verb gives friendly advice.",
+  "words": [
+   "back up",
+   "photos"
+  ],
+  "usage": "Say it to someone who may lose data when a phone is lost.",
+  "leelaQ": "Have you ever lost important data?",
+  "answer": "Yes, I lost some photos once, so now I make backups."
+ },
+ {
+  "en": "My grandmother is learning to make video calls.",
+  "tamil": "என் பாட்டி வீடியோ கால் பண்ணக் கத்துக்கிட்டு இருக்காங்க.",
+  "context": "Talking about a family member and new technology.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is learning' shows she is in the middle of learning.",
+  "words": [
+   "grandmother",
+   "video calls"
+  ],
+  "usage": "Use it in a casual chat about family and gadgets.",
+  "leelaQ": "How do older people in your family use technology?",
+  "answer": "My parents use WhatsApp to see photos and talk to us."
+ },
+ {
+  "en": "I have already logged out of all my accounts.",
+  "tamil": "நான் என் எல்லா அக்கவுண்ட்டுலயும் ஏற்கனவே லாக் அவுட் பண்ணிட்டேன்.",
+  "context": "Telling someone that you are safe after a problem.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Already' shows something was done earlier than expected.",
+  "words": [
+   "logged out",
+   "accounts"
+  ],
+  "usage": "Use it after a phone is lost or a security warning comes.",
+  "leelaQ": "What do you do if you lose your phone?",
+  "answer": "I lock it from another device and call my SIM provider."
+ }
+]

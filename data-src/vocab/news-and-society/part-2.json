@@ -1,0 +1,348 @@
+[
+ {
+  "word": "belief",
+  "meaning": "A strong feeling that something is true or right.",
+  "tamil": "நம்பிக்கை",
+  "pos": "noun",
+  "pron": "bih-LEEF",
+  "example": "Respect everyone's beliefs, even if they differ from yours.",
+  "exampleTamil": "உங்களுடையதிலிருந்து வேறுபட்டாலும் அனைவரின் நம்பிக்கைகளையும் மதியுங்கள்.",
+  "synonyms": [
+   "conviction",
+   "faith"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "society",
+  "meaning": "All the people living together in a country or community.",
+  "tamil": "சமூகம்",
+  "pos": "noun",
+  "pron": "suh-SY-uh-tee",
+  "example": "Education helps to build a better society.",
+  "exampleTamil": "கல்வி ஒரு சிறந்த சமூகத்தை உருவாக்க உதவுகிறது.",
+  "synonyms": [
+   "community",
+   "people"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "reporter",
+  "meaning": "A person who gathers and tells news for newspapers or TV.",
+  "tamil": "செய்தியாளர்",
+  "pos": "noun",
+  "pron": "rih-POR-ter",
+  "example": "The reporter asked the minister three questions.",
+  "exampleTamil": "செய்தியாளர் அமைச்சரிடம் மூன்று கேள்விகள் கேட்டார்.",
+  "synonyms": [
+   "journalist",
+   "correspondent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "protest",
+  "meaning": "A public show of disagreement against something.",
+  "tamil": "போராட்டம்",
+  "pos": "noun",
+  "pron": "PROH-test",
+  "example": "Students held a peaceful protest outside the college.",
+  "exampleTamil": "மாணவர்கள் கல்லூரிக்கு வெளியே அமைதியான போராட்டம் நடத்தினர்.",
+  "synonyms": [
+   "demonstration"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "farmer",
+  "meaning": "A person who grows crops or keeps animals for food.",
+  "tamil": "விவசாயி",
+  "pos": "noun",
+  "pron": "FAR-mer",
+  "example": "The farmer is worried about the late rains.",
+  "exampleTamil": "தாமதமான மழையைப் பற்றி விவசாயி கவலைப்படுகிறார்.",
+  "synonyms": [
+   "grower",
+   "cultivator"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "crop",
+  "meaning": "A plant like rice or wheat grown in large amounts for food.",
+  "tamil": "பயிர்",
+  "pos": "noun",
+  "pron": "KROP",
+  "example": "Heavy rain has damaged the rice crop.",
+  "exampleTamil": "கனமழை நெற்பயிரைச் சேதப்படுத்தியுள்ளது.",
+  "synonyms": [
+   "harvest",
+   "produce"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "charity",
+  "meaning": "An organisation that helps people in need, or help given freely.",
+  "tamil": "தொண்டு நிறுவனம்",
+  "pos": "noun",
+  "pron": "CHAIR-uh-tee",
+  "example": "She gives money to a charity every month.",
+  "exampleTamil": "அவள் ஒவ்வொரு மாதமும் ஒரு தொண்டு நிறுவனத்திற்குப் பணம் கொடுக்கிறாள்.",
+  "synonyms": [
+   "aid",
+   "donation"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "weather",
+  "meaning": "The daily condition of the air, like sun, rain or wind.",
+  "tamil": "வானிலை",
+  "pos": "noun",
+  "pron": "WETH-er",
+  "example": "The weather report says it will rain tomorrow.",
+  "exampleTamil": "நாளை மழை பெய்யும் என்று வானிலை அறிக்கை கூறுகிறது.",
+  "synonyms": [
+   "conditions"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tribe",
+  "meaning": "A group of people who share a culture and live together.",
+  "tamil": "பழங்குடி இனம்",
+  "pos": "noun",
+  "pron": "TRYB",
+  "example": "The tribe lives deep inside the forest.",
+  "exampleTamil": "அந்தப் பழங்குடி இனம் காட்டின் உள்ளே வாழ்கிறது.",
+  "synonyms": [
+   "clan",
+   "community"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "earthquake",
+  "meaning": "A sudden strong shaking of the ground.",
+  "tamil": "நிலநடுக்கம்",
+  "pos": "noun",
+  "pron": "ERTH-kwayk",
+  "example": "People ran out of the building during the earthquake.",
+  "exampleTamil": "நிலநடுக்கத்தின் போது மக்கள் கட்டிடத்தை விட்டு வெளியே ஓடினர்.",
+  "synonyms": [
+   "tremor",
+   "quake"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "parliament",
+  "meaning": "The group of elected people who make laws for a country.",
+  "tamil": "நாடாளுமன்றம்",
+  "pos": "noun",
+  "pron": "PAR-luh-munt",
+  "example": "Parliament will discuss the new bill this week.",
+  "exampleTamil": "இந்த வாரம் நாடாளுமன்றம் புதிய மசோதாவை விவாதிக்கும்.",
+  "synonyms": [
+   "legislature",
+   "assembly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "journalist",
+  "meaning": "A person whose job is writing or reporting news.",
+  "tamil": "பத்திரிகையாளர்",
+  "pos": "noun",
+  "pron": "JER-nuh-list",
+  "example": "The journalist wrote a long article on water problems.",
+  "exampleTamil": "பத்திரிகையாளர் தண்ணீர் பிரச்சினை பற்றி நீண்ட கட்டுரை எழுதினார்.",
+  "synonyms": [
+   "reporter",
+   "newsman"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "editorial",
+  "meaning": "A newspaper article that gives the paper's opinion.",
+  "tamil": "தலையங்கம்",
+  "pos": "noun",
+  "pron": "ed-ih-TOR-ee-ul",
+  "example": "Today's editorial talks about rising fuel prices.",
+  "exampleTamil": "இன்றைய தலையங்கம் எரிபொருள் விலை உயர்வைப் பற்றிப் பேசுகிறது.",
+  "synonyms": [
+   "opinion piece",
+   "leader"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rally",
+  "meaning": "A large public meeting to support a cause or a leader.",
+  "tamil": "பேரணி",
+  "pos": "noun",
+  "pron": "RAL-ee",
+  "example": "Thousands of people joined the rally in the city.",
+  "exampleTamil": "ஆயிரக்கணக்கான மக்கள் நகரில் நடந்த பேரணியில் கலந்துகொண்டனர்.",
+  "synonyms": [
+   "march",
+   "gathering"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "justice",
+  "meaning": "Fair treatment under the law.",
+  "tamil": "நீதி",
+  "pos": "noun",
+  "pron": "JUS-tis",
+  "example": "The family is still waiting for justice.",
+  "exampleTamil": "அந்தக் குடும்பம் இன்னும் நீதிக்காகக் காத்திருக்கிறது.",
+  "synonyms": [
+   "fairness",
+   "equity"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "folklore",
+  "meaning": "Traditional stories and beliefs of a people, passed down by word of mouth.",
+  "tamil": "நாட்டுப்புறக் கதைகள்",
+  "pos": "noun",
+  "pron": "FOHK-lor",
+  "example": "My grandmother told me many folklore stories at night.",
+  "exampleTamil": "என் பாட்டி இரவில் எனக்கு நிறைய நாட்டுப்புறக் கதைகள் சொன்னார்.",
+  "synonyms": [
+   "legends",
+   "myths"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bribe",
+  "meaning": "Money given secretly to get someone to act unfairly.",
+  "tamil": "லஞ்சம்",
+  "pos": "noun",
+  "pron": "BRYBE",
+  "example": "The officer refused to take a bribe.",
+  "exampleTamil": "அதிகாரி லஞ்சம் வாங்க மறுத்துவிட்டார்.",
+  "synonyms": [
+   "kickback",
+   "payoff"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "corruption",
+  "meaning": "Dishonest or illegal behaviour by people in power.",
+  "tamil": "ஊழல்",
+  "pos": "noun",
+  "pron": "kuh-RUP-shun",
+  "example": "The new law is meant to fight corruption.",
+  "exampleTamil": "இந்தப் புதிய சட்டம் ஊழலை எதிர்த்துப் போராட உருவாக்கப்பட்டது.",
+  "synonyms": [
+   "bribery",
+   "dishonesty"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scandal",
+  "meaning": "A shocking event that makes people lose respect or trust.",
+  "tamil": "அவதூறு",
+  "pos": "noun",
+  "pron": "SKAN-dul",
+  "example": "The scandal forced the official to resign.",
+  "exampleTamil": "அந்த அவதூறு அதிகாரியைப் பதவி விலகச் செய்தது.",
+  "synonyms": [
+   "outrage",
+   "disgrace"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unemployment",
+  "meaning": "The situation of having no job; the number of people without work.",
+  "tamil": "வேலையில்லாத் திண்டாட்டம்",
+  "pos": "noun",
+  "pron": "un-im-PLOY-munt",
+  "example": "Youth unemployment is a big worry in many states.",
+  "exampleTamil": "பல மாநிலங்களில் இளைஞர் வேலையில்லாத் திண்டாட்டம் பெரும் கவலையாக உள்ளது.",
+  "synonyms": [
+   "joblessness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wages",
+  "meaning": "Money paid to workers for their work, often daily or weekly.",
+  "tamil": "கூலி",
+  "pos": "noun",
+  "pron": "WAY-jiz",
+  "example": "Workers demanded higher wages from the factory.",
+  "exampleTamil": "தொழிலாளர்கள் தொழிற்சாலையிடம் அதிக கூலி கேட்டனர்.",
+  "synonyms": [
+   "pay",
+   "earnings"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trade",
+  "meaning": "The buying and selling of goods between people or countries.",
+  "tamil": "வர்த்தகம்",
+  "pos": "noun",
+  "pron": "TRAYD",
+  "example": "Trade between the two countries has increased.",
+  "exampleTamil": "இரு நாடுகளுக்கிடையிலான வர்த்தகம் அதிகரித்துள்ளது.",
+  "synonyms": [
+   "commerce",
+   "business"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "welfare",
+  "meaning": "Help from the government for people's health and basic needs.",
+  "tamil": "நலத்திட்டம்",
+  "pos": "noun",
+  "pron": "WEL-fair",
+  "example": "The state runs many welfare schemes for the poor.",
+  "exampleTamil": "மாநிலம் ஏழைகளுக்காக பல நலத்திட்டங்களை நடத்துகிறது.",
+  "synonyms": [
+   "benefit",
+   "wellbeing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "donation",
+  "meaning": "Money or things given to help a cause.",
+  "tamil": "நன்கொடை",
+  "pos": "noun",
+  "pron": "doh-NAY-shun",
+  "example": "We made a small donation to the flood relief fund.",
+  "exampleTamil": "நாங்கள் வெள்ள நிவாரண நிதிக்கு சிறிய நன்கொடை அளித்தோம்.",
+  "synonyms": [
+   "contribution",
+   "gift"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "orphan",
+  "meaning": "A child whose parents have died.",
+  "tamil": "அனாதை",
+  "pos": "noun",
+  "pron": "OR-fun",
+  "example": "The trust takes care of orphans and gives them school.",
+  "exampleTamil": "அந்த அறக்கட்டளை அனாதைக் குழந்தைகளைப் பராமரித்துப் பள்ளிக்கு அனுப்புகிறது.",
+  "synonyms": [
+   "parentless child"
+  ],
+  "level": "intermediate"
+ }
+]

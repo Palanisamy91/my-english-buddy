@@ -1,0 +1,639 @@
+[
+ {
+  "word": "transcript",
+  "tamil": "மதிப்பெண் பட்டியல்",
+  "pos": "noun",
+  "pron": "TRAN-skript",
+  "example": "The college sent my official transcript to the company.",
+  "exampleTamil": "கல்லூரி என் அதிகாரப்பூர்வ மதிப்பெண் பட்டியலை நிறுவனத்துக்கு அனுப்பியது.",
+  "synonyms": [
+   "mark sheet",
+   "academic record"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "alumni",
+  "tamil": "முன்னாள் மாணவர்கள்",
+  "pos": "noun",
+  "pron": "uh-LUM-nai",
+  "example": "Our college alumni work in many top companies.",
+  "exampleTamil": "எங்கள் கல்லூரி முன்னாள் மாணவர்கள் பல முன்னணி நிறுவனங்களில் வேலை செய்கிறார்கள்.",
+  "synonyms": [
+   "graduates",
+   "former students"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scholarship",
+  "tamil": "கல்வி உதவித்தொகை",
+  "pos": "noun",
+  "pron": "SKOL-er-ship",
+  "example": "I studied engineering on a full scholarship.",
+  "exampleTamil": "நான் முழு உதவித்தொகையில் பொறியியல் படித்தேன்.",
+  "synonyms": [
+   "grant",
+   "bursary"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "coursework",
+  "tamil": "பாடப் பணிகள்",
+  "pos": "noun",
+  "pron": "KORS-wurk",
+  "example": "My coursework included databases and networking.",
+  "exampleTamil": "என் பாடப் பணிகளில் தரவுத்தளமும் நெட்வொர்க்கிங்கும் இருந்தன.",
+  "synonyms": [
+   "assignments",
+   "class work"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thesis",
+  "tamil": "ஆய்வுக் கட்டுரை",
+  "pos": "noun",
+  "pron": "THEE-sis",
+  "example": "I wrote my thesis on machine learning.",
+  "exampleTamil": "நான் என் ஆய்வுக் கட்டுரையை இயந்திரக் கற்றல் பற்றி எழுதினேன்.",
+  "synonyms": [
+   "dissertation",
+   "research paper"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dissertation",
+  "tamil": "முனைவர் ஆய்வேடு",
+  "pos": "noun",
+  "pron": "dis-er-TAY-shun",
+  "example": "Her dissertation took three years to complete.",
+  "exampleTamil": "அவளுடைய ஆய்வேட்டை முடிக்க மூன்று ஆண்டுகள் ஆனது.",
+  "synonyms": [
+   "thesis",
+   "research study"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "accreditation",
+  "tamil": "அங்கீகாரம்",
+  "pos": "noun",
+  "pron": "uh-kred-ih-TAY-shun",
+  "example": "The course has official accreditation from a national board.",
+  "exampleTamil": "இந்தப் பாடத்திற்கு தேசிய வாரியத்தின் அதிகாரப்பூர்வ அங்கீகாரம் உள்ளது.",
+  "synonyms": [
+   "approval",
+   "recognition"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "apprenticeship",
+  "tamil": "தொழிற்பயிற்சி",
+  "pos": "noun",
+  "pron": "uh-PREN-tis-ship",
+  "example": "He did a two-year apprenticeship before getting a job.",
+  "exampleTamil": "அவன் வேலை கிடைக்கும் முன் இரண்டு ஆண்டு தொழிற்பயிற்சி செய்தான்.",
+  "synonyms": [
+   "traineeship",
+   "training period"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mentorship",
+  "tamil": "வழிகாட்டுதல்",
+  "pos": "noun",
+  "pron": "MEN-tor-ship",
+  "example": "Good mentorship helped me grow quickly in my first job.",
+  "exampleTamil": "நல்ல வழிகாட்டுதல் என் முதல் வேலையில் வேகமாக வளர உதவியது.",
+  "synonyms": [
+   "guidance",
+   "coaching"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tenure",
+  "tamil": "பதவிக் காலம்",
+  "pos": "noun",
+  "pron": "TEN-yer",
+  "example": "During his tenure, the team doubled in size.",
+  "exampleTamil": "அவரது பதவிக் காலத்தில் குழு இரு மடங்கானது.",
+  "synonyms": [
+   "term",
+   "period of service"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "seniority",
+  "tamil": "பணி மூப்பு",
+  "pos": "noun",
+  "pron": "seen-YOR-ih-tee",
+  "example": "Promotions here depend on performance, not seniority.",
+  "exampleTamil": "இங்கு பதவி உயர்வு பணி மூப்பை அல்ல, செயல்திறனைப் பொறுத்தது.",
+  "synonyms": [
+   "rank",
+   "long service"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "headhunter",
+  "tamil": "திறமையாளர் தேடுபவர்",
+  "pos": "noun",
+  "pron": "HED-hun-ter",
+  "example": "A headhunter called me about a senior position.",
+  "exampleTamil": "ஒரு தேடல் முகவர் மூத்த பதவி பற்றி என்னை அழைத்தார்.",
+  "synonyms": [
+   "recruiter",
+   "talent scout"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "referral",
+  "tamil": "பரிந்துரை",
+  "pos": "noun",
+  "pron": "rih-FUR-ul",
+  "example": "I got this interview through an employee referral.",
+  "exampleTamil": "ஒரு ஊழியரின் பரிந்துரை மூலம் இந்த நேர்காணல் கிடைத்தது.",
+  "synonyms": [
+   "recommendation",
+   "introduction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "job description",
+  "tamil": "வேலை விவரம்",
+  "pos": "phrase",
+  "pron": "JOB dis-KRIP-shun",
+  "example": "I read the job description carefully before applying.",
+  "exampleTamil": "விண்ணப்பிக்கும் முன் வேலை விவரத்தை கவனமாகப் படித்தேன்.",
+  "synonyms": [
+   "role details",
+   "job profile"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "job opening",
+  "tamil": "வேலை காலியிடம்",
+  "pos": "phrase",
+  "pron": "JOB OH-pen-ing",
+  "example": "They have a job opening for a tester.",
+  "exampleTamil": "அவர்களிடம் சோதனையாளர் பணிக்கு காலியிடம் உள்ளது.",
+  "synonyms": [
+   "vacancy",
+   "opening"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "prerequisite",
+  "tamil": "முன்தேவை",
+  "pos": "noun",
+  "pron": "pree-REK-wuh-zit",
+  "example": "A degree is a prerequisite for this role.",
+  "exampleTamil": "இந்தப் பணிக்கு பட்டம் ஒரு முன்தேவை.",
+  "synonyms": [
+   "requirement",
+   "precondition"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overqualified",
+  "tamil": "அதிகத் தகுதியுள்ள",
+  "pos": "adjective",
+  "pron": "oh-ver-KWOL-ih-fyd",
+  "example": "They said I was overqualified for the post.",
+  "exampleTamil": "அந்தப் பதவிக்கு நான் அதிகத் தகுதியுள்ளவன் என்று சொன்னார்கள்.",
+  "synonyms": [
+   "too skilled",
+   "overeducated"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "versatile",
+  "tamil": "பல திறமை கொண்ட",
+  "pos": "adjective",
+  "pron": "VUR-suh-tyl",
+  "example": "She is a versatile developer who can work on any layer.",
+  "exampleTamil": "அவள் எந்தப் பகுதியிலும் வேலை செய்யக்கூடிய பல திறமை கொண்ட டெவலப்பர்.",
+  "synonyms": [
+   "flexible",
+   "all-round"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "adaptable",
+  "tamil": "எளிதில் பொருந்தும்",
+  "pos": "adjective",
+  "pron": "uh-DAP-tuh-bul",
+  "example": "I am adaptable and learn new tools quickly.",
+  "exampleTamil": "நான் எளிதில் பொருந்திக் கொள்பவன், புதிய கருவிகளை விரைவாகக் கற்கிறேன்.",
+  "synonyms": [
+   "flexible",
+   "versatile"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "resourceful",
+  "tamil": "சமயோசிதமான",
+  "pos": "adjective",
+  "pron": "rih-SORS-ful",
+  "example": "He is resourceful and always finds a solution.",
+  "exampleTamil": "அவன் சமயோசிதமானவன், எப்போதும் தீர்வு கண்டுபிடிப்பான்.",
+  "synonyms": [
+   "inventive",
+   "clever"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "proactive",
+  "tamil": "முன்முயற்சியுள்ள",
+  "pos": "adjective",
+  "pron": "proh-AK-tiv",
+  "example": "We want a proactive person who fixes problems early.",
+  "exampleTamil": "பிரச்சினைகளை முன்கூட்டியே சரிசெய்யும் முன்முயற்சியுள்ள நபர் எங்களுக்கு வேண்டும்.",
+  "synonyms": [
+   "initiative-taking",
+   "forward-thinking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "meticulous",
+  "tamil": "மிகக் கவனமான",
+  "pos": "adjective",
+  "pron": "muh-TIK-yuh-lus",
+  "example": "She is meticulous about checking every detail.",
+  "exampleTamil": "ஒவ்வொரு விவரத்தையும் சரிபார்ப்பதில் அவள் மிகக் கவனமானவள்.",
+  "synonyms": [
+   "careful",
+   "thorough"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "analytical",
+  "tamil": "பகுப்பாய்வு சார்ந்த",
+  "pos": "adjective",
+  "pron": "an-uh-LIT-ih-kul",
+  "example": "Strong analytical skills are needed for this job.",
+  "exampleTamil": "இந்த வேலைக்கு வலுவான பகுப்பாய்வுத் திறன் தேவை.",
+  "synonyms": [
+   "logical",
+   "systematic"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "articulate",
+  "tamil": "தெளிவாகப் பேசும்",
+  "pos": "adjective",
+  "pron": "ar-TIK-yuh-lit",
+  "example": "He is articulate and explains ideas clearly.",
+  "exampleTamil": "அவன் தெளிவாகப் பேசுபவன், கருத்துகளை விளக்குவான்.",
+  "synonyms": [
+   "eloquent",
+   "well-spoken"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "approachable",
+  "tamil": "அணுகத்தக்க",
+  "pos": "adjective",
+  "pron": "uh-PROH-chuh-bul",
+  "example": "A good manager is friendly and approachable.",
+  "exampleTamil": "நல்ல மேலாளர் நட்பாகவும் அணுகத்தக்கவராகவும் இருப்பார்.",
+  "synonyms": [
+   "friendly",
+   "accessible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "humble",
+  "tamil": "பணிவான",
+  "pos": "adjective",
+  "pron": "HUM-bul",
+  "example": "Despite his success, he stays humble.",
+  "exampleTamil": "வெற்றி பெற்றாலும் அவன் பணிவாகவே இருக்கிறான்.",
+  "synonyms": [
+   "modest",
+   "unpretentious"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cooperative",
+  "tamil": "ஒத்துழைக்கும்",
+  "pos": "adjective",
+  "pron": "koh-OP-er-uh-tiv",
+  "example": "My teammates found me helpful and cooperative.",
+  "exampleTamil": "என் சக ஊழியர்கள் என்னை உதவிகரமாகவும் ஒத்துழைப்பவராகவும் கண்டனர்.",
+  "synonyms": [
+   "helpful",
+   "supportive"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "assertive",
+  "tamil": "உறுதியாகக் கூறும்",
+  "pos": "adjective",
+  "pron": "uh-SUR-tiv",
+  "example": "Be assertive but polite when you disagree.",
+  "exampleTamil": "மாறுபடும்போது உறுதியாக ஆனால் மரியாதையாகச் சொல்லுங்கள்.",
+  "synonyms": [
+   "confident",
+   "firm"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "empathetic",
+  "tamil": "பரிவுள்ள",
+  "pos": "adjective",
+  "pron": "em-puh-THET-ik",
+  "example": "An empathetic leader listens to the team.",
+  "exampleTamil": "பரிவுள்ள தலைவர் குழுவின் பேச்சைக் கேட்பார்.",
+  "synonyms": [
+   "understanding",
+   "compassionate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "decisive",
+  "tamil": "உறுதியாக முடிவெடுக்கும்",
+  "pos": "adjective",
+  "pron": "dih-SY-siv",
+  "example": "A manager must be decisive in a crisis.",
+  "exampleTamil": "நெருக்கடியில் மேலாளர் உறுதியாக முடிவெடுக்க வேண்டும்.",
+  "synonyms": [
+   "firm",
+   "resolute"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "persistent",
+  "tamil": "விடாமுயற்சியுள்ள",
+  "pos": "adjective",
+  "pron": "per-SIS-tunt",
+  "example": "I was persistent and applied to many companies.",
+  "exampleTamil": "நான் விடாமுயற்சியுடன் பல நிறுவனங்களுக்கு விண்ணப்பித்தேன்.",
+  "synonyms": [
+   "determined",
+   "tenacious"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "organised",
+  "tamil": "ஒழுங்கான",
+  "pos": "adjective",
+  "pron": "OR-guh-nyzd",
+  "example": "I stay organised by making a daily plan.",
+  "exampleTamil": "தினசரித் திட்டம் போட்டு நான் ஒழுங்காக இருக்கிறேன்.",
+  "synonyms": [
+   "methodical",
+   "orderly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "self-motivated",
+  "tamil": "தானே ஊக்கம் பெறும்",
+  "pos": "adjective",
+  "pron": "self-MOH-tuh-vay-tid",
+  "example": "We hire self-motivated people who need little supervision.",
+  "exampleTamil": "குறைந்த கண்காணிப்பே தேவைப்படும் தானே ஊக்கம் பெறுபவர்களை நியமிக்கிறோம்.",
+  "synonyms": [
+   "driven",
+   "self-driven"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "detail-oriented",
+  "tamil": "விவரங்களில் கவனமுள்ள",
+  "pos": "adjective",
+  "pron": "DEE-tayl OR-ee-en-tid",
+  "example": "I am detail-oriented, so my reports rarely have errors.",
+  "exampleTamil": "நான் விவரங்களில் கவனமுள்ளவன், அதனால் என் அறிக்கைகளில் தவறுகள் அரிது.",
+  "synonyms": [
+   "meticulous",
+   "thorough"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "team player",
+  "tamil": "குழுவாகச் செயல்படுபவர்",
+  "pos": "phrase",
+  "pron": "TEEM PLAY-er",
+  "example": "I am a team player and share credit with others.",
+  "exampleTamil": "நான் குழுவாகச் செயல்படுபவன், பாராட்டைப் பிறருடன் பகிர்வேன்.",
+  "synonyms": [
+   "collaborator",
+   "cooperative person"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "prioritise",
+  "tamil": "முன்னுரிமை கொடு",
+  "pos": "verb",
+  "pron": "pry-OR-ih-tyz",
+  "example": "I prioritise urgent tasks first each morning.",
+  "exampleTamil": "ஒவ்வொரு காலையும் அவசர வேலைகளுக்கு முதலில் முன்னுரிமை தருவேன்.",
+  "synonyms": [
+   "rank",
+   "put first"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "accomplishment",
+  "tamil": "சாதனை",
+  "pos": "noun",
+  "pron": "uh-KOM-plish-munt",
+  "example": "Launching the app was my biggest accomplishment.",
+  "exampleTamil": "செயலியை வெளியிட்டதே என் மிகப்பெரிய சாதனை.",
+  "synonyms": [
+   "achievement",
+   "success"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "award",
+  "tamil": "விருது",
+  "pos": "noun",
+  "pron": "uh-WORD",
+  "example": "She won an award for best employee of the year.",
+  "exampleTamil": "அவள் ஆண்டின் சிறந்த ஊழியர் விருதை வென்றாள்.",
+  "synonyms": [
+   "prize",
+   "honour"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "commendation",
+  "tamil": "பாராட்டுச் சான்று",
+  "pos": "noun",
+  "pron": "kom-en-DAY-shun",
+  "example": "He received a commendation for his quick action.",
+  "exampleTamil": "அவன் துரிதச் செயலுக்காக பாராட்டுச் சான்று பெற்றான்.",
+  "synonyms": [
+   "praise",
+   "tribute"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "appreciation",
+  "tamil": "மதிப்பு, பாராட்டு",
+  "pos": "noun",
+  "pron": "uh-pree-shee-AY-shun",
+  "example": "My manager sent a note of appreciation.",
+  "exampleTamil": "என் மேலாளர் பாராட்டுக் குறிப்பு அனுப்பினார்.",
+  "synonyms": [
+   "gratitude",
+   "thanks"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "deliverable",
+  "tamil": "ஒப்படைக்க வேண்டிய பணி",
+  "pos": "noun",
+  "pron": "dih-LIV-er-uh-bul",
+  "example": "Each deliverable was reviewed before submission.",
+  "exampleTamil": "ஒவ்வொரு ஒப்படைப்பும் சமர்ப்பிக்கும் முன் சரிபார்க்கப்பட்டது.",
+  "synonyms": [
+   "output",
+   "work product"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "initiative",
+  "tamil": "முன்முயற்சி",
+  "pos": "noun",
+  "pron": "ih-NISH-uh-tiv",
+  "example": "I took the initiative to automate the report.",
+  "exampleTamil": "அறிக்கையைத் தானியக்கமாக்க நான் முன்முயற்சி எடுத்தேன்.",
+  "synonyms": [
+   "drive",
+   "enterprise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ownership",
+  "tamil": "உரிமைப் பொறுப்பு",
+  "pos": "noun",
+  "pron": "OH-ner-ship",
+  "example": "I take ownership of every task I accept.",
+  "exampleTamil": "நான் ஏற்கும் ஒவ்வொரு வேலையின் பொறுப்பையும் ஏற்கிறேன்.",
+  "synonyms": [
+   "responsibility",
+   "accountability"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "optimise",
+  "tamil": "மேம்படுத்து",
+  "pos": "verb",
+  "pron": "OP-tuh-myz",
+  "example": "I optimised the query and cut loading time by half.",
+  "exampleTamil": "நான் வினவலை மேம்படுத்தி ஏற்றும் நேரத்தை பாதியாக்கினேன்.",
+  "synonyms": [
+   "improve",
+   "fine-tune"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "setback",
+  "tamil": "பின்னடைவு",
+  "pos": "noun",
+  "pron": "SET-bak",
+  "example": "Losing the client was a setback, but we recovered.",
+  "exampleTamil": "வாடிக்கையாளரை இழந்தது பின்னடைவு, ஆனால் நாங்கள் மீண்டோம்.",
+  "synonyms": [
+   "difficulty",
+   "reversal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "obstacle",
+  "tamil": "தடை",
+  "pos": "noun",
+  "pron": "OB-stuh-kul",
+  "example": "The biggest obstacle was the tight budget.",
+  "exampleTamil": "மிகப்பெரிய தடை இறுக்கமான வரவுசெலவு.",
+  "synonyms": [
+   "barrier",
+   "hurdle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "adversity",
+  "tamil": "இன்னல்",
+  "pos": "noun",
+  "pron": "ad-VUR-sih-tee",
+  "example": "She showed courage in the face of adversity.",
+  "exampleTamil": "இன்னலிலும் அவள் துணிவைக் காட்டினாள்.",
+  "synonyms": [
+   "hardship",
+   "misfortune"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "learning curve",
+  "tamil": "கற்றல் வளைவு",
+  "pos": "phrase",
+  "pron": "LUR-ning KURV",
+  "example": "The job has a steep learning curve.",
+  "exampleTamil": "இந்த வேலையில் கற்றல் வளைவு செங்குத்தானது.",
+  "synonyms": [
+   "period of learning",
+   "adjustment time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "short-term",
+  "tamil": "குறுகிய காலத்து",
+  "pos": "adjective",
+  "pron": "SHORT-turm",
+  "example": "My short-term goal is to master this framework.",
+  "exampleTamil": "என் குறுகிய கால இலக்கு இந்த ஃபிரேம்வொர்க்கில் தேர்ச்சி பெறுவது.",
+  "synonyms": [
+   "immediate",
+   "near-future"
+  ],
+  "level": "beginner"
+ }
+]

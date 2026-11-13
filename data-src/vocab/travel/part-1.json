@@ -1,0 +1,759 @@
+[
+ {
+  "word": "airport",
+  "tamil": "விமான நிலையம்",
+  "pos": "noun",
+  "pron": "AIR-port",
+  "example": "We reached the airport two hours early.",
+  "exampleTamil": "நாங்கள் இரண்டு மணி நேரம் முன்பே விமான நிலையத்தை அடைந்தோம்.",
+  "synonyms": [
+   "airfield",
+   "terminal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "flight",
+  "tamil": "விமானப் பயணம்",
+  "pos": "noun",
+  "pron": "FLITE",
+  "example": "My flight leaves at six in the morning.",
+  "exampleTamil": "என் விமானம் காலை ஆறு மணிக்குப் புறப்படுகிறது.",
+  "synonyms": [
+   "air journey"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "passport",
+  "tamil": "கடவுச்சீட்டு",
+  "pos": "noun",
+  "pron": "PASS-port",
+  "example": "Please keep your passport in a safe place.",
+  "exampleTamil": "உங்கள் கடவுச்சீட்டை பாதுகாப்பான இடத்தில் வையுங்கள்.",
+  "synonyms": [
+   "travel document"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "visa",
+  "tamil": "விசா, நுழைவு அனுமதி",
+  "pos": "noun",
+  "pron": "VEE-zuh",
+  "example": "She applied for a tourist visa online.",
+  "exampleTamil": "அவள் சுற்றுலா விசாவுக்கு இணையத்தில் விண்ணப்பித்தாள்.",
+  "synonyms": [
+   "entry permit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "luggage",
+  "tamil": "பயணப் பெட்டிகள், சாமான்",
+  "pos": "noun",
+  "pron": "LUG-ij",
+  "example": "Our luggage was heavier than expected.",
+  "exampleTamil": "எங்கள் சாமான் எதிர்பார்த்ததை விட கனமாக இருந்தது.",
+  "synonyms": [
+   "baggage"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "baggage",
+  "tamil": "பயண சாமான்கள்",
+  "pos": "noun",
+  "pron": "BAG-ij",
+  "example": "Collect your baggage from belt number four.",
+  "exampleTamil": "உங்கள் சாமான்களை நான்காம் பெல்ட்டிலிருந்து எடுத்துக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "luggage"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "suitcase",
+  "tamil": "பெரிய பயணப் பெட்டி",
+  "pos": "noun",
+  "pron": "SOOT-kayss",
+  "example": "He packed a small suitcase for the trip.",
+  "exampleTamil": "அவன் பயணத்திற்கு ஒரு சிறிய பெட்டியை எடுத்துக்கொண்டான்.",
+  "synonyms": [
+   "case",
+   "trunk"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "backpack",
+  "tamil": "முதுகுப்பை",
+  "pos": "noun",
+  "pron": "BAK-pak",
+  "example": "I travel light with just a backpack.",
+  "exampleTamil": "நான் ஒரு முதுகுப்பையுடன் மட்டும் எளிதாகப் பயணிக்கிறேன்.",
+  "synonyms": [
+   "rucksack"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gate",
+  "tamil": "விமான வாயில் (கேட்)",
+  "pos": "noun",
+  "pron": "GAYT",
+  "example": "Your boarding gate is number twelve.",
+  "exampleTamil": "உங்கள் ஏறும் வாயில் பன்னிரண்டாம் எண்.",
+  "synonyms": [
+   "exit",
+   "entrance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "runway",
+  "tamil": "ஓடுபாதை",
+  "pos": "noun",
+  "pron": "RUN-way",
+  "example": "The plane waited on the runway for takeoff.",
+  "exampleTamil": "விமானம் புறப்பட ஓடுபாதையில் காத்திருந்தது.",
+  "synonyms": [
+   "airstrip"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "takeoff",
+  "tamil": "விமானம் புறப்படுதல்",
+  "pos": "noun",
+  "pron": "TAYK-off",
+  "example": "The takeoff was smooth despite the rain.",
+  "exampleTamil": "மழை இருந்தாலும் புறப்பாடு சீராக இருந்தது.",
+  "synonyms": [
+   "departure",
+   "liftoff"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "landing",
+  "tamil": "விமானம் தரையிறங்குதல்",
+  "pos": "noun",
+  "pron": "LAN-ding",
+  "example": "We felt a bump during the landing.",
+  "exampleTamil": "தரையிறங்கும் போது சிறு அதிர்வை உணர்ந்தோம்.",
+  "synonyms": [
+   "touchdown"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boarding",
+  "tamil": "விமானத்தில் ஏறுதல்",
+  "pos": "noun",
+  "pron": "BOR-ding",
+  "example": "Boarding starts forty minutes before departure.",
+  "exampleTamil": "புறப்படுவதற்கு நாற்பது நிமிடம் முன் ஏறுதல் தொடங்கும்.",
+  "synonyms": [
+   "embarkation"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "boarding pass",
+  "tamil": "ஏறு அனுமதிச் சீட்டு",
+  "pos": "phrase",
+  "pron": "BOR-ding pass",
+  "example": "Show your boarding pass at the gate.",
+  "exampleTamil": "வாயிலில் உங்கள் ஏறு அனுமதிச் சீட்டைக் காட்டுங்கள்.",
+  "synonyms": [
+   "flight pass"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "departure",
+  "tamil": "புறப்பாடு",
+  "pos": "noun",
+  "pron": "dih-PAR-cher",
+  "example": "The departure time has changed to noon.",
+  "exampleTamil": "புறப்படும் நேரம் நண்பகலுக்கு மாறியுள்ளது.",
+  "synonyms": [
+   "leaving"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "arrival",
+  "tamil": "வருகை",
+  "pos": "noun",
+  "pron": "uh-RY-vul",
+  "example": "Our arrival is scheduled for ten at night.",
+  "exampleTamil": "எங்கள் வருகை இரவு பத்து மணிக்கு திட்டமிடப்பட்டுள்ளது.",
+  "synonyms": [
+   "reaching"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "layover",
+  "tamil": "இடைநிறுத்தம் (இணைப்பு விமானத்திற்கு)",
+  "pos": "noun",
+  "pron": "LAY-oh-ver",
+  "example": "I had a five-hour layover in Dubai.",
+  "exampleTamil": "எனக்கு துபாயில் ஐந்து மணி நேர இடைநிறுத்தம் இருந்தது.",
+  "synonyms": [
+   "stopover"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stopover",
+  "tamil": "வழியில் தங்குதல்",
+  "pos": "noun",
+  "pron": "STOP-oh-ver",
+  "example": "We made a stopover in Singapore.",
+  "exampleTamil": "நாங்கள் சிங்கப்பூரில் வழியில் தங்கினோம்.",
+  "synonyms": [
+   "layover"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "connecting",
+  "tamil": "இணைப்பு (விமானம்)",
+  "pos": "adjective",
+  "pron": "kuh-NEK-ting",
+  "example": "I missed my connecting flight in Doha.",
+  "exampleTamil": "தோஹாவில் என் இணைப்பு விமானத்தைத் தவறவிட்டேன்.",
+  "synonyms": [
+   "linked"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "domestic",
+  "tamil": "உள்நாட்டு",
+  "pos": "adjective",
+  "pron": "duh-MES-tik",
+  "example": "This is a domestic flight, so no visa is needed.",
+  "exampleTamil": "இது உள்நாட்டு விமானம், அதனால் விசா தேவையில்லை.",
+  "synonyms": [
+   "internal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "international",
+  "tamil": "சர்வதேச",
+  "pos": "adjective",
+  "pron": "in-ter-NASH-uh-nul",
+  "example": "International passengers go to the left counter.",
+  "exampleTamil": "சர்வதேசப் பயணிகள் இடது கவுண்டருக்குச் செல்லவும்.",
+  "synonyms": [
+   "overseas"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "passenger",
+  "tamil": "பயணி",
+  "pos": "noun",
+  "pron": "PASS-un-jer",
+  "example": "Every passenger must wear a seat belt.",
+  "exampleTamil": "ஒவ்வொரு பயணியும் இருக்கைப் பட்டை அணிய வேண்டும்.",
+  "synonyms": [
+   "traveller",
+   "rider"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pilot",
+  "tamil": "விமானி",
+  "pos": "noun",
+  "pron": "PY-lut",
+  "example": "The pilot announced a short delay.",
+  "exampleTamil": "விமானி சிறிய தாமதத்தை அறிவித்தார்.",
+  "synonyms": [
+   "aviator"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cabin crew",
+  "tamil": "விமானப் பணியாளர்கள்",
+  "pos": "noun",
+  "pron": "KAB-in kroo",
+  "example": "The cabin crew served hot meals.",
+  "exampleTamil": "விமானப் பணியாளர்கள் சூடான உணவு பரிமாறினர்.",
+  "synonyms": [
+   "flight attendants"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "steward",
+  "tamil": "விமானப் பணியாளர் (ஆண்)",
+  "pos": "noun",
+  "pron": "STYOO-ard",
+  "example": "A steward helped me find my seat.",
+  "exampleTamil": "ஒரு பணியாளர் என் இருக்கையைக் கண்டுபிடிக்க உதவினார்.",
+  "synonyms": [
+   "attendant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "aisle",
+  "tamil": "நடைபாதை (இருக்கை வரிசைகளுக்கு இடையே)",
+  "pos": "noun",
+  "pron": "ILE",
+  "example": "I prefer an aisle seat on long flights.",
+  "exampleTamil": "நீண்ட பயணங்களில் நடைபாதை இருக்கையை விரும்புவேன்.",
+  "synonyms": [
+   "passage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "turbulence",
+  "tamil": "விமான அதிர்வு, குலுக்கல்",
+  "pos": "noun",
+  "pron": "TUR-byuh-lunss",
+  "example": "The plane shook badly in the turbulence.",
+  "exampleTamil": "விமானம் குலுக்கலில் மிகவும் ஆடியது.",
+  "synonyms": [
+   "bumpiness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "jet lag",
+  "tamil": "நேர மாற்றக் களைப்பு",
+  "pos": "noun",
+  "pron": "JET lag",
+  "example": "I still have jet lag after the long flight.",
+  "exampleTamil": "நீண்ட பயணத்திற்குப் பிறகும் எனக்கு நேர மாற்றக் களைப்பு உள்ளது.",
+  "synonyms": [
+   "time-zone fatigue"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "check-in",
+  "tamil": "பயணப் பதிவு (செக்-இன்)",
+  "pos": "noun",
+  "pron": "CHEK-in",
+  "example": "Online check-in opens one day before departure.",
+  "exampleTamil": "இணைய செக்-இன் புறப்படுவதற்கு ஒரு நாள் முன் தொடங்கும்.",
+  "synonyms": [
+   "registration"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "check in",
+  "tamil": "பயணப் பதிவு செய்தல்",
+  "pos": "phrasal verb",
+  "pron": "chek IN",
+  "example": "We need to check in before eight o'clock.",
+  "exampleTamil": "நாம் எட்டு மணிக்கு முன் செக்-இன் செய்ய வேண்டும்.",
+  "synonyms": [
+   "register"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "check out",
+  "tamil": "விடுதியிலிருந்து வெளியேறுதல்",
+  "pos": "phrasal verb",
+  "pron": "chek OWT",
+  "example": "Guests must check out by eleven.",
+  "exampleTamil": "விருந்தினர்கள் பதினொரு மணிக்குள் வெளியேற வேண்டும்.",
+  "synonyms": [
+   "leave",
+   "vacate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "counter",
+  "tamil": "கவுண்டர்",
+  "pos": "noun",
+  "pron": "KOWN-ter",
+  "example": "Please go to counter five for baggage drop.",
+  "exampleTamil": "சாமான் ஒப்படைக்க ஐந்தாம் கவுண்டருக்குச் செல்லுங்கள்.",
+  "synonyms": [
+   "desk"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "carry-on",
+  "tamil": "கையில் கொண்டு செல்லும் பை",
+  "pos": "noun",
+  "pron": "KAR-ee-on",
+  "example": "My carry-on fits under the seat.",
+  "exampleTamil": "என் கைப்பை இருக்கைக்கு அடியில் பொருந்தும்.",
+  "synonyms": [
+   "hand luggage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overhead locker",
+  "tamil": "தலைக்கு மேல் சாமான் பெட்டி",
+  "pos": "noun",
+  "pron": "OH-ver-hed LOK-er",
+  "example": "Put your bag in the overhead locker.",
+  "exampleTamil": "உங்கள் பையை தலைக்கு மேலுள்ள பெட்டியில் வையுங்கள்.",
+  "synonyms": [
+   "overhead bin"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "excess",
+  "tamil": "கூடுதலான",
+  "pos": "adjective",
+  "pron": "EK-sess",
+  "example": "You must pay for excess baggage.",
+  "exampleTamil": "கூடுதல் சாமானுக்கு நீங்கள் கட்டணம் செலுத்த வேண்டும்.",
+  "synonyms": [
+   "extra"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "weigh",
+  "tamil": "எடை பார்த்தல்",
+  "pos": "verb",
+  "pron": "WAY",
+  "example": "They weigh each bag at the counter.",
+  "exampleTamil": "கவுண்டரில் ஒவ்வொரு பையின் எடையையும் பார்க்கிறார்கள்.",
+  "synonyms": [
+   "measure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "conveyor belt",
+  "tamil": "சாமான் நகரும் பெல்ட்",
+  "pos": "noun",
+  "pron": "kun-VAY-er belt",
+  "example": "We waited at the conveyor belt for our bags.",
+  "exampleTamil": "நாங்கள் பெல்ட்டில் எங்கள் பைகளுக்காகக் காத்திருந்தோம்.",
+  "synonyms": [
+   "baggage belt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tag",
+  "tamil": "அடையாள ஒட்டி",
+  "pos": "noun",
+  "pron": "TAG",
+  "example": "Attach a tag with your name to the bag.",
+  "exampleTamil": "பையில் உங்கள் பெயர் உள்ள அடையாள ஒட்டியை இணைக்கவும்.",
+  "synonyms": [
+   "label"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fragile",
+  "tamil": "உடையக்கூடிய",
+  "pos": "adjective",
+  "pron": "FRAJ-ile",
+  "example": "Mark the box fragile before shipping it.",
+  "exampleTamil": "அனுப்புவதற்கு முன் பெட்டியில் உடையக்கூடியது என எழுதுங்கள்.",
+  "synonyms": [
+   "breakable",
+   "delicate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "security",
+  "tamil": "பாதுகாப்புச் சோதனை",
+  "pos": "noun",
+  "pron": "sih-KYOOR-ih-tee",
+  "example": "Security checks take around twenty minutes.",
+  "exampleTamil": "பாதுகாப்புச் சோதனை சுமார் இருபது நிமிடம் ஆகும்.",
+  "synonyms": [
+   "screening"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scanner",
+  "tamil": "ஸ்கேனர், சோதனைக் கருவி",
+  "pos": "noun",
+  "pron": "SKAN-er",
+  "example": "Put your bag through the scanner.",
+  "exampleTamil": "உங்கள் பையை ஸ்கேனரில் வையுங்கள்.",
+  "synonyms": [
+   "detector"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "metal detector",
+  "tamil": "உலோகக் கண்டுபிடிப்புக் கருவி",
+  "pos": "noun",
+  "pron": "MET-ul dih-TEK-ter",
+  "example": "He walked through the metal detector.",
+  "exampleTamil": "அவன் உலோகக் கண்டுபிடிப்புக் கருவி வழியே நடந்தான்.",
+  "synonyms": [
+   "scanner"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pat-down",
+  "tamil": "உடல் சோதனை",
+  "pos": "noun",
+  "pron": "PAT-down",
+  "example": "The officer gave me a quick pat-down.",
+  "exampleTamil": "அதிகாரி என்னை விரைவாக உடல் சோதனை செய்தார்.",
+  "synonyms": [
+   "body search"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "prohibited",
+  "tamil": "தடை செய்யப்பட்ட",
+  "pos": "adjective",
+  "pron": "pro-HIB-ih-tid",
+  "example": "Sharp objects are prohibited in cabin bags.",
+  "exampleTamil": "கூர்மையான பொருட்கள் கைப்பையில் தடை செய்யப்பட்டுள்ளன.",
+  "synonyms": [
+   "banned",
+   "forbidden"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "liquids",
+  "tamil": "திரவங்கள்",
+  "pos": "noun",
+  "pron": "LIK-widz",
+  "example": "Liquids over one hundred millilitres are not allowed.",
+  "exampleTamil": "நூறு மில்லிலிட்டருக்கு மேற்பட்ட திரவங்களுக்கு அனுமதி இல்லை.",
+  "synonyms": [
+   "fluids"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "immigration",
+  "tamil": "குடியேற்றத் துறை",
+  "pos": "noun",
+  "pron": "im-ih-GRAY-shun",
+  "example": "The immigration queue moved very slowly.",
+  "exampleTamil": "குடியேற்றத் துறை வரிசை மிகவும் மெதுவாக நகர்ந்தது.",
+  "synonyms": [
+   "border control"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "customs",
+  "tamil": "சுங்கத் துறை",
+  "pos": "noun",
+  "pron": "KUS-tumz",
+  "example": "We cleared customs without any trouble.",
+  "exampleTamil": "நாங்கள் எந்தச் சிக்கலும் இல்லாமல் சுங்கச் சோதனையை முடித்தோம்.",
+  "synonyms": [
+   "duty office"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "duty-free",
+  "tamil": "வரி இல்லாத",
+  "pos": "adjective",
+  "pron": "dyoo-tee-FREE",
+  "example": "I bought chocolates at the duty-free shop.",
+  "exampleTamil": "நான் வரி இல்லாக் கடையில் சாக்லேட் வாங்கினேன்.",
+  "synonyms": [
+   "tax-free"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "border",
+  "tamil": "எல்லை",
+  "pos": "noun",
+  "pron": "BOR-der",
+  "example": "The train stops at the border for inspection.",
+  "exampleTamil": "ரயில் சோதனைக்காக எல்லையில் நிற்கிறது.",
+  "synonyms": [
+   "frontier"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "quarantine",
+  "tamil": "தனிமைப்படுத்தல்",
+  "pos": "noun",
+  "pron": "KWOR-un-teen",
+  "example": "Animals may need quarantine on arrival.",
+  "exampleTamil": "விலங்குகளுக்கு வந்தவுடன் தனிமைப்படுத்தல் தேவைப்படலாம்.",
+  "synonyms": [
+   "isolation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nationality",
+  "tamil": "தேசியம், குடியுரிமை நாடு",
+  "pos": "noun",
+  "pron": "nash-uh-NAL-ih-tee",
+  "example": "Write your nationality in this box.",
+  "exampleTamil": "இந்தப் பெட்டியில் உங்கள் தேசியத்தை எழுதுங்கள்.",
+  "synonyms": [
+   "citizenship"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "citizen",
+  "tamil": "குடிமகன்",
+  "pos": "noun",
+  "pron": "SIT-ih-zun",
+  "example": "Citizens use the left line, visitors use the right.",
+  "exampleTamil": "குடிமக்கள் இடது வரிசையையும், பார்வையாளர்கள் வலது வரிசையையும் பயன்படுத்துவர்.",
+  "synonyms": [
+   "national"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "resident",
+  "tamil": "குடியிருப்பாளர்",
+  "pos": "noun",
+  "pron": "REZ-ih-dunt",
+  "example": "He is a permanent resident of Canada.",
+  "exampleTamil": "அவர் கனடாவின் நிரந்தரக் குடியிருப்பாளர்.",
+  "synonyms": [
+   "inhabitant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "renew",
+  "tamil": "புதுப்பித்தல்",
+  "pos": "verb",
+  "pron": "rih-NYOO",
+  "example": "I need to renew my passport next month.",
+  "exampleTamil": "நான் அடுத்த மாதம் கடவுச்சீட்டைப் புதுப்பிக்க வேண்டும்.",
+  "synonyms": [
+   "extend",
+   "refresh"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "valid",
+  "tamil": "செல்லுபடியாகும்",
+  "pos": "adjective",
+  "pron": "VAL-id",
+  "example": "Your passport must be valid for six months.",
+  "exampleTamil": "உங்கள் கடவுச்சீட்டு ஆறு மாதம் செல்லுபடியாக இருக்க வேண்டும்.",
+  "synonyms": [
+   "legal",
+   "current"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "embassy",
+  "tamil": "தூதரகம்",
+  "pos": "noun",
+  "pron": "EM-buh-see",
+  "example": "Visit the embassy to collect your visa.",
+  "exampleTamil": "விசாவைப் பெற தூதரகத்திற்குச் செல்லுங்கள்.",
+  "synonyms": [
+   "consulate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tourist",
+  "tamil": "சுற்றுலாப் பயணி",
+  "pos": "noun",
+  "pron": "TOOR-ist",
+  "example": "Many tourists visit this beach in summer.",
+  "exampleTamil": "கோடையில் பல சுற்றுலாப் பயணிகள் இந்தக் கடற்கரைக்கு வருகிறார்கள்.",
+  "synonyms": [
+   "visitor",
+   "sightseer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "traveller",
+  "tamil": "பயணி",
+  "pos": "noun",
+  "pron": "TRAV-uh-ler",
+  "example": "Solo travellers often stay in hostels.",
+  "exampleTamil": "தனியாகப் பயணிப்போர் பெரும்பாலும் விடுதிகளில் தங்குவர்.",
+  "synonyms": [
+   "voyager"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "destination",
+  "tamil": "சேரும் இடம்",
+  "pos": "noun",
+  "pron": "des-tih-NAY-shun",
+  "example": "Goa is a popular holiday destination.",
+  "exampleTamil": "கோவா பிரபலமான விடுமுறைச் சுற்றுலா இடம்.",
+  "synonyms": [
+   "goal",
+   "endpoint"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "journey",
+  "tamil": "நீண்ட பயணம்",
+  "pos": "noun",
+  "pron": "JUR-nee",
+  "example": "The journey from Chennai took ten hours.",
+  "exampleTamil": "சென்னையிலிருந்து பயணம் பத்து மணி நேரம் ஆனது.",
+  "synonyms": [
+   "trip",
+   "voyage"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trip",
+  "tamil": "சிறு பயணம்",
+  "pos": "noun",
+  "pron": "TRIP",
+  "example": "We planned a weekend trip to Ooty.",
+  "exampleTamil": "நாங்கள் ஊட்டிக்கு வார இறுதிப் பயணம் திட்டமிட்டோம்.",
+  "synonyms": [
+   "excursion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "departure lounge",
+  "tamil": "புறப்பாட்டு ஓய்வறை",
+  "pos": "noun",
+  "pron": "dih-PAR-cher lownj",
+  "example": "We rested in the departure lounge.",
+  "exampleTamil": "நாங்கள் புறப்பாட்டு ஓய்வறையில் ஓய்வெடுத்தோம்.",
+  "synonyms": [
+   "waiting area"
+  ],
+  "level": "advanced"
+ }
+]

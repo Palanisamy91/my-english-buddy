@@ -1,0 +1,372 @@
+[
+ {
+  "en": "Anna, how much is one kilo of tomatoes today?",
+  "tamil": "அண்ணா, இன்னைக்கு ஒரு கிலோ தக்காளி என்ன விலை?",
+  "context": "Asking a vegetable seller the price.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How much' is used to ask the price of something. 'Today' shows prices can change daily.",
+  "words": [
+   "kilo",
+   "tomatoes"
+  ],
+  "usage": "Use it at a vegetable market before you buy anything.",
+  "leelaQ": "How much do you pay for tomatoes these days?",
+  "answer": "I usually pay around thirty rupees for a kilo of tomatoes."
+ },
+ {
+  "en": "I will take two kilos if you reduce the rate.",
+  "tamil": "நீங்க ரேட்டை குறைச்சா ரெண்டு கிலோ வாங்கிக்கிறேன்.",
+  "context": "Offering to buy more for a lower price.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'If you reduce the rate' is the condition. 'I will take' is the result you promise.",
+  "words": [
+   "reduce",
+   "rate"
+  ],
+  "usage": "Use it while bargaining with a shopkeeper when you want to buy more.",
+  "leelaQ": "What do you say when you want a better price in a market?",
+  "answer": "I say that I will buy more if the shopkeeper reduces the price."
+ },
+ {
+  "en": "Please don't give me a plastic bag, I have my own cloth bag.",
+  "tamil": "ப்ளாஸ்டிக் பை வேண்டாம், என்கிட்ட துணிப்பை இருக்கு.",
+  "context": "Refusing a plastic bag at a shop.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't give me' is a polite negative command. The reason follows after the comma.",
+  "words": [
+   "plastic bag",
+   "cloth bag"
+  ],
+  "usage": "Use it at the billing counter when you carry your own bag.",
+  "leelaQ": "Do you carry a cloth bag when you go shopping?",
+  "answer": "Yes, I always keep a cloth bag in my scooter."
+ },
+ {
+  "en": "Is this mango sweet or sour?",
+  "tamil": "இந்த மாம்பழம் இனிப்பா, புளிப்பா?",
+  "context": "Checking the taste before buying fruit.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Sweet or sour?' gives two choices, so the seller can answer in one word.",
+  "words": [
+   "mango",
+   "sweet",
+   "sour"
+  ],
+  "usage": "Use it at a fruit stall before you buy mangoes.",
+  "leelaQ": "Which fruit do you like the most?",
+  "answer": "I like mangoes the most because they are very sweet."
+ },
+ {
+  "en": "Can you weigh it once again, please?",
+  "tamil": "இன்னொரு தடவை எடை போட்டு காட்டுங்க, please.",
+  "context": "Asking a seller to check the weight.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you' with 'please' is a polite request. 'Once again' means one more time.",
+  "words": [
+   "weigh"
+  ],
+  "usage": "Use it when you think the weight on the scale is not correct.",
+  "leelaQ": "What will you do if the weight looks wrong?",
+  "answer": "I will politely ask the seller to weigh it once again."
+ },
+ {
+  "en": "The vegetables here are always fresh in the morning.",
+  "tamil": "இங்க காலையில காய்கறி எப்பவும் ஃப்ரெஷ்ஷா இருக்கும்.",
+  "context": "Telling a friend why you shop early.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Always' with the simple present talks about a habit or a regular fact.",
+  "words": [
+   "vegetables",
+   "fresh"
+  ],
+  "usage": "Use it when you recommend a market or shop to a friend.",
+  "leelaQ": "When do you go to the market, morning or evening?",
+  "answer": "I go in the morning because the vegetables are fresh."
+ },
+ {
+  "en": "I bought these bananas for forty rupees a dozen.",
+  "tamil": "இந்த வாழைப்பழத்தை டஜன் நாற்பது ரூபாய்க்கு வாங்கினேன்.",
+  "context": "Telling someone what you paid.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Bought' is the past of 'buy'. 'A dozen' means twelve pieces.",
+  "words": [
+   "bought",
+   "dozen"
+  ],
+  "usage": "Use it when family or neighbours ask how much you paid.",
+  "leelaQ": "What did you buy at the market last time?",
+  "answer": "I bought some bananas and a few onions last time."
+ },
+ {
+  "en": "Give me a quarter kilo of green chillies.",
+  "tamil": "கால் கிலோ பச்சை மிளகாய் கொடுங்க.",
+  "context": "Ordering a small quantity at a stall.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Quarter kilo' means 250 grams. Add 'please' to sound more polite.",
+  "words": [
+   "quarter",
+   "chillies"
+  ],
+  "usage": "Use it at a vegetable shop when you need only a small amount.",
+  "leelaQ": "How much chilli do you use for cooking at home?",
+  "answer": "We use only a quarter kilo of chillies in a week."
+ },
+ {
+  "en": "You are charging me more because I am new here.",
+  "tamil": "நான் புதுசுன்னு என்கிட்ட அதிகமா வாங்குறீங்க.",
+  "context": "Complaining politely about a higher price.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'You are charging' describes what is happening now. 'Because' gives the reason.",
+  "words": [
+   "charging",
+   "new here"
+  ],
+  "usage": "Use it when you feel a seller is asking a tourist price.",
+  "leelaQ": "Have you ever paid more than the real price?",
+  "answer": "Yes, once a shopkeeper charged me double at a temple market."
+ },
+ {
+  "en": "That shop is cheaper, so I am going there.",
+  "tamil": "அந்த கடையில விலை குறைவு, அதனால அங்க போறேன்.",
+  "context": "Walking away to a cheaper shop.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'So' joins the reason and the result. 'Am going' shows a plan happening now.",
+  "words": [
+   "cheaper"
+  ],
+  "usage": "Use it as a polite way to leave when the price is too high.",
+  "leelaQ": "Do you compare prices before buying something?",
+  "answer": "Yes, I check two or three shops before I buy."
+ },
+ {
+  "en": "Have you got change for a five hundred rupee note?",
+  "tamil": "ஐநூறு ரூபாய் நோட்டுக்கு சில்லறை இருக்கா?",
+  "context": "Asking a shopkeeper for change.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you got' is a common way to ask if someone has something. 'Change' means small notes or coins.",
+  "words": [
+   "change",
+   "note"
+  ],
+  "usage": "Use it at small shops when you only have a big note.",
+  "leelaQ": "What do you do when a shop has no change?",
+  "answer": "I pay by UPI or buy something small to get change."
+ },
+ {
+  "en": "We have been shopping in this market for ten years.",
+  "tamil": "நாங்க இந்த மார்க்கெட்டுல பத்து வருஷமா வாங்குறோம்.",
+  "context": "Telling a seller you are a regular customer.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been shopping' with 'for ten years' shows an action that started in the past and continues.",
+  "words": [
+   "market",
+   "years"
+  ],
+  "usage": "Use it to ask a regular seller for a better price.",
+  "leelaQ": "Where does your family usually shop for groceries?",
+  "answer": "We usually shop at the market near our house."
+ },
+ {
+  "en": "I never buy fruits from the roadside without checking them.",
+  "tamil": "நான் ரோட்டோரத்துல பழம் பார்க்காம வாங்கவே மாட்டேன்.",
+  "context": "Explaining your careful shopping habit.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' makes the sentence negative. 'Without checking' means before checking.",
+  "words": [
+   "never",
+   "roadside"
+  ],
+  "usage": "Use it when you talk about being careful with food and money.",
+  "leelaQ": "How do you check fruits before buying?",
+  "answer": "I press them gently and smell them before buying."
+ },
+ {
+  "en": "Keep the change, thank you.",
+  "tamil": "மீதி சில்லறை வெச்சுக்கோங்க, நன்றி.",
+  "context": "Telling a helper to keep the extra money.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Keep the change' means you do not want the extra money back. It is polite with 'thank you'.",
+  "words": [
+   "change"
+  ],
+  "usage": "Use it with an auto driver or a helper when you want to tip.",
+  "leelaQ": "When do you give a small tip to someone?",
+  "answer": "I give a small tip when someone helps me carry heavy bags."
+ },
+ {
+  "en": "The jasmine flowers smell so good today!",
+  "tamil": "இன்னைக்கு மல்லிப்பூ ரொம்ப வாசனையா இருக்கு!",
+  "context": "Enjoying the flowers at a flower stall.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Smell good' describes the nice smell. 'So' makes the feeling stronger.",
+  "words": [
+   "jasmine",
+   "smell"
+  ],
+  "usage": "Use it at a flower stall, or when someone brings flowers home.",
+  "leelaQ": "Do you buy flowers for your house?",
+  "answer": "Yes, I buy jasmine flowers every Friday for the pooja."
+ },
+ {
+  "en": "Could you show me the other colour as well?",
+  "tamil": "மத்த கலரையும் காட்டுவீங்களா?",
+  "context": "Asking a seller to show more options.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is softer and more polite than 'Can you'. 'As well' means also.",
+  "words": [
+   "colour"
+  ],
+  "usage": "Use it in a cloth shop when you want to compare colours.",
+  "leelaQ": "What colour do you like for your clothes?",
+  "answer": "I like blue and green colours for my shirts."
+ },
+ {
+  "en": "He will bargain until the price comes down.",
+  "tamil": "விலை குறையுற வரைக்கும் அவன் பேரம் பேசுவான்.",
+  "context": "Describing a friend who bargains a lot.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Until' shows the point where the action stops. 'Will' shows what he is going to do.",
+  "words": [
+   "bargain",
+   "until"
+  ],
+  "usage": "Use it when you describe someone who likes to bargain.",
+  "leelaQ": "Are you good at bargaining?",
+  "answer": "Not really, but I try to ask for a small discount."
+ },
+ {
+  "en": "I can't pay more than three hundred.",
+  "tamil": "முன்னூறுக்கு மேல என்னால கொடுக்க முடியாது.",
+  "context": "Stating your maximum price.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Can't pay more than' sets a limit. It is a firm but polite way to bargain.",
+  "words": [
+   "pay"
+  ],
+  "usage": "Use it when you want to end bargaining at your budget.",
+  "leelaQ": "What do you say when something is above your budget?",
+  "answer": "I say that it is too costly and I cannot pay that much."
+ },
+ {
+  "en": "Where can I find fresh coriander leaves?",
+  "tamil": "புது கொத்தமல்லி தழை எங்க கிடைக்கும்?",
+  "context": "Asking where to find an item in the market.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Where can I find' is a useful way to ask for the location of a thing.",
+  "words": [
+   "coriander",
+   "fresh"
+  ],
+  "usage": "Use it when the item you need is not at the stall in front of you.",
+  "leelaQ": "What do you do when you cannot find something in a shop?",
+  "answer": "I ask the shopkeeper where I can find it."
+ },
+ {
+  "en": "My mother always buys vegetables from the same seller.",
+  "tamil": "எங்கம்மா எப்பவும் ஒரே கடைக்காரர்கிட்டதான் காய்கறி வாங்குவாங்க.",
+  "context": "Talking about a family habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Always' and 'buys' show a regular habit. 'The same' means not a different one.",
+  "words": [
+   "always",
+   "seller"
+  ],
+  "usage": "Use it when you talk about your family shopping habits.",
+  "leelaQ": "Who does the shopping at your home?",
+  "answer": "My mother does most of the shopping at home."
+ },
+ {
+  "en": "Please pack these separately.",
+  "tamil": "இதெல்லாம் தனித்தனியா பேக் பண்ணுங்க.",
+  "context": "Asking a seller to pack things apart.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Separately' means not together. 'Please' makes the order polite.",
+  "words": [
+   "pack",
+   "separately"
+  ],
+  "usage": "Use it when you buy items that should not touch each other, like fish and fruit.",
+  "leelaQ": "How do you pack things when you carry them home?",
+  "answer": "I put the heavy things at the bottom of the bag."
+ },
+ {
+  "en": "I picked the best tomatoes myself.",
+  "tamil": "நல்ல தக்காளியை நானே பார்த்து எடுத்தேன்.",
+  "context": "Proudly telling your family about your choice.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Picked' is the past of 'pick'. 'Myself' stresses that you did it, not someone else.",
+  "words": [
+   "picked",
+   "myself"
+  ],
+  "usage": "Use it when you come home from the market and tell your family.",
+  "leelaQ": "Do you like choosing vegetables yourself?",
+  "answer": "Yes, I like choosing them myself so they are good."
+ },
+ {
+  "en": "Are these sarees handloom or machine made?",
+  "tamil": "இந்த புடவைங்க கைத்தறியா, மெஷின்ல செஞ்சதா?",
+  "context": "Asking a shopkeeper about the cloth.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Handloom or machine made' gives two choices. 'Are these' is used for many things.",
+  "words": [
+   "sarees",
+   "handloom"
+  ],
+  "usage": "Use it in a cloth shop when you care about quality and price.",
+  "leelaQ": "What do you check before buying a saree or shirt?",
+  "answer": "I check the cloth quality and the colour carefully."
+ },
+ {
+  "en": "I will come back after looking at two more shops.",
+  "tamil": "இன்னும் ரெண்டு கடை பார்த்துட்டு திரும்ப வர்றேன்.",
+  "context": "Politely leaving without buying.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'After looking at' is used with -ing. It is a polite way to leave a shop.",
+  "words": [
+   "after",
+   "shops"
+  ],
+  "usage": "Use it when you are not ready to buy now but may buy later.",
+  "leelaQ": "What do you say when you do not want to buy something?",
+  "answer": "I say thank you and tell them I will come back later."
+ },
+ {
+  "en": "Is this the final price or can we talk a little more?",
+  "tamil": "இதுதான் கடைசி விலையா, இல்ல இன்னும் கொஞ்சம் பேசலாமா?",
+  "context": "Checking if the seller can reduce more.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Or' joins two choices. 'A little more' is a soft way to ask for more discount.",
+  "words": [
+   "final price"
+  ],
+  "usage": "Use it at the end of bargaining to see if there is room for a small discount.",
+  "leelaQ": "How do you feel about bargaining at a market?",
+  "answer": "I enjoy it because I can save a little money."
+ }
+]

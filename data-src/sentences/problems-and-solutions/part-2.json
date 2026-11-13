@@ -1,0 +1,376 @@
+[
+  {
+    "en": "I submitted the form online, but nothing happened.",
+    "tamil": "நான் பாரத்தை ஆன்லைன்ல சமர்ப்பிச்சேன், ஆனா ஒண்ணும் நடக்கல.",
+    "context": "Reporting an online form problem.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'But' shows a surprise result. 'Nothing happened' means no response came.",
+    "words": [
+      "submitted",
+      "form"
+    ],
+    "usage": "Say this to a help desk when a website does not respond.",
+    "leelaQ": "What website forms have you filled recently?",
+    "answer": "I filled a form for my driving licence."
+  },
+  {
+    "en": "Our neighbour plays loud music every night.",
+    "tamil": "எங்க பக்கத்து வீட்டுக்காரர் தினமும் ராத்திரி சத்தமா பாட்டு போடுறாரு.",
+    "context": "Telling the apartment secretary about noise.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "Simple present with 'every night' shows a habit that is a problem.",
+    "words": [
+      "neighbour",
+      "loud"
+    ],
+    "usage": "Say this to the apartment association when a noise problem continues.",
+    "leelaQ": "How do you handle noisy neighbours?",
+    "answer": "I talk to them politely first."
+  },
+  {
+    "en": "I have lost my wallet, and my cards are in it.",
+    "tamil": "என் வாலெட் தொலைஞ்சுடுச்சு, அதுல என் கார்டுகளும் இருக்கு.",
+    "context": "Reporting a lost wallet urgently.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Have lost' tells that the loss matters now. The second part adds urgency.",
+    "words": [
+      "wallet",
+      "lost"
+    ],
+    "usage": "Say this at a police station or bank when you need to block your cards.",
+    "leelaQ": "What would you do first if you lost your wallet?",
+    "answer": "I would block my cards and then tell the police."
+  },
+  {
+    "en": "The doctor was busy, so I could not get an appointment.",
+    "tamil": "டாக்டர் பிஸியா இருந்தாரு, அதனால எனக்கு அப்பாயின்ட்மென்ட் கிடைக்கல.",
+    "context": "Explaining a missed hospital visit.",
+    "tense": "past",
+    "type": "negative",
+    "explain": "'So' connects a reason and a result. 'Could not' shows inability.",
+    "words": [
+      "appointment",
+      "busy"
+    ],
+    "usage": "Use it with family or your boss when you could not see the doctor.",
+    "leelaQ": "How do you book a doctor's appointment?",
+    "answer": "I call the clinic or use their app."
+  },
+  {
+    "en": "We will replace the item within three working days.",
+    "tamil": "நாங்க மூணு வேலை நாட்களுக்குள்ள அந்த பொருளை மாத்தி தருவோம்.",
+    "context": "A store promising a replacement.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "'Within' sets a time limit. 'Working days' means not Sundays or holidays.",
+    "words": [
+      "replace",
+      "within"
+    ],
+    "usage": "Shop staff say this to give customers a clear promise.",
+    "leelaQ": "Have you ever exchanged something you bought?",
+    "answer": "Yes, I exchanged a shirt that was too small."
+  },
+  {
+    "en": "The tap is dripping, and it wastes a lot of water.",
+    "tamil": "டேப் சொட்டுது, அது நிறைய தண்ணி வீணாக்குது.",
+    "context": "Asking the house owner to repair a tap.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'And' adds a second reason. 'Dripping' means falling in small drops.",
+    "words": [
+      "tap",
+      "dripping"
+    ],
+    "usage": "Use it when you report a small repair at home.",
+    "leelaQ": "How do you save water at home?",
+    "answer": "I close the tap while brushing my teeth."
+  },
+  {
+    "en": "I am really sorry, I forgot to send the file.",
+    "tamil": "ரொம்ப மன்னிச்சுக்கோங்க, பைலை அனுப்ப மறந்துட்டேன்.",
+    "context": "Apologising to a manager for a missed task.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Forgot to' plus a verb means you did not do something you should have.",
+    "words": [
+      "forgot",
+      "file"
+    ],
+    "usage": "Say this honestly to a manager, then send the file at once.",
+    "leelaQ": "Do you often forget things? What helps?",
+    "answer": "Yes, so I use reminders on my phone."
+  },
+  {
+    "en": "The train was cancelled, and there was no announcement.",
+    "tamil": "டிரெயின் ரத்து செய்யப்பட்டது, எந்த அறிவிப்பும் இல்ல.",
+    "context": "Complaining at a railway enquiry counter.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Was cancelled' is passive. 'There was no announcement' explains the complaint.",
+    "words": [
+      "cancelled",
+      "announcement"
+    ],
+    "usage": "Use it at a railway counter or in a complaint post.",
+    "leelaQ": "What do you do when your train is cancelled?",
+    "answer": "I look for a bus or ask the counter for a refund."
+  },
+  {
+    "en": "My son is not feeling well, so he will miss class.",
+    "tamil": "என் பையனுக்கு உடம்பு சரியில்ல, அதனால அவன் கிளாஸுக்கு வர மாட்டான்.",
+    "context": "A parent informing a teacher.",
+    "tense": "future",
+    "type": "negative",
+    "explain": "'Not feeling well' is a polite way to say sick. 'Will miss' means will not attend.",
+    "words": [
+      "feeling well",
+      "miss"
+    ],
+    "usage": "A parent says this in a note or message to a teacher.",
+    "leelaQ": "How do you tell your office when you are sick?",
+    "answer": "I send a message to my manager in the morning."
+  },
+  {
+    "en": "Let me explain what went wrong yesterday.",
+    "tamil": "நேத்து என்ன தப்பா போச்சுன்னு நான் விளக்கறேன்.",
+    "context": "Starting an honest explanation in a meeting.",
+    "tense": "imperative",
+    "type": "statement",
+    "explain": "'Let me' offers to do something. 'Went wrong' means failed or did not work.",
+    "words": [
+      "explain",
+      "went wrong"
+    ],
+    "usage": "Use it to begin explaining a failure calmly to your team.",
+    "leelaQ": "How do you explain a failure to your team?",
+    "answer": "I tell them the facts and what we learned."
+  },
+  {
+    "en": "The shop gave me the wrong change.",
+    "tamil": "கடைக்காரர் எனக்கு தப்பான சில்லறை கொடுத்துட்டாரு.",
+    "context": "Telling someone about a billing mistake.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Gave' is the past of 'give'. 'Change' means money returned to you.",
+    "words": [
+      "wrong",
+      "change"
+    ],
+    "usage": "Say this when you return to a shop after counting your change.",
+    "leelaQ": "Do you check your change after you shop?",
+    "answer": "Yes, I always count it at the counter."
+  },
+  {
+    "en": "The app crashes every time I open the camera.",
+    "tamil": "கேமராவை திறக்கும் ஒவ்வொரு தடவையும் ஆப் கிராஷ் ஆகுது.",
+    "context": "Writing a bug report for an app team.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Every time' tells the exact situation, which is helpful in a bug report.",
+    "words": [
+      "crashes",
+      "every time"
+    ],
+    "usage": "Use it in a review or support email to describe a repeated bug.",
+    "leelaQ": "Which app do you use the most?",
+    "answer": "I use WhatsApp the most every day."
+  },
+  {
+    "en": "I am calling about the complaint I raised last week.",
+    "tamil": "நான் போன வாரம் கொடுத்த புகார் பத்தி பேசறதுக்காக கூப்பிடுறேன்.",
+    "context": "Following up on a complaint by phone.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "'I am calling about' starts a phone call politely and states the reason.",
+    "words": [
+      "complaint",
+      "raised"
+    ],
+    "usage": "Say this on a customer care call when no one has replied.",
+    "leelaQ": "Have you ever made a complaint? What happened?",
+    "answer": "Yes, I complained about a bill and they corrected it."
+  },
+  {
+    "en": "It was a small mistake, and it is easy to correct.",
+    "tamil": "அது ஒரு சின்ன தப்பு, சரி பண்றது ரொம்ப சுலபம்.",
+    "context": "Reassuring a colleague who made an error.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "Using 'it was' and 'it is' together comforts someone about a mistake.",
+    "words": [
+      "mistake",
+      "correct"
+    ],
+    "usage": "Say this to calm a nervous teammate or a student.",
+    "leelaQ": "How do you comfort someone who made a mistake?",
+    "answer": "I tell them everyone makes mistakes."
+  },
+  {
+    "en": "We are working on it and will update you soon.",
+    "tamil": "நாங்க அதுல வேலை செய்றோம், சீக்கிரம் உங்களுக்கு அப்டேட் தருவோம்.",
+    "context": "Giving a status update to a client.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "Present continuous 'are working' plus 'will' shows work in progress and a promise.",
+    "words": [
+      "working on",
+      "update"
+    ],
+    "usage": "Use it when a client asks about a delayed task.",
+    "leelaQ": "What do you say when your work is not ready yet?",
+    "answer": "I say it is in progress and give a new time."
+  },
+  {
+    "en": "I booked a window seat, but they gave me the aisle.",
+    "tamil": "நான் ஜன்னல் சீட் புக் பண்ணேன், ஆனா அவங்க நடைபாதை சீட் கொடுத்தாங்க.",
+    "context": "Complaining at an airline counter.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'But' shows the difference between what you wanted and what you got.",
+    "words": [
+      "booked",
+      "aisle"
+    ],
+    "usage": "Say this at the check-in counter if your booking is not honoured.",
+    "leelaQ": "Do you like a window seat or an aisle seat?",
+    "answer": "I like a window seat to see the view."
+  },
+  {
+    "en": "The medicine I bought is past its expiry date.",
+    "tamil": "நான் வாங்கின மருந்து காலாவதி தேதியை தாண்டிடுச்சு.",
+    "context": "Returning medicine to a pharmacy.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Past its expiry date' means no longer safe to use. Important for health.",
+    "words": [
+      "medicine",
+      "expiry"
+    ],
+    "usage": "Use it at a pharmacy when you find an old medicine on the shelf.",
+    "leelaQ": "Do you check the expiry date before buying?",
+    "answer": "Yes, I always check it on medicines and food."
+  },
+  {
+    "en": "Our team missed the deadline because the data was late.",
+    "tamil": "டேட்டா லேட்டா வந்ததால எங்க டீம் டெட்லைனை தவறவிட்டுச்சு.",
+    "context": "Explaining a missed deadline to a manager.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Because' gives the reason. Explain the cause without blaming one person.",
+    "words": [
+      "deadline",
+      "because"
+    ],
+    "usage": "Say this to your manager when the project slips.",
+    "leelaQ": "How do you handle a tight deadline?",
+    "answer": "I make a list and finish the main tasks first."
+  },
+  {
+    "en": "I would like to speak to your manager, please.",
+    "tamil": "நான் உங்க மேனேஜர்கிட்ட பேசணும்னு விரும்புறேன்.",
+    "context": "Asking for a senior person after no solution.",
+    "tense": "modal",
+    "type": "statement",
+    "explain": "'I would like' is more polite than 'I want'. Add 'please' to stay calm.",
+    "words": [
+      "manager"
+    ],
+    "usage": "Use it when the first person cannot solve your problem.",
+    "leelaQ": "When is it right to ask for a manager?",
+    "answer": "When the staff cannot help me and the problem is serious."
+  },
+  {
+    "en": "That sounds frustrating, and I am here to help.",
+    "tamil": "அது கடுப்பா இருக்கும்னு தெரியுது, உதவி பண்ண நான் இருக்கேன்.",
+    "context": "A support agent showing empathy.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'That sounds...' shows you understand feelings. It builds trust quickly.",
+    "words": [
+      "frustrating",
+      "help"
+    ],
+    "usage": "Support staff use this to calm an annoyed caller.",
+    "leelaQ": "How do you show you understand someone's feelings?",
+    "answer": "I say that I understand and then I listen."
+  },
+  {
+    "en": "The result is wrong because the formula is incorrect.",
+    "tamil": "ஃபார்முலா தப்பா இருக்கறதால ரிசல்ட் தப்பா வந்திருக்கு.",
+    "context": "Pointing out an error in a spreadsheet.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "Name the cause after 'because'. This helps people fix the real problem.",
+    "words": [
+      "formula",
+      "incorrect"
+    ],
+    "usage": "Use it with a coworker when you find a mistake in a report.",
+    "leelaQ": "How do you tell a colleague about their mistake?",
+    "answer": "I show them politely and offer to check together."
+  },
+  {
+    "en": "I will send the photo of the damaged box today.",
+    "tamil": "சேதமான பெட்டியோட போட்டோவை இன்னைக்கே அனுப்புறேன்.",
+    "context": "Giving evidence for a courier claim.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "Offering proof helps a claim move quickly. 'Today' shows urgency.",
+    "words": [
+      "photo",
+      "damaged"
+    ],
+    "usage": "Say this when a delivery company asks you for proof.",
+    "leelaQ": "Do you take photos when something is damaged?",
+    "answer": "Yes, it helps when I make a claim."
+  },
+  {
+    "en": "Could you tell me what the problem is exactly?",
+    "tamil": "சரியா என்ன பிரச்சனைன்னு சொல்ல முடியுமா?",
+    "context": "Asking a customer to describe an issue.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'Could you tell me' is a polite way to ask for details.",
+    "words": [
+      "problem",
+      "exactly"
+    ],
+    "usage": "Support staff use this to understand a problem before solving it.",
+    "leelaQ": "How do you ask someone to explain a problem clearly?",
+    "answer": "I ask what happened and when it started."
+  },
+  {
+    "en": "Have you tried restarting the phone?",
+    "tamil": "போனை ரீஸ்டார்ட் பண்ணி பாத்தீங்களா?",
+    "context": "A friend giving a first tech fix.",
+    "tense": "present-perfect",
+    "type": "question",
+    "explain": "'Have you tried' asks about your experience so far. 'Restarting' is a verb with -ing after 'tried'.",
+    "words": [
+      "tried",
+      "restarting"
+    ],
+    "usage": "Say this when helping a family member with a phone or laptop.",
+    "leelaQ": "What is the first thing you try when a gadget fails?",
+    "answer": "I turn it off and turn it on again."
+  },
+  {
+    "en": "Since when has the network been so slow?",
+    "tamil": "நெட்வொர்க் எப்போலேர்ந்து இவ்வளவு slow-ஆ இருக்கு?",
+    "context": "Asking the IT team about a slow network.",
+    "tense": "present-perfect",
+    "type": "question",
+    "explain": "'Since when has' asks about the starting point of a problem that still continues.",
+    "words": [
+      "network",
+      "slow"
+    ],
+    "usage": "Use it with IT staff or a technician when something has been bad for some time.",
+    "leelaQ": "How do you ask about the start of a long problem?",
+    "answer": "I ask since when the problem has been there."
+  }
+]

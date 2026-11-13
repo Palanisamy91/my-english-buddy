@@ -1,0 +1,385 @@
+[
+ {
+  "en": "Do you need a hand with those boxes?",
+  "tamil": "அந்தப் பெட்டிகளைத் தூக்க உதவி வேணுமா?",
+  "context": "Offering help to a colleague",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Need a hand?",
+   "tamil": "உதவி வேணுமா?"
+  }
+ },
+ {
+  "en": "Shall I take a look at it for you?",
+  "tamil": "நான் உங்களுக்காக அதைப் பார்க்கவா?",
+  "context": "Offering to check something",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "Want me to look?",
+   "tamil": "நான் பார்க்கவா?"
+  }
+ },
+ {
+  "en": "Let me help you with that.",
+  "tamil": "அதில் நான் உங்களுக்கு உதவுகிறேன்.",
+  "context": "Stepping in to help",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "I'll be happy to help you.",
+  "tamil": "உங்களுக்கு உதவ நான் மகிழ்ச்சியடைவேன்.",
+  "context": "Offering assistance warmly",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I'm free this afternoon if you need me.",
+  "tamil": "உங்களுக்குத் தேவைப்பட்டால் இன்று மதியம் நான் ஃப்ரீ.",
+  "context": "Telling a teammate you're available",
+  "tense": "present",
+  "type": "statement"
+ },
+ {
+  "en": "Would you like me to explain it again?",
+  "tamil": "நான் அதை மீண்டும் விளக்கவா?",
+  "context": "Offering to re-explain",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Is there anything I can do to help?",
+  "tamil": "உதவ நான் ஏதாவது செய்ய முடியுமா?",
+  "context": "Offering help in a hard moment",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "How can I help?",
+   "tamil": "நான் எப்படி உதவலாம்?"
+  }
+ },
+ {
+  "en": "Thanks, but I've already got it covered.",
+  "tamil": "நன்றி, ஆனால் அதை நான் ஏற்கனவே பார்த்துக்கொண்டேன்.",
+  "context": "Declining help politely",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "No, thank you. I'm fine on my own.",
+  "tamil": "வேண்டாம், நன்றி. நான் தனியாகவே சமாளிப்பேன்.",
+  "context": "Turning down an offer",
+  "tense": "present",
+  "type": "negative"
+ },
+ {
+  "en": "I'd love some help, if you don't mind.",
+  "tamil": "உங்களுக்குச் சிரமம் இல்லையென்றால் உதவி கிடைத்தால் நல்லது.",
+  "context": "Accepting help gracefully",
+  "tense": "modal",
+  "type": "request",
+  "alt": {
+   "en": "Yes, please help me.",
+   "tamil": "ஆமாம், உதவுங்கள்."
+  }
+ },
+ {
+  "en": "I'll let you know if I need anything.",
+  "tamil": "எனக்கு ஏதாவது தேவைப்பட்டால் சொல்கிறேன்.",
+  "context": "Replying to an offer of help",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I promise I won't keep you long.",
+  "tamil": "உங்கள் நேரத்தை நான் அதிகம் எடுத்துக்கொள்ள மாட்டேன்.",
+  "context": "Before asking a busy senior",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "I won't forget your kindness.",
+  "tamil": "உங்கள் அன்பை நான் மறக்க மாட்டேன்.",
+  "context": "Thanking someone warmly",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "I owe you one for this.",
+  "tamil": "இதற்காக நான் உங்களுக்குக் கடமைப்பட்டிருக்கிறேன்.",
+  "context": "Thanking a friendly colleague",
+  "tense": "present",
+  "type": "statement",
+  "alt": {
+   "en": "Thanks, I owe you.",
+   "tamil": "நன்றி, நான் உங்களுக்குக் கடன்பட்டவன்."
+  }
+ },
+ {
+  "en": "I couldn't have done it without you.",
+  "tamil": "நீங்கள் இல்லாமல் என்னால் இதைச் செய்திருக்க முடியாது.",
+  "context": "Thanking after finishing a task",
+  "tense": "modal",
+  "type": "negative"
+ },
+ {
+  "en": "You've saved me a lot of time.",
+  "tamil": "நீங்கள் எனக்கு நிறைய நேரத்தை மிச்சப்படுத்தினீர்கள்.",
+  "context": "Thanking a helpful teammate",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "She offered to help me with my presentation.",
+  "tamil": "என் விளக்கக்காட்சிக்கு உதவ அவர் முன்வந்தார்.",
+  "context": "Talking about a kind colleague",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "He didn't mind staying late to help me.",
+  "tamil": "எனக்கு உதவ தாமதமாகத் தங்க அவர் தயங்கவில்லை.",
+  "context": "Praising a helpful coworker",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "We worked on the bug together all morning.",
+  "tamil": "நாங்கள் காலை முழுவதும் சேர்ந்து அந்தப் பிழையில் வேலை செய்தோம்.",
+  "context": "Describing teamwork",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "My colleague explained the process to me twice.",
+  "tamil": "என் சக ஊழியர் நடைமுறையை இருமுறை எனக்கு விளக்கினார்.",
+  "context": "Describing help received",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I called the helpdesk, and they fixed it quickly.",
+  "tamil": "ஹெல்ப்டெஸ்க்கை அழைத்தேன், அவர்கள் விரைவாகச் சரிசெய்தார்கள்.",
+  "context": "Describing a quick fix",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I'm asking because the deadline is tomorrow.",
+  "tamil": "நாளைதான் கெடு தேதி என்பதால் கேட்கிறேன்.",
+  "context": "Explaining why you need help",
+  "tense": "present-continuous",
+  "type": "statement"
+ },
+ {
+  "en": "I'm asking for help because I'm running out of time.",
+  "tamil": "நேரம் தீர்ந்துகொண்டிருப்பதால் உதவி கேட்கிறேன்.",
+  "context": "Explaining an urgent need",
+  "tense": "present-continuous",
+  "type": "statement"
+ },
+ {
+  "en": "English isn't my first language, so please bear with me.",
+  "tamil": "ஆங்கிலம் என் முதல் மொழி அல்ல, அதனால் தயவுசெய்து பொறுத்துக்கொள்ளுங்கள்.",
+  "context": "Asking for patience",
+  "tense": "present",
+  "type": "negative",
+  "alt": {
+   "en": "Please be patient with my English.",
+   "tamil": "என் ஆங்கிலத்தில் பொறுமையாக இருங்கள்."
+  }
+ },
+ {
+  "en": "Is it okay if I sit here?",
+  "tamil": "நான் இங்கே உட்காரலாமா?",
+  "context": "Asking permission in public",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Can I sit here?",
+   "tamil": "நான் இங்கே உட்காரலாமா?"
+  }
+ },
+ {
+  "en": "May I use your phone for a minute?",
+  "tamil": "உங்கள் ஃபோனை ஒரு நிமிடம் பயன்படுத்தலாமா?",
+  "context": "Asking a stranger for a favour",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "May I come in?",
+  "tamil": "நான் உள்ளே வரலாமா?",
+  "context": "Knocking at a manager's door",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Would it be all right if I left early today?",
+  "tamil": "இன்று நான் சீக்கிரம் புறப்பட்டால் சரியாக இருக்குமா?",
+  "context": "Asking your manager for permission",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Can I leave early today?",
+   "tamil": "இன்று சீக்கிரம் போகலாமா?"
+  }
+ },
+ {
+  "en": "Can I take a day off next Friday?",
+  "tamil": "அடுத்த வெள்ளிக்கிழமை ஒரு நாள் விடுப்பு எடுக்கலாமா?",
+  "context": "Asking a manager for leave",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "I was hoping you could help me with something.",
+  "tamil": "நீங்கள் எனக்கு ஒரு விஷயத்தில் உதவ முடியும் என்று நம்பினேன்.",
+  "context": "Introducing a request softly",
+  "tense": "past",
+  "type": "statement",
+  "alt": {
+   "en": "Can you help me with something?",
+   "tamil": "ஒரு விஷயத்தில் உதவ முடியுமா?"
+  }
+ },
+ {
+  "en": "I just wanted to check if you got my message.",
+  "tamil": "என் செய்தி உங்களுக்குக் கிடைத்ததா என்று சரிபார்க்க விரும்பினேன்.",
+  "context": "Gentle follow-up",
+  "tense": "past",
+  "type": "statement",
+  "alt": {
+   "en": "Did you get my message?",
+   "tamil": "என் செய்தி கிடைத்ததா?"
+  }
+ },
+ {
+  "en": "Sorry for the repeated reminder, but it's urgent.",
+  "tamil": "மீண்டும் நினைவூட்டுவதற்கு மன்னிக்கவும், ஆனால் இது அவசரம்.",
+  "context": "Second follow-up email",
+  "tense": "present",
+  "type": "statement"
+ },
+ {
+  "en": "Could you please reply by this evening?",
+  "tamil": "தயவுசெய்து இன்று மாலைக்குள் பதில் அனுப்ப முடியுமா?",
+  "context": "Asking for a quick answer",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "I haven't heard back from you yet.",
+  "tamil": "உங்களிடமிருந்து எனக்கு இன்னும் பதில் வரவில்லை.",
+  "context": "Following up when no reply came",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "Will you be able to reply by tomorrow?",
+  "tamil": "நாளைக்குள் உங்களால் பதில் அனுப்ப முடியுமா?",
+  "context": "Asking for a response deadline",
+  "tense": "future",
+  "type": "question"
+ },
+ {
+  "en": "I'll call you again if I don't hear back.",
+  "tamil": "பதில் வரவில்லை என்றால் மீண்டும் அழைப்பேன்.",
+  "context": "Warning of a next follow-up",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I'm going to follow up with the vendor today.",
+  "tamil": "இன்று நான் விற்பனையாளரிடம் மீண்டும் பேசப் போகிறேன்.",
+  "context": "Planning a follow-up",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "This is urgent. I need your help right now.",
+  "tamil": "இது அவசரம். இப்போதே உங்கள் உதவி எனக்குத் தேவை.",
+  "context": "Urgent request to a colleague",
+  "tense": "present",
+  "type": "request"
+ },
+ {
+  "en": "Please help me quickly, the server is down!",
+  "tamil": "சீக்கிரம் உதவுங்கள், சர்வர் செயலிழந்துவிட்டது!",
+  "context": "Urgent production issue",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "It's important. Can you come here quickly?",
+  "tamil": "சீக்கிரம் இங்கே வர முடியுமா? இது முக்கியம்.",
+  "context": "Calling someone urgently",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "I'll escalate this to my manager if needed.",
+  "tamil": "தேவைப்பட்டால் இதை என் மேலாளரிடம் கொண்டு செல்வேன்.",
+  "context": "Warning about escalation",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "We're going to miss the deadline without your help.",
+  "tamil": "உங்கள் உதவி இல்லாவிட்டால் நாம் கெடு தேதியைத் தவறவிடுவோம்.",
+  "context": "Pressing for urgent support",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "Who should I ask about this?",
+  "tamil": "இதைப் பற்றி நான் யாரிடம் கேட்க வேண்டும்?",
+  "context": "Looking for the right contact",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Do you know anyone who can help me?",
+  "tamil": "எனக்கு உதவக்கூடிய யாரையாவது உங்களுக்குத் தெரியுமா?",
+  "context": "Asking for a referral",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "I've never used this system before.",
+  "tamil": "இந்த அமைப்பை நான் இதற்கு முன் பயன்படுத்தியதே இல்லை.",
+  "context": "Explaining why you need guidance",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "I've asked three people, but nobody knows the answer.",
+  "tamil": "மூன்று பேரிடம் கேட்டேன், ஆனால் யாருக்கும் பதில் தெரியவில்லை.",
+  "context": "Explaining a dead end",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "Could you introduce me to someone from the finance team?",
+  "tamil": "நிதிக் குழுவிலிருந்து ஒருவரிடம் என்னை அறிமுகப்படுத்த முடியுமா?",
+  "context": "Asking for an introduction",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Does anyone know how to fix this?",
+  "tamil": "இதைச் சரிசெய்வது எப்படி என்று யாருக்காவது தெரியுமா?",
+  "context": "Asking a group chat",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "You don't have to do it for me; just show me how.",
+  "tamil": "எனக்காக நீங்கள் செய்ய வேண்டாம்; எப்படி என்று மட்டும் காட்டுங்கள்.",
+  "context": "Asking to be taught, not served",
+  "tense": "present",
+  "type": "negative"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "word": "tag along",
+  "meaning": "to go with someone without being asked",
+  "tamil": "அழைக்காமலே ஒருவருடன் சேர்ந்து செல்",
+  "pos": "phrasal verb",
+  "pron": "tag uh-LONG",
+  "example": "My little sister always tags along with me.",
+  "exampleTamil": "என் தங்கை எப்போதும் என்னுடன் தொற்றிக்கொண்டு வருவாள்.",
+  "synonyms": [
+   "follow",
+   "accompany"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "move along",
+  "meaning": "to continue moving forward",
+  "tamil": "முன்னே தொடர்ந்து நகர்",
+  "pos": "phrasal verb",
+  "pron": "moov uh-LONG",
+  "example": "Please move along, the queue is long.",
+  "exampleTamil": "தயவுசெய்து முன்னே நகருங்கள், வரிசை நீளமாக உள்ளது.",
+  "synonyms": [
+   "proceed",
+   "advance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bring along",
+  "meaning": "to take something or someone with you",
+  "tamil": "ஒன்றை அல்லது ஒருவரை உடன் அழைத்துவா",
+  "pos": "phrasal verb",
+  "pron": "bring uh-LONG",
+  "example": "Don't forget to bring along your ID card.",
+  "exampleTamil": "உங்கள் அடையாள அட்டையை உடன் கொண்டுவர மறக்காதீர்கள்.",
+  "synonyms": [
+   "carry",
+   "take"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "string along",
+  "meaning": "to give someone false hope for a long time",
+  "tamil": "நீண்ட காலம் பொய் நம்பிக்கை கொடுத்து ஏமாற்று",
+  "pos": "phrasal verb",
+  "pron": "string uh-LONG",
+  "example": "He likes to string her along without any promise.",
+  "exampleTamil": "அவன் உறுதி எதுவும் இல்லாமல் மாதக்கணக்கில் அவளை ஏமாற்றினான்.",
+  "synonyms": [
+   "mislead",
+   "deceive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "break into",
+  "meaning": "to enter a place by force",
+  "tamil": "வலுக்கட்டாயமாக உள்ளே நுழை",
+  "pos": "phrasal verb",
+  "pron": "brayk IN-too",
+  "example": "Thieves tried to break into the shop last night.",
+  "exampleTamil": "திருடர்கள் நேற்றிரவு கடைக்குள் புகுந்தனர்.",
+  "synonyms": [
+   "burgle",
+   "invade"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "turn into",
+  "meaning": "to become something different",
+  "tamil": "வேறொன்றாக மாறு",
+  "pos": "phrasal verb",
+  "pron": "turn IN-too",
+  "example": "The small stream turns into a river in monsoon.",
+  "exampleTamil": "சிறிய ஓடை மழைக்காலத்தில் ஆறாக மாறுகிறது.",
+  "synonyms": [
+   "become",
+   "change"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fall into",
+  "meaning": "to drop or slip inside something",
+  "tamil": "ஒன்றினுள் விழு",
+  "pos": "phrasal verb",
+  "pron": "fawl IN-too",
+  "example": "The ball will fall into the well.",
+  "exampleTamil": "பந்து கிணற்றுக்குள் விழுந்தது.",
+  "synonyms": [
+   "drop",
+   "slip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "walk into",
+  "meaning": "to enter a place or meet something by accident",
+  "tamil": "ஓரிடத்தில் நுழை அல்லது தற்செயலாக எதிர்கொள்",
+  "pos": "phrasal verb",
+  "pron": "wawk IN-too",
+  "example": "He walked into the glass door by mistake.",
+  "exampleTamil": "அவன் தவறுதலாகக் கண்ணாடிக் கதவில் மோதினான்.",
+  "synonyms": [
+   "enter",
+   "bump"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "burst into",
+  "meaning": "to suddenly start crying or laughing",
+  "tamil": "திடீரென அழ அல்லது சிரிக்கத் தொடங்கு",
+  "pos": "phrasal verb",
+  "pron": "burst IN-too",
+  "example": "She burst into tears when she heard the news.",
+  "exampleTamil": "செய்தியைக் கேட்டதும் அவள் திடீரென அழ ஆரம்பித்தாள்.",
+  "synonyms": [
+   "erupt",
+   "break out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "grow into",
+  "meaning": "to slowly become something",
+  "tamil": "மெதுவாக ஒன்றாக வளர்",
+  "pos": "phrasal verb",
+  "pron": "groh IN-too",
+  "example": "The shy boy is growing into a confident leader.",
+  "exampleTamil": "வெட்கப்படும் சிறுவன் தன்னம்பிக்கை மிக்க தலைவனாக வளர்ந்தான்.",
+  "synonyms": [
+   "become",
+   "develop"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "check into",
+  "meaning": "to register at a hotel on arrival",
+  "tamil": "விடுதியில் வந்து பதிவு செய்து தங்கு",
+  "pos": "phrasal verb",
+  "pron": "chek IN-too",
+  "example": "We checked into the hotel at noon.",
+  "exampleTamil": "நாங்கள் நண்பகலில் விடுதியில் பதிவு செய்து தங்கினோம்.",
+  "synonyms": [
+   "register",
+   "arrive"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ease into",
+  "meaning": "to slowly start something new",
+  "tamil": "புதிய ஒன்றை மெதுவாகத் தொடங்கு",
+  "pos": "phrasal verb",
+  "pron": "eez IN-too",
+  "example": "Ease into the exercise routine, do not rush.",
+  "exampleTamil": "உடற்பயிற்சியை மெதுவாகத் தொடங்குங்கள், அவசரப்படாதீர்கள்.",
+  "synonyms": [
+   "ease",
+   "start"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dig into",
+  "meaning": "to start eating or studying something eagerly",
+  "tamil": "ஆர்வமாக சாப்பிடத் அல்லது ஆராயத் தொடங்கு",
+  "pos": "phrasal verb",
+  "pron": "dig IN-too",
+  "example": "Everyone is digging into the hot biryani.",
+  "exampleTamil": "எல்லோரும் சூடான பிரியாணியை ஆர்வமாகச் சாப்பிடத் தொடங்கினர்.",
+  "synonyms": [
+   "tuck in",
+   "explore"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "talk into",
+  "meaning": "to persuade someone to do something",
+  "tamil": "ஒருவரைப் பேசி ஒன்றைச் செய்ய வை",
+  "pos": "phrasal verb",
+  "pron": "tawk IN-too",
+  "example": "My friends talked me into joining the gym.",
+  "exampleTamil": "என் நண்பர்கள் என்னைப் பேசி ஜிம்மில் சேர வைத்தனர்.",
+  "synonyms": [
+   "persuade",
+   "convince"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "settle into",
+  "meaning": "to become comfortable in a new place",
+  "tamil": "புதிய இடத்தில் வசதியாகப் பழகிக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "SET-ul IN-too",
+  "example": "It took a week to settle into the new flat.",
+  "exampleTamil": "புதிய அடுக்குமாடி வீட்டில் பழகிக்கொள்ள ஒரு வாரம் ஆனது.",
+  "synonyms": [
+   "adjust",
+   "adapt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crash into",
+  "meaning": "to hit something hard while moving",
+  "tamil": "வேகமாகச் சென்று ஒன்றின் மீது மோது",
+  "pos": "phrasal verb",
+  "pron": "krash IN-too",
+  "example": "The lorry crashed into the wall.",
+  "exampleTamil": "லாரி சுவரில் மோதியது.",
+  "synonyms": [
+   "collide",
+   "hit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "move into",
+  "meaning": "to start living in a new home",
+  "tamil": "புதிய வீட்டில் வசிக்கத் தொடங்கு",
+  "pos": "phrasal verb",
+  "pron": "moov IN-too",
+  "example": "We will move into our new house in June.",
+  "exampleTamil": "நாங்கள் ஜூனில் எங்கள் புதிய வீட்டில் குடிபுகுவோம்.",
+  "synonyms": [
+   "occupy",
+   "settle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "get across",
+  "meaning": "to make someone understand your idea",
+  "tamil": "உங்கள் கருத்தை மற்றவருக்குப் புரியவை",
+  "pos": "phrasal verb",
+  "pron": "get uh-KROS",
+  "example": "He could not get across his point in the meeting.",
+  "exampleTamil": "கூட்டத்தில் அவனால் தன் கருத்தைப் புரியவைக்க முடியவில்லை.",
+  "synonyms": [
+   "convey",
+   "explain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cut across",
+  "meaning": "to take a shorter way through a place",
+  "tamil": "ஒரு இடத்தின் வழியாகக் குறுக்குவழியில் செல்",
+  "pos": "phrasal verb",
+  "pron": "kut uh-KROS",
+  "example": "We cut across the field to reach school early.",
+  "exampleTamil": "பள்ளிக்கு சீக்கிரம் செல்ல நாங்கள் வயல் வழியாகக் குறுக்கே சென்றோம்.",
+  "synonyms": [
+   "shortcut",
+   "traverse"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "put across",
+  "meaning": "to explain an idea clearly",
+  "tamil": "ஒரு கருத்தைத் தெளிவாக விளக்கு",
+  "pos": "phrasal verb",
+  "pron": "put uh-KROS",
+  "example": "She puts across her ideas very well.",
+  "exampleTamil": "அவள் தன் கருத்துகளை மிக நன்றாக எடுத்துரைக்கிறாள்.",
+  "synonyms": [
+   "convey",
+   "express"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "swim across",
+  "meaning": "to swim from one side to the other",
+  "tamil": "ஒரு கரையிலிருந்து மறுகரைக்கு நீந்திச்செல்",
+  "pos": "phrasal verb",
+  "pron": "swim uh-KROS",
+  "example": "He can swim across the lake in ten minutes.",
+  "exampleTamil": "அவனால் பத்து நிமிடங்களில் ஏரியின் மறுகரைக்கு நீந்த முடியும்.",
+  "synonyms": [
+   "cross",
+   "traverse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "walk across",
+  "meaning": "to walk from one side to the other",
+  "tamil": "ஒரு பக்கத்திலிருந்து மறுபக்கத்திற்கு நடந்துசெல்",
+  "pos": "phrasal verb",
+  "pron": "wawk uh-KROS",
+  "example": "Use the bridge to walk across the road.",
+  "exampleTamil": "சாலையைக் கடக்க மேம்பாலத்தைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "cross",
+   "traverse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stretch across",
+  "meaning": "to extend from one side to the other",
+  "tamil": "ஒரு பக்கத்திலிருந்து மறுபக்கம் வரை நீண்டிரு",
+  "pos": "phrasal verb",
+  "pron": "strech uh-KROS",
+  "example": "The long bridge stretches across the river.",
+  "exampleTamil": "நீண்ட பாலம் ஆற்றின் குறுக்கே நீண்டுள்ளது.",
+  "synonyms": [
+   "extend",
+   "span"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reach across",
+  "meaning": "to stretch your arm over something",
+  "tamil": "ஒன்றின் மேல் கையை நீட்டு",
+  "pos": "phrasal verb",
+  "pron": "reech uh-KROS",
+  "example": "Do not reach across the table for the salt.",
+  "exampleTamil": "உப்புக்காக மேசையின் குறுக்கே கையை நீட்டாதீர்கள்.",
+  "synonyms": [
+   "extend",
+   "stretch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hurry along",
+  "meaning": "to move quickly or make someone move faster",
+  "tamil": "விரைவாக நகர் அல்லது நகரச்செய்",
+  "pos": "phrasal verb",
+  "pron": "HUR-ee uh-LONG",
+  "example": "The guide asked everyone to hurry along.",
+  "exampleTamil": "வழிகாட்டி எல்லோரையும் விரைவாக நகரச் சொன்னார்.",
+  "synonyms": [
+   "rush",
+   "hasten"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,351 @@
+[
+ {
+  "word": "wanderlust",
+  "meaning": "a strong wish to travel and see the world",
+  "tamil": "உலகைச் சுற்றிப் பார்க்கும் தீவிர ஆசை",
+  "pos": "noun",
+  "pron": "WON-der-lust",
+  "example": "Her wanderlust grew stronger every time she saw a map.",
+  "exampleTamil": "வரைபடத்தைப் பார்க்கும் ஒவ்வொரு முறையும் அவளுடைய பயண ஆசை அதிகரித்தது.",
+  "synonyms": [
+   "travel bug",
+   "itch to travel"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "globetrotter",
+  "meaning": "a person who travels to many countries often",
+  "tamil": "பல நாடுகளுக்கு அடிக்கடி பயணம் செய்பவர்",
+  "pos": "noun",
+  "pron": "GLOHB-trot-er",
+  "example": "My uncle is a globetrotter who has visited forty countries.",
+  "exampleTamil": "என் மாமா நாற்பது நாடுகளுக்குச் சென்றுள்ள ஒரு உலகப் பயணி.",
+  "synonyms": [
+   "world traveller",
+   "jetsetter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "itinerant",
+  "meaning": "travelling from place to place, not staying long anywhere",
+  "tamil": "ஓரிடத்தில் தங்காமல் இடம் விட்டு இடம் செல்லும்",
+  "pos": "adjective",
+  "pron": "eye-TIN-er-unt",
+  "example": "The itinerant musician played in a different village every week.",
+  "exampleTamil": "அந்த அலைந்து திரியும் இசைக்கலைஞர் வாரந்தோறும் வெவ்வேறு கிராமத்தில் வாசித்தார்.",
+  "synonyms": [
+   "wandering",
+   "nomadic"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ecotourism",
+  "meaning": "travel to natural places that protects nature and local people",
+  "tamil": "இயற்கையைப் பாதுகாக்கும் சுற்றுலா",
+  "pos": "noun",
+  "pron": "EE-koh-TOOR-iz-um",
+  "example": "Ecotourism helps villagers earn money while saving the forest.",
+  "exampleTamil": "இயற்கைச் சுற்றுலா காட்டைப் பாதுகாத்துக்கொண்டே கிராம மக்கள் வருமானம் ஈட்ட உதவுகிறது.",
+  "synonyms": [
+   "green tourism"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hospitable",
+  "meaning": "friendly and kind to guests and visitors",
+  "tamil": "விருந்தினரை அன்புடன் உபசரிக்கும்",
+  "pos": "adjective",
+  "pron": "HOS-pit-uh-bul",
+  "example": "The villagers were very hospitable and offered us tea.",
+  "exampleTamil": "கிராம மக்கள் மிகவும் விருந்தோம்பல் கொண்டவர்களாக இருந்து எங்களுக்கு தேநீர் கொடுத்தனர்.",
+  "synonyms": [
+   "welcoming",
+   "friendly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "idyllic",
+  "meaning": "extremely peaceful and beautiful, like a perfect picture",
+  "tamil": "மிகவும் அமைதியான அழகான",
+  "pos": "adjective",
+  "pron": "eye-DIL-ik",
+  "example": "The idyllic village had green fields and a calm river.",
+  "exampleTamil": "அந்த அழகிய கிராமத்தில் பசுமையான வயல்களும் அமைதியான ஆறும் இருந்தன.",
+  "synonyms": [
+   "perfect",
+   "dreamy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "quaint",
+  "meaning": "attractive in an old-fashioned and unusual way",
+  "tamil": "பழமையான வசீகரமான",
+  "pos": "adjective",
+  "pron": "KWAYNT",
+  "example": "We stayed in a quaint cottage with a tiled roof.",
+  "exampleTamil": "நாங்கள் ஓடு வேய்ந்த கூரை கொண்ட பழமையான அழகிய குடிலில் தங்கினோம்.",
+  "synonyms": [
+   "charming",
+   "old-fashioned"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bustling",
+  "meaning": "full of busy and noisy activity",
+  "tamil": "பரபரப்பான கூட்டமுள்ள",
+  "pos": "adjective",
+  "pron": "BUS-ling",
+  "example": "The bustling market was full of tourists and shopkeepers.",
+  "exampleTamil": "பரபரப்பான சந்தை சுற்றுலாப் பயணிகளாலும் கடைக்காரர்களாலும் நிறைந்திருந்தது.",
+  "synonyms": [
+   "busy",
+   "lively"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "unspoilt",
+  "meaning": "still natural and beautiful, not harmed by crowds or building",
+  "tamil": "கெடுக்கப்படாத இயற்கையழகு மாறாத",
+  "pos": "adjective",
+  "pron": "un-SPOYLT",
+  "example": "We found an unspoilt beach with almost no tourists.",
+  "exampleTamil": "சுற்றுலாப் பயணிகள் கிட்டத்தட்ட இல்லாத இயற்கை அழகு மாறாத கடற்கரையைக் கண்டோம்.",
+  "synonyms": [
+   "pristine",
+   "untouched"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "panoramic",
+  "meaning": "giving a wide view of a large area",
+  "tamil": "பரந்த காட்சியைத் தரும்",
+  "pos": "adjective",
+  "pron": "pan-uh-RAM-ik",
+  "example": "Our room had a panoramic view of the mountains.",
+  "exampleTamil": "எங்கள் அறையிலிருந்து மலைகளின் பரந்த காட்சி தெரிந்தது.",
+  "synonyms": [
+   "wide",
+   "sweeping"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rugged",
+  "meaning": "rough, rocky and uneven, not smooth",
+  "tamil": "கரடுமுரடான பாறைகள் நிறைந்த",
+  "pos": "adjective",
+  "pron": "RUG-id",
+  "example": "The jeep climbed slowly over the rugged mountain road.",
+  "exampleTamil": "ஜீப் கரடுமுரடான மலைப்பாதையில் மெதுவாக ஏறியது.",
+  "synonyms": [
+   "rough",
+   "rocky"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lush",
+  "meaning": "thick, green and full of healthy plants",
+  "tamil": "அடர்ந்த பசுமையான",
+  "pos": "adjective",
+  "pron": "LUSH",
+  "example": "The hills looked lush and green after the monsoon.",
+  "exampleTamil": "பருவமழைக்குப் பிறகு மலைகள் அடர்ந்த பசுமையாகத் தோன்றின.",
+  "synonyms": [
+   "green",
+   "leafy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "awe-inspiring",
+  "meaning": "so impressive that you feel great wonder and respect",
+  "tamil": "வியப்பையும் மரியாதையையும் ஏற்படுத்தும்",
+  "pos": "adjective",
+  "pron": "AW in-spy-ring",
+  "example": "The size of the ancient temple was awe-inspiring.",
+  "exampleTamil": "பழமையான கோயிலின் பிரம்மாண்டம் வியப்பூட்டுவதாக இருந்தது.",
+  "synonyms": [
+   "amazing",
+   "majestic"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cosmopolitan",
+  "meaning": "having people and cultures from many parts of the world",
+  "tamil": "உலகின் பல பகுதி மக்களும் பண்பாடுகளும் கலந்த",
+  "pos": "adjective",
+  "pron": "koz-muh-POL-ih-tun",
+  "example": "Singapore is a clean and cosmopolitan city.",
+  "exampleTamil": "சிங்கப்பூர் சுத்தமான பல நாட்டினர் வாழும் நகரம்.",
+  "synonyms": [
+   "multicultural",
+   "international"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "indigenous",
+  "meaning": "belonging naturally to a particular place or people",
+  "tamil": "அந்த இடத்தைச் சேர்ந்த பூர்வீகமான",
+  "pos": "adjective",
+  "pron": "in-DIJ-uh-nus",
+  "example": "We learned about the indigenous tribes of the Nilgiris.",
+  "exampleTamil": "நாங்கள் நீலகிரியின் பூர்வீகப் பழங்குடியினரைப் பற்றி அறிந்துகொண்டோம்.",
+  "synonyms": [
+   "native",
+   "local"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "acclimatise",
+  "meaning": "to get used to a new climate or height",
+  "tamil": "புதிய தட்பவெப்பம் அல்லது உயரத்துக்குப் பழகுதல்",
+  "pos": "verb",
+  "pron": "uh-KLY-muh-tize",
+  "example": "Give yourself two days to acclimatise before the trek.",
+  "exampleTamil": "மலையேற்றத்துக்கு முன் பழகிக்கொள்ள இரண்டு நாட்கள் எடுத்துக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "adjust",
+   "adapt"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "alight",
+  "meaning": "to get off a bus, train or other vehicle",
+  "tamil": "பேருந்து அல்லது ரயிலிலிருந்து இறங்குதல்",
+  "pos": "verb",
+  "pron": "uh-LITE",
+  "example": "Passengers should alight from the front door of the bus.",
+  "exampleTamil": "பயணிகள் பேருந்தின் முன்வாசல் வழியாக இறங்க வேண்டும்.",
+  "synonyms": [
+   "get off",
+   "disembark"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "terrain",
+  "meaning": "the type of land in an area, such as hills or sand",
+  "tamil": "ஓர் இடத்தின் நிலத்தோற்றம்",
+  "pos": "noun",
+  "pron": "tuh-RAYN",
+  "example": "The rocky terrain made the trek difficult.",
+  "exampleTamil": "பாறைகள் நிறைந்த நிலப்பரப்பு மலையேற்றத்தை கடினமாக்கியது.",
+  "synonyms": [
+   "land",
+   "ground"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "outskirts",
+  "meaning": "the areas at the edge of a town or city",
+  "tamil": "நகரின் புறநகர்ப் பகுதிகள்",
+  "pos": "noun",
+  "pron": "OWT-skirts",
+  "example": "Our hotel is on the outskirts of the city.",
+  "exampleTamil": "எங்கள் ஹோட்டல் நகரின் புறநகர்ப் பகுதியில் உள்ளது.",
+  "synonyms": [
+   "suburbs",
+   "edges"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "locale",
+  "meaning": "a place where something happens or is set",
+  "tamil": "ஒரு நிகழ்வு நடக்கும் இடம்",
+  "pos": "noun",
+  "pron": "loh-KAL",
+  "example": "The film was shot in a beautiful hill locale.",
+  "exampleTamil": "அந்தத் திரைப்படம் ஓர் அழகிய மலைப்பகுதியில் படமாக்கப்பட்டது.",
+  "synonyms": [
+   "setting",
+   "location"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hinterland",
+  "meaning": "the remote land far from the coast or big cities",
+  "tamil": "கடற்கரை அல்லது பெரிய நகரங்களிலிருந்து தொலைவிலுள்ள உள்நாட்டுப் பகுதி",
+  "pos": "noun",
+  "pron": "HIN-ter-land",
+  "example": "Few tourists visit the quiet hinterland behind the coast.",
+  "exampleTamil": "கடற்கரைக்குப் பின்னாலுள்ள அமைதியான உள்நாட்டுப் பகுதிக்கு சில சுற்றுலாப் பயணிகளே செல்கிறார்கள்.",
+  "synonyms": [
+   "interior",
+   "backcountry"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "meander",
+  "meaning": "to follow a winding path or walk slowly without a plan",
+  "tamil": "வளைந்து வளைந்து செல்லுதல்",
+  "pos": "verb",
+  "pron": "mee-AN-der",
+  "example": "The river meanders through the green valley.",
+  "exampleTamil": "ஆறு பசுமையான பள்ளத்தாக்கு வழியாக வளைந்து வளைந்து ஓடுகிறது.",
+  "synonyms": [
+   "wind",
+   "wander"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "arduous",
+  "meaning": "very difficult and tiring, needing great effort",
+  "tamil": "மிகவும் கடினமான சோர்வூட்டும்",
+  "pos": "adjective",
+  "pron": "AR-joo-us",
+  "example": "The arduous climb took us nearly six hours.",
+  "exampleTamil": "அந்தக் கடினமான ஏற்றத்திற்கு எங்களுக்கு கிட்டத்தட்ட ஆறு மணி நேரம் ஆனது.",
+  "synonyms": [
+   "tough",
+   "exhausting"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "treacherous",
+  "meaning": "very dangerous, especially because of hidden risks",
+  "tamil": "மறைந்திருக்கும் ஆபத்துகள் கொண்ட மிக ஆபத்தான",
+  "pos": "adjective",
+  "pron": "TRECH-er-us",
+  "example": "The icy mountain road was treacherous after the rain.",
+  "exampleTamil": "மழைக்குப் பிறகு பனிபடிந்த மலைப்பாதை மிகவும் ஆபத்தாக இருந்தது.",
+  "synonyms": [
+   "dangerous",
+   "risky"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "expiry",
+  "meaning": "the end of the time a document or ticket can be used",
+  "tamil": "ஆவணம் அல்லது பயணச்சீட்டு செல்லுபடியாகும் காலம் முடிவது",
+  "pos": "noun",
+  "pron": "ik-SPY-ree",
+  "example": "Check the expiry date on your passport before you travel.",
+  "exampleTamil": "பயணம் செய்வதற்கு முன் உங்கள் கடவுச்சீட்டின் காலாவதி தேதியைச் சரிபார்க்கவும்.",
+  "synonyms": [
+   "end date",
+   "expiration"
+  ],
+  "level": "advanced"
+ }
+]

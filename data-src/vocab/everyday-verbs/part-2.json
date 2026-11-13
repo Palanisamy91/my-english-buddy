@@ -1,0 +1,352 @@
+[
+ {
+  "word": "solve",
+  "meaning": "to find the answer to a problem",
+  "tamil": "பிரச்சனைக்கு தீர்வு காணுதல்; விடை காணுதல்",
+  "pos": "verb",
+  "pron": "SOLV",
+  "example": "Can you help me solve this maths question?",
+  "exampleTamil": "இந்த கணக்கை தீர்க்க எனக்கு உதவ முடியுமா?",
+  "synonyms": [
+   "answer",
+   "crack"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "check",
+  "meaning": "to look at something to be sure it is correct",
+  "tamil": "சரியாக உள்ளதா என்று பார்த்தல்",
+  "pos": "verb",
+  "pron": "CHEK",
+  "example": "Check the door before you leave the house.",
+  "exampleTamil": "வீட்டை விட்டு கிளம்பும் முன் கதவைச் சரிபார்க்கவும்.",
+  "synonyms": [
+   "inspect",
+   "examine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "collect",
+  "meaning": "to bring things together from different places",
+  "tamil": "பல இடங்களிலிருந்து சேகரித்தல்",
+  "pos": "verb",
+  "pron": "kuh-LEKT",
+  "example": "She collects old coins as a hobby.",
+  "exampleTamil": "அவள் பழைய நாணயங்களை பொழுதுபோக்காக சேகரிக்கிறாள்.",
+  "synonyms": [
+   "gather",
+   "accumulate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gather",
+  "meaning": "to come together or bring things together",
+  "tamil": "ஒன்று கூடுதல்; திரட்டுதல்",
+  "pos": "verb",
+  "pron": "GATH-er",
+  "example": "Everyone gathers in the hall at nine o'clock.",
+  "exampleTamil": "ஒன்பது மணிக்கு எல்லோரும் கூடத்தில் ஒன்று கூடுகிறார்கள்.",
+  "synonyms": [
+   "crowd",
+   "meet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bounce",
+  "meaning": "to hit a surface and jump back",
+  "tamil": "மோதி மீண்டும் துள்ளுதல்",
+  "pos": "verb",
+  "pron": "BOWNS",
+  "example": "The ball bounced twice and rolled away.",
+  "exampleTamil": "பந்து இரண்டு முறை துள்ளி உருண்டு சென்றது.",
+  "synonyms": [
+   "rebound",
+   "spring"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "toss",
+  "meaning": "to throw something lightly",
+  "tamil": "லேசாக வீசுதல்",
+  "pos": "verb",
+  "pron": "TOS",
+  "example": "Toss me the keys, please.",
+  "exampleTamil": "தயவுசெய்து சாவியை என்னிடம் வீசுங்கள்.",
+  "synonyms": [
+   "throw",
+   "flip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lower",
+  "meaning": "to move something down",
+  "tamil": "கீழே இறக்குதல்",
+  "pos": "verb",
+  "pron": "LOH-er",
+  "example": "Please lower the volume of the TV.",
+  "exampleTamil": "தயவுசெய்து டிவியின் ஒலியைக் குறையுங்கள்.",
+  "synonyms": [
+   "drop",
+   "reduce"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mend",
+  "meaning": "to repair something that is torn or broken",
+  "tamil": "கிழிந்த அல்லது உடைந்ததை சரிசெய்தல்",
+  "pos": "verb",
+  "pron": "MEND",
+  "example": "My grandmother mends our torn clothes by hand.",
+  "exampleTamil": "என் பாட்டி கிழிந்த துணிகளை கையால் தைத்து சரிசெய்கிறார்.",
+  "synonyms": [
+   "repair",
+   "patch"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shorten",
+  "meaning": "to make something shorter",
+  "tamil": "சுருக்குதல்; குட்டையாக்குதல்",
+  "pos": "verb",
+  "pron": "SHOR-tun",
+  "example": "The tailor will shorten these trousers by two inches.",
+  "exampleTamil": "தையல்காரர் இந்த பேண்டை இரண்டு அங்குலம் குட்டையாக்குவார்.",
+  "synonyms": [
+   "cut",
+   "trim"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "widen",
+  "meaning": "to make something wider",
+  "tamil": "அகலமாக்குதல்",
+  "pos": "verb",
+  "pron": "WY-dun",
+  "example": "The government will widen the road next year.",
+  "exampleTamil": "அரசு அடுத்த ஆண்டு சாலையை அகலப்படுத்தும்.",
+  "synonyms": [
+   "broaden",
+   "expand"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "drift",
+  "meaning": "to be carried slowly by water or air",
+  "tamil": "நீர் அல்லது காற்றால் மெதுவாக அடித்துச் செல்லப்படுதல்",
+  "pos": "verb",
+  "pron": "DRIFT",
+  "example": "The boat drifted slowly down the river.",
+  "exampleTamil": "படகு ஆற்றில் மெதுவாக அடித்துச் செல்லப்பட்டது.",
+  "synonyms": [
+   "float",
+   "glide"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pace",
+  "meaning": "to walk up and down again and again, often from worry",
+  "tamil": "கவலையில் முன்னும் பின்னும் நடத்தல்",
+  "pos": "verb",
+  "pron": "PAYS",
+  "example": "He paced the hospital corridor while waiting for news.",
+  "exampleTamil": "செய்திக்காக காத்திருக்கும்போது அவர் மருத்துவமனை நடைபாதையில் முன்னும் பின்னும் நடந்தார்.",
+  "synonyms": [
+   "stride",
+   "walk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "kneel",
+  "meaning": "to go down on your knees",
+  "tamil": "முழங்காலிடுதல்",
+  "pos": "verb",
+  "pron": "NEEL",
+  "example": "Devotees kneel in front of the altar.",
+  "exampleTamil": "பக்தர்கள் பீடத்தின் முன் முழங்காலிடுகிறார்கள்.",
+  "synonyms": [
+   "bow",
+   "crouch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crouch",
+  "meaning": "to bend your knees and body low",
+  "tamil": "முழங்கால்களை மடக்கி தாழ்வாக குனிதல்",
+  "pos": "verb",
+  "pron": "KROWCH",
+  "example": "The cat crouched behind the bush.",
+  "exampleTamil": "பூனை புதருக்குப் பின்னால் தாழ்வாக பதுங்கியது.",
+  "synonyms": [
+   "squat",
+   "stoop"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tiptoe",
+  "meaning": "to walk quietly on the front of your feet",
+  "tamil": "சத்தம் வராமல் கால்விரல்களால் நடத்தல்",
+  "pos": "verb",
+  "pron": "TIP-toh",
+  "example": "I tiptoed past the sleeping baby.",
+  "exampleTamil": "தூங்கும் குழந்தையைத் தாண்டி நான் சத்தமின்றி நடந்தேன்.",
+  "synonyms": [
+   "creep",
+   "sneak"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scatter",
+  "meaning": "to throw or spread things in many directions",
+  "tamil": "பல திசைகளில் சிதறடித்தல்",
+  "pos": "verb",
+  "pron": "SKAT-er",
+  "example": "The children scattered rice for the birds.",
+  "exampleTamil": "குழந்தைகள் பறவைகளுக்காக அரிசியை சிதறவிட்டனர்.",
+  "synonyms": [
+   "spread",
+   "strew"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "escape",
+  "meaning": "to get away from a place or danger",
+  "tamil": "தப்பித்தல்",
+  "pos": "verb",
+  "pron": "ih-SKAYP",
+  "example": "The dog escaped through the open gate.",
+  "exampleTamil": "திறந்த கேட் வழியாக நாய் தப்பி ஓடியது.",
+  "synonyms": [
+   "flee",
+   "get away"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mold",
+  "meaning": "to give a soft material a shape",
+  "tamil": "மென்மையான பொருளுக்கு வடிவம் கொடுத்தல்",
+  "pos": "verb",
+  "pron": "MOHLD",
+  "example": "The potter molds the wet clay into a pot.",
+  "exampleTamil": "குயவர் ஈரக் களிமண்ணை பானையாக வடிவமைக்கிறார்.",
+  "synonyms": [
+   "shape",
+   "form"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "carve",
+  "meaning": "to cut a shape out of wood, stone or food",
+  "tamil": "மரம், கல் அல்லது உணவில் வடிவம் செதுக்குதல்",
+  "pos": "verb",
+  "pron": "KARV",
+  "example": "He carved a small elephant from wood.",
+  "exampleTamil": "அவர் மரத்தில் ஒரு சிறிய யானையை செதுக்கினார்.",
+  "synonyms": [
+   "engrave",
+   "etch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "weave",
+  "meaning": "to make cloth by crossing threads over and under",
+  "tamil": "நூல்களை பின்னி துணி நெய்தல்",
+  "pos": "verb",
+  "pron": "WEEV",
+  "example": "Weavers in Kanchipuram weave beautiful silk sarees.",
+  "exampleTamil": "காஞ்சிபுரத்தில் நெசவாளர்கள் அழகான பட்டுப் புடவைகளை நெய்கிறார்கள்.",
+  "synonyms": [
+   "braid",
+   "interlace"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "knit",
+  "meaning": "to make clothes from wool using needles",
+  "tamil": "ஊசிகளால் கம்பளி நூலில் ஆடை பின்னுதல்",
+  "pos": "verb",
+  "pron": "NIT",
+  "example": "My aunt is knitting a sweater for the baby.",
+  "exampleTamil": "என் அத்தை குழந்தைக்காக ஒரு ஸ்வெட்டர் பின்னுகிறார்.",
+  "synonyms": [
+   "crochet",
+   "weave"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sketch",
+  "meaning": "to draw a quick, simple picture",
+  "tamil": "விரைவாக எளிய படம் வரைதல்",
+  "pos": "verb",
+  "pron": "SKECH",
+  "example": "He sketched the temple in his notebook.",
+  "exampleTamil": "அவர் தன் நோட்டில் கோவிலை வரைந்தார்.",
+  "synonyms": [
+   "draw",
+   "outline"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "design",
+  "meaning": "to plan how something will look or work",
+  "tamil": "ஒன்று எப்படி இருக்கும் அல்லது செயல்படும் என்று திட்டமிட்டு வடிவமைத்தல்",
+  "pos": "verb",
+  "pron": "dih-ZYN",
+  "example": "She designs mobile apps for a small company.",
+  "exampleTamil": "அவள் ஒரு சிறிய நிறுவனத்துக்கு மொபைல் ஆப்களை வடிவமைக்கிறாள்.",
+  "synonyms": [
+   "plan",
+   "devise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "construct",
+  "meaning": "to build something such as a house or bridge",
+  "tamil": "வீடு அல்லது பாலம் போன்றவற்றைக் கட்டுதல்",
+  "pos": "verb",
+  "pron": "kun-STRUKT",
+  "example": "They are constructing a new bridge over the river.",
+  "exampleTamil": "அவர்கள் ஆற்றின் மேல் புதிய பாலம் கட்டுகிறார்கள்.",
+  "synonyms": [
+   "build",
+   "erect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "produce",
+  "meaning": "to make or grow something",
+  "tamil": "உற்பத்தி செய்தல்",
+  "pos": "verb",
+  "pron": "pruh-DOOS",
+  "example": "This factory produces thousands of bottles daily.",
+  "exampleTamil": "இந்த தொழிற்சாலை தினமும் ஆயிரக்கணக்கான பாட்டில்களை உற்பத்தி செய்கிறது.",
+  "synonyms": [
+   "make",
+   "manufacture"
+  ],
+  "level": "intermediate"
+ }
+]

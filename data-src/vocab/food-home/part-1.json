@@ -1,0 +1,336 @@
+[
+ {
+  "word": "tongs",
+  "meaning": "A tool with two arms to pick up hot food or ice.",
+  "tamil": "இடுக்கி",
+  "pos": "noun",
+  "pron": "TONGZ",
+  "example": "Use the tongs to turn the chapatis on the pan.",
+  "exampleTamil": "தவாவில் சப்பாத்தியைத் திருப்ப இடுக்கியைப் பயன்படுத்து.",
+  "synonyms": [
+   "pincers"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "whisk",
+  "meaning": "To beat eggs or cream quickly with a tool until smooth.",
+  "tamil": "அடித்துக் கலக்கு",
+  "pos": "verb",
+  "pron": "WISK",
+  "example": "Whisk the eggs well before you pour them in the pan.",
+  "exampleTamil": "முட்டையை பாத்திரத்தில் ஊற்றுவதற்கு முன் நல்லா அடித்துக் கலக்கு.",
+  "synonyms": [
+   "beat",
+   "mix"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "colander",
+  "meaning": "A bowl with small holes to drain water from food.",
+  "tamil": "வடிகட்டி கூடை",
+  "pos": "noun",
+  "pron": "KOL-un-der",
+  "example": "Put the boiled pasta in the colander to drain.",
+  "exampleTamil": "வேக வைத்த பாஸ்தாவை வடிகட்டி கூடையில் போட்டு தண்ணீர் வடி.",
+  "synonyms": [
+   "strainer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rolling pin",
+  "meaning": "A round wooden stick used to flatten dough.",
+  "tamil": "சப்பாத்தி கட்டை",
+  "pos": "noun",
+  "pron": "ROH-ling pin",
+  "example": "Amma rolled the chapati dough with a rolling pin.",
+  "exampleTamil": "அம்மா சப்பாத்தி மாவை கட்டையால் உருட்டினாங்க.",
+  "synonyms": [
+   "dough roller"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tiffin box",
+  "meaning": "A small box with a lid used to carry lunch.",
+  "tamil": "டிபன் பாக்ஸ்",
+  "pos": "noun",
+  "pron": "TIF-in boks",
+  "example": "My son forgot his tiffin box at home again.",
+  "exampleTamil": "என் மகன் மறுபடியும் டிபன் பாக்ஸை வீட்டிலேயே மறந்துட்டான்.",
+  "synonyms": [
+   "lunch box"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "griddle",
+  "meaning": "A flat iron pan used to cook dosa or chapati.",
+  "tamil": "தோசைக்கல்",
+  "pos": "noun",
+  "pron": "GRID-ul",
+  "example": "Heat the griddle before you pour the batter.",
+  "exampleTamil": "மாவை ஊற்றுவதற்கு முன் தோசைக்கல்லை சூடு பண்ணு.",
+  "synonyms": [
+   "flat pan",
+   "tawa"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "chopping board",
+  "meaning": "A flat board on which you cut vegetables.",
+  "tamil": "காய்கறி வெட்டும் பலகை",
+  "pos": "noun",
+  "pron": "CHOP-ing bord",
+  "example": "Wash the chopping board after cutting onions.",
+  "exampleTamil": "வெங்காயம் வெட்டிய பிறகு காய்கறி வெட்டும் பலகையைக் கழுவு.",
+  "synonyms": [
+   "cutting board"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "apron",
+  "meaning": "A cloth you wear over your clothes while cooking.",
+  "tamil": "முன்னாடி அணியும் சமையல் துணி",
+  "pos": "noun",
+  "pron": "AY-pron",
+  "example": "Wear an apron so the oil does not spoil your shirt.",
+  "exampleTamil": "எண்ணெய் உன் சட்டையில் படாம இருக்க கவசம் போட்டுக்கோ.",
+  "synonyms": [
+   "cooking cover"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mixer grinder",
+  "meaning": "An electric machine used to grind and blend food.",
+  "tamil": "மிக்சி",
+  "pos": "noun",
+  "pron": "MIK-ser GRIN-der",
+  "example": "Our mixer grinder is making a loud noise today.",
+  "exampleTamil": "நம்ம மிக்சி இன்னைக்கு ரொம்ப சத்தம் போடுது.",
+  "synonyms": [
+   "blender",
+   "mixie"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sieve",
+  "meaning": "A tool with a net to separate fine powder from big pieces.",
+  "tamil": "சல்லடை",
+  "pos": "noun",
+  "pron": "SIV",
+  "example": "Pass the flour through a sieve to remove lumps.",
+  "exampleTamil": "கட்டிகளை நீக்க மாவை சல்லடையில் சலிச்சுக்கோ.",
+  "synonyms": [
+   "sifter",
+   "strainer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sprinkle",
+  "meaning": "To scatter small bits of something lightly over food.",
+  "tamil": "தூவு",
+  "pos": "verb",
+  "pron": "SPRING-kul",
+  "example": "Sprinkle some salt on the cut mango.",
+  "exampleTamil": "வெட்டின மாங்காய் மேல கொஞ்சம் உப்பு தூவு.",
+  "synonyms": [
+   "scatter",
+   "dust"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tasty",
+  "meaning": "Having a good flavour that you enjoy.",
+  "tamil": "ருசியான",
+  "pos": "adjective",
+  "pron": "TAY-stee",
+  "example": "The sambar you made today was really tasty.",
+  "exampleTamil": "நீ இன்னைக்கு செஞ்ச சாம்பார் ரொம்ப ருசியா இருந்தது.",
+  "synonyms": [
+   "delicious",
+   "yummy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ripe",
+  "meaning": "Fully grown and ready to eat, like a fruit.",
+  "tamil": "பழுத்த",
+  "pos": "adjective",
+  "pron": "RYPE",
+  "example": "These bananas are ripe, so eat them today.",
+  "exampleTamil": "இந்த வாழைப்பழங்கள் பழுத்துடுச்சு, இன்னைக்கே சாப்பிடு.",
+  "synonyms": [
+   "mature"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "raw",
+  "meaning": "Not cooked yet.",
+  "tamil": "வேகாத, பச்சையான",
+  "pos": "adjective",
+  "pron": "RAW",
+  "example": "Raw mango with chilli powder is my favourite snack.",
+  "exampleTamil": "மிளகாய்த்தூள் போட்ட பச்சை மாங்காய் தான் என் ஃபேவரைட் தின்பண்டம்.",
+  "synonyms": [
+   "uncooked"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stale",
+  "meaning": "Not fresh any more, like old bread or food.",
+  "tamil": "பழசான, கெட்டுப்போன",
+  "pos": "adjective",
+  "pron": "STAYL",
+  "example": "This bread is stale, so do not eat it.",
+  "exampleTamil": "இந்த ரொட்டி பழசாயிடுச்சு, சாப்பிடாதே.",
+  "synonyms": [
+   "old",
+   "not fresh"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "groceries",
+  "meaning": "Food and small things you buy for the house.",
+  "tamil": "மளிகை சாமான்கள்",
+  "pos": "noun",
+  "pron": "GROH-ser-eez",
+  "example": "I bring the groceries home every Sunday morning.",
+  "exampleTamil": "நான் ஒவ்வொரு ஞாயிறு காலையும் மளிகை சாமான் வாங்கி வருவேன்.",
+  "synonyms": [
+   "provisions",
+   "supplies"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ironing",
+  "meaning": "Pressing clothes with a hot iron to remove wrinkles.",
+  "tamil": "துணி இஸ்திரி போடுதல்",
+  "pos": "noun",
+  "pron": "EYE-ern-ing",
+  "example": "I finish the ironing on Sunday night for the whole week.",
+  "exampleTamil": "வாரம் முழுக்க ஆகும் இஸ்திரியை நான் ஞாயிறு ராத்திரி முடிச்சிடுவேன்.",
+  "synonyms": [
+   "pressing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "skillet",
+  "meaning": "A heavy frying pan with a long handle.",
+  "tamil": "வறுக்கும் வாணலி",
+  "pos": "noun",
+  "pron": "SKIL-it",
+  "example": "She cooked the omelette in a small skillet.",
+  "exampleTamil": "அவ சின்ன வாணலியில ஆம்லெட் போட்டா.",
+  "synonyms": [
+   "frying pan"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tray",
+  "meaning": "A flat board used to carry cups, plates or food.",
+  "tamil": "தட்டு",
+  "pos": "noun",
+  "pron": "TRAY",
+  "example": "He brought tea for everyone on a steel tray.",
+  "exampleTamil": "அவர் ஒரு ஸ்டீல் தட்டுல எல்லாருக்கும் டீ கொண்டு வந்தார்.",
+  "synonyms": [
+   "platter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "batter",
+  "meaning": "A thick liquid mix of flour and water for idli or dosa.",
+  "tamil": "மாவு (தோசை மாவு)",
+  "pos": "noun",
+  "pron": "BAT-er",
+  "example": "The idli batter has risen well overnight.",
+  "exampleTamil": "இட்லி மாவு ராத்திரி முழுக்க நல்லா புளிச்சு பொங்கிடுச்சு.",
+  "synonyms": [
+   "dosa mix"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dough",
+  "meaning": "A soft mixture of flour and water that you make into chapati or bread.",
+  "tamil": "பிசைந்த மாவு",
+  "pos": "noun",
+  "pron": "DOH",
+  "example": "Amma keeps the chapati dough in the fridge.",
+  "exampleTamil": "அம்மா சப்பாத்தி மாவை ஃபிரிட்ஜ்ல வச்சிருக்காங்க.",
+  "synonyms": [
+   "kneaded flour"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gravy",
+  "meaning": "A thick liquid sauce eaten with rice or roti.",
+  "tamil": "குழம்பு, கிரேவி",
+  "pos": "noun",
+  "pron": "GRAY-vee",
+  "example": "Add some gravy to my rice, please.",
+  "exampleTamil": "என் சாதத்துக்கு கொஞ்சம் குழம்பு ஊத்துங்க.",
+  "synonyms": [
+   "curry sauce"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "steamer",
+  "meaning": "A pot or vessel in which food is cooked by steam.",
+  "tamil": "ஆவியில் வேகவைக்கும் பாத்திரம்",
+  "pos": "noun",
+  "pron": "STEE-mer",
+  "example": "I steam the idlis in this big steamer.",
+  "exampleTamil": "இந்த பெரிய இட்லி பாத்திரத்துல தான் இட்லி அவிக்கிறேன்.",
+  "synonyms": [
+   "steam pot"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chutney",
+  "meaning": "A spicy or sweet side dish made of coconut, mint or fruit.",
+  "tamil": "சட்னி",
+  "pos": "noun",
+  "pron": "CHUT-nee",
+  "example": "Coconut chutney goes well with hot idlis.",
+  "exampleTamil": "சூடான இட்லிக்கு தேங்காய் சட்னி நல்லா இருக்கும்.",
+  "synonyms": [
+   "dip",
+   "relish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ghee",
+  "meaning": "Clear butter used in Indian cooking.",
+  "tamil": "நெய்",
+  "pos": "noun",
+  "pron": "GEE",
+  "example": "Add a spoon of ghee to the hot pongal.",
+  "exampleTamil": "சூடான பொங்கல்ல ஒரு ஸ்பூன் நெய் போடு.",
+  "synonyms": [
+   "clarified butter"
+  ],
+  "level": "beginner"
+ }
+]

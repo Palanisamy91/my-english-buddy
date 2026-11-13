@@ -1,0 +1,197 @@
+[
+ {
+  "en": "In my opinion, it's better to share your feelings.",
+  "tamil": "என் கருத்துப்படி, உன் உணர்ச்சிகளைப் பகிர்ந்துக்கிறது நல்லது.",
+  "context": "Giving your view in a discussion",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'In my opinion' introduces your view politely. 'Better to' plus a verb gives advice.",
+  "words": [
+   "opinion",
+   "share"
+  ]
+ },
+ {
+  "en": "I don't agree that anger always solves problems.",
+  "tamil": "கோவம் எப்பவும் பிரச்சனையைத் தீர்க்கும்னு நான் ஒத்துக்க மாட்டேன்.",
+  "context": "Disagreeing politely",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Don't agree' is a polite way to say no. 'That' starts the idea.",
+  "words": [
+   "agree",
+   "anger"
+  ]
+ },
+ {
+  "en": "Crying doesn't mean you are weak.",
+  "tamil": "அழுறது நீ பலவீனம்னு அர்த்தம் இல்ல.",
+  "context": "Telling someone it's fine to cry",
+  "tense": "present",
+  "type": "negative",
+  "explain": "Use 'doesn't mean' for a negative idea about a general fact.",
+  "words": [
+   "crying",
+   "weak"
+  ]
+ },
+ {
+  "en": "I'll feel much happier once I finish this project.",
+  "tamil": "இந்த ப்ராஜெக்ட்டை முடிச்சதும் நான் ரொம்ப சந்தோஷமா இருப்பேன்.",
+  "context": "Looking forward to finishing work",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Once' means 'as soon as'. After 'once' we use the present, not 'will'.",
+  "words": [
+   "happier",
+   "project"
+  ]
+ },
+ {
+  "en": "We're going to miss you a lot.",
+  "tamil": "நாங்க உன்னை ரொம்ப மிஸ் பண்ணுவோம்.",
+  "context": "Saying goodbye to a colleague",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' talks about a feeling you are sure will come.",
+  "words": [
+   "miss"
+  ],
+  "alt": {
+   "en": "We'll miss you so much.",
+   "tamil": "நாங்க உன்னை ரொம்ப மிஸ் பண்ணுவோம்."
+  }
+ },
+ {
+  "en": "What makes you feel most proud?",
+  "tamil": "எது உன்னை ரொம்ப பெருமைப்பட வைக்கும்?",
+  "context": "Interview or friendly chat question",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Make you feel' plus an adjective asks about the cause of a feeling.",
+  "words": [
+   "proud",
+   "makes"
+  ]
+ },
+ {
+  "en": "I was so scared when the lights went out.",
+  "tamil": "கரண்ட் போனப்போ எனக்கு ரொம்ப பயமா இருந்துச்சு.",
+  "context": "Telling a story about a power cut",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'When' joins two past events. 'Went out' means the light stopped.",
+  "words": [
+   "scared",
+   "lights"
+  ]
+ },
+ {
+  "en": "Can we talk? I'm feeling a bit overwhelmed.",
+  "tamil": "கொஞ்சம் பேசலாமா? எனக்கு ரொம்ப அழுத்தமா இருக்கு.",
+  "context": "Asking a friend or manager for support",
+  "tense": "present-continuous",
+  "type": "request",
+  "explain": "Ask 'Can we talk?' first, then say how you feel. 'A bit' softens it.",
+  "words": [
+   "overwhelmed",
+   "talk"
+  ]
+ },
+ {
+  "en": "You must be so proud of your daughter!",
+  "tamil": "உன் பொண்ணை நினைச்சு நீ ரொம்ப பெருமைப்படுவ!",
+  "context": "Congratulating a parent",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Must be' is used when you are sure about something from what you see.",
+  "words": [
+   "proud",
+   "must"
+  ]
+ },
+ {
+  "en": "I wasn't expecting such good news. I'm thrilled!",
+  "tamil": "இவ்வளவு நல்ல செய்தி எதிர்பார்க்கலை. எனக்கு ரொம்ப பரவசமா இருக்கு!",
+  "context": "Reacting to a surprise",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Wasn't expecting' shows surprise. 'Thrilled' is stronger than 'happy'.",
+  "words": [
+   "thrilled",
+   "expecting"
+  ]
+ },
+ {
+  "en": "Take a deep breath and calm down.",
+  "tamil": "ஆழமா மூச்சு விடு, அமைதியாகு.",
+  "context": "Helping someone who is panicking",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Two commands joined by 'and'. This is a common way to help someone relax.",
+  "words": [
+   "breath",
+   "calm"
+  ]
+ },
+ {
+  "en": "He has been very moody since he lost his job.",
+  "tamil": "வேலை போனதுல இருந்து அவன் ரொம்ப மனநிலை மாறிக்கிட்டே இருக்கான்.",
+  "context": "Talking about a worried friend",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has been' plus 'since' shows something that began in the past and still continues.",
+  "words": [
+   "moody",
+   "since"
+  ]
+ },
+ {
+  "en": "Is it normal to feel anxious before a presentation?",
+  "tamil": "பிரசன்டேஷனுக்கு முன்னாடி பதற்றமா இருக்கிறது சாதாரணமா?",
+  "context": "Asking for reassurance",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is it normal to' plus a verb asks if a feeling is usual.",
+  "words": [
+   "normal",
+   "anxious"
+  ]
+ },
+ {
+  "en": "I'm grateful for all your help.",
+  "tamil": "உங்க எல்லா உதவிக்கும் நான் நன்றியுள்ளவனா இருக்கேன்.",
+  "context": "Thanking someone sincerely",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Grateful for' a thing is a polite, warm way to thank.",
+  "words": [
+   "grateful",
+   "help"
+  ]
+ },
+ {
+  "en": "It's hard to stay positive when everything goes wrong.",
+  "tamil": "எல்லாம் தப்பா போகும்போது நேர்மறையா இருக்கிறது கஷ்டம்.",
+  "context": "Sharing a general truth",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'It's hard to' plus a verb says something is difficult. 'Goes wrong' means fails.",
+  "words": [
+   "positive",
+   "wrong"
+  ]
+ },
+ {
+  "en": "I'm sorry you're going through a tough time.",
+  "tamil": "நீ கஷ்டமான காலத்தைக் கடந்துக்கிட்டு இருக்கிறதுக்கு வருந்துறேன்.",
+  "context": "Showing sympathy",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'I'm sorry' can show sympathy, not only an apology. 'Going through' means passing through a hard time.",
+  "words": [
+   "tough",
+   "sorry"
+  ]
+ }
+]

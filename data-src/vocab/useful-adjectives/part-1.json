@@ -1,0 +1,377 @@
+[
+ {
+  "word": "adorable",
+  "meaning": "Very cute and easy to love",
+  "tamil": "அழகான, செல்லமான",
+  "pos": "adjective",
+  "pron": "AD-or-uh-bul",
+  "example": "The puppy looked adorable in its tiny red sweater.",
+  "exampleTamil": "அந்த நாய்க்குட்டி சிறிய சிவப்பு ஸ்வெட்டரில் மிகவும் அழகாக இருந்தது.",
+  "synonyms": [
+   "cute",
+   "lovely",
+   "sweet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "aggressive",
+  "meaning": "Ready to attack or argue in an angry way",
+  "tamil": "ஆக்கிரோஷமான, சண்டைக்குணமுள்ள",
+  "pos": "adjective",
+  "pron": "uh-GRESS-iv",
+  "example": "The aggressive dog barked loudly at every stranger.",
+  "exampleTamil": "அந்த ஆக்கிரோஷமான நாய் ஒவ்வொரு அந்நியரையும் பார்த்து சத்தமாக குரைத்தது.",
+  "synonyms": [
+   "violent",
+   "hostile",
+   "pushy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "airy",
+  "meaning": "With plenty of fresh air and space",
+  "tamil": "காற்றோட்டமுள்ள",
+  "pos": "adjective",
+  "pron": "AIR-ee",
+  "example": "Our new classroom is bright and airy.",
+  "exampleTamil": "எங்கள் புதிய வகுப்பறை வெளிச்சமாகவும் காற்றோட்டமாகவும் இருக்கிறது.",
+  "synonyms": [
+   "breezy",
+   "spacious",
+   "open"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "alike",
+  "meaning": "Looking or being very similar",
+  "tamil": "ஒரே மாதிரியான",
+  "pos": "adjective",
+  "pron": "uh-LIKE",
+  "example": "The two sisters look so alike that people confuse them.",
+  "exampleTamil": "அந்த இரு சகோதரிகளும் ஒரே மாதிரி இருப்பதால் மக்கள் குழம்புகிறார்கள்.",
+  "synonyms": [
+   "similar",
+   "same",
+   "identical"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "awful",
+  "meaning": "Very bad or unpleasant",
+  "tamil": "மிகவும் மோசமான",
+  "pos": "adjective",
+  "pron": "AW-ful",
+  "example": "The food at that canteen tastes awful.",
+  "exampleTamil": "அந்த கேன்டீனில் உணவு மிகவும் மோசமான சுவையுடன் உள்ளது.",
+  "synonyms": [
+   "terrible",
+   "dreadful",
+   "horrible"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "boisterous",
+  "meaning": "Noisy, lively and full of energy",
+  "tamil": "கலகலப்பான, சத்தமான",
+  "pos": "adjective",
+  "pron": "BOY-ster-us",
+  "example": "The boisterous children ran around the garden all evening.",
+  "exampleTamil": "கலகலப்பான குழந்தைகள் மாலை முழுவதும் தோட்டத்தில் ஓடிக்கொண்டிருந்தனர்.",
+  "synonyms": [
+   "rowdy",
+   "noisy",
+   "lively"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "brilliant",
+  "meaning": "Extremely clever or very good",
+  "tamil": "மிகச் சிறந்த, அறிவார்ந்த",
+  "pos": "adjective",
+  "pron": "BRIL-yunt",
+  "example": "That was a brilliant idea to save time.",
+  "exampleTamil": "நேரத்தை மிச்சப்படுத்த அது ஒரு அருமையான யோசனை.",
+  "synonyms": [
+   "excellent",
+   "clever",
+   "superb"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bulky",
+  "meaning": "Large and heavy, hard to carry or fit",
+  "tamil": "பருமனான, பெரிய",
+  "pos": "adjective",
+  "pron": "BUL-kee",
+  "example": "The bulky parcel did not fit in my bag.",
+  "exampleTamil": "அந்த பருமனான பார்சல் என் பையில் பொருந்தவில்லை.",
+  "synonyms": [
+   "large",
+   "heavy",
+   "unwieldy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "charming",
+  "meaning": "Pleasant and attractive in a way that wins people",
+  "tamil": "கவர்ச்சிகரமான, இனிமையான",
+  "pos": "adjective",
+  "pron": "CHAR-ming",
+  "example": "She is a charming girl with a warm smile.",
+  "exampleTamil": "அவள் அன்பான புன்னகையுடன் கூடிய கவர்ச்சிகரமான பெண்.",
+  "synonyms": [
+   "delightful",
+   "pleasant",
+   "lovely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chewy",
+  "meaning": "Needing a lot of chewing; soft but tough",
+  "tamil": "மெல்ல வேண்டிய, கெட்டியான",
+  "pos": "adjective",
+  "pron": "CHOO-ee",
+  "example": "This chewy candy stuck to my teeth.",
+  "exampleTamil": "இந்த மெல்லும் மிட்டாய் என் பற்களில் ஒட்டிக்கொண்டது.",
+  "synonyms": [
+   "tough",
+   "sticky",
+   "gummy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "classy",
+  "meaning": "Stylish and of high quality",
+  "tamil": "உயர்தரமான, நாகரிகமான",
+  "pos": "adjective",
+  "pron": "KLASS-ee",
+  "example": "They had their wedding dinner at a classy hotel.",
+  "exampleTamil": "அவர்கள் திருமண விருந்தை ஒரு உயர்தர ஹோட்டலில் நடத்தினர்.",
+  "synonyms": [
+   "stylish",
+   "elegant",
+   "upscale"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cluttered",
+  "meaning": "Untidy and full of too many things",
+  "tamil": "பொருட்கள் நிறைந்த, ஒழுங்கற்ற",
+  "pos": "adjective",
+  "pron": "KLUT-erd",
+  "example": "His desk is so cluttered that he cannot find anything.",
+  "exampleTamil": "அவன் மேசை மிகவும் ஒழுங்கற்று இருப்பதால் எதையும் கண்டுபிடிக்க முடியவில்லை.",
+  "synonyms": [
+   "messy",
+   "untidy",
+   "crowded"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "complex",
+  "meaning": "Having many parts and hard to understand",
+  "tamil": "சிக்கலான",
+  "pos": "adjective",
+  "pron": "kom-PLEKS",
+  "example": "The rules of this game are too complex for kids.",
+  "exampleTamil": "இந்த விளையாட்டின் விதிகள் குழந்தைகளுக்கு மிகவும் சிக்கலானவை.",
+  "synonyms": [
+   "complicated",
+   "tricky",
+   "difficult"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "compulsory",
+  "meaning": "Required by rule or law; you must do it",
+  "tamil": "கட்டாயமான",
+  "pos": "adjective",
+  "pron": "kum-PUL-suh-ree",
+  "example": "Wearing a helmet is compulsory for bike riders.",
+  "exampleTamil": "பைக் ஓட்டுபவர்களுக்கு ஹெல்மெட் அணிவது கட்டாயம்.",
+  "synonyms": [
+   "mandatory",
+   "required",
+   "obligatory"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "crucial",
+  "meaning": "Extremely important for success",
+  "tamil": "மிக முக்கியமான",
+  "pos": "adjective",
+  "pron": "KROO-shul",
+  "example": "Practice is crucial if you want to speak fluently.",
+  "exampleTamil": "சரளமாகப் பேச வேண்டுமெனில் பயிற்சி மிக முக்கியம்.",
+  "synonyms": [
+   "vital",
+   "essential",
+   "key"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cunning",
+  "meaning": "Clever at tricking others to get what you want",
+  "tamil": "தந்திரமான, சூழ்ச்சியுள்ள",
+  "pos": "adjective",
+  "pron": "KUN-ing",
+  "example": "The cunning fox fooled the crow and took the food.",
+  "exampleTamil": "தந்திரமான நரி காகத்தை ஏமாற்றி உணவை எடுத்துக்கொண்டது.",
+  "synonyms": [
+   "sly",
+   "crafty",
+   "tricky"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dazzling",
+  "meaning": "So bright or beautiful that it amazes you",
+  "tamil": "கண்ணைப் பறிக்கும்",
+  "pos": "adjective",
+  "pron": "DAZ-ling",
+  "example": "The bride looked dazzling in her gold saree.",
+  "exampleTamil": "மணப்பெண் தங்கப் புடவையில் கண்ணைப் பறிக்கும்படி இருந்தாள்.",
+  "synonyms": [
+   "brilliant",
+   "stunning",
+   "glittering"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "delightful",
+  "meaning": "Very pleasant and giving great joy",
+  "tamil": "மகிழ்ச்சி தரும், இனிமையான",
+  "pos": "adjective",
+  "pron": "dih-LITE-ful",
+  "example": "We had a delightful evening with our cousins.",
+  "exampleTamil": "எங்கள் உறவினர்களுடன் நாங்கள் மகிழ்ச்சியான மாலைப்பொழுதைக் கழித்தோம்.",
+  "synonyms": [
+   "lovely",
+   "enjoyable",
+   "pleasant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deserted",
+  "meaning": "Empty, with no people in it",
+  "tamil": "ஆளில்லாத, வெறிச்சோடிய",
+  "pos": "adjective",
+  "pron": "dih-ZUR-tid",
+  "example": "The streets were deserted at five in the morning.",
+  "exampleTamil": "காலை ஐந்து மணிக்கு தெருக்கள் வெறிச்சோடி இருந்தன.",
+  "synonyms": [
+   "empty",
+   "abandoned",
+   "lonely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dim",
+  "meaning": "Not bright; with weak light",
+  "tamil": "மங்கலான",
+  "pos": "adjective",
+  "pron": "DIM",
+  "example": "The room was too dim to read a book.",
+  "exampleTamil": "புத்தகம் படிக்க அந்த அறை மிகவும் மங்கலாக இருந்தது.",
+  "synonyms": [
+   "dark",
+   "faint",
+   "gloomy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "disappointing",
+  "meaning": "Not as good as you hoped",
+  "tamil": "ஏமாற்றம் தரும்",
+  "pos": "adjective",
+  "pron": "dis-uh-POYN-ting",
+  "example": "The match was disappointing because we lost badly.",
+  "exampleTamil": "நாங்கள் மோசமாகத் தோற்றதால் அந்த ஆட்டம் ஏமாற்றமாக இருந்தது.",
+  "synonyms": [
+   "unsatisfactory",
+   "sad",
+   "poor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "distinct",
+  "meaning": "Clearly different or easy to notice",
+  "tamil": "தெளிவான, தனித்துவமான",
+  "pos": "adjective",
+  "pron": "dis-TINKT",
+  "example": "Each village has its own distinct way of cooking.",
+  "exampleTamil": "ஒவ்வொரு கிராமத்திற்கும் சமைப்பதில் தனித்துவமான முறை உண்டு.",
+  "synonyms": [
+   "separate",
+   "clear",
+   "different"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dreary",
+  "meaning": "Dull, gloomy and depressing",
+  "tamil": "சலிப்பூட்டும், இருண்ட",
+  "pos": "adjective",
+  "pron": "DREER-ee",
+  "example": "It was a dreary afternoon with rain and grey clouds.",
+  "exampleTamil": "மழையும் சாம்பல் மேகங்களுமாக அது ஒரு சலிப்பான மதியம்.",
+  "synonyms": [
+   "dull",
+   "gloomy",
+   "bleak"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "eerie",
+  "meaning": "Strange and a little frightening",
+  "tamil": "திகிலூட்டும், மர்மமான",
+  "pos": "adjective",
+  "pron": "EER-ee",
+  "example": "The empty old house felt eerie at night.",
+  "exampleTamil": "இரவில் காலியான பழைய வீடு திகிலாக இருந்தது.",
+  "synonyms": [
+   "spooky",
+   "creepy",
+   "strange"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "effortless",
+  "meaning": "Done easily, without much effort",
+  "tamil": "சிரமமில்லாத",
+  "pos": "adjective",
+  "pron": "EF-ert-less",
+  "example": "She plays the violin with effortless skill.",
+  "exampleTamil": "அவள் சிரமமின்றி எளிதாக வயலின் வாசிக்கிறாள்.",
+  "synonyms": [
+   "easy",
+   "smooth",
+   "simple"
+  ],
+  "level": "advanced"
+ }
+]

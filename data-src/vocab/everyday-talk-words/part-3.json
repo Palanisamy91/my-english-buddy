@@ -1,0 +1,352 @@
+[
+ {
+  "word": "heatwave",
+  "meaning": "A period of very hot weather that lasts for several days.",
+  "tamil": "கடும் வெப்ப அலை",
+  "pos": "noun",
+  "pron": "HEET-wayv",
+  "example": "The heatwave made it hard to sleep at night.",
+  "exampleTamil": "வெப்ப அலையால் இரவில் தூங்குவது கடினமாக இருந்தது.",
+  "synonyms": [
+   "hot spell",
+   "scorcher"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fabulous",
+  "meaning": "Wonderful; extremely good.",
+  "tamil": "அற்புதமான",
+  "pos": "adjective",
+  "pron": "FAB-yuh-lus",
+  "example": "You look fabulous in that saree.",
+  "exampleTamil": "அந்தப் புடவையில் நீ அற்புதமாகத் தெரிகிறாய்.",
+  "synonyms": [
+   "marvellous",
+   "lovely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "yikes",
+  "meaning": "Said when you are shocked or alarmed.",
+  "tamil": "அய்யோ",
+  "pos": "interjection",
+  "pron": "YIKES",
+  "example": "Yikes, the bill is so high!",
+  "exampleTamil": "அய்யோ, பில் மிக அதிகமாக இருக்கிறது!",
+  "synonyms": [
+   "oh no",
+   "gosh"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gosh",
+  "meaning": "A mild word showing surprise.",
+  "tamil": "அடடா",
+  "pos": "interjection",
+  "pron": "GOSH",
+  "example": "Gosh, is it already ten o'clock?",
+  "exampleTamil": "அடடா, ஏற்கனவே பத்து மணி ஆகிவிட்டதா?",
+  "synonyms": [
+   "wow",
+   "goodness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "alas",
+  "meaning": "A word showing sadness about something.",
+  "tamil": "ஐயோ பாவம்",
+  "pos": "interjection",
+  "pron": "uh-LAS",
+  "example": "Alas, the shop was already closed.",
+  "exampleTamil": "ஐயோ பாவம், கடை ஏற்கனவே மூடியிருந்தது.",
+  "synonyms": [
+   "sadly",
+   "unfortunately"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "huh",
+  "meaning": "Said when you are surprised or did not understand.",
+  "tamil": "என்ன, ஹா",
+  "pos": "interjection",
+  "pron": "HUH",
+  "example": "Huh? Can you say that again?",
+  "exampleTamil": "என்ன? அதை மீண்டும் சொல்ல முடியுமா?",
+  "synonyms": [
+   "what",
+   "pardon"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "aha",
+  "meaning": "Said when you suddenly understand something.",
+  "tamil": "ஓ அப்படியா, புரிந்தது",
+  "pos": "interjection",
+  "pron": "ah-HAH",
+  "example": "Aha, now I understand the problem!",
+  "exampleTamil": "ஓ, இப்போது பிரச்சனை எனக்குப் புரிகிறது!",
+  "synonyms": [
+   "oh",
+   "I see"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "oh dear",
+  "meaning": "Said when you feel worried or sorry about something.",
+  "tamil": "அடடா, அய்யோ",
+  "pos": "phrase",
+  "pron": "oh DEER",
+  "example": "Oh dear, I left my phone at home.",
+  "exampleTamil": "அடடா, என் போனை வீட்டிலேயே மறந்துவிட்டேன்.",
+  "synonyms": [
+   "oh no",
+   "goodness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "good grief",
+  "meaning": "Said when you are surprised or annoyed.",
+  "tamil": "அடக் கடவுளே",
+  "pos": "phrase",
+  "pron": "good GREEF",
+  "example": "Good grief, look at this traffic!",
+  "exampleTamil": "அடக் கடவுளே, இந்த போக்குவரத்தைப் பார்!",
+  "synonyms": [
+   "goodness",
+   "my word"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "makes sense",
+  "meaning": "Is easy to understand or seems reasonable.",
+  "tamil": "நியாயமாகத் தெரிகிறது",
+  "pos": "phrase",
+  "pron": "MAYKS SENS",
+  "example": "Your plan makes sense to me.",
+  "exampleTamil": "உன் திட்டம் எனக்கு நியாயமாகத் தெரிகிறது.",
+  "synonyms": [
+   "is logical",
+   "adds up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "got it",
+  "meaning": "Said when you have understood something.",
+  "tamil": "புரிந்தது",
+  "pos": "phrase",
+  "pron": "GOT it",
+  "example": "Got it, I will send the file today.",
+  "exampleTamil": "புரிந்தது, நான் இன்றே கோப்பை அனுப்புகிறேன்.",
+  "synonyms": [
+   "understood",
+   "I see"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "count me in",
+  "meaning": "Said when you want to join a plan.",
+  "tamil": "என்னையும் சேர்த்துக்கொள்",
+  "pos": "phrase",
+  "pron": "KOWNT mee IN",
+  "example": "Count me in for the picnic!",
+  "exampleTamil": "சுற்றுலாவுக்கு என்னையும் சேர்த்துக்கொள்!",
+  "synonyms": [
+   "I'm in",
+   "include me"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "my bad",
+  "meaning": "A casual way to say it was your mistake.",
+  "tamil": "என் தவறு",
+  "pos": "phrase",
+  "pron": "my BAD",
+  "example": "Oh, my bad, I took your seat.",
+  "exampleTamil": "ஓ, என் தவறு, நான் உன் இருக்கையை எடுத்துக்கொண்டேன்.",
+  "synonyms": [
+   "my mistake",
+   "sorry"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "these days",
+  "meaning": "In the present time, as compared with the past.",
+  "tamil": "இந்த நாட்களில்",
+  "pos": "phrase",
+  "pron": "theez DAYZ",
+  "example": "Everyone seems to be busy these days.",
+  "exampleTamil": "இந்த நாட்களில் எல்லோரும் பிஸியாக இருப்பதாகத் தெரிகிறது.",
+  "synonyms": [
+   "nowadays",
+   "at present"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "right now",
+  "meaning": "At this very moment, or immediately.",
+  "tamil": "இப்போதே",
+  "pos": "phrase",
+  "pron": "RITE NOW",
+  "example": "Please come to the kitchen right now.",
+  "exampleTamil": "தயவுசெய்து இப்போதே சமையலறைக்கு வா.",
+  "synonyms": [
+   "immediately",
+   "at once"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "free time",
+  "meaning": "Time when you are not working and can do what you like.",
+  "tamil": "ஓய்வு நேரம்",
+  "pos": "phrase",
+  "pron": "FREE time",
+  "example": "I read stories in my free time.",
+  "exampleTamil": "என் ஓய்வு நேரத்தில் நான் கதைகள் படிப்பேன்.",
+  "synonyms": [
+   "spare time",
+   "leisure"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "be careful",
+  "meaning": "Said to warn someone to avoid danger.",
+  "tamil": "கவனமாக இரு",
+  "pos": "phrase",
+  "pron": "bee KAIR-ful",
+  "example": "Be careful, the floor is wet.",
+  "exampleTamil": "கவனமாக இரு, தரை ஈரமாக இருக்கிறது.",
+  "synonyms": [
+   "watch out",
+   "take care"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "watch out",
+  "meaning": "Said to warn someone about danger.",
+  "tamil": "எச்சரிக்கை",
+  "pos": "phrasal verb",
+  "pron": "WOCH OWT",
+  "example": "Watch out for the bike behind you!",
+  "exampleTamil": "உனக்குப் பின்னால் வரும் பைக்கைப் பார்த்துக்கொள்!",
+  "synonyms": [
+   "look out",
+   "beware"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "help yourself",
+  "meaning": "A polite way to tell a guest to take what they want.",
+  "tamil": "நீங்களே எடுத்துக்கொள்ளுங்கள்",
+  "pos": "phrase",
+  "pron": "help yoor-SELF",
+  "example": "There are snacks on the table, so please help yourself.",
+  "exampleTamil": "மேசையில் தின்பண்டங்கள் இருக்கின்றன, நீங்களே எடுத்துக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "take some",
+   "go ahead"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "small talk",
+  "meaning": "Light, friendly conversation about simple things.",
+  "tamil": "சாதாரணப் பேச்சு",
+  "pos": "noun",
+  "pron": "SMAWL tawk",
+  "example": "We made small talk while waiting for the bus.",
+  "exampleTamil": "நாங்கள் பேருந்துக்குக் காத்திருக்கும்போது சாதாரணமாகப் பேசிக்கொண்டிருந்தோம்.",
+  "synonyms": [
+   "chitchat",
+   "chat"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "chitchat",
+  "meaning": "Friendly, casual talk about unimportant things.",
+  "tamil": "வெட்டிப் பேச்சு, அரட்டை",
+  "pos": "noun",
+  "pron": "CHIT-chat",
+  "example": "Stop the chitchat and finish your work.",
+  "exampleTamil": "அரட்டையை நிறுத்திவிட்டு உன் வேலையை முடி.",
+  "synonyms": [
+   "gossip",
+   "chat"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "meantime",
+  "meaning": "The time between two events.",
+  "tamil": "இடைப்பட்ட நேரம்",
+  "pos": "noun",
+  "pron": "MEEN-tyme",
+  "example": "Dinner is not ready; in the meantime, have some tea.",
+  "exampleTamil": "இரவு உணவு தயாராகவில்லை; அதற்குள் தேநீர் குடியுங்கள்.",
+  "synonyms": [
+   "meanwhile",
+   "interval"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "i wonder",
+  "meaning": "Used to say you are curious and want to know something.",
+  "tamil": "எனக்கு ஆச்சரியம் / தெரிந்துகொள்ள ஆசை",
+  "pos": "phrase",
+  "pron": "eye WUN-der",
+  "example": "I wonder what time the bus will come.",
+  "exampleTamil": "பேருந்து எத்தனை மணிக்கு வரும் என்று எனக்குத் தெரியவில்லை.",
+  "synonyms": [
+   "i am curious",
+   "i ask myself"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "outing",
+  "meaning": "A short trip you take for fun, usually with friends or family.",
+  "tamil": "சிறு உல்லாசப் பயணம்",
+  "pos": "noun",
+  "pron": "OW-ting",
+  "example": "Our school arranged an outing to the zoo.",
+  "exampleTamil": "எங்கள் பள்ளி மிருகக்காட்சிசாலைக்கு ஒரு உல்லாசப் பயணம் ஏற்பாடு செய்தது.",
+  "synonyms": [
+   "trip",
+   "excursion"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "meet up",
+  "meaning": "To get together with someone by plan.",
+  "tamil": "சந்திக்க",
+  "pos": "phrasal verb",
+  "pron": "MEET UP",
+  "example": "Let us meet up after class.",
+  "exampleTamil": "வகுப்பு முடிந்ததும் சந்திக்கலாம்.",
+  "synonyms": [
+   "gather",
+   "get together"
+  ],
+  "level": "intermediate"
+ }
+]

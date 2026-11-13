@@ -1,0 +1,352 @@
+[
+ {
+  "word": "playful",
+  "meaning": "Full of fun and likes to play.",
+  "tamil": "விளையாட்டுத்தனமான",
+  "pos": "adjective",
+  "pron": "PLAY-ful",
+  "example": "Our puppy is very playful in the evening.",
+  "exampleTamil": "எங்கள் நாய்க்குட்டி மாலையில் மிகவும் விளையாட்டுத்தனமாக இருக்கும்.",
+  "synonyms": [
+   "lively",
+   "fun"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wise",
+  "meaning": "Having good sense and knowing what is right.",
+  "tamil": "ஞானமுள்ள, அறிவுள்ள",
+  "pos": "adjective",
+  "pron": "WIZE",
+  "example": "My grandfather is a wise man who gives good advice.",
+  "exampleTamil": "என் தாத்தா நல்ல அறிவுரை சொல்லும் ஞானமுள்ளவர்.",
+  "synonyms": [
+   "sensible",
+   "smart"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "foolish",
+  "meaning": "Not showing good sense.",
+  "tamil": "முட்டாள்தனமான",
+  "pos": "adjective",
+  "pron": "FOO-lish",
+  "example": "It was foolish to leave your bag unattended.",
+  "exampleTamil": "உன் பையைக் கவனிக்காமல் விட்டது முட்டாள்தனம்.",
+  "synonyms": [
+   "silly",
+   "unwise"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bold",
+  "meaning": "Not afraid to take risks or say what you think.",
+  "tamil": "துணிச்சலான",
+  "pos": "adjective",
+  "pron": "BOHLD",
+  "example": "She made a bold decision to start her own shop.",
+  "exampleTamil": "அவள் சொந்தக் கடை தொடங்க துணிச்சலான முடிவு எடுத்தாள்.",
+  "synonyms": [
+   "brave",
+   "daring"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "timid",
+  "meaning": "Shy and easily frightened.",
+  "tamil": "கூச்ச சுபாவமுள்ள, பயந்த",
+  "pos": "adjective",
+  "pron": "TIM-id",
+  "example": "The timid boy hid behind his mother.",
+  "exampleTamil": "அந்தப் பயந்த சிறுவன் தன் அம்மாவின் பின்னால் ஒளிந்தான்.",
+  "synonyms": [
+   "shy",
+   "fearful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sensitive",
+  "meaning": "Easily hurt or upset by what people say.",
+  "tamil": "எளிதில் மனம் புண்படும்",
+  "pos": "adjective",
+  "pron": "SEN-suh-tiv",
+  "example": "He is very sensitive and cries over small things.",
+  "exampleTamil": "அவன் மிகவும் எளிதில் மனம் புண்படுபவன்; சிறிய விஷயங்களுக்கும் அழுவான்.",
+  "synonyms": [
+   "touchy",
+   "delicate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "annoy",
+  "meaning": "To make someone slightly angry or impatient.",
+  "tamil": "எரிச்சலூட்டு",
+  "pos": "verb",
+  "pron": "uh-NOY",
+  "example": "Loud music at night really annoys me.",
+  "exampleTamil": "இரவில் உரத்த இசை எனக்கு மிகவும் எரிச்சலூட்டுகிறது.",
+  "synonyms": [
+   "irritate",
+   "bother"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "emotional",
+  "meaning": "Showing strong feelings, often by crying.",
+  "tamil": "உணர்ச்சிவசப்பட்ட",
+  "pos": "adjective",
+  "pron": "ih-MOH-shuh-nul",
+  "example": "She became emotional at her sister's wedding.",
+  "exampleTamil": "தன் சகோதரியின் திருமணத்தில் அவள் உணர்ச்சிவசப்பட்டாள்.",
+  "synonyms": [
+   "touched",
+   "moved"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stressed",
+  "meaning": "Feeling worried and unable to relax.",
+  "tamil": "மன அழுத்தமுள்ள",
+  "pos": "adjective",
+  "pron": "STREST",
+  "example": "I feel stressed before every exam.",
+  "exampleTamil": "ஒவ்வொரு தேர்வுக்கு முன்பும் எனக்கு மன அழுத்தமாக இருக்கும்.",
+  "synonyms": [
+   "tense",
+   "strained"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "carefree",
+  "meaning": "Having no worries or problems.",
+  "tamil": "கவலையற்ற",
+  "pos": "adjective",
+  "pron": "KAIR-free",
+  "example": "We spent a carefree summer at my uncle's village.",
+  "exampleTamil": "நாங்கள் மாமாவின் கிராமத்தில் கவலையற்ற கோடையைக் கழித்தோம்.",
+  "synonyms": [
+   "relaxed",
+   "easygoing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "resent",
+  "meaning": "To feel angry and bitter about something unfair.",
+  "tamil": "மனக்கசப்புக் கொள்",
+  "pos": "verb",
+  "pron": "rih-ZENT",
+  "example": "He resents his boss for giving all the credit to others.",
+  "exampleTamil": "எல்லாப் பாராட்டையும் மற்றவர்களுக்குக் கொடுத்ததால் அவன் மேலதிகாரி மீது மனக்கசப்புக் கொள்கிறான்.",
+  "synonyms": [
+   "begrudge",
+   "dislike"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "anxiety",
+  "meaning": "A worried feeling about something that may happen.",
+  "tamil": "பதற்றம், கவலை",
+  "pos": "noun",
+  "pron": "ang-ZY-uh-tee",
+  "example": "She felt anxiety before her job interview.",
+  "exampleTamil": "வேலை நேர்காணலுக்கு முன் அவளுக்குப் பதற்றம் ஏற்பட்டது.",
+  "synonyms": [
+   "worry",
+   "unease"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "offended",
+  "meaning": "Hurt or upset by something rude someone said.",
+  "tamil": "மனம் புண்பட்ட, அவமதிக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "uh-FEN-did",
+  "example": "He felt offended by her careless joke.",
+  "exampleTamil": "அவளின் கவனக்குறைவான நகைச்சுவையால் அவன் மனம் புண்பட்டது.",
+  "synonyms": [
+   "insulted",
+   "hurt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "arrogant",
+  "meaning": "Too proud and thinking you are better than others.",
+  "tamil": "ஆணவமுள்ள",
+  "pos": "adjective",
+  "pron": "AIR-uh-gunt",
+  "example": "The arrogant manager never listens to anyone.",
+  "exampleTamil": "ஆணவமுள்ள மேலாளர் யார் பேச்சையும் கேட்பதில்லை.",
+  "synonyms": [
+   "conceited",
+   "haughty"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "loneliness",
+  "meaning": "The sad feeling of being alone.",
+  "tamil": "தனிமை உணர்வு",
+  "pos": "noun",
+  "pron": "LOHN-lee-nus",
+  "example": "Many old people suffer from loneliness.",
+  "exampleTamil": "பல முதியவர்கள் தனிமையால் வாடுகிறார்கள்.",
+  "synonyms": [
+   "isolation",
+   "solitude"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "jealousy",
+  "meaning": "Unhappy feeling because someone has what you want.",
+  "tamil": "பொறாமை",
+  "pos": "noun",
+  "pron": "JEL-uh-see",
+  "example": "His jealousy ruined their friendship.",
+  "exampleTamil": "அவனது பொறாமை அவர்களின் நட்பைக் கெடுத்தது.",
+  "synonyms": [
+   "envy",
+   "resentment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "despair",
+  "meaning": "The feeling of having lost all hope.",
+  "tamil": "நம்பிக்கையிழப்பு, விரக்தி",
+  "pos": "noun",
+  "pron": "dih-SPAIR",
+  "example": "He was in despair after losing his job.",
+  "exampleTamil": "வேலையை இழந்த பிறகு அவன் விரக்தியில் இருந்தான்.",
+  "synonyms": [
+   "hopelessness",
+   "misery"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "puzzled",
+  "meaning": "Confused because you cannot understand something.",
+  "tamil": "குழப்பமடைந்த",
+  "pos": "adjective",
+  "pron": "PUZ-uld",
+  "example": "I was puzzled by his strange reply.",
+  "exampleTamil": "அவனின் விசித்திரமான பதிலால் நான் குழப்பமடைந்தேன்.",
+  "synonyms": [
+   "confused",
+   "baffled"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "astonished",
+  "meaning": "Extremely surprised.",
+  "tamil": "ஆச்சரியத்தில் மூழ்கிய",
+  "pos": "adjective",
+  "pron": "uh-STON-isht",
+  "example": "We were astonished by the size of the crowd.",
+  "exampleTamil": "கூட்டத்தின் அளவைக் கண்டு நாங்கள் ஆச்சரியத்தில் மூழ்கினோம்.",
+  "synonyms": [
+   "amazed",
+   "stunned"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "keen",
+  "meaning": "Very interested and eager to do something.",
+  "tamil": "ஆர்வமுள்ள",
+  "pos": "adjective",
+  "pron": "KEEN",
+  "example": "She is keen to learn English quickly.",
+  "exampleTamil": "அவள் ஆங்கிலத்தை விரைவாகக் கற்க ஆர்வமாக இருக்கிறாள்.",
+  "synonyms": [
+   "eager",
+   "enthusiastic"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "affection",
+  "meaning": "A gentle feeling of liking and love for someone.",
+  "tamil": "பாசம், அன்பு",
+  "pos": "noun",
+  "pron": "uh-FEK-shun",
+  "example": "She has great affection for her little cousins.",
+  "exampleTamil": "அவளுக்குத் தன் சிறு உறவினர்கள் மீது மிகுந்த பாசம் உண்டு.",
+  "synonyms": [
+   "fondness",
+   "love"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "longing",
+  "meaning": "A strong wish for something or someone.",
+  "tamil": "ஏக்கம்",
+  "pos": "noun",
+  "pron": "LONG-ing",
+  "example": "He felt a longing for his hometown.",
+  "exampleTamil": "அவனுக்குச் சொந்த ஊரின் மீது ஏக்கம் ஏற்பட்டது.",
+  "synonyms": [
+   "yearning",
+   "desire"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sympathy",
+  "meaning": "The feeling of being sorry for someone in trouble.",
+  "tamil": "அனுதாபம்",
+  "pos": "noun",
+  "pron": "SIM-puh-thee",
+  "example": "We sent our sympathy to the family.",
+  "exampleTamil": "நாங்கள் அந்தக் குடும்பத்திற்கு எங்கள் அனுதாபத்தைத் தெரிவித்தோம்.",
+  "synonyms": [
+   "pity",
+   "compassion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bravery",
+  "meaning": "The quality of being willing to face danger.",
+  "tamil": "வீரம், துணிச்சல்",
+  "pos": "noun",
+  "pron": "BRAY-vuh-ree",
+  "example": "The boy received a medal for his bravery.",
+  "exampleTamil": "அந்தச் சிறுவன் தன் துணிச்சலுக்காகப் பதக்கம் பெற்றான்.",
+  "synonyms": [
+   "courage",
+   "heroism"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cowardly",
+  "meaning": "Too afraid to face danger or difficulty.",
+  "tamil": "கோழைத்தனமான",
+  "pos": "adjective",
+  "pron": "KOW-urd-lee",
+  "example": "Running away from the problem was a cowardly act.",
+  "exampleTamil": "பிரச்சினையிலிருந்து ஓடுவது கோழைத்தனமான செயல்.",
+  "synonyms": [
+   "timid",
+   "fearful"
+  ],
+  "level": "intermediate"
+ }
+]

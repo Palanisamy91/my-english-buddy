@@ -1,0 +1,352 @@
+[
+ {
+  "word": "pot",
+  "meaning": "A deep round vessel for boiling or cooking food.",
+  "tamil": "பாத்திரம்",
+  "pos": "noun",
+  "pron": "POT",
+  "example": "The rice is boiling in the big pot.",
+  "exampleTamil": "சாதம் பெரிய பாத்திரத்தில் கொதித்துக் கொண்டிருக்கிறது.",
+  "synonyms": [
+   "cooking vessel",
+   "saucepan"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cooker",
+  "meaning": "A closed vessel that cooks food fast with steam.",
+  "tamil": "குக்கர்",
+  "pos": "noun",
+  "pron": "KUK-er",
+  "example": "The cooker whistled three times, so switch off the stove.",
+  "exampleTamil": "குக்கர் மூன்று விசில் அடித்தது, அதனால் அடுப்பை அணையுங்கள்.",
+  "synonyms": [
+   "pressure cooker",
+   "steamer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dustpan",
+  "meaning": "A flat scoop that holds the dust you sweep up.",
+  "tamil": "குப்பை அள்ளி",
+  "pos": "noun",
+  "pron": "DUST-pan",
+  "example": "Hold the dustpan while I sweep the floor.",
+  "exampleTamil": "நான் தரையைப் பெருக்கும் வரை குப்பை அள்ளியைப் பிடித்துக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "scoop",
+   "sweeper tray"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bottle",
+  "meaning": "A tall container with a narrow neck for liquids.",
+  "tamil": "பாட்டில்",
+  "pos": "noun",
+  "pron": "BOT-ul",
+  "example": "Please carry a water bottle to the gym.",
+  "exampleTamil": "ஜிம்முக்குத் தண்ணீர் பாட்டில் எடுத்துச் செல்லுங்கள்.",
+  "synonyms": [
+   "container",
+   "flask"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bedsheet",
+  "meaning": "A large cloth that covers the mattress of a bed.",
+  "tamil": "படுக்கை விரிப்பு",
+  "pos": "noun",
+  "pron": "BED-sheet",
+  "example": "Please change the bedsheet every week.",
+  "exampleTamil": "தயவுசெய்து வாரம் ஒருமுறை படுக்கை விரிப்பை மாற்றுங்கள்.",
+  "synonyms": [
+   "bed cover",
+   "linen"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "peeler",
+  "meaning": "A tool for removing the skin of vegetables and fruits.",
+  "tamil": "தோல் சீவும் கருவி",
+  "pos": "noun",
+  "pron": "PEE-ler",
+  "example": "This peeler makes cutting potatoes easy.",
+  "exampleTamil": "இந்தத் தோல் சீவும் கருவி உருளைக்கிழங்கு வெட்டுவதை எளிதாக்குகிறது.",
+  "synonyms": [
+   "skinner",
+   "paring tool"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hairband",
+  "meaning": "A soft ring or strip that holds your hair back.",
+  "tamil": "தலைமுடி பேண்ட்",
+  "pos": "noun",
+  "pron": "HAIR-band",
+  "example": "She tied her hair with a red hairband.",
+  "exampleTamil": "அவள் தன் தலைமுடியைச் சிவப்பு நிற பேண்டால் கட்டினாள்.",
+  "synonyms": [
+   "hair tie",
+   "headband"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bangle",
+  "meaning": "A hard ring that women wear on the wrist.",
+  "tamil": "வளையல்",
+  "pos": "noun",
+  "pron": "BANG-gul",
+  "example": "She bought a set of glass bangles for the festival.",
+  "exampleTamil": "அவள் திருவிழாவுக்காக ஒரு செட் கண்ணாடி வளையல்கள் வாங்கினாள்.",
+  "synonyms": [
+   "bracelet",
+   "wrist ring"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bookmark",
+  "meaning": "A thin piece of paper that marks your page in a book.",
+  "tamil": "புத்தகக் குறி",
+  "pos": "noun",
+  "pron": "BUK-mark",
+  "example": "I use an old ticket as a bookmark.",
+  "exampleTamil": "நான் ஒரு பழைய டிக்கெட்டைப் புத்தகக் குறியாகப் பயன்படுத்துகிறேன்.",
+  "synonyms": [
+   "page marker",
+   "marker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "slippers",
+  "meaning": "Light open shoes you wear at home.",
+  "tamil": "செருப்பு",
+  "pos": "noun",
+  "pron": "SLIP-erz",
+  "example": "Leave your slippers outside the door.",
+  "exampleTamil": "உங்கள் செருப்பை வாசலுக்கு வெளியே விடுங்கள்.",
+  "synonyms": [
+   "sandals",
+   "flip-flops"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "belt",
+  "meaning": "A strip of leather or cloth worn around the waist.",
+  "tamil": "பெல்ட்",
+  "pos": "noun",
+  "pron": "BELT",
+  "example": "My trousers are loose, so I need a belt.",
+  "exampleTamil": "என் கால்சட்டை தளர்வாக இருக்கிறது, அதனால் எனக்கு ஒரு பெல்ட் வேண்டும்.",
+  "synonyms": [
+   "waistband",
+   "strap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spectacles",
+  "meaning": "Glasses with lenses that help you see clearly.",
+  "tamil": "மூக்குக் கண்ணாடி",
+  "pos": "noun",
+  "pron": "SPEK-tuh-kulz",
+  "example": "Grandfather cannot read without his spectacles.",
+  "exampleTamil": "தாத்தாவால் மூக்குக் கண்ணாடி இல்லாமல் படிக்க முடியாது.",
+  "synonyms": [
+   "glasses",
+   "eyeglasses"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sunglasses",
+  "meaning": "Dark glasses that protect your eyes from the sun.",
+  "tamil": "கூலிங் கிளாஸ்",
+  "pos": "noun",
+  "pron": "SUN-glah-siz",
+  "example": "He wore sunglasses because the sun was very bright.",
+  "exampleTamil": "வெயில் மிகவும் பிரகாசமாக இருந்ததால் அவர் கூலிங் கிளாஸ் அணிந்திருந்தார்.",
+  "synonyms": [
+   "shades",
+   "dark glasses"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "handkerchief",
+  "meaning": "A small square cloth for wiping your face or nose.",
+  "tamil": "கைக்குட்டை",
+  "pos": "noun",
+  "pron": "HANG-ker-chif",
+  "example": "Carry a clean handkerchief in your pocket.",
+  "exampleTamil": "உங்கள் பாக்கெட்டில் சுத்தமான கைக்குட்டை வைத்திருங்கள்.",
+  "synonyms": [
+   "hanky",
+   "kerchief"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "needle",
+  "meaning": "A thin sharp pin with a hole for sewing thread.",
+  "tamil": "ஊசி",
+  "pos": "noun",
+  "pron": "NEE-dul",
+  "example": "I need a needle to sew this button.",
+  "exampleTamil": "இந்த பட்டனைத் தைக்க எனக்கு ஒரு ஊசி வேண்டும்.",
+  "synonyms": [
+   "sewing pin",
+   "pin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rope",
+  "meaning": "A thick strong cord made of twisted threads.",
+  "tamil": "கயிறு",
+  "pos": "noun",
+  "pron": "ROHP",
+  "example": "They tied the box with a strong rope.",
+  "exampleTamil": "அவர்கள் பெட்டியை ஒரு வலுவான கயிற்றால் கட்டினார்கள்.",
+  "synonyms": [
+   "cord",
+   "string"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hammer",
+  "meaning": "A heavy tool for hitting nails into wood.",
+  "tamil": "சுத்தியல்",
+  "pos": "noun",
+  "pron": "HAM-er",
+  "example": "Bring a hammer to fix this frame.",
+  "exampleTamil": "இந்தச் சட்டத்தைச் சரிசெய்ய ஒரு சுத்தியல் கொண்டு வா.",
+  "synonyms": [
+   "mallet",
+   "tool"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nail",
+  "meaning": "A thin metal pin that you hit into wood to join things.",
+  "tamil": "ஆணி",
+  "pos": "noun",
+  "pron": "NAYL",
+  "example": "He hung the photo on a nail in the wall.",
+  "exampleTamil": "அவர் புகைப்படத்தைச் சுவரில் இருந்த ஆணியில் தொங்கவிட்டார்.",
+  "synonyms": [
+   "metal pin",
+   "tack"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "screwdriver",
+  "meaning": "A tool with a flat tip for turning screws.",
+  "tamil": "ஸ்க்ரூடிரைவர்",
+  "pos": "noun",
+  "pron": "SKROO-dry-ver",
+  "example": "I used a screwdriver to open the remote.",
+  "exampleTamil": "நான் ரிமோட்டைத் திறக்க ஒரு ஸ்க்ரூடிரைவரைப் பயன்படுத்தினேன்.",
+  "synonyms": [
+   "driver",
+   "tool"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "spanner",
+  "meaning": "A tool for tightening or loosening nuts and bolts.",
+  "tamil": "ஸ்பேனர்",
+  "pos": "noun",
+  "pron": "SPAN-er",
+  "example": "The mechanic tightened the bolt with a spanner.",
+  "exampleTamil": "மெக்கானிக் ஒரு ஸ்பேனரால் போல்ட்டை இறுக்கினார்.",
+  "synonyms": [
+   "wrench",
+   "tool"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tape",
+  "meaning": "A sticky strip used for joining or sealing things.",
+  "tamil": "ஒட்டும் நாடா",
+  "pos": "noun",
+  "pron": "TAYP",
+  "example": "Please seal the parcel with strong tape.",
+  "exampleTamil": "பார்சலை வலுவான ஒட்டும் நாடாவால் ஒட்டுங்கள்.",
+  "synonyms": [
+   "sticky tape",
+   "adhesive"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "glue",
+  "meaning": "A sticky liquid used for joining things together.",
+  "tamil": "பசை",
+  "pos": "noun",
+  "pron": "GLOO",
+  "example": "The glue has dried, so I cannot use it.",
+  "exampleTamil": "பசை காய்ந்துவிட்டது, அதனால் என்னால் அதைப் பயன்படுத்த முடியாது.",
+  "synonyms": [
+   "gum",
+   "paste"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "candle",
+  "meaning": "A stick of wax that gives light when you burn it.",
+  "tamil": "மெழுகுவர்த்தி",
+  "pos": "noun",
+  "pron": "KAN-dul",
+  "example": "We lit a candle during the power cut.",
+  "exampleTamil": "மின்வெட்டின் போது நாங்கள் ஒரு மெழுகுவர்த்தி ஏற்றினோம்.",
+  "synonyms": [
+   "wax light",
+   "taper"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "magnet",
+  "meaning": "A piece of metal that pulls iron things towards it.",
+  "tamil": "காந்தம்",
+  "pos": "noun",
+  "pron": "MAG-nit",
+  "example": "The child picked up the pins with a magnet.",
+  "exampleTamil": "குழந்தை காந்தத்தால் குண்டூசிகளை எடுத்தது.",
+  "synonyms": [
+   "attractor",
+   "lodestone"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stool",
+  "meaning": "A small seat without a back or arms.",
+  "tamil": "முக்காலி",
+  "pos": "noun",
+  "pron": "STOOL",
+  "example": "Sit on this stool and wait here.",
+  "exampleTamil": "இந்த முக்காலியில் உட்கார்ந்து இங்கே காத்திருங்கள்.",
+  "synonyms": [
+   "small seat",
+   "bench"
+  ],
+  "level": "advanced"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "word": "api",
+  "meaning": "A set of rules that lets two programs talk to each other.",
+  "tamil": "நிரல்கள் தொடர்பு கொள்ளும் விதிகள் (ஏபிஐ)",
+  "pos": "noun",
+  "pron": "AY-pee-EYE",
+  "example": "The app gets weather data through an API.",
+  "exampleTamil": "செயலி ஒரு ஏபிஐ வழியாக வானிலைத் தகவலைப் பெறுகிறது.",
+  "synonyms": [
+   "interface",
+   "connector"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "float",
+  "meaning": "A number with a decimal point in programming.",
+  "tamil": "தசம எண்",
+  "pos": "noun",
+  "pron": "FLOHT",
+  "example": "The price is stored as a float, like 9.99.",
+  "exampleTamil": "விலை 9.99 போல ஒரு தசம எண்ணாகச் சேமிக்கப்படுகிறது.",
+  "synonyms": [
+   "decimal",
+   "fraction"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "binary",
+  "meaning": "A system that uses only the digits zero and one.",
+  "tamil": "இரும எண் முறை",
+  "pos": "noun",
+  "pron": "BY-neh-ree",
+  "example": "Computers store all data in binary.",
+  "exampleTamil": "கணினிகள் எல்லாத் தரவையும் இரும முறையில் சேமிக்கின்றன.",
+  "synonyms": [
+   "base two",
+   "machine code"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hexadecimal",
+  "meaning": "A number system with sixteen digits, used for colour codes.",
+  "tamil": "பதினாறு இலக்க எண் முறை",
+  "pos": "noun",
+  "pron": "hek-suh-DESS-ih-mul",
+  "example": "The colour code is written in hexadecimal.",
+  "exampleTamil": "வண்ணக் குறியீடு பதினாறு இலக்க எண் முறையில் எழுதப்பட்டுள்ளது.",
+  "synonyms": [
+   "base sixteen",
+   "hex"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "node",
+  "meaning": "A point where devices or data connect in a network.",
+  "tamil": "வலையமைப்பு இணைப்புப் புள்ளி",
+  "pos": "noun",
+  "pron": "NOHD",
+  "example": "Each computer in the network is a node.",
+  "exampleTamil": "வலையமைப்பிலுள்ள ஒவ்வொரு கணினியும் ஒரு இணைப்புப் புள்ளி.",
+  "synonyms": [
+   "point",
+   "junction"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lan",
+  "meaning": "A network that connects computers in one building.",
+  "tamil": "ஒரு கட்டிடத்திற்குள் உள்ள கணினி வலையமைப்பு",
+  "pos": "noun",
+  "pron": "LAN",
+  "example": "Our office printer is shared over the LAN.",
+  "exampleTamil": "எங்கள் அலுவலக பிரிண்டர் லேன் வழியாகப் பகிரப்படுகிறது.",
+  "synonyms": [
+   "local network",
+   "office network"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "voip",
+  "meaning": "Making phone calls using the internet instead of a phone line.",
+  "tamil": "இணையம் வழி தொலைபேசி அழைப்பு",
+  "pos": "noun",
+  "pron": "VOYP",
+  "example": "We use VoIP for calls with our foreign clients.",
+  "exampleTamil": "வெளிநாட்டு வாடிக்கையாளர்களுடன் பேச நாங்கள் வாய்ப் பயன்படுத்துகிறோம்.",
+  "synonyms": [
+   "internet calling",
+   "net phone"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "imei",
+  "meaning": "A unique number that identifies each mobile phone.",
+  "tamil": "கைப்பேசியின் தனித்துவ அடையாள எண்",
+  "pos": "noun",
+  "pron": "EYE-mee",
+  "example": "Give the police your phone's IMEI number.",
+  "exampleTamil": "உங்கள் போனின் ஐஎம்இஐ எண்ணை காவல்துறையிடம் கொடுங்கள்.",
+  "synonyms": [
+   "phone serial",
+   "device number"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "incognito",
+  "meaning": "A browsing mode that does not save your history.",
+  "tamil": "வரலாற்றைச் சேமிக்காத உலாவல் முறை",
+  "pos": "adjective",
+  "pron": "in-kog-NEE-toh",
+  "example": "I opened an incognito window to book the gift.",
+  "exampleTamil": "நான் பரிசை முன்பதிவு செய்ய ஒரு மறைநிலை சாளரத்தைத் திறந்தேன்.",
+  "synonyms": [
+   "private",
+   "hidden"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tether",
+  "meaning": "To share your phone's internet with another device.",
+  "tamil": "போனின் இணையத்தைப் பகிர்",
+  "pos": "verb",
+  "pron": "TETH-er",
+  "example": "I will tether my laptop to my phone.",
+  "exampleTamil": "நான் என் லேப்டாப்பை போனுடன் இணைத்து இணையம் பயன்படுத்துவேன்.",
+  "synonyms": [
+   "share data",
+   "connect"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dongle",
+  "meaning": "A small device you plug in to add a feature to a computer.",
+  "tamil": "கணினியில் செருகும் சிறிய சாதனம்",
+  "pos": "noun",
+  "pron": "DONG-gul",
+  "example": "I bought a wifi dongle for my old desktop.",
+  "exampleTamil": "நான் என் பழைய கணினிக்கு ஒரு வைஃபை டாங்கிள் வாங்கினேன்.",
+  "synonyms": [
+   "adapter",
+   "plug-in"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ethernet",
+  "meaning": "A cable-based way to connect a computer to a network.",
+  "tamil": "கம்பி வழி வலையமைப்பு இணைப்பு",
+  "pos": "noun",
+  "pron": "EE-ther-net",
+  "example": "An ethernet cable gives a more stable connection.",
+  "exampleTamil": "ஈதர்நெட் கேபிள் மிகவும் நிலையான இணைப்பைத் தருகிறது.",
+  "synonyms": [
+   "wired network",
+   "LAN cable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fiber",
+  "meaning": "A thin glass cable that carries internet at very high speed.",
+  "tamil": "ஒளியிழை",
+  "pos": "noun",
+  "pron": "FY-ber",
+  "example": "We got a fiber connection at home last month.",
+  "exampleTamil": "நாங்கள் கடந்த மாதம் வீட்டில் ஒளியிழை இணைப்பு பெற்றோம்.",
+  "synonyms": [
+   "optic cable",
+   "fibre"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "terabyte",
+  "meaning": "A very large unit of data, about one thousand gigabytes.",
+  "tamil": "மிகப் பெரிய தரவு அலகு (டெராபைட்)",
+  "pos": "noun",
+  "pron": "TER-uh-byte",
+  "example": "This hard disk can hold one terabyte of videos.",
+  "exampleTamil": "இந்த ஹார்டு டிஸ்கில் ஒரு டெராபைட் வீடியோக்கள் சேமிக்கலாம்.",
+  "synonyms": [
+   "TB",
+   "large storage"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "kilobyte",
+  "meaning": "A small unit of data, about one thousand bytes.",
+  "tamil": "ஆயிரம் பைட்கள் கொண்ட அலகு (கிலோபைட்)",
+  "pos": "noun",
+  "pron": "KIL-uh-byte",
+  "example": "The text file is only a few kilobytes in size.",
+  "exampleTamil": "அந்த உரைக் கோப்பு சில கிலோபைட்கள் மட்டுமே.",
+  "synonyms": [
+   "KB",
+   "data unit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "misinformation",
+  "meaning": "False information that spreads, even when not meant to harm.",
+  "tamil": "தவறான தகவல்",
+  "pos": "noun",
+  "pron": "mis-in-fer-MAY-shun",
+  "example": "Misinformation spreads quickly on family group chats.",
+  "exampleTamil": "குடும்ப குழு அரட்டைகளில் தவறான தகவல் விரைவாகப் பரவுகிறது.",
+  "synonyms": [
+   "false news",
+   "wrong facts"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cyberbullying",
+  "meaning": "Using the internet to scare or hurt someone with cruel messages.",
+  "tamil": "இணையத்தில் மிரட்டி துன்புறுத்துதல்",
+  "pos": "noun",
+  "pron": "SY-ber-bul-ee-ing",
+  "example": "Cyberbullying can hurt students badly.",
+  "exampleTamil": "இணைய மிரட்டல் மாணவர்களை மிகவும் காயப்படுத்தும்.",
+  "synonyms": [
+   "online abuse",
+   "harassment"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "doomscrolling",
+  "meaning": "Spending too long reading bad news on your phone.",
+  "tamil": "கெட்ட செய்திகளை நீண்ட நேரம் படித்துக்கொண்டே இருத்தல்",
+  "pos": "noun",
+  "pron": "DOOM-skroh-ling",
+  "example": "Doomscrolling before sleep makes me feel anxious.",
+  "exampleTamil": "தூங்கும் முன் கெட்ட செய்திகளைப் படிப்பது எனக்குப் பதற்றத்தைத் தருகிறது.",
+  "synonyms": [
+   "endless scrolling",
+   "news binge"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "compatibility",
+  "meaning": "The ability of devices or programs to work well together.",
+  "tamil": "பொருந்தும் தன்மை",
+  "pos": "noun",
+  "pron": "kum-pat-uh-BIL-uh-tee",
+  "example": "Check the compatibility before you buy the charger.",
+  "exampleTamil": "சார்ஜரை வாங்கும் முன் அதன் பொருந்தும் தன்மையைச் சரிபாருங்கள்.",
+  "synonyms": [
+   "match",
+   "suitability"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "whitelist",
+  "meaning": "A list of approved senders or sites that are always allowed.",
+  "tamil": "அனுமதிக்கப்பட்டவர் பட்டியல்",
+  "pos": "noun",
+  "pron": "WYT-list",
+  "example": "Add your boss to the whitelist so his mails never go to spam.",
+  "exampleTamil": "உங்கள் மேலாளரின் மின்னஞ்சல்கள் ஸ்பேமுக்குப் போகாமல் இருக்க அவரை அனுமதிப் பட்டியலில் சேருங்கள்.",
+  "synonyms": [
+   "approved list",
+   "safe list"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dns",
+  "meaning": "The system that turns website names into computer addresses.",
+  "tamil": "இணையதளப் பெயரை முகவரியாக மாற்றும் அமைப்பு",
+  "pos": "noun",
+  "pron": "DEE-en-ESS",
+  "example": "A DNS error stopped the website from opening.",
+  "exampleTamil": "டிஎன்எஸ் பிழை இணையதளம் திறக்காமல் தடுத்தது.",
+  "synonyms": [
+   "name system",
+   "address lookup"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "skimming",
+  "meaning": "Secretly copying card details using a hidden device.",
+  "tamil": "அட்டை விவரங்களை ரகசியமாகத் திருடுதல்",
+  "pos": "noun",
+  "pron": "SKIM-ing",
+  "example": "Card skimming is common near some petrol pumps.",
+  "exampleTamil": "சில பெட்ரோல் நிலையங்கள் அருகே அட்டை விவரத் திருட்டு பொதுவாக நடக்கிறது.",
+  "synonyms": [
+   "card theft",
+   "copying"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "geotag",
+  "meaning": "To add a place location to a photo or post.",
+  "tamil": "புகைப்படத்தில் இடத்தைச் சேர்",
+  "pos": "verb",
+  "pron": "JEE-oh-tag",
+  "example": "Do not geotag your home photos for safety.",
+  "exampleTamil": "பாதுகாப்புக்காக உங்கள் வீட்டுப் படங்களில் இடத்தைக் குறிக்காதீர்கள்.",
+  "synonyms": [
+   "tag location",
+   "mark place"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "autocomplete",
+  "meaning": "A feature that finishes the word or text you are typing.",
+  "tamil": "தட்டச்சை தானாக முடிக்கும் வசதி",
+  "pos": "noun",
+  "pron": "aw-toh-kum-PLEET",
+  "example": "Autocomplete wrote my friend's name wrongly.",
+  "exampleTamil": "தானியங்கி நிறைவு என் நண்பரின் பெயரைத் தவறாக எழுதியது.",
+  "synonyms": [
+   "auto-fill",
+   "text prediction"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "beta",
+  "meaning": "A test version of an app that is not fully finished.",
+  "tamil": "முழுமையடையாத சோதனை பதிப்பு",
+  "pos": "noun",
+  "pron": "BAY-tuh",
+  "example": "I am testing the beta version of the new app.",
+  "exampleTamil": "நான் புதிய செயலியின் பீட்டா பதிப்பைச் சோதிக்கிறேன்.",
+  "synonyms": [
+   "test version",
+   "trial"
+  ],
+  "level": "advanced"
+ }
+]

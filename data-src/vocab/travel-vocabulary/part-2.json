@@ -1,0 +1,337 @@
+[
+ {
+  "word": "across",
+  "meaning": "from one side to the other side of something",
+  "tamil": "குறுக்கே / எதிர்ப்புறம்",
+  "pos": "preposition",
+  "pron": "uh-KROSS",
+  "example": "The museum is across the road.",
+  "exampleTamil": "அருங்காட்சியகம் சாலையின் எதிர்ப்புறம் உள்ளது.",
+  "synonyms": [
+   "over"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "north",
+  "meaning": "the direction that is on your left when you face the sunrise",
+  "tamil": "வடக்கு",
+  "pos": "noun",
+  "pron": "NORTH",
+  "example": "We travelled north to see the hills.",
+  "exampleTamil": "நாங்கள் மலைகளைப் பார்க்க வடக்கே பயணித்தோம்.",
+  "synonyms": [
+   "northward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "south",
+  "meaning": "the direction opposite to north",
+  "tamil": "தெற்கு",
+  "pos": "noun",
+  "pron": "SOWTH",
+  "example": "Kerala is in the south of India.",
+  "exampleTamil": "கேரளா இந்தியாவின் தெற்கில் உள்ளது.",
+  "synonyms": [
+   "southward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "east",
+  "meaning": "the direction where the sun rises",
+  "tamil": "கிழக்கு",
+  "pos": "noun",
+  "pron": "EEST",
+  "example": "The beach is to the east of the town.",
+  "exampleTamil": "கடற்கரை நகரத்தின் கிழக்கே உள்ளது.",
+  "synonyms": [
+   "eastward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "west",
+  "meaning": "the direction where the sun sets",
+  "tamil": "மேற்கு",
+  "pos": "noun",
+  "pron": "WEST",
+  "example": "Drive west for ten minutes.",
+  "exampleTamil": "பத்து நிமிடம் மேற்கு நோக்கி ஓட்டுங்கள்.",
+  "synonyms": [
+   "westward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mountain",
+  "meaning": "a very high hill",
+  "tamil": "மலை",
+  "pos": "noun",
+  "pron": "MOWN-tun",
+  "example": "We climbed the mountain early in the morning.",
+  "exampleTamil": "நாங்கள் அதிகாலையில் மலை ஏறினோம்.",
+  "synonyms": [
+   "peak",
+   "hill"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hill",
+  "meaning": "a raised area of land, lower than a mountain",
+  "tamil": "குன்று",
+  "pos": "noun",
+  "pron": "HIL",
+  "example": "The temple is on top of a hill.",
+  "exampleTamil": "கோவில் ஒரு குன்றின் மேல் உள்ளது.",
+  "synonyms": [
+   "mound"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lake",
+  "meaning": "a large area of water with land around it",
+  "tamil": "ஏரி",
+  "pos": "noun",
+  "pron": "LAYK",
+  "example": "We had a boat ride on the lake.",
+  "exampleTamil": "நாங்கள் ஏரியில் படகுச் சவாரி செய்தோம்.",
+  "synonyms": [
+   "pond"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "river",
+  "meaning": "a large stream of water flowing to the sea",
+  "tamil": "ஆறு",
+  "pos": "noun",
+  "pron": "RIV-er",
+  "example": "The bridge crosses a wide river.",
+  "exampleTamil": "அந்தப் பாலம் ஒரு அகன்ற ஆற்றைக் கடக்கிறது.",
+  "synonyms": [
+   "stream"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "forest",
+  "meaning": "a large area full of trees",
+  "tamil": "காடு",
+  "pos": "noun",
+  "pron": "FOR-ist",
+  "example": "We walked through a quiet forest.",
+  "exampleTamil": "நாங்கள் அமைதியான காட்டின் வழியாக நடந்தோம்.",
+  "synonyms": [
+   "woods"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scenery",
+  "meaning": "the natural views of a place, like hills and rivers",
+  "tamil": "இயற்கைக் காட்சி",
+  "pos": "noun",
+  "pron": "SEEN-uh-ree",
+  "example": "The scenery on the way to Ooty is lovely.",
+  "exampleTamil": "ஊட்டிக்குச் செல்லும் வழியில் இயற்கைக் காட்சி அழகாக உள்ளது.",
+  "synonyms": [
+   "landscape",
+   "view"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "view",
+  "meaning": "what you can see from a place",
+  "tamil": "காட்சி",
+  "pos": "noun",
+  "pron": "VYOO",
+  "example": "Our room has a sea view.",
+  "exampleTamil": "எங்கள் அறையிலிருந்து கடல் காட்சி தெரிகிறது.",
+  "synonyms": [
+   "sight",
+   "outlook"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vehicle",
+  "meaning": "a machine like a car or bus that carries people or goods",
+  "tamil": "வாகனம்",
+  "pos": "noun",
+  "pron": "VEE-ik-ul",
+  "example": "Private vehicles are not allowed inside.",
+  "exampleTamil": "தனியார் வாகனங்கள் உள்ளே அனுமதிக்கப்படுவதில்லை.",
+  "synonyms": [
+   "car",
+   "transport"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "camp",
+  "meaning": "to stay in a tent outdoors",
+  "tamil": "முகாமிடு",
+  "pos": "verb",
+  "pron": "KAMP",
+  "example": "We camp near the river every winter.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு குளிர்காலத்திலும் ஆற்றருகே முகாமிடுகிறோம்.",
+  "synonyms": [
+   "tent"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "port",
+  "meaning": "a town or place where ships stop to load and unload",
+  "tamil": "துறைமுகம்",
+  "pos": "noun",
+  "pron": "PORT",
+  "example": "Chennai is a busy port city.",
+  "exampleTamil": "சென்னை ஒரு பரபரப்பான துறைமுக நகரம்.",
+  "synonyms": [
+   "harbour",
+   "dock"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lodging",
+  "meaning": "a place to stay for a short time",
+  "tamil": "தங்குமிடம்",
+  "pos": "noun",
+  "pron": "LOJ-ing",
+  "example": "Cheap lodging is easy to find here.",
+  "exampleTamil": "இங்கே மலிவான தங்குமிடம் எளிதாகக் கிடைக்கும்.",
+  "synonyms": [
+   "stay",
+   "housing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "distance",
+  "meaning": "the space between two places",
+  "tamil": "தூரம்",
+  "pos": "noun",
+  "pron": "DIS-tunss",
+  "example": "What is the distance to the airport?",
+  "exampleTamil": "விமான நிலையத்திற்கு எவ்வளவு தூரம்?",
+  "synonyms": [
+   "gap",
+   "length"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "kilometre",
+  "meaning": "a unit of distance equal to one thousand metres",
+  "tamil": "கிலோமீட்டர்",
+  "pos": "noun",
+  "pron": "KIL-uh-mee-ter",
+  "example": "The hotel is two kilometres from the beach.",
+  "exampleTamil": "ஹோட்டல் கடற்கரையிலிருந்து இரண்டு கிலோமீட்டர் தொலைவில் உள்ளது.",
+  "synonyms": [
+   "km"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "helicopter",
+  "meaning": "an aircraft with spinning blades on top",
+  "tamil": "ஹெலிகாப்டர்",
+  "pos": "noun",
+  "pron": "HEL-ih-kop-ter",
+  "example": "We saw the falls from a helicopter.",
+  "exampleTamil": "நாங்கள் ஹெலிகாப்டரிலிருந்து நீர்வீழ்ச்சியைப் பார்த்தோம்.",
+  "synonyms": [
+   "chopper"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "van",
+  "meaning": "a medium vehicle for carrying people or goods",
+  "tamil": "வேன்",
+  "pos": "noun",
+  "pron": "VAN",
+  "example": "We hired a van for the whole family.",
+  "exampleTamil": "நாங்கள் முழுக் குடும்பத்திற்கும் ஒரு வேன் வாடகைக்கு எடுத்தோம்.",
+  "synonyms": [
+   "minibus"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inn",
+  "meaning": "a small simple hotel, often in the countryside",
+  "tamil": "சத்திரம் / சிறு விடுதி",
+  "pos": "noun",
+  "pron": "IN",
+  "example": "We spent the night at a village inn.",
+  "exampleTamil": "நாங்கள் ஒரு கிராமச் சிறு விடுதியில் இரவு தங்கினோம்.",
+  "synonyms": [
+   "guesthouse",
+   "lodge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cottage",
+  "meaning": "a small house, often in the countryside or hills",
+  "tamil": "சிறு வீடு",
+  "pos": "noun",
+  "pron": "KOT-ij",
+  "example": "We rented a cottage in Kodaikanal.",
+  "exampleTamil": "நாங்கள் கொடைக்கானலில் ஒரு சிறு வீடு வாடகைக்கு எடுத்தோம்.",
+  "synonyms": [
+   "cabin",
+   "hut"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "villa",
+  "meaning": "a large holiday house, often with a garden",
+  "tamil": "விடுமுறை பங்களா",
+  "pos": "noun",
+  "pron": "VIL-uh",
+  "example": "They booked a villa near the beach.",
+  "exampleTamil": "அவர்கள் கடற்கரைக்கு அருகில் ஒரு பங்களா முன்பதிவு செய்தனர்.",
+  "synonyms": [
+   "bungalow"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crowd",
+  "meaning": "a large number of people in one place",
+  "tamil": "கூட்டம்",
+  "pos": "noun",
+  "pron": "KROWD",
+  "example": "There was a big crowd at the temple.",
+  "exampleTamil": "கோவிலில் பெரிய கூட்டம் இருந்தது.",
+  "synonyms": [
+   "mob",
+   "throng"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "engine",
+  "meaning": "the part of a vehicle that makes it move",
+  "tamil": "இயந்திரம்",
+  "pos": "noun",
+  "pron": "EN-jin",
+  "example": "The engine stopped in the middle of the road.",
+  "exampleTamil": "சாலையின் நடுவில் இயந்திரம் நின்றுவிட்டது.",
+  "synonyms": [
+   "motor"
+  ],
+  "level": "intermediate"
+ }
+]

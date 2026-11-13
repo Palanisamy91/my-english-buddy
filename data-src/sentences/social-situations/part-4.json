@@ -1,0 +1,376 @@
+[
+ {
+  "en": "Many thanks for the lovely evening, we really enjoyed it.",
+  "tamil": "அருமையான சாயந்திரத்துக்கு ரொம்ப நன்றி, நாங்க ரொம்ப ரசிச்சோம்.",
+  "context": "Thanking a host while leaving.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "This sentence thanks the host and says you enjoyed the time.",
+  "words": [
+   "evening",
+   "enjoyed"
+  ],
+  "usage": "Say it at the door when you are leaving a dinner or a get-together.",
+  "leelaQ": "What was the last evening you really enjoyed?",
+  "answer": "I enjoyed a family dinner last Sunday."
+ },
+ {
+  "en": "You have a beautiful smile, it lights up the room.",
+  "tamil": "உங்க சிரிப்பு ரொம்ப அழகு, அது அறையையே பிரகாசமாக்கும்.",
+  "context": "Complimenting a friend kindly.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Light up' is used for something that makes a place feel bright and happy.",
+  "words": [
+   "smile",
+   "room"
+  ],
+  "usage": "Use it with a close friend or family member in a warm moment.",
+  "leelaQ": "Who has the nicest smile among your friends?",
+  "answer": "My best friend has the nicest smile."
+ },
+ {
+  "en": "Sorry, I spilled some juice on the carpet. I'll clean it right away.",
+  "tamil": "மன்னிச்சிடுங்க, கார்ப்பெட்ல ஜூஸ் சிந்திடுச்சு. உடனே சுத்தம் பண்றேன்.",
+  "context": "Apologising to a host for an accident.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Say sorry first, then offer to fix the problem.",
+  "words": [
+   "spilled",
+   "carpet"
+  ],
+  "usage": "Say it to the host at a party when something spills or breaks.",
+  "leelaQ": "What accident have you had at someone's house?",
+  "answer": "I once broke a glass at my friend's house."
+ },
+ {
+  "en": "Does anyone here know where the restroom is?",
+  "tamil": "இங்க யாருக்காவது கழிவறை எங்க இருக்குன்னு தெரியுமா?",
+  "context": "Asking guests at a big function.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Restroom' is a polite word for toilet.",
+  "words": [
+   "restroom"
+  ],
+  "usage": "Ask it in a wedding hall or a big party when you cannot find the place.",
+  "leelaQ": "What do you do when you are lost in a new place?",
+  "answer": "I ask a person nearby or use the map on my phone."
+ },
+ {
+  "en": "My sister is getting married in December, and you're all invited.",
+  "tamil": "என் தங்கச்சிக்கு டிசம்பர்ல கல்யாணம், நீங்க எல்லாரும் வரணும்.",
+  "context": "Inviting colleagues to a family wedding.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Getting married' with a future time shows a planned event.",
+  "words": [
+   "married",
+   "invited"
+  ],
+  "usage": "Say it to colleagues or friends when you share a wedding news.",
+  "leelaQ": "Who is getting married in your family soon?",
+  "answer": "My cousin is getting married next year."
+ },
+ {
+  "en": "I'd love to come, but I have to check with my wife first.",
+  "tamil": "நான் வர ஆசைப்படறேன், ஆனா முதல்ல என் மனைவிகிட்ட கேக்கணும்.",
+  "context": "Giving a soft answer to an invitation.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I'd love to, but...' accepts warmly and keeps a small condition.",
+  "words": [
+   "love",
+   "check"
+  ],
+  "usage": "Use it when you want to attend but you need to confirm your plan.",
+  "leelaQ": "Do you ask your family before accepting invites?",
+  "answer": "Yes, I always check with my family first."
+ },
+ {
+  "en": "Please don't mention it, it was my pleasure.",
+  "tamil": "அதை சொல்லாதீங்க, அது எனக்கு சந்தோஷம்தான்.",
+  "context": "Replying to someone's thanks.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'My pleasure' is a warm and polite reply to thanks.",
+  "words": [
+   "mention",
+   "pleasure"
+  ],
+  "usage": "Say it when someone thanks you for a small or big help.",
+  "leelaQ": "How do you reply when someone says thank you?",
+  "answer": "I say you're welcome or my pleasure."
+ },
+ {
+  "en": "Can I have your attention for a moment, please?",
+  "tamil": "ஒரு நிமிஷம் எல்லாரும் கவனிக்க முடியுமா, தயவு செஞ்சு?",
+  "context": "Starting a toast or announcement at a party.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can I have your attention' is a polite way to make a group quiet.",
+  "words": [
+   "attention",
+   "moment"
+  ],
+  "usage": "Use it before an announcement at a gathering or family function.",
+  "leelaQ": "Have you ever made an announcement in a group?",
+  "answer": "Yes, I did it once at my college farewell."
+ },
+ {
+  "en": "Let's raise a toast to the happy couple.",
+  "tamil": "மகிழ்ச்சியான தம்பதிகளுக்காக ஒரு வாழ்த்து சொல்லலாம்.",
+  "context": "Giving a toast at a reception.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Raise a toast' means to lift a glass and give good wishes.",
+  "words": [
+   "toast",
+   "couple"
+  ],
+  "usage": "Say it at a wedding reception or an anniversary party.",
+  "leelaQ": "What wishes would you give to a newly married couple?",
+  "answer": "I would wish them love, health and happiness."
+ },
+ {
+  "en": "You've been so kind to us since we moved here.",
+  "tamil": "நாங்க இங்க வந்ததுல இருந்து நீங்க எங்ககிட்ட ரொம்ப அன்பா இருக்கீங்க.",
+  "context": "Thanking a neighbour who helped the new family.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Since' + a past event shows the start of a time up to now.",
+  "words": [
+   "kind",
+   "moved"
+  ],
+  "usage": "Say it to a neighbour who has been helping you for a while.",
+  "leelaQ": "What is the kindest thing a neighbour did for you?",
+  "answer": "A neighbour gave us food when we moved in."
+ },
+ {
+  "en": "I'm sorry for the misunderstanding, I should have explained it better.",
+  "tamil": "தப்பா புரிஞ்சதுக்கு மன்னிக்கணும், நான் இன்னும் நல்லா விளக்கியிருக்கணும்.",
+  "context": "Apologising to a friend after a confusion.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should have explained' admits that you could have done better.",
+  "words": [
+   "misunderstanding",
+   "explained"
+  ],
+  "usage": "Use it with friends or colleagues to clear a confusion calmly.",
+  "leelaQ": "Have you ever had a misunderstanding with a friend?",
+  "answer": "Yes, but we talked and solved it quickly."
+ },
+ {
+  "en": "Please stay for dinner. It is no trouble at all.",
+  "tamil": "தயவு செஞ்சு டின்னர் சாப்பிட்டுட்டு போங்க. எந்த சிரமமும் இல்லை.",
+  "context": "Inviting a visiting friend to eat.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please stay' is a warm invitation. 'No trouble' tells the guest they are welcome.",
+  "words": [
+   "stay",
+   "trouble"
+  ],
+  "usage": "Use it when a friend visits near meal time.",
+  "leelaQ": "What do you cook when a friend visits suddenly?",
+  "answer": "I make dosa or rice with some curry."
+ },
+ {
+  "en": "Sorry, I can't hear you, the music is too loud.",
+  "tamil": "மன்னிக்கணும், எனக்கு கேக்கலை, பாட்டு ரொம்ப சத்தமா இருக்கு.",
+  "context": "Talking in a noisy party.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Too loud' means more loud than you can bear.",
+  "words": [
+   "hear",
+   "loud"
+  ],
+  "usage": "Say it at a party or a wedding with loud music.",
+  "leelaQ": "Do you like loud music at parties?",
+  "answer": "No, I prefer soft music so we can talk."
+ },
+ {
+  "en": "We should do this more often, it was a great get-together.",
+  "tamil": "இதை அடிக்கடி செய்யணும், இது நல்ல கெட்-டுகெதர்.",
+  "context": "Saying goodbye after a friends' meet.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'We should' is used to give a gentle suggestion to a group.",
+  "words": [
+   "often",
+   "great"
+  ],
+  "usage": "Say it at the end of a friends' meet or family gathering.",
+  "leelaQ": "How often do you meet your old friends?",
+  "answer": "We meet once in three months."
+ },
+ {
+  "en": "My neighbour's daughter won a gold medal in the state meet.",
+  "tamil": "என் பக்கத்து வீட்டு பொண்ணு மாநில போட்டியில தங்க பதக்கம் வாங்கினா.",
+  "context": "Sharing good news about a neighbour.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Won' is the past form of 'win'.",
+  "words": [
+   "medal",
+   "state"
+  ],
+  "usage": "Say it at home or with friends when you share happy local news.",
+  "leelaQ": "Do you know anyone who won a prize recently?",
+  "answer": "Yes, my friend won a prize in a quiz."
+ },
+ {
+  "en": "Aunty, please have a seat. I'll get you some water.",
+  "tamil": "ஆன்டி, உட்காருங்க. நான் உங்களுக்கு தண்ணி கொண்டு வரேன்.",
+  "context": "Welcoming an elderly visitor politely.",
+  "tense": "future",
+  "type": "request",
+  "explain": "'Have a seat' is a polite way to say 'please sit'.",
+  "words": [
+   "seat",
+   "water"
+  ],
+  "usage": "Use it with elders who visit your home or office.",
+  "leelaQ": "How do you show respect to elders?",
+  "answer": "I greet them, offer a seat and speak politely."
+ },
+ {
+  "en": "Thank you for remembering my birthday, that was so sweet of you.",
+  "tamil": "என் பிறந்தநாளை நினைவு வெச்சதுக்கு நன்றி, ரொம்ப அன்பான செயல்.",
+  "context": "Thanking a friend for a birthday wish.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'So sweet of you' means very kind and thoughtful.",
+  "words": [
+   "remembering",
+   "sweet"
+  ],
+  "usage": "Say it to anyone who sends a wish or a message on your special day.",
+  "leelaQ": "Who wished you first on your last birthday?",
+  "answer": "My mother wished me first at midnight."
+ },
+ {
+  "en": "If you need anything, just call me.",
+  "tamil": "உங்களுக்கு ஏதாவது வேணும்னா, எனக்கு போன் பண்ணுங்க.",
+  "context": "Offering support to a neighbour or friend.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "This is a first-conditional style offer: if + present, then an instruction.",
+  "words": [
+   "need",
+   "call"
+  ],
+  "usage": "Say it to a friend or neighbour who is in a difficult time.",
+  "leelaQ": "When did you last help a friend in need?",
+  "answer": "I helped my friend find a house last month."
+ },
+ {
+  "en": "Is this your first time in Madurai?",
+  "tamil": "நீங்க மதுரைக்கு வர்றது இதுதான் முதல் தடவையா?",
+  "context": "Talking to a tourist at a temple.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is this your first time in...?' is a common way to chat with visitors.",
+  "words": [
+   "first",
+   "time"
+  ],
+  "usage": "Ask it to a visitor or tourist to start a friendly chat.",
+  "leelaQ": "Which new city did you visit the last time?",
+  "answer": "I visited Pondicherry last year."
+ },
+ {
+  "en": "I've never been to a destination wedding before.",
+  "tamil": "நான் இதுவரைக்கும் டெஸ்டினேஷன் வெடிங்குக்கு போனதே இல்லை.",
+  "context": "Chatting about an upcoming wedding.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Never...before' with 'have' talks about life experience.",
+  "words": [
+   "never",
+   "destination"
+  ],
+  "usage": "Say it when you speak about a new or first-time experience.",
+  "leelaQ": "What is a new thing you want to try soon?",
+  "answer": "I want to try scuba diving soon."
+ },
+ {
+  "en": "Congratulations, you must be so proud of your daughter.",
+  "tamil": "வாழ்த்துகள், உங்க பொண்ணை நினைச்சு நீங்க ரொம்ப பெருமைப்படுவீங்க.",
+  "context": "Greeting a parent after a child's success.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Must be' is used when you are sure about someone's feeling.",
+  "words": [
+   "proud",
+   "daughter"
+  ],
+  "usage": "Say it to parents when their child gets a prize or a job.",
+  "leelaQ": "What makes your parents feel proud of you?",
+  "answer": "They feel proud when I do well in my job."
+ },
+ {
+  "en": "I'll see you at the temple festival next week.",
+  "tamil": "அடுத்த வாரம் கோயில் திருவிழாவுல பாக்கலாம்.",
+  "context": "Saying goodbye to a friend.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll see you at' is a common way to say goodbye when you plan to meet.",
+  "words": [
+   "temple",
+   "festival"
+  ],
+  "usage": "Use it when you say bye to someone you will meet soon.",
+  "leelaQ": "Which festival do you enjoy the most?",
+  "answer": "I enjoy Pongal the most because of the food."
+ },
+ {
+  "en": "It's a pleasure to meet you, sir. Thank you for your time.",
+  "tamil": "உங்களை சந்திச்சது எனக்கு மகிழ்ச்சி சார். உங்க நேரத்துக்கு நன்றி.",
+  "context": "Meeting an important person politely.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'It's a pleasure to meet you' is more formal than 'nice to meet you'.",
+  "words": [
+   "pleasure",
+   "time"
+  ],
+  "usage": "Use it with senior people, elders or officials you meet for the first time.",
+  "leelaQ": "How do you greet a person older than you?",
+  "answer": "I greet them with a smile and say good morning."
+ },
+ {
+  "en": "Please say hello to your family from all of us.",
+  "tamil": "எங்க எல்லார் சார்பாகவும் உங்க குடும்பத்துக்கு ஹலோ சொல்லுங்க.",
+  "context": "Ending a phone call with a friend.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "This is a friendly line to send greetings through someone.",
+  "words": [
+   "hello",
+   "family"
+  ],
+  "usage": "Use it at the end of a call or visit to greet someone's family.",
+  "leelaQ": "Who do you talk to on the phone every day?",
+  "answer": "I talk to my mother every evening."
+ },
+ {
+  "en": "Please do not mind, I cannot come to the party this time.",
+  "tamil": "தப்பா எடுத்துக்காதீங்க, இந்த தடவை பார்ட்டிக்கு என்னால வர முடியாது.",
+  "context": "Politely declining an invitation.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Do not mind' softens a refusal. 'Cannot' tells you are unable to do it.",
+  "words": [
+   "mind",
+   "party"
+  ],
+  "usage": "Use it with a friend when you must refuse an invitation politely.",
+  "leelaQ": "How do you refuse an invitation politely?",
+  "answer": "I say thank you and give a short reason."
+ }
+]

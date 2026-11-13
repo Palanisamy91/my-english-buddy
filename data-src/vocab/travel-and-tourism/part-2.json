@@ -1,0 +1,345 @@
+[
+ {
+  "word": "swim",
+  "meaning": "to move through water using your arms and legs",
+  "tamil": "நீந்துதல்",
+  "pos": "verb",
+  "pron": "SWIM",
+  "example": "The kids love to swim in the hotel pool.",
+  "exampleTamil": "குழந்தைகள் ஹோட்டல் நீச்சல் குளத்தில் நீந்த விரும்புகிறார்கள்.",
+  "synonyms": [
+   "bathe",
+   "paddle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sunbathe",
+  "meaning": "to lie in the sun to get a darker skin colour",
+  "tamil": "வெயிலில் படுத்து சூரியக் குளியல் எடுத்தல்",
+  "pos": "verb",
+  "pron": "SUN-bayth",
+  "example": "Many tourists sunbathe on the beach in the afternoon.",
+  "exampleTamil": "பல சுற்றுலாப் பயணிகள் மதியம் கடற்கரையில் வெயிலில் படுத்திருப்பார்கள்.",
+  "synonyms": [
+   "tan",
+   "bask"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pier",
+  "meaning": "a long platform that goes out from the land into the sea",
+  "tamil": "கடலுக்குள் நீளும் துறைமேடை",
+  "pos": "noun",
+  "pron": "PEER",
+  "example": "We walked along the pier and watched the fishing boats.",
+  "exampleTamil": "நாங்கள் துறைமேடையில் நடந்து மீன்பிடிப் படகுகளைப் பார்த்தோம்.",
+  "synonyms": [
+   "jetty",
+   "wharf"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sunhat",
+  "meaning": "a hat with a wide edge that protects you from the sun",
+  "tamil": "வெயிலிலிருந்து காக்கும் அகன்ற தொப்பி",
+  "pos": "noun",
+  "pron": "SUN-hat",
+  "example": "Do not forget your sunhat and sunglasses for the beach.",
+  "exampleTamil": "கடற்கரைக்கு வெயில் தொப்பியையும் கண்ணாடியையும் மறக்காதீர்கள்.",
+  "synonyms": [
+   "hat",
+   "cap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "attendant",
+  "meaning": "a person whose job is to help people in a public place",
+  "tamil": "உதவிப் பணியாளர்",
+  "pos": "noun",
+  "pron": "uh-TEN-dunt",
+  "example": "The flight attendant brought us water and a snack.",
+  "exampleTamil": "விமானப் பணிப்பெண் எங்களுக்கு தண்ணீரும் சிற்றுண்டியும் கொண்டு வந்தார்.",
+  "synonyms": [
+   "steward",
+   "helper"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tour bus",
+  "meaning": "a bus that takes visitors to see famous places",
+  "tamil": "சுற்றுலாப் பேருந்து",
+  "pos": "noun",
+  "pron": "TOOR BUS",
+  "example": "The tour bus leaves the hotel at nine every morning.",
+  "exampleTamil": "சுற்றுலாப் பேருந்து தினமும் காலை ஒன்பது மணிக்கு ஹோட்டலிலிருந்து புறப்படும்.",
+  "synonyms": [
+   "coach",
+   "sightseeing bus"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tourist spot",
+  "meaning": "a place that many visitors come to see",
+  "tamil": "சுற்றுலாத் தலம்",
+  "pos": "noun",
+  "pron": "TOOR-ist SPOT",
+  "example": "Ooty is a famous tourist spot in South India.",
+  "exampleTamil": "ஊட்டி தென்னிந்தியாவின் புகழ்பெற்ற சுற்றுலாத் தலம்.",
+  "synonyms": [
+   "attraction",
+   "destination"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "day trip",
+  "meaning": "a short journey where you return home the same day",
+  "tamil": "ஒரே நாளில் திரும்பும் பயணம்",
+  "pos": "noun",
+  "pron": "DAY TRIP",
+  "example": "We took a day trip to Mahabalipuram from Chennai.",
+  "exampleTamil": "நாங்கள் சென்னையிலிருந்து மகாபலிபுரத்திற்கு ஒரு நாள் பயணம் சென்றோம்.",
+  "synonyms": [
+   "outing",
+   "excursion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "boarding gate",
+  "meaning": "the door at an airport where you get on your plane",
+  "tamil": "விமானம் ஏறும் வாயில்",
+  "pos": "noun",
+  "pron": "BOR-ding GAYT",
+  "example": "Please go to boarding gate twelve now.",
+  "exampleTamil": "தயவுசெய்து இப்போது பன்னிரண்டாம் எண் ஏறும் வாயிலுக்குச் செல்லுங்கள்.",
+  "synonyms": [
+   "gate",
+   "departure gate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "direct flight",
+  "meaning": "a flight that goes to your place without changing planes",
+  "tamil": "இடையில் மாறாமல் செல்லும் நேரடி விமானம்",
+  "pos": "noun",
+  "pron": "duh-REKT FLITE",
+  "example": "There is a direct flight from Chennai to Singapore.",
+  "exampleTamil": "சென்னையிலிருந்து சிங்கப்பூருக்கு நேரடி விமானம் உள்ளது.",
+  "synonyms": [
+   "nonstop flight"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "baggage claim",
+  "meaning": "the area in an airport where you collect your bags",
+  "tamil": "பயணப்பெட்டிகளைப் பெறும் இடம்",
+  "pos": "noun",
+  "pron": "BAG-ij KLAYM",
+  "example": "We waited at the baggage claim for almost an hour.",
+  "exampleTamil": "நாங்கள் பெட்டிகளைப் பெறும் இடத்தில் கிட்டத்தட்ட ஒரு மணி நேரம் காத்திருந்தோம்.",
+  "synonyms": [
+   "luggage pickup"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "carousel",
+  "meaning": "the moving belt that brings bags to you at an airport",
+  "tamil": "பெட்டிகள் சுற்றி வரும் பெல்ட்",
+  "pos": "noun",
+  "pron": "KA-ruh-SEL",
+  "example": "Our bags came out on carousel number three.",
+  "exampleTamil": "எங்கள் பெட்டிகள் மூன்றாம் எண் பெல்ட்டில் வந்தன.",
+  "synonyms": [
+   "conveyor",
+   "belt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tarmac",
+  "meaning": "the hard surface of an airport where planes stand and move",
+  "tamil": "விமான நிலையத்தின் விமானம் நிற்கும் தரை",
+  "pos": "noun",
+  "pron": "TAR-mak",
+  "example": "The plane waited on the tarmac for twenty minutes.",
+  "exampleTamil": "விமானம் இருபது நிமிடங்கள் ஓடுதளத்தில் காத்திருந்தது.",
+  "synonyms": [
+   "apron",
+   "runway area"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "turnstile",
+  "meaning": "a gate with bars that turns to let one person pass at a time",
+  "tamil": "ஒருவராக மட்டும் செல்ல விடும் சுழலும் வாயில்",
+  "pos": "noun",
+  "pron": "TERN-stile",
+  "example": "Scan your card at the turnstile to enter the metro.",
+  "exampleTamil": "மெட்ரோவுக்குள் நுழைய சுழல் வாயிலில் உங்கள் அட்டையை ஸ்கேன் செய்யுங்கள்.",
+  "synonyms": [
+   "barrier",
+   "entry gate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "passport control",
+  "meaning": "the place where officers check your passport at a border",
+  "tamil": "கடவுச்சீட்டு சோதனை இடம்",
+  "pos": "noun",
+  "pron": "PAS-port kun-TROHL",
+  "example": "The queue at passport control was very long.",
+  "exampleTamil": "கடவுச்சீட்டு சோதனை இடத்தில் வரிசை மிகவும் நீளமாக இருந்தது.",
+  "synonyms": [
+   "border check",
+   "immigration desk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "visa on arrival",
+  "meaning": "a visa you get at the airport when you reach a country",
+  "tamil": "நாட்டை அடைந்ததும் விமான நிலையத்தில் பெறும் விசா",
+  "pos": "noun",
+  "pron": "VEE-zuh on uh-RY-vul",
+  "example": "Thailand offers visa on arrival for many Indian travellers.",
+  "exampleTamil": "பல இந்தியப் பயணிகளுக்கு தாய்லாந்து வந்தவுடன் விசா வழங்குகிறது.",
+  "synonyms": [
+   "airport visa"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "red-eye",
+  "meaning": "a night flight that lands early in the morning",
+  "tamil": "இரவில் புறப்பட்டு அதிகாலையில் இறங்கும் விமானம்",
+  "pos": "noun",
+  "pron": "RED-eye",
+  "example": "I took a red-eye to Delhi and felt tired all day.",
+  "exampleTamil": "நான் இரவு விமானத்தில் டெல்லிக்குச் சென்றதால் நாள் முழுவதும் சோர்வாக இருந்தேன்.",
+  "synonyms": [
+   "night flight",
+   "overnight flight"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "budget airline",
+  "meaning": "an airline that sells cheap tickets with fewer free services",
+  "tamil": "குறைந்த கட்டண விமான நிறுவனம்",
+  "pos": "noun",
+  "pron": "BUJ-it AIR-line",
+  "example": "A budget airline charges extra money for food and bags.",
+  "exampleTamil": "குறைந்த கட்டண விமான நிறுவனம் உணவுக்கும் பெட்டிகளுக்கும் கூடுதல் பணம் வசூலிக்கும்.",
+  "synonyms": [
+   "low-cost carrier"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "package tour",
+  "meaning": "a holiday where travel and hotel are sold together at one price",
+  "tamil": "பயணம், தங்குமிடம் அனைத்தும் அடங்கிய சுற்றுலாத் தொகுப்பு",
+  "pos": "noun",
+  "pron": "PAK-ij TOOR",
+  "example": "We booked a package tour to Dubai for five days.",
+  "exampleTamil": "நாங்கள் ஐந்து நாட்களுக்கு துபாய்க்கு ஒரு தொகுப்புச் சுற்றுலா முன்பதிவு செய்தோம்.",
+  "synonyms": [
+   "holiday package",
+   "tour package"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "guided tour",
+  "meaning": "a visit to a place led by a person who explains things",
+  "tamil": "வழிகாட்டியுடன் செல்லும் சுற்றுலா",
+  "pos": "noun",
+  "pron": "GY-did TOOR",
+  "example": "The guided tour of the fort lasts about two hours.",
+  "exampleTamil": "கோட்டையின் வழிகாட்டிச் சுற்றுலா சுமார் இரண்டு மணி நேரம் நடக்கும்.",
+  "synonyms": [
+   "escorted tour"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "walking tour",
+  "meaning": "a tour of a place done on foot",
+  "tamil": "நடந்து சென்று பார்க்கும் சுற்றுலா",
+  "pos": "noun",
+  "pron": "WAW-king TOOR",
+  "example": "We joined a walking tour of the old city.",
+  "exampleTamil": "நாங்கள் பழைய நகரத்தின் நடைச் சுற்றுலாவில் சேர்ந்தோம்.",
+  "synonyms": [
+   "city walk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "high season",
+  "meaning": "the busiest time of year for tourists, when prices are high",
+  "tamil": "சுற்றுலாப் பயணிகள் அதிகம் வரும் பரபரப்பான காலம்",
+  "pos": "noun",
+  "pron": "HY SEE-zun",
+  "example": "Hotels are expensive in the high season, so book early.",
+  "exampleTamil": "உச்சப் பருவத்தில் ஹோட்டல்கள் விலை அதிகம், எனவே முன்கூட்டியே முன்பதிவு செய்யுங்கள்.",
+  "synonyms": [
+   "peak time",
+   "busy season"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "travel agent",
+  "meaning": "a person whose job is to plan and book trips for others",
+  "tamil": "பயண முகவர்",
+  "pos": "noun",
+  "pron": "TRAV-ul AY-junt",
+  "example": "Our travel agent found us a cheap hotel in Goa.",
+  "exampleTamil": "எங்கள் பயண முகவர் கோவாவில் ஒரு மலிவான ஹோட்டலைக் கண்டுபிடித்தார்.",
+  "synonyms": [
+   "tour planner",
+   "booking agent"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "travel agency",
+  "meaning": "a company that plans and sells trips to customers",
+  "tamil": "பயண நிறுவனம்",
+  "pos": "noun",
+  "pron": "TRAV-ul AY-jun-see",
+  "example": "The travel agency arranged our flights and hotel rooms.",
+  "exampleTamil": "பயண நிறுவனம் எங்கள் விமானங்களையும் ஹோட்டல் அறைகளையும் ஏற்பாடு செய்தது.",
+  "synonyms": [
+   "tour company"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cable car",
+  "meaning": "a small cabin that hangs from a thick wire and carries people up a hill",
+  "tamil": "கம்பியில் தொங்கி மலைமேல் செல்லும் கேபிள் கார்",
+  "pos": "noun",
+  "pron": "KAY-bul KAR",
+  "example": "We took the cable car to the top of the hill.",
+  "exampleTamil": "நாங்கள் கேபிள் காரில் மலை உச்சிக்குச் சென்றோம்.",
+  "synonyms": [
+   "ropeway",
+   "gondola"
+  ],
+  "level": "intermediate"
+ }
+]

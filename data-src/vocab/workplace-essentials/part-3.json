@@ -1,0 +1,343 @@
+[
+ {
+  "word": "comp-off",
+  "meaning": "A day off given in return for working on a holiday.",
+  "tamil": "விடுமுறை நாளில் வேலை செய்ததற்கு ஈடான விடுப்பு",
+  "pos": "noun",
+  "pron": "KOMP-of",
+  "example": "I worked on Sunday, so I took a comp-off on Monday.",
+  "exampleTamil": "நான் ஞாயிற்றுக்கிழமை வேலை செய்ததால் திங்களன்று ஈடு விடுப்பு எடுத்தேன்.",
+  "synonyms": [
+   "day in lieu"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "carry forward",
+  "meaning": "To move unused leave or work to the next period.",
+  "tamil": "அடுத்த காலத்திற்கு மாற்றி எடுத்துச் செல்ல",
+  "pos": "phrasal verb",
+  "pron": "KAR-ee FOR-wurd",
+  "example": "You can carry forward five unused leave days to next year.",
+  "exampleTamil": "பயன்படுத்தாத ஐந்து விடுப்பு நாட்களை அடுத்த ஆண்டுக்கு எடுத்துச் செல்லலாம்.",
+  "synonyms": [
+   "transfer",
+   "roll over"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "encash",
+  "meaning": "To change something into money.",
+  "tamil": "பணமாக மாற்ற",
+  "pos": "verb",
+  "pron": "in-KASH",
+  "example": "I will encash my unused leave at the end of the year.",
+  "exampleTamil": "ஆண்டு இறுதியில் பயன்படுத்தாத விடுப்பை நான் பணமாக மாற்றிக் கொள்வேன்.",
+  "synonyms": [
+   "cash in",
+   "redeem"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "petty cash",
+  "meaning": "A small amount of money kept in the office for small costs.",
+  "tamil": "அலுவலகச் சிறு செலவுப் பணம்",
+  "pos": "noun",
+  "pron": "PET-ee KASH",
+  "example": "We bought the tea powder from the petty cash.",
+  "exampleTamil": "சிறு செலவுப் பணத்திலிருந்து தேயிலைத் தூள் வாங்கினோம்.",
+  "synonyms": [
+   "small cash"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "backdated",
+  "meaning": "Marked with an earlier date than the real date.",
+  "tamil": "முந்தைய தேதியிட்ட",
+  "pos": "adjective",
+  "pron": "BAK-day-tid",
+  "example": "The manager signed a backdated letter by mistake.",
+  "exampleTamil": "மேலாளர் தவறுதலாக முந்தைய தேதியிட்ட கடிதத்தில் கையெழுத்திட்டார்.",
+  "synonyms": [
+   "predated"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fiscal",
+  "meaning": "Related to money and the financial year of a company.",
+  "tamil": "நிதி சார்ந்த (நிதியாண்டு தொடர்பான)",
+  "pos": "adjective",
+  "pron": "FIS-kul",
+  "example": "The fiscal year in India ends on 31 March.",
+  "exampleTamil": "இந்தியாவில் நிதியாண்டு மார்ச் 31 அன்று முடிகிறது.",
+  "synonyms": [
+   "financial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "biweekly",
+  "meaning": "Happening once every two weeks.",
+  "tamil": "இரு வாரங்களுக்கு ஒருமுறை நடக்கும்",
+  "pos": "adjective",
+  "pron": "by-WEEK-lee",
+  "example": "We have a biweekly meeting on alternate Mondays.",
+  "exampleTamil": "நாங்கள் மாற்று திங்கட்கிழமைகளில் இரு வாரக் கூட்டம் நடத்துகிறோம்.",
+  "synonyms": [
+   "fortnightly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shift change",
+  "meaning": "The time when one group of workers replaces another.",
+  "tamil": "பணி மாற்ற நேரம்",
+  "pos": "noun",
+  "pron": "SHIFT chaynj",
+  "example": "Traffic is heavy near the factory during the shift change.",
+  "exampleTamil": "பணி மாற்ற நேரத்தில் தொழிற்சாலைக்கு அருகில் போக்குவரத்து நெரிசலாக இருக்கும்.",
+  "synonyms": [
+   "changeover"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lead time",
+  "meaning": "The time between placing an order and receiving it.",
+  "tamil": "ஆர்டர் செய்ததிலிருந்து பெறும் வரையான காலம்",
+  "pos": "noun",
+  "pron": "LEED tym",
+  "example": "The lead time for this order is about ten days.",
+  "exampleTamil": "இந்த ஆர்டருக்கான காத்திருப்பு காலம் சுமார் பத்து நாட்கள்.",
+  "synonyms": [
+   "delivery time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cross-check",
+  "meaning": "To check something again using another source.",
+  "tamil": "மற்றொரு வழியில் சரிபார்க்க",
+  "pos": "verb",
+  "pron": "KROS-chek",
+  "example": "Please cross-check the figures with the bank statement.",
+  "exampleTamil": "தயவுசெய்து இந்த எண்களை வங்கி அறிக்கையுடன் சரிபார்க்கவும்.",
+  "synonyms": [
+   "verify",
+   "double-check"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pencil in",
+  "meaning": "To note down a time that may change later.",
+  "tamil": "தற்காலிகமாகக் குறித்து வைக்க",
+  "pos": "phrasal verb",
+  "pron": "PEN-sul IN",
+  "example": "Let me pencil in the meeting for Thursday at four.",
+  "exampleTamil": "வியாழன் நான்கு மணிக்கான கூட்டத்தைத் தற்காலிகமாகக் குறித்து வைக்கிறேன்.",
+  "synonyms": [
+   "book tentatively"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "follow through",
+  "meaning": "To finish what you have started or promised.",
+  "tamil": "தொடங்கியதை முடிக்க",
+  "pos": "phrasal verb",
+  "pron": "FOL-oh THROO",
+  "example": "A good employee will always follow through on promises.",
+  "exampleTamil": "ஒரு நல்ல ஊழியர் எப்போதும் கொடுத்த வாக்குறுதிகளை நிறைவேற்றுவார்.",
+  "synonyms": [
+   "complete",
+   "see through"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "water cooler",
+  "meaning": "A place in the office where workers stop and chat.",
+  "tamil": "அலுவலகத்தில் ஊழியர்கள் பேசிக்கொள்ளும் தண்ணீர்க் குளிர்விப்பான் இடம்",
+  "pos": "noun",
+  "pron": "WAW-tur KOO-lur",
+  "example": "We heard the news at the water cooler.",
+  "exampleTamil": "அந்தச் செய்தியை நாங்கள் தண்ணீர்க் குளிர்விப்பான் அருகே கேட்டோம்.",
+  "synonyms": [
+   "chat spot"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "carryover",
+  "meaning": "Something left over that moves to the next period.",
+  "tamil": "அடுத்த காலத்திற்கு மாறும் மீதம்",
+  "pos": "noun",
+  "pron": "KAR-ee-oh-vur",
+  "example": "There is a carryover of three leave days from last year.",
+  "exampleTamil": "கடந்த ஆண்டிலிருந்து மூன்று விடுப்பு நாட்கள் மீதமாக வந்துள்ளன.",
+  "synonyms": [
+   "leftover",
+   "balance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "provident fund",
+  "meaning": "Savings kept from your salary for retirement.",
+  "tamil": "வருங்கால வைப்பு நிதி",
+  "pos": "noun",
+  "pron": "PROV-ih-dunt FUND",
+  "example": "Ten percent of my salary goes to the provident fund.",
+  "exampleTamil": "என் சம்பளத்தில் பத்து சதவீதம் வருங்கால வைப்பு நிதிக்குச் செல்கிறது.",
+  "synonyms": [
+   "PF",
+   "retirement fund"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unproductive",
+  "meaning": "Not getting much useful work done.",
+  "tamil": "பலன் தராத (வேலை நடக்காத)",
+  "pos": "adjective",
+  "pron": "un-pruh-DUK-tiv",
+  "example": "The long meeting was completely unproductive.",
+  "exampleTamil": "அந்த நீண்ட கூட்டம் முற்றிலும் பலனற்றதாக இருந்தது.",
+  "synonyms": [
+   "useless",
+   "wasteful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inclusive",
+  "meaning": "Welcoming and treating all kinds of people fairly.",
+  "tamil": "அனைவரையும் உள்ளடக்கிய",
+  "pos": "adjective",
+  "pron": "in-KLOO-siv",
+  "example": "We want an inclusive workplace for everyone.",
+  "exampleTamil": "அனைவருக்கும் ஏற்ற உள்ளடக்கிய பணியிடத்தை நாங்கள் விரும்புகிறோம்.",
+  "synonyms": [
+   "welcoming",
+   "open"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "disclose",
+  "meaning": "To tell something that was kept secret.",
+  "tamil": "வெளிப்படுத்த",
+  "pos": "verb",
+  "pron": "dis-KLOHZ",
+  "example": "You must disclose any gift worth more than one thousand rupees.",
+  "exampleTamil": "ஆயிரம் ரூபாய்க்கு மேல் மதிப்புள்ள எந்தப் பரிசையும் நீங்கள் தெரிவிக்க வேண்டும்.",
+  "synonyms": [
+   "reveal",
+   "tell"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "standardize",
+  "meaning": "To make things follow the same rules or format.",
+  "tamil": "ஒரே தரத்திற்குக் கொண்டுவர",
+  "pos": "verb",
+  "pron": "STAN-dur-dyz",
+  "example": "We need to standardize the format of all our reports.",
+  "exampleTamil": "எங்கள் எல்லா அறிக்கைகளின் வடிவத்தையும் ஒரே மாதிரியாக்க வேண்டும்.",
+  "synonyms": [
+   "unify",
+   "regulate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rectify",
+  "meaning": "To correct a mistake or fix a problem.",
+  "tamil": "சரிசெய்ய",
+  "pos": "verb",
+  "pron": "REK-tuh-fy",
+  "example": "We will rectify the error in your bill today.",
+  "exampleTamil": "உங்கள் பில்லில் உள்ள தவறை இன்றே சரிசெய்வோம்.",
+  "synonyms": [
+   "correct",
+   "fix"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lapse",
+  "meaning": "A small mistake caused by not paying attention.",
+  "tamil": "கவனக்குறைவான சிறு தவறு",
+  "pos": "noun",
+  "pron": "LAPS",
+  "example": "A lapse in checking caused the wrong delivery.",
+  "exampleTamil": "சரிபார்ப்பதில் ஏற்பட்ட கவனக்குறைவால் தவறான டெலிவரி நடந்தது.",
+  "synonyms": [
+   "slip",
+   "error"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "oversight",
+  "meaning": "A mistake made by forgetting or not noticing something.",
+  "tamil": "கவனிக்கத் தவறிய பிழை",
+  "pos": "noun",
+  "pron": "OH-vur-syt",
+  "example": "Leaving your name out was an oversight, and I am sorry.",
+  "exampleTamil": "உங்கள் பெயரை விட்டுவிட்டது கவனக்குறைவு, மன்னிக்கவும்.",
+  "synonyms": [
+   "slip",
+   "mistake"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "micromanage",
+  "meaning": "To control every small detail of your team's work.",
+  "tamil": "ஒவ்வொரு சிறு விஷயத்தையும் கண்காணித்துக் கட்டுப்படுத்த",
+  "pos": "verb",
+  "pron": "MY-kroh-MAN-ij",
+  "example": "A good manager should not micromanage the team.",
+  "exampleTamil": "ஒரு நல்ல மேலாளர் குழுவின் ஒவ்வொரு சிறு வேலையையும் கட்டுப்படுத்தக் கூடாது.",
+  "synonyms": [
+   "control",
+   "oversee"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wordy",
+  "meaning": "Using more words than needed.",
+  "tamil": "தேவையற்ற சொற்கள் நிறைந்த",
+  "pos": "adjective",
+  "pron": "WUR-dee",
+  "example": "Your email is too wordy, so please shorten it.",
+  "exampleTamil": "உங்கள் மின்னஞ்சல் மிகவும் நீளமாக உள்ளது, தயவுசெய்து சுருக்குங்கள்.",
+  "synonyms": [
+   "lengthy",
+   "long-winded"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ramble",
+  "meaning": "To talk for a long time without a clear point.",
+  "tamil": "தெளிவில்லாமல் நீண்ட நேரம் பேச",
+  "pos": "verb",
+  "pron": "RAM-bul",
+  "example": "Please do not ramble in the meeting; keep it short.",
+  "exampleTamil": "கூட்டத்தில் தயவுசெய்து வளவளவென்று பேசாமல் சுருக்கமாகப் பேசுங்கள்.",
+  "synonyms": [
+   "babble",
+   "digress"
+  ],
+  "level": "intermediate"
+ }
+]

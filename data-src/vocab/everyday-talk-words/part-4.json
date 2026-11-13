@@ -1,0 +1,347 @@
+[
+ {
+  "word": "get together",
+  "meaning": "To meet and spend time with other people.",
+  "tamil": "ஒன்று கூடு",
+  "pos": "phrasal verb",
+  "pron": "get tuh-GETH-er",
+  "example": "Our family will get together for Pongal.",
+  "exampleTamil": "எங்கள் குடும்பம் பொங்கலுக்கு ஒன்று கூடும்.",
+  "synonyms": [
+   "meet up",
+   "gather"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pop in",
+  "meaning": "To visit someone for a very short time.",
+  "tamil": "சும்மா எட்டிப் பார்க்க",
+  "pos": "phrasal verb",
+  "pron": "POP IN",
+  "example": "I will pop in to see you on my way.",
+  "exampleTamil": "போகும் வழியில் உன்னைச் சற்று பார்த்துவிட்டுப் போகிறேன்.",
+  "synonyms": [
+   "drop by",
+   "visit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "see you",
+  "meaning": "A friendly way of saying goodbye for now.",
+  "tamil": "பிறகு சந்திக்கலாம்",
+  "pos": "phrase",
+  "pron": "SEE yoo",
+  "example": "See you on Monday at school.",
+  "exampleTamil": "திங்கட்கிழமை பள்ளியில் சந்திக்கலாம்.",
+  "synonyms": [
+   "bye",
+   "so long"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "excuse me",
+  "meaning": "Words used to get attention or to say politely sorry.",
+  "tamil": "மன்னிக்கவும், கொஞ்சம் வழி விடுங்கள்",
+  "pos": "phrase",
+  "pron": "ik-SKYOOZ mee",
+  "example": "Excuse me, where is the bus stop?",
+  "exampleTamil": "மன்னிக்கவும், பேருந்து நிறுத்தம் எங்கே?",
+  "synonyms": [
+   "pardon me",
+   "sorry"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nice one",
+  "meaning": "A casual way of praising someone.",
+  "tamil": "நல்ல வேலை",
+  "pos": "phrase",
+  "pron": "NYS WUN",
+  "example": "Nice one, that was a great catch!",
+  "exampleTamil": "நல்ல வேலை, அது அருமையான கேட்ச்!",
+  "synonyms": [
+   "well done",
+   "good job"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "precisely",
+  "meaning": "Exactly; used to agree strongly.",
+  "tamil": "துல்லியமாக",
+  "pos": "adverb",
+  "pron": "prih-SYSE-lee",
+  "example": "That is precisely what I wanted to say.",
+  "exampleTamil": "நான் சொல்ல நினைத்தது துல்லியமாக அதுவே.",
+  "synonyms": [
+   "exactly",
+   "just so"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "banter",
+  "meaning": "Friendly, playful talk between people.",
+  "tamil": "நகைச்சுவையான கேலிப் பேச்சு",
+  "pos": "noun",
+  "pron": "BAN-ter",
+  "example": "I enjoy the banter with my colleagues.",
+  "exampleTamil": "என் சக ஊழியர்களுடன் கேலியாகப் பேசுவது எனக்குப் பிடிக்கும்.",
+  "synonyms": [
+   "teasing",
+   "joking"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "chatter",
+  "meaning": "Fast, continuous, friendly talk about small things.",
+  "tamil": "வளவளவென்ற பேச்சு",
+  "pos": "noun",
+  "pron": "CHAT-er",
+  "example": "I could hear the chatter of children outside.",
+  "exampleTamil": "வெளியே குழந்தைகளின் வளவளப்பு எனக்குக் கேட்டது.",
+  "synonyms": [
+   "chat",
+   "babble"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "instant",
+  "meaning": "A very short moment of time.",
+  "tamil": "ஒரு கணம்",
+  "pos": "noun",
+  "pron": "IN-stunt",
+  "example": "It was over in an instant.",
+  "exampleTamil": "அது ஒரு கணத்தில் முடிந்துவிட்டது.",
+  "synonyms": [
+   "moment",
+   "second"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "twilight",
+  "meaning": "The soft light after sunset before it gets dark.",
+  "tamil": "அந்தி வேளை",
+  "pos": "noun",
+  "pron": "TWY-lite",
+  "example": "We sat outside in the twilight.",
+  "exampleTamil": "நாங்கள் அந்தி வேளையில் வெளியே உட்கார்ந்திருந்தோம்.",
+  "synonyms": [
+   "dusk",
+   "nightfall"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dusk",
+  "meaning": "The darker part of the evening just before night.",
+  "tamil": "அந்தி மாலை",
+  "pos": "noun",
+  "pron": "DUSK",
+  "example": "Birds return to their nests at dusk.",
+  "exampleTamil": "பறவைகள் அந்தி மாலையில் கூடுகளுக்குத் திரும்பும்.",
+  "synonyms": [
+   "twilight",
+   "sunset"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "politely",
+  "meaning": "In a way that shows good manners.",
+  "tamil": "பணிவாக, மரியாதையாக",
+  "pos": "adverb",
+  "pron": "puh-LITE-lee",
+  "example": "She politely asked him to wait.",
+  "exampleTamil": "அவள் அவரை மரியாதையாகக் காத்திருக்கச் சொன்னாள்.",
+  "synonyms": [
+   "courteously",
+   "kindly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pardon me",
+  "meaning": "A polite way to say sorry or ask someone to repeat.",
+  "tamil": "மன்னிக்கவும்",
+  "pos": "phrase",
+  "pron": "PAR-dun MEE",
+  "example": "Pardon me, I did not catch your name.",
+  "exampleTamil": "மன்னிக்கவும், உங்கள் பெயர் எனக்குப் புரியவில்லை.",
+  "synonyms": [
+   "excuse me",
+   "sorry"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bless you",
+  "meaning": "Said politely to someone who has just sneezed.",
+  "tamil": "நூறாண்டு வாழ்க",
+  "pos": "phrase",
+  "pron": "BLES yoo",
+  "example": "Bless you! Do you have a cold?",
+  "exampleTamil": "நூறாண்டு வாழ்க! உனக்குச் சளியா?",
+  "synonyms": [
+   "God bless"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "look forward",
+  "meaning": "To wait happily for something that will happen.",
+  "tamil": "ஆவலுடன் எதிர்பார்",
+  "pos": "phrasal verb",
+  "pron": "LUK FOR-werd",
+  "example": "I look forward to meeting you.",
+  "exampleTamil": "உங்களைச் சந்திக்க ஆவலுடன் இருக்கிறேன்.",
+  "synonyms": [
+   "anticipate",
+   "await"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "how are you",
+  "meaning": "A common question to ask about someone's health or mood.",
+  "tamil": "எப்படி இருக்கிறீர்கள்",
+  "pos": "phrase",
+  "pron": "how AR yoo",
+  "example": "Hello Ravi, how are you?",
+  "exampleTamil": "வணக்கம் ரவி, எப்படி இருக்கிறாய்?",
+  "synonyms": [
+   "how do you do"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "what's up",
+  "meaning": "A casual question meaning how are you or what is happening.",
+  "tamil": "என்ன விஷயம்",
+  "pos": "phrase",
+  "pron": "WUTS UP",
+  "example": "Hey Anu, what's up?",
+  "exampleTamil": "ஹே அனு, என்ன விஷயம்?",
+  "synonyms": [
+   "how's it going"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thank you",
+  "meaning": "Words you say to show you are grateful.",
+  "tamil": "நன்றி",
+  "pos": "phrase",
+  "pron": "THANK yoo",
+  "example": "Thank you for your help.",
+  "exampleTamil": "உங்கள் உதவிக்கு நன்றி.",
+  "synonyms": [
+   "thanks",
+   "cheers"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "you're welcome",
+  "meaning": "A polite answer when someone thanks you.",
+  "tamil": "பரவாயில்லை, வரவேற்கிறேன்",
+  "pos": "phrase",
+  "pron": "yoor WEL-kum",
+  "example": "You're welcome, I was happy to help.",
+  "exampleTamil": "பரவாயில்லை, உதவ எனக்கு மகிழ்ச்சி.",
+  "synonyms": [
+   "no problem",
+   "my pleasure"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "after you",
+  "meaning": "A polite way to let someone go first.",
+  "tamil": "நீங்கள் முதலில் செல்லுங்கள்",
+  "pos": "phrase",
+  "pron": "AF-ter YOO",
+  "example": "After you, please go in first.",
+  "exampleTamil": "நீங்கள் முதலில் செல்லுங்கள், தயவுசெய்து உள்ளே போங்கள்.",
+  "synonyms": [
+   "go ahead"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "that's fine",
+  "meaning": "Said to tell someone that something is not a problem.",
+  "tamil": "பரவாயில்லை",
+  "pos": "phrase",
+  "pron": "THATS FINE",
+  "example": "That's fine, you can pay me later.",
+  "exampleTamil": "பரவாயில்லை, நீ பிறகு பணம் தரலாம்.",
+  "synonyms": [
+   "no problem",
+   "it's okay"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "one moment",
+  "meaning": "Words you say to ask someone to wait a short time.",
+  "tamil": "ஒரு நிமிடம்",
+  "pos": "phrase",
+  "pron": "WUN MOH-ment",
+  "example": "One moment, please, I will check.",
+  "exampleTamil": "ஒரு நிமிடம், நான் சரிபார்க்கிறேன்.",
+  "synonyms": [
+   "just a second",
+   "hold on"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "good morning",
+  "meaning": "A greeting you say in the early part of the day.",
+  "tamil": "காலை வணக்கம்",
+  "pos": "phrase",
+  "pron": "good MOR-ning",
+  "example": "Good morning, sir, did you sleep well?",
+  "exampleTamil": "காலை வணக்கம் ஐயா, நன்றாகத் தூங்கினீர்களா?",
+  "synonyms": [
+   "morning"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "good night",
+  "meaning": "Words you say before going to bed or at night.",
+  "tamil": "இனிய இரவு வணக்கம்",
+  "pos": "phrase",
+  "pron": "good NITE",
+  "example": "Good night, sleep well.",
+  "exampleTamil": "இனிய இரவு, நன்றாகத் தூங்கு.",
+  "synonyms": [
+   "sleep well",
+   "nighty-night"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "just a minute",
+  "meaning": "Words asking someone to wait for a short time.",
+  "tamil": "ஒரு நிமிடம் இருங்கள்",
+  "pos": "phrase",
+  "pron": "JUST uh MIN-it",
+  "example": "Just a minute, I am on the phone.",
+  "exampleTamil": "ஒரு நிமிடம், நான் போனில் பேசிக்கொண்டிருக்கிறேன்.",
+  "synonyms": [
+   "hold on",
+   "wait"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "word": "all set",
+  "meaning": "completely ready",
+  "tamil": "முழுவதும் தயாராக",
+  "pos": "phrase",
+  "pron": "AWL SET",
+  "example": "We are all set for the trip tomorrow.",
+  "exampleTamil": "நாளைய பயணத்திற்கு நாங்கள் முழுவதும் தயார்.",
+  "synonyms": [
+   "ready",
+   "prepared"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "all ears",
+  "meaning": "listening carefully with full interest",
+  "tamil": "முழு கவனத்துடன் கேட்பது",
+  "pos": "phrase",
+  "pron": "AWL EERZ",
+  "example": "Tell me what happened, I am all ears.",
+  "exampleTamil": "என்ன நடந்தது என்று சொல்லுங்கள், நான் கேட்கத் தயாராக இருக்கிறேன்.",
+  "synonyms": [
+   "listening",
+   "attentive"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hit the sack",
+  "meaning": "to go to bed",
+  "tamil": "தூங்கப் போவது",
+  "pos": "phrase",
+  "pron": "HIT thuh SAK",
+  "example": "I am tired, so I will hit the sack early.",
+  "exampleTamil": "நான் களைப்பாக இருக்கிறேன், அதனால் சீக்கிரம் தூங்கப் போவேன்.",
+  "synonyms": [
+   "go to bed",
+   "turn in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "run late",
+  "meaning": "to be behind time",
+  "tamil": "தாமதமாக இருப்பது",
+  "pos": "phrase",
+  "pron": "RUN LAYT",
+  "example": "Sorry, I am running late because of the traffic.",
+  "exampleTamil": "மன்னிக்கவும், போக்குவரத்து காரணமாக நான் தாமதமாகிறேன்.",
+  "synonyms": [
+   "be late",
+   "be delayed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "step by step",
+  "meaning": "slowly, one stage at a time",
+  "tamil": "படிப்படியாக",
+  "pos": "phrase",
+  "pron": "STEP by STEP",
+  "example": "Please explain the process step by step.",
+  "exampleTamil": "செயல்முறையை படிப்படியாக விளக்குங்கள்.",
+  "synonyms": [
+   "gradually",
+   "bit by bit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "now and then",
+  "meaning": "sometimes, not often",
+  "tamil": "அவ்வப்போது",
+  "pos": "phrase",
+  "pron": "NOW and THEN",
+  "example": "We visit my uncle now and then.",
+  "exampleTamil": "நாங்கள் அவ்வப்போது என் மாமாவைப் பார்க்கச் செல்வோம்.",
+  "synonyms": [
+   "sometimes",
+   "occasionally"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dead tired",
+  "meaning": "extremely tired",
+  "tamil": "மிகவும் களைப்பாக",
+  "pos": "phrase",
+  "pron": "DED TY-erd",
+  "example": "I was dead tired after the long journey.",
+  "exampleTamil": "நீண்ட பயணத்திற்குப் பிறகு நான் மிகவும் களைத்துப் போனேன்.",
+  "synonyms": [
+   "exhausted",
+   "worn out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "on the ball",
+  "meaning": "alert and quick to understand things",
+  "tamil": "விழிப்புடன் இருப்பது, திறமையாகச் செயல்படுவது",
+  "pos": "phrase",
+  "pron": "on thuh BAWL",
+  "example": "Our new assistant is really on the ball.",
+  "exampleTamil": "எங்கள் புதிய உதவியாளர் மிகவும் விழிப்புடன் செயல்படுகிறார்.",
+  "synonyms": [
+   "alert",
+   "sharp"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "in the loop",
+  "meaning": "informed about what is happening",
+  "tamil": "நடப்பவை பற்றி தகவல் அறிந்திருப்பது",
+  "pos": "phrase",
+  "pron": "in thuh LOOP",
+  "example": "Please keep me in the loop about the project.",
+  "exampleTamil": "திட்டம் பற்றிய தகவல்களை எனக்குத் தெரிவித்துக்கொண்டே இருங்கள்.",
+  "synonyms": [
+   "informed",
+   "updated"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pull strings",
+  "meaning": "to use your connections to get something",
+  "tamil": "செல்வாக்கைப் பயன்படுத்தி காரியம் சாதிப்பது",
+  "pos": "phrase",
+  "pron": "PUL STRINGZ",
+  "example": "He pulled strings to get his son a seat.",
+  "exampleTamil": "அவர் தன் செல்வாக்கைப் பயன்படுத்தி மகனுக்கு இடம் வாங்கினார்.",
+  "synonyms": [
+   "use influence",
+   "get favours"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bend the rules",
+  "meaning": "to allow something that is not usually allowed",
+  "tamil": "விதிகளைத் தளர்த்துவது",
+  "pos": "phrase",
+  "pron": "BEND thuh ROOLZ",
+  "example": "The teacher agreed to bend the rules for him.",
+  "exampleTamil": "ஆசிரியர் அவனுக்காக விதிகளைத் தளர்த்த ஒப்புக்கொண்டார்.",
+  "synonyms": [
+   "relax rules",
+   "make exceptions"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "play it safe",
+  "meaning": "to avoid risk",
+  "tamil": "ஆபத்தைத் தவிர்த்து கவனமாக நடப்பது",
+  "pos": "phrase",
+  "pron": "PLAY it SAYF",
+  "example": "I took an umbrella just to play it safe.",
+  "exampleTamil": "பாதுகாப்புக்காக நான் ஒரு குடை எடுத்துச் சென்றேன்.",
+  "synonyms": [
+   "be careful",
+   "avoid risk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "save face",
+  "meaning": "to protect your good name or pride",
+  "tamil": "மானத்தைக் காத்துக்கொள்வது",
+  "pos": "phrase",
+  "pron": "SAYV FAYS",
+  "example": "He lied to save face in front of his friends.",
+  "exampleTamil": "நண்பர்கள் முன் மானத்தைக் காக்க அவன் பொய் சொன்னான்.",
+  "synonyms": [
+   "protect pride",
+   "avoid shame"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "take for granted",
+  "meaning": "to not value someone or something enough",
+  "tamil": "மதிக்காமல் சாதாரணமாக எடுத்துக்கொள்வது",
+  "pos": "phrase",
+  "pron": "TAYK fer GRAN-tid",
+  "example": "Don't take your parents for granted.",
+  "exampleTamil": "உன் பெற்றோரை சாதாரணமாக எடுத்துக்கொள்ளாதே.",
+  "synonyms": [
+   "undervalue",
+   "overlook"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "talk shop",
+  "meaning": "to talk about work in a social place",
+  "tamil": "சமூக இடத்தில் வேலை பற்றியே பேசுவது",
+  "pos": "phrase",
+  "pron": "TAWK SHOP",
+  "example": "Let us not talk shop during lunch.",
+  "exampleTamil": "மதிய உணவின் போது வேலை பற்றிப் பேச வேண்டாம்.",
+  "synonyms": [
+   "discuss work",
+   "chat business"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tie the knot",
+  "meaning": "to get married",
+  "tamil": "திருமணம் செய்துகொள்வது",
+  "pos": "phrase",
+  "pron": "TY thuh NOT",
+  "example": "My cousin will tie the knot in December.",
+  "exampleTamil": "என் உறவினர் டிசம்பரில் திருமணம் செய்துகொள்கிறார்.",
+  "synonyms": [
+   "get married",
+   "wed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wrap it up",
+  "meaning": "to finish something",
+  "tamil": "முடித்துக்கொள்வது",
+  "pos": "phrase",
+  "pron": "RAP it UP",
+  "example": "It is late, so let us wrap it up.",
+  "exampleTamil": "நேரம் ஆகிவிட்டது, இதை முடித்துக்கொள்வோம்.",
+  "synonyms": [
+   "finish",
+   "conclude"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "on cloud nine",
+  "meaning": "extremely happy",
+  "tamil": "மிகுந்த மகிழ்ச்சியில் மிதப்பது",
+  "pos": "phrase",
+  "pron": "on KLOWD NYN",
+  "example": "She was on cloud nine after her promotion.",
+  "exampleTamil": "பதவி உயர்வுக்குப் பிறகு அவள் மகிழ்ச்சியில் மிதந்தாள்.",
+  "synonyms": [
+   "overjoyed",
+   "elated"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "on edge",
+  "meaning": "nervous and unable to relax",
+  "tamil": "பதற்றமாக இருப்பது",
+  "pos": "phrase",
+  "pron": "on EJ",
+  "example": "I am on edge before the result comes.",
+  "exampleTamil": "முடிவு வருவதற்கு முன் நான் பதற்றமாக இருக்கிறேன்.",
+  "synonyms": [
+   "nervous",
+   "tense"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "on the fence",
+  "meaning": "not able to decide between two choices",
+  "tamil": "இரண்டில் எதை எடுப்பது என்று முடிவு செய்யாமல் இருப்பது",
+  "pos": "phrase",
+  "pron": "on thuh FENS",
+  "example": "I am still on the fence about the new job.",
+  "exampleTamil": "புதிய வேலை பற்றி நான் இன்னும் முடிவு எடுக்கவில்லை.",
+  "synonyms": [
+   "undecided",
+   "unsure"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "off the record",
+  "meaning": "said privately, not to be shared",
+  "tamil": "வெளியில் சொல்லக்கூடாத தனிப்பட்ட பேச்சு",
+  "pos": "phrase",
+  "pron": "OF thuh REK-erd",
+  "example": "Off the record, I think the boss is leaving.",
+  "exampleTamil": "வெளியில் சொல்லாதே, முதலாளி விலகப் போகிறார் என்று நினைக்கிறேன்.",
+  "synonyms": [
+   "unofficial",
+   "confidential"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "at stake",
+  "meaning": "in danger of being lost, risked",
+  "tamil": "இழக்கும் அபாயத்தில் இருப்பது",
+  "pos": "phrase",
+  "pron": "at STAYK",
+  "example": "Our jobs are at stake if we fail.",
+  "exampleTamil": "நாம் தோற்றால் நம் வேலைகள் ஆபத்தில் உள்ளன.",
+  "synonyms": [
+   "at risk",
+   "in danger"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "at ease",
+  "meaning": "relaxed and comfortable",
+  "tamil": "நிம்மதியாக, இயல்பாக",
+  "pos": "phrase",
+  "pron": "at EEZ",
+  "example": "She made the new students feel at ease.",
+  "exampleTamil": "அவள் புதிய மாணவர்களை இயல்பாக உணரச் செய்தாள்.",
+  "synonyms": [
+   "relaxed",
+   "comfortable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "in a nutshell",
+  "meaning": "in a few words, briefly",
+  "tamil": "சுருக்கமாகச் சொன்னால்",
+  "pos": "phrase",
+  "pron": "in uh NUT-shel",
+  "example": "In a nutshell, we need more time.",
+  "exampleTamil": "சுருக்கமாகச் சொன்னால், எங்களுக்கு இன்னும் நேரம் வேண்டும்.",
+  "synonyms": [
+   "briefly",
+   "in short"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "under pressure",
+  "meaning": "feeling stress because of demands",
+  "tamil": "அழுத்தத்தில் இருப்பது",
+  "pos": "phrase",
+  "pron": "UN-der PRESH-er",
+  "example": "He works well even under pressure.",
+  "exampleTamil": "அவன் அழுத்தத்திலும் நன்றாக வேலை செய்கிறான்.",
+  "synonyms": [
+   "stressed",
+   "strained"
+  ],
+  "level": "intermediate"
+ }
+]

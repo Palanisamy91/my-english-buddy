@@ -1,0 +1,352 @@
+[
+ {
+  "en": "Can I bring my friend along?",
+  "tamil": "என் நண்பனையும் கூட்டிட்டு வரலாமா?",
+  "context": "Asking the host for permission.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Bring along' means to bring with you.",
+  "words": [
+   "along"
+  ],
+  "usage": "Use it to ask an invitation host before bringing another guest.",
+  "leelaQ": "Who would you bring to a party?",
+  "answer": "I would bring my close friend."
+ },
+ {
+  "en": "When are you planning to book the tickets?",
+  "tamil": "டிக்கெட் எப்ப புக் பண்ணலாம்னு இருக்கீங்க?",
+  "context": "Asking a friend about a trip.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'When are you planning to' asks about timing of an intended action.",
+  "words": [
+   "tickets"
+  ],
+  "usage": "Use it when you are travelling together and the booking is pending.",
+  "leelaQ": "When do you book tickets for a festival trip?",
+  "answer": "I book them two months before."
+ },
+ {
+  "en": "What time does the programme start?",
+  "tamil": "நிகழ்ச்சி எத்தனை மணிக்கு ஆரம்பிக்கும்?",
+  "context": "Asking about an event timing.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Present simple is used for scheduled events.",
+  "words": [
+   "programme"
+  ],
+  "usage": "Use it to confirm the time before leaving for a programme.",
+  "leelaQ": "What time do your functions usually start?",
+  "answer": "They usually start in the morning."
+ },
+ {
+  "en": "Shall we postpone the picnic to next Sunday?",
+  "tamil": "சுற்றுலாவை அடுத்த ஞாயிற்றுக்கிழமைக்குத் தள்ளி வைக்கலாமா?",
+  "context": "Suggesting a delay to a group.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Shall we' is a polite suggestion for a group.",
+  "words": [
+   "postpone"
+  ],
+  "usage": "Use it when the weather or other reasons spoil a group plan.",
+  "leelaQ": "When do you postpone a plan?",
+  "answer": "I postpone it when it rains heavily."
+ },
+ {
+  "en": "Please send me the invitation card on WhatsApp.",
+  "tamil": "அழைப்பிதழை WhatsApp-ல அனுப்புங்க, please.",
+  "context": "Asking a relative for the invitation.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' makes a request polite. 'Send me' is an imperative.",
+  "words": [
+   "invitation"
+  ],
+  "usage": "Use it to ask for event details by message.",
+  "leelaQ": "How do people send invitations these days?",
+  "answer": "They send them on WhatsApp."
+ },
+ {
+  "en": "Could you please remind me about the meeting tomorrow?",
+  "tamil": "நாளைக்கு மீட்டிங் இருக்கறத எனக்கு ஞாபகப்படுத்த முடியுமா?",
+  "context": "Asking a colleague for a reminder.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you please' is a very polite request form.",
+  "words": [
+   "remind"
+  ],
+  "usage": "Use it when you worry you may forget a plan.",
+  "leelaQ": "How do you remember your appointments?",
+  "answer": "I set a reminder on my phone."
+ },
+ {
+  "en": "Please keep Saturday evening free for us.",
+  "tamil": "சனிக்கிழமை சாயங்காலத்தை எங்களுக்காக ஃப்ரீயா வெச்சிக்கோங்க.",
+  "context": "Asking a friend to save a date.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Keep ... free' means do not make other plans.",
+  "words": [
+   "free"
+  ],
+  "usage": "Use it to ask a friend to be available for an event.",
+  "leelaQ": "Which day do you keep free for family?",
+  "answer": "I keep Sunday free for my family."
+ },
+ {
+  "en": "Can we meet a little earlier than planned?",
+  "tamil": "திட்டமிட்டதை விட கொஞ்சம் சீக்கிரம் சந்திக்கலாமா?",
+  "context": "Asking a friend to change the time.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Than planned' compares the new time with the old plan.",
+  "words": [
+   "earlier"
+  ],
+  "usage": "Use it when you need to change an arranged time slightly.",
+  "leelaQ": "Do you like to reach early or late?",
+  "answer": "I like to reach early."
+ },
+ {
+  "en": "Please come early and help us with the arrangements.",
+  "tamil": "தயவு செஞ்சு சீக்கிரம் வந்து ஏற்பாடுகள்ல உதவுங்க.",
+  "context": "Asking a relative to help.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Come and help' joins two actions in one request.",
+  "words": [
+   "arrangements"
+  ],
+  "usage": "Use it to ask close relatives to help in a function.",
+  "leelaQ": "How do you help at family functions?",
+  "answer": "I help with serving food to guests."
+ },
+ {
+  "en": "Could you tell me the exact date of the wedding?",
+  "tamil": "கல்யாணத்தோட சரியான தேதியைச் சொல்ல முடியுமா?",
+  "context": "Asking a friend for the date.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you tell me' is polite. The date part is not a question form.",
+  "words": [
+   "exact"
+  ],
+  "usage": "Use it to confirm details before applying for leave.",
+  "leelaQ": "Why do we need the exact date of an event?",
+  "answer": "We need it to plan our leave and travel."
+ },
+ {
+  "en": "Give me a call when you reach the hotel.",
+  "tamil": "ஹோட்டலுக்குப் போனதும் எனக்கு ஒரு போன் பண்ணுங்க.",
+  "context": "Asking a friend to inform you.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Give me a call' means phone me. 'When you reach' uses present tense.",
+  "words": [
+   "reach"
+  ],
+  "usage": "Use it with family or friends who are travelling.",
+  "leelaQ": "Who do you call after reaching a new place?",
+  "answer": "I call my mother first."
+ },
+ {
+  "en": "Please confirm your seat by tomorrow evening.",
+  "tamil": "நாளை சாயங்காலத்துக்குள்ள உங்க இடத்தை உறுதி பண்ணுங்க.",
+  "context": "Asking a group member to confirm.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'By tomorrow evening' sets a deadline.",
+  "words": [
+   "confirm"
+  ],
+  "usage": "Use it when you organise a trip or a group booking.",
+  "leelaQ": "How do you confirm a booking?",
+  "answer": "I confirm it by phone or message."
+ },
+ {
+  "en": "Can you adjust the timing a little for me?",
+  "tamil": "எனக்காக நேரத்தை கொஞ்சம் மாத்திக்க முடியுமா?",
+  "context": "Asking a manager for a flexible time.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Adjust' means to change a little. 'For me' shows a personal favour.",
+  "words": [
+   "adjust"
+  ],
+  "usage": "Use it when you need a small favour about time.",
+  "leelaQ": "When do you ask people to adjust the time?",
+  "answer": "I ask when I have an urgent family work."
+ },
+ {
+  "en": "Please don't make any plans for that day.",
+  "tamil": "அந்த நாளுக்கு எந்த பிளானும் போட வேண்டாம்.",
+  "context": "Asking a family member to stay free.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "A negative imperative uses 'don't' with the base verb.",
+  "words": [
+   "plans"
+  ],
+  "usage": "Use it when a big family event falls on a certain day.",
+  "leelaQ": "What do you do when a big day is coming?",
+  "answer": "I plan everything and tell my family early."
+ },
+ {
+  "en": "Would you mind picking me up at the junction?",
+  "tamil": "ஜங்ஷன்ல வந்து என்னைக் கூட்டிட்டுப் போக முடியுமா?",
+  "context": "Asking a friend for a lift.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Would you mind' is followed by an -ing word. It is very polite.",
+  "words": [
+   "junction"
+  ],
+  "usage": "Use it to ask a friend for help with transport.",
+  "leelaQ": "Who gives you a lift when you need it?",
+  "answer": "My brother gives me a lift."
+ },
+ {
+  "en": "Kindly let us know your plans by the end of this week.",
+  "tamil": "இந்த வாரக் கடைசிக்குள்ள உங்க பிளானை எங்களுக்குத் தெரியப்படுத்துங்க.",
+  "context": "Writing to a guest or a client.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Kindly' is formal and polite. Use it in messages and mails.",
+  "words": [
+   "kindly"
+  ],
+  "usage": "Use it in a formal message when you need an answer by a date.",
+  "leelaQ": "How do you ask for a reply in a formal message?",
+  "answer": "I write kindly let me know by Friday."
+ },
+ {
+  "en": "Please wait a moment, let me check my schedule.",
+  "tamil": "ஒரு நிமிஷம் இருங்க, என் அட்டவணையைப் பார்க்கிறேன்.",
+  "context": "Replying on the phone.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me check' is a polite way to gain a little time.",
+  "words": [
+   "schedule"
+  ],
+  "usage": "Use it on a call when you must check your free time.",
+  "leelaQ": "What do you check before accepting a plan?",
+  "answer": "I check my calendar and my work."
+ },
+ {
+  "en": "Please save me a seat near the front.",
+  "tamil": "எனக்கு முன்னாடி பக்கத்துல ஒரு இடம் பிடிச்சு வைங்க.",
+  "context": "Asking a friend to keep a seat at an event.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Save me a seat' means keep a place for me.",
+  "words": [
+   "seat"
+  ],
+  "usage": "Use it when you may reach an event late.",
+  "leelaQ": "Where do you like to sit in a hall?",
+  "answer": "I like to sit near the front."
+ },
+ {
+  "en": "Let's keep the plan simple and not spend too much.",
+  "tamil": "பிளானை எளிமையா வெச்சு அதிகம் செலவு பண்ணாம இருப்போம்.",
+  "context": "Suggesting a budget plan to friends.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let's keep' invites everyone to follow the same idea.",
+  "words": [
+   "simple"
+  ],
+  "usage": "Use it when friends plan a trip and want to save money.",
+  "leelaQ": "How do you plan a trip on a small budget?",
+  "answer": "I choose a nearby place and carry home food."
+ },
+ {
+  "en": "My cousins are visiting us during the summer holidays.",
+  "tamil": "கோடை விடுமுறைல என் cousins எங்களைப் பார்க்க வராங்க.",
+  "context": "Telling a friend about holiday guests.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with a time phrase shows a planned visit.",
+  "words": [
+   "cousins"
+  ],
+  "usage": "Use it to explain why your holidays will be busy.",
+  "leelaQ": "Who visits you during the holidays?",
+  "answer": "My cousins visit us every summer."
+ },
+ {
+  "en": "I'll message you the location once everyone confirms.",
+  "tamil": "எல்லாரும் உறுதி பண்ணினதும் இடத்தை மெசேஜ் பண்றேன்.",
+  "context": "Organising a small gathering.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Once' links the two actions in time. The 'once' part uses present tense.",
+  "words": [
+   "location"
+  ],
+  "usage": "Use it as the organiser of a group plan.",
+  "leelaQ": "How do you share a place with friends?",
+  "answer": "I send the location on WhatsApp."
+ },
+ {
+  "en": "We have a family function every year in January.",
+  "tamil": "ஒவ்வொரு வருஷமும் ஜனவரில எங்களுக்கு ஒரு குடும்ப விழா இருக்கும்.",
+  "context": "Describing a yearly tradition.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Present simple with 'every year' shows a regular event.",
+  "words": [
+   "function"
+  ],
+  "usage": "Use it to explain a tradition to a new friend or colleague.",
+  "leelaQ": "Which yearly event do you enjoy most?",
+  "answer": "I enjoy Pongal the most."
+ },
+ {
+  "en": "Did you plan anything special for your anniversary?",
+  "tamil": "உங்க திருமண நாளுக்கு ஏதாவது சிறப்பா பிளான் பண்ணீங்களா?",
+  "context": "Asking a colleague about a celebration.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Anything special' asks if there is something different from normal.",
+  "words": [
+   "anniversary"
+  ],
+  "usage": "Use it to show interest in a colleague's celebration.",
+  "leelaQ": "How do you celebrate special days?",
+  "answer": "We go out for dinner as a family."
+ },
+ {
+  "en": "Please tell the others that the plan has changed.",
+  "tamil": "பிளான் மாறிடுச்சுன்னு மத்தவங்ககிட்ட சொல்லுங்க.",
+  "context": "Asking a friend to spread information.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Has changed' shows the result is true now.",
+  "words": [
+   "changed"
+  ],
+  "usage": "Use it when a group plan changes and you cannot call everyone.",
+  "leelaQ": "How do you inform a group about a change?",
+  "answer": "I send a message in the group chat."
+ },
+ {
+  "en": "I don't think we can finish shopping before the function.",
+  "tamil": "விசேஷத்துக்கு முன்னாடி ஷாப்பிங் முடிக்க முடியும்னு தோணல.",
+  "context": "Worrying about time with family.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'I don't think' softens a negative opinion.",
+  "words": [
+   "shopping"
+  ],
+  "usage": "Use it when you are worried about time before an event.",
+  "leelaQ": "Do you finish shopping early or late?",
+  "answer": "I finish it early to avoid the crowd."
+ }
+]

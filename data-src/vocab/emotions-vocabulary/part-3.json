@@ -1,0 +1,352 @@
+[
+ {
+  "word": "gloom",
+  "meaning": "A feeling of sadness and no hope.",
+  "tamil": "சோகமான சூழல், மனச்சோர்வு",
+  "pos": "noun",
+  "pron": "GLOOM",
+  "example": "A sense of gloom filled the house after the bad news.",
+  "exampleTamil": "கெட்ட செய்திக்குப் பிறகு வீடு முழுவதும் சோகம் நிறைந்தது.",
+  "synonyms": [
+   "sadness",
+   "darkness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "misery",
+  "meaning": "Great unhappiness or suffering.",
+  "tamil": "துன்பம், அவதி",
+  "pos": "noun",
+  "pron": "MIZ-uh-ree",
+  "example": "The long illness brought misery to the family.",
+  "exampleTamil": "நீண்ட நோய் அந்தக் குடும்பத்திற்குத் துன்பத்தைக் கொண்டுவந்தது.",
+  "synonyms": [
+   "suffering",
+   "woe"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "satisfied",
+  "meaning": "Pleased because you got what you wanted.",
+  "tamil": "திருப்தியடைந்த",
+  "pos": "adjective",
+  "pron": "SAT-is-fyd",
+  "example": "The customer was satisfied with the service.",
+  "exampleTamil": "வாடிக்கையாளர் சேவையில் திருப்தியடைந்தார்.",
+  "synonyms": [
+   "content",
+   "pleased"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "adore",
+  "meaning": "To love and admire someone very much.",
+  "tamil": "மிகவும் நேசி",
+  "pos": "verb",
+  "pron": "uh-DOR",
+  "example": "Children adore their grandparents.",
+  "exampleTamil": "குழந்தைகள் தங்கள் தாத்தா பாட்டியை மிகவும் நேசிக்கின்றன.",
+  "synonyms": [
+   "love",
+   "cherish"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cherish",
+  "meaning": "To love and take care of something precious.",
+  "tamil": "பொக்கிஷமாகப் போற்று",
+  "pos": "verb",
+  "pron": "CHAIR-ish",
+  "example": "I cherish the time I spend with my family.",
+  "exampleTamil": "குடும்பத்துடன் செலவிடும் நேரத்தை நான் பொக்கிஷமாகப் போற்றுகிறேன்.",
+  "synonyms": [
+   "treasure",
+   "value"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "despise",
+  "meaning": "To strongly dislike someone or something.",
+  "tamil": "வெறுத்து ஒதுக்கு",
+  "pos": "verb",
+  "pron": "dih-SPYZ",
+  "example": "He despises people who tell lies.",
+  "exampleTamil": "அவன் பொய் சொல்பவர்களை வெறுக்கிறான்.",
+  "synonyms": [
+   "hate",
+   "loathe"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scorn",
+  "meaning": "A feeling that someone is not worth respect.",
+  "tamil": "இகழ்ச்சி, ஏளனம்",
+  "pos": "noun",
+  "pron": "SKORN",
+  "example": "She laughed with scorn at his weak excuse.",
+  "exampleTamil": "அவனின் பலவீனமான காரணத்தைக் கேட்டு அவள் ஏளனமாகச் சிரித்தாள்.",
+  "synonyms": [
+   "contempt",
+   "disdain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "temper",
+  "meaning": "A tendency to become angry quickly.",
+  "tamil": "கோபக் குணம்",
+  "pos": "noun",
+  "pron": "TEM-pur",
+  "example": "He has a bad temper and shouts a lot.",
+  "exampleTamil": "அவனுக்குக் கெட்ட கோபக் குணம் உண்டு; நிறைய கத்துவான்.",
+  "synonyms": [
+   "anger",
+   "mood"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "irritate",
+  "meaning": "To make someone feel annoyed.",
+  "tamil": "எரிச்சலூட்டு",
+  "pos": "verb",
+  "pron": "IR-ih-tayt",
+  "example": "His constant questions began to irritate me.",
+  "exampleTamil": "அவனின் தொடர்ந்த கேள்விகள் எனக்கு எரிச்சலூட்டத் தொடங்கின.",
+  "synonyms": [
+   "annoy",
+   "bother"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "frustrate",
+  "meaning": "To make someone feel upset because they cannot succeed.",
+  "tamil": "விரக்தியடையச் செய்",
+  "pos": "verb",
+  "pron": "FRUS-trayt",
+  "example": "Slow internet can frustrate anyone.",
+  "exampleTamil": "மெதுவான இணையம் யாரையும் விரக்தியடையச் செய்யும்.",
+  "synonyms": [
+   "discourage",
+   "annoy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "soothe",
+  "meaning": "To make someone calmer or less upset.",
+  "tamil": "அமைதிப்படுத்து",
+  "pos": "verb",
+  "pron": "SOOTH",
+  "example": "Soft music helps soothe a crying baby.",
+  "exampleTamil": "மெல்லிய இசை அழும் குழந்தையை அமைதிப்படுத்த உதவும்.",
+  "synonyms": [
+   "calm",
+   "comfort"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "console",
+  "meaning": "To comfort someone who is sad or disappointed.",
+  "tamil": "ஆறுதல் படுத்து",
+  "pos": "verb",
+  "pron": "kun-SOHL",
+  "example": "We tried to console him after his defeat.",
+  "exampleTamil": "தோல்விக்குப் பிறகு நாங்கள் அவனுக்கு ஆறுதல் கூற முயன்றோம்.",
+  "synonyms": [
+   "comfort",
+   "soothe"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reassure",
+  "meaning": "To say something to remove someone's worry.",
+  "tamil": "நம்பிக்கை அளி",
+  "pos": "verb",
+  "pron": "ree-uh-SHOOR",
+  "example": "The doctor reassured her that the test was normal.",
+  "exampleTamil": "பரிசோதனை சாதாரணமானது என்று மருத்துவர் அவளுக்கு நம்பிக்கை அளித்தார்.",
+  "synonyms": [
+   "comfort",
+   "encourage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "motivate",
+  "meaning": "To make someone want to do something.",
+  "tamil": "ஊக்கப்படுத்து",
+  "pos": "verb",
+  "pron": "MOH-tuh-vayt",
+  "example": "A good teacher can motivate every student.",
+  "exampleTamil": "நல்ல ஆசிரியர் ஒவ்வொரு மாணவரையும் ஊக்கப்படுத்த முடியும்.",
+  "synonyms": [
+   "inspire",
+   "encourage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "discourage",
+  "meaning": "To make someone lose hope or confidence.",
+  "tamil": "மனம் தளரச் செய்",
+  "pos": "verb",
+  "pron": "dis-KUR-ij",
+  "example": "Do not let one failure discourage you.",
+  "exampleTamil": "ஒரு தோல்வி உன்னை மனம் தளரச் செய்ய விடாதே.",
+  "synonyms": [
+   "dishearten",
+   "deter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "embarrass",
+  "meaning": "To make someone feel shy or ashamed in public.",
+  "tamil": "வெட்கப்படச் செய்",
+  "pos": "verb",
+  "pron": "im-BAIR-us",
+  "example": "Please do not embarrass me in front of my friends.",
+  "exampleTamil": "என் நண்பர்கள் முன்னால் என்னை வெட்கப்படுத்தாதே.",
+  "synonyms": [
+   "shame",
+   "humiliate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "disgust",
+  "meaning": "A strong feeling of dislike for something unpleasant.",
+  "tamil": "அருவருப்பு",
+  "pos": "noun",
+  "pron": "dis-GUST",
+  "example": "She turned away in disgust at the dirty kitchen.",
+  "exampleTamil": "அழுக்கான சமையலறையைக் கண்டு அவள் அருவருப்புடன் திரும்பினாள்.",
+  "synonyms": [
+   "revulsion",
+   "horror"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "startle",
+  "meaning": "To surprise someone suddenly and a little frighten them.",
+  "tamil": "திடுக்கிடச் செய்",
+  "pos": "verb",
+  "pron": "STAR-tul",
+  "example": "A loud noise startled the sleeping baby.",
+  "exampleTamil": "பெரிய சத்தம் தூங்கும் குழந்தையைத் திடுக்கிடச் செய்தது.",
+  "synonyms": [
+   "shock",
+   "alarm"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "charm",
+  "meaning": "To please someone by being nice and attractive.",
+  "tamil": "கவர், மயக்கு",
+  "pos": "verb",
+  "pron": "CHARM",
+  "example": "The singer charmed everyone with her sweet voice.",
+  "exampleTamil": "பாடகி தன் இனிய குரலால் எல்லோரையும் கவர்ந்தாள்.",
+  "synonyms": [
+   "delight",
+   "attract"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "indifferent",
+  "meaning": "Not interested and not caring about something.",
+  "tamil": "அலட்சியமான",
+  "pos": "adjective",
+  "pron": "in-DIF-runt",
+  "example": "He seemed indifferent to the problems of others.",
+  "exampleTamil": "அவன் மற்றவர்களின் பிரச்சினைகளில் அலட்சியமாக இருப்பது போலத் தோன்றினான்.",
+  "synonyms": [
+   "uninterested",
+   "unconcerned"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "energetic",
+  "meaning": "Full of energy and ready to do things.",
+  "tamil": "சுறுசுறுப்பான",
+  "pos": "adjective",
+  "pron": "en-ur-JET-ik",
+  "example": "My energetic grandfather walks five kilometres every day.",
+  "exampleTamil": "என் சுறுசுறுப்பான தாத்தா தினமும் ஐந்து கிலோமீட்டர் நடக்கிறார்.",
+  "synonyms": [
+   "active",
+   "lively"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "drowsy",
+  "meaning": "Feeling sleepy and not fully awake.",
+  "tamil": "தூக்கக் கலக்கமான",
+  "pos": "adjective",
+  "pron": "DROW-zee",
+  "example": "The medicine made me feel drowsy all afternoon.",
+  "exampleTamil": "அந்த மருந்து மதியம் முழுவதும் எனக்குத் தூக்கக் கலக்கத்தை ஏற்படுத்தியது.",
+  "synonyms": [
+   "sleepy",
+   "tired"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reckless",
+  "meaning": "Not caring about danger or what may happen.",
+  "tamil": "பொறுப்பற்ற, அவசரப்போக்கான",
+  "pos": "adjective",
+  "pron": "REK-lus",
+  "example": "Reckless driving causes many accidents.",
+  "exampleTamil": "பொறுப்பற்ற வாகன ஓட்டம் பல விபத்துகளை ஏற்படுத்துகிறது.",
+  "synonyms": [
+   "careless",
+   "rash"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "humorous",
+  "meaning": "Funny and making people laugh.",
+  "tamil": "நகைச்சுவையான",
+  "pos": "adjective",
+  "pron": "HYOO-mur-us",
+  "example": "He wrote a humorous story about his school days.",
+  "exampleTamil": "அவன் தன் பள்ளி நாட்களைப் பற்றி நகைச்சுவையான கதை எழுதினான்.",
+  "synonyms": [
+   "funny",
+   "amusing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sarcastic",
+  "meaning": "Saying the opposite of what you mean to mock someone.",
+  "tamil": "கிண்டலான, ஏளனமான",
+  "pos": "adjective",
+  "pron": "sar-KAS-tik",
+  "example": "Her sarcastic reply made everyone uncomfortable.",
+  "exampleTamil": "அவளின் கிண்டலான பதில் எல்லோரையும் சங்கடப்படுத்தியது.",
+  "synonyms": [
+   "mocking",
+   "ironic"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,355 @@
+[
+ {
+  "en": "What time does the bank open on Saturdays?",
+  "tamil": "சனிக்கிழமை பேங்க் எத்தனை மணிக்கு திறப்பாங்க?",
+  "context": "Asking a neighbour about bank timings.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What time' asks for a clock time. After 'does', the verb stays in base form: open.",
+  "words": [
+   "open"
+  ],
+  "usage": "Use it with a neighbour or friend before you plan a bank visit.",
+  "leelaQ": "When do you usually go to the bank?",
+  "answer": "I usually go to the bank on Saturday morning."
+ },
+ {
+  "en": "Which platform does the Chennai express arrive at?",
+  "tamil": "சென்னை எக்ஸ்பிரஸ் எந்த பிளாட்பாரத்துல வரும்?",
+  "context": "Asking at a bus stand for the right bus.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Which' is used when choosing from a limited set, like several buses.",
+  "words": [
+   "platform"
+  ],
+  "usage": "Use it at a bus stand when you are unsure which bus to board.",
+  "leelaQ": "How do you usually find the right bus in your city?",
+  "answer": "I usually ask the conductor or check the board at the bus stand."
+ },
+ {
+  "en": "How much is the auto fare to the railway station?",
+  "tamil": "ரயில்வே ஸ்டேஷனுக்கு ஆட்டோ கட்டணம் எவ்வளவு?",
+  "context": "Asking an auto driver about the price.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How much' asks about price. Ask before you sit so there is no argument later.",
+  "words": [
+   "fare"
+  ],
+  "usage": "Use it with an auto driver before starting the ride.",
+  "leelaQ": "How do you go to the railway station?",
+  "answer": "I take an auto or sometimes a bus to the station."
+ },
+ {
+  "en": "Who is the person sitting next to Priya?",
+  "tamil": "பிரியா பக்கத்துல உட்கார்ந்திருக்கறது யாரு?",
+  "context": "Asking a colleague about a new face in a meeting.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Who' asks about a person. 'Sitting' is a short way to say 'who is sitting'.",
+  "words": [
+   "sitting"
+  ],
+  "usage": "Use it with a colleague at an event when you see someone new.",
+  "leelaQ": "Who sits next to you in your office?",
+  "answer": "My friend Karthik sits next to me in the office."
+ },
+ {
+  "en": "Why are you looking so worried today?",
+  "tamil": "இன்னைக்கு ஏன் இவ்வளவு கவலையா இருக்கீங்க?",
+  "context": "Asking a friend who seems upset.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Why' asks for a reason. 'So worried' shows you noticed something strong.",
+  "words": [
+   "worried"
+  ],
+  "usage": "Use it with a friend or colleague who looks troubled.",
+  "leelaQ": "What makes you worried these days?",
+  "answer": "Exams make me worried these days."
+ },
+ {
+  "en": "Which bus goes to the Central market?",
+  "tamil": "சென்ட்ரல் மார்க்கெட்டுக்கு எந்த பஸ் போகும்?",
+  "context": "Asking at a bus stop.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Which' is used when we choose from a few known things, like bus numbers.",
+  "words": [
+   "bus"
+  ],
+  "usage": "Use it at a bus stop with a conductor or another passenger.",
+  "leelaQ": "Which bus do you take to your office?",
+  "answer": "I take bus number twenty-two to my office."
+ },
+ {
+  "en": "Whose umbrella is this on the chair?",
+  "tamil": "நாற்காலி மேல இருக்கற இந்த குடை யாரோடது?",
+  "context": "Asking colleagues about a forgotten item.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Whose' asks who owns something. Use it for any item you find lying around.",
+  "words": [
+   "umbrella"
+  ],
+  "usage": "Use it in an office or classroom when you find an unclaimed item.",
+  "leelaQ": "Do you carry an umbrella in the rainy season?",
+  "answer": "Yes, I always keep an umbrella in my bag."
+ },
+ {
+  "en": "How long will the repair take?",
+  "tamil": "ரிப்பேர் பண்ண எவ்வளவு நேரம் ஆகும்?",
+  "context": "Asking a mechanic about the time needed.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'How long' asks about time taken. 'Will' talks about the future.",
+  "words": [
+   "repair"
+  ],
+  "usage": "Use it with a mechanic or a technician before leaving your vehicle or phone.",
+  "leelaQ": "What did you repair recently?",
+  "answer": "I repaired my phone screen last week."
+ },
+ {
+  "en": "How often do you visit your native place?",
+  "tamil": "நீங்க எவ்வளவு அடிக்கடி சொந்த ஊருக்கு போவீங்க?",
+  "context": "Chatting with a new colleague.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How often' asks about frequency. Answers are like: every month, twice a year.",
+  "words": [
+   "native"
+  ],
+  "usage": "Use it in a casual chat with a colleague from another town.",
+  "leelaQ": "Do you go to your native place often, and why?",
+  "answer": "I visit my native place twice a year."
+ },
+ {
+  "en": "How far is the airport from your house?",
+  "tamil": "உங்க வீட்டுல இருந்து ஏர்போர்ட் எவ்வளவு தூரம்?",
+  "context": "Asking a friend before planning a trip.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How far' asks about distance. It is common with places and travel.",
+  "words": [
+   "airport"
+  ],
+  "usage": "Use it with a friend who lives in another part of the city.",
+  "leelaQ": "How far is your office from your house?",
+  "answer": "My office is about ten kilometres from my house."
+ },
+ {
+  "en": "Why is the bus so late today?",
+  "tamil": "இன்னைக்கு பஸ் ஏன் இவ்ளோ லேட்?",
+  "context": "Asking a fellow passenger at the bus stop.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Why' asks for a reason. 'So late' stresses how much delayed it is.",
+  "words": [
+   "late"
+  ],
+  "usage": "Use it with another passenger when a bus or train is delayed.",
+  "leelaQ": "What do you do when your bus is late?",
+  "answer": "I wait patiently and sometimes book an auto instead."
+ },
+ {
+  "en": "Did you have your breakfast?",
+  "tamil": "நீங்க டிபன் சாப்பிட்டீங்களா?",
+  "context": "Greeting a family member in the morning.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did you ...?' asks about a finished action. In India this is also a caring greeting.",
+  "words": [
+   "breakfast"
+  ],
+  "usage": "Use it with family or friends as a caring question in the morning.",
+  "leelaQ": "What did you have for breakfast today?",
+  "answer": "I had idli and sambar for breakfast today."
+ },
+ {
+  "en": "Have you finished the report yet?",
+  "tamil": "நீங்க ரிப்போர்ட்டை முடிச்சிட்டீங்களா?",
+  "context": "Asking a team member about progress.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "Present perfect with 'yet' asks if something is done by now.",
+  "words": [
+   "report",
+   "finished"
+  ],
+  "usage": "Use it with a team member when you need an update.",
+  "leelaQ": "Have you finished your work for today?",
+  "answer": "Yes, I have finished all my work for today."
+ },
+ {
+  "en": "Have you ever been to Kerala?",
+  "tamil": "நீங்க எப்பவாவது கேரளா போயிருக்கீங்களா?",
+  "context": "Chatting with a friend about travel.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you ever been to ...?' asks about life experience, not a fixed time.",
+  "words": [
+   "ever"
+  ],
+  "usage": "Use it in a casual chat when you talk about holidays.",
+  "leelaQ": "Have you ever been to a hill station?",
+  "answer": "Yes, I have been to Ooty with my family."
+ },
+ {
+  "en": "Do you know how to reach the temple from here?",
+  "tamil": "இங்கேருந்து கோயிலுக்கு எப்படி போகணும்னு தெரியுமா?",
+  "context": "Asking a local for directions to a temple.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you know how to ...' is a polite indirect way to ask for directions.",
+  "words": [
+   "reach",
+   "temple"
+  ],
+  "usage": "Use it with a stranger on the street when you are looking for a place.",
+  "leelaQ": "How do you ask for directions in a new town?",
+  "answer": "I ask a local person politely or I use the map on my phone."
+ },
+ {
+  "en": "Excuse me, is anyone sitting next to you?",
+  "tamil": "மன்னிக்கணும், உங்க பக்கத்துல யாராவது உட்கார்ந்திருக்காங்களா?",
+  "context": "Asking a train passenger about a free spot.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Excuse me' starts politely. 'Is anyone sitting' checks if a seat is free.",
+  "words": [
+   "sitting"
+  ],
+  "usage": "Use it in a train or bus before you take an empty seat.",
+  "leelaQ": "Do you like a window seat or an aisle seat?",
+  "answer": "I like a window seat because I enjoy watching the view."
+ },
+ {
+  "en": "Do you know where the canteen is?",
+  "tamil": "கேன்டீன் எங்க இருக்குன்னு உங்களுக்கு தெரியுமா?",
+  "context": "Asking a colleague on your first day.",
+  "tense": "present",
+  "type": "question",
+  "explain": "In 'Do you know where ... is?', we use normal order (the canteen is), not 'where is the canteen'.",
+  "words": [
+   "canteen"
+  ],
+  "usage": "Use it on your first day in a new office or college.",
+  "leelaQ": "Where do you have lunch at work?",
+  "answer": "I have lunch in the canteen with my team."
+ },
+ {
+  "en": "Could you tell me how to reach the post office?",
+  "tamil": "போஸ்ட் ஆபீஸுக்கு எப்படி போகணும்னு சொல்ல முடியுமா?",
+  "context": "Politely asking a stranger for directions.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could you tell me how to ...?' is a polite, indirect way to ask for directions.",
+  "words": [
+   "reach"
+  ],
+  "usage": "Use it with an older person or a stranger when you are lost.",
+  "leelaQ": "What do you do when you lose your way?",
+  "answer": "I ask someone nearby or I open the map on my phone."
+ },
+ {
+  "en": "Would you mind telling me your name again?",
+  "tamil": "உங்க பேரை மறுபடி சொல்ல முடியுமா?",
+  "context": "Politely asking someone to repeat their name.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you mind ...ing' is very polite. It sounds soft and respectful.",
+  "words": [
+   "mind"
+  ],
+  "usage": "Use it when you forgot someone's name and want to ask without sounding rude.",
+  "leelaQ": "Do you forget names easily?",
+  "answer": "Yes, I sometimes forget names after the first meeting."
+ },
+ {
+  "en": "Do you happen to know the Wi-Fi password?",
+  "tamil": "உங்களுக்கு வைஃபை பாஸ்வேர்டு தெரியுமா?",
+  "context": "Asking a host or a cafe staff member.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you happen to know ...?' is a soft way to ask for information.",
+  "words": [
+   "password"
+  ],
+  "usage": "Use it in a cafe, a friend's home or a hotel.",
+  "leelaQ": "Do you share your Wi-Fi password with guests?",
+  "answer": "Yes, I share it with my close friends and family."
+ },
+ {
+  "en": "I was wondering if you could help me with this form.",
+  "tamil": "இந்த ஃபார்மை நிரப்ப நீங்க உதவி பண்ண முடியுமான்னு யோசிச்சேன்.",
+  "context": "Politely asking a clerk for help.",
+  "tense": "past",
+  "type": "request",
+  "explain": "'I was wondering if ...' makes a request very polite and indirect.",
+  "words": [
+   "wondering",
+   "form"
+  ],
+  "usage": "Use it at an office counter or with an official when you need help.",
+  "leelaQ": "Who helps you with paperwork?",
+  "answer": "My brother helps me with all my paperwork."
+ },
+ {
+  "en": "Can you please tell me the way to the bus stand?",
+  "tamil": "பஸ் ஸ்டாண்டுக்கு வழி சொல்ல முடியுமா?",
+  "context": "Asking a shopkeeper for directions.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you please ...?' is a simple polite request used in daily life.",
+  "words": [
+   "way"
+  ],
+  "usage": "Use it with a shopkeeper or passer-by in a new area.",
+  "leelaQ": "How do you find a new place in the city?",
+  "answer": "I use Google Maps to find new places."
+ },
+ {
+  "en": "Would you mind repeating that once more?",
+  "tamil": "இன்னொரு தடவை சொல்ல முடியுமா?",
+  "context": "Asking a speaker to repeat something you missed.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Would you mind ...ing' is a very polite way to ask someone to do something.",
+  "words": [
+   "repeating"
+  ],
+  "usage": "Use it in a meeting or phone call when you did not hear clearly.",
+  "leelaQ": "What do you say when you do not understand someone?",
+  "answer": "I say, sorry, could you please repeat that?"
+ },
+ {
+  "en": "May I know your good name, please?",
+  "tamil": "உங்க பேரை தெரிஞ்சிக்கலாமா?",
+  "context": "Asking a visitor's name at a reception.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'May I know your good name?' is very common in Indian English at reception desks.",
+  "words": [
+   "know"
+  ],
+  "usage": "Use it as a receptionist or when you meet an elder politely.",
+  "leelaQ": "What is your full name?",
+  "answer": "My full name is Arun Kumar."
+ },
+ {
+  "en": "Could I borrow your pen for a minute?",
+  "tamil": "உங்க பேனாவ ஒரு நிமிஷம் கடன் வாங்கலாமா?",
+  "context": "Asking a colleague for a pen.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could I ...?' asks permission politely. 'For a minute' shows it is short.",
+  "words": [
+   "borrow"
+  ],
+  "usage": "Use it with a colleague or a classmate when you need something small.",
+  "leelaQ": "What do you often borrow from friends?",
+  "answer": "I often borrow books from my friends."
+ }
+]

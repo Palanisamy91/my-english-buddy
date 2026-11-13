@@ -1,0 +1,353 @@
+[
+ {
+  "word": "thankful",
+  "meaning": "feeling happy and grateful for something good",
+  "tamil": "நன்றியுள்ள",
+  "pos": "adjective",
+  "pron": "THANK-ful",
+  "example": "I am thankful for my family's support.",
+  "exampleTamil": "என் குடும்பத்தின் ஆதரவுக்கு நான் நன்றியுள்ளவன்.",
+  "synonyms": [
+   "grateful",
+   "appreciative"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "confused",
+  "meaning": "not able to understand or think clearly",
+  "tamil": "குழப்பமான",
+  "pos": "adjective",
+  "pron": "kun-FYOOZD",
+  "example": "I am confused about the new office rules.",
+  "exampleTamil": "புதிய அலுவலக விதிகள் பற்றி நான் குழப்பத்தில் இருக்கிறேன்.",
+  "synonyms": [
+   "puzzled",
+   "mixed up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gleeful",
+  "meaning": "very happy, often in a playful way",
+  "tamil": "மகிழ்ச்சி பொங்கும்",
+  "pos": "adjective",
+  "pron": "GLEE-ful",
+  "example": "The kids were gleeful when school was cancelled.",
+  "exampleTamil": "பள்ளி ரத்தானதும் குழந்தைகள் மகிழ்ச்சியில் துள்ளினார்கள்.",
+  "synonyms": [
+   "joyful",
+   "delighted"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dread",
+  "meaning": "a strong fear about something that may happen",
+  "tamil": "பயம், அச்சம்",
+  "pos": "noun",
+  "pron": "DRED",
+  "example": "I feel dread before every exam result.",
+  "exampleTamil": "ஒவ்வொரு தேர்வு முடிவுக்கு முன்பும் எனக்கு பயமாக இருக்கும்.",
+  "synonyms": [
+   "fear",
+   "worry",
+   "anxiety"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "furious",
+  "meaning": "extremely angry",
+  "tamil": "கடும் கோபமான",
+  "pos": "adjective",
+  "pron": "FYOOR-ee-us",
+  "example": "Dad was furious when he saw the broken window.",
+  "exampleTamil": "உடைந்த ஜன்னலைப் பார்த்ததும் அப்பா கடும் கோபமானார்.",
+  "synonyms": [
+   "enraged",
+   "livid"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ashamed",
+  "meaning": "feeling bad because of something you did",
+  "tamil": "வெட்கப்படுகிற",
+  "pos": "adjective",
+  "pron": "uh-SHAYMD",
+  "example": "I felt ashamed of lying to my friend.",
+  "exampleTamil": "நண்பனிடம் பொய் சொன்னதற்காக நான் வெட்கப்பட்டேன்.",
+  "synonyms": [
+   "embarrassed",
+   "guilty"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "guilty",
+  "meaning": "feeling bad because you did something wrong",
+  "tamil": "குற்ற உணர்வுள்ள",
+  "pos": "adjective",
+  "pron": "GIL-tee",
+  "example": "I feel guilty about forgetting her birthday.",
+  "exampleTamil": "அவள் பிறந்தநாளை மறந்ததற்காக எனக்கு குற்ற உணர்வாக இருக்கிறது.",
+  "synonyms": [
+   "remorseful",
+   "sorry"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "jolly",
+  "meaning": "happy and cheerful",
+  "tamil": "உற்சாகமான, மகிழ்ச்சியான",
+  "pos": "adjective",
+  "pron": "JOL-ee",
+  "example": "Our uncle is a jolly man who loves jokes.",
+  "exampleTamil": "எங்கள் மாமா நகைச்சுவை பிடிக்கும் மகிழ்ச்சியான மனிதர்.",
+  "synonyms": [
+   "merry",
+   "cheerful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sulky",
+  "meaning": "quiet and angry because you are upset",
+  "tamil": "முகத்தைத் தூக்கி வைத்திருக்கிற",
+  "pos": "adjective",
+  "pron": "SUL-kee",
+  "example": "The child became sulky when we said no.",
+  "exampleTamil": "வேண்டாம் என்றதும் குழந்தை முகத்தைத் தூக்கிக்கொண்டது.",
+  "synonyms": [
+   "sullen",
+   "grumpy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "restless",
+  "meaning": "not able to stay calm or still",
+  "tamil": "அமைதியற்ற",
+  "pos": "adjective",
+  "pron": "REST-lis",
+  "example": "I felt restless before the exam result.",
+  "exampleTamil": "தேர்வு முடிவுக்கு முன் எனக்கு அமைதியில்லாமல் இருந்தது.",
+  "synonyms": [
+   "uneasy",
+   "fidgety"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "content",
+  "meaning": "happy and satisfied with what you have",
+  "tamil": "திருப்தியான",
+  "pos": "adjective",
+  "pron": "kun-TENT",
+  "example": "She is content with her small village life.",
+  "exampleTamil": "அவள் தன் சிறிய கிராம வாழ்க்கையில் திருப்தியாக இருக்கிறாள்.",
+  "synonyms": [
+   "satisfied",
+   "pleased"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "irritated",
+  "meaning": "slightly angry or annoyed",
+  "tamil": "எரிச்சலான",
+  "pos": "adjective",
+  "pron": "IR-ih-tay-tid",
+  "example": "I get irritated when people talk loudly on calls.",
+  "exampleTamil": "மக்கள் அழைப்பில் சத்தமாகப் பேசினால் எனக்கு எரிச்சலாக வரும்.",
+  "synonyms": [
+   "annoyed",
+   "bothered"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cranky",
+  "meaning": "bad-tempered, often because of tiredness",
+  "tamil": "எரிந்து விழுகிற",
+  "pos": "adjective",
+  "pron": "KRANG-kee",
+  "example": "The baby is cranky because he missed his nap.",
+  "exampleTamil": "தூங்காததால் குழந்தை சிடுசிடுக்கிறது.",
+  "synonyms": [
+   "grumpy",
+   "cross"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overjoyed",
+  "meaning": "extremely happy",
+  "tamil": "மிகவும் மகிழ்ச்சியான",
+  "pos": "adjective",
+  "pron": "oh-ver-JOYD",
+  "example": "My parents were overjoyed at my success.",
+  "exampleTamil": "என் வெற்றியில் பெற்றோர் மிகவும் மகிழ்ந்தனர்.",
+  "synonyms": [
+   "thrilled",
+   "ecstatic"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "heartbroken",
+  "meaning": "very sad because of a great loss or disappointment",
+  "tamil": "மனம் உடைந்த",
+  "pos": "adjective",
+  "pron": "HART-broh-kun",
+  "example": "She was heartbroken when her pet died.",
+  "exampleTamil": "அவளுடைய செல்லப்பிராணி இறந்ததும் அவள் மனம் உடைந்தாள்.",
+  "synonyms": [
+   "devastated",
+   "crushed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nostalgic",
+  "meaning": "feeling happy and sad about the past",
+  "tamil": "பழைய நினைவுகளில் ஏங்கும்",
+  "pos": "adjective",
+  "pron": "nos-TAL-jik",
+  "example": "Old film songs make me nostalgic.",
+  "exampleTamil": "பழைய சினிமா பாடல்கள் எனக்கு பழைய நினைவுகளைக் கிளறும்.",
+  "synonyms": [
+   "wistful",
+   "sentimental"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hopeless",
+  "meaning": "having no hope that things will get better",
+  "tamil": "நம்பிக்கையற்ற",
+  "pos": "adjective",
+  "pron": "HOHP-lis",
+  "example": "I felt hopeless after failing three times.",
+  "exampleTamil": "மூன்று முறை தோற்ற பிறகு எனக்கு நம்பிக்கையே இல்லாமல் போனது.",
+  "synonyms": [
+   "desperate",
+   "despairing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hopeful",
+  "meaning": "feeling that good things may happen",
+  "tamil": "நம்பிக்கையுள்ள",
+  "pos": "adjective",
+  "pron": "HOHP-ful",
+  "example": "We are hopeful about getting the loan.",
+  "exampleTamil": "கடன் கிடைக்கும் என்று நாங்கள் நம்பிக்கையாக இருக்கிறோம்.",
+  "synonyms": [
+   "optimistic",
+   "confident"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "miserable",
+  "meaning": "very unhappy and uncomfortable",
+  "tamil": "மிகவும் துயரமான",
+  "pos": "adjective",
+  "pron": "MIZ-ruh-bul",
+  "example": "I was miserable in the cold, wet weather.",
+  "exampleTamil": "குளிரிலும் ஈரத்திலும் நான் மிகவும் துன்பப்பட்டேன்.",
+  "synonyms": [
+   "wretched",
+   "unhappy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tense",
+  "meaning": "nervous and unable to relax",
+  "tamil": "பதற்றமான",
+  "pos": "adjective",
+  "pron": "TENS",
+  "example": "Everyone was tense before the interview.",
+  "exampleTamil": "நேர்முகத் தேர்வுக்கு முன் எல்லோரும் பதற்றமாக இருந்தனர்.",
+  "synonyms": [
+   "nervous",
+   "edgy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "uneasy",
+  "meaning": "slightly worried or not comfortable",
+  "tamil": "நிம்மதியற்ற",
+  "pos": "adjective",
+  "pron": "un-EE-zee",
+  "example": "I feel uneasy walking alone at night.",
+  "exampleTamil": "இரவில் தனியாக நடக்க எனக்கு நிம்மதியில்லை.",
+  "synonyms": [
+   "uncomfortable",
+   "anxious"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "glad",
+  "meaning": "happy and pleased about something",
+  "tamil": "மகிழ்ச்சியான",
+  "pos": "adjective",
+  "pron": "GLAD",
+  "example": "I am glad you could come today.",
+  "exampleTamil": "நீ இன்று வர முடிந்தது எனக்கு மகிழ்ச்சி.",
+  "synonyms": [
+   "happy",
+   "pleased"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scared",
+  "meaning": "afraid or frightened",
+  "tamil": "பயந்த",
+  "pos": "adjective",
+  "pron": "SKAIRD",
+  "example": "The loud thunder made the kids scared.",
+  "exampleTamil": "பெரிய இடியால் குழந்தைகள் பயந்தனர்.",
+  "synonyms": [
+   "afraid",
+   "frightened"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mad",
+  "meaning": "angry (informal)",
+  "tamil": "கோபமான",
+  "pos": "adjective",
+  "pron": "MAD",
+  "example": "Mom got mad when I came home late.",
+  "exampleTamil": "நான் தாமதமாக வந்ததும் அம்மா கோபப்பட்டாள்.",
+  "synonyms": [
+   "angry",
+   "cross"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "insecure",
+  "meaning": "not confident about yourself",
+  "tamil": "தன்னம்பிக்கை இல்லாத",
+  "pos": "adjective",
+  "pron": "in-sih-KYOOR",
+  "example": "He feels insecure about his English.",
+  "exampleTamil": "தன் ஆங்கிலத்தைப் பற்றி அவனுக்கு தன்னம்பிக்கை இல்லை.",
+  "synonyms": [
+   "unsure",
+   "self-doubting"
+  ],
+  "level": "advanced"
+ }
+]

@@ -1,0 +1,377 @@
+[
+ {
+  "word": "leniency",
+  "meaning": "Kindness in punishing or judging, being less strict than expected",
+  "tamil": "கருணை, தண்டனையில் தளர்வு",
+  "pos": "noun",
+  "pron": "LEE-nee-un-see",
+  "example": "The judge showed leniency because it was his first offence.",
+  "exampleTamil": "அது அவனுடைய முதல் குற்றம் என்பதால் நீதிபதி கருணை காட்டினார்.",
+  "synonyms": [
+   "mercy",
+   "tolerance",
+   "clemency"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "coherence",
+  "meaning": "Being logical and well connected so that it is easy to follow",
+  "tamil": "ஒத்திசைவு, தர்க்க ஒழுங்கு",
+  "pos": "noun",
+  "pron": "koh-HEER-unss",
+  "example": "Your essay lacks coherence; the ideas do not connect.",
+  "exampleTamil": "உங்கள் கட்டுரையில் ஒத்திசைவு இல்லை; கருத்துகள் ஒன்றோடொன்று இணையவில்லை.",
+  "synonyms": [
+   "clarity",
+   "consistency",
+   "unity"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "legitimacy",
+  "meaning": "The quality of being allowed by law or accepted as right",
+  "tamil": "சட்டப்பூர்வத் தன்மை, நியாயத்தன்மை",
+  "pos": "noun",
+  "pron": "luh-JIT-uh-muh-see",
+  "example": "Nobody questioned the legitimacy of the election.",
+  "exampleTamil": "தேர்தலின் சட்டப்பூர்வத் தன்மையை யாரும் கேள்வி கேட்கவில்லை.",
+  "synonyms": [
+   "validity",
+   "lawfulness",
+   "authority"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "prerogative",
+  "meaning": "A special right that belongs to one person or group",
+  "tamil": "தனிச்சிறப்பு உரிமை",
+  "pos": "noun",
+  "pron": "prih-ROG-uh-tiv",
+  "example": "Choosing the team captain is the coach's prerogative.",
+  "exampleTamil": "அணித் தலைவரைத் தேர்ந்தெடுப்பது பயிற்சியாளரின் தனிச்சிறப்பு உரிமை.",
+  "synonyms": [
+   "right",
+   "privilege",
+   "entitlement"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "elucidate",
+  "meaning": "To explain something clearly so it is easy to understand",
+  "tamil": "தெளிவாக விளக்கு",
+  "pos": "verb",
+  "pron": "ih-LOO-suh-dayt",
+  "example": "Could you elucidate the second point in your report?",
+  "exampleTamil": "உங்கள் அறிக்கையின் இரண்டாவது கருத்தை தெளிவாக விளக்க முடியுமா?",
+  "synonyms": [
+   "explain",
+   "clarify",
+   "illustrate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "corroborate",
+  "meaning": "To give evidence that supports what someone said",
+  "tamil": "உறுதிப்படுத்து, சான்றளித்து ஆதரி",
+  "pos": "verb",
+  "pron": "kuh-ROB-uh-rayt",
+  "example": "Two witnesses corroborated his version of the story.",
+  "exampleTamil": "இரண்டு சாட்சிகள் அவனுடைய கூற்றை உறுதிப்படுத்தினர்.",
+  "synonyms": [
+   "confirm",
+   "support",
+   "verify"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "curtail",
+  "meaning": "To reduce or cut short something",
+  "tamil": "குறை, சுருக்கு",
+  "pos": "verb",
+  "pron": "kur-TAYL",
+  "example": "The company had to curtail its spending this year.",
+  "exampleTamil": "நிறுவனம் இந்த ஆண்டு தன் செலவுகளைக் குறைக்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "reduce",
+   "cut",
+   "limit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "augment",
+  "meaning": "To make something larger or greater by adding to it",
+  "tamil": "அதிகரி, கூட்டு",
+  "pos": "verb",
+  "pron": "awg-MENT",
+  "example": "She teaches at night to augment her income.",
+  "exampleTamil": "தன் வருமானத்தைக் கூட்ட அவள் இரவில் பாடம் நடத்துகிறாள்.",
+  "synonyms": [
+   "increase",
+   "boost",
+   "supplement"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "relinquish",
+  "meaning": "To give up something such as power or a right",
+  "tamil": "விட்டுக்கொடு, துறந்துவிடு",
+  "pos": "verb",
+  "pron": "rih-LING-kwish",
+  "example": "He refused to relinquish control of the family business.",
+  "exampleTamil": "குடும்பத் தொழிலின் கட்டுப்பாட்டை விட்டுக்கொடுக்க அவன் மறுத்தான்.",
+  "synonyms": [
+   "surrender",
+   "give up",
+   "renounce"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "perpetuate",
+  "meaning": "To make a bad situation or belief continue",
+  "tamil": "தொடர்ந்து நிலைக்கச் செய்",
+  "pos": "verb",
+  "pron": "pur-PECH-oo-ayt",
+  "example": "Such jokes only perpetuate unfair stereotypes about people.",
+  "exampleTamil": "இத்தகைய நகைச்சுவைகள் மக்களைப் பற்றிய நியாயமற்ற முன்முடிவுகளையே தொடர வைக்கின்றன.",
+  "synonyms": [
+   "continue",
+   "preserve",
+   "prolong"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "transcend",
+  "meaning": "To go beyond the usual limits of something",
+  "tamil": "கடந்து செல், மீறி உயர்",
+  "pos": "verb",
+  "pron": "tran-SEND",
+  "example": "Good music can transcend language and culture.",
+  "exampleTamil": "நல்ல இசை மொழியையும் கலாச்சாரத்தையும் கடந்து செல்லும்.",
+  "synonyms": [
+   "surpass",
+   "exceed",
+   "rise above"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "coerce",
+  "meaning": "To force someone to do something by using threats",
+  "tamil": "மிரட்டிக் கட்டாயப்படுத்து",
+  "pos": "verb",
+  "pron": "koh-URSS",
+  "example": "No one should be coerced into signing a contract.",
+  "exampleTamil": "ஒப்பந்தத்தில் கையெழுத்திட யாரையும் மிரட்டிக் கட்டாயப்படுத்தக் கூடாது.",
+  "synonyms": [
+   "force",
+   "pressure",
+   "compel"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "refute",
+  "meaning": "To prove that a statement or idea is wrong",
+  "tamil": "மறுத்து நிரூபி, பொய்யெனக் காட்டு",
+  "pos": "verb",
+  "pron": "rih-FYOOT",
+  "example": "The data refutes the claim that sales have fallen.",
+  "exampleTamil": "விற்பனை குறைந்துவிட்டது என்ற கூற்றை இந்தத் தரவு மறுக்கிறது.",
+  "synonyms": [
+   "disprove",
+   "rebut",
+   "contradict"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "impede",
+  "meaning": "To slow down or block the progress of something",
+  "tamil": "தடுத்து மெதுவாக்கு, முட்டுக்கட்டை போடு",
+  "pos": "verb",
+  "pron": "im-PEED",
+  "example": "Heavy rain impeded the rescue work in the area.",
+  "exampleTamil": "கனமழை அந்தப் பகுதியில் மீட்புப் பணிகளைத் தடுத்தது.",
+  "synonyms": [
+   "hinder",
+   "obstruct",
+   "delay"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "instigate",
+  "meaning": "To cause something bad to start, such as a fight",
+  "tamil": "தூண்டிவிடு, தொடங்கி வை",
+  "pos": "verb",
+  "pron": "IN-stuh-gayt",
+  "example": "Police believe two men instigated the fight at the market.",
+  "exampleTamil": "சந்தையில் நடந்த சண்டையை இரண்டு ஆண்கள் தூண்டிவிட்டதாக காவல்துறை நம்புகிறது.",
+  "synonyms": [
+   "provoke",
+   "incite",
+   "trigger"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "jeopardize",
+  "meaning": "To put something in danger of being lost or harmed",
+  "tamil": "ஆபத்தில் தள்ளு, பாதிக்கச் செய்",
+  "pos": "verb",
+  "pron": "JEP-ur-dyz",
+  "example": "One careless mistake could jeopardize the whole project.",
+  "exampleTamil": "ஒரு கவனக்குறைவான தவறு முழுத் திட்டத்தையும் ஆபத்தில் தள்ளக்கூடும்.",
+  "synonyms": [
+   "endanger",
+   "risk",
+   "threaten"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "juxtapose",
+  "meaning": "To place two different things together to show the contrast",
+  "tamil": "அருகருகே வைத்து வேறுபாடு காட்டு",
+  "pos": "verb",
+  "pron": "JUK-stuh-pohz",
+  "example": "The photographer juxtaposed rich homes with slums in one picture.",
+  "exampleTamil": "புகைப்படக்காரர் ஒரே படத்தில் பணக்கார வீடுகளையும் குடிசைகளையும் அருகருகே காட்டினார்.",
+  "synonyms": [
+   "contrast",
+   "compare",
+   "place side by side"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "negate",
+  "meaning": "To cancel the effect of something or make it useless",
+  "tamil": "பயனற்றதாக்கு, செல்லாததாக்கு",
+  "pos": "verb",
+  "pron": "nih-GAYT",
+  "example": "Eating junk food can negate the benefits of exercise.",
+  "exampleTamil": "நொறுக்குத் தீனி சாப்பிடுவது உடற்பயிற்சியின் பலன்களை பயனற்றதாக்கிவிடும்.",
+  "synonyms": [
+   "cancel",
+   "nullify",
+   "undo"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pervade",
+  "meaning": "To spread through and be felt in every part of something",
+  "tamil": "எங்கும் பரவு, ஊடுருவு",
+  "pos": "verb",
+  "pron": "pur-VAYD",
+  "example": "A feeling of joy pervaded the whole village during the festival.",
+  "exampleTamil": "திருவிழாவின்போது மகிழ்ச்சி உணர்வு கிராமம் முழுவதும் பரவியது.",
+  "synonyms": [
+   "fill",
+   "permeate",
+   "spread through"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "preclude",
+  "meaning": "To make something impossible or prevent it from happening",
+  "tamil": "நடக்கவிடாமல் தடுத்துவிடு",
+  "pos": "verb",
+  "pron": "prih-KLOOD",
+  "example": "His injury precludes him from playing this season.",
+  "exampleTamil": "அவனுடைய காயம் இந்தப் பருவத்தில் விளையாட முடியாமல் தடுக்கிறது.",
+  "synonyms": [
+   "prevent",
+   "rule out",
+   "exclude"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "proliferate",
+  "meaning": "To increase quickly in number",
+  "tamil": "வேகமாகப் பெருகு",
+  "pos": "verb",
+  "pron": "pruh-LIF-uh-rayt",
+  "example": "Mobile apps have proliferated over the past decade.",
+  "exampleTamil": "கடந்த பத்தாண்டுகளில் கைபேசி செயலிகள் வேகமாகப் பெருகியுள்ளன.",
+  "synonyms": [
+   "multiply",
+   "spread",
+   "mushroom"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vindicate",
+  "meaning": "To prove that someone was right or not guilty",
+  "tamil": "குற்றமற்றவர் என நிரூபி, நியாயப்படுத்து",
+  "pos": "verb",
+  "pron": "VIN-duh-kayt",
+  "example": "The new evidence vindicated the accused man.",
+  "exampleTamil": "புதிய சான்று குற்றம்சாட்டப்பட்டவனை குற்றமற்றவன் என நிரூபித்தது.",
+  "synonyms": [
+   "clear",
+   "justify",
+   "absolve"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tenable",
+  "meaning": "Able to be defended or believed as reasonable",
+  "tamil": "ஏற்கத்தக்க, நியாயப்படுத்தக்கூடிய",
+  "pos": "adjective",
+  "pron": "TEN-uh-bul",
+  "example": "Your argument is not tenable without any proof.",
+  "exampleTamil": "எந்தச் சான்றும் இல்லாமல் உங்கள் வாதம் ஏற்கத்தக்கதல்ல.",
+  "synonyms": [
+   "defensible",
+   "reasonable",
+   "sound"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "revoke",
+  "meaning": "To officially cancel a law, licence or decision",
+  "tamil": "ரத்து செய், திரும்பப் பெறு",
+  "pos": "verb",
+  "pron": "rih-VOHK",
+  "example": "The authorities revoked the shop's licence last week.",
+  "exampleTamil": "அதிகாரிகள் கடந்த வாரம் அந்தக் கடையின் உரிமத்தை ரத்து செய்தனர்.",
+  "synonyms": [
+   "cancel",
+   "withdraw",
+   "repeal"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "thwart",
+  "meaning": "To stop someone from doing what they planned",
+  "tamil": "முறியடி, தடுத்து நிறுத்து",
+  "pos": "verb",
+  "pron": "THWORT",
+  "example": "Bad weather thwarted our plan to climb the hill.",
+  "exampleTamil": "மோசமான வானிலை மலை ஏறும் எங்கள் திட்டத்தை முறியடித்தது.",
+  "synonyms": [
+   "foil",
+   "frustrate",
+   "block"
+  ],
+  "level": "advanced"
+ }
+]

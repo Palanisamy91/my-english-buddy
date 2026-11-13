@@ -1,0 +1,377 @@
+[
+ {
+  "word": "fastidious",
+  "meaning": "Very careful about details and hard to please",
+  "tamil": "நுணுக்கமாகப் பார்க்கும், மிகத் தேர்ந்தெடுக்கும்",
+  "pos": "adjective",
+  "pron": "fa-STID-ee-us",
+  "example": "She is fastidious about keeping her kitchen spotless.",
+  "exampleTamil": "தன் சமையலறையை மிகத் தூய்மையாக வைப்பதில் அவள் நுணுக்கமாக இருப்பாள்.",
+  "synonyms": [
+   "fussy",
+   "meticulous",
+   "particular"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "waive",
+  "meaning": "To choose not to demand a fee, right or rule",
+  "tamil": "விலக்கு அளி, கைவிடு",
+  "pos": "verb",
+  "pron": "WAYV",
+  "example": "The bank agreed to waive the late payment fee.",
+  "exampleTamil": "தாமதக் கட்டணத்தை விலக்கிக் கொள்ள வங்கி ஒப்புக்கொண்டது.",
+  "synonyms": [
+   "drop",
+   "forgo",
+   "cancel"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "adamant",
+  "meaning": "Refusing to change your mind, very firm",
+  "tamil": "பிடிவாதமாக உறுதியான",
+  "pos": "adjective",
+  "pron": "AD-uh-munt",
+  "example": "She was adamant that she would not sell the house.",
+  "exampleTamil": "வீட்டை விற்கவே மாட்டேன் என்று அவள் பிடிவாதமாக இருந்தாள்.",
+  "synonyms": [
+   "firm",
+   "insistent",
+   "unyielding"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cohesive",
+  "meaning": "Closely united and working well together as one",
+  "tamil": "ஒன்றிணைந்த, ஒருங்கிணைந்த",
+  "pos": "adjective",
+  "pron": "koh-HEE-siv",
+  "example": "A cohesive team can handle almost any problem.",
+  "exampleTamil": "ஒன்றிணைந்த குழுவால் கிட்டத்தட்ட எந்தப் பிரச்சினையையும் கையாள முடியும்.",
+  "synonyms": [
+   "united",
+   "unified",
+   "connected"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "conspicuous",
+  "meaning": "Easy to see or notice because it stands out",
+  "tamil": "தெளிவாகத் தெரியும், எளிதில் கண்ணில்படும்",
+  "pos": "adjective",
+  "pron": "kun-SPIK-yoo-us",
+  "example": "His bright orange jacket made him conspicuous in the crowd.",
+  "exampleTamil": "அவனுடைய பளிச்சிடும் ஆரஞ்சு சட்டை கூட்டத்தில் அவனை தனித்துக் காட்டியது.",
+  "synonyms": [
+   "noticeable",
+   "obvious",
+   "striking"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "haphazard",
+  "meaning": "Done without any plan or order",
+  "tamil": "திட்டமில்லாத, ஒழுங்கற்ற",
+  "pos": "adjective",
+  "pron": "hap-HAZ-urd",
+  "example": "Books were piled in a haphazard way on his desk.",
+  "exampleTamil": "அவன் மேசையில் புத்தகங்கள் ஒழுங்கின்றி குவிக்கப்பட்டிருந்தன.",
+  "synonyms": [
+   "random",
+   "disorganised",
+   "careless"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ominous",
+  "meaning": "Giving a sign that something bad may happen",
+  "tamil": "அபசகுனமான, ஆபத்தை உணர்த்தும்",
+  "pos": "adjective",
+  "pron": "OM-uh-nus",
+  "example": "Dark ominous clouds gathered before the storm.",
+  "exampleTamil": "புயலுக்கு முன் ஆபத்தை உணர்த்தும் கருமேகங்கள் திரண்டன.",
+  "synonyms": [
+   "threatening",
+   "sinister",
+   "menacing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "poignant",
+  "meaning": "Causing a strong feeling of sadness or sympathy",
+  "tamil": "நெஞ்சைத் தொடும், உருக்கமான",
+  "pos": "adjective",
+  "pron": "POYN-yunt",
+  "example": "The film ended with a poignant farewell scene.",
+  "exampleTamil": "படம் நெஞ்சைத் தொடும் பிரியாவிடைக் காட்சியுடன் முடிந்தது.",
+  "synonyms": [
+   "touching",
+   "moving",
+   "emotional"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "prolific",
+  "meaning": "Producing a lot of work, ideas or results",
+  "tamil": "மிகுதியாகப் படைக்கும்",
+  "pos": "adjective",
+  "pron": "pruh-LIF-ik",
+  "example": "She is a prolific writer with over fifty books.",
+  "exampleTamil": "ஐம்பதுக்கும் மேற்பட்ட புத்தகங்கள் எழுதிய அவள் மிகுதியாகப் படைக்கும் எழுத்தாளர்.",
+  "synonyms": [
+   "productive",
+   "fruitful",
+   "creative"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scrupulous",
+  "meaning": "Very careful to be honest and correct in every detail",
+  "tamil": "மிகுந்த நேர்மையும் கவனமும் கொண்ட",
+  "pos": "adjective",
+  "pron": "SKROO-pyuh-lus",
+  "example": "He is scrupulous about paying all his taxes on time.",
+  "exampleTamil": "தன் எல்லா வரிகளையும் சரியான நேரத்தில் செலுத்துவதில் அவன் மிகுந்த கவனமும் நேர்மையும் கொண்டவன்.",
+  "synonyms": [
+   "meticulous",
+   "honest",
+   "careful"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "whimsical",
+  "meaning": "Playful and unusual in a charming, unpredictable way",
+  "tamil": "விளையாட்டுத்தனமான, வினோதமான",
+  "pos": "adjective",
+  "pron": "WIM-zih-kul",
+  "example": "The cafe has a whimsical design with colourful chairs.",
+  "exampleTamil": "அந்த உணவகம் வண்ண நாற்காலிகளுடன் வினோதமான வடிவமைப்பு கொண்டது.",
+  "synonyms": [
+   "playful",
+   "quirky",
+   "fanciful"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "zealous",
+  "meaning": "Full of great energy and enthusiasm for a cause",
+  "tamil": "தீவிர ஆர்வமுள்ள",
+  "pos": "adjective",
+  "pron": "ZEL-us",
+  "example": "The zealous volunteers worked all night to clean the beach.",
+  "exampleTamil": "தீவிர ஆர்வமுள்ள தன்னார்வலர்கள் கடற்கரையைச் சுத்தம் செய்ய இரவு முழுவதும் உழைத்தனர்.",
+  "synonyms": [
+   "enthusiastic",
+   "passionate",
+   "eager"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "adversary",
+  "meaning": "A person or team you compete or fight against",
+  "tamil": "எதிரி, போட்டியாளர்",
+  "pos": "noun",
+  "pron": "AD-vur-sair-ee",
+  "example": "India faced its old adversary in the final match.",
+  "exampleTamil": "இறுதிப் போட்டியில் இந்தியா தன் பழைய எதிரியை எதிர்கொண்டது.",
+  "synonyms": [
+   "opponent",
+   "rival",
+   "enemy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exemplar",
+  "meaning": "A person or thing that is a perfect example to follow",
+  "tamil": "சிறந்த முன்மாதிரி",
+  "pos": "noun",
+  "pron": "ig-ZEM-plar",
+  "example": "Dr Kalam remains an exemplar of humility and hard work.",
+  "exampleTamil": "டாக்டர் கலாம் பணிவுக்கும் கடின உழைப்புக்கும் இன்றும் சிறந்த முன்மாதிரியாக இருக்கிறார்.",
+  "synonyms": [
+   "model",
+   "paragon",
+   "ideal"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "facet",
+  "meaning": "One part or side of a subject or situation",
+  "tamil": "ஒரு பக்கம், அம்சம்",
+  "pos": "noun",
+  "pron": "FAS-it",
+  "example": "Every facet of the problem needs careful study.",
+  "exampleTamil": "பிரச்சினையின் ஒவ்வொரு அம்சமும் கவனமான ஆய்வுக்கு உரியது.",
+  "synonyms": [
+   "aspect",
+   "side",
+   "feature"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "impetus",
+  "meaning": "A force or reason that makes something start or grow faster",
+  "tamil": "உந்துசக்தி, தூண்டுதல்",
+  "pos": "noun",
+  "pron": "IM-puh-tus",
+  "example": "The new law gave fresh impetus to solar energy projects.",
+  "exampleTamil": "புதிய சட்டம் சூரிய மின்சாரத் திட்டங்களுக்குப் புதிய உந்துசக்தி அளித்தது.",
+  "synonyms": [
+   "boost",
+   "stimulus",
+   "momentum"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "repercussion",
+  "meaning": "An indirect, often unpleasant result of an action",
+  "tamil": "மறைமுக விளைவு, பின்விளைவு",
+  "pos": "noun",
+  "pron": "ree-pur-KUSH-un",
+  "example": "Cutting the budget may have serious repercussions later.",
+  "exampleTamil": "பட்ஜெட்டைக் குறைப்பது பின்னர் கடுமையான பின்விளைவுகளை ஏற்படுத்தலாம்.",
+  "synonyms": [
+   "consequence",
+   "aftermath",
+   "effect"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stigma",
+  "meaning": "A shame that society attaches to something or someone",
+  "tamil": "சமூகக் களங்கம், இழிவு",
+  "pos": "noun",
+  "pron": "STIG-muh",
+  "example": "There is still a stigma around talking about mental health.",
+  "exampleTamil": "மனநலம் பற்றிப் பேசுவதைச் சுற்றி இன்னும் சமூகக் களங்கம் உள்ளது.",
+  "synonyms": [
+   "shame",
+   "disgrace",
+   "taboo"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ephemeral",
+  "meaning": "Lasting for only a very short time",
+  "tamil": "நிலையற்ற, குறுகிய காலமே நீடிக்கும்",
+  "pos": "adjective",
+  "pron": "ih-FEM-ur-ul",
+  "example": "Fame on social media can be ephemeral.",
+  "exampleTamil": "சமூக வலைதளப் புகழ் நிலையற்றதாக இருக்கலாம்.",
+  "synonyms": [
+   "fleeting",
+   "brief",
+   "temporary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gregarious",
+  "meaning": "Friendly and fond of being with other people",
+  "tamil": "பழக விரும்பும், கலகலப்பான",
+  "pos": "adjective",
+  "pron": "grih-GAIR-ee-us",
+  "example": "My gregarious uncle makes friends wherever he goes.",
+  "exampleTamil": "கலகலப்பான என் மாமா போகும் இடமெல்லாம் நண்பர்களை உருவாக்குகிறார்.",
+  "synonyms": [
+   "sociable",
+   "outgoing",
+   "friendly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reticent",
+  "meaning": "Not willing to share your thoughts or feelings",
+  "tamil": "மனம் திறந்து பேசாத, அடக்கமான",
+  "pos": "adjective",
+  "pron": "RET-uh-sunt",
+  "example": "He is reticent about his personal life at work.",
+  "exampleTamil": "வேலையிடத்தில் அவன் தன் தனிப்பட்ட வாழ்க்கை பற்றி மனம் திறந்து பேசமாட்டான்.",
+  "synonyms": [
+   "reserved",
+   "quiet",
+   "private"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "futile",
+  "meaning": "Having no chance of success, a waste of effort",
+  "tamil": "பயனற்ற, வீணான",
+  "pos": "adjective",
+  "pron": "FYOO-tul",
+  "example": "It is futile to argue with someone who will not listen.",
+  "exampleTamil": "கேட்க மறுப்பவரிடம் வாதிடுவது பயனற்றது.",
+  "synonyms": [
+   "useless",
+   "pointless",
+   "vain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "incessant",
+  "meaning": "Continuing without stopping, often in an annoying way",
+  "tamil": "இடைவிடாத, தொடர்ச்சியான",
+  "pos": "adjective",
+  "pron": "in-SES-unt",
+  "example": "The incessant noise from the road kept me awake.",
+  "exampleTamil": "சாலையிலிருந்து வந்த இடைவிடாத சத்தம் என்னைத் தூங்கவிடவில்லை.",
+  "synonyms": [
+   "constant",
+   "endless",
+   "continuous"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sporadic",
+  "meaning": "Happening only now and then, not regularly",
+  "tamil": "அவ்வப்போது நிகழும், ஒழுங்கற்ற இடைவெளியில்",
+  "pos": "adjective",
+  "pron": "spuh-RAD-ik",
+  "example": "There were sporadic power cuts during the night.",
+  "exampleTamil": "இரவு நேரத்தில் அவ்வப்போது மின்வெட்டுகள் ஏற்பட்டன.",
+  "synonyms": [
+   "occasional",
+   "irregular",
+   "scattered"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stoic",
+  "meaning": "Staying calm and not complaining when things are hard",
+  "tamil": "துன்பத்திலும் அமைதியாக இருக்கும்",
+  "pos": "adjective",
+  "pron": "STOH-ik",
+  "example": "He stayed stoic even after hearing the bad news.",
+  "exampleTamil": "கெட்ட செய்தியைக் கேட்ட பின்னும் அவன் அமைதியாகவே இருந்தான்.",
+  "synonyms": [
+   "calm",
+   "unemotional",
+   "patient"
+  ],
+  "level": "advanced"
+ }
+]

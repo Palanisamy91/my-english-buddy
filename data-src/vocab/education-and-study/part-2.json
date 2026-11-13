@@ -1,0 +1,344 @@
+[
+ {
+  "word": "topper",
+  "meaning": "A student who gets the highest marks in a class or exam.",
+  "tamil": "முதல் மதிப்பெண் பெற்றவர்",
+  "pos": "noun",
+  "pron": "TOP-ur",
+  "example": "Priya is the topper of our class this year.",
+  "exampleTamil": "இந்த ஆண்டு எங்கள் வகுப்பில் பிரியா முதல் மதிப்பெண் பெற்றவர்.",
+  "synonyms": [
+   "top scorer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rank",
+  "meaning": "A position in a list based on marks or performance.",
+  "tamil": "தரவரிசை இடம்",
+  "pos": "noun",
+  "pron": "RANK",
+  "example": "She secured the third rank in the district.",
+  "exampleTamil": "அவள் மாவட்டத்தில் மூன்றாம் இடம் பெற்றாள்.",
+  "synonyms": [
+   "position",
+   "place"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tuition",
+  "meaning": "Extra teaching given to a student outside school.",
+  "tamil": "சிறப்பு வகுப்பு",
+  "pos": "noun",
+  "pron": "too-ISH-un",
+  "example": "My son goes for maths tuition after school.",
+  "exampleTamil": "என் மகன் பள்ளிக்குப் பிறகு கணிதச் சிறப்பு வகுப்புக்குப் போகிறான்.",
+  "synonyms": [
+   "coaching",
+   "private lessons"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tutor",
+  "meaning": "A private teacher who helps one or a few students.",
+  "tamil": "தனிப்பயிற்சி ஆசிரியர்",
+  "pos": "noun",
+  "pron": "TOO-tur",
+  "example": "We hired a tutor to help my sister with chemistry.",
+  "exampleTamil": "என் தங்கைக்கு வேதியியலில் உதவ நாங்கள் ஒரு தனிப்பயிற்சி ஆசிரியரை அமர்த்தினோம்.",
+  "synonyms": [
+   "private teacher"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bench",
+  "meaning": "A long seat for several students in a classroom.",
+  "tamil": "பெஞ்சு",
+  "pos": "noun",
+  "pron": "BENCH",
+  "example": "Four students can sit on one bench.",
+  "exampleTamil": "ஒரு பெஞ்சில் நான்கு மாணவர்கள் உட்காரலாம்.",
+  "synonyms": [
+   "long seat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "classmate",
+  "meaning": "A student who is in the same class as you.",
+  "tamil": "வகுப்புத் தோழர்",
+  "pos": "noun",
+  "pron": "KLAS-mayt",
+  "example": "My classmate lent me her notes yesterday.",
+  "exampleTamil": "என் வகுப்புத் தோழி நேற்று தன் குறிப்புகளை எனக்குக் கொடுத்தாள்.",
+  "synonyms": [
+   "schoolmate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "assembly",
+  "meaning": "A meeting of the whole school, usually in the morning.",
+  "tamil": "காலைக் கூட்டம்",
+  "pos": "noun",
+  "pron": "uh-SEM-blee",
+  "example": "The students sing the prayer song at assembly.",
+  "exampleTamil": "மாணவர்கள் காலைக் கூட்டத்தில் பிரார்த்தனைப் பாடல் பாடுகிறார்கள்.",
+  "synonyms": [
+   "gathering",
+   "morning meeting"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "schoolbag",
+  "meaning": "A bag in which students carry their books.",
+  "tamil": "பள்ளிப் பை",
+  "pos": "noun",
+  "pron": "SKOOL-bag",
+  "example": "His schoolbag is too heavy for a small boy.",
+  "exampleTamil": "ஒரு சிறுவனுக்கு அவனது பள்ளிப் பை மிகவும் கனமாக உள்ளது.",
+  "synonyms": [
+   "bag",
+   "satchel"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "paragraph",
+  "meaning": "A group of sentences about one idea in a piece of writing.",
+  "tamil": "பத்தி",
+  "pos": "noun",
+  "pron": "PAIR-uh-graf",
+  "example": "Write one paragraph about your best friend.",
+  "exampleTamil": "உங்கள் சிறந்த நண்பரைப் பற்றி ஒரு பத்தி எழுதுங்கள்.",
+  "synonyms": [
+   "passage",
+   "section"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "grade",
+  "meaning": "A letter or number showing how good a student's work is.",
+  "tamil": "தரம், தரநிலை",
+  "pos": "noun",
+  "pron": "GRAYD",
+  "example": "He got an A grade in physics.",
+  "exampleTamil": "அவன் இயற்பியலில் A தரம் பெற்றான்.",
+  "synonyms": [
+   "mark",
+   "score"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "semester",
+  "meaning": "Half of an academic year in a college or university.",
+  "tamil": "பருவம் (செமஸ்டர்)",
+  "pos": "noun",
+  "pron": "suh-MES-tur",
+  "example": "The second semester begins in January.",
+  "exampleTamil": "இரண்டாவது பருவம் ஜனவரியில் தொடங்குகிறது.",
+  "synonyms": [
+   "term"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "syllabus",
+  "meaning": "The list of topics a course or exam covers.",
+  "tamil": "பாடத்திட்டம்",
+  "pos": "noun",
+  "pron": "SIL-uh-bus",
+  "example": "Please check the syllabus before you start preparing.",
+  "exampleTamil": "தயாராகத் தொடங்கும் முன் பாடத்திட்டத்தைப் பாருங்கள்.",
+  "synonyms": [
+   "course outline"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "professor",
+  "meaning": "A senior teacher at a university.",
+  "tamil": "பேராசிரியர்",
+  "pos": "noun",
+  "pron": "pruh-FES-ur",
+  "example": "The professor gave a talk on climate change.",
+  "exampleTamil": "பேராசிரியர் காலநிலை மாற்றம் பற்றி உரையாற்றினார்.",
+  "synonyms": [
+   "don",
+   "academic"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lecturer",
+  "meaning": "A teacher who gives talks to students at a college.",
+  "tamil": "விரிவுரையாளர்",
+  "pos": "noun",
+  "pron": "LEK-chur-ur",
+  "example": "My aunt works as a lecturer in a women's college.",
+  "exampleTamil": "என் அத்தை ஒரு மகளிர் கல்லூரியில் விரிவுரையாளராகப் பணிபுரிகிறார்.",
+  "synonyms": [
+   "teacher",
+   "instructor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "faculty",
+  "meaning": "The teaching staff of a school or college.",
+  "tamil": "ஆசிரியர் குழு",
+  "pos": "noun",
+  "pron": "FAK-ul-tee",
+  "example": "The faculty met to discuss the new timetable.",
+  "exampleTamil": "புதிய கால அட்டவணை பற்றி விவாதிக்க ஆசிரியர் குழு கூடியது.",
+  "synonyms": [
+   "staff",
+   "teachers"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "undergraduate",
+  "meaning": "A student studying for a first degree at a college.",
+  "tamil": "இளநிலை மாணவர்",
+  "pos": "noun",
+  "pron": "un-dur-GRAJ-oo-ut",
+  "example": "He is an undergraduate in computer science.",
+  "exampleTamil": "அவர் கணினி அறிவியலில் இளநிலை மாணவர்.",
+  "synonyms": [
+   "degree student"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scholar",
+  "meaning": "A person who studies a subject deeply or has a scholarship.",
+  "tamil": "அறிஞர், கல்வியாளர்",
+  "pos": "noun",
+  "pron": "SKOL-ur",
+  "example": "He is a well-known scholar of Tamil literature.",
+  "exampleTamil": "அவர் தமிழ் இலக்கியத்தின் புகழ்பெற்ற அறிஞர்.",
+  "synonyms": [
+   "academic",
+   "expert"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "researcher",
+  "meaning": "A person who studies a subject carefully to find new facts.",
+  "tamil": "ஆராய்ச்சியாளர்",
+  "pos": "noun",
+  "pron": "ri-SUR-chur",
+  "example": "The researcher spent five years studying river water.",
+  "exampleTamil": "ஆராய்ச்சியாளர் ஐந்து ஆண்டுகள் ஆற்றுநீரை ஆய்வு செய்தார்.",
+  "synonyms": [
+   "investigator",
+   "analyst"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "research",
+  "meaning": "Careful study of a subject to find new facts.",
+  "tamil": "ஆராய்ச்சி",
+  "pos": "noun",
+  "pron": "REE-surch",
+  "example": "She is doing research on plant diseases.",
+  "exampleTamil": "அவள் தாவர நோய்களைப் பற்றி ஆராய்ச்சி செய்து வருகிறாள்.",
+  "synonyms": [
+   "investigation",
+   "study"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "experiment",
+  "meaning": "A scientific test done to learn or prove something.",
+  "tamil": "சோதனை",
+  "pos": "noun",
+  "pron": "ik-SPAIR-uh-munt",
+  "example": "We did a simple experiment with magnets in class.",
+  "exampleTamil": "நாங்கள் வகுப்பில் காந்தங்களுடன் ஒரு எளிய சோதனை செய்தோம்.",
+  "synonyms": [
+   "test",
+   "trial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "laboratory",
+  "meaning": "A room where scientists do experiments and tests.",
+  "tamil": "ஆய்வகம்",
+  "pos": "noun",
+  "pron": "LAB-ruh-tor-ee",
+  "example": "Students must wear a coat in the laboratory.",
+  "exampleTamil": "ஆய்வகத்தில் மாணவர்கள் கோட் அணிய வேண்டும்.",
+  "synonyms": [
+   "lab"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "theory",
+  "meaning": "An idea or set of ideas that explains how something works.",
+  "tamil": "கோட்பாடு",
+  "pos": "noun",
+  "pron": "THEER-ee",
+  "example": "We learned the theory first and then did the practical.",
+  "exampleTamil": "நாங்கள் முதலில் கோட்பாட்டைக் கற்றோம், பிறகு செய்முறை செய்தோம்.",
+  "synonyms": [
+   "principle",
+   "idea"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "concept",
+  "meaning": "An idea or basic understanding of something.",
+  "tamil": "கருத்து, கருத்தியல்",
+  "pos": "noun",
+  "pron": "KON-sept",
+  "example": "The teacher used a picture to explain the concept.",
+  "exampleTamil": "ஆசிரியர் அந்தக் கருத்தை விளக்க ஒரு படத்தைப் பயன்படுத்தினார்.",
+  "synonyms": [
+   "idea",
+   "notion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "formula",
+  "meaning": "A rule written with letters or numbers, used in maths and science.",
+  "tamil": "சூத்திரம்",
+  "pos": "noun",
+  "pron": "FOR-myuh-luh",
+  "example": "I always forget the formula for the area of a circle.",
+  "exampleTamil": "வட்டத்தின் பரப்பளவுக்கான சூத்திரத்தை நான் எப்போதும் மறந்து விடுகிறேன்.",
+  "synonyms": [
+   "rule",
+   "equation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "equation",
+  "meaning": "A maths statement showing two things are equal.",
+  "tamil": "சமன்பாடு",
+  "pos": "noun",
+  "pron": "ih-KWAY-zhun",
+  "example": "Solve this equation and show your steps.",
+  "exampleTamil": "இந்தச் சமன்பாட்டைத் தீர்த்து உங்கள் படிகளைக் காட்டுங்கள்.",
+  "synonyms": [
+   "sum",
+   "formula"
+  ],
+  "level": "intermediate"
+ }
+]

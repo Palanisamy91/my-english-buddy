@@ -1,0 +1,412 @@
+[
+ {
+  "en": "Someone changed the configuration without telling us.",
+  "tamil": "யாரோ எங்களிடம் சொல்லாமல் configuration-ஐ மாற்றிவிட்டார்கள்.",
+  "context": "Explaining an unexpected change",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I didn't change anything before the error started.",
+  "tamil": "பிழை தொடங்கும் முன் நான் எதையும் மாற்றவில்லை.",
+  "context": "Defending yourself during diagnosis",
+  "tense": "past",
+  "type": "negative",
+  "alt": {
+   "en": "I made no changes before the error began.",
+   "tamil": "பிழை தொடங்கும் முன் நான் எந்த மாற்றமும் செய்யவில்லை."
+  }
+ },
+ {
+  "en": "We didn't get any alert when the server crashed.",
+  "tamil": "சர்வர் crash ஆனபோது எங்களுக்கு எந்த எச்சரிக்கையும் வரவில்லை.",
+  "context": "Pointing out a monitoring gap",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "The customer reported the problem at nine.",
+  "tamil": "வாடிக்கையாளர் ஒன்பது மணிக்கு இந்தச் சிக்கலைப் புகாரளித்தார்.",
+  "context": "Giving an incident timeline",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I updated the library, and the error disappeared.",
+  "tamil": "Library-ஐ update செய்தேன், பிழை மறைந்துவிட்டது.",
+  "context": "Explaining how a fix worked",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "The backup job stopped working last week.",
+  "tamil": "Backup job கடந்த வாரம் வேலை செய்வதை நிறுத்தியது.",
+  "context": "Reporting a missed backup",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I pulled the latest code and rebuilt the project.",
+  "tamil": "சமீபத்திய கோடை pull செய்து project-ஐ மீண்டும் build செய்தேன்.",
+  "context": "Telling what you tried",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "We restored the data from yesterday's backup.",
+  "tamil": "நேற்றைய backup-இலிருந்து தரவை மீட்டெடுத்தோம்.",
+  "context": "Reporting data recovery",
+  "tense": "past",
+  "type": "statement",
+  "alt": {
+   "en": "We got the data back from yesterday's copy.",
+   "tamil": "நேற்றைய நகலிலிருந்து தரவைத் திரும்பப் பெற்றோம்."
+  }
+ },
+ {
+  "en": "The hotfix went live at midnight.",
+  "tamil": "Hotfix நள்ளிரவில் live ஆனது.",
+  "context": "Reporting a deployment",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I didn't have permission to open the log files.",
+  "tamil": "Log கோப்புகளைத் திறக்க எனக்கு அனுமதி இல்லை.",
+  "context": "Explaining why you couldn't investigate",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "I wasn't able to connect to the VPN this morning.",
+  "tamil": "இன்று காலை என்னால் VPN-உடன் இணைய முடியவில்லை.",
+  "context": "Explaining a delay",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "We couldn't find any error in the application logs.",
+  "tamil": "Application log-களில் எந்தப் பிழையையும் எங்களால் கண்டுபிடிக்க முடியவில்லை.",
+  "context": "Reporting a dead end",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "I never saw this error before the upgrade.",
+  "tamil": "Upgrade-க்கு முன் நான் இந்தப் பிழையை ஒருபோதும் பார்த்ததில்லை.",
+  "context": "Linking an error to an upgrade",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "It will take two days to fix this.",
+  "tamil": "இதைச் சரிசெய்ய இரண்டு நாட்கள் ஆகும்.",
+  "context": "Estimating effort",
+  "tense": "future",
+  "type": "statement",
+  "alt": {
+   "en": "I need two days for this fix.",
+   "tamil": "இந்தத் தீர்வுக்கு எனக்கு இரண்டு நாட்கள் தேவை."
+  }
+ },
+ {
+  "en": "I'll send you the logs in ten minutes.",
+  "tamil": "பத்து நிமிடங்களில் log-களை உங்களுக்கு அனுப்புகிறேன்.",
+  "context": "Promising evidence to a colleague",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "We're going to deploy the fix tonight.",
+  "tamil": "இன்றிரவு தீர்வை deploy செய்யப் போகிறோம்.",
+  "context": "Announcing a release plan",
+  "tense": "future",
+  "type": "statement",
+  "alt": {
+   "en": "The fix goes live tonight.",
+   "tamil": "தீர்வு இன்றிரவு live ஆகும்."
+  }
+ },
+ {
+  "en": "I'll look into it right after lunch.",
+  "tamil": "மதிய உணவுக்குப் பிறகு உடனே இதைப் பார்க்கிறேன்.",
+  "context": "Committing to investigate",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "The fix will be live by the evening.",
+  "tamil": "தீர்வு மாலைக்குள் live ஆகிவிடும்.",
+  "context": "Giving an ETA to a manager",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I'll let you know as soon as I find something.",
+  "tamil": "ஏதாவது கண்டுபிடித்தவுடன் உங்களுக்குத் தெரிவிக்கிறேன்.",
+  "context": "Promising an update",
+  "tense": "future",
+  "type": "statement",
+  "alt": {
+   "en": "I'll tell you as soon as I know.",
+   "tamil": "தெரிந்தவுடன் சொல்கிறேன்."
+  }
+ },
+ {
+  "en": "We're going to roll back if the error continues.",
+  "tamil": "பிழை தொடர்ந்தால் rollback செய்யப் போகிறோம்.",
+  "context": "Explaining a contingency plan",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "The upgrade won't affect any customers.",
+  "tamil": "Upgrade எந்த வாடிக்கையாளரையும் பாதிக்காது.",
+  "context": "Reassuring a manager",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "I won't be able to finish the fix today.",
+  "tamil": "இன்று என்னால் தீர்வை முடிக்க முடியாது.",
+  "context": "Warning about a delay",
+  "tense": "future",
+  "type": "negative",
+  "alt": {
+   "en": "The fix will not be ready today.",
+   "tamil": "தீர்வு இன்று தயாராகாது."
+  }
+ },
+ {
+  "en": "The system will be down for thirty minutes during the update.",
+  "tamil": "Update நேரத்தில் அமைப்பு முப்பது நிமிடங்கள் செயல்படாது.",
+  "context": "Announcing planned downtime",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I'll test it again after the deployment.",
+  "tamil": "Deployment-க்குப் பிறகு மீண்டும் சோதிக்கிறேன்.",
+  "context": "Promising verification",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "We'll need extra time to test the changes.",
+  "tamil": "மாற்றங்களைச் சோதிக்க நமக்கு கூடுதல் நேரம் தேவைப்படும்.",
+  "context": "Asking for more time",
+  "tense": "future",
+  "type": "statement",
+  "alt": {
+   "en": "We need more time for testing.",
+   "tamil": "சோதனைக்கு நமக்கு இன்னும் நேரம் வேண்டும்."
+  }
+ },
+ {
+  "en": "I'll write a short report about the incident.",
+  "tamil": "சம்பவம் பற்றி ஒரு சிறிய அறிக்கை எழுதுகிறேன்.",
+  "context": "Promising a post-mortem",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "We're going to add more alerts to catch this earlier.",
+  "tamil": "இதை முன்கூட்டியே பிடிக்க இன்னும் எச்சரிக்கைகளைச் சேர்க்கப் போகிறோம்.",
+  "context": "Describing prevention",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "The new version will solve the speed problem.",
+  "tamil": "புதிய பதிப்பு வேகப் பிரச்சினையைத் தீர்க்கும்.",
+  "context": "Promising an improvement",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I'll raise a ticket for the network team.",
+  "tamil": "Network குழுவுக்கு ஒரு ticket போடுகிறேன்.",
+  "context": "Escalating an issue",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "The team will review the code before we release it.",
+  "tamil": "Release செய்வதற்கு முன் குழு கோடை மதிப்பாய்வு செய்யும்.",
+  "context": "Explaining the process",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I'm going to check the database first.",
+  "tamil": "முதலில் database-ஐச் சரிபார்க்கப் போகிறேன்.",
+  "context": "Stating your next step",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "It won't take more than an hour.",
+  "tamil": "இதற்கு ஒரு மணி நேரத்துக்கு மேல் ஆகாது.",
+  "context": "Estimating effort",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "I'll set up a call to walk you through it.",
+  "tamil": "இதை விளக்க ஒரு call ஏற்பாடு செய்கிறேன்.",
+  "context": "Offering a walkthrough",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "We won't release until all the tests pass.",
+  "tamil": "எல்லா test-களும் பாஸ் ஆகும் வரை நாங்கள் release செய்ய மாட்டோம்.",
+  "context": "Stating a release rule",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "I'll share a status update every two hours.",
+  "tamil": "ஒவ்வொரு இரண்டு மணி நேரமும் நிலை அறிவிப்பைப் பகிர்கிறேன்.",
+  "context": "Promising updates during an incident",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "We're going to monitor the server over the weekend.",
+  "tamil": "வார இறுதியில் சர்வரைக் கண்காணிக்கப் போகிறோம்.",
+  "context": "Describing follow-up",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "You'll see the change after you refresh the page.",
+  "tamil": "பக்கத்தை refresh செய்த பிறகு மாற்றத்தைப் பார்ப்பீர்கள்.",
+  "context": "Guiding a user",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I'll update the documentation once the fix is ready.",
+  "tamil": "தீர்வு தயாரானதும் ஆவணத்தை update செய்கிறேன்.",
+  "context": "Promising documentation",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "The patch will be ready for review tomorrow morning.",
+  "tamil": "Patch நாளை காலை மதிப்பாய்வுக்குத் தயாராக இருக்கும்.",
+  "context": "Giving an ETA",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I won't touch the production data without approval.",
+  "tamil": "அனுமதி இல்லாமல் production தரவைத் தொட மாட்டேன்.",
+  "context": "Promising caution",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "This will not happen again after the fix.",
+  "tamil": "தீர்வுக்குப் பிறகு இது மீண்டும் நடக்காது.",
+  "context": "Reassuring a customer",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "I've checked everything, but I still can't find the cause.",
+  "tamil": "எல்லாவற்றையும் சரிபார்த்துவிட்டேன், ஆனாலும் காரணத்தைக் கண்டுபிடிக்க முடியவில்லை.",
+  "context": "Reporting a dead end",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "I've restarted the service twice already.",
+  "tamil": "சேவையை ஏற்கனவே இரண்டு முறை restart செய்துவிட்டேன்.",
+  "context": "Telling what you tried",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "We've fixed the bug, but we haven't deployed it yet.",
+  "tamil": "பிழையைச் சரிசெய்துவிட்டோம், ஆனால் இன்னும் deploy செய்யவில்லை.",
+  "context": "Giving a status update",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "The issue has been happening since Monday.",
+  "tamil": "இந்தச் சிக்கல் திங்கள்கிழமையிலிருந்து நடந்துகொண்டிருக்கிறது.",
+  "context": "Describing when it started",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "I've updated all the packages to the latest version.",
+  "tamil": "எல்லா package-களையும் சமீபத்திய பதிப்புக்கு update செய்துவிட்டேன்.",
+  "context": "Telling what you tried",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "The server has been down for an hour.",
+  "tamil": "சர்வர் ஒரு மணி நேரமாகச் செயல்படவில்லை.",
+  "context": "Reporting an outage",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "We've seen this error a few times before.",
+  "tamil": "இந்தப் பிழையை இதற்கு முன் சில முறை பார்த்திருக்கிறோம்.",
+  "context": "Recognising a known issue",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "I've already sent the logs to your email.",
+  "tamil": "Log-களை ஏற்கனவே உங்கள் மின்னஞ்சலுக்கு அனுப்பிவிட்டேன்.",
+  "context": "Following up on a request",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "Someone has deleted the old backup files.",
+  "tamil": "யாரோ பழைய backup கோப்புகளை அழித்துவிட்டார்கள்.",
+  "context": "Reporting an unexpected change",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "Our team has found the root cause.",
+  "tamil": "எங்கள் குழு மூலக் காரணத்தைக் கண்டுபிடித்துவிட்டது.",
+  "context": "Announcing progress",
+  "tense": "present-perfect",
+  "type": "statement",
+  "alt": {
+   "en": "We now know why it happened.",
+   "tamil": "இது ஏன் நடந்தது என்று இப்போது எங்களுக்குத் தெரியும்."
+  }
+ },
+ {
+  "en": "I've never seen this problem in production before.",
+  "tamil": "இந்தச் சிக்கலை நான் இதற்கு முன் production-ல் பார்த்ததே இல்லை.",
+  "context": "Describing an unusual problem",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "Customers have been complaining since this morning.",
+  "tamil": "வாடிக்கையாளர்கள் இன்று காலையிலிருந்து புகார் செய்து வருகிறார்கள்.",
+  "context": "Describing incident impact",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "The vendor hasn't fixed the bug yet.",
+  "tamil": "Vendor இன்னும் அந்தப் பிழையைச் சரிசெய்யவில்லை.",
+  "context": "Explaining a dependency delay",
+  "tense": "present-perfect",
+  "type": "negative"
+ }
+]

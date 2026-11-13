@@ -1,0 +1,352 @@
+[
+ {
+  "word": "look over",
+  "meaning": "to check something quickly",
+  "tamil": "விரைவாகப் பார்த்துச் சரிபார்",
+  "pos": "phrasal verb",
+  "pron": "luk OH-ver",
+  "example": "Please look over my report before I send it.",
+  "exampleTamil": "நான் அனுப்புவதற்கு முன் என் அறிக்கையைப் பார்த்துவிடுங்கள்.",
+  "synonyms": [
+   "check",
+   "review"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "talk over",
+  "meaning": "to discuss something before deciding",
+  "tamil": "முடிவு எடுக்கும் முன் பேசி விவாதி",
+  "pos": "phrasal verb",
+  "pron": "tawk OH-ver",
+  "example": "Let us talk over the plan at dinner tonight.",
+  "exampleTamil": "இன்றிரவு உணவின்போது திட்டத்தைப் பற்றிப் பேசுவோம்.",
+  "synonyms": [
+   "discuss",
+   "debate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "win over",
+  "meaning": "to make someone agree with you or like you",
+  "tamil": "ஒருவரை உங்கள் பக்கம் ஈர்த்துக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "win OH-ver",
+  "example": "Her kind words can win over any angry customer.",
+  "exampleTamil": "அவளுடைய அன்பான வார்த்தைகள் கோபமான வாடிக்கையாளரை மனம் மாற்றின.",
+  "synonyms": [
+   "persuade",
+   "convince"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fall over",
+  "meaning": "to drop to the ground from standing",
+  "tamil": "நிற்கும் நிலையிலிருந்து கீழே விழு",
+  "pos": "phrasal verb",
+  "pron": "fawl OH-ver",
+  "example": "The tall shelf might fall over if you push it.",
+  "exampleTamil": "நீங்கள் தள்ளினால் உயரமான அலமாரி கீழே விழக்கூடும்.",
+  "synonyms": [
+   "topple",
+   "collapse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "knock over",
+  "meaning": "to hit something so that it falls down",
+  "tamil": "எதையாவது இடித்துக் கீழே விழச்செய்",
+  "pos": "phrasal verb",
+  "pron": "nok OH-ver",
+  "example": "Be careful not to knock over the glass of water.",
+  "exampleTamil": "தண்ணீர் டம்ளரைத் தட்டிவிடாமல் கவனமாக இருங்கள்.",
+  "synonyms": [
+   "topple",
+   "upset"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pull over",
+  "meaning": "to drive a vehicle to the side of the road",
+  "tamil": "வண்டியை சாலை ஓரமாக நிறுத்து",
+  "pos": "phrasal verb",
+  "pron": "pul OH-ver",
+  "example": "Please pull over near the tea shop.",
+  "exampleTamil": "தயவுசெய்து டீக்கடை அருகே வண்டியை ஓரமாக நிறுத்துங்கள்.",
+  "synonyms": [
+   "stop",
+   "park"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "boil over",
+  "meaning": "to flow over the edge of a pot while boiling",
+  "tamil": "கொதித்துப் பாத்திரத்திலிருந்து வழிந்தோடு",
+  "pos": "phrasal verb",
+  "pron": "BOYL OH-ver",
+  "example": "The milk boiled over while I was on the phone.",
+  "exampleTamil": "நான் போனில் பேசிக்கொண்டிருந்தபோது பால் பொங்கி வழிந்தது.",
+  "synonyms": [
+   "overflow",
+   "spill"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "turn over",
+  "meaning": "to move something so the other side faces up",
+  "tamil": "மறுபக்கம் தெரியும்படி திருப்பு",
+  "pos": "phrasal verb",
+  "pron": "turn OH-ver",
+  "example": "Turn over the paper and read the questions.",
+  "exampleTamil": "தாளைத் திருப்பி கேள்விகளைப் படியுங்கள்.",
+  "synonyms": [
+   "flip",
+   "reverse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "start over",
+  "meaning": "to begin again from the beginning",
+  "tamil": "மீண்டும் முதலிலிருந்து தொடங்கு",
+  "pos": "phrasal verb",
+  "pron": "start OH-ver",
+  "example": "I made a mistake, so I have to start over.",
+  "exampleTamil": "நான் தவறு செய்துவிட்டேன், அதனால் மீண்டும் தொடங்க வேண்டும்.",
+  "synonyms": [
+   "restart",
+   "redo"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "move over",
+  "meaning": "to shift to make space for someone",
+  "tamil": "இடம் கொடுக்க நகர்ந்து அமர்",
+  "pos": "phrasal verb",
+  "pron": "moov OH-ver",
+  "example": "Can you move over a little so I can sit?",
+  "exampleTamil": "நான் உட்கார நீங்கள் கொஞ்சம் நகர்ந்து உட்காருவீர்களா?",
+  "synonyms": [
+   "shift",
+   "budge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bend over",
+  "meaning": "to lean your body forward and down",
+  "tamil": "உடலை முன்னோக்கி வளைத்துக் குனி",
+  "pos": "phrasal verb",
+  "pron": "bend OH-ver",
+  "example": "He will bend over to tie his shoelaces.",
+  "exampleTamil": "அவன் ஷூ லேஸ் கட்டக் குனிந்தான்.",
+  "synonyms": [
+   "stoop",
+   "lean"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sleep over",
+  "meaning": "to stay the night at someone else's home",
+  "tamil": "வேறொருவர் வீட்டில் இரவு தங்கு",
+  "pos": "phrasal verb",
+  "pron": "sleep OH-ver",
+  "example": "My cousin will sleep over at our house tonight.",
+  "exampleTamil": "என் உறவினர் இன்றிரவு எங்கள் வீட்டில் தங்குவார்.",
+  "synonyms": [
+   "stay",
+   "lodge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "roll over",
+  "meaning": "to turn your body to the other side",
+  "tamil": "உடலை மறுபக்கம் புரட்டிக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "rohl OH-ver",
+  "example": "The baby rolled over in her sleep.",
+  "exampleTamil": "குழந்தை தூக்கத்தில் புரண்டு படுத்தது.",
+  "synonyms": [
+   "turn",
+   "flip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "run over",
+  "meaning": "to hit someone or something with a vehicle",
+  "tamil": "வண்டியால் மோதி மேலே ஏறிச்செல்",
+  "pos": "phrasal verb",
+  "pron": "run OH-ver",
+  "example": "Be careful or a bike will run over your bag.",
+  "exampleTamil": "கவனமாக இருங்கள், இல்லையெனில் பைக் உங்கள் பையின் மீது ஏறிவிடும்.",
+  "synonyms": [
+   "hit",
+   "flatten"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "carry over",
+  "meaning": "to move something to a later time or place",
+  "tamil": "பிறகு அல்லது அடுத்த இடத்திற்கு மாற்று",
+  "pos": "phrasal verb",
+  "pron": "KA-ree OH-ver",
+  "example": "You can carry over unused leave to next year.",
+  "exampleTamil": "பயன்படுத்தாத விடுப்பை அடுத்த ஆண்டுக்கு எடுத்துச்செல்லலாம்.",
+  "synonyms": [
+   "transfer",
+   "extend"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "come back",
+  "meaning": "to return to a place",
+  "tamil": "ஓரிடத்திற்குத் திரும்பி வா",
+  "pos": "phrasal verb",
+  "pron": "kum BAK",
+  "example": "Please come back before it gets dark.",
+  "exampleTamil": "இருட்டுவதற்கு முன் திரும்பி வாருங்கள்.",
+  "synonyms": [
+   "return",
+   "revisit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "go back",
+  "meaning": "to return to a place you were before",
+  "tamil": "முன்பிருந்த இடத்திற்குத் திரும்பிச்செல்",
+  "pos": "phrasal verb",
+  "pron": "goh BAK",
+  "example": "I want to go back to my village this summer.",
+  "exampleTamil": "இந்த கோடையில் என் கிராமத்திற்குத் திரும்பிச் செல்ல விரும்புகிறேன்.",
+  "synonyms": [
+   "return",
+   "revert"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fall back",
+  "meaning": "to move backward or retreat",
+  "tamil": "பின்வாங்கு",
+  "pos": "phrasal verb",
+  "pron": "fawl BAK",
+  "example": "The team had to fall back when the rain started.",
+  "exampleTamil": "மழை தொடங்கியதும் அணி பின்வாங்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "retreat",
+   "withdraw"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cut back",
+  "meaning": "to reduce the amount of something",
+  "tamil": "ஒன்றின் அளவைக் குறை",
+  "pos": "phrasal verb",
+  "pron": "kut BAK",
+  "example": "We should cut back on sugar and oily food.",
+  "exampleTamil": "நாம் சர்க்கரை மற்றும் எண்ணெய் உணவைக் குறைக்க வேண்டும்.",
+  "synonyms": [
+   "reduce",
+   "lessen"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bring back",
+  "meaning": "to return something or cause it to return",
+  "tamil": "ஒன்றைத் திரும்பக் கொண்டுவா",
+  "pos": "phrasal verb",
+  "pron": "bring BAK",
+  "example": "Please bring back my book by Monday.",
+  "exampleTamil": "தயவுசெய்து என் புத்தகத்தைத் திங்கட்கிழமைக்குள் திருப்பிக் கொண்டுவாருங்கள்.",
+  "synonyms": [
+   "return",
+   "restore"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "look back",
+  "meaning": "to think about the past",
+  "tamil": "கடந்த காலத்தை நினைத்துப் பார்",
+  "pos": "phrasal verb",
+  "pron": "luk BAK",
+  "example": "I often look back on my school days with joy.",
+  "exampleTamil": "நான் அடிக்கடி என் பள்ளி நாட்களை மகிழ்ச்சியுடன் நினைத்துப் பார்க்கிறேன்.",
+  "synonyms": [
+   "recall",
+   "reflect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "step back",
+  "meaning": "to move backward by a small distance",
+  "tamil": "சற்றுப் பின்னால் நகர்",
+  "pos": "phrasal verb",
+  "pron": "step BAK",
+  "example": "Please step back from the edge of the platform.",
+  "exampleTamil": "தயவுசெய்து நடைமேடை ஓரத்திலிருந்து பின்னால் நகருங்கள்.",
+  "synonyms": [
+   "retreat",
+   "withdraw"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "write back",
+  "meaning": "to reply to a letter or message",
+  "tamil": "கடிதம் அல்லது செய்திக்குப் பதில் எழுது",
+  "pos": "phrasal verb",
+  "pron": "ryt BAK",
+  "example": "He promised to write back as soon as possible.",
+  "exampleTamil": "அவர் முடிந்தவரை விரைவில் பதில் எழுதுவதாக வாக்களித்தார்.",
+  "synonyms": [
+   "reply",
+   "respond"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "send back",
+  "meaning": "to return something to the sender",
+  "tamil": "அனுப்பியவருக்கே திருப்பி அனுப்பு",
+  "pos": "phrasal verb",
+  "pron": "send BAK",
+  "example": "I had to send back the shirt because it was small.",
+  "exampleTamil": "சட்டை சிறியதாக இருந்ததால் அதைத் திருப்பி அனுப்ப வேண்டியிருந்தது.",
+  "synonyms": [
+   "return",
+   "refund"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "take back",
+  "meaning": "to return something or say you did not mean it",
+  "tamil": "திருப்பிக் கொடு அல்லது சொன்னதை வாபஸ் பெறு",
+  "pos": "phrasal verb",
+  "pron": "tayk BAK",
+  "example": "I am sorry, I take back what I said.",
+  "exampleTamil": "மன்னிக்கவும், நான் சொன்னதை வாபஸ் பெறுகிறேன்.",
+  "synonyms": [
+   "withdraw",
+   "retract"
+  ],
+  "level": "intermediate"
+ }
+]

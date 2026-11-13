@@ -1,0 +1,337 @@
+[
+ {
+  "word": "gadget",
+  "meaning": "A small useful electronic device",
+  "tamil": "சிறிய மின்னணு சாதனம்",
+  "pos": "noun",
+  "pron": "GAJ-it",
+  "example": "He loves buying new gadgets for the kitchen.",
+  "exampleTamil": "அவனுக்கு சமையலறைக்கு புதிய சாதனங்கள் வாங்க பிடிக்கும்.",
+  "synonyms": [
+   "device",
+   "gizmo"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "doorstep",
+  "meaning": "The step just outside a house door",
+  "tamil": "வாசல் படி",
+  "pos": "noun",
+  "pron": "DOR-step",
+  "example": "The courier left the parcel on our doorstep.",
+  "exampleTamil": "கூரியர்காரர் பார்சலை எங்கள் வாசல் படியில் வைத்துச் சென்றார்.",
+  "synonyms": [
+   "threshold",
+   "entrance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "terrace",
+  "meaning": "A flat open roof or area on a building",
+  "tamil": "மொட்டை மாடி",
+  "pos": "noun",
+  "pron": "TER-iss",
+  "example": "We dry the clothes on the terrace.",
+  "exampleTamil": "நாங்கள் மொட்டை மாடியில் துணிகளை உலர்த்துகிறோம்.",
+  "synonyms": [
+   "roof",
+   "patio"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dusty",
+  "meaning": "Covered with dust",
+  "tamil": "தூசி படிந்த",
+  "pos": "adjective",
+  "pron": "DUS-tee",
+  "example": "The old shelf is very dusty.",
+  "exampleTamil": "பழைய அலமாரி முழுவதும் தூசி படிந்திருக்கிறது.",
+  "synonyms": [
+   "dirty",
+   "unclean"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rinse",
+  "meaning": "To wash with clean water to remove soap",
+  "tamil": "அலசு",
+  "pos": "verb",
+  "pron": "RINSS",
+  "example": "Rinse the vessels well with clean water.",
+  "exampleTamil": "பாத்திரங்களை சுத்தமான தண்ணீரில் நன்றாக அலசுங்கள்.",
+  "synonyms": [
+   "wash",
+   "flush"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "puddle",
+  "meaning": "A small pool of water on the ground",
+  "tamil": "குட்டை, தண்ணீர் தேங்கிய இடம்",
+  "pos": "noun",
+  "pron": "PUD-ul",
+  "example": "The kids jumped in every puddle after the rain.",
+  "exampleTamil": "மழைக்குப் பிறகு குழந்தைகள் ஒவ்வொரு குட்டையிலும் குதித்தனர்.",
+  "synonyms": [
+   "pool",
+   "small pond"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scorching",
+  "meaning": "Extremely hot",
+  "tamil": "கடும் வெப்பமான",
+  "pos": "adjective",
+  "pron": "SKOR-ching",
+  "example": "It was a scorching afternoon in May.",
+  "exampleTamil": "மே மாதத்தில் அது கடும் வெப்பமான மதியம்.",
+  "synonyms": [
+   "burning",
+   "blazing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sweaty",
+  "meaning": "Wet with sweat",
+  "tamil": "வியர்வையில் நனைந்த",
+  "pos": "adjective",
+  "pron": "SWET-ee",
+  "example": "I came home all sweaty after the walk.",
+  "exampleTamil": "நடைப்பயிற்சிக்குப் பிறகு வியர்வையில் நனைந்து வீடு வந்தேன்.",
+  "synonyms": [
+   "perspiring",
+   "damp"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shiver",
+  "meaning": "To shake a little because of cold or fear",
+  "tamil": "குளிரில் நடுங்கு",
+  "pos": "verb",
+  "pron": "SHIV-er",
+  "example": "I started to shiver in the cold wind.",
+  "exampleTamil": "குளிர்ந்த காற்றில் நான் நடுங்கத் தொடங்கினேன்.",
+  "synonyms": [
+   "tremble",
+   "shake"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "downpour",
+  "meaning": "A very heavy rain",
+  "tamil": "கனமழை",
+  "pos": "noun",
+  "pron": "DOWN-por",
+  "example": "We got stuck in a sudden downpour.",
+  "exampleTamil": "திடீர் கனமழையில் நாங்கள் சிக்கிக்கொண்டோம்.",
+  "synonyms": [
+   "heavy rain",
+   "deluge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "humidity",
+  "meaning": "The amount of water in the air",
+  "tamil": "காற்றின் ஈரப்பதம்",
+  "pos": "noun",
+  "pron": "hyoo-MID-uh-tee",
+  "example": "The humidity makes me feel tired in summer.",
+  "exampleTamil": "கோடையில் ஈரப்பதம் எனக்கு சோர்வை ஏற்படுத்துகிறது.",
+  "synonyms": [
+   "moisture",
+   "dampness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "temperature",
+  "meaning": "How hot or cold something is",
+  "tamil": "வெப்பநிலை",
+  "pos": "noun",
+  "pron": "TEM-pruh-chur",
+  "example": "The temperature drops at night here.",
+  "exampleTamil": "இங்கே இரவில் வெப்பநிலை குறைகிறது.",
+  "synonyms": [
+   "heat level",
+   "warmth"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overcast",
+  "meaning": "Covered with grey clouds",
+  "tamil": "மேகமூட்டமான",
+  "pos": "adjective",
+  "pron": "OH-ver-kast",
+  "example": "The sky is overcast, so take an umbrella.",
+  "exampleTamil": "வானம் மேகமூட்டமாக உள்ளது, எனவே குடை எடுத்துச் செல்லுங்கள்.",
+  "synonyms": [
+   "cloudy",
+   "grey"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "soggy",
+  "meaning": "Very wet and soft",
+  "tamil": "ஊறிப்போன, நனைந்த",
+  "pos": "adjective",
+  "pron": "SOG-ee",
+  "example": "My shoes got soggy in the rain.",
+  "exampleTamil": "மழையில் என் காலணிகள் ஊறிப்போயின.",
+  "synonyms": [
+   "soaked",
+   "waterlogged"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "startled",
+  "meaning": "Suddenly surprised or a little frightened",
+  "tamil": "திடுக்கிட்ட",
+  "pos": "adjective",
+  "pron": "STAR-tuld",
+  "example": "The loud noise startled the baby.",
+  "exampleTamil": "பெரிய சத்தம் குழந்தையை திடுக்கிட வைத்தது.",
+  "synonyms": [
+   "shocked",
+   "alarmed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "impressed",
+  "meaning": "Feeling respect for something good",
+  "tamil": "மனம் கவரப்பட்ட",
+  "pos": "adjective",
+  "pron": "im-PREST",
+  "example": "My teacher was impressed with my speech.",
+  "exampleTamil": "என் பேச்சைக் கண்டு என் ஆசிரியர் மிகவும் கவரப்பட்டார்.",
+  "synonyms": [
+   "admiring",
+   "moved"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "handy",
+  "meaning": "Useful and easy to use or near at hand",
+  "tamil": "பயனுள்ள, கைக்கு எட்டிய",
+  "pos": "adjective",
+  "pron": "HAN-dee",
+  "example": "A small torch is handy during power cuts.",
+  "exampleTamil": "மின்தடையின் போது சிறிய டார்ச் பயனுள்ளதாக இருக்கும்.",
+  "synonyms": [
+   "useful",
+   "practical"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "convenient",
+  "meaning": "Easy to do and not causing trouble",
+  "tamil": "வசதியான",
+  "pos": "adjective",
+  "pron": "kun-VEEN-yunt",
+  "example": "Is Friday evening convenient for you?",
+  "exampleTamil": "வெள்ளிக்கிழமை மாலை உங்களுக்கு வசதியா?",
+  "synonyms": [
+   "suitable",
+   "easy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "considerate",
+  "meaning": "Careful not to hurt or trouble others",
+  "tamil": "பிறர் மீது அக்கறை உள்ள",
+  "pos": "adjective",
+  "pron": "kun-SID-er-it",
+  "example": "He is very considerate and always lowers the music at night.",
+  "exampleTamil": "அவன் மிகவும் அக்கறை உள்ளவன்; இரவில் எப்போதும் இசையைக் குறைப்பான்.",
+  "synonyms": [
+   "thoughtful",
+   "caring"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "snore",
+  "meaning": "to breathe noisily through your nose and mouth while sleeping",
+  "tamil": "தூக்கத்தில் குறட்டை விடு",
+  "pos": "verb",
+  "pron": "SNOR",
+  "example": "My uncle snores so loudly that nobody can sleep.",
+  "exampleTamil": "என் மாமா மிகவும் சத்தமாக குறட்டை விடுவதால் யாரும் தூங்க முடியவில்லை.",
+  "synonyms": [
+   "wheeze"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chatty",
+  "meaning": "liking to talk a lot in a friendly way",
+  "tamil": "நிறைய பேசும் இயல்புடைய",
+  "pos": "adjective",
+  "pron": "CHAT-ee",
+  "example": "Our new neighbour is very chatty and friendly.",
+  "exampleTamil": "எங்கள் புதிய அண்டை வீட்டுக்காரர் மிகவும் பேச்சுத்திறன் கொண்டவர், நட்பானவர்.",
+  "synonyms": [
+   "talkative",
+   "friendly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stroll",
+  "meaning": "to walk slowly in a relaxed way",
+  "tamil": "நிதானமாக உலாவு",
+  "pos": "verb",
+  "pron": "STROHL",
+  "example": "We stroll along the beach every evening.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு மாலையும் கடற்கரையில் நிதானமாக நடக்கிறோம்.",
+  "synonyms": [
+   "wander",
+   "amble"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sociable",
+  "meaning": "friendly and happy to meet and talk with people",
+  "tamil": "பழகும் குணமுள்ள, நட்புடன் பழகும்",
+  "pos": "adjective",
+  "pron": "SOH-shuh-bul",
+  "example": "She is sociable and makes friends easily.",
+  "exampleTamil": "அவள் எளிதில் பழகுபவள், எளிதாக நண்பர்களை உருவாக்குகிறாள்.",
+  "synonyms": [
+   "outgoing",
+   "friendly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "doze",
+  "meaning": "to sleep lightly for a short time",
+  "tamil": "சிறிது நேரம் அரைத்தூக்கம் போடு",
+  "pos": "verb",
+  "pron": "DOHZ",
+  "example": "Grandpa often dozes on the sofa after lunch.",
+  "exampleTamil": "தாத்தா மதிய உணவுக்குப் பிறகு அடிக்கடி சோபாவில் அரைத்தூக்கம் போடுவார்.",
+  "synonyms": [
+   "nap",
+   "snooze"
+  ],
+  "level": "intermediate"
+ }
+]

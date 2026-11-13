@@ -1,0 +1,691 @@
+[
+ {
+  "word": "webcam",
+  "tamil": "இணைய கேமரா",
+  "pos": "noun",
+  "pron": "WEB-kam",
+  "example": "Please turn on your webcam if you can.",
+  "exampleTamil": "முடிந்தால் உங்கள் வெப்கேமராவை இயக்குங்கள்.",
+  "synonyms": [
+   "camera",
+   "video"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "freeze",
+  "tamil": "உறைந்துபோ",
+  "pos": "verb",
+  "pron": "FREEZ",
+  "example": "Your screen seems to freeze every few seconds.",
+  "exampleTamil": "உங்கள் திரை சில விநாடிக்கு ஒருமுறை உறைந்துபோகிறது.",
+  "synonyms": [
+   "hang",
+   "stall"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "breakout",
+  "tamil": "சிறு குழு அறை",
+  "pos": "noun",
+  "pron": "BRAYK-owt",
+  "example": "We will split into breakout rooms for ten minutes.",
+  "exampleTamil": "பத்து நிமிடங்கள் சிறு குழு அறைகளாகப் பிரிவோம்.",
+  "synonyms": [
+   "small group",
+   "side room"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dial-in",
+  "tamil": "தொலைபேசி வழி இணைப்பு",
+  "pos": "noun",
+  "pron": "DY-ul-in",
+  "example": "Use the dial-in number if your internet drops.",
+  "exampleTamil": "இணையம் துண்டிக்கப்பட்டால் அழைப்பு எண்ணைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "phone access",
+   "call number"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "chat",
+  "tamil": "அரட்டைப் பெட்டி",
+  "pos": "noun",
+  "pron": "CHAT",
+  "example": "Please type your questions in the chat.",
+  "exampleTamil": "உங்கள் கேள்விகளை அரட்டையில் தட்டச்சு செய்யுங்கள்.",
+  "synonyms": [
+   "messages",
+   "conversation"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "inaudible",
+  "tamil": "கேட்க முடியாத",
+  "pos": "adjective",
+  "pron": "in-AW-duh-bul",
+  "example": "Your voice is almost inaudible, please speak up.",
+  "exampleTamil": "உங்கள் குரல் கிட்டத்தட்ட கேட்கவில்லை, சத்தமாகப் பேசுங்கள்.",
+  "synonyms": [
+   "silent",
+   "faint"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pause",
+  "tamil": "இடைநிறுத்தம்",
+  "pos": "verb",
+  "pron": "PAWZ",
+  "example": "Let's pause here for any questions.",
+  "exampleTamil": "கேள்விகளுக்காக இங்கே சற்று நிறுத்துவோம்.",
+  "synonyms": [
+   "stop",
+   "hold"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "break",
+  "tamil": "இடைவேளை",
+  "pos": "noun",
+  "pron": "BRAYK",
+  "example": "Shall we take a ten minute break?",
+  "exampleTamil": "பத்து நிமிட இடைவேளை எடுக்கலாமா?",
+  "synonyms": [
+   "pause",
+   "recess"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "circle back",
+  "tamil": "பிறகு மீண்டும் பேசு",
+  "pos": "phrasal verb",
+  "pron": "SUR-kul BAK",
+  "example": "Let's circle back to this after lunch.",
+  "exampleTamil": "மதிய உணவுக்குப் பின் இதற்கு மீண்டும் வருவோம்.",
+  "synonyms": [
+   "revisit",
+   "return to"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wrap up",
+  "tamil": "கூட்டத்தை முடி",
+  "pos": "phrasal verb",
+  "pron": "RAP up",
+  "example": "Let's wrap up with a quick summary.",
+  "exampleTamil": "ஒரு சுருக்கத்துடன் முடிப்போம்.",
+  "synonyms": [
+   "conclude",
+   "finish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "run through",
+  "tamil": "சுருக்கமாக ஓட்டிப் பார்",
+  "pos": "phrasal verb",
+  "pron": "RUN throo",
+  "example": "Let me run through the main points quickly.",
+  "exampleTamil": "முக்கியக் கருத்துகளை விரைவாக ஓட்டிப் பார்க்கிறேன்.",
+  "synonyms": [
+   "go over",
+   "review"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "go over",
+  "tamil": "ஆராய்ந்து பார்",
+  "pos": "phrasal verb",
+  "pron": "goh OH-ver",
+  "example": "Let's go over the agenda once more.",
+  "exampleTamil": "நிகழ்ச்சி நிரலை மீண்டும் ஒருமுறை பார்ப்போம்.",
+  "synonyms": [
+   "review",
+   "examine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bring up",
+  "tamil": "பேச்சில் எழுப்பு",
+  "pos": "phrasal verb",
+  "pron": "bring UP",
+  "example": "Thanks for bringing up that concern.",
+  "exampleTamil": "அந்தக் கவலையை எழுப்பியதற்கு நன்றி.",
+  "synonyms": [
+   "raise",
+   "mention"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sort out",
+  "tamil": "சீர் செய்",
+  "pos": "phrasal verb",
+  "pron": "sort OWT",
+  "example": "We need to sort out the budget first.",
+  "exampleTamil": "முதலில் பட்ஜெட்டைச் சரிசெய்ய வேண்டும்.",
+  "synonyms": [
+   "resolve",
+   "fix"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chip in",
+  "tamil": "பங்களிப்பு செய்",
+  "pos": "phrasal verb",
+  "pron": "chip IN",
+  "example": "Please chip in if you have any ideas.",
+  "exampleTamil": "யோசனைகள் இருந்தால் தயங்காமல் சொல்லுங்கள்.",
+  "synonyms": [
+   "contribute",
+   "add"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "weigh in",
+  "tamil": "கருத்தைச் சொல்",
+  "pos": "phrasal verb",
+  "pron": "WAY in",
+  "example": "Everyone should weigh in before we decide.",
+  "exampleTamil": "முடிவு செய்வதற்கு முன் அனைவரும் கருத்து சொல்ல வேண்டும்.",
+  "synonyms": [
+   "comment",
+   "give opinion"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "back up",
+  "tamil": "ஆதரித்து நிரூபி",
+  "pos": "phrasal verb",
+  "pron": "BAK up",
+  "example": "Can you back up that claim with data?",
+  "exampleTamil": "அந்தக் கூற்றை தரவுகளால் நிரூபிக்க முடியுமா?",
+  "synonyms": [
+   "support",
+   "prove"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dial in",
+  "tamil": "தொலைபேசியில் இணை",
+  "pos": "phrasal verb",
+  "pron": "DY-ul IN",
+  "example": "I will dial in from the airport.",
+  "exampleTamil": "நான் விமான நிலையத்திலிருந்து அழைப்பில் இணைவேன்.",
+  "synonyms": [
+   "join by phone",
+   "call in"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "touch base",
+  "tamil": "தொடர்பில் பேசு",
+  "pos": "phrase",
+  "pron": "tuch BAYSS",
+  "example": "Let's touch base again on Friday.",
+  "exampleTamil": "வெள்ளிக்கிழமை மீண்டும் தொடர்பில் பேசுவோம்.",
+  "synonyms": [
+   "catch up",
+   "check in"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "aligned",
+  "tamil": "ஒருமித்த நிலையில் உள்ள",
+  "pos": "adjective",
+  "pron": "uh-LYND",
+  "example": "Are we all aligned on the next steps?",
+  "exampleTamil": "அடுத்த படிகளில் நாம் அனைவரும் ஒருமித்த கருத்தில் இருக்கிறோமா?",
+  "synonyms": [
+   "in agreement",
+   "coordinated"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "take offline",
+  "tamil": "கூட்டத்துக்கு வெளியே பேசு",
+  "pos": "phrase",
+  "pron": "tayk OF-lyn",
+  "example": "Let's take this offline and sort it out later.",
+  "exampleTamil": "இதை கூட்டத்துக்கு வெளியே பேசித் தீர்ப்போம்.",
+  "synonyms": [
+   "discuss privately",
+   "defer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ballpark",
+  "tamil": "தோராய மதிப்பு",
+  "pos": "noun",
+  "pron": "BAWL-park",
+  "example": "Can you give me a ballpark figure?",
+  "exampleTamil": "ஒரு தோராய எண்ணைச் சொல்ல முடியுமா?",
+  "synonyms": [
+   "rough estimate",
+   "approximation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "capacity",
+  "tamil": "ஏற்கும் திறன்",
+  "pos": "noun",
+  "pron": "kuh-PAS-uh-tee",
+  "example": "Our team has no capacity for new tasks.",
+  "exampleTamil": "எங்கள் குழுவுக்குப் புதிய பணிகளை ஏற்கும் திறன் இல்லை.",
+  "synonyms": [
+   "room",
+   "ability"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "alignment",
+  "tamil": "ஒருமித்த நிலை",
+  "pos": "noun",
+  "pron": "uh-LYN-munt",
+  "example": "We need alignment before we move forward.",
+  "exampleTamil": "முன்னேறுவதற்கு முன் நமக்கு ஒருமித்த நிலை தேவை.",
+  "synonyms": [
+   "agreement",
+   "coordination"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "align",
+  "tamil": "ஒருங்கிணை",
+  "pos": "verb",
+  "pron": "uh-LYN",
+  "example": "Let's align our goals with the company strategy.",
+  "exampleTamil": "நம் இலக்குகளை நிறுவன உத்தியுடன் ஒருங்கிணைப்போம்.",
+  "synonyms": [
+   "coordinate",
+   "match"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "buy-in",
+  "tamil": "ஆதரவு ஒப்புதல்",
+  "pos": "noun",
+  "pron": "BY-in",
+  "example": "We need buy-in from senior management.",
+  "exampleTamil": "மூத்த நிர்வாகத்தின் ஆதரவு நமக்கு தேவை.",
+  "synonyms": [
+   "support",
+   "backing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "roadmap",
+  "tamil": "வளர்ச்சித் திட்ட வரைபடம்",
+  "pos": "noun",
+  "pron": "ROHD-map",
+  "example": "The product roadmap is on the last slide.",
+  "exampleTamil": "தயாரிப்பு வரைபடம் கடைசி ஸ்லைடில் உள்ளது.",
+  "synonyms": [
+   "plan",
+   "route"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "feedback loop",
+  "tamil": "கருத்துச் சுழற்சி",
+  "pos": "noun",
+  "pron": "FEED-bak loop",
+  "example": "A short feedback loop helps us improve faster.",
+  "exampleTamil": "குறுகிய கருத்துச் சுழற்சி வேகமாக மேம்பட உதவுகிறது.",
+  "synonyms": [
+   "review cycle",
+   "cycle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "approximate",
+  "tamil": "தோராயமான",
+  "pos": "adjective",
+  "pron": "uh-PROK-suh-mut",
+  "example": "These are approximate numbers, not final ones.",
+  "exampleTamil": "இவை தோராய எண்கள், இறுதியானவை அல்ல.",
+  "synonyms": [
+   "rough",
+   "estimated"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "projected",
+  "tamil": "எதிர்பார்க்கப்படும்",
+  "pos": "adjective",
+  "pron": "pruh-JEK-tid",
+  "example": "The projected savings are about five lakh rupees.",
+  "exampleTamil": "எதிர்பார்க்கப்படும் சேமிப்பு சுமார் ஐந்து லட்சம் ரூபாய்.",
+  "synonyms": [
+   "expected",
+   "predicted"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cutback",
+  "tamil": "குறைப்பு",
+  "pos": "noun",
+  "pron": "KUT-bak",
+  "example": "The cutbacks will affect travel and training.",
+  "exampleTamil": "இந்தக் குறைப்புகள் பயணத்தையும் பயிற்சியையும் பாதிக்கும்.",
+  "synonyms": [
+   "reduction",
+   "cut"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "surplus",
+  "tamil": "உபரி",
+  "pos": "noun",
+  "pron": "SUR-plus",
+  "example": "We ended the year with a small surplus.",
+  "exampleTamil": "ஆண்டை சிறிய உபரியுடன் முடித்தோம்.",
+  "synonyms": [
+   "excess",
+   "extra"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "margin",
+  "tamil": "இலாப விகிதம்",
+  "pos": "noun",
+  "pron": "MAR-jin",
+  "example": "The profit margin is thinner this quarter.",
+  "exampleTamil": "இந்தக் காலாண்டில் இலாப விகிதம் குறைவாக உள்ளது.",
+  "synonyms": [
+   "difference",
+   "profit rate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "chart",
+  "tamil": "வரைபடம்",
+  "pos": "noun",
+  "pron": "CHART",
+  "example": "This chart shows sales by region.",
+  "exampleTamil": "இந்த வரைபடம் பிராந்திய வாரியான விற்பனையைக் காட்டுகிறது.",
+  "synonyms": [
+   "graph",
+   "diagram"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trend",
+  "tamil": "போக்கு",
+  "pos": "noun",
+  "pron": "TREND",
+  "example": "The trend is clearly going upward.",
+  "exampleTamil": "போக்கு தெளிவாக மேல்நோக்கி உள்ளது.",
+  "synonyms": [
+   "pattern",
+   "direction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "figure",
+  "tamil": "புள்ளிவிவரம்",
+  "pos": "noun",
+  "pron": "FIG-yer",
+  "example": "Do you have the latest figures with you?",
+  "exampleTamil": "சமீபத்திய புள்ளிவிவரங்கள் உங்களிடம் உள்ளனவா?",
+  "synonyms": [
+   "number",
+   "statistic"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "evidence",
+  "tamil": "ஆதாரம்",
+  "pos": "noun",
+  "pron": "EV-ih-dunss",
+  "example": "What evidence do we have for this claim?",
+  "exampleTamil": "இந்தக் கூற்றுக்கு நம்மிடம் என்ன ஆதாரம் உள்ளது?",
+  "synonyms": [
+   "proof",
+   "support"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stalemate",
+  "tamil": "முட்டுக்கட்டை நிலை",
+  "pos": "noun",
+  "pron": "STAYL-mayt",
+  "example": "The talks ended in a stalemate.",
+  "exampleTamil": "பேச்சுவார்த்தை முட்டுக்கட்டையில் முடிந்தது.",
+  "synonyms": [
+   "deadlock",
+   "impasse"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "common ground",
+  "tamil": "பொதுவான உடன்பாடு",
+  "pos": "phrase",
+  "pron": "KOM-un GROUND",
+  "example": "Let's look for common ground between both views.",
+  "exampleTamil": "இரு கருத்துகளுக்கும் பொதுவான புள்ளியைத் தேடுவோம்.",
+  "synonyms": [
+   "shared view",
+   "agreement"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "middle ground",
+  "tamil": "நடுநிலைத் தீர்வு",
+  "pos": "phrase",
+  "pron": "MID-ul GROUND",
+  "example": "Can we find a middle ground on the deadline?",
+  "exampleTamil": "கெடு தேதியில் ஒரு நடுநிலைத் தீர்வு காண முடியுமா?",
+  "synonyms": [
+   "compromise",
+   "balance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bottom line",
+  "tamil": "இறுதி முடிவு",
+  "pos": "phrase",
+  "pron": "BOT-um LYN",
+  "example": "The bottom line is that we need more time.",
+  "exampleTamil": "இறுதியாக, நமக்கு இன்னும் நேரம் வேண்டும்.",
+  "synonyms": [
+   "key point",
+   "conclusion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stakes",
+  "tamil": "பணயம்",
+  "pos": "noun",
+  "pron": "STAYKS",
+  "example": "The stakes are high for this client.",
+  "exampleTamil": "இந்த வாடிக்கையாளருக்கு பணயம் அதிகம்.",
+  "synonyms": [
+   "risk",
+   "interest"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "agreement",
+  "tamil": "உடன்பாடு",
+  "pos": "noun",
+  "pron": "uh-GREE-munt",
+  "example": "We reached an agreement after a long talk.",
+  "exampleTamil": "நீண்ட பேச்சுக்குப் பின் உடன்பாடு எட்டினோம்.",
+  "synonyms": [
+   "accord",
+   "deal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "verdict",
+  "tamil": "இறுதித் தீர்ப்பு",
+  "pos": "noun",
+  "pron": "VUR-dikt",
+  "example": "What is the team's verdict on the new design?",
+  "exampleTamil": "புதிய வடிவமைப்பு பற்றி குழுவின் தீர்ப்பு என்ன?",
+  "synonyms": [
+   "judgement",
+   "decision"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "undecided",
+  "tamil": "இன்னும் முடிவெடுக்காத",
+  "pos": "adjective",
+  "pron": "un-dih-SY-did",
+  "example": "I am still undecided about the two options.",
+  "exampleTamil": "இரண்டு தேர்வுகள் பற்றி நான் இன்னும் முடிவெடுக்கவில்லை.",
+  "synonyms": [
+   "unsure",
+   "uncertain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pending decision",
+  "tamil": "நிலுவை முடிவு",
+  "pos": "phrase",
+  "pron": "PEN-ding dih-SIZH-un",
+  "example": "The launch is on hold pending a decision.",
+  "exampleTamil": "முடிவு வரும் வரை அறிமுகம் நிறுத்தப்பட்டுள்ளது.",
+  "synonyms": [
+   "waiting",
+   "unresolved"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hesitant",
+  "tamil": "தயங்கும்",
+  "pos": "adjective",
+  "pron": "HEZ-ih-tunt",
+  "example": "I am hesitant to commit without more data.",
+  "exampleTamil": "மேலும் தரவு இல்லாமல் உறுதியளிக்கத் தயங்குகிறேன்.",
+  "synonyms": [
+   "reluctant",
+   "unsure"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "supportive",
+  "tamil": "ஆதரவான",
+  "pos": "adjective",
+  "pron": "suh-POR-tiv",
+  "example": "The team was very supportive of the idea.",
+  "exampleTamil": "குழு அந்த யோசனைக்கு மிகவும் ஆதரவாக இருந்தது.",
+  "synonyms": [
+   "encouraging",
+   "helpful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "skeptical",
+  "tamil": "சந்தேகப்படும்",
+  "pos": "adjective",
+  "pron": "SKEP-tih-kul",
+  "example": "The client is skeptical about our timeline.",
+  "exampleTamil": "எங்கள் கால அட்டவணை பற்றி வாடிக்கையாளர் சந்தேகப்படுகிறார்.",
+  "synonyms": [
+   "doubtful",
+   "sceptical"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "neutral",
+  "tamil": "நடுநிலையான",
+  "pos": "adjective",
+  "pron": "NOO-trul",
+  "example": "I will stay neutral on this topic.",
+  "exampleTamil": "இந்த விஷயத்தில் நான் நடுநிலையாக இருப்பேன்.",
+  "synonyms": [
+   "impartial",
+   "unbiased"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "biased",
+  "tamil": "ஒருபக்கச் சார்புள்ள",
+  "pos": "adjective",
+  "pron": "BY-ust",
+  "example": "We should avoid a biased decision.",
+  "exampleTamil": "ஒருபக்கச் சார்பான முடிவைத் தவிர்க்க வேண்டும்.",
+  "synonyms": [
+   "prejudiced",
+   "partial"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "objectively",
+  "tamil": "பாரபட்சமின்றி",
+  "pos": "adverb",
+  "pron": "ob-JEK-tiv-lee",
+  "example": "Let's look at the numbers objectively.",
+  "exampleTamil": "எண்களை பாரபட்சமின்றிப் பார்ப்போம்.",
+  "synonyms": [
+   "impartially",
+   "fairly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "facilitation",
+  "tamil": "கூட்ட நடத்தை வழிநடத்தல்",
+  "pos": "noun",
+  "pron": "fas-ih-lih-TAY-shun",
+  "example": "Good facilitation keeps the discussion on track.",
+  "exampleTamil": "நல்ல வழிநடத்தல் விவாதத்தைச் சரியான பாதையில் வைத்திருக்கும்.",
+  "synonyms": [
+   "guidance",
+   "moderation"
+  ],
+  "level": "advanced"
+ }
+]

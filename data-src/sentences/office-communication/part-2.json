@@ -1,0 +1,413 @@
+[
+  {
+    "en": "I'd like to take leave on Monday.",
+    "tamil": "எனக்குத் திங்கட்கிழமை விடுப்பு எடுக்க வேண்டும்.",
+    "context": "Telling the manager about planned leave",
+    "tense": "modal",
+    "type": "statement",
+    "alt": {
+      "en": "I want to take Monday off.",
+      "tamil": "நான் திங்கட்கிழமை விடுப்பு எடுக்க விரும்புகிறேன்."
+    }
+  },
+  {
+    "en": "I'm going to be late today.",
+    "tamil": "நான் இன்று தாமதமாக வருவேன்.",
+    "context": "Informing the team you will arrive late",
+    "tense": "future",
+    "type": "statement",
+    "alt": {
+      "en": "I'll be late today.",
+      "tamil": "நான் இன்று தாமதமாக வருவேன்."
+    }
+  },
+  {
+    "en": "I'm running late because of the traffic.",
+    "tamil": "போக்குவரத்து நெரிசலால் எனக்குத் தாமதமாகிறது.",
+    "context": "Texting a colleague while stuck in traffic",
+    "tense": "present-continuous",
+    "type": "statement"
+  },
+  {
+    "en": "I'm working from home today.",
+    "tamil": "நான் இன்று வீட்டிலிருந்து வேலை செய்கிறேன்.",
+    "context": "Telling the team about WFH",
+    "tense": "present-continuous",
+    "type": "statement"
+  },
+  {
+    "en": "I can't come to the office tomorrow.",
+    "tamil": "என்னால் நாளை அலுவலகத்துக்கு வர முடியாது.",
+    "context": "Informing the manager of an absence",
+    "tense": "modal",
+    "type": "negative"
+  },
+  {
+    "en": "I won't be in the office on Friday.",
+    "tamil": "நான் வெள்ளிக்கிழமை அலுவலகத்தில் இருக்க மாட்டேன்.",
+    "context": "Letting the team know about Friday",
+    "tense": "future",
+    "type": "negative"
+  },
+  {
+    "en": "Can I work from home tomorrow?",
+    "tamil": "நான் நாளை வீட்டிலிருந்து வேலை செய்யலாமா?",
+    "context": "Asking the manager for WFH",
+    "tense": "modal",
+    "type": "question"
+  },
+  {
+    "en": "May I leave early today?",
+    "tamil": "நான் இன்று சீக்கிரம் கிளம்பலாமா?",
+    "context": "Asking permission to leave early",
+    "tense": "modal",
+    "type": "question",
+    "alt": {
+      "en": "Can I leave early today?",
+      "tamil": "இன்று சீக்கிரம் போகலாமா?"
+    }
+  },
+  {
+    "en": "Could I take a half day on Thursday?",
+    "tamil": "வியாழக்கிழமை அரை நாள் விடுப்பு எடுக்கலாமா?",
+    "context": "Requesting a half-day leave",
+    "tense": "modal",
+    "type": "question"
+  },
+  {
+    "en": "Is it okay if I come in late tomorrow?",
+    "tamil": "நாளை நான் தாமதமாக வந்தால் பரவாயில்லையா?",
+    "context": "Asking permission to arrive late",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "How many leave days do I have left?",
+    "tamil": "எனக்கு இன்னும் எத்தனை விடுப்பு நாட்கள் மீதம் இருக்கின்றன?",
+    "context": "Asking HR about leave balance",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "Did you get my leave request?",
+    "tamil": "என் விடுப்பு விண்ணப்பம் உங்களுக்குக் கிடைத்ததா?",
+    "context": "Checking whether the request arrived",
+    "tense": "past",
+    "type": "question"
+  },
+  {
+    "en": "I applied for leave last week.",
+    "tamil": "நான் கடந்த வாரம் விடுப்புக்கு விண்ணப்பித்தேன்.",
+    "context": "Mentioning an earlier leave application",
+    "tense": "past",
+    "type": "statement"
+  },
+  {
+    "en": "I've applied for three days of leave.",
+    "tamil": "நான் மூன்று நாள் விடுப்புக்கு விண்ணப்பித்திருக்கிறேன்.",
+    "context": "Telling a colleague about your leave",
+    "tense": "present-perfect",
+    "type": "statement"
+  },
+  {
+    "en": "I have a doctor's appointment this afternoon.",
+    "tamil": "எனக்கு இன்று பிற்பகல் மருத்துவரைப் பார்க்க நேரம் இருக்கிறது.",
+    "context": "Explaining why you need to step out",
+    "tense": "present",
+    "type": "statement"
+  },
+  {
+    "en": "I'll be back by two o'clock.",
+    "tamil": "நான் இரண்டு மணிக்குள் திரும்பி வந்துவிடுவேன்.",
+    "context": "Saying when you will return",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "I was sick yesterday, so I didn't come.",
+    "tamil": "நேற்று உடம்பு சரியில்லை, அதனால் வரவில்லை.",
+    "context": "Explaining yesterday's absence",
+    "tense": "past",
+    "type": "negative"
+  },
+  {
+    "en": "Where is Ravi today?",
+    "tamil": "ரவி இன்று எங்கே?",
+    "context": "Asking about an absent colleague",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "Is Priya on leave today?",
+    "tamil": "பிரியா இன்று விடுப்பில் இருக்கிறாரா?",
+    "context": "Checking if a colleague is on leave",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "He's on leave until Wednesday.",
+    "tamil": "அவர் புதன்கிழமை வரை விடுப்பில் இருக்கிறார்.",
+    "context": "Telling someone a colleague's whereabouts",
+    "tense": "present",
+    "type": "statement"
+  },
+  {
+    "en": "She isn't in the office today.",
+    "tamil": "அவர் இன்று அலுவலகத்தில் இல்லை.",
+    "context": "Answering a visitor about a colleague",
+    "tense": "present",
+    "type": "negative"
+  },
+  {
+    "en": "Nobody is at the front desk right now.",
+    "tamil": "இப்போது வரவேற்புமேசையில் யாரும் இல்லை.",
+    "context": "Noticing the reception is empty",
+    "tense": "present",
+    "type": "negative"
+  },
+  {
+    "en": "Ravi called in sick this morning.",
+    "tamil": "ரவி இன்று காலை உடம்பு சரியில்லை என்று தெரிவித்தார்.",
+    "context": "Telling the team about an absence",
+    "tense": "past",
+    "type": "statement",
+    "alt": {
+      "en": "Ravi is off sick today.",
+      "tamil": "ரவி இன்று உடல்நலக் குறைவால் விடுப்பில் இருக்கிறார்."
+    }
+  },
+  {
+    "en": "Please approve my leave request.",
+    "tamil": "தயவுசெய்து என் விடுப்பு விண்ணப்பத்தை அங்கீகரியுங்கள்.",
+    "context": "Asking the manager to approve leave",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Please let the team know I'm on leave.",
+    "tamil": "நான் விடுப்பில் இருப்பதைக் குழுவுக்குத் தெரியப்படுத்துங்கள்.",
+    "context": "Asking a colleague to inform others",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Could you cover for me tomorrow?",
+    "tamil": "நாளை எனக்குப் பதிலாக நீங்கள் வேலை பார்க்க முடியுமா?",
+    "context": "Asking a colleague to cover your work",
+    "tense": "modal",
+    "type": "question",
+    "alt": {
+      "en": "Can you take my work tomorrow?",
+      "tamil": "நாளை என் வேலையை நீங்கள் பார்த்துக் கொள்ள முடியுமா?"
+    }
+  },
+  {
+    "en": "I'll cover for you while you're away.",
+    "tamil": "நீங்கள் இல்லாதபோது நான் உங்கள் வேலையைப் பார்த்துக் கொள்வேன்.",
+    "context": "Offering to cover a colleague's work",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "Please tell the manager I'm running late.",
+    "tamil": "நான் தாமதமாக வருகிறேன் என்று மேலாளரிடம் சொல்லுங்கள்.",
+    "context": "Asking a colleague to pass on a message",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "Shall we go for lunch?",
+    "tamil": "மதிய உணவுக்குப் போகலாமா?",
+    "context": "Inviting a colleague to lunch",
+    "tense": "modal",
+    "type": "question",
+    "alt": {
+      "en": "Want to get lunch?",
+      "tamil": "மதிய உணவு சாப்பிடப் போகலாமா?"
+    }
+  },
+  {
+    "en": "What time are you having lunch?",
+    "tamil": "நீங்கள் எத்தனை மணிக்கு மதிய உணவு சாப்பிடுகிறீர்கள்?",
+    "context": "Asking a colleague about lunch time",
+    "tense": "present-continuous",
+    "type": "question"
+  },
+  {
+    "en": "Do you want to join us for lunch?",
+    "tamil": "எங்களுடன் மதிய உணவுக்கு வருகிறீர்களா?",
+    "context": "Inviting a teammate to join",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "I'm heading to the cafeteria.",
+    "tamil": "நான் சிற்றுண்டிச் சாலைக்குப் போகிறேன்.",
+    "context": "Telling a colleague where you are going",
+    "tense": "present-continuous",
+    "type": "statement"
+  },
+  {
+    "en": "I brought lunch from home today.",
+    "tamil": "நான் இன்று வீட்டிலிருந்து மதிய உணவு கொண்டு வந்தேன்.",
+    "context": "Chatting about lunch at your desk",
+    "tense": "past",
+    "type": "statement"
+  },
+  {
+    "en": "Let's take a short break.",
+    "tamil": "கொஞ்ச நேரம் ஓய்வு எடுக்கலாம்.",
+    "context": "Suggesting a break during long work",
+    "tense": "imperative",
+    "type": "request"
+  },
+  {
+    "en": "I'm taking a quick tea break.",
+    "tamil": "நான் ஒரு சிறிய தேநீர் இடைவேளை எடுக்கிறேன்.",
+    "context": "Telling the team you are on a break",
+    "tense": "present-continuous",
+    "type": "statement"
+  },
+  {
+    "en": "I'm not hungry yet.",
+    "tamil": "எனக்கு இன்னும் பசிக்கவில்லை.",
+    "context": "Declining an early lunch invitation",
+    "tense": "present",
+    "type": "negative"
+  },
+  {
+    "en": "The food was really good today.",
+    "tamil": "இன்று உணவு உண்மையிலேயே நன்றாக இருந்தது.",
+    "context": "Chatting after lunch",
+    "tense": "past",
+    "type": "statement"
+  },
+  {
+    "en": "Do you want some tea or coffee?",
+    "tamil": "உங்களுக்குத் தேநீர் வேண்டுமா, காபி வேண்டுமா?",
+    "context": "Offering a drink to a colleague",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "I'll get you a coffee.",
+    "tamil": "நான் உங்களுக்கு ஒரு காபி வாங்கி வருகிறேன்.",
+    "context": "Offering to bring a drink",
+    "tense": "future",
+    "type": "statement"
+  },
+  {
+    "en": "Lunch is on me today.",
+    "tamil": "இன்று மதிய உணவுச் செலவு என்னுடையது.",
+    "context": "Treating your colleagues",
+    "tense": "present",
+    "type": "statement",
+    "alt": {
+      "en": "I'll pay for lunch today.",
+      "tamil": "இன்று மதிய உணவுக்கு நான் பணம் கொடுக்கிறேன்."
+    }
+  },
+  {
+    "en": "Have you had your lunch yet?",
+    "tamil": "நீங்கள் இன்னும் மதிய உணவு சாப்பிட்டீர்களா?",
+    "context": "Asking a colleague casually",
+    "tense": "present-perfect",
+    "type": "question"
+  },
+  {
+    "en": "I never skip my lunch.",
+    "tamil": "நான் ஒருபோதும் மதிய உணவைத் தவிர்ப்பதில்லை.",
+    "context": "Chatting about eating habits",
+    "tense": "present",
+    "type": "negative"
+  },
+  {
+    "en": "I can't join you for lunch today.",
+    "tamil": "என்னால் இன்று உங்களுடன் மதிய உணவுக்கு வர முடியாது.",
+    "context": "Declining a lunch invitation",
+    "tense": "modal",
+    "type": "negative",
+    "alt": {
+      "en": "Sorry, I'm busy at lunchtime today.",
+      "tamil": "மன்னியுங்கள், இன்று மதிய நேரத்தில் நான் பிஸி."
+    }
+  },
+  {
+    "en": "We're not going out for lunch today.",
+    "tamil": "நாங்கள் இன்று வெளியே மதிய உணவுக்குப் போகவில்லை.",
+    "context": "Telling a visitor about lunch plans",
+    "tense": "present-continuous",
+    "type": "negative"
+  },
+  {
+    "en": "I'll be away from my desk for a few minutes.",
+    "tamil": "நான் சில நிமிடங்கள் என் இருக்கையில் இருக்க மாட்டேன்.",
+    "context": "Telling a colleague you are stepping out",
+    "tense": "future",
+    "type": "statement",
+    "alt": {
+      "en": "I'll be back in a few minutes.",
+      "tamil": "நான் சில நிமிடங்களில் வந்துவிடுவேன்."
+    }
+  },
+  {
+    "en": "Do you mind if I step out for a minute?",
+    "tamil": "நான் ஒரு நிமிடம் வெளியே போய் வரலாமா?",
+    "context": "Politely asking to leave your seat",
+    "tense": "present",
+    "type": "question"
+  },
+  {
+    "en": "Sorry, I missed your call.",
+    "tamil": "மன்னியுங்கள், உங்கள் அழைப்பைத் தவறவிட்டுவிட்டேன்.",
+    "context": "Apologizing for a missed call",
+    "tense": "past",
+    "type": "statement"
+  },
+  {
+    "en": "I couldn't reach you on the phone.",
+    "tamil": "என்னால் உங்களைத் தொலைபேசியில் தொடர்பு கொள்ள முடியவில்லை.",
+    "context": "Telling a colleague you tried calling",
+    "tense": "past",
+    "type": "negative"
+  },
+  {
+    "en": "My internet isn't working at home.",
+    "tamil": "என் வீட்டில் இணையம் வேலை செய்யவில்லை.",
+    "context": "Reporting a WFH problem to the manager",
+    "tense": "present-continuous",
+    "type": "negative",
+    "alt": {
+      "en": "I have no internet at home.",
+      "tamil": "என் வீட்டில் இணையம் இல்லை."
+    }
+  },
+  {
+    "en": "Are you coming to the office tomorrow?",
+    "tamil": "நீங்கள் நாளை அலுவலகத்துக்கு வருகிறீர்களா?",
+    "context": "Asking a teammate about tomorrow",
+    "tense": "present-continuous",
+    "type": "question"
+  },
+  {
+    "en": "I need to leave a bit early today.",
+    "tamil": "நான் இன்று சற்று சீக்கிரம் கிளம்ப வேண்டும்.",
+    "context": "Telling the manager about leaving early",
+    "tense": "present",
+    "type": "statement"
+  },
+  {
+    "en": "We had a power cut at home this morning.",
+    "tamil": "இன்று காலை எங்கள் வீட்டில் மின்தடை இருந்தது.",
+    "context": "Explaining a late login while working from home",
+    "tense": "past",
+    "type": "statement"
+  },
+  {
+    "en": "Please mark me present for today.",
+    "tamil": "இன்றைக்கு என்னை வருகைப் பதிவில் சேர்த்துவிடுங்கள்.",
+    "context": "Asking HR or a colleague to mark attendance",
+    "tense": "imperative",
+    "type": "request"
+  }
+]

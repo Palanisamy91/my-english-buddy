@@ -1,0 +1,350 @@
+[
+ {
+  "word": "in other words",
+  "meaning": "used to say the same thing in a simpler way",
+  "tamil": "வேற வார்த்தையில சொன்னா",
+  "pos": "phrase",
+  "pron": "in UTH-er WURDZ",
+  "example": "In other words, you cannot come tomorrow.",
+  "exampleTamil": "வேற வார்த்தையில சொன்னா, நீங்க நாளைக்கு வர முடியாது.",
+  "synonyms": [
+   "that is to say",
+   "put simply"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "as a result",
+  "meaning": "used to show something happened because of something else",
+  "tamil": "அதனால, இதன் விளைவா",
+  "pos": "phrase",
+  "pron": "az uh ri-ZULT",
+  "example": "It rained all night. As a result, the match was cancelled.",
+  "exampleTamil": "இரவு முழுக்க மழை பெய்தது. அதனால மேட்ச் ரத்தாயிடுச்சு.",
+  "synonyms": [
+   "so",
+   "consequently"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "to be fair",
+  "meaning": "used before saying something that gives the other side a chance",
+  "tamil": "நியாயமா பார்த்தா",
+  "pos": "phrase",
+  "pron": "tuh bee FAIR",
+  "example": "To be fair, he did try his best.",
+  "exampleTamil": "நியாயமா பார்த்தா, அவன் தன்னால முடிஞ்ச அளவு முயற்சி பண்ணினான்.",
+  "synonyms": [
+   "in fairness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "that said",
+  "meaning": "used to add a point against what you just said",
+  "tamil": "அப்படி இருந்தாலும்",
+  "pos": "phrase",
+  "pron": "THAT SED",
+  "example": "It is costly. That said, the quality is great.",
+  "exampleTamil": "அது விலை அதிகம். அப்படி இருந்தாலும் தரம் அருமை.",
+  "synonyms": [
+   "even so",
+   "having said that"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mind you",
+  "meaning": "used to add a point that changes what you said",
+  "tamil": "ஒண்ணு சொல்லணும்",
+  "pos": "phrase",
+  "pron": "MINE yoo",
+  "example": "He is slow. Mind you, he never makes mistakes.",
+  "exampleTamil": "அவன் மெதுவா செய்வான். ஆனா ஒண்ணு சொல்லணும், தப்பே பண்ண மாட்டான்.",
+  "synonyms": [
+   "though",
+   "but then"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "come on",
+  "meaning": "used to encourage someone or show you do not believe them",
+  "tamil": "சும்மா சொல்லாதீங்க, வாங்க",
+  "pos": "phrase",
+  "pron": "KUM on",
+  "example": "Come on, we will be late for the show!",
+  "exampleTamil": "வாங்க, ஷோவுக்கு தாமதமாயிடும்!",
+  "synonyms": [
+   "hurry up",
+   "really"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "you see",
+  "meaning": "used to explain something to the listener",
+  "tamil": "பாருங்க, விஷயம் என்னன்னா",
+  "pos": "phrase",
+  "pron": "yoo SEE",
+  "example": "You see, my phone was switched off all day.",
+  "exampleTamil": "பாருங்க, என் போன் நாள் முழுக்க ஸ்விட்ச் ஆஃப்ல இருந்துச்சு.",
+  "synonyms": [
+   "look",
+   "the thing is"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "to sum up",
+  "meaning": "used before giving a short ending summary",
+  "tamil": "மொத்தமா சொன்னா",
+  "pos": "phrase",
+  "pron": "tuh SUM up",
+  "example": "To sum up, the trip was cheap and fun.",
+  "exampleTamil": "மொத்தமா சொன்னா, பயணம் செலவு குறைவா, ஜாலியா இருந்துச்சு.",
+  "synonyms": [
+   "in conclusion",
+   "in short"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "in that case",
+  "meaning": "used to say what follows if something is true",
+  "tamil": "அப்படின்னா",
+  "pos": "phrase",
+  "pron": "in THAT KAYS",
+  "example": "In that case, I will stay at home.",
+  "exampleTamil": "அப்படின்னா, நான் வீட்லயே இருக்கேன்.",
+  "synonyms": [
+   "then",
+   "if so"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "all in all",
+  "meaning": "used to give an overall opinion",
+  "tamil": "மொத்தத்துல",
+  "pos": "phrase",
+  "pron": "AWL in AWL",
+  "example": "All in all, it was a good day.",
+  "exampleTamil": "மொத்தத்துல, அது நல்ல நாளா இருந்துச்சு.",
+  "synonyms": [
+   "overall",
+   "on the whole"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "speaking of",
+  "meaning": "used to move to a topic that was just mentioned",
+  "tamil": "பேச்சு வந்ததால சொல்றேன்",
+  "pos": "phrase",
+  "pron": "SPEE-king uv",
+  "example": "Speaking of food, are you hungry now?",
+  "exampleTamil": "சாப்பாட்டைப் பத்தி பேசும்போது, இப்போ பசிக்குதா?",
+  "synonyms": [
+   "talking of",
+   "on that note"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "not at all",
+  "meaning": "used to say no or to answer thanks politely",
+  "tamil": "அதெல்லாம் ஒண்ணும் இல்ல",
+  "pos": "phrase",
+  "pron": "NOT at AWL",
+  "example": "Not at all, it was no trouble for me.",
+  "exampleTamil": "அதெல்லாம் ஒண்ணும் இல்ல, எனக்கு சிரமமே இல்ல.",
+  "synonyms": [
+   "you are welcome",
+   "never"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "no offence",
+  "meaning": "used to say you do not want to upset anyone",
+  "tamil": "தப்பா எடுத்துக்காதீங்க",
+  "pos": "phrase",
+  "pron": "noh uh-FENS",
+  "example": "No offence, but I prefer the other design.",
+  "exampleTamil": "தப்பா எடுத்துக்காதீங்க, ஆனா எனக்கு அடுத்த டிசைன்தான் பிடிச்சிருக்கு.",
+  "synonyms": [
+   "no harm meant",
+   "sorry to say"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "more or less",
+  "meaning": "almost, or about",
+  "tamil": "கிட்டத்தட்ட",
+  "pos": "phrase",
+  "pron": "MOR or LES",
+  "example": "I have more or less finished my homework.",
+  "exampleTamil": "என் வீட்டுப்பாடத்தை கிட்டத்தட்ட முடிச்சுட்டேன்.",
+  "synonyms": [
+   "almost",
+   "roughly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "even so",
+  "meaning": "used to say something is still true despite what was said",
+  "tamil": "அப்படி இருந்தும்",
+  "pos": "phrase",
+  "pron": "EE-ven SOH",
+  "example": "It was raining. Even so, we went out.",
+  "exampleTamil": "மழை பெய்துட்டு இருந்துச்சு. அப்படி இருந்தும் நாங்க வெளிய போனோம்.",
+  "synonyms": [
+   "still",
+   "nevertheless"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "for sure",
+  "meaning": "without any doubt",
+  "tamil": "நிச்சயமா",
+  "pos": "phrase",
+  "pron": "fur SHOOR",
+  "example": "I will call you tomorrow for sure.",
+  "exampleTamil": "நான் நாளைக்கு நிச்சயமா உங்களுக்கு போன் பண்றேன்.",
+  "synonyms": [
+   "certainly",
+   "definitely"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "believe me",
+  "meaning": "used to make someone trust what you say",
+  "tamil": "என்னை நம்புங்க",
+  "pos": "phrase",
+  "pron": "bi-LEEV mee",
+  "example": "Believe me, this road is much faster.",
+  "exampleTamil": "என்னை நம்புங்க, இந்த ரோடு ரொம்ப வேகமானது.",
+  "synonyms": [
+   "trust me",
+   "honestly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "guess what",
+  "meaning": "used to start telling surprising news",
+  "tamil": "என்ன நடந்துச்சுன்னு தெரியுமா",
+  "pos": "phrase",
+  "pron": "GES WOT",
+  "example": "Guess what, I got the job today!",
+  "exampleTamil": "என்ன நடந்துச்சுன்னு தெரியுமா, எனக்கு இன்னைக்கு வேலை கிடைச்சுடுச்சு!",
+  "synonyms": [
+   "you will not believe it"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "never mind",
+  "meaning": "used to say something is not important now",
+  "tamil": "விடுங்க, பரவாயில்ல",
+  "pos": "phrase",
+  "pron": "NEV-er MINED",
+  "example": "Never mind, I will do it myself.",
+  "exampleTamil": "விடுங்க, நானே செஞ்சுக்கறேன்.",
+  "synonyms": [
+   "forget it",
+   "it does not matter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "my pleasure",
+  "meaning": "a polite reply when someone thanks you",
+  "tamil": "என் சந்தோஷம்",
+  "pos": "phrase",
+  "pron": "my PLEZH-er",
+  "example": "My pleasure, call me if you need more help.",
+  "exampleTamil": "என் சந்தோஷம், இன்னும் உதவி வேணும்னா கூப்பிடுங்க.",
+  "synonyms": [
+   "glad to help",
+   "you are welcome"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "good point",
+  "meaning": "used to say someone has said something sensible",
+  "tamil": "நல்ல கருத்து",
+  "pos": "phrase",
+  "pron": "good POYNT",
+  "example": "Good point, I had not thought about that.",
+  "exampleTamil": "நல்ல கருத்து, அதை நான் யோசிக்கவே இல்ல.",
+  "synonyms": [
+   "fair point",
+   "true"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "i see",
+  "meaning": "used to show you understand",
+  "tamil": "ஓ, புரியுது",
+  "pos": "phrase",
+  "pron": "eye SEE",
+  "example": "I see, so the meeting is moved to Monday.",
+  "exampleTamil": "ஓ, புரியுது, அப்போ மீட்டிங் திங்கட்கிழமைக்கு மாறிடுச்சு.",
+  "synonyms": [
+   "got it",
+   "understood"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "in particular",
+  "meaning": "especially, more than others",
+  "tamil": "குறிப்பா",
+  "pos": "phrase",
+  "pron": "in per-TIK-yuh-ler",
+  "example": "I liked the second song in particular.",
+  "exampleTamil": "எனக்கு குறிப்பா ரெண்டாவது பாட்டு பிடிச்சது.",
+  "synonyms": [
+   "especially",
+   "specifically"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "if you like",
+  "meaning": "used to offer something politely",
+  "tamil": "உங்களுக்கு விருப்பம்னா",
+  "pos": "phrase",
+  "pron": "if yoo LIKE",
+  "example": "We can start now, if you like.",
+  "exampleTamil": "உங்களுக்கு விருப்பம்னா இப்பவே தொடங்கலாம்.",
+  "synonyms": [
+   "if you want",
+   "if you wish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "to be exact",
+  "meaning": "used to give a more correct detail",
+  "tamil": "சரியா சொன்னா",
+  "pos": "phrase",
+  "pron": "tuh bee ig-ZAKT",
+  "example": "It was ten days ago, to be exact.",
+  "exampleTamil": "சரியா சொன்னா, அது பத்து நாள் முன்னாடி.",
+  "synonyms": [
+   "precisely",
+   "exactly"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,4 @@
+[
+{"category":"telephone","context":"Confirming a cab pickup","level":"beginner","en":"Hello sir, I'm your cab driver. I'll reach your gate in five minutes.","tamil":"வணக்கம் சார், நான் உங்க கேப் டிரைவர். அஞ்சு நிமிஷத்துல உங்க கேட்டுக்கு வந்துடுவேன்.","reply":"Okay, I'll come down now. I'm wearing a blue shirt.","replyTamil":"சரி, நான் இப்பவே கீழ வரேன். நான் நீல சட்டை போட்டிருக்கேன்."},
+{"category":"telephone","context":"Booking a gas cylinder","level":"intermediate","en":"Thank you for calling the gas agency. Is your cylinder booking for the same address as last time?","tamil":"கேஸ் ஏஜென்சிக்கு அழைச்சதுக்கு நன்றி. சிலிண்டர் புக்கிங் போன தடவை குடுத்த அதே முகவரிக்குத்தானா?","reply":"Yes, the same address. How soon can you deliver? We're almost out of gas.","replyTamil":"ஆமா, அதே முகவரிதான். எவ்வளவு சீக்கிரம் டெலிவரி பண்ணுவீங்க? எங்ககிட்ட கேஸ் கிட்டத்தட்ட தீர்ந்துடுச்சு."}
+]

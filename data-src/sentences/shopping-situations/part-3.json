@@ -1,0 +1,372 @@
+[
+ {
+  "en": "My order was supposed to arrive yesterday.",
+  "tamil": "என் ஆர்டர் நேத்தே வந்திருக்கணும்.",
+  "context": "Complaining about a late delivery.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was supposed to' means something was planned but did not happen.",
+  "words": [
+   "order",
+   "arrive"
+  ],
+  "usage": "Use it with customer care when your parcel is late.",
+  "leelaQ": "Has an order of yours ever come late?",
+  "answer": "Yes, my phone arrived three days late once."
+ },
+ {
+  "en": "Can you tell me where my parcel is now?",
+  "tamil": "என் பார்சல் இப்ப எங்க இருக்குன்னு சொல்ல முடியுமா?",
+  "context": "Asking customer care about a parcel.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can you tell me' is a polite way to ask for information. Then the word order is normal: 'where my parcel is'.",
+  "words": [
+   "parcel"
+  ],
+  "usage": "Use it on a customer care call or chat about a delayed parcel.",
+  "leelaQ": "How do you find out where your parcel is?",
+  "answer": "I open the app and check the tracking page."
+ },
+ {
+  "en": "I ordered a phone cover online last night.",
+  "tamil": "நேத்து ராத்திரி ஆன்லைன்ல போன் கவர் ஆர்டர் பண்ணினேன்.",
+  "context": "Telling someone about an online purchase.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Ordered' is the past of 'order'. 'Online' means on the internet.",
+  "words": [
+   "ordered",
+   "online"
+  ],
+  "usage": "Use it in casual talk or when you start a complaint.",
+  "leelaQ": "What do you buy online most often?",
+  "answer": "I buy books and phone accessories online."
+ },
+ {
+  "en": "The delivery boy called me, but I could not hear him.",
+  "tamil": "டெலிவரி பையன் போன் பண்ணினான், ஆனா எனக்கு கேட்கல.",
+  "context": "Explaining a missed delivery call.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Could not' is the negative past of 'can'. 'But' shows a problem.",
+  "words": [
+   "delivery",
+   "hear"
+  ],
+  "usage": "Use it when you explain why you missed a delivery.",
+  "leelaQ": "What do you do when you miss a delivery call?",
+  "answer": "I call back the delivery boy at once."
+ },
+ {
+  "en": "Please leave the parcel with the security guard.",
+  "tamil": "பார்சலை செக்யூரிட்டிகிட்ட கொடுத்துட்டு போங்க.",
+  "context": "Giving delivery instructions.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Leave it with' means give it to someone to keep. 'Please' makes it polite.",
+  "words": [
+   "parcel",
+   "security guard"
+  ],
+  "usage": "Use it when you are not at home and the delivery person calls.",
+  "leelaQ": "Who receives parcels when you are out?",
+  "answer": "My neighbour or the security guard receives them."
+ },
+ {
+  "en": "The app shows that my order is out for delivery.",
+  "tamil": "என் ஆர்டர் டெலிவரிக்கு கிளம்பிடுச்சுன்னு ஆப்ல காட்டுது.",
+  "context": "Telling family the order status.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Out for delivery' means the parcel has left the warehouse. 'Shows that' introduces the news.",
+  "words": [
+   "shows",
+   "delivery"
+  ],
+  "usage": "Use it to tell your family to expect a parcel today.",
+  "leelaQ": "How do you know when your parcel will come?",
+  "answer": "The app sends me a message with the time."
+ },
+ {
+  "en": "How long will it take to deliver to Madurai?",
+  "tamil": "மதுரைக்கு டெலிவரி பண்ண எவ்வளவு நாள் ஆகும்?",
+  "context": "Asking a seller about delivery time.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'How long will it take' asks for the time needed. 'To deliver to' gives the place.",
+  "words": [
+   "deliver"
+  ],
+  "usage": "Use it when you order from a seller in another city.",
+  "leelaQ": "Do you like fast delivery or cheap delivery?",
+  "answer": "I prefer cheap delivery if I am not in a hurry."
+ },
+ {
+  "en": "I have been waiting for the courier since morning.",
+  "tamil": "நான் காலையிலேர்ந்து கூரியருக்காக காத்திருக்கேன்.",
+  "context": "Complaining about a long wait.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been waiting' with 'since morning' shows the wait is still going on.",
+  "words": [
+   "waiting",
+   "courier"
+  ],
+  "usage": "Use it when you call to find out why the courier has not come.",
+  "leelaQ": "Have you ever waited a long time for something?",
+  "answer": "Yes, I waited two hours for a courier last month."
+ },
+ {
+  "en": "Do you offer cash on delivery?",
+  "tamil": "கேஷ் ஆன் டெலிவரி இருக்கா?",
+  "context": "Asking a seller about payment options.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Cash on delivery' means you pay when the parcel comes. 'Do you offer' asks if a service is given.",
+  "words": [
+   "cash"
+  ],
+  "usage": "Use it when you order from a small seller online.",
+  "leelaQ": "Do you prefer to pay before or after delivery?",
+  "answer": "I prefer to pay after delivery, so I feel safe."
+ },
+ {
+  "en": "I will track my order using this link.",
+  "tamil": "இந்த லிங்கை வெச்சு என் ஆர்டரை டிராக் பண்ணுவேன்.",
+  "context": "Telling the seller you will check the status.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Using this link' tells the method. 'Track' means to follow the movement of a parcel.",
+  "words": [
+   "track",
+   "link"
+  ],
+  "usage": "Use it after the seller sends a tracking link.",
+  "leelaQ": "What information do you check while tracking?",
+  "answer": "I check the date and the delivery city."
+ },
+ {
+  "en": "The product I received is different from the photo.",
+  "tamil": "நான் வாங்கின பொருள் போட்டோவுல இருக்கிறதுல இருந்து வித்தியாசமா இருக்கு.",
+  "context": "Complaining about a wrong product.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Is different from' compares two things. 'I received' tells which product.",
+  "words": [
+   "received",
+   "different"
+  ],
+  "usage": "Use it in a complaint to the seller or the app support.",
+  "leelaQ": "What do you do when the product looks different?",
+  "answer": "I take a photo and send it to the customer care."
+ },
+ {
+  "en": "Could you send me the tracking number again?",
+  "tamil": "டிராக்கிங் நம்பரை திரும்ப அனுப்ப முடியுமா?",
+  "context": "Asking a seller for the number.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is polite. 'Again' means one more time.",
+  "words": [
+   "tracking number"
+  ],
+  "usage": "Use it in a message to a seller when you lose the number.",
+  "leelaQ": "Where do you keep important order details?",
+  "answer": "I keep them in my email and in my phone."
+ },
+ {
+  "en": "Free delivery is available for orders above five hundred rupees.",
+  "tamil": "ஐநூறு ரூபாய்க்கு மேல ஆர்டர் பண்ணா டெலிவரி இலவசம்.",
+  "context": "Explaining a shop's delivery rule.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Available for' tells who can use the offer. 'Above' means more than.",
+  "words": [
+   "delivery",
+   "orders"
+  ],
+  "usage": "Use it when you tell a friend how to save on delivery charges.",
+  "leelaQ": "How do you save money when you shop online?",
+  "answer": "I add more items to my cart to get free delivery."
+ },
+ {
+  "en": "I always read the reviews before buying anything online.",
+  "tamil": "ஆன்லைன்ல எதையும் வாங்கறதுக்கு முன்னாடி நான் எப்பவும் ரிவ்யூ படிப்பேன்.",
+  "context": "Talking about a safe shopping habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Before buying' is used with -ing. 'Always' shows a regular habit.",
+  "words": [
+   "reviews",
+   "before"
+  ],
+  "usage": "Use it when you give shopping advice to a friend.",
+  "leelaQ": "Why are reviews useful?",
+  "answer": "They tell us if the product is good or bad."
+ },
+ {
+  "en": "My package has not arrived yet.",
+  "tamil": "என் பேக்கேஜ் இன்னும் வரல.",
+  "context": "Telling support the parcel is missing.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Has not arrived yet' shows something expected has not happened until now.",
+  "words": [
+   "package",
+   "arrived"
+  ],
+  "usage": "Use it when you contact the seller about a late order.",
+  "leelaQ": "What will you say to the seller about a late parcel?",
+  "answer": "I will say that my package has not arrived yet."
+ },
+ {
+  "en": "Please call me before you come, I may be outside.",
+  "tamil": "வர்றதுக்கு முன்னாடி போன் பண்ணுங்க, நான் வெளியே இருக்கலாம்.",
+  "context": "Asking the delivery person to call first.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Before you come' gives the time. 'May be' shows it is possible.",
+  "words": [
+   "before",
+   "outside"
+  ],
+  "usage": "Use it when you give instructions to a delivery person.",
+  "leelaQ": "When do you ask a delivery person to call?",
+  "answer": "I ask them to call when I am at work."
+ },
+ {
+  "en": "I am adding these two items to my cart.",
+  "tamil": "இந்த ரெண்டு பொருளையும் என் கார்ட்டுல சேர்க்கிறேன்.",
+  "context": "Describing what you do on a shopping app.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Am adding' shows an action happening now. 'Cart' is the basket on a shopping website.",
+  "words": [
+   "adding",
+   "cart"
+  ],
+  "usage": "Use it when you shop online with a friend and explain your steps.",
+  "leelaQ": "What items are in your cart now?",
+  "answer": "I have a pair of earphones and a book in my cart."
+ },
+ {
+  "en": "Is the delivery charge included in this price?",
+  "tamil": "டெலிவரி சார்ஜ் இந்த விலையில சேர்த்தா?",
+  "context": "Asking if the price has extra charges.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Included in' means already part of the price. It avoids a surprise at the end.",
+  "words": [
+   "delivery charge",
+   "included"
+  ],
+  "usage": "Use it when you order from a seller by phone or chat.",
+  "leelaQ": "Do hidden charges bother you?",
+  "answer": "Yes, I do not like surprise charges at the end."
+ },
+ {
+  "en": "The festival sale starts at midnight.",
+  "tamil": "பண்டிகை சேல் நள்ளிரவு பன்னிரண்டு மணிக்கு ஆரம்பிக்குது.",
+  "context": "Telling a friend about a sale time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "The simple present is used for fixed events like a sale time. 'Midnight' is twelve at night.",
+  "words": [
+   "festival",
+   "midnight"
+  ],
+  "usage": "Use it around Diwali or Pongal when online sales begin.",
+  "leelaQ": "Do you shop during festival sales?",
+  "answer": "Yes, I buy clothes for the family during festival sales."
+ },
+ {
+  "en": "Don't forget to rate the seller after delivery.",
+  "tamil": "டெலிவரிக்கு அப்புறம் விற்பனையாளருக்கு ரேட்டிங் கொடுக்க மறக்காதீங்க.",
+  "context": "Reminding a family member.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't forget to' is a common reminder. 'Rate' means to give stars.",
+  "words": [
+   "forget",
+   "rate"
+  ],
+  "usage": "Use it when you remind a friend or relative after they shop online.",
+  "leelaQ": "Do you give ratings after a delivery?",
+  "answer": "Yes, I give a rating if the service is good."
+ },
+ {
+  "en": "They said I will get the refund in seven days.",
+  "tamil": "ஏழு நாள்ல ரீஃபண்ட் கிடைக்கும்னு சொன்னாங்க.",
+  "context": "Reporting what customer care said.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'They said' reports someone's words. 'Will get' talks about a promise for the future.",
+  "words": [
+   "refund",
+   "seven days"
+  ],
+  "usage": "Use it when you tell someone what support told you.",
+  "leelaQ": "How long does a refund take usually?",
+  "answer": "It usually takes about a week."
+ },
+ {
+  "en": "Which coupon code should I use for this order?",
+  "tamil": "இந்த ஆர்டருக்கு எந்த கூப்பன் கோடு யூஸ் பண்ணணும்?",
+  "context": "Asking a friend about a discount code.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Which' is used when there are a few choices. 'Should' asks for advice.",
+  "words": [
+   "coupon code"
+  ],
+  "usage": "Use it when you shop online and need a friend's advice on discounts.",
+  "leelaQ": "Do you use coupon codes when you shop?",
+  "answer": "Yes, I search for a coupon code before I pay."
+ },
+ {
+  "en": "My cousin returned the shoes because they were too small.",
+  "tamil": "என் cousin ஷூவை ரொம்ப சின்னதா இருந்ததால திருப்பி கொடுத்தான்.",
+  "context": "Telling why someone returned a product.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Because' gives the reason. 'Too small' means smaller than needed.",
+  "words": [
+   "returned",
+   "because"
+  ],
+  "usage": "Use it when you talk about online shopping problems.",
+  "leelaQ": "Why do people return things they order online?",
+  "answer": "They return things because the size or colour is wrong."
+ },
+ {
+  "en": "Could you deliver it after six in the evening?",
+  "tamil": "சாயந்திரம் ஆறு மணிக்கு மேல டெலிவரி பண்ண முடியுமா?",
+  "context": "Asking the delivery person for a time.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' makes the request polite. 'After six' gives the time limit.",
+  "words": [
+   "deliver",
+   "evening"
+  ],
+  "usage": "Use it when you are at work during the day.",
+  "leelaQ": "What time are you free to receive a parcel?",
+  "answer": "I am free after six in the evening."
+ },
+ {
+  "en": "I saved a lot of money during the sale.",
+  "tamil": "சேல்ல நிறைய பணம் மிச்சம் பண்ணினேன்.",
+  "context": "Sharing a good shopping result.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Saved' is the past of 'save'. 'A lot of' means much.",
+  "words": [
+   "saved",
+   "sale"
+  ],
+  "usage": "Use it when you tell friends about a good deal.",
+  "leelaQ": "How much did you save last time?",
+  "answer": "I saved almost five hundred rupees on a bag."
+ }
+]

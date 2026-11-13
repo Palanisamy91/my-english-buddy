@@ -1,0 +1,751 @@
+[
+ {
+  "word": "kickoff",
+  "tamil": "தொடக்கக் கூட்டம்",
+  "pos": "noun",
+  "pron": "KIK-off",
+  "example": "The project kickoff is scheduled for Friday morning.",
+  "exampleTamil": "திட்டத்தின் தொடக்கக் கூட்டம் வெள்ளிக்கிழமை காலை நடக்கிறது.",
+  "synonyms": [
+   "launch",
+   "start"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "blocker",
+  "tamil": "தடையாக உள்ள பிரச்சினை",
+  "pos": "noun",
+  "pron": "BLOK-er",
+  "example": "My only blocker is the missing access to the server.",
+  "exampleTamil": "சர்வருக்கான அணுகல் இல்லாததே என் ஒரே தடை.",
+  "synonyms": [
+   "obstacle",
+   "roadblock"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "roadblock",
+  "tamil": "பெரிய தடை",
+  "pos": "noun",
+  "pron": "ROHD-blok",
+  "example": "We hit a roadblock with the vendor contract.",
+  "exampleTamil": "விற்பனையாளர் ஒப்பந்தத்தில் ஒரு பெரிய தடை ஏற்பட்டது.",
+  "synonyms": [
+   "obstacle",
+   "barrier"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "forecast",
+  "tamil": "முன்னறிவிப்பு",
+  "pos": "noun",
+  "pron": "FOR-kast",
+  "example": "The sales forecast looks strong for next quarter.",
+  "exampleTamil": "அடுத்த காலாண்டுக்கான விற்பனை முன்னறிவிப்பு வலுவாக உள்ளது.",
+  "synonyms": [
+   "projection",
+   "prediction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "projection",
+  "tamil": "எதிர்கால மதிப்பீடு",
+  "pos": "noun",
+  "pron": "pruh-JEK-shun",
+  "example": "These projections assume steady growth this year.",
+  "exampleTamil": "இந்த மதிப்பீடுகள் இந்த ஆண்டு நிலையான வளர்ச்சியை எதிர்பார்க்கின்றன.",
+  "synonyms": [
+   "estimate",
+   "forecast"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "variance",
+  "tamil": "திட்டத்திலிருந்து வேறுபாடு",
+  "pos": "noun",
+  "pron": "VAIR-ee-unss",
+  "example": "There is a small variance between plan and actual cost.",
+  "exampleTamil": "திட்டத்துக்கும் உண்மைச் செலவுக்கும் சிறிய வேறுபாடு உள்ளது.",
+  "synonyms": [
+   "difference",
+   "deviation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overrun",
+  "tamil": "செலவு அல்லது நேரம் மீறுதல்",
+  "pos": "noun",
+  "pron": "OH-ver-run",
+  "example": "We cannot afford another cost overrun this quarter.",
+  "exampleTamil": "இந்த காலாண்டில் இன்னொரு செலவு மீறலை நாம் தாங்க முடியாது.",
+  "synonyms": [
+   "excess",
+   "overspend"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "shortfall",
+  "tamil": "பற்றாக்குறை",
+  "pos": "noun",
+  "pron": "SHORT-fawl",
+  "example": "We have a shortfall of two engineers this month.",
+  "exampleTamil": "இந்த மாதம் இரண்டு பொறியாளர்கள் பற்றாக்குறை உள்ளது.",
+  "synonyms": [
+   "deficit",
+   "gap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "allocation",
+  "tamil": "ஒதுக்கீடு",
+  "pos": "noun",
+  "pron": "al-uh-KAY-shun",
+  "example": "The resource allocation needs another look.",
+  "exampleTamil": "வள ஒதுக்கீட்டை மீண்டும் பார்க்க வேண்டும்.",
+  "synonyms": [
+   "assignment",
+   "distribution"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "allocate",
+  "tamil": "ஒதுக்கு",
+  "pos": "verb",
+  "pron": "AL-uh-kayt",
+  "example": "Can we allocate more time for testing?",
+  "exampleTamil": "சோதனைக்கு இன்னும் நேரம் ஒதுக்க முடியுமா?",
+  "synonyms": [
+   "assign",
+   "set aside"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "revenue",
+  "tamil": "வருவாய்",
+  "pos": "noun",
+  "pron": "REV-uh-noo",
+  "example": "Revenue grew by ten percent last quarter.",
+  "exampleTamil": "கடந்த காலாண்டில் வருவாய் பத்து சதவீதம் உயர்ந்தது.",
+  "synonyms": [
+   "income",
+   "earnings"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "profit",
+  "tamil": "இலாபம்",
+  "pos": "noun",
+  "pron": "PROF-it",
+  "example": "The new product has finally started making a profit.",
+  "exampleTamil": "புதிய தயாரிப்பு இறுதியாக இலாபம் ஈட்டத் தொடங்கியது.",
+  "synonyms": [
+   "gain",
+   "earnings"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quarterly",
+  "tamil": "காலாண்டுக்கு ஒருமுறை",
+  "pos": "adjective",
+  "pron": "KWOR-ter-lee",
+  "example": "The quarterly review is next week.",
+  "exampleTamil": "காலாண்டு மதிப்பாய்வு அடுத்த வாரம்.",
+  "synonyms": [
+   "every three months"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "annual",
+  "tamil": "ஆண்டுதோறும் நடக்கும்",
+  "pos": "adjective",
+  "pron": "AN-yoo-ul",
+  "example": "The annual meeting takes place in January.",
+  "exampleTamil": "ஆண்டுக் கூட்டம் ஜனவரியில் நடைபெறும்.",
+  "synonyms": [
+   "yearly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "weekly",
+  "tamil": "வாரந்தோறும்",
+  "pos": "adjective",
+  "pron": "WEEK-lee",
+  "example": "We have a weekly meeting every Tuesday.",
+  "exampleTamil": "ஒவ்வொரு செவ்வாய்க்கிழமையும் வாராந்திரக் கூட்டம் உள்ளது.",
+  "synonyms": [
+   "every week"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "monthly",
+  "tamil": "மாதந்தோறும்",
+  "pos": "adjective",
+  "pron": "MUN-thlee",
+  "example": "The monthly report is due on the last day.",
+  "exampleTamil": "மாதாந்திர அறிக்கை கடைசி நாளில் கொடுக்க வேண்டும்.",
+  "synonyms": [
+   "every month"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "goal",
+  "tamil": "இலக்கு",
+  "pos": "noun",
+  "pron": "GOHL",
+  "example": "Our goal is to launch by June.",
+  "exampleTamil": "எங்கள் இலக்கு ஜூனுக்குள் அறிமுகப்படுத்துவது.",
+  "synonyms": [
+   "aim",
+   "target"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "metric",
+  "tamil": "அளவீட்டு குறியீடு",
+  "pos": "noun",
+  "pron": "MET-rik",
+  "example": "Which metric should we track for this goal?",
+  "exampleTamil": "இந்த இலக்குக்கு எந்த அளவீட்டை நாம் கண்காணிக்க வேண்டும்?",
+  "synonyms": [
+   "measure",
+   "indicator"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "milestones",
+  "tamil": "முக்கிய கட்டங்கள்",
+  "pos": "noun",
+  "pron": "MYL-stohnz",
+  "example": "We have three milestones before the final release.",
+  "exampleTamil": "இறுதி வெளியீட்டுக்கு முன் எங்களுக்கு மூன்று முக்கிய கட்டங்கள் உள்ளன.",
+  "synonyms": [
+   "checkpoints",
+   "stages"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overlap",
+  "tamil": "ஒன்றோடொன்று மேவுதல்",
+  "pos": "verb",
+  "pron": "oh-ver-LAP",
+  "example": "The two meetings overlap by thirty minutes.",
+  "exampleTamil": "இரண்டு கூட்டங்களும் முப்பது நிமிடம் மேவுகின்றன.",
+  "synonyms": [
+   "coincide",
+   "clash"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recurring",
+  "tamil": "மீண்டும் மீண்டும் நடக்கும்",
+  "pos": "adjective",
+  "pron": "rih-KUR-ing",
+  "example": "This is a recurring meeting every other Monday.",
+  "exampleTamil": "இது இரண்டு வாரத்துக்கு ஒருமுறை திங்களன்று நடக்கும் கூட்டம்.",
+  "synonyms": [
+   "repeating",
+   "regular"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "latecomer",
+  "tamil": "தாமதமாக வருபவர்",
+  "pos": "noun",
+  "pron": "LAYT-kum-er",
+  "example": "Latecomers can join quietly from the back.",
+  "exampleTamil": "தாமதமாக வருபவர்கள் பின்புறம் அமைதியாக சேரலாம்.",
+  "synonyms": [
+   "late arrival",
+   "straggler"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "apology",
+  "tamil": "மன்னிப்பு",
+  "pos": "noun",
+  "pron": "uh-POL-uh-jee",
+  "example": "Apologies from Ravi, who is on leave today.",
+  "exampleTamil": "இன்று விடுப்பில் இருக்கும் ரவியின் மன்னிப்பு.",
+  "synonyms": [
+   "regret",
+   "excuse"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "duration",
+  "tamil": "கால அளவு",
+  "pos": "noun",
+  "pron": "dyoo-RAY-shun",
+  "example": "The expected duration is about forty minutes.",
+  "exampleTamil": "எதிர்பார்க்கும் கால அளவு சுமார் நாற்பது நிமிடங்கள்.",
+  "synonyms": [
+   "length",
+   "time span"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "timebox",
+  "tamil": "நேரவரம்பு விதி",
+  "pos": "verb",
+  "pron": "TYM-boks",
+  "example": "Let's timebox this topic to five minutes.",
+  "exampleTamil": "இந்தத் தலைப்பை ஐந்து நிமிடத்துக்குள் வரம்பிடுவோம்.",
+  "synonyms": [
+   "limit",
+   "cap"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wrap",
+  "tamil": "முடித்துவிடு",
+  "pos": "verb",
+  "pron": "RAP",
+  "example": "Let's wrap this up before lunch.",
+  "exampleTamil": "மதிய உணவுக்கு முன் இதை முடித்துவிடுவோம்.",
+  "synonyms": [
+   "finish",
+   "close"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "objectives",
+  "tamil": "குறிக்கோள்கள்",
+  "pos": "noun",
+  "pron": "ub-JEK-tivz",
+  "example": "We set clear objectives for each team member.",
+  "exampleTamil": "ஒவ்வொரு உறுப்பினருக்கும் தெளிவான குறிக்கோள்களை நிர்ணயித்தோம்.",
+  "synonyms": [
+   "aims",
+   "goals"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "notes",
+  "tamil": "குறிப்புகள்",
+  "pos": "noun",
+  "pron": "NOHTS",
+  "example": "Who is taking notes in today's meeting?",
+  "exampleTamil": "இன்றைய கூட்டத்தில் குறிப்புகள் யார் எடுக்கிறார்கள்?",
+  "synonyms": [
+   "memo",
+   "record"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "recorder",
+  "tamil": "பதிவு செய்பவர்",
+  "pos": "noun",
+  "pron": "rih-KOR-der",
+  "example": "The recorder will share the notes after the call.",
+  "exampleTamil": "பதிவாளர் அழைப்புக்குப் பின் குறிப்புகளைப் பகிர்வார்.",
+  "synonyms": [
+   "note-taker",
+   "scribe"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "recording",
+  "tamil": "ஒலி/காணொளிப் பதிவு",
+  "pos": "noun",
+  "pron": "rih-KOR-ding",
+  "example": "I will share the recording with those who missed it.",
+  "exampleTamil": "கலந்துகொள்ள முடியாதவர்களுக்கு பதிவைப் பகிர்வேன்.",
+  "synonyms": [
+   "video",
+   "capture"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "circulate",
+  "tamil": "எல்லோருக்கும் அனுப்பு",
+  "pos": "verb",
+  "pron": "SUR-kyuh-layt",
+  "example": "I will circulate the minutes by tomorrow.",
+  "exampleTamil": "கூட்டக் குறிப்புகளை நாளைக்குள் அனைவருக்கும் அனுப்புவேன்.",
+  "synonyms": [
+   "distribute",
+   "send around"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "prepare",
+  "tamil": "தயார் செய்",
+  "pos": "verb",
+  "pron": "prih-PAIR",
+  "example": "Please prepare a short update for tomorrow.",
+  "exampleTamil": "நாளைக்கு ஒரு சிறிய தகவலைத் தயார் செய்யவும்.",
+  "synonyms": [
+   "get ready",
+   "arrange"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rehearse",
+  "tamil": "ஒத்திகை பார்",
+  "pos": "verb",
+  "pron": "rih-HURSS",
+  "example": "I want to rehearse my talk once more.",
+  "exampleTamil": "என் உரையை இன்னொரு முறை ஒத்திகை பார்க்க விரும்புகிறேன்.",
+  "synonyms": [
+   "practise",
+   "run through"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deck",
+  "tamil": "விளக்கக்காட்சி ஸ்லைடுகள்",
+  "pos": "noun",
+  "pron": "DEK",
+  "example": "Please send me the deck before the meeting.",
+  "exampleTamil": "கூட்டத்துக்கு முன் ஸ்லைடு தொகுப்பை எனக்கு அனுப்புங்கள்.",
+  "synonyms": [
+   "slides",
+   "presentation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "walkthrough",
+  "tamil": "படிப்படியான விளக்கம்",
+  "pos": "noun",
+  "pron": "WAWK-throo",
+  "example": "Could you give us a quick walkthrough of the demo?",
+  "exampleTamil": "டெமோவின் ஒரு விரைவான படிப்படியான விளக்கத்தைத் தர முடியுமா?",
+  "synonyms": [
+   "tour",
+   "demonstration"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "demo",
+  "tamil": "செயல்விளக்கம்",
+  "pos": "noun",
+  "pron": "DEM-oh",
+  "example": "The demo will take ten minutes at the end.",
+  "exampleTamil": "செயல்விளக்கம் இறுதியில் பத்து நிமிடங்கள் எடுக்கும்.",
+  "synonyms": [
+   "demonstration",
+   "showcase"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "insight",
+  "tamil": "ஆழ்ந்த புரிதல்",
+  "pos": "noun",
+  "pron": "IN-syt",
+  "example": "Thanks, that is a really useful insight.",
+  "exampleTamil": "நன்றி, அது மிகவும் பயனுள்ள புரிதல்.",
+  "synonyms": [
+   "understanding",
+   "perception"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "perspective",
+  "tamil": "பார்வைக் கோணம்",
+  "pos": "noun",
+  "pron": "per-SPEK-tiv",
+  "example": "I would like to hear a different perspective.",
+  "exampleTamil": "வேறு ஒரு பார்வைக் கோணத்தைக் கேட்க விரும்புகிறேன்.",
+  "synonyms": [
+   "viewpoint",
+   "angle"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "opinion",
+  "tamil": "கருத்து",
+  "pos": "noun",
+  "pron": "uh-PIN-yun",
+  "example": "In my opinion, we should wait a week.",
+  "exampleTamil": "என் கருத்தில், நாம் ஒரு வாரம் காத்திருக்க வேண்டும்.",
+  "synonyms": [
+   "view",
+   "belief"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "assumption",
+  "tamil": "ஊகம்",
+  "pos": "noun",
+  "pron": "uh-SUMP-shun",
+  "example": "That is based on an assumption we have not checked.",
+  "exampleTamil": "அது நாம் சரிபார்க்காத ஒரு ஊகத்தை அடிப்படையாகக் கொண்டது.",
+  "synonyms": [
+   "guess",
+   "presumption"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hypothesis",
+  "tamil": "கருதுகோள்",
+  "pos": "noun",
+  "pron": "hy-POTH-uh-sis",
+  "example": "Our hypothesis is that users want a simpler screen.",
+  "exampleTamil": "பயனர்கள் எளிமையான திரையை விரும்புகிறார்கள் என்பதே எங்கள் கருதுகோள்.",
+  "synonyms": [
+   "theory",
+   "premise"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rationale",
+  "tamil": "காரணக் குறிப்பு",
+  "pos": "noun",
+  "pron": "rash-uh-NAL",
+  "example": "Could you explain the rationale behind this change?",
+  "exampleTamil": "இந்த மாற்றத்தின் பின்னணிக் காரணத்தை விளக்க முடியுமா?",
+  "synonyms": [
+   "reasoning",
+   "logic"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "justify",
+  "tamil": "நியாயப்படுத்து",
+  "pos": "verb",
+  "pron": "JUS-tuh-fy",
+  "example": "How would you justify the extra cost?",
+  "exampleTamil": "கூடுதல் செலவை எப்படி நியாயப்படுத்துவீர்கள்?",
+  "synonyms": [
+   "defend",
+   "explain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "advocate",
+  "tamil": "ஆதரித்துப் பேசு",
+  "pos": "verb",
+  "pron": "AD-vuh-kayt",
+  "example": "I strongly advocate starting with a small pilot.",
+  "exampleTamil": "சிறிய முன்னோடித் திட்டத்துடன் தொடங்குவதை நான் வலுவாக ஆதரிக்கிறேன்.",
+  "synonyms": [
+   "support",
+   "champion"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "favour",
+  "tamil": "ஆதரி",
+  "pos": "verb",
+  "pron": "FAY-ver",
+  "example": "Most of us favour the second option.",
+  "exampleTamil": "எங்களில் பெரும்பாலோர் இரண்டாவது தேர்வை ஆதரிக்கிறோம்.",
+  "synonyms": [
+   "prefer",
+   "back"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "prefer",
+  "tamil": "விரும்பு",
+  "pos": "verb",
+  "pron": "prih-FUR",
+  "example": "I would prefer to discuss this offline.",
+  "exampleTamil": "இதை நேரில் பிறகு பேச நான் விரும்புகிறேன்.",
+  "synonyms": [
+   "favour",
+   "like better"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "concern",
+  "tamil": "கவலை",
+  "pos": "noun",
+  "pron": "kun-SURN",
+  "example": "My main concern is the limited budget.",
+  "exampleTamil": "என் முக்கிய கவலை குறைந்த பட்ஜெட்.",
+  "synonyms": [
+   "worry",
+   "issue"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "worry",
+  "tamil": "கவலைப்படு",
+  "pos": "verb",
+  "pron": "WUR-ee",
+  "example": "I worry that we are running out of time.",
+  "exampleTamil": "நமக்கு நேரம் முடிந்துவிடுமோ என்று கவலைப்படுகிறேன்.",
+  "synonyms": [
+   "fret",
+   "be anxious"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fair",
+  "tamil": "நியாயமான",
+  "pos": "adjective",
+  "pron": "FAIR",
+  "example": "That is a fair point, I had not thought of it.",
+  "exampleTamil": "அது நியாயமான கருத்து, நான் அதை யோசிக்கவில்லை.",
+  "synonyms": [
+   "reasonable",
+   "just"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "agreeable",
+  "tamil": "ஏற்றுக்கொள்ளக்கூடிய",
+  "pos": "adjective",
+  "pron": "uh-GREE-uh-bul",
+  "example": "Is this schedule agreeable to everyone?",
+  "exampleTamil": "இந்த அட்டவணை அனைவருக்கும் ஏற்புடையதா?",
+  "synonyms": [
+   "acceptable",
+   "suitable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "feasible",
+  "tamil": "நடைமுறைக்கு சாத்தியமான",
+  "pos": "adjective",
+  "pron": "FEE-zuh-bul",
+  "example": "Is this plan feasible within two weeks?",
+  "exampleTamil": "இந்தத் திட்டம் இரண்டு வாரங்களுக்குள் சாத்தியமா?",
+  "synonyms": [
+   "workable",
+   "achievable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "realistic",
+  "tamil": "நடைமுறைக்கேற்ற",
+  "pos": "adjective",
+  "pron": "ree-uh-LIS-tik",
+  "example": "We need a more realistic estimate.",
+  "exampleTamil": "நமக்கு மேலும் நடைமுறைக்கேற்ற மதிப்பீடு தேவை.",
+  "synonyms": [
+   "practical",
+   "sensible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "critical",
+  "tamil": "மிக முக்கியமான",
+  "pos": "adjective",
+  "pron": "KRIT-ih-kul",
+  "example": "It is critical that we finish this week.",
+  "exampleTamil": "இந்த வாரத்துக்குள் முடிப்பது மிக முக்கியம்.",
+  "synonyms": [
+   "crucial",
+   "vital"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "priorities",
+  "tamil": "முன்னுரிமைகள்",
+  "pos": "noun",
+  "pron": "pry-OR-uh-teez",
+  "example": "Let's agree on our top three priorities.",
+  "exampleTamil": "நம் முதல் மூன்று முன்னுரிமைகளை ஒப்புக்கொள்வோம்.",
+  "synonyms": [
+   "key tasks",
+   "precedence"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trade-off",
+  "tamil": "சமரசத் தேர்வு",
+  "pos": "noun",
+  "pron": "TRAYD-awf",
+  "example": "There is always a trade-off between speed and quality.",
+  "exampleTamil": "வேகத்துக்கும் தரத்துக்கும் இடையே எப்போதும் ஒரு சமரசத் தேர்வு உண்டு.",
+  "synonyms": [
+   "compromise",
+   "balance"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "adjournment",
+  "tamil": "கூட்டம் முடித்தல்",
+  "pos": "noun",
+  "pron": "uh-JURN-munt",
+  "example": "The chair announced the adjournment at five.",
+  "exampleTamil": "தலைவர் ஐந்து மணிக்கு கூட்டம் முடிந்ததாக அறிவித்தார்.",
+  "synonyms": [
+   "closing",
+   "recess"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sidetrack",
+  "tamil": "திசைதிருப்பு",
+  "pos": "verb",
+  "pron": "SYD-trak",
+  "example": "Let's not sidetrack the meeting with small details.",
+  "exampleTamil": "சிறு விவரங்களால் கூட்டத்தைத் திசைதிருப்ப வேண்டாம்.",
+  "synonyms": [
+   "distract",
+   "divert"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stakeholders",
+  "tamil": "பங்குதாரர்கள்",
+  "pos": "noun",
+  "pron": "STAYK-hohl-derz",
+  "example": "We must inform all stakeholders about the delay.",
+  "exampleTamil": "தாமதம் பற்றி அனைத்து பங்குதாரர்களுக்கும் தெரிவிக்க வேண்டும்.",
+  "synonyms": [
+   "interested parties"
+  ],
+  "level": "intermediate"
+ }
+]

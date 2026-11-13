@@ -1,0 +1,343 @@
+[
+ {
+  "word": "keyboard",
+  "meaning": "The set of keys you press to type on a computer.",
+  "tamil": "விசைப்பலகை",
+  "pos": "noun",
+  "pron": "KEE-bord",
+  "example": "My keyboard has a few broken keys.",
+  "exampleTamil": "என் விசைப்பலகையில் சில விசைகள் உடைந்துள்ளன.",
+  "synonyms": [
+   "keys"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "computer",
+  "meaning": "A machine that stores information and does work using programs.",
+  "tamil": "கணினி, நிரல்களைக் கொண்டு வேலை செய்யும் இயந்திரம்",
+  "pos": "noun",
+  "pron": "kum-PYOO-ter",
+  "example": "My brother uses the computer for his homework.",
+  "exampleTamil": "என் தம்பி வீட்டுப்பாடத்துக்குக் கணினியைப் பயன்படுத்துகிறான்.",
+  "synonyms": [
+   "PC",
+   "machine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "internet",
+  "meaning": "The worldwide network that connects computers and phones.",
+  "tamil": "இணையம், உலகெங்கும் கணினிகளை இணைக்கும் வலையமைப்பு",
+  "pos": "noun",
+  "pron": "IN-ter-net",
+  "example": "The internet is very slow at my house today.",
+  "exampleTamil": "இன்று என் வீட்டில் இணையம் மிகவும் மெதுவாக உள்ளது.",
+  "synonyms": [
+   "web",
+   "net"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "e-book",
+  "meaning": "A book that you read on a phone, tablet or screen.",
+  "tamil": "திரையில் படிக்கும் மின்னூல்",
+  "pos": "noun",
+  "pron": "EE-book",
+  "example": "I downloaded an e-book to read on the train.",
+  "exampleTamil": "ரயிலில் படிக்க ஒரு மின்னூலைப் பதிவிறக்கினேன்.",
+  "synonyms": [
+   "digital book"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mouse",
+  "meaning": "A small device you move by hand to control the computer screen.",
+  "tamil": "மவுஸ், கணினித் திரையை இயக்கும் சிறிய கருவி",
+  "pos": "noun",
+  "pron": "MOWSS",
+  "example": "Please move the mouse to the top corner.",
+  "exampleTamil": "மவுஸை மேல் மூலைக்கு நகர்த்துங்கள்.",
+  "synonyms": [
+   "pointer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "playlist",
+  "meaning": "A list of songs or videos that play one after another.",
+  "tamil": "பாடல் பட்டியல், தொடர்ந்து ஒலிக்கும் பாடல்களின் தொகுப்பு",
+  "pos": "noun",
+  "pron": "PLAY-list",
+  "example": "I made a new playlist for my morning walk.",
+  "exampleTamil": "காலை நடைப்பயிற்சிக்காக ஒரு புதிய பாடல் பட்டியலை உருவாக்கினேன்.",
+  "synonyms": [
+   "song list",
+   "mixtape"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "desktop",
+  "meaning": "A computer that stays on a desk and is not carried around.",
+  "tamil": "மேசைக் கணினி, ஒரே இடத்தில் வைத்துப் பயன்படுத்தும் கணினி",
+  "pos": "noun",
+  "pron": "DESK-top",
+  "example": "We still use a desktop at the shop.",
+  "exampleTamil": "நாங்கள் கடையில் இன்னும் மேசைக் கணினியைப் பயன்படுத்துகிறோம்.",
+  "synonyms": [
+   "PC"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "touchscreen",
+  "meaning": "A screen you control by touching it with your finger.",
+  "tamil": "தொடுதிரை, விரலால் தொட்டு இயக்கும் திரை",
+  "pos": "noun",
+  "pron": "TUCH-skreen",
+  "example": "My phone has a very smooth touchscreen.",
+  "exampleTamil": "என் தொலைபேசியில் மிகவும் மென்மையான தொடுதிரை உள்ளது.",
+  "synonyms": [
+   "touch display"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "podcast",
+  "meaning": "An audio show you can download or listen to online.",
+  "tamil": "இணையத்தில் கேட்கும் ஒலி நிகழ்ச்சி",
+  "pos": "noun",
+  "pron": "POD-kast",
+  "example": "I listen to a podcast on my way to work.",
+  "exampleTamil": "வேலைக்குப் போகும் வழியில் நான் ஒரு பாட்காஸ்ட் கேட்கிறேன்.",
+  "synonyms": [
+   "audio show",
+   "broadcast"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "username",
+  "meaning": "The name you use to log in to a website or app.",
+  "tamil": "உள்நுழைய பயன்படுத்தும் பயனர் பெயர்",
+  "pos": "noun",
+  "pron": "YOO-zer-name",
+  "example": "I forgot my username for the shopping app.",
+  "exampleTamil": "ஷாப்பிங் செயலிக்கான என் பயனர் பெயரை மறந்துவிட்டேன்.",
+  "synonyms": [
+   "login name",
+   "user name"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "device",
+  "meaning": "A machine or tool made for a special job, like a phone.",
+  "tamil": "கருவி, குறிப்பிட்ட வேலைக்காக உருவாக்கப்பட்ட சாதனம்",
+  "pos": "noun",
+  "pron": "di-VYSS",
+  "example": "You can log in on any device.",
+  "exampleTamil": "நீங்கள் எந்தச் சாதனத்திலும் உள்நுழையலாம்.",
+  "synonyms": [
+   "gadget",
+   "tool"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hacker",
+  "meaning": "A person who breaks into computers or accounts without permission.",
+  "tamil": "ஹேக்கர், அனுமதியின்றி கணினிகளில் நுழைபவர்",
+  "pos": "noun",
+  "pron": "HAK-er",
+  "example": "A hacker stole thousands of passwords from the site.",
+  "exampleTamil": "ஒரு ஹேக்கர் அந்தத் தளத்திலிருந்து ஆயிரக்கணக்கான கடவுச்சொற்களைத் திருடினார்.",
+  "synonyms": [
+   "intruder",
+   "cracker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "virus",
+  "meaning": "A harmful program that damages files or spreads between computers.",
+  "tamil": "வைரஸ், கோப்புகளைச் சேதப்படுத்தும் தீங்கான நிரல்",
+  "pos": "noun",
+  "pron": "VY-russ",
+  "example": "My laptop got a virus from a free game.",
+  "exampleTamil": "இலவச விளையாட்டிலிருந்து என் மடிக்கணினிக்கு வைரஸ் வந்துவிட்டது.",
+  "synonyms": [
+   "malware",
+   "infection"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "click",
+  "meaning": "To press a mouse button to choose something on the screen.",
+  "tamil": "கிளிக் செய்தல், மவுஸ் பொத்தானை அழுத்தித் தேர்வு செய்தல்",
+  "pos": "verb",
+  "pron": "KLIK",
+  "example": "Click the blue button to continue.",
+  "exampleTamil": "தொடர நீல பொத்தானை கிளிக் செய்யுங்கள்.",
+  "synonyms": [
+   "press",
+   "tap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "earbuds",
+  "meaning": "Tiny headphones that you put inside your ears.",
+  "tamil": "காதில் வைக்கும் சிறிய ஹெட்போன்கள்",
+  "pos": "noun",
+  "pron": "EER-budz",
+  "example": "I lost one of my earbuds on the bus.",
+  "exampleTamil": "பேருந்தில் என் காதொலிக் கருவிகளில் ஒன்றை இழந்துவிட்டேன்.",
+  "synonyms": [
+   "earphones",
+   "headphones"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "smartwatch",
+  "meaning": "A watch that also works like a small phone or fitness tracker.",
+  "tamil": "கைபேசி போலவும் செயல்படும் ஸ்மார்ட் கடிகாரம்",
+  "pos": "noun",
+  "pron": "SMART-woch",
+  "example": "My smartwatch counts my steps every day.",
+  "exampleTamil": "என் ஸ்மார்ட் கடிகாரம் தினமும் என் அடிகளை எண்ணுகிறது.",
+  "synonyms": [
+   "wearable",
+   "fitness watch"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gamer",
+  "meaning": "A person who plays video games often.",
+  "tamil": "வீடியோ விளையாட்டுகளை அடிக்கடி விளையாடுபவர்",
+  "pos": "noun",
+  "pron": "GAY-mer",
+  "example": "My brother is a serious gamer and plays every night.",
+  "exampleTamil": "என் தம்பி தீவிர விளையாட்டாளர், தினமும் இரவு விளையாடுவான்.",
+  "synonyms": [
+   "player"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "post",
+  "meaning": "To put a message or photo online for others to see.",
+  "tamil": "இணையத்தில் செய்தி அல்லது படத்தைப் பதிவிடுதல்",
+  "pos": "verb",
+  "pron": "POHST",
+  "example": "She posted a photo of the temple festival.",
+  "exampleTamil": "அவள் கோயில் திருவிழாவின் புகைப்படத்தைப் பதிவிட்டாள்.",
+  "synonyms": [
+   "publish",
+   "upload"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gaming",
+  "meaning": "The activity of playing video games.",
+  "tamil": "வீடியோ விளையாட்டுகள் விளையாடுவது",
+  "pos": "noun",
+  "pron": "GAY-ming",
+  "example": "Gaming is his favourite hobby after work.",
+  "exampleTamil": "வேலைக்குப் பிறகு வீடியோ விளையாட்டு அவனுக்குப் பிடித்த பொழுதுபோக்கு.",
+  "synonyms": [
+   "playing",
+   "video games"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "drone",
+  "meaning": "A small flying machine controlled from the ground.",
+  "tamil": "ட்ரோன், தரையிலிருந்து இயக்கும் சிறிய பறக்கும் இயந்திரம்",
+  "pos": "noun",
+  "pron": "DROHN",
+  "example": "They used a drone to film the wedding.",
+  "exampleTamil": "அவர்கள் திருமணத்தைப் படம்பிடிக்க ட்ரோனைப் பயன்படுத்தினர்.",
+  "synonyms": [
+   "flying camera"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "robot",
+  "meaning": "A machine that can do tasks by itself.",
+  "tamil": "ரோபோ, தானாகவே வேலைகளைச் செய்யும் இயந்திரம்",
+  "pos": "noun",
+  "pron": "ROH-bot",
+  "example": "The robot cleans our floor every evening.",
+  "exampleTamil": "அந்த ரோபோ தினமும் மாலையில் எங்கள் தரையைச் சுத்தம் செய்கிறது.",
+  "synonyms": [
+   "machine",
+   "android"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pixel",
+  "meaning": "One tiny dot that makes up a picture on a screen.",
+  "tamil": "பிக்சல், திரையில் படத்தை உருவாக்கும் சிறிய புள்ளி",
+  "pos": "noun",
+  "pron": "PIK-sul",
+  "example": "The photo looks blurry because it has few pixels.",
+  "exampleTamil": "குறைவான பிக்சல்கள் இருப்பதால் அந்தப் படம் மங்கலாகத் தெரிகிறது.",
+  "synonyms": [
+   "dot"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "e-wallet",
+  "meaning": "An app that stores money so you can pay online.",
+  "tamil": "ஆன்லைனில் பணம் செலுத்த பணம் சேமிக்கும் செயலி",
+  "pos": "noun",
+  "pron": "EE-wol-it",
+  "example": "I paid the auto fare using my e-wallet.",
+  "exampleTamil": "ஆட்டோ கட்டணத்தை என் மின்னணு பணப்பை மூலம் செலுத்தினேன்.",
+  "synonyms": [
+   "digital wallet",
+   "payment app"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "smart-tv",
+  "meaning": "A television that connects to the internet and runs apps.",
+  "tamil": "இணையத்தில் இணைந்து செயலிகளை இயக்கும் தொலைக்காட்சி",
+  "pos": "noun",
+  "pron": "SMART tee-VEE",
+  "example": "We watch our favourite shows on the smart-tv.",
+  "exampleTamil": "நாங்கள் எங்களுக்குப் பிடித்த நிகழ்ச்சிகளை ஸ்மார்ட் டிவியில் பார்க்கிறோம்.",
+  "synonyms": [
+   "internet TV"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "logout",
+  "meaning": "The act of leaving your account on a website or app.",
+  "tamil": "இணையதளம் அல்லது செயலியில் உங்கள் கணக்கிலிருந்து வெளியேறுதல்",
+  "pos": "noun",
+  "pron": "LOG-owt",
+  "example": "Please click logout before you leave the shared computer.",
+  "exampleTamil": "பகிரப்பட்ட கணினியை விட்டுச் செல்லும் முன் வெளியேறு என்பதை அழுத்துங்கள்.",
+  "synonyms": [
+   "sign-out",
+   "exit"
+  ],
+  "level": "beginner"
+ }
+]

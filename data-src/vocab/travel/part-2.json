@@ -1,0 +1,582 @@
+[
+ {
+  "word": "railway",
+  "tamil": "ரயில்வே, இருப்புப் பாதை",
+  "pos": "noun",
+  "pron": "RAYL-way",
+  "example": "The railway connects the city to the coast.",
+  "exampleTamil": "ரயில்வே நகரத்தை கடற்கரையுடன் இணைக்கிறது.",
+  "synonyms": [
+   "train line"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "platform",
+  "tamil": "நடைமேடை",
+  "pos": "noun",
+  "pron": "PLAT-form",
+  "example": "The train arrives on platform three.",
+  "exampleTamil": "ரயில் மூன்றாம் நடைமேடையில் வருகிறது.",
+  "synonyms": [
+   "station stand"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "compartment",
+  "tamil": "ரயில் பெட்டிப் பகுதி",
+  "pos": "noun",
+  "pron": "kum-PART-ment",
+  "example": "Our compartment had four berths.",
+  "exampleTamil": "எங்கள் பெட்டியில் நான்கு படுக்கைகள் இருந்தன.",
+  "synonyms": [
+   "carriage section"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "berth",
+  "tamil": "ரயில் படுக்கை",
+  "pos": "noun",
+  "pron": "BURTH",
+  "example": "I booked a lower berth for the night journey.",
+  "exampleTamil": "இரவுப் பயணத்திற்கு கீழ்ப் படுக்கை பதிவு செய்தேன்.",
+  "synonyms": [
+   "bunk",
+   "sleeper"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "coach",
+  "tamil": "ரயில் பெட்டி, பேருந்து",
+  "pos": "noun",
+  "pron": "KOHCH",
+  "example": "Our seats are in coach number five.",
+  "exampleTamil": "எங்கள் இருக்கைகள் ஐந்தாம் எண் பெட்டியில் உள்ளன.",
+  "synonyms": [
+   "carriage",
+   "bus"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "conductor",
+  "tamil": "நடத்துநர்",
+  "pos": "noun",
+  "pron": "kun-DUK-ter",
+  "example": "The conductor checked every passenger's ticket.",
+  "exampleTamil": "நடத்துநர் ஒவ்வொரு பயணியின் சீட்டையும் சோதித்தார்.",
+  "synonyms": [
+   "ticket checker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "waiting list",
+  "tamil": "காத்திருப்புப் பட்டியல்",
+  "pos": "noun",
+  "pron": "WAY-ting list",
+  "example": "My ticket is still on the waiting list.",
+  "exampleTamil": "என் சீட்டு இன்னும் காத்திருப்புப் பட்டியலில் உள்ளது.",
+  "synonyms": [
+   "queue list"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reservation",
+  "tamil": "முன்பதிவு",
+  "pos": "noun",
+  "pron": "rez-er-VAY-shun",
+  "example": "Make a reservation early for festival season.",
+  "exampleTamil": "பண்டிகைக் காலத்திற்கு முன்கூட்டியே முன்பதிவு செய்யுங்கள்.",
+  "synonyms": [
+   "booking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fare",
+  "tamil": "பயணக் கட்டணம்",
+  "pos": "noun",
+  "pron": "FAIR",
+  "example": "The bus fare is twenty rupees.",
+  "exampleTamil": "பேருந்துக் கட்டணம் இருபது ரூபாய்.",
+  "synonyms": [
+   "ticket price"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "single",
+  "tamil": "ஒருவழி (பயணம்)",
+  "pos": "adjective",
+  "pron": "SING-gul",
+  "example": "I need a single ticket to Madurai.",
+  "exampleTamil": "எனக்கு மதுரைக்கு ஒருவழிச் சீட்டு வேண்டும்.",
+  "synonyms": [
+   "one-way"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "timetable",
+  "tamil": "நேர அட்டவணை",
+  "pos": "noun",
+  "pron": "TIME-tay-bul",
+  "example": "Check the timetable for the next bus.",
+  "exampleTamil": "அடுத்த பேருந்துக்கு நேர அட்டவணையைப் பாருங்கள்.",
+  "synonyms": [
+   "schedule"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "metro",
+  "tamil": "மெட்ரோ ரயில்",
+  "pos": "noun",
+  "pron": "MET-roh",
+  "example": "The metro is faster than the bus at rush hour.",
+  "exampleTamil": "நெரிசல் நேரத்தில் மெட்ரோ பேருந்தை விட வேகம்.",
+  "synonyms": [
+   "subway",
+   "underground"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "subway",
+  "tamil": "சுரங்க ரயில்",
+  "pos": "noun",
+  "pron": "SUB-way",
+  "example": "Take the subway to the museum.",
+  "exampleTamil": "அருங்காட்சியகத்திற்கு சுரங்க ரயிலில் செல்லுங்கள்.",
+  "synonyms": [
+   "metro"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tram",
+  "tamil": "டிராம் வண்டி",
+  "pos": "noun",
+  "pron": "TRAM",
+  "example": "Old trams still run in the city centre.",
+  "exampleTamil": "பழைய டிராம் வண்டிகள் நகர மையத்தில் இன்னும் ஓடுகின்றன.",
+  "synonyms": [
+   "streetcar"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ferry",
+  "tamil": "படகுப் போக்குவரத்து",
+  "pos": "noun",
+  "pron": "FAIR-ee",
+  "example": "A ferry takes you across the bay.",
+  "exampleTamil": "படகு உங்களை விரிகுடாவின் மறுபக்கம் கொண்டு செல்லும்.",
+  "synonyms": [
+   "boat service"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cruise",
+  "tamil": "கப்பல் சுற்றுலா",
+  "pos": "noun",
+  "pron": "KROOZ",
+  "example": "They went on a cruise for their anniversary.",
+  "exampleTamil": "அவர்கள் ஆண்டு விழாவிற்கு கப்பல் சுற்றுலா சென்றனர்.",
+  "synonyms": [
+   "sea voyage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "taxi",
+  "tamil": "வாடகைக் கார்",
+  "pos": "noun",
+  "pron": "TAK-see",
+  "example": "We took a taxi from the station.",
+  "exampleTamil": "நாங்கள் நிலையத்திலிருந்து வாடகைக் காரில் சென்றோம்.",
+  "synonyms": [
+   "cab"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cab",
+  "tamil": "வாடகைக் கார்",
+  "pos": "noun",
+  "pron": "KAB",
+  "example": "Let me book a cab for tomorrow morning.",
+  "exampleTamil": "நாளை காலைக்கு ஒரு வாடகைக் கார் பதிவு செய்கிறேன்.",
+  "synonyms": [
+   "taxi"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "driver",
+  "tamil": "ஓட்டுநர்",
+  "pos": "noun",
+  "pron": "DRY-ver",
+  "example": "The driver knew a shortcut to the hotel.",
+  "exampleTamil": "ஓட்டுநருக்கு விடுதிக்குச் செல்ல ஒரு குறுக்குவழி தெரியும்.",
+  "synonyms": [
+   "chauffeur"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "meter",
+  "tamil": "கட்டண மீட்டர்",
+  "pos": "noun",
+  "pron": "MEE-ter",
+  "example": "Please switch on the meter, sir.",
+  "exampleTamil": "ஐயா, தயவுசெய்து மீட்டரை இயக்குங்கள்.",
+  "synonyms": [
+   "fare counter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ride-hailing",
+  "tamil": "செயலி மூலம் வாகனம் அழைத்தல்",
+  "pos": "noun",
+  "pron": "RIDE-hay-ling",
+  "example": "Ride-hailing apps are cheap in this city.",
+  "exampleTamil": "இந்த நகரத்தில் வாகன அழைப்புச் செயலிகள் மலிவு.",
+  "synonyms": [
+   "app taxi"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pickup",
+  "tamil": "ஏற்றிக்கொள்ளும் இடம்",
+  "pos": "noun",
+  "pron": "PIK-up",
+  "example": "Share your pickup location with the driver.",
+  "exampleTamil": "ஏற்றிக்கொள்ளும் இடத்தை ஓட்டுநருடன் பகிருங்கள்.",
+  "synonyms": [
+   "collection point"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "surge",
+  "tamil": "கட்டண உயர்வு (நெரிசலில்)",
+  "pos": "noun",
+  "pron": "SURJ",
+  "example": "Prices see a surge when it rains.",
+  "exampleTamil": "மழை பெய்யும்போது கட்டணம் திடீரென உயரும்.",
+  "synonyms": [
+   "spike"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tip",
+  "tamil": "அன்பளிப்புப் பணம்",
+  "pos": "noun",
+  "pron": "TIP",
+  "example": "It is polite to leave a tip at restaurants.",
+  "exampleTamil": "உணவகங்களில் அன்பளிப்புப் பணம் வைப்பது நாகரிகம்.",
+  "synonyms": [
+   "gratuity"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shuttle",
+  "tamil": "குறுகிய தூர இணைப்பு வாகனம்",
+  "pos": "noun",
+  "pron": "SHUT-ul",
+  "example": "A free shuttle runs to the hotel every hour.",
+  "exampleTamil": "இலவச வாகனம் ஒவ்வொரு மணிநேரமும் விடுதிக்கு ஓடுகிறது.",
+  "synonyms": [
+   "transfer bus"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "commuter",
+  "tamil": "தினசரி பயணி",
+  "pos": "noun",
+  "pron": "kuh-MYOO-ter",
+  "example": "Thousands of commuters use this station daily.",
+  "exampleTamil": "ஆயிரக்கணக்கான தினசரிப் பயணிகள் இந்த நிலையத்தைப் பயன்படுத்துகின்றனர்.",
+  "synonyms": [
+   "daily traveller"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bus stop",
+  "tamil": "பேருந்து நிறுத்தம்",
+  "pos": "noun",
+  "pron": "BUS stop",
+  "example": "The bus stop is right outside the hotel.",
+  "exampleTamil": "பேருந்து நிறுத்தம் விடுதிக்கு வெளியிலேயே உள்ளது.",
+  "synonyms": [
+   "bus station"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "route",
+  "tamil": "வழித்தடம்",
+  "pos": "noun",
+  "pron": "ROOT",
+  "example": "This route passes through the old fort.",
+  "exampleTamil": "இந்த வழித்தடம் பழைய கோட்டை வழியாகச் செல்கிறது.",
+  "synonyms": [
+   "path",
+   "way"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stopover point",
+  "tamil": "வழிநிறுத்தப் புள்ளி",
+  "pos": "noun",
+  "pron": "STOP-oh-ver point",
+  "example": "Mysore is a good stopover point on the way.",
+  "exampleTamil": "மைசூர் வழியில் தங்க நல்ல இடம்.",
+  "synonyms": [
+   "rest stop"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hotel",
+  "tamil": "தங்கும் விடுதி",
+  "pos": "noun",
+  "pron": "hoh-TEL",
+  "example": "The hotel has a lovely view of the sea.",
+  "exampleTamil": "விடுதியிலிருந்து கடலின் அழகான காட்சி தெரியும்.",
+  "synonyms": [
+   "inn"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hostel",
+  "tamil": "மலிவு தங்கும் விடுதி",
+  "pos": "noun",
+  "pron": "HOS-tul",
+  "example": "Backpackers usually stay in a hostel.",
+  "exampleTamil": "முதுகுப்பையுடன் பயணிப்போர் பொதுவாக மலிவு விடுதியில் தங்குவர்.",
+  "synonyms": [
+   "budget lodging"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "resort",
+  "tamil": "சுற்றுலா ஓய்வு விடுதி",
+  "pos": "noun",
+  "pron": "rih-ZORT",
+  "example": "The resort has a pool and a spa.",
+  "exampleTamil": "அந்த ஓய்வு விடுதியில் நீச்சல் குளமும் ஸ்பாவும் உள்ளன.",
+  "synonyms": [
+   "holiday complex"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "homestay",
+  "tamil": "வீட்டில் தங்குதல்",
+  "pos": "noun",
+  "pron": "HOHM-stay",
+  "example": "A homestay lets you meet local families.",
+  "exampleTamil": "வீட்டில் தங்குவது உள்ளூர்க் குடும்பங்களைச் சந்திக்க உதவும்.",
+  "synonyms": [
+   "guesthouse"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "guesthouse",
+  "tamil": "விருந்தினர் இல்லம்",
+  "pos": "noun",
+  "pron": "GEST-howss",
+  "example": "We stayed in a small guesthouse near the lake.",
+  "exampleTamil": "நாங்கள் ஏரிக்கு அருகில் சிறிய விருந்தினர் இல்லத்தில் தங்கினோம்.",
+  "synonyms": [
+   "lodge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lodge",
+  "tamil": "தங்குமிடம்",
+  "pos": "noun",
+  "pron": "LOJ",
+  "example": "A cheap lodge is enough for one night.",
+  "exampleTamil": "ஒரு இரவுக்கு மலிவான தங்குமிடமே போதும்.",
+  "synonyms": [
+   "guesthouse"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "accommodation",
+  "tamil": "தங்கும் வசதி",
+  "pos": "noun",
+  "pron": "uh-kom-uh-DAY-shun",
+  "example": "Accommodation is expensive during the festival.",
+  "exampleTamil": "திருவிழாக் காலத்தில் தங்கும் வசதி விலை அதிகம்.",
+  "synonyms": [
+   "lodging"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "single room",
+  "tamil": "ஒருவர் தங்கும் அறை",
+  "pos": "noun",
+  "pron": "SING-gul room",
+  "example": "I booked a single room for two nights.",
+  "exampleTamil": "இரண்டு இரவுகளுக்கு ஒருவர் அறையைப் பதிவு செய்தேன்.",
+  "synonyms": [
+   "room for one"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "double room",
+  "tamil": "இருவர் தங்கும் அறை",
+  "pos": "noun",
+  "pron": "DUB-ul room",
+  "example": "A double room costs more at weekends.",
+  "exampleTamil": "வார இறுதியில் இருவர் அறையின் கட்டணம் அதிகம்.",
+  "synonyms": [
+   "room for two"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "suite",
+  "tamil": "சொகுசு அறைத்தொகுதி",
+  "pos": "noun",
+  "pron": "SWEET",
+  "example": "They upgraded us to a suite for free.",
+  "exampleTamil": "அவர்கள் எங்களை இலவசமாக சொகுசு அறைக்கு மாற்றினர்.",
+  "synonyms": [
+   "luxury room"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "amenities",
+  "tamil": "வசதிகள்",
+  "pos": "noun",
+  "pron": "uh-MEN-ih-teez",
+  "example": "The hotel amenities include wifi and breakfast.",
+  "exampleTamil": "விடுதி வசதிகளில் வைஃபையும் காலை உணவும் அடங்கும்.",
+  "synonyms": [
+   "facilities"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "air conditioning",
+  "tamil": "குளிர்சாதன வசதி",
+  "pos": "noun",
+  "pron": "AIR kun-DISH-un-ing",
+  "example": "The air conditioning in my room is broken.",
+  "exampleTamil": "என் அறையில் குளிர்சாதனம் பழுதாகிவிட்டது.",
+  "synonyms": [
+   "cooling"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "key card",
+  "tamil": "அட்டை வடிவச் சாவி",
+  "pos": "noun",
+  "pron": "KEE kard",
+  "example": "My key card stopped working at midnight.",
+  "exampleTamil": "என் அட்டைச் சாவி நள்ளிரவில் வேலை செய்யவில்லை.",
+  "synonyms": [
+   "room card"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bellboy",
+  "tamil": "சாமான் தூக்கும் ஊழியர்",
+  "pos": "noun",
+  "pron": "BEL-boy",
+  "example": "The bellboy carried our bags upstairs.",
+  "exampleTamil": "சாமான் தூக்கும் ஊழியர் எங்கள் பைகளை மேலே எடுத்துச் சென்றார்.",
+  "synonyms": [
+   "porter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "porter",
+  "tamil": "சுமை தூக்குபவர்",
+  "pos": "noun",
+  "pron": "POR-ter",
+  "example": "A porter helped us at the station.",
+  "exampleTamil": "நிலையத்தில் ஒரு சுமை தூக்குபவர் எங்களுக்கு உதவினார்.",
+  "synonyms": [
+   "bellhop"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "concierge",
+  "tamil": "விடுதி உதவி அலுவலர்",
+  "pos": "noun",
+  "pron": "kon-see-AIRZH",
+  "example": "Ask the concierge to recommend a good restaurant.",
+  "exampleTamil": "நல்ல உணவகம் பரிந்துரைக்க விடுதி உதவியாளரிடம் கேளுங்கள்.",
+  "synonyms": [
+   "hotel assistant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "room service",
+  "tamil": "அறைக்கே உணவு சேவை",
+  "pos": "noun",
+  "pron": "ROOM SUR-viss",
+  "example": "We ordered tea through room service.",
+  "exampleTamil": "நாங்கள் அறைச் சேவை மூலம் தேநீர் ஆர்டர் செய்தோம்.",
+  "synonyms": [
+   "in-room dining"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wake-up call",
+  "tamil": "காலை எழுப்பும் அழைப்பு",
+  "pos": "noun",
+  "pron": "WAYK-up kawl",
+  "example": "Please arrange a wake-up call at five.",
+  "exampleTamil": "ஐந்து மணிக்கு எழுப்பும் அழைப்புக்கு ஏற்பாடு செய்யுங்கள்.",
+  "synonyms": [
+   "morning call"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "complimentary",
+  "tamil": "இலவச (நன்கொடையாக)",
+  "pos": "adjective",
+  "pron": "kom-plih-MEN-tuh-ree",
+  "example": "Breakfast is complimentary for all guests.",
+  "exampleTamil": "அனைத்து விருந்தினர்களுக்கும் காலை உணவு இலவசம்.",
+  "synonyms": [
+   "free"
+  ],
+  "level": "advanced"
+ }
+]

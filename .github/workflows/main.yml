@@ -1,0 +1,92 @@
+
+name: Build My English Buddy Android APK
+
+on:
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-android:
+    name: Build My English Buddy APK
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # 1. Checkout GitHub source code
+      - name: Checkout source code
+        uses: actions/checkout@v4
+
+      # 2. Setup Node.js 22
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      # 3. Setup Java 21
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+          cache: gradle
+
+      # 4. Check installed versions
+      - name: Check versions
+        run: |
+          node -v
+          npm -v
+          java -version
+
+      # 5. Install Angular dependencies
+      - name: Install dependencies
+        run: npm ci
+
+      # 6. Build Angular application
+      - name: Build Angular
+        run: npm run build
+
+      # 7. Verify Angular build output
+      - name: Verify web assets
+        run: |
+          echo "Checking Angular build output"
+          test -f dist/my-english-buddy/browser/index.html
+          echo "Angular build successful"
+
+      # 8. Sync Capacitor Android
+      - name: Sync Capacitor
+        run: npx cap sync android
+
+      # 9. Check Android Gradle wrapper
+      - name: Check Gradle wrapper
+        run: |
+          test -f android/gradlew
+          chmod +x android/gradlew
+
+      # 10. Build Android Debug APK
+      - name: Build Android APK
+        run: |
+          cd android
+          ./gradlew assembleDebug --stacktrace
+
+      # 11. Verify APK generated
+      - name: Verify APK
+        run: |
+          echo "Checking APK output"
+          ls -lh android/app/build/outputs/apk/debug/
+          test -f android/app/build/outputs/apk/debug/app-debug.apk
+
+      # 12. Upload APK artifact
+      - name: Upload Android APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: My-English-Buddy-APK
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
+          retention-days: 14

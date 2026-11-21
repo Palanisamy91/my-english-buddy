@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lela</string>
+    <string name="title_activity_main">Lela</string>
+    <string name="package_name">com.palanisamy.myenglishbuddy</string>
+    <string name="custom_url_scheme">com.palanisamy.myenglishbuddy</string>
+</resources>

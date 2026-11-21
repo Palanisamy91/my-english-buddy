@@ -1,20 +1,18 @@
 
-name: Build Lela Android APK
+name: Lela App
 
 on:
   workflow_dispatch:
   push:
     branches:
       - main
-    paths:
-      - '**'
 
 permissions:
   contents: read
 
 jobs:
-  build-apk:
-    name: Build Lela Android APK
+  build:
+    name: Build Android Debug APK
     runs-on: ubuntu-latest
     timeout-minutes: 45
 
@@ -22,67 +20,14 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
 
-      - name: Locate Angular project
-        run: |
-          PACKAGE_FILE=$(find . -maxdepth 5 -name package.json \
-            -not -path '*/node_modules/*' -print -quit)
-
-          if [ -z "$PACKAGE_FILE" ]; then
-            echo "ERROR: package.json not found in repository."
-            find . -maxdepth 3 -type f | head -100
-            exit 1
-          fi
-
-          APP_DIR=$(dirname "$PACKAGE_FILE")
-          echo "APP_DIR=$APP_DIR" >> "$GITHUB_ENV"
-          echo "Angular project found in: $APP_DIR"
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: '21'
-
-      - name: Install dependencies
-        run: |
-          cd "$APP_DIR"
-          npm install --no-audit --no-fund
-
-      - name: Build Angular application
-        run: |
-          cd "$APP_DIR"
-          npm run build
-
-      - name: Add Android platform
-        run: |
-          cd "$APP_DIR"
-          if [ ! -d android ]; then
-            npx cap add android
-          fi
-
-      - name: Generate Android app icons
-        run: |
-          cd "$APP_DIR"
-          npx capacitor-assets generate --android
-
-      - name: Configure Android project
-        run: |
-          cd "$APP_DIR"
-          node scripts/android-setup.mjs
-
-      - name: Sync Capacitor
-        run: |
-          cd "$APP_DIR"
-          npx cap sync android
+          java-version: '17'
 
       - name: Build Debug APK
         run: |
-          cd "$APP_DIR/android"
           chmod +x gradlew
           ./gradlew assembleDebug --no-daemon
 
@@ -90,6 +35,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Lela-Android-APK
-          path: ${{ env.APP_DIR }}/android/app/build/outputs/apk/debug/app-debug.apk
+          path: app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           retention-days: 14

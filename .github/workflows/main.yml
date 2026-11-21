@@ -13,7 +13,6 @@ on:
       - 'scripts/**'
       - 'data-src/**'
       - 'package.json'
-      - 'package-lock.json'
       - 'angular.json'
       - 'capacitor.config.ts'
       - '.github/workflows/build-android-apk.yml'
@@ -23,7 +22,7 @@ permissions:
 
 jobs:
   build-apk:
-    name: Build Debug APK
+    name: Build Lela Android APK
     runs-on: ubuntu-latest
     timeout-minutes: 45
 
@@ -35,7 +34,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
 
       - name: Setup Java
         uses: actions/setup-java@v4
@@ -44,7 +42,7 @@ jobs:
           java-version: '21'
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install --no-audit --no-fund
 
       - name: Build Angular application
         run: npm run build
@@ -61,7 +59,7 @@ jobs:
       - name: Sync Capacitor
         run: npx cap sync android
 
-      - name: Build APK
+      - name: Build Debug APK
         run: |
           cd android
           chmod +x gradlew

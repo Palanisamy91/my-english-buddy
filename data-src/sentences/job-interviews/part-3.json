@@ -1,0 +1,375 @@
+[
+ {
+  "en": "What salary are you expecting from this job?",
+  "tamil": "இந்த வேலைக்கு எவ்வளவு சம்பளம் எதிர்பார்க்கறீங்க?",
+  "context": "HR asks about your expected salary.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Expecting' means thinking something will happen. This question is common near the end of the interview.",
+  "words": [
+   "salary",
+   "expecting"
+  ],
+  "usage": "HR asks this when the interview goes well and they discuss an offer.",
+  "leelaQ": "What salary would you like in your next job?",
+  "answer": "I would like a fair salary based on my skills."
+ },
+ {
+  "en": "I am expecting a package that matches my skills and experience.",
+  "tamil": "என்னோட திறமைக்கும் அனுபவத்துக்கும் பொருந்தற மாதிரி ஒரு சம்பளம் எதிர்பார்க்கறேன்.",
+  "context": "Answering the salary question politely.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Package' means the full salary offer. 'Matches' means is equal to or suitable for.",
+  "words": [
+   "package",
+   "matches"
+  ],
+  "usage": "A safe and polite answer when you do not want to say a number first.",
+  "leelaQ": "How do you decide what salary is fair for you?",
+  "answer": "I compare it with my skills and the market rate."
+ },
+ {
+  "en": "My current salary is fifteen thousand a month.",
+  "tamil": "என்னோட இப்போதைய சம்பளம் மாசத்துக்கு பதினைஞ்சாயிரம்.",
+  "context": "Telling HR your present salary.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Current' means at this time. 'A month' means for every month, like 'per month'.",
+  "words": [
+   "current",
+   "salary"
+  ],
+  "usage": "Say it when HR asks for your present pay before making an offer.",
+  "leelaQ": "Do you get your salary monthly or weekly?",
+  "answer": "I get my salary monthly on the first of every month."
+ },
+ {
+  "en": "Is the salary negotiable?",
+  "tamil": "சம்பளத்தைப் பத்தி பேசிக்கலாமா?",
+  "context": "Asking politely if the offered pay can change.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Negotiable' means can be discussed and changed. A short, polite way to ask.",
+  "words": [
+   "negotiable"
+  ],
+  "usage": "Ask it politely with HR after you receive an offer.",
+  "leelaQ": "Have you ever bargained for a better price or pay?",
+  "answer": "Yes, I bargain when I buy things in the market."
+ },
+ {
+  "en": "Could you tell me the salary range for this position?",
+  "tamil": "இந்த பொசிஷனுக்கு சம்பள வரம்பு எவ்வளவுன்னு சொல்ல முடியுமா?",
+  "context": "Asking HR about the pay range.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Range' means from the lowest to the highest amount. 'Could you tell me' is very polite.",
+  "words": [
+   "salary range",
+   "position"
+  ],
+  "usage": "Use it with HR when you want to know the pay before giving your number.",
+  "leelaQ": "What would you ask HR about the job offer?",
+  "answer": "I would ask about the salary, leave and working hours."
+ },
+ {
+  "en": "I am open to discussion if the company has a fixed salary structure.",
+  "tamil": "கம்பெனிக்கு ஒரு நிர்ணயிக்கப்பட்ட சம்பள அமைப்பு இருந்தா, நான் பேசத் தயார்.",
+  "context": "Showing that you are flexible about salary.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Open to' means ready to accept. 'Fixed structure' means the company pays by set rules.",
+  "words": [
+   "discussion",
+   "fixed"
+  ],
+  "usage": "Say it when you want to sound flexible and not demanding.",
+  "leelaQ": "Are you flexible when others suggest a different plan?",
+  "answer": "Yes, I am open to new ideas and suggestions."
+ },
+ {
+  "en": "Money is not my only reason for changing jobs.",
+  "tamil": "வேலை மாத்தறதுக்கு பணம் மட்டும் எனக்குக் காரணம் இல்ல.",
+  "context": "Explaining your reason for changing jobs.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not only' means there are also other reasons. It shows growth matters to you too.",
+  "words": [
+   "money",
+   "reason"
+  ],
+  "usage": "Use it when the interviewer thinks you are changing jobs only for salary.",
+  "leelaQ": "Besides money, what else is important to you in a job?",
+  "answer": "A good team and learning chances are also important to me."
+ },
+ {
+  "en": "What is your biggest weakness?",
+  "tamil": "உங்களோட மிகப் பெரிய பலவீனம் என்ன?",
+  "context": "The interviewer asks about your weak point.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A tricky question. Give a small, real weakness and say how you are improving it.",
+  "words": [
+   "weakness"
+  ],
+  "usage": "Almost every interview has it, so prepare an honest and safe answer.",
+  "leelaQ": "What is one habit you want to change in yourself?",
+  "answer": "I want to stop delaying small tasks."
+ },
+ {
+  "en": "Sometimes I take too much work, but I am learning to say no politely.",
+  "tamil": "சில நேரம் நான் ரொம்ப வேலையை எடுத்துக்கறேன், ஆனா மரியாதையா வேண்டாம்னு சொல்லக் கத்துக்கறேன்.",
+  "context": "Answering the weakness question honestly.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Too much' means more than needed. The second half shows that you are improving.",
+  "words": [
+   "too much",
+   "politely"
+  ],
+  "usage": "A good weakness answer, because it shows both honesty and effort.",
+  "leelaQ": "Is it easy for you to say no to someone politely?",
+  "answer": "No, it is not easy, but I am trying to learn."
+ },
+ {
+  "en": "I do not like leaving a task half finished.",
+  "tamil": "ஒரு வேலையை பாதியில விடறது எனக்குப் பிடிக்காது.",
+  "context": "Showing responsibility in an interview.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Do not like' is followed by an -ing word. 'Half finished' means not fully done.",
+  "words": [
+   "leaving",
+   "task"
+  ],
+  "usage": "Use it when asked about your work habits or discipline.",
+  "leelaQ": "What do you do when you start a task and feel tired?",
+  "answer": "I take a short break and then finish the task."
+ },
+ {
+  "en": "Will you be able to work on Saturdays?",
+  "tamil": "சனிக்கிழமைகள்ல உங்களால வேலை செய்ய முடியுமா?",
+  "context": "HR asks about weekend work.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will you be able to' asks about future ability or willingness. 'On Saturdays' means every Saturday.",
+  "words": [
+   "saturdays"
+  ],
+  "usage": "HR asks this when the job has a six day week.",
+  "leelaQ": "Are you okay with working on weekends sometimes?",
+  "answer": "Yes, I am okay if it is only sometimes."
+ },
+ {
+  "en": "Yes, I will work on Saturdays if there is an urgent deadline.",
+  "tamil": "ஆமா, அவசரமான டெட்லைன் இருந்தா சனிக்கிழமைகள்லயும் வேலை செய்வேன்.",
+  "context": "Agreeing to weekend work for urgent tasks.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'If' with present tense and 'will' in the other part shows a real possible condition.",
+  "words": [
+   "urgent",
+   "deadline"
+  ],
+  "usage": "Say it to show that you are committed, while keeping the condition clear.",
+  "leelaQ": "What would you do if you had an urgent deadline tomorrow?",
+  "answer": "I would stay late today and finish all the work."
+ },
+ {
+  "en": "Please tell me about the working hours.",
+  "tamil": "வேலை நேரத்தைப் பத்தி சொல்லுங்க.",
+  "context": "Asking HR about office timings.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' makes the imperative polite. 'Working hours' means the time you work each day.",
+  "words": [
+   "working hours"
+  ],
+  "usage": "Ask it politely when HR gives you the offer or the job details.",
+  "leelaQ": "What time does your day at work usually start and end?",
+  "answer": "It starts at nine in the morning and ends at six."
+ },
+ {
+  "en": "Is there any training for new employees?",
+  "tamil": "புதுசா சேர்றவங்களுக்கு ட்ரெயினிங் ஏதாவது இருக்கா?",
+  "context": "Asking about training at the end of the interview.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there any ...?' asks if something exists. It shows you want to learn and grow.",
+  "words": [
+   "training",
+   "employees"
+  ],
+  "usage": "A good question to ask when the interviewer says 'Do you have any questions?'",
+  "leelaQ": "What training would help you do your job better?",
+  "answer": "A short course on communication would help me a lot."
+ },
+ {
+  "en": "I will be happy to take any training that the company gives.",
+  "tamil": "கம்பெனி குடுக்கற எந்த ட்ரெயினிங்கையும் நான் சந்தோஷமா எடுத்துக்குவேன்.",
+  "context": "Showing that you want to learn.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'That the company gives' tells which training. 'Be happy to' shows a willing attitude.",
+  "words": [
+   "happy",
+   "training"
+  ],
+  "usage": "Use it when the interviewer talks about training or new skills.",
+  "leelaQ": "Are you happy to learn new software if your job needs it?",
+  "answer": "Yes, I am happy to learn anything new."
+ },
+ {
+  "en": "How do you handle stress at work?",
+  "tamil": "வேலையில வர்ற ஸ்ட்ரெஸ்ஸை எப்படி சமாளிக்கறீங்க?",
+  "context": "The interviewer asks how you deal with pressure.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Handle' means deal with. The question asks about your habits, so use the simple present.",
+  "words": [
+   "handle",
+   "stress"
+  ],
+  "usage": "Asked for busy jobs like support, sales and banking.",
+  "leelaQ": "What do you do when you feel tired or stressed?",
+  "answer": "I listen to music and take a short walk."
+ },
+ {
+  "en": "When I feel stress, I make a to-do list and finish one task at a time.",
+  "tamil": "ஸ்ட்ரெஸ் வந்தா, ஒரு டூ-டூ லிஸ்ட் போட்டு ஒரு நேரத்துல ஒரு வேலையை முடிப்பேன்.",
+  "context": "Describing how you handle pressure.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'When' with present tense shows a habit. 'One at a time' means not many together.",
+  "words": [
+   "stress",
+   "to-do list"
+  ],
+  "usage": "A practical answer that shows you can plan your work.",
+  "leelaQ": "Do you make a list of your tasks every day?",
+  "answer": "Yes, I write my tasks in my notebook every morning."
+ },
+ {
+  "en": "Can you give an example of a time you worked under a tight deadline?",
+  "tamil": "இறுக்கமான டெட்லைன்ல நீங்க வேலை செஞ்ச ஒரு சந்தர்ப்பத்தை உதாரணமா சொல்ல முடியுமா?",
+  "context": "The interviewer asks for a real work example.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Tight deadline' means very little time to finish. This is a behaviour question.",
+  "words": [
+   "example",
+   "deadline"
+  ],
+  "usage": "Interviewers ask this to see real proof, not just big words.",
+  "leelaQ": "When did you last finish something at the last minute?",
+  "answer": "I finished my college assignment one hour before the deadline."
+ },
+ {
+  "en": "Last month, I finished a report in one day because the client needed it urgently.",
+  "tamil": "போன மாசம், கிளையண்ட்டுக்கு அவசரமா தேவைப்பட்டதால ஒரு ரிப்போர்ட்டை ஒரே நாள்ல முடிச்சேன்.",
+  "context": "Giving a real example of working fast.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past tense tells a real story. 'Urgently' means very quickly because it is important.",
+  "words": [
+   "report",
+   "client",
+   "urgently"
+  ],
+  "usage": "A short story with time and result makes your answer strong.",
+  "leelaQ": "Can you tell me about a time you worked very fast?",
+  "answer": "I once cooked dinner for ten guests in one hour."
+ },
+ {
+  "en": "I once made a mistake in an invoice, but I told my manager and fixed it quickly.",
+  "tamil": "ஒரு தடவை இன்வாய்ஸ்ல தப்பு பண்ணிட்டேன், ஆனா மேனேஜர்கிட்ட சொல்லி சீக்கிரமா சரி பண்ணினேன்.",
+  "context": "Answering a question about a mistake you made.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "The story shows honesty. 'Fixed' means corrected. Three past actions are joined by 'and' and 'but'.",
+  "words": [
+   "mistake",
+   "invoice",
+   "fixed"
+  ],
+  "usage": "A good answer when asked about a failure or a mistake at work.",
+  "leelaQ": "What do you do when you make a mistake at work?",
+  "answer": "I accept it and I correct it as soon as possible."
+ },
+ {
+  "en": "I prefer working in a team, but I can also work alone.",
+  "tamil": "டீம்ல வேலை செய்யறது எனக்குப் பிடிக்கும், ஆனா தனியாகவும் வேலை செய்வேன்.",
+  "context": "Answering the working style question.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Prefer' is followed by an -ing word. 'Also' adds a second skill after 'but'.",
+  "words": [
+   "prefer",
+   "alone"
+  ],
+  "usage": "A balanced answer that works for most jobs.",
+  "leelaQ": "When do you work better, alone or in a group?",
+  "answer": "I work better alone when I need to concentrate."
+ },
+ {
+  "en": "I have never been late to office without informing my manager.",
+  "tamil": "மேனேஜருக்குச் சொல்லாம நான் ஆஃபீசுக்கு தாமதமா வந்ததே இல்ல.",
+  "context": "Showing that you are punctual and responsible.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Never' with present perfect means not even one time in your life. 'Without informing' shows you tell people.",
+  "words": [
+   "never",
+   "informing"
+  ],
+  "usage": "Use it when asked about discipline, attendance or punctuality.",
+  "leelaQ": "Are you usually on time for work or classes?",
+  "answer": "Yes, I always reach ten minutes early."
+ },
+ {
+  "en": "I left my last job because I wanted to learn new things.",
+  "tamil": "புதுசா கத்துக்கணும்னு ஆசைப்பட்டதால என் பழைய வேலையை விட்டேன்.",
+  "context": "Explaining why you left your last job.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Give a positive reason. 'Because' connects the action and the reason.",
+  "words": [
+   "left",
+   "learn"
+  ],
+  "usage": "Use it when asked why you left your previous company.",
+  "leelaQ": "Why do you want to change your job?",
+  "answer": "I want to learn new skills and grow in my career."
+ },
+ {
+  "en": "I was nervous in the beginning, but now I feel better.",
+  "tamil": "ஆரம்பத்துல பயமா இருந்துச்சு, ஆனா இப்ப நல்லா இருக்கு.",
+  "context": "Relaxing during the interview.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'But' joins two different ideas. It shows a change from past to now.",
+  "words": [
+   "nervous",
+   "beginning"
+  ],
+  "usage": "Use it with a friendly interviewer when you feel more relaxed.",
+  "leelaQ": "How do you feel before an interview?",
+  "answer": "I feel a little nervous, but I prepare well."
+ },
+ {
+  "en": "Are you looking for a full-time or a part-time job?",
+  "tamil": "நீங்க ஃபுல் டைம் வேலை தேடறீங்களா, பார்ட் டைம் வேலை தேடறீங்களா?",
+  "context": "Interviewer asks about job type.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "This question gives two choices with 'or'. Answer with one clear choice.",
+  "words": [
+   "full-time",
+   "part-time"
+  ],
+  "usage": "An interviewer asks this to know the kind of job you want.",
+  "leelaQ": "Do you want a full-time job or a part-time job?",
+  "answer": "I want a full-time job because I need a stable income."
+ }
+]

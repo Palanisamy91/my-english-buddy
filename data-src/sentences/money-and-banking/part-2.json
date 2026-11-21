@@ -1,0 +1,367 @@
+[
+ {
+  "en": "Petrol prices go up almost every month.",
+  "tamil": "பெட்ரோல் விலை கிட்டத்தட்ட ஒவ்வொரு மாசமும் ஏறுது.",
+  "context": "Complaining about fuel cost with a colleague.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Simple present with 'almost every month' shows a regular pattern.",
+  "words": [
+   "petrol",
+   "prices"
+  ],
+  "usage": "Use it in casual talk when people discuss rising costs.",
+  "leelaQ": "How do rising petrol prices affect your life?",
+  "answer": "I now use public transport more often."
+ },
+ {
+  "en": "Is there any charge for withdrawing cash?",
+  "tamil": "பணம் எடுக்க ஏதாவது கட்டணம் இருக்கா?",
+  "context": "Asking at the bank about ATM fees.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there any ...?' checks whether something exists.",
+  "words": [
+   "charge",
+   "cash"
+  ],
+  "usage": "Ask it at the bank or ATM counter before taking out money.",
+  "leelaQ": "Do you carry cash or do you mostly use your phone?",
+  "answer": "I carry a little cash and use my phone for the rest."
+ },
+ {
+  "en": "I am waiting for the SMS from the bank.",
+  "tamil": "வங்கியில இருந்து SMS-காக காத்துட்டு இருக்கேன்.",
+  "context": "Telling someone why you cannot finish a payment.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Am waiting for' shows you are in the middle of waiting.",
+  "words": [
+   "waiting",
+   "bank"
+  ],
+  "usage": "Use it when an OTP or confirmation has not come yet.",
+  "leelaQ": "What do you do when an OTP does not arrive?",
+  "answer": "I wait for one minute and then ask for it again."
+ },
+ {
+  "en": "Could you help me fill this deposit slip?",
+  "tamil": "இந்த டெபாசிட் சீட்டை நிரப்ப உதவ முடியுமா?",
+  "context": "Asking a bank staff member for help.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you help me ...?' is polite when you need support.",
+  "words": [
+   "deposit"
+  ],
+  "usage": "Use it with bank staff or a helpful person when a form is confusing.",
+  "leelaQ": "Who helps you when you do not understand a form?",
+  "answer": "My brother helps me with forms."
+ },
+ {
+  "en": "I will pay you back by next Monday.",
+  "tamil": "அடுத்த திங்கள்கிழமைக்குள்ள உங்களுக்கு திருப்பி கொடுத்துடறேன்.",
+  "context": "Promising a friend to return borrowed money.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Pay back' means return money. 'By' gives a deadline.",
+  "words": [
+   "pay you back"
+  ],
+  "usage": "Say it when you borrow a small amount from a friend or relative.",
+  "leelaQ": "Is it a good idea to borrow money from friends?",
+  "answer": "It is fine for small amounts if we pay back on time."
+ },
+ {
+  "en": "I never lend money to strangers.",
+  "tamil": "தெரியாதவங்களுக்கு நான் ஒருநாளும் பணம் கடன் கொடுக்கமாட்டேன்.",
+  "context": "Explaining your rule about money.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' makes the sentence negative. It is used with habits.",
+  "words": [
+   "lend",
+   "strangers"
+  ],
+  "usage": "Use it to politely refuse when an unknown person asks for money.",
+  "leelaQ": "Would you lend money to a close friend?",
+  "answer": "Yes, I would lend a small amount to a close friend."
+ },
+ {
+  "en": "I got a message about a failed transaction.",
+  "tamil": "தோல்வியடைந்த பரிவர்த்தனை பத்தி ஒரு மெசேஜ் வந்தது.",
+  "context": "Telling the bank about a payment problem.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Got a message' is a common spoken way to say 'received a message'.",
+  "words": [
+   "failed",
+   "transaction"
+  ],
+  "usage": "Use it on a bank helpline call when money is cut but not received.",
+  "leelaQ": "What will you do if money is cut but the payment fails?",
+  "answer": "I will call the bank and give the transaction details."
+ },
+ {
+  "en": "Have you paid the house rent this month?",
+  "tamil": "இந்த மாசம் வீட்டு வாடகை கட்டிட்டீங்களா?",
+  "context": "Asking your flatmate about rent.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you ...?' asks whether something is done by now.",
+  "words": [
+   "rent"
+  ],
+  "usage": "Ask it to a flatmate or family member who handles the rent.",
+  "leelaQ": "Who pays the rent in your home?",
+  "answer": "My father pays the rent every month."
+ },
+ {
+  "en": "Gold rate is high these days.",
+  "tamil": "இப்போ தங்கம் விலை ரொம்ப அதிகமா இருக்கு.",
+  "context": "Chatting with relatives before a wedding.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'These days' means at the present time.",
+  "words": [
+   "gold",
+   "rate"
+  ],
+  "usage": "Use it in family talk about jewellery or weddings.",
+  "leelaQ": "Do people in your family buy gold for weddings?",
+  "answer": "Yes, we always buy some gold for weddings."
+ },
+ {
+  "en": "Tell me the exact amount before you swipe the card.",
+  "tamil": "கார்டை தேய்க்கறதுக்கு முன்னாடி சரியான தொகையை சொல்லுங்க.",
+  "context": "Asking a cashier to confirm the bill.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Before' connects two actions in order. 'Exact' means correct, not roughly.",
+  "words": [
+   "amount",
+   "swipe"
+  ],
+  "usage": "Say it at a shop counter so you can check the total.",
+  "leelaQ": "Why should we check the amount before we pay?",
+  "answer": "So we do not pay a wrong amount by mistake."
+ },
+ {
+  "en": "We can save more if we cook at home.",
+  "tamil": "வீட்டுல சமைச்சா நிறைய சேமிக்கலாம்.",
+  "context": "Talking about reducing food expenses.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'If' sentences show a condition and its result.",
+  "words": [
+   "save",
+   "cook"
+  ],
+  "usage": "Use it when you discuss ways to spend less with family.",
+  "leelaQ": "What is one habit that helps you save money?",
+  "answer": "I carry lunch from home to save money."
+ },
+ {
+  "en": "Do you accept Google Pay here?",
+  "tamil": "இங்க Google Pay வாங்கிப்பீங்களா?",
+  "context": "Asking a shopkeeper before buying.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you accept ...?' asks which payment ways a shop allows.",
+  "words": [
+   "accept"
+  ],
+  "usage": "Ask it at a small shop or restaurant before you order.",
+  "leelaQ": "Which payment method do you use the most?",
+  "answer": "I use UPI the most."
+ },
+ {
+  "en": "My card has expired, so I need a new one.",
+  "tamil": "என் கார்டு காலாவதி ஆகிடுச்சு, அதனால புது கார்டு வேணும்.",
+  "context": "Talking to bank staff about a card problem.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'So' connects a reason with a result.",
+  "words": [
+   "expired",
+   "card"
+  ],
+  "usage": "Use it at the bank counter or on a helpline when you need a replacement.",
+  "leelaQ": "What do you do when your bank card stops working?",
+  "answer": "I visit the bank and ask for a new card."
+ },
+ {
+  "en": "I did not receive the refund yet.",
+  "tamil": "ரீஃபண்ட் இன்னும் எனக்கு வரல.",
+  "context": "Calling customer care about a refund.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not receive' is the negative past. 'Yet' shows you still expect it.",
+  "words": [
+   "refund",
+   "receive"
+  ],
+  "usage": "Say it to customer care when an online order refund is late.",
+  "leelaQ": "How long do you wait for a refund before you complain?",
+  "answer": "I wait for about a week and then I call them."
+ },
+ {
+  "en": "The shopkeeper gave me ten rupees extra change by mistake.",
+  "tamil": "கடைக்காரர் தவறுதலா எனக்கு பத்து ரூபாய் அதிகமா சில்லறை கொடுத்துட்டார்.",
+  "context": "Telling a friend about an honest moment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'By mistake' means not on purpose.",
+  "words": [
+   "shopkeeper",
+   "mistake"
+  ],
+  "usage": "Use it when you tell a story about money and honesty.",
+  "leelaQ": "What would you do if a shopkeeper gave you extra change?",
+  "answer": "I would return the extra money to him."
+ },
+ {
+  "en": "Could I pay half now and half later?",
+  "tamil": "பாதி இப்போ, பாதி அப்புறம் கட்டலாமா?",
+  "context": "Asking a shop owner for a payment option.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could I ...?' is a polite way to ask for something unusual.",
+  "words": [
+   "half",
+   "later"
+  ],
+  "usage": "Ask it when you need to split a payment with a shop or a school office.",
+  "leelaQ": "Do you like to pay in parts or all at once?",
+  "answer": "I like to pay all at once, so I am free of tension."
+ },
+ {
+  "en": "Prices will come down after the festival season.",
+  "tamil": "பண்டிகை சீசன் முடிஞ்சதும் விலை குறையும்.",
+  "context": "Advising a friend to wait before buying.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' is used for a prediction. 'Come down' means become lower.",
+  "words": [
+   "prices",
+   "festival"
+  ],
+  "usage": "Use it when you tell someone to wait for a better price.",
+  "leelaQ": "When do you usually shop for clothes or gadgets?",
+  "answer": "I shop during big festival sales."
+ },
+ {
+  "en": "He is checking the bill line by line.",
+  "tamil": "அவர் பில்லை ஒவ்வொரு வரியா சரிபார்க்கிறார்.",
+  "context": "Describing a careful person at a restaurant.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Line by line' means slowly, one line at a time.",
+  "words": [
+   "checking",
+   "bill"
+  ],
+  "usage": "Use it when you describe someone who is very careful with money.",
+  "leelaQ": "Do you check your bill carefully at restaurants?",
+  "answer": "Yes, I always check it before I pay."
+ },
+ {
+  "en": "Would you mind splitting the bill with me?",
+  "tamil": "பில்லை என்கூட பிரிச்சுக்க முடியுமா?",
+  "context": "Asking a friend to share the cost.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Would you mind ...ing?' is a gentle and polite request.",
+  "words": [
+   "split"
+  ],
+  "usage": "Use it after a meal when friends share the cost.",
+  "leelaQ": "Do you share bills with friends when you eat out?",
+  "answer": "Yes, we split the bill equally."
+ },
+ {
+  "en": "I opened a recurring deposit last week.",
+  "tamil": "போன வாரம் ஒரு ஆர்.டி. கணக்கு தொடங்கினேன்.",
+  "context": "Telling a colleague about a savings plan.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Opened' is the past of 'open'. A recurring deposit means saving a fixed amount monthly.",
+  "words": [
+   "recurring deposit"
+  ],
+  "usage": "Use it when you talk about savings plans with colleagues.",
+  "leelaQ": "What is a good way to save a little money every month?",
+  "answer": "A recurring deposit is a good way to save every month."
+ },
+ {
+  "en": "What is the minimum balance in this account?",
+  "tamil": "இந்த கணக்குல குறைந்தபட்ச இருப்பு எவ்வளவு?",
+  "context": "Asking the bank before opening an account.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Minimum balance' is the least money you must keep in the account.",
+  "words": [
+   "minimum balance"
+  ],
+  "usage": "Ask it at the bank before you open any new account.",
+  "leelaQ": "Why is it important to know the minimum balance?",
+  "answer": "Because the bank can charge a fee if we go below it."
+ },
+ {
+  "en": "I keep a small emergency fund for sudden expenses.",
+  "tamil": "திடீர் செலவுகளுக்கு கொஞ்சம் அவசர நிதி வச்சிருக்கேன்.",
+  "context": "Explaining your saving habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Keep' is used for money you set aside. 'Sudden' means unexpected.",
+  "words": [
+   "emergency fund",
+   "expenses"
+  ],
+  "usage": "Use it when you talk about safe money habits with friends.",
+  "leelaQ": "What kind of sudden expenses can happen in a family?",
+  "answer": "A medical bill or a repair can happen suddenly."
+ },
+ {
+  "en": "You cannot withdraw more than ten thousand rupees from this ATM.",
+  "tamil": "இந்த ATM-ல பத்தாயிரத்துக்கு மேல எடுக்க முடியாது.",
+  "context": "Explaining the daily limit to a friend.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Cannot' shows a limit or rule. 'More than' compares amounts.",
+  "words": [
+   "withdraw"
+  ],
+  "usage": "Use it to warn someone about an ATM limit.",
+  "leelaQ": "How much cash do you usually take out at one time?",
+  "answer": "I take out about two thousand rupees at one time."
+ },
+ {
+  "en": "The EMI is deducted from my account on the fifth.",
+  "tamil": "EMI ஐந்தாம் தேதி என் கணக்குல இருந்து பிடிச்சுக்குவாங்க.",
+  "context": "Explaining a monthly loan payment.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Passive 'is deducted' focuses on what happens to the money.",
+  "words": [
+   "deducted"
+  ],
+  "usage": "Use it when you tell someone why you need money in the account by a date.",
+  "leelaQ": "Which date of the month is hardest for you money-wise?",
+  "answer": "The end of the month is hardest because my money is finished."
+ },
+ {
+  "en": "I'm going to start a small SIP next month.",
+  "tamil": "அடுத்த மாசம் ஒரு சின்ன SIP தொடங்கப் போறேன்.",
+  "context": "Telling a friend about investing.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'm going to' shows a plan. A SIP is a monthly investment.",
+  "words": [
+   "start"
+  ],
+  "usage": "Use it when you talk about your investment plan with friends.",
+  "leelaQ": "What would you like to invest in some day?",
+  "answer": "I would like to invest in mutual funds."
+ }
+]

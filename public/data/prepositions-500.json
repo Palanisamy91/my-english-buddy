@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "prep001-1",
+    "word": "about",
+    "tamil": "பற்றி",
+    "example": "We had a discussion about the new plan.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “about” என்பது “பற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep001-2",
+    "word": "about",
+    "tamil": "பற்றி",
+    "example": "I need more information about this issue.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “about” என்பது “பற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep001-3",
+    "word": "about",
+    "tamil": "பற்றி",
+    "example": "She asked me a question about the meeting.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “about” என்பது “பற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep001-4",
+    "word": "about",
+    "tamil": "பற்றி",
+    "example": "Let us talk about your idea tomorrow.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “about” என்பது “பற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep001-5",
+    "word": "about",
+    "tamil": "பற்றி",
+    "example": "He wrote a short note about the event.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “about” என்பது “பற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep002-1",
+    "word": "above",
+    "tamil": "மேலே",
+    "example": "The bag is above the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “above” என்பது “மேலே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep002-2",
+    "word": "above",
+    "tamil": "மேலே",
+    "example": "Our office is above the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “above” என்பது “மேலே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep002-3",
+    "word": "above",
+    "tamil": "மேலே",
+    "example": "Please wait above the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “above” என்பது “மேலே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep002-4",
+    "word": "above",
+    "tamil": "மேலே",
+    "example": "There is a small garden above the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “above” என்பது “மேலே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep002-5",
+    "word": "above",
+    "tamil": "மேலே",
+    "example": "I found my keys above the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “above” என்பது “மேலே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep003-1",
+    "word": "across",
+    "tamil": "குறுக்கே; அக்கரையில்",
+    "example": "We walked across the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “across” என்பது “குறுக்கே; அக்கரையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep003-2",
+    "word": "across",
+    "tamil": "குறுக்கே; அக்கரையில்",
+    "example": "The children ran across the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “across” என்பது “குறுக்கே; அக்கரையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep003-3",
+    "word": "across",
+    "tamil": "குறுக்கே; அக்கரையில்",
+    "example": "She went across the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “across” என்பது “குறுக்கே; அக்கரையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep003-4",
+    "word": "across",
+    "tamil": "குறுக்கே; அக்கரையில்",
+    "example": "The bus moved across the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “across” என்பது “குறுக்கே; அக்கரையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep003-5",
+    "word": "across",
+    "tamil": "குறுக்கே; அக்கரையில்",
+    "example": "He came across the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “across” என்பது “குறுக்கே; அக்கரையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep004-1",
+    "word": "after",
+    "tamil": "பிறகு",
+    "example": "I usually exercise after the morning.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “after” என்பது “பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep004-2",
+    "word": "after",
+    "tamil": "பிறகு",
+    "example": "The class starts after 9 a.m.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “after” என்பது “பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep004-3",
+    "word": "after",
+    "tamil": "பிறகு",
+    "example": "Please call me after lunch.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “after” என்பது “பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep004-4",
+    "word": "after",
+    "tamil": "பிறகு",
+    "example": "We completed the work after Friday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “after” என்பது “பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep004-5",
+    "word": "after",
+    "tamil": "பிறகு",
+    "example": "She was reading after the evening.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “after” என்பது “பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep005-1",
+    "word": "against",
+    "tamil": "எதிராக; சாய்ந்து",
+    "example": "The bag is against the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “against” என்பது “எதிராக; சாய்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep005-2",
+    "word": "against",
+    "tamil": "எதிராக; சாய்ந்து",
+    "example": "Our office is against the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “against” என்பது “எதிராக; சாய்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep005-3",
+    "word": "against",
+    "tamil": "எதிராக; சாய்ந்து",
+    "example": "Please wait against the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “against” என்பது “எதிராக; சாய்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep005-4",
+    "word": "against",
+    "tamil": "எதிராக; சாய்ந்து",
+    "example": "There is a small garden against the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “against” என்பது “எதிராக; சாய்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep005-5",
+    "word": "against",
+    "tamil": "எதிராக; சாய்ந்து",
+    "example": "I found my keys against the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “against” என்பது “எதிராக; சாய்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep006-1",
+    "word": "along",
+    "tamil": "நெடுக; வழியாக",
+    "example": "We walked along the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along” என்பது “நெடுக; வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep006-2",
+    "word": "along",
+    "tamil": "நெடுக; வழியாக",
+    "example": "The children ran along the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along” என்பது “நெடுக; வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep006-3",
+    "word": "along",
+    "tamil": "நெடுக; வழியாக",
+    "example": "She went along the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along” என்பது “நெடுக; வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep006-4",
+    "word": "along",
+    "tamil": "நெடுக; வழியாக",
+    "example": "The bus moved along the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along” என்பது “நெடுக; வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep006-5",
+    "word": "along",
+    "tamil": "நெடுக; வழியாக",
+    "example": "He came along the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along” என்பது “நெடுக; வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep007-1",
+    "word": "alongside",
+    "tamil": "அருகில்; பக்கத்தில்",
+    "example": "The bag is alongside the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “alongside” என்பது “அருகில்; பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep007-2",
+    "word": "alongside",
+    "tamil": "அருகில்; பக்கத்தில்",
+    "example": "Our office is alongside the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “alongside” என்பது “அருகில்; பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep007-3",
+    "word": "alongside",
+    "tamil": "அருகில்; பக்கத்தில்",
+    "example": "Please wait alongside the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “alongside” என்பது “அருகில்; பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep007-4",
+    "word": "alongside",
+    "tamil": "அருகில்; பக்கத்தில்",
+    "example": "There is a small garden alongside the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “alongside” என்பது “அருகில்; பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep007-5",
+    "word": "alongside",
+    "tamil": "அருகில்; பக்கத்தில்",
+    "example": "I found my keys alongside the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “alongside” என்பது “அருகில்; பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep008-1",
+    "word": "amid",
+    "tamil": "நடுவில்; மத்தியில்",
+    "example": "The bag is amid the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “amid” என்பது “நடுவில்; மத்தியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep008-2",
+    "word": "amid",
+    "tamil": "நடுவில்; மத்தியில்",
+    "example": "Our office is amid the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “amid” என்பது “நடுவில்; மத்தியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep008-3",
+    "word": "amid",
+    "tamil": "நடுவில்; மத்தியில்",
+    "example": "Please wait amid the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “amid” என்பது “நடுவில்; மத்தியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep008-4",
+    "word": "amid",
+    "tamil": "நடுவில்; மத்தியில்",
+    "example": "There is a small garden amid the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “amid” என்பது “நடுவில்; மத்தியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep008-5",
+    "word": "amid",
+    "tamil": "நடுவில்; மத்தியில்",
+    "example": "I found my keys amid the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “amid” என்பது “நடுவில்; மத்தியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep009-1",
+    "word": "among",
+    "tamil": "பலருக்கு/பலவற்றுக்கு நடுவில்",
+    "example": "The bag is among the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “among” என்பது “பலருக்கு/பலவற்றுக்கு நடுவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep009-2",
+    "word": "among",
+    "tamil": "பலருக்கு/பலவற்றுக்கு நடுவில்",
+    "example": "Our office is among the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “among” என்பது “பலருக்கு/பலவற்றுக்கு நடுவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep009-3",
+    "word": "among",
+    "tamil": "பலருக்கு/பலவற்றுக்கு நடுவில்",
+    "example": "Please wait among the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “among” என்பது “பலருக்கு/பலவற்றுக்கு நடுவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep009-4",
+    "word": "among",
+    "tamil": "பலருக்கு/பலவற்றுக்கு நடுவில்",
+    "example": "There is a small garden among the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “among” என்பது “பலருக்கு/பலவற்றுக்கு நடுவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep009-5",
+    "word": "among",
+    "tamil": "பலருக்கு/பலவற்றுக்கு நடுவில்",
+    "example": "I found my keys among the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “among” என்பது “பலருக்கு/பலவற்றுக்கு நடுவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep010-1",
+    "word": "around",
+    "tamil": "சுற்றிலும்; சுமார்",
+    "example": "The bag is around the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “around” என்பது “சுற்றிலும்; சுமார்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep010-2",
+    "word": "around",
+    "tamil": "சுற்றிலும்; சுமார்",
+    "example": "Our office is around the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “around” என்பது “சுற்றிலும்; சுமார்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep010-3",
+    "word": "around",
+    "tamil": "சுற்றிலும்; சுமார்",
+    "example": "Please wait around the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “around” என்பது “சுற்றிலும்; சுமார்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep010-4",
+    "word": "around",
+    "tamil": "சுற்றிலும்; சுமார்",
+    "example": "There is a small garden around the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “around” என்பது “சுற்றிலும்; சுமார்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep010-5",
+    "word": "around",
+    "tamil": "சுற்றிலும்; சுமார்",
+    "example": "I found my keys around the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “around” என்பது “சுற்றிலும்; சுமார்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep011-1",
+    "word": "as",
+    "tamil": "ஆக; என்ற முறையில்",
+    "example": "She works as a team leader.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as” என்பது “ஆக; என்ற முறையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "role",
+    "level": "beginner"
+  },
+  {
+    "id": "prep011-2",
+    "word": "as",
+    "tamil": "ஆக; என்ற முறையில்",
+    "example": "He used the box as a table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as” என்பது “ஆக; என்ற முறையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "role",
+    "level": "beginner"
+  },
+  {
+    "id": "prep011-3",
+    "word": "as",
+    "tamil": "ஆக; என்ற முறையில்",
+    "example": "I see this as a good opportunity.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as” என்பது “ஆக; என்ற முறையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "role",
+    "level": "beginner"
+  },
+  {
+    "id": "prep011-4",
+    "word": "as",
+    "tamil": "ஆக; என்ற முறையில்",
+    "example": "They selected him as the captain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as” என்பது “ஆக; என்ற முறையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "role",
+    "level": "beginner"
+  },
+  {
+    "id": "prep011-5",
+    "word": "as",
+    "tamil": "ஆக; என்ற முறையில்",
+    "example": "Please treat this as a suggestion.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as” என்பது “ஆக; என்ற முறையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "role",
+    "level": "beginner"
+  },
+  {
+    "id": "prep012-1",
+    "word": "at",
+    "tamil": "இல்; குறிப்பிட்ட இடம்/நேரத்தில்",
+    "example": "My phone is at my bag.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “at” என்பது “இல்; குறிப்பிட்ட இடம்/நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep012-2",
+    "word": "at",
+    "tamil": "இல்; குறிப்பிட்ட இடம்/நேரத்தில்",
+    "example": "I will meet you at the bus stop.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “at” என்பது “இல்; குறிப்பிட்ட இடம்/நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep012-3",
+    "word": "at",
+    "tamil": "இல்; குறிப்பிட்ட இடம்/நேரத்தில்",
+    "example": "We have a meeting at Monday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “at” என்பது “இல்; குறிப்பிட்ட இடம்/நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep012-4",
+    "word": "at",
+    "tamil": "இல்; குறிப்பிட்ட இடம்/நேரத்தில்",
+    "example": "The keys are at the drawer.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “at” என்பது “இல்; குறிப்பிட்ட இடம்/நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep012-5",
+    "word": "at",
+    "tamil": "இல்; குறிப்பிட்ட இடம்/நேரத்தில்",
+    "example": "She lives at Chennai.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “at” என்பது “இல்; குறிப்பிட்ட இடம்/நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep013-1",
+    "word": "before",
+    "tamil": "முன்பு",
+    "example": "I usually exercise before the morning.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “before” என்பது “முன்பு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep013-2",
+    "word": "before",
+    "tamil": "முன்பு",
+    "example": "The class starts before 9 a.m.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “before” என்பது “முன்பு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep013-3",
+    "word": "before",
+    "tamil": "முன்பு",
+    "example": "Please call me before lunch.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “before” என்பது “முன்பு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep013-4",
+    "word": "before",
+    "tamil": "முன்பு",
+    "example": "We completed the work before Friday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “before” என்பது “முன்பு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep013-5",
+    "word": "before",
+    "tamil": "முன்பு",
+    "example": "She was reading before the evening.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “before” என்பது “முன்பு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep014-1",
+    "word": "behind",
+    "tamil": "பின்னால்",
+    "example": "The bag is behind the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “behind” என்பது “பின்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep014-2",
+    "word": "behind",
+    "tamil": "பின்னால்",
+    "example": "Our office is behind the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “behind” என்பது “பின்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep014-3",
+    "word": "behind",
+    "tamil": "பின்னால்",
+    "example": "Please wait behind the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “behind” என்பது “பின்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep014-4",
+    "word": "behind",
+    "tamil": "பின்னால்",
+    "example": "There is a small garden behind the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “behind” என்பது “பின்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep014-5",
+    "word": "behind",
+    "tamil": "பின்னால்",
+    "example": "I found my keys behind the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “behind” என்பது “பின்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep015-1",
+    "word": "below",
+    "tamil": "கீழே",
+    "example": "The bag is below the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “below” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep015-2",
+    "word": "below",
+    "tamil": "கீழே",
+    "example": "Our office is below the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “below” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep015-3",
+    "word": "below",
+    "tamil": "கீழே",
+    "example": "Please wait below the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “below” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep015-4",
+    "word": "below",
+    "tamil": "கீழே",
+    "example": "There is a small garden below the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “below” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep015-5",
+    "word": "below",
+    "tamil": "கீழே",
+    "example": "I found my keys below the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “below” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep016-1",
+    "word": "beneath",
+    "tamil": "அடியில்",
+    "example": "The bag is beneath the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep016-2",
+    "word": "beneath",
+    "tamil": "அடியில்",
+    "example": "Our office is beneath the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep016-3",
+    "word": "beneath",
+    "tamil": "அடியில்",
+    "example": "Please wait beneath the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep016-4",
+    "word": "beneath",
+    "tamil": "அடியில்",
+    "example": "There is a small garden beneath the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep016-5",
+    "word": "beneath",
+    "tamil": "அடியில்",
+    "example": "I found my keys beneath the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep017-1",
+    "word": "beside",
+    "tamil": "பக்கத்தில்",
+    "example": "The bag is beside the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beside” என்பது “பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep017-2",
+    "word": "beside",
+    "tamil": "பக்கத்தில்",
+    "example": "Our office is beside the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beside” என்பது “பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep017-3",
+    "word": "beside",
+    "tamil": "பக்கத்தில்",
+    "example": "Please wait beside the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beside” என்பது “பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep017-4",
+    "word": "beside",
+    "tamil": "பக்கத்தில்",
+    "example": "There is a small garden beside the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beside” என்பது “பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep017-5",
+    "word": "beside",
+    "tamil": "பக்கத்தில்",
+    "example": "I found my keys beside the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beside” என்பது “பக்கத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep018-1",
+    "word": "besides",
+    "tamil": "மேலும்; தவிர",
+    "example": "She speaks English besides Tamil.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “besides” என்பது “மேலும்; தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "beginner"
+  },
+  {
+    "id": "prep018-2",
+    "word": "besides",
+    "tamil": "மேலும்; தவிர",
+    "example": "We need a laptop besides a charger.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “besides” என்பது “மேலும்; தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "beginner"
+  },
+  {
+    "id": "prep018-3",
+    "word": "besides",
+    "tamil": "மேலும்; தவிர",
+    "example": "He invited his friends besides his family.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “besides” என்பது “மேலும்; தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "beginner"
+  },
+  {
+    "id": "prep018-4",
+    "word": "besides",
+    "tamil": "மேலும்; தவிர",
+    "example": "Please include the report besides the email.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “besides” என்பது “மேலும்; தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "beginner"
+  },
+  {
+    "id": "prep018-5",
+    "word": "besides",
+    "tamil": "மேலும்; தவிர",
+    "example": "I bought a notebook besides two pens.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “besides” என்பது “மேலும்; தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "beginner"
+  },
+  {
+    "id": "prep019-1",
+    "word": "between",
+    "tamil": "இரண்டிற்கும் இடையில்",
+    "example": "The bag is between the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “between” என்பது “இரண்டிற்கும் இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep019-2",
+    "word": "between",
+    "tamil": "இரண்டிற்கும் இடையில்",
+    "example": "Our office is between the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “between” என்பது “இரண்டிற்கும் இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep019-3",
+    "word": "between",
+    "tamil": "இரண்டிற்கும் இடையில்",
+    "example": "Please wait between the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “between” என்பது “இரண்டிற்கும் இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep019-4",
+    "word": "between",
+    "tamil": "இரண்டிற்கும் இடையில்",
+    "example": "There is a small garden between the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “between” என்பது “இரண்டிற்கும் இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep019-5",
+    "word": "between",
+    "tamil": "இரண்டிற்கும் இடையில்",
+    "example": "I found my keys between the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “between” என்பது “இரண்டிற்கும் இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep020-1",
+    "word": "beyond",
+    "tamil": "அப்பால்; வரம்புக்கு அப்பால்",
+    "example": "The bag is beyond the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beyond” என்பது “அப்பால்; வரம்புக்கு அப்பால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep020-2",
+    "word": "beyond",
+    "tamil": "அப்பால்; வரம்புக்கு அப்பால்",
+    "example": "Our office is beyond the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beyond” என்பது “அப்பால்; வரம்புக்கு அப்பால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep020-3",
+    "word": "beyond",
+    "tamil": "அப்பால்; வரம்புக்கு அப்பால்",
+    "example": "Please wait beyond the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beyond” என்பது “அப்பால்; வரம்புக்கு அப்பால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep020-4",
+    "word": "beyond",
+    "tamil": "அப்பால்; வரம்புக்கு அப்பால்",
+    "example": "There is a small garden beyond the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beyond” என்பது “அப்பால்; வரம்புக்கு அப்பால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep020-5",
+    "word": "beyond",
+    "tamil": "அப்பால்; வரம்புக்கு அப்பால்",
+    "example": "I found my keys beyond the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “beyond” என்பது “அப்பால்; வரம்புக்கு அப்பால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep021-1",
+    "word": "but",
+    "tamil": "தவிர",
+    "example": "Everyone came but Ravi.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “but” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep021-2",
+    "word": "but",
+    "tamil": "தவிர",
+    "example": "The shop is open every day but Sunday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “but” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep021-3",
+    "word": "but",
+    "tamil": "தவிர",
+    "example": "I like all fruits but papaya.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “but” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep021-4",
+    "word": "but",
+    "tamil": "தவிர",
+    "example": "No one but the manager knew about it.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “but” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep021-5",
+    "word": "but",
+    "tamil": "தவிர",
+    "example": "We finished every task but the last one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “but” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep022-1",
+    "word": "by",
+    "tamil": "மூலம்; அருகில்; க்குள்",
+    "example": "The report was prepared by our team.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “by” என்பது “மூலம்; அருகில்; க்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "by",
+    "level": "beginner"
+  },
+  {
+    "id": "prep022-2",
+    "word": "by",
+    "tamil": "மூலம்; அருகில்; க்குள்",
+    "example": "Please finish this by tomorrow.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “by” என்பது “மூலம்; அருகில்; க்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "by",
+    "level": "beginner"
+  },
+  {
+    "id": "prep022-3",
+    "word": "by",
+    "tamil": "மூலம்; அருகில்; க்குள்",
+    "example": "She sat by the window.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “by” என்பது “மூலம்; அருகில்; க்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "by",
+    "level": "beginner"
+  },
+  {
+    "id": "prep022-4",
+    "word": "by",
+    "tamil": "மூலம்; அருகில்; க்குள்",
+    "example": "I usually travel by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “by” என்பது “மூலம்; அருகில்; க்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "by",
+    "level": "beginner"
+  },
+  {
+    "id": "prep022-5",
+    "word": "by",
+    "tamil": "மூலம்; அருகில்; க்குள்",
+    "example": "The novel was written by a famous author.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “by” என்பது “மூலம்; அருகில்; க்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "by",
+    "level": "beginner"
+  },
+  {
+    "id": "prep023-1",
+    "word": "concerning",
+    "tamil": "தொடர்பாக",
+    "example": "We had a discussion concerning the new plan.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “concerning” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep023-2",
+    "word": "concerning",
+    "tamil": "தொடர்பாக",
+    "example": "I need more information concerning this issue.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “concerning” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep023-3",
+    "word": "concerning",
+    "tamil": "தொடர்பாக",
+    "example": "She asked me a question concerning the meeting.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “concerning” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep023-4",
+    "word": "concerning",
+    "tamil": "தொடர்பாக",
+    "example": "Let us talk concerning your idea tomorrow.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “concerning” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep023-5",
+    "word": "concerning",
+    "tamil": "தொடர்பாக",
+    "example": "He wrote a short note concerning the event.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “concerning” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep024-1",
+    "word": "considering",
+    "tamil": "கருத்தில் கொண்டு",
+    "example": "We had a discussion considering the new plan.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “considering” என்பது “கருத்தில் கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep024-2",
+    "word": "considering",
+    "tamil": "கருத்தில் கொண்டு",
+    "example": "I need more information considering this issue.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “considering” என்பது “கருத்தில் கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep024-3",
+    "word": "considering",
+    "tamil": "கருத்தில் கொண்டு",
+    "example": "She asked me a question considering the meeting.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “considering” என்பது “கருத்தில் கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep024-4",
+    "word": "considering",
+    "tamil": "கருத்தில் கொண்டு",
+    "example": "Let us talk considering your idea tomorrow.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “considering” என்பது “கருத்தில் கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep024-5",
+    "word": "considering",
+    "tamil": "கருத்தில் கொண்டு",
+    "example": "He wrote a short note considering the event.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “considering” என்பது “கருத்தில் கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "beginner"
+  },
+  {
+    "id": "prep025-1",
+    "word": "despite",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "He went to work despite feeling tired.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “despite” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "beginner"
+  },
+  {
+    "id": "prep025-2",
+    "word": "despite",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "We continued despite the heavy rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “despite” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "beginner"
+  },
+  {
+    "id": "prep025-3",
+    "word": "despite",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "She smiled despite the problem.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “despite” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "beginner"
+  },
+  {
+    "id": "prep025-4",
+    "word": "despite",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "They played outside despite the cold weather.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “despite” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "beginner"
+  },
+  {
+    "id": "prep025-5",
+    "word": "despite",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "I respect him despite our differences.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “despite” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "beginner"
+  },
+  {
+    "id": "prep026-1",
+    "word": "down",
+    "tamil": "கீழ்நோக்கி",
+    "example": "We walked down the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “down” என்பது “கீழ்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep026-2",
+    "word": "down",
+    "tamil": "கீழ்நோக்கி",
+    "example": "The children ran down the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “down” என்பது “கீழ்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep026-3",
+    "word": "down",
+    "tamil": "கீழ்நோக்கி",
+    "example": "She went down the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “down” என்பது “கீழ்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep026-4",
+    "word": "down",
+    "tamil": "கீழ்நோக்கி",
+    "example": "The bus moved down the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “down” என்பது “கீழ்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep026-5",
+    "word": "down",
+    "tamil": "கீழ்நோக்கி",
+    "example": "He came down the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “down” என்பது “கீழ்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep027-1",
+    "word": "during",
+    "tamil": "நடக்கும் காலத்தில்",
+    "example": "I usually exercise during the morning.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “during” என்பது “நடக்கும் காலத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep027-2",
+    "word": "during",
+    "tamil": "நடக்கும் காலத்தில்",
+    "example": "The class starts during 9 a.m.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “during” என்பது “நடக்கும் காலத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep027-3",
+    "word": "during",
+    "tamil": "நடக்கும் காலத்தில்",
+    "example": "Please call me during lunch.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “during” என்பது “நடக்கும் காலத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep027-4",
+    "word": "during",
+    "tamil": "நடக்கும் காலத்தில்",
+    "example": "We completed the work during Friday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “during” என்பது “நடக்கும் காலத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep027-5",
+    "word": "during",
+    "tamil": "நடக்கும் காலத்தில்",
+    "example": "She was reading during the evening.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “during” என்பது “நடக்கும் காலத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep028-1",
+    "word": "except",
+    "tamil": "தவிர",
+    "example": "Everyone came except Ravi.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “except” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep028-2",
+    "word": "except",
+    "tamil": "தவிர",
+    "example": "The shop is open every day except Sunday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “except” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep028-3",
+    "word": "except",
+    "tamil": "தவிர",
+    "example": "I like all fruits except papaya.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “except” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep028-4",
+    "word": "except",
+    "tamil": "தவிர",
+    "example": "No one except the manager knew about it.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “except” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep028-5",
+    "word": "except",
+    "tamil": "தவிர",
+    "example": "We finished every task except the last one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “except” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep029-1",
+    "word": "excluding",
+    "tamil": "நீங்கலாக",
+    "example": "Everyone came excluding Ravi.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “excluding” என்பது “நீங்கலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep029-2",
+    "word": "excluding",
+    "tamil": "நீங்கலாக",
+    "example": "The shop is open every day excluding Sunday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “excluding” என்பது “நீங்கலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep029-3",
+    "word": "excluding",
+    "tamil": "நீங்கலாக",
+    "example": "I like all fruits excluding papaya.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “excluding” என்பது “நீங்கலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep029-4",
+    "word": "excluding",
+    "tamil": "நீங்கலாக",
+    "example": "No one excluding the manager knew about it.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “excluding” என்பது “நீங்கலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep029-5",
+    "word": "excluding",
+    "tamil": "நீங்கலாக",
+    "example": "We finished every task excluding the last one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “excluding” என்பது “நீங்கலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "beginner"
+  },
+  {
+    "id": "prep030-1",
+    "word": "following",
+    "tamil": "தொடர்ந்து; பிறகு",
+    "example": "I usually exercise following the morning.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “following” என்பது “தொடர்ந்து; பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep030-2",
+    "word": "following",
+    "tamil": "தொடர்ந்து; பிறகு",
+    "example": "The class starts following 9 a.m.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “following” என்பது “தொடர்ந்து; பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep030-3",
+    "word": "following",
+    "tamil": "தொடர்ந்து; பிறகு",
+    "example": "Please call me following lunch.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “following” என்பது “தொடர்ந்து; பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep030-4",
+    "word": "following",
+    "tamil": "தொடர்ந்து; பிறகு",
+    "example": "We completed the work following Friday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “following” என்பது “தொடர்ந்து; பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep030-5",
+    "word": "following",
+    "tamil": "தொடர்ந்து; பிறகு",
+    "example": "She was reading following the evening.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “following” என்பது “தொடர்ந்து; பிறகு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "beginner"
+  },
+  {
+    "id": "prep031-1",
+    "word": "for",
+    "tamil": "க்காக; கால அளவுக்கு",
+    "example": "This gift is for you.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “for” என்பது “க்காக; கால அளவுக்கு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "for",
+    "level": "beginner"
+  },
+  {
+    "id": "prep031-2",
+    "word": "for",
+    "tamil": "க்காக; கால அளவுக்கு",
+    "example": "I waited for an hour.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “for” என்பது “க்காக; கால அளவுக்கு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "for",
+    "level": "beginner"
+  },
+  {
+    "id": "prep031-3",
+    "word": "for",
+    "tamil": "க்காக; கால அளவுக்கு",
+    "example": "She works for a software company.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “for” என்பது “க்காக; கால அளவுக்கு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "for",
+    "level": "beginner"
+  },
+  {
+    "id": "prep031-4",
+    "word": "for",
+    "tamil": "க்காக; கால அளவுக்கு",
+    "example": "We booked a table for six people.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “for” என்பது “க்காக; கால அளவுக்கு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "for",
+    "level": "beginner"
+  },
+  {
+    "id": "prep031-5",
+    "word": "for",
+    "tamil": "க்காக; கால அளவுக்கு",
+    "example": "Thank you for your help.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “for” என்பது “க்காக; கால அளவுக்கு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "for",
+    "level": "beginner"
+  },
+  {
+    "id": "prep032-1",
+    "word": "from",
+    "tamil": "இருந்து",
+    "example": "I received a message from my friend.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “from” என்பது “இருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "from",
+    "level": "beginner"
+  },
+  {
+    "id": "prep032-2",
+    "word": "from",
+    "tamil": "இருந்து",
+    "example": "The train leaves from platform two.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “from” என்பது “இருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "from",
+    "level": "beginner"
+  },
+  {
+    "id": "prep032-3",
+    "word": "from",
+    "tamil": "இருந்து",
+    "example": "She works from Monday to Friday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “from” என்பது “இருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "from",
+    "level": "beginner"
+  },
+  {
+    "id": "prep032-4",
+    "word": "from",
+    "tamil": "இருந்து",
+    "example": "Keep the milk away from sunlight.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “from” என்பது “இருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "from",
+    "level": "beginner"
+  },
+  {
+    "id": "prep032-5",
+    "word": "from",
+    "tamil": "இருந்து",
+    "example": "This road goes from the city centre.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “from” என்பது “இருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "from",
+    "level": "beginner"
+  },
+  {
+    "id": "prep033-1",
+    "word": "in",
+    "tamil": "உள்ளே; இல்",
+    "example": "My phone is in my bag.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in” என்பது “உள்ளே; இல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep033-2",
+    "word": "in",
+    "tamil": "உள்ளே; இல்",
+    "example": "I will meet you in the bus stop.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in” என்பது “உள்ளே; இல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep033-3",
+    "word": "in",
+    "tamil": "உள்ளே; இல்",
+    "example": "We have a meeting in Monday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in” என்பது “உள்ளே; இல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep033-4",
+    "word": "in",
+    "tamil": "உள்ளே; இல்",
+    "example": "The keys are in the drawer.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in” என்பது “உள்ளே; இல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep033-5",
+    "word": "in",
+    "tamil": "உள்ளே; இல்",
+    "example": "She lives in Chennai.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in” என்பது “உள்ளே; இல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep034-1",
+    "word": "inside",
+    "tamil": "உள்ளே",
+    "example": "The bag is inside the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “inside” என்பது “உள்ளே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep034-2",
+    "word": "inside",
+    "tamil": "உள்ளே",
+    "example": "Our office is inside the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “inside” என்பது “உள்ளே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep034-3",
+    "word": "inside",
+    "tamil": "உள்ளே",
+    "example": "Please wait inside the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “inside” என்பது “உள்ளே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep034-4",
+    "word": "inside",
+    "tamil": "உள்ளே",
+    "example": "There is a small garden inside the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “inside” என்பது “உள்ளே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep034-5",
+    "word": "inside",
+    "tamil": "உள்ளே",
+    "example": "I found my keys inside the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “inside” என்பது “உள்ளே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep035-1",
+    "word": "into",
+    "tamil": "உள்ளே நோக்கி",
+    "example": "We walked into the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “into” என்பது “உள்ளே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep035-2",
+    "word": "into",
+    "tamil": "உள்ளே நோக்கி",
+    "example": "The children ran into the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “into” என்பது “உள்ளே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep035-3",
+    "word": "into",
+    "tamil": "உள்ளே நோக்கி",
+    "example": "She went into the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “into” என்பது “உள்ளே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep035-4",
+    "word": "into",
+    "tamil": "உள்ளே நோக்கி",
+    "example": "The bus moved into the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “into” என்பது “உள்ளே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep035-5",
+    "word": "into",
+    "tamil": "உள்ளே நோக்கி",
+    "example": "He came into the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “into” என்பது “உள்ளே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep036-1",
+    "word": "like",
+    "tamil": "போல",
+    "example": "This bag is lighter like that one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “like” என்பது “போல” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "beginner"
+  },
+  {
+    "id": "prep036-2",
+    "word": "like",
+    "tamil": "போல",
+    "example": "She sings like a professional.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “like” என்பது “போல” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "beginner"
+  },
+  {
+    "id": "prep036-3",
+    "word": "like",
+    "tamil": "போல",
+    "example": "He is taller like his brother.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “like” என்பது “போல” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "beginner"
+  },
+  {
+    "id": "prep036-4",
+    "word": "like",
+    "tamil": "போல",
+    "example": "This looks different like the sample.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “like” என்பது “போல” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "beginner"
+  },
+  {
+    "id": "prep036-5",
+    "word": "like",
+    "tamil": "போல",
+    "example": "I prefer tea like coffee.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “like” என்பது “போல” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "beginner"
+  },
+  {
+    "id": "prep037-1",
+    "word": "near",
+    "tamil": "அருகில்",
+    "example": "The bag is near the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep037-2",
+    "word": "near",
+    "tamil": "அருகில்",
+    "example": "Our office is near the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep037-3",
+    "word": "near",
+    "tamil": "அருகில்",
+    "example": "Please wait near the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep037-4",
+    "word": "near",
+    "tamil": "அருகில்",
+    "example": "There is a small garden near the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep037-5",
+    "word": "near",
+    "tamil": "அருகில்",
+    "example": "I found my keys near the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep038-1",
+    "word": "of",
+    "tamil": "உடைய; இன்",
+    "example": "The colour of the car is blue.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “of” என்பது “உடைய; இன்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "of",
+    "level": "beginner"
+  },
+  {
+    "id": "prep038-2",
+    "word": "of",
+    "tamil": "உடைய; இன்",
+    "example": "I need a glass of water.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “of” என்பது “உடைய; இன்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "of",
+    "level": "beginner"
+  },
+  {
+    "id": "prep038-3",
+    "word": "of",
+    "tamil": "உடைய; இன்",
+    "example": "She is a member of our team.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “of” என்பது “உடைய; இன்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "of",
+    "level": "beginner"
+  },
+  {
+    "id": "prep038-4",
+    "word": "of",
+    "tamil": "உடைய; இன்",
+    "example": "The top of the box is open.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “of” என்பது “உடைய; இன்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "of",
+    "level": "beginner"
+  },
+  {
+    "id": "prep038-5",
+    "word": "of",
+    "tamil": "உடைய; இன்",
+    "example": "He is proud of his work.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “of” என்பது “உடைய; இன்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "of",
+    "level": "beginner"
+  },
+  {
+    "id": "prep039-1",
+    "word": "off",
+    "tamil": "விலகி; மேற்பரப்பிலிருந்து",
+    "example": "We walked off the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “off” என்பது “விலகி; மேற்பரப்பிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep039-2",
+    "word": "off",
+    "tamil": "விலகி; மேற்பரப்பிலிருந்து",
+    "example": "The children ran off the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “off” என்பது “விலகி; மேற்பரப்பிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep039-3",
+    "word": "off",
+    "tamil": "விலகி; மேற்பரப்பிலிருந்து",
+    "example": "She went off the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “off” என்பது “விலகி; மேற்பரப்பிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep039-4",
+    "word": "off",
+    "tamil": "விலகி; மேற்பரப்பிலிருந்து",
+    "example": "The bus moved off the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “off” என்பது “விலகி; மேற்பரப்பிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep039-5",
+    "word": "off",
+    "tamil": "விலகி; மேற்பரப்பிலிருந்து",
+    "example": "He came off the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “off” என்பது “விலகி; மேற்பரப்பிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep040-1",
+    "word": "on",
+    "tamil": "மேல்; அன்று",
+    "example": "My phone is on my bag.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on” என்பது “மேல்; அன்று” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep040-2",
+    "word": "on",
+    "tamil": "மேல்; அன்று",
+    "example": "I will meet you on the bus stop.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on” என்பது “மேல்; அன்று” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep040-3",
+    "word": "on",
+    "tamil": "மேல்; அன்று",
+    "example": "We have a meeting on Monday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on” என்பது “மேல்; அன்று” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep040-4",
+    "word": "on",
+    "tamil": "மேல்; அன்று",
+    "example": "The keys are on the drawer.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on” என்பது “மேல்; அன்று” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep040-5",
+    "word": "on",
+    "tamil": "மேல்; அன்று",
+    "example": "She lives on Chennai.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on” என்பது “மேல்; அன்று” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "timeplace",
+    "level": "beginner"
+  },
+  {
+    "id": "prep041-1",
+    "word": "onto",
+    "tamil": "மேலே நோக்கி",
+    "example": "We walked onto the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “onto” என்பது “மேலே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep041-2",
+    "word": "onto",
+    "tamil": "மேலே நோக்கி",
+    "example": "The children ran onto the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “onto” என்பது “மேலே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep041-3",
+    "word": "onto",
+    "tamil": "மேலே நோக்கி",
+    "example": "She went onto the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “onto” என்பது “மேலே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep041-4",
+    "word": "onto",
+    "tamil": "மேலே நோக்கி",
+    "example": "The bus moved onto the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “onto” என்பது “மேலே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep041-5",
+    "word": "onto",
+    "tamil": "மேலே நோக்கி",
+    "example": "He came onto the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “onto” என்பது “மேலே நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep042-1",
+    "word": "opposite",
+    "tamil": "எதிரில்",
+    "example": "The bag is opposite the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “opposite” என்பது “எதிரில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep042-2",
+    "word": "opposite",
+    "tamil": "எதிரில்",
+    "example": "Our office is opposite the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “opposite” என்பது “எதிரில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep042-3",
+    "word": "opposite",
+    "tamil": "எதிரில்",
+    "example": "Please wait opposite the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “opposite” என்பது “எதிரில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep042-4",
+    "word": "opposite",
+    "tamil": "எதிரில்",
+    "example": "There is a small garden opposite the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “opposite” என்பது “எதிரில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep042-5",
+    "word": "opposite",
+    "tamil": "எதிரில்",
+    "example": "I found my keys opposite the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “opposite” என்பது “எதிரில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep043-1",
+    "word": "out",
+    "tamil": "வெளியே",
+    "example": "We walked out the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out” என்பது “வெளியே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep043-2",
+    "word": "out",
+    "tamil": "வெளியே",
+    "example": "The children ran out the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out” என்பது “வெளியே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep043-3",
+    "word": "out",
+    "tamil": "வெளியே",
+    "example": "She went out the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out” என்பது “வெளியே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep043-4",
+    "word": "out",
+    "tamil": "வெளியே",
+    "example": "The bus moved out the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out” என்பது “வெளியே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep043-5",
+    "word": "out",
+    "tamil": "வெளியே",
+    "example": "He came out the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out” என்பது “வெளியே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "beginner"
+  },
+  {
+    "id": "prep044-1",
+    "word": "outside",
+    "tamil": "வெளியே; வெளிப்புறத்தில்",
+    "example": "The bag is outside the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “outside” என்பது “வெளியே; வெளிப்புறத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep044-2",
+    "word": "outside",
+    "tamil": "வெளியே; வெளிப்புறத்தில்",
+    "example": "Our office is outside the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “outside” என்பது “வெளியே; வெளிப்புறத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep044-3",
+    "word": "outside",
+    "tamil": "வெளியே; வெளிப்புறத்தில்",
+    "example": "Please wait outside the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “outside” என்பது “வெளியே; வெளிப்புறத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep044-4",
+    "word": "outside",
+    "tamil": "வெளியே; வெளிப்புறத்தில்",
+    "example": "There is a small garden outside the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “outside” என்பது “வெளியே; வெளிப்புறத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep044-5",
+    "word": "outside",
+    "tamil": "வெளியே; வெளிப்புறத்தில்",
+    "example": "I found my keys outside the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “outside” என்பது “வெளியே; வெளிப்புறத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "beginner"
+  },
+  {
+    "id": "prep045-1",
+    "word": "over",
+    "tamil": "மேலாக; முழுவதும்",
+    "example": "The shop is over the road from here.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “over” என்பது “மேலாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "over",
+    "level": "beginner"
+  },
+  {
+    "id": "prep045-2",
+    "word": "over",
+    "tamil": "மேலாக; முழுவதும்",
+    "example": "We talked over the phone.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “over” என்பது “மேலாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "over",
+    "level": "beginner"
+  },
+  {
+    "id": "prep045-3",
+    "word": "over",
+    "tamil": "மேலாக; முழுவதும்",
+    "example": "The bird flew over the wall.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “over” என்பது “மேலாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "over",
+    "level": "beginner"
+  },
+  {
+    "id": "prep045-4",
+    "word": "over",
+    "tamil": "மேலாக; முழுவதும்",
+    "example": "She looked over the document.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “over” என்பது “மேலாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "over",
+    "level": "beginner"
+  },
+  {
+    "id": "prep045-5",
+    "word": "over",
+    "tamil": "மேலாக; முழுவதும்",
+    "example": "He stayed over for dinner.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “over” என்பது “மேலாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "over",
+    "level": "beginner"
+  },
+  {
+    "id": "prep046-1",
+    "word": "past",
+    "tamil": "கடந்து; கடந்த நேரத்தில்",
+    "example": "We walked past the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “past” என்பது “கடந்து; கடந்த நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep046-2",
+    "word": "past",
+    "tamil": "கடந்து; கடந்த நேரத்தில்",
+    "example": "The children ran past the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “past” என்பது “கடந்து; கடந்த நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep046-3",
+    "word": "past",
+    "tamil": "கடந்து; கடந்த நேரத்தில்",
+    "example": "She went past the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “past” என்பது “கடந்து; கடந்த நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep046-4",
+    "word": "past",
+    "tamil": "கடந்து; கடந்த நேரத்தில்",
+    "example": "The bus moved past the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “past” என்பது “கடந்து; கடந்த நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep046-5",
+    "word": "past",
+    "tamil": "கடந்து; கடந்த நேரத்தில்",
+    "example": "He came past the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “past” என்பது “கடந்து; கடந்த நேரத்தில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep047-1",
+    "word": "per",
+    "tamil": "ஒவ்வொன்றுக்கும்",
+    "example": "The tickets cost 200 rupees per person.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “per” என்பது “ஒவ்வொன்றுக்கும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "per",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep047-2",
+    "word": "per",
+    "tamil": "ஒவ்வொன்றுக்கும்",
+    "example": "Take this medicine twice per day.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “per” என்பது “ஒவ்வொன்றுக்கும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "per",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep047-3",
+    "word": "per",
+    "tamil": "ஒவ்வொன்றுக்கும்",
+    "example": "The speed limit is 40 kilometres per hour.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “per” என்பது “ஒவ்வொன்றுக்கும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "per",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep047-4",
+    "word": "per",
+    "tamil": "ஒவ்வொன்றுக்கும்",
+    "example": "We produce 50 units per shift.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “per” என்பது “ஒவ்வொன்றுக்கும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "per",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep047-5",
+    "word": "per",
+    "tamil": "ஒவ்வொன்றுக்கும்",
+    "example": "The fee is 500 rupees per student.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “per” என்பது “ஒவ்வொன்றுக்கும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "per",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep048-1",
+    "word": "plus",
+    "tamil": "கூடுதலாக",
+    "example": "She speaks English plus Tamil.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “plus” என்பது “கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep048-2",
+    "word": "plus",
+    "tamil": "கூடுதலாக",
+    "example": "We need a laptop plus a charger.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “plus” என்பது “கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep048-3",
+    "word": "plus",
+    "tamil": "கூடுதலாக",
+    "example": "He invited his friends plus his family.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “plus” என்பது “கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep048-4",
+    "word": "plus",
+    "tamil": "கூடுதலாக",
+    "example": "Please include the report plus the email.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “plus” என்பது “கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep048-5",
+    "word": "plus",
+    "tamil": "கூடுதலாக",
+    "example": "I bought a notebook plus two pens.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “plus” என்பது “கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep049-1",
+    "word": "regarding",
+    "tamil": "குறித்து",
+    "example": "We had a discussion regarding the new plan.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regarding” என்பது “குறித்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep049-2",
+    "word": "regarding",
+    "tamil": "குறித்து",
+    "example": "I need more information regarding this issue.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regarding” என்பது “குறித்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep049-3",
+    "word": "regarding",
+    "tamil": "குறித்து",
+    "example": "She asked me a question regarding the meeting.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regarding” என்பது “குறித்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep049-4",
+    "word": "regarding",
+    "tamil": "குறித்து",
+    "example": "Let us talk regarding your idea tomorrow.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regarding” என்பது “குறித்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep049-5",
+    "word": "regarding",
+    "tamil": "குறித்து",
+    "example": "He wrote a short note regarding the event.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regarding” என்பது “குறித்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep050-1",
+    "word": "round",
+    "tamil": "சுற்றி",
+    "example": "The bag is round the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “round” என்பது “சுற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep050-2",
+    "word": "round",
+    "tamil": "சுற்றி",
+    "example": "Our office is round the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “round” என்பது “சுற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep050-3",
+    "word": "round",
+    "tamil": "சுற்றி",
+    "example": "Please wait round the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “round” என்பது “சுற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep050-4",
+    "word": "round",
+    "tamil": "சுற்றி",
+    "example": "There is a small garden round the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “round” என்பது “சுற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep050-5",
+    "word": "round",
+    "tamil": "சுற்றி",
+    "example": "I found my keys round the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “round” என்பது “சுற்றி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep051-1",
+    "word": "since",
+    "tamil": "முதல்; அன்றிலிருந்து",
+    "example": "I have lived here since 2020.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “since” என்பது “முதல்; அன்றிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "since",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep051-2",
+    "word": "since",
+    "tamil": "முதல்; அன்றிலிருந்து",
+    "example": "She has been busy since morning.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “since” என்பது “முதல்; அன்றிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "since",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep051-3",
+    "word": "since",
+    "tamil": "முதல்; அன்றிலிருந்து",
+    "example": "We have known each other since school.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “since” என்பது “முதல்; அன்றிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "since",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep051-4",
+    "word": "since",
+    "tamil": "முதல்; அன்றிலிருந்து",
+    "example": "It has not rained since last week.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “since” என்பது “முதல்; அன்றிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "since",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep051-5",
+    "word": "since",
+    "tamil": "முதல்; அன்றிலிருந்து",
+    "example": "He has worked here since June.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “since” என்பது “முதல்; அன்றிலிருந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "since",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep052-1",
+    "word": "than",
+    "tamil": "விட",
+    "example": "This bag is lighter than that one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “than” என்பது “விட” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep052-2",
+    "word": "than",
+    "tamil": "விட",
+    "example": "She sings than a professional.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “than” என்பது “விட” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep052-3",
+    "word": "than",
+    "tamil": "விட",
+    "example": "He is taller than his brother.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “than” என்பது “விட” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep052-4",
+    "word": "than",
+    "tamil": "விட",
+    "example": "This looks different than the sample.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “than” என்பது “விட” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep052-5",
+    "word": "than",
+    "tamil": "விட",
+    "example": "I prefer tea than coffee.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “than” என்பது “விட” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep053-1",
+    "word": "through",
+    "tamil": "வழியாக; முழுவதும்",
+    "example": "We walked through the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “through” என்பது “வழியாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep053-2",
+    "word": "through",
+    "tamil": "வழியாக; முழுவதும்",
+    "example": "The children ran through the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “through” என்பது “வழியாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep053-3",
+    "word": "through",
+    "tamil": "வழியாக; முழுவதும்",
+    "example": "She went through the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “through” என்பது “வழியாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep053-4",
+    "word": "through",
+    "tamil": "வழியாக; முழுவதும்",
+    "example": "The bus moved through the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “through” என்பது “வழியாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep053-5",
+    "word": "through",
+    "tamil": "வழியாக; முழுவதும்",
+    "example": "He came through the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “through” என்பது “வழியாக; முழுவதும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep054-1",
+    "word": "throughout",
+    "tamil": "முழுவதும்; எல்லா இடங்களிலும்",
+    "example": "The bag is throughout the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “throughout” என்பது “முழுவதும்; எல்லா இடங்களிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "throughout",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep054-2",
+    "word": "throughout",
+    "tamil": "முழுவதும்; எல்லா இடங்களிலும்",
+    "example": "Our office is throughout the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “throughout” என்பது “முழுவதும்; எல்லா இடங்களிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "throughout",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep054-3",
+    "word": "throughout",
+    "tamil": "முழுவதும்; எல்லா இடங்களிலும்",
+    "example": "Please wait throughout the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “throughout” என்பது “முழுவதும்; எல்லா இடங்களிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "throughout",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep054-4",
+    "word": "throughout",
+    "tamil": "முழுவதும்; எல்லா இடங்களிலும்",
+    "example": "There is a small garden throughout the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “throughout” என்பது “முழுவதும்; எல்லா இடங்களிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "throughout",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep054-5",
+    "word": "throughout",
+    "tamil": "முழுவதும்; எல்லா இடங்களிலும்",
+    "example": "I found my keys throughout the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “throughout” என்பது “முழுவதும்; எல்லா இடங்களிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "throughout",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep055-1",
+    "word": "till",
+    "tamil": "வரை",
+    "example": "Please wait till 5 p.m.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “till” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep055-2",
+    "word": "till",
+    "tamil": "வரை",
+    "example": "The shop stays open till midnight.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “till” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep055-3",
+    "word": "till",
+    "tamil": "வரை",
+    "example": "We worked till the task was complete.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “till” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep055-4",
+    "word": "till",
+    "tamil": "வரை",
+    "example": "You can stay here till Monday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “till” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep055-5",
+    "word": "till",
+    "tamil": "வரை",
+    "example": "Keep practising till you feel confident.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “till” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep056-1",
+    "word": "to",
+    "tamil": "க்கு; நோக்கி",
+    "example": "The bag is to the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “to” என்பது “க்கு; நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "to",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep056-2",
+    "word": "to",
+    "tamil": "க்கு; நோக்கி",
+    "example": "Our office is to the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “to” என்பது “க்கு; நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "to",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep056-3",
+    "word": "to",
+    "tamil": "க்கு; நோக்கி",
+    "example": "Please wait to the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “to” என்பது “க்கு; நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "to",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep056-4",
+    "word": "to",
+    "tamil": "க்கு; நோக்கி",
+    "example": "There is a small garden to the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “to” என்பது “க்கு; நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "to",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep056-5",
+    "word": "to",
+    "tamil": "க்கு; நோக்கி",
+    "example": "I found my keys to the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “to” என்பது “க்கு; நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "to",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep057-1",
+    "word": "toward",
+    "tamil": "நோக்கி",
+    "example": "We walked toward the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “toward” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep057-2",
+    "word": "toward",
+    "tamil": "நோக்கி",
+    "example": "The children ran toward the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “toward” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep057-3",
+    "word": "toward",
+    "tamil": "நோக்கி",
+    "example": "She went toward the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “toward” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep057-4",
+    "word": "toward",
+    "tamil": "நோக்கி",
+    "example": "The bus moved toward the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “toward” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep057-5",
+    "word": "toward",
+    "tamil": "நோக்கி",
+    "example": "He came toward the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “toward” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep058-1",
+    "word": "towards",
+    "tamil": "நோக்கி",
+    "example": "We walked towards the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “towards” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep058-2",
+    "word": "towards",
+    "tamil": "நோக்கி",
+    "example": "The children ran towards the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “towards” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep058-3",
+    "word": "towards",
+    "tamil": "நோக்கி",
+    "example": "She went towards the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “towards” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep058-4",
+    "word": "towards",
+    "tamil": "நோக்கி",
+    "example": "The bus moved towards the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “towards” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep058-5",
+    "word": "towards",
+    "tamil": "நோக்கி",
+    "example": "He came towards the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “towards” என்பது “நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep059-1",
+    "word": "under",
+    "tamil": "கீழே",
+    "example": "The bag is under the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “under” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep059-2",
+    "word": "under",
+    "tamil": "கீழே",
+    "example": "Our office is under the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “under” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep059-3",
+    "word": "under",
+    "tamil": "கீழே",
+    "example": "Please wait under the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “under” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep059-4",
+    "word": "under",
+    "tamil": "கீழே",
+    "example": "There is a small garden under the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “under” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep059-5",
+    "word": "under",
+    "tamil": "கீழே",
+    "example": "I found my keys under the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “under” என்பது “கீழே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep060-1",
+    "word": "underneath",
+    "tamil": "அடியில்",
+    "example": "The bag is underneath the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “underneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep060-2",
+    "word": "underneath",
+    "tamil": "அடியில்",
+    "example": "Our office is underneath the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “underneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep060-3",
+    "word": "underneath",
+    "tamil": "அடியில்",
+    "example": "Please wait underneath the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “underneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep060-4",
+    "word": "underneath",
+    "tamil": "அடியில்",
+    "example": "There is a small garden underneath the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “underneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep060-5",
+    "word": "underneath",
+    "tamil": "அடியில்",
+    "example": "I found my keys underneath the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “underneath” என்பது “அடியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep061-1",
+    "word": "unlike",
+    "tamil": "போலல்லாமல்",
+    "example": "This bag is lighter unlike that one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “unlike” என்பது “போலல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep061-2",
+    "word": "unlike",
+    "tamil": "போலல்லாமல்",
+    "example": "She sings unlike a professional.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “unlike” என்பது “போலல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep061-3",
+    "word": "unlike",
+    "tamil": "போலல்லாமல்",
+    "example": "He is taller unlike his brother.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “unlike” என்பது “போலல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep061-4",
+    "word": "unlike",
+    "tamil": "போலல்லாமல்",
+    "example": "This looks different unlike the sample.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “unlike” என்பது “போலல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep061-5",
+    "word": "unlike",
+    "tamil": "போலல்லாமல்",
+    "example": "I prefer tea unlike coffee.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “unlike” என்பது “போலல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "comparison",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep062-1",
+    "word": "until",
+    "tamil": "வரை",
+    "example": "Please wait until 5 p.m.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “until” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep062-2",
+    "word": "until",
+    "tamil": "வரை",
+    "example": "The shop stays open until midnight.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “until” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep062-3",
+    "word": "until",
+    "tamil": "வரை",
+    "example": "We worked until the task was complete.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “until” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep062-4",
+    "word": "until",
+    "tamil": "வரை",
+    "example": "You can stay here until Monday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “until” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep062-5",
+    "word": "until",
+    "tamil": "வரை",
+    "example": "Keep practising until you feel confident.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “until” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep063-1",
+    "word": "up",
+    "tamil": "மேல்நோக்கி",
+    "example": "We walked up the park.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up” என்பது “மேல்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep063-2",
+    "word": "up",
+    "tamil": "மேல்நோக்கி",
+    "example": "The children ran up the gate.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up” என்பது “மேல்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep063-3",
+    "word": "up",
+    "tamil": "மேல்நோக்கி",
+    "example": "She went up the room quietly.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up” என்பது “மேல்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep063-4",
+    "word": "up",
+    "tamil": "மேல்நோக்கி",
+    "example": "The bus moved up the bridge.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up” என்பது “மேல்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep063-5",
+    "word": "up",
+    "tamil": "மேல்நோக்கி",
+    "example": "He came up the station by bus.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up” என்பது “மேல்நோக்கி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "movement",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep064-1",
+    "word": "upon",
+    "tamil": "மேல்; உடனே",
+    "example": "The bag is upon the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “upon” என்பது “மேல்; உடனே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "upon",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep064-2",
+    "word": "upon",
+    "tamil": "மேல்; உடனே",
+    "example": "Our office is upon the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “upon” என்பது “மேல்; உடனே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "upon",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep064-3",
+    "word": "upon",
+    "tamil": "மேல்; உடனே",
+    "example": "Please wait upon the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “upon” என்பது “மேல்; உடனே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "upon",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep064-4",
+    "word": "upon",
+    "tamil": "மேல்; உடனே",
+    "example": "There is a small garden upon the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “upon” என்பது “மேல்; உடனே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "upon",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep064-5",
+    "word": "upon",
+    "tamil": "மேல்; உடனே",
+    "example": "I found my keys upon the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “upon” என்பது “மேல்; உடனே” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "upon",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep065-1",
+    "word": "via",
+    "tamil": "வழியாக",
+    "example": "We travelled to Madurai via Dindigul.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “via” என்பது “வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "via",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep065-2",
+    "word": "via",
+    "tamil": "வழியாக",
+    "example": "Send the document via email.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “via” என்பது “வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "via",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep065-3",
+    "word": "via",
+    "tamil": "வழியாக",
+    "example": "The update came via the official app.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “via” என்பது “வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "via",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep065-4",
+    "word": "via",
+    "tamil": "வழியாக",
+    "example": "You can pay via UPI.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “via” என்பது “வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "via",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep065-5",
+    "word": "via",
+    "tamil": "வழியாக",
+    "example": "The message was shared via the group.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “via” என்பது “வழியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "via",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep066-1",
+    "word": "with",
+    "tamil": "உடன்; கொண்டு",
+    "example": "I went shopping with my sister.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with” என்பது “உடன்; கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep066-2",
+    "word": "with",
+    "tamil": "உடன்; கொண்டு",
+    "example": "Please write with a blue pen.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with” என்பது “உடன்; கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep066-3",
+    "word": "with",
+    "tamil": "உடன்; கொண்டு",
+    "example": "She filled the bottle with water.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with” என்பது “உடன்; கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep066-4",
+    "word": "with",
+    "tamil": "உடன்; கொண்டு",
+    "example": "He spoke with confidence.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with” என்பது “உடன்; கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep066-5",
+    "word": "with",
+    "tamil": "உடன்; கொண்டு",
+    "example": "Cut the paper with scissors.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with” என்பது “உடன்; கொண்டு” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep067-1",
+    "word": "within",
+    "tamil": "உள்ளே; காலக்கெடுவுக்குள்",
+    "example": "Please reply within two days.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “within” என்பது “உள்ளே; காலக்கெடுவுக்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "within",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep067-2",
+    "word": "within",
+    "tamil": "உள்ளே; காலக்கெடுவுக்குள்",
+    "example": "The shop is within walking distance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “within” என்பது “உள்ளே; காலக்கெடுவுக்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "within",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep067-3",
+    "word": "within",
+    "tamil": "உள்ளே; காலக்கெடுவுக்குள்",
+    "example": "Finish the test within an hour.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “within” என்பது “உள்ளே; காலக்கெடுவுக்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "within",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep067-4",
+    "word": "within",
+    "tamil": "உள்ளே; காலக்கெடுவுக்குள்",
+    "example": "Keep the files within this folder.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “within” என்பது “உள்ளே; காலக்கெடுவுக்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "within",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep067-5",
+    "word": "within",
+    "tamil": "உள்ளே; காலக்கெடுவுக்குள்",
+    "example": "The parcel arrived within a week.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “within” என்பது “உள்ளே; காலக்கெடுவுக்குள்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "within",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep068-1",
+    "word": "without",
+    "tamil": "இல்லாமல்",
+    "example": "I cannot work without my laptop.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “without” என்பது “இல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "without",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep068-2",
+    "word": "without",
+    "tamil": "இல்லாமல்",
+    "example": "She left without saying goodbye.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “without” என்பது “இல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "without",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep068-3",
+    "word": "without",
+    "tamil": "இல்லாமல்",
+    "example": "Please do not sign without reading it.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “without” என்பது “இல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "without",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep068-4",
+    "word": "without",
+    "tamil": "இல்லாமல்",
+    "example": "He finished the task without help.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “without” என்பது “இல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "without",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep068-5",
+    "word": "without",
+    "tamil": "இல்லாமல்",
+    "example": "We cannot travel without tickets.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “without” என்பது “இல்லாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "without",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep069-1",
+    "word": "according to",
+    "tamil": "படி; ஏற்ப",
+    "example": "Please arrange the files according to the list.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “according to” என்பது “படி; ஏற்ப” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep069-2",
+    "word": "according to",
+    "tamil": "படி; ஏற்ப",
+    "example": "We acted according to the instructions.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “according to” என்பது “படி; ஏற்ப” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep069-3",
+    "word": "according to",
+    "tamil": "படி; ஏற்ப",
+    "example": "The price may change according to demand.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “according to” என்பது “படி; ஏற்ப” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep069-4",
+    "word": "according to",
+    "tamil": "படி; ஏற்ப",
+    "example": "Complete the form according to the guidelines.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “according to” என்பது “படி; ஏற்ப” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep069-5",
+    "word": "according to",
+    "tamil": "படி; ஏற்ப",
+    "example": "The work was done according to the plan.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “according to” என்பது “படி; ஏற்ப” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep070-1",
+    "word": "ahead of",
+    "tamil": "முன்னால்",
+    "example": "Our team is ahead of the others.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “ahead of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "ahead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep070-2",
+    "word": "ahead of",
+    "tamil": "முன்னால்",
+    "example": "Please book the tickets ahead of time.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “ahead of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "ahead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep070-3",
+    "word": "ahead of",
+    "tamil": "முன்னால்",
+    "example": "The bus stop is just ahead of.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “ahead of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "ahead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep070-4",
+    "word": "ahead of",
+    "tamil": "முன்னால்",
+    "example": "We need to plan ahead of of the event.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “ahead of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "ahead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep070-5",
+    "word": "ahead of",
+    "tamil": "முன்னால்",
+    "example": "She walked ahead of of me.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “ahead of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "ahead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep071-1",
+    "word": "along with",
+    "tamil": "உடன் சேர்த்து",
+    "example": "I went shopping along with my sister.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along with” என்பது “உடன் சேர்த்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep071-2",
+    "word": "along with",
+    "tamil": "உடன் சேர்த்து",
+    "example": "Please write along with a blue pen.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along with” என்பது “உடன் சேர்த்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep071-3",
+    "word": "along with",
+    "tamil": "உடன் சேர்த்து",
+    "example": "She filled the bottle along with water.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along with” என்பது “உடன் சேர்த்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep071-4",
+    "word": "along with",
+    "tamil": "உடன் சேர்த்து",
+    "example": "He spoke along with confidence.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along with” என்பது “உடன் சேர்த்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep071-5",
+    "word": "along with",
+    "tamil": "உடன் சேர்த்து",
+    "example": "Cut the paper along with scissors.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “along with” என்பது “உடன் சேர்த்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep072-1",
+    "word": "apart from",
+    "tamil": "தவிர; தனியாக",
+    "example": "Everyone came apart from Ravi.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “apart from” என்பது “தவிர; தனியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep072-2",
+    "word": "apart from",
+    "tamil": "தவிர; தனியாக",
+    "example": "The shop is open every day apart from Sunday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “apart from” என்பது “தவிர; தனியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep072-3",
+    "word": "apart from",
+    "tamil": "தவிர; தனியாக",
+    "example": "I like all fruits apart from papaya.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “apart from” என்பது “தவிர; தனியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep072-4",
+    "word": "apart from",
+    "tamil": "தவிர; தனியாக",
+    "example": "No one apart from the manager knew about it.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “apart from” என்பது “தவிர; தனியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep072-5",
+    "word": "apart from",
+    "tamil": "தவிர; தனியாக",
+    "example": "We finished every task apart from the last one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “apart from” என்பது “தவிர; தனியாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep073-1",
+    "word": "as for",
+    "tamil": "பற்றி சொல்வதானால்",
+    "example": "We had a discussion as for the new plan.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as for” என்பது “பற்றி சொல்வதானால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep073-2",
+    "word": "as for",
+    "tamil": "பற்றி சொல்வதானால்",
+    "example": "I need more information as for this issue.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as for” என்பது “பற்றி சொல்வதானால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep073-3",
+    "word": "as for",
+    "tamil": "பற்றி சொல்வதானால்",
+    "example": "She asked me a question as for the meeting.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as for” என்பது “பற்றி சொல்வதானால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep073-4",
+    "word": "as for",
+    "tamil": "பற்றி சொல்வதானால்",
+    "example": "Let us talk as for your idea tomorrow.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as for” என்பது “பற்றி சொல்வதானால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep073-5",
+    "word": "as for",
+    "tamil": "பற்றி சொல்வதானால்",
+    "example": "He wrote a short note as for the event.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as for” என்பது “பற்றி சொல்வதானால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep074-1",
+    "word": "as of",
+    "tamil": "அந்தத் தேதியின்படி",
+    "example": "The bag is as of the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as of” என்பது “அந்தத் தேதியின்படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "asof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep074-2",
+    "word": "as of",
+    "tamil": "அந்தத் தேதியின்படி",
+    "example": "Our office is as of the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as of” என்பது “அந்தத் தேதியின்படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "asof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep074-3",
+    "word": "as of",
+    "tamil": "அந்தத் தேதியின்படி",
+    "example": "Please wait as of the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as of” என்பது “அந்தத் தேதியின்படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "asof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep074-4",
+    "word": "as of",
+    "tamil": "அந்தத் தேதியின்படி",
+    "example": "There is a small garden as of the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as of” என்பது “அந்தத் தேதியின்படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "asof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep074-5",
+    "word": "as of",
+    "tamil": "அந்தத் தேதியின்படி",
+    "example": "I found my keys as of the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as of” என்பது “அந்தத் தேதியின்படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "asof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep075-1",
+    "word": "as per",
+    "tamil": "படி",
+    "example": "Please arrange the files as per the list.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as per” என்பது “படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep075-2",
+    "word": "as per",
+    "tamil": "படி",
+    "example": "We acted as per the instructions.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as per” என்பது “படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep075-3",
+    "word": "as per",
+    "tamil": "படி",
+    "example": "The price may change as per demand.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as per” என்பது “படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep075-4",
+    "word": "as per",
+    "tamil": "படி",
+    "example": "Complete the form as per the guidelines.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as per” என்பது “படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep075-5",
+    "word": "as per",
+    "tamil": "படி",
+    "example": "The work was done as per the plan.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “as per” என்பது “படி” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "according",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep076-1",
+    "word": "aside from",
+    "tamil": "தவிர",
+    "example": "Everyone came aside from Ravi.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “aside from” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep076-2",
+    "word": "aside from",
+    "tamil": "தவிர",
+    "example": "The shop is open every day aside from Sunday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “aside from” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep076-3",
+    "word": "aside from",
+    "tamil": "தவிர",
+    "example": "I like all fruits aside from papaya.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “aside from” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep076-4",
+    "word": "aside from",
+    "tamil": "தவிர",
+    "example": "No one aside from the manager knew about it.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “aside from” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep076-5",
+    "word": "aside from",
+    "tamil": "தவிர",
+    "example": "We finished every task aside from the last one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “aside from” என்பது “தவிர” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "exception",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep077-1",
+    "word": "because of",
+    "tamil": "காரணமாக",
+    "example": "The match was cancelled because of rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “because of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep077-2",
+    "word": "because of",
+    "tamil": "காரணமாக",
+    "example": "The road was closed because of repairs.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “because of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep077-3",
+    "word": "because of",
+    "tamil": "காரணமாக",
+    "example": "She was late because of traffic.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “because of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep077-4",
+    "word": "because of",
+    "tamil": "காரணமாக",
+    "example": "The event changed because of a power cut.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “because of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep077-5",
+    "word": "because of",
+    "tamil": "காரணமாக",
+    "example": "He succeeded because of hard work.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “because of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep078-1",
+    "word": "close to",
+    "tamil": "மிக அருகில்",
+    "example": "The bag is close to the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “close to” என்பது “மிக அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep078-2",
+    "word": "close to",
+    "tamil": "மிக அருகில்",
+    "example": "Our office is close to the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “close to” என்பது “மிக அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep078-3",
+    "word": "close to",
+    "tamil": "மிக அருகில்",
+    "example": "Please wait close to the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “close to” என்பது “மிக அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep078-4",
+    "word": "close to",
+    "tamil": "மிக அருகில்",
+    "example": "There is a small garden close to the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “close to” என்பது “மிக அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep078-5",
+    "word": "close to",
+    "tamil": "மிக அருகில்",
+    "example": "I found my keys close to the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “close to” என்பது “மிக அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep079-1",
+    "word": "due to",
+    "tamil": "காரணமாக",
+    "example": "The match was cancelled due to rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “due to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep079-2",
+    "word": "due to",
+    "tamil": "காரணமாக",
+    "example": "The road was closed due to repairs.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “due to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep079-3",
+    "word": "due to",
+    "tamil": "காரணமாக",
+    "example": "She was late due to traffic.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “due to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep079-4",
+    "word": "due to",
+    "tamil": "காரணமாக",
+    "example": "The event changed due to a power cut.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “due to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep079-5",
+    "word": "due to",
+    "tamil": "காரணமாக",
+    "example": "He succeeded due to hard work.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “due to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep080-1",
+    "word": "far from",
+    "tamil": "வெகு தொலைவில்",
+    "example": "The bag is far from the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “far from” என்பது “வெகு தொலைவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep080-2",
+    "word": "far from",
+    "tamil": "வெகு தொலைவில்",
+    "example": "Our office is far from the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “far from” என்பது “வெகு தொலைவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep080-3",
+    "word": "far from",
+    "tamil": "வெகு தொலைவில்",
+    "example": "Please wait far from the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “far from” என்பது “வெகு தொலைவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep080-4",
+    "word": "far from",
+    "tamil": "வெகு தொலைவில்",
+    "example": "There is a small garden far from the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “far from” என்பது “வெகு தொலைவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep080-5",
+    "word": "far from",
+    "tamil": "வெகு தொலைவில்",
+    "example": "I found my keys far from the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “far from” என்பது “வெகு தொலைவில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep081-1",
+    "word": "in addition to",
+    "tamil": "இதனுடன் கூடுதலாக",
+    "example": "She speaks English in addition to Tamil.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in addition to” என்பது “இதனுடன் கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep081-2",
+    "word": "in addition to",
+    "tamil": "இதனுடன் கூடுதலாக",
+    "example": "We need a laptop in addition to a charger.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in addition to” என்பது “இதனுடன் கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep081-3",
+    "word": "in addition to",
+    "tamil": "இதனுடன் கூடுதலாக",
+    "example": "He invited his friends in addition to his family.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in addition to” என்பது “இதனுடன் கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep081-4",
+    "word": "in addition to",
+    "tamil": "இதனுடன் கூடுதலாக",
+    "example": "Please include the report in addition to the email.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in addition to” என்பது “இதனுடன் கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep081-5",
+    "word": "in addition to",
+    "tamil": "இதனுடன் கூடுதலாக",
+    "example": "I bought a notebook in addition to two pens.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in addition to” என்பது “இதனுடன் கூடுதலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "addition",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep082-1",
+    "word": "in case of",
+    "tamil": "ஏற்பட்டால்; நிகழ்வில்",
+    "example": "Keep my number in case of an emergency.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in case of” என்பது “ஏற்பட்டால்; நிகழ்வில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "case",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep082-2",
+    "word": "in case of",
+    "tamil": "ஏற்பட்டால்; நிகழ்வில்",
+    "example": "Carry an umbrella in case of rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in case of” என்பது “ஏற்பட்டால்; நிகழ்வில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "case",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep082-3",
+    "word": "in case of",
+    "tamil": "ஏற்பட்டால்; நிகழ்வில்",
+    "example": "Call this number in case of any problem.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in case of” என்பது “ஏற்பட்டால்; நிகழ்வில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "case",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep082-4",
+    "word": "in case of",
+    "tamil": "ஏற்பட்டால்; நிகழ்வில்",
+    "example": "Save a copy in case of data loss.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in case of” என்பது “ஏற்பட்டால்; நிகழ்வில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "case",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep082-5",
+    "word": "in case of",
+    "tamil": "ஏற்பட்டால்; நிகழ்வில்",
+    "example": "Take some cash in case of the card machine fails.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in case of” என்பது “ஏற்பட்டால்; நிகழ்வில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "case",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep083-1",
+    "word": "in front of",
+    "tamil": "முன்னால்",
+    "example": "The bag is in front of the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in front of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep083-2",
+    "word": "in front of",
+    "tamil": "முன்னால்",
+    "example": "Our office is in front of the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in front of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep083-3",
+    "word": "in front of",
+    "tamil": "முன்னால்",
+    "example": "Please wait in front of the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in front of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep083-4",
+    "word": "in front of",
+    "tamil": "முன்னால்",
+    "example": "There is a small garden in front of the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in front of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep083-5",
+    "word": "in front of",
+    "tamil": "முன்னால்",
+    "example": "I found my keys in front of the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in front of” என்பது “முன்னால்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep084-1",
+    "word": "in place of",
+    "tamil": "பதிலாக",
+    "example": "I drank tea in place of coffee.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in place of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep084-2",
+    "word": "in place of",
+    "tamil": "பதிலாக",
+    "example": "Use this file in place of the old one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in place of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep084-3",
+    "word": "in place of",
+    "tamil": "பதிலாக",
+    "example": "She walked in place of taking a taxi.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in place of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep084-4",
+    "word": "in place of",
+    "tamil": "பதிலாக",
+    "example": "We stayed home in place of going out.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in place of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep084-5",
+    "word": "in place of",
+    "tamil": "பதிலாக",
+    "example": "Try again in place of giving up.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in place of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep085-1",
+    "word": "in spite of",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "He went to work in spite of feeling tired.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in spite of” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep085-2",
+    "word": "in spite of",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "We continued in spite of the heavy rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in spite of” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep085-3",
+    "word": "in spite of",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "She smiled in spite of the problem.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in spite of” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep085-4",
+    "word": "in spite of",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "They played outside in spite of the cold weather.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in spite of” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep085-5",
+    "word": "in spite of",
+    "tamil": "இருந்தபோதிலும்",
+    "example": "I respect him in spite of our differences.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in spite of” என்பது “இருந்தபோதிலும்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep086-1",
+    "word": "instead of",
+    "tamil": "பதிலாக",
+    "example": "I drank tea instead of coffee.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “instead of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep086-2",
+    "word": "instead of",
+    "tamil": "பதிலாக",
+    "example": "Use this file instead of the old one.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “instead of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep086-3",
+    "word": "instead of",
+    "tamil": "பதிலாக",
+    "example": "She walked instead of taking a taxi.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “instead of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep086-4",
+    "word": "instead of",
+    "tamil": "பதிலாக",
+    "example": "We stayed home instead of going out.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “instead of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep086-5",
+    "word": "instead of",
+    "tamil": "பதிலாக",
+    "example": "Try again instead of giving up.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “instead of” என்பது “பதிலாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "instead",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep087-1",
+    "word": "near to",
+    "tamil": "அருகில்",
+    "example": "The bag is near to the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near to” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep087-2",
+    "word": "near to",
+    "tamil": "அருகில்",
+    "example": "Our office is near to the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near to” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep087-3",
+    "word": "near to",
+    "tamil": "அருகில்",
+    "example": "Please wait near to the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near to” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep087-4",
+    "word": "near to",
+    "tamil": "அருகில்",
+    "example": "There is a small garden near to the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near to” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep087-5",
+    "word": "near to",
+    "tamil": "அருகில்",
+    "example": "I found my keys near to the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “near to” என்பது “அருகில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep088-1",
+    "word": "next to",
+    "tamil": "அடுத்ததாக",
+    "example": "The bag is next to the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “next to” என்பது “அடுத்ததாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep088-2",
+    "word": "next to",
+    "tamil": "அடுத்ததாக",
+    "example": "Our office is next to the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “next to” என்பது “அடுத்ததாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep088-3",
+    "word": "next to",
+    "tamil": "அடுத்ததாக",
+    "example": "Please wait next to the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “next to” என்பது “அடுத்ததாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep088-4",
+    "word": "next to",
+    "tamil": "அடுத்ததாக",
+    "example": "There is a small garden next to the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “next to” என்பது “அடுத்ததாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep088-5",
+    "word": "next to",
+    "tamil": "அடுத்ததாக",
+    "example": "I found my keys next to the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “next to” என்பது “அடுத்ததாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep089-1",
+    "word": "on account of",
+    "tamil": "காரணமாக",
+    "example": "The match was cancelled on account of rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on account of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep089-2",
+    "word": "on account of",
+    "tamil": "காரணமாக",
+    "example": "The road was closed on account of repairs.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on account of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep089-3",
+    "word": "on account of",
+    "tamil": "காரணமாக",
+    "example": "She was late on account of traffic.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on account of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep089-4",
+    "word": "on account of",
+    "tamil": "காரணமாக",
+    "example": "The event changed on account of a power cut.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on account of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep089-5",
+    "word": "on account of",
+    "tamil": "காரணமாக",
+    "example": "He succeeded on account of hard work.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on account of” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep090-1",
+    "word": "on behalf of",
+    "tamil": "சார்பாக",
+    "example": "I am speaking on behalf of my team.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on behalf of” என்பது “சார்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "behalf",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep090-2",
+    "word": "on behalf of",
+    "tamil": "சார்பாக",
+    "example": "She accepted the award on behalf of the company.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on behalf of” என்பது “சார்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "behalf",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep090-3",
+    "word": "on behalf of",
+    "tamil": "சார்பாக",
+    "example": "He signed the form on behalf of his father.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on behalf of” என்பது “சார்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "behalf",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep090-4",
+    "word": "on behalf of",
+    "tamil": "சார்பாக",
+    "example": "We sent a gift on behalf of everyone.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on behalf of” என்பது “சார்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "behalf",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep090-5",
+    "word": "on behalf of",
+    "tamil": "சார்பாக",
+    "example": "Please reply on behalf of the manager.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on behalf of” என்பது “சார்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "behalf",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep091-1",
+    "word": "on top of",
+    "tamil": "மேல்பகுதியில்",
+    "example": "The bag is on top of the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on top of” என்பது “மேல்பகுதியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep091-2",
+    "word": "on top of",
+    "tamil": "மேல்பகுதியில்",
+    "example": "Our office is on top of the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on top of” என்பது “மேல்பகுதியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep091-3",
+    "word": "on top of",
+    "tamil": "மேல்பகுதியில்",
+    "example": "Please wait on top of the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on top of” என்பது “மேல்பகுதியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep091-4",
+    "word": "on top of",
+    "tamil": "மேல்பகுதியில்",
+    "example": "There is a small garden on top of the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on top of” என்பது “மேல்பகுதியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep091-5",
+    "word": "on top of",
+    "tamil": "மேல்பகுதியில்",
+    "example": "I found my keys on top of the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “on top of” என்பது “மேல்பகுதியில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep092-1",
+    "word": "out of",
+    "tamil": "வெளியே இருந்து; காரணமாக",
+    "example": "She took the keys out of her bag.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out of” என்பது “வெளியே இருந்து; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "outof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep092-2",
+    "word": "out of",
+    "tamil": "வெளியே இருந்து; காரணமாக",
+    "example": "Two out of ten answers were wrong.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out of” என்பது “வெளியே இருந்து; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "outof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep092-3",
+    "word": "out of",
+    "tamil": "வெளியே இருந்து; காரணமாக",
+    "example": "He acted out of kindness.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out of” என்பது “வெளியே இருந்து; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "outof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep092-4",
+    "word": "out of",
+    "tamil": "வெளியே இருந்து; காரணமாக",
+    "example": "The printer is out of paper.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out of” என்பது “வெளியே இருந்து; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "outof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep092-5",
+    "word": "out of",
+    "tamil": "வெளியே இருந்து; காரணமாக",
+    "example": "Please get out of the car carefully.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “out of” என்பது “வெளியே இருந்து; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "outof",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep093-1",
+    "word": "owing to",
+    "tamil": "காரணமாக",
+    "example": "The match was cancelled owing to rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “owing to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep093-2",
+    "word": "owing to",
+    "tamil": "காரணமாக",
+    "example": "The road was closed owing to repairs.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “owing to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep093-3",
+    "word": "owing to",
+    "tamil": "காரணமாக",
+    "example": "She was late owing to traffic.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “owing to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep093-4",
+    "word": "owing to",
+    "tamil": "காரணமாக",
+    "example": "The event changed owing to a power cut.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “owing to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep093-5",
+    "word": "owing to",
+    "tamil": "காரணமாக",
+    "example": "He succeeded owing to hard work.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “owing to” என்பது “காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep094-1",
+    "word": "prior to",
+    "tamil": "முன்பாக",
+    "example": "I usually exercise prior to the morning.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “prior to” என்பது “முன்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep094-2",
+    "word": "prior to",
+    "tamil": "முன்பாக",
+    "example": "The class starts prior to 9 a.m.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “prior to” என்பது “முன்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep094-3",
+    "word": "prior to",
+    "tamil": "முன்பாக",
+    "example": "Please call me prior to lunch.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “prior to” என்பது “முன்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep094-4",
+    "word": "prior to",
+    "tamil": "முன்பாக",
+    "example": "We completed the work prior to Friday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “prior to” என்பது “முன்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep094-5",
+    "word": "prior to",
+    "tamil": "முன்பாக",
+    "example": "She was reading prior to the evening.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “prior to” என்பது “முன்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "time",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep095-1",
+    "word": "regardless of",
+    "tamil": "பொருட்படுத்தாமல்",
+    "example": "He went to work regardless of feeling tired.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regardless of” என்பது “பொருட்படுத்தாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep095-2",
+    "word": "regardless of",
+    "tamil": "பொருட்படுத்தாமல்",
+    "example": "We continued regardless of the heavy rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regardless of” என்பது “பொருட்படுத்தாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep095-3",
+    "word": "regardless of",
+    "tamil": "பொருட்படுத்தாமல்",
+    "example": "She smiled regardless of the problem.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regardless of” என்பது “பொருட்படுத்தாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep095-4",
+    "word": "regardless of",
+    "tamil": "பொருட்படுத்தாமல்",
+    "example": "They played outside regardless of the cold weather.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regardless of” என்பது “பொருட்படுத்தாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep095-5",
+    "word": "regardless of",
+    "tamil": "பொருட்படுத்தாமல்",
+    "example": "I respect him regardless of our differences.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “regardless of” என்பது “பொருட்படுத்தாமல்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "contrast",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep096-1",
+    "word": "thanks to",
+    "tamil": "நன்றியால்; காரணமாக",
+    "example": "The match was cancelled thanks to rain.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “thanks to” என்பது “நன்றியால்; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep096-2",
+    "word": "thanks to",
+    "tamil": "நன்றியால்; காரணமாக",
+    "example": "The road was closed thanks to repairs.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “thanks to” என்பது “நன்றியால்; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep096-3",
+    "word": "thanks to",
+    "tamil": "நன்றியால்; காரணமாக",
+    "example": "She was late thanks to traffic.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “thanks to” என்பது “நன்றியால்; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep096-4",
+    "word": "thanks to",
+    "tamil": "நன்றியால்; காரணமாக",
+    "example": "The event changed thanks to a power cut.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “thanks to” என்பது “நன்றியால்; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep096-5",
+    "word": "thanks to",
+    "tamil": "நன்றியால்; காரணமாக",
+    "example": "He succeeded thanks to hard work.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “thanks to” என்பது “நன்றியால்; காரணமாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "reason",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep097-1",
+    "word": "together with",
+    "tamil": "உடன் சேர்ந்து",
+    "example": "I went shopping together with my sister.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “together with” என்பது “உடன் சேர்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep097-2",
+    "word": "together with",
+    "tamil": "உடன் சேர்ந்து",
+    "example": "Please write together with a blue pen.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “together with” என்பது “உடன் சேர்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep097-3",
+    "word": "together with",
+    "tamil": "உடன் சேர்ந்து",
+    "example": "She filled the bottle together with water.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “together with” என்பது “உடன் சேர்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep097-4",
+    "word": "together with",
+    "tamil": "உடன் சேர்ந்து",
+    "example": "He spoke together with confidence.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “together with” என்பது “உடன் சேர்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep097-5",
+    "word": "together with",
+    "tamil": "உடன் சேர்ந்து",
+    "example": "Cut the paper together with scissors.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “together with” என்பது “உடன் சேர்ந்து” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "with",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep098-1",
+    "word": "up to",
+    "tamil": "வரை",
+    "example": "Please wait up to 5 p.m.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up to” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep098-2",
+    "word": "up to",
+    "tamil": "வரை",
+    "example": "The shop stays open up to midnight.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up to” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep098-3",
+    "word": "up to",
+    "tamil": "வரை",
+    "example": "We worked up to the task was complete.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up to” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep098-4",
+    "word": "up to",
+    "tamil": "வரை",
+    "example": "You can stay here up to Monday.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up to” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep098-5",
+    "word": "up to",
+    "tamil": "வரை",
+    "example": "Keep practising up to you feel confident.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “up to” என்பது “வரை” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "until",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep099-1",
+    "word": "with regard to",
+    "tamil": "தொடர்பாக",
+    "example": "We had a discussion with regard to the new plan.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with regard to” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep099-2",
+    "word": "with regard to",
+    "tamil": "தொடர்பாக",
+    "example": "I need more information with regard to this issue.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with regard to” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep099-3",
+    "word": "with regard to",
+    "tamil": "தொடர்பாக",
+    "example": "She asked me a question with regard to the meeting.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with regard to” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep099-4",
+    "word": "with regard to",
+    "tamil": "தொடர்பாக",
+    "example": "Let us talk with regard to your idea tomorrow.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with regard to” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep099-5",
+    "word": "with regard to",
+    "tamil": "தொடர்பாக",
+    "example": "He wrote a short note with regard to the event.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “with regard to” என்பது “தொடர்பாக” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "topic",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep100-1",
+    "word": "in between",
+    "tamil": "இடையில்",
+    "example": "The bag is in between the chair.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in between” என்பது “இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep100-2",
+    "word": "in between",
+    "tamil": "இடையில்",
+    "example": "Our office is in between the main road.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in between” என்பது “இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep100-3",
+    "word": "in between",
+    "tamil": "இடையில்",
+    "example": "Please wait in between the entrance.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in between” என்பது “இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep100-4",
+    "word": "in between",
+    "tamil": "இடையில்",
+    "example": "There is a small garden in between the house.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in between” என்பது “இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  },
+  {
+    "id": "prep100-5",
+    "word": "in between",
+    "tamil": "இடையில்",
+    "example": "I found my keys in between the table.",
+    "exampleTamil": "இந்த வாக்கியத்தில் “in between” என்பது “இடையில்” என்ற பொருளில் பயன்படுத்தப்பட்டுள்ளது.",
+    "group": "place",
+    "level": "intermediate"
+  }
+]

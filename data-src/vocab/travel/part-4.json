@@ -1,0 +1,592 @@
+[
+ {
+  "word": "emergency",
+  "tamil": "அவசரநிலை",
+  "pos": "noun",
+  "pron": "ih-MUR-jun-see",
+  "example": "Call this number in an emergency.",
+  "exampleTamil": "அவசரநிலையில் இந்த எண்ணை அழைக்கவும்.",
+  "synonyms": [
+   "crisis"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ambulance",
+  "tamil": "ஆம்புலன்ஸ் வண்டி",
+  "pos": "noun",
+  "pron": "AM-byuh-lunss",
+  "example": "Someone called an ambulance for the injured man.",
+  "exampleTamil": "காயமடைந்தவருக்கு யாரோ ஆம்புலன்ஸ் அழைத்தனர்.",
+  "synonyms": [
+   "medical van"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "police station",
+  "tamil": "காவல் நிலையம்",
+  "pos": "noun",
+  "pron": "puh-LEESS STAY-shun",
+  "example": "Report the theft at the nearest police station.",
+  "exampleTamil": "திருட்டை அருகிலுள்ள காவல் நிலையத்தில் புகார் செய்யுங்கள்.",
+  "synonyms": [
+   "precinct"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "theft",
+  "tamil": "திருட்டு",
+  "pos": "noun",
+  "pron": "THEFT",
+  "example": "Theft is common in crowded tourist areas.",
+  "exampleTamil": "நெரிசலான சுற்றுலாப் பகுதிகளில் திருட்டு சகஜம்.",
+  "synonyms": [
+   "stealing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pickpocket",
+  "tamil": "பைத்திருடன்",
+  "pos": "noun",
+  "pron": "PIK-pok-it",
+  "example": "Beware of pickpockets near the station.",
+  "exampleTamil": "நிலையம் அருகே பைத்திருடர்களிடம் கவனமாக இருங்கள்.",
+  "synonyms": [
+   "thief"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stolen",
+  "tamil": "திருடப்பட்ட",
+  "pos": "adjective",
+  "pron": "STOH-lun",
+  "example": "My wallet was stolen on the train.",
+  "exampleTamil": "என் பணப்பை ரயிலில் திருடப்பட்டது.",
+  "synonyms": [
+   "taken"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "robbery",
+  "tamil": "கொள்ளை",
+  "pos": "noun",
+  "pron": "ROB-uh-ree",
+  "example": "The tourists reported a robbery to the police.",
+  "exampleTamil": "சுற்றுலாப் பயணிகள் கொள்ளையைக் காவல்துறையிடம் புகார் செய்தனர்.",
+  "synonyms": [
+   "burglary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lost property",
+  "tamil": "தொலைந்த பொருள் அலுவலகம்",
+  "pos": "noun",
+  "pron": "LOST PROP-er-tee",
+  "example": "Ask at lost property about your umbrella.",
+  "exampleTamil": "உங்கள் குடை பற்றி தொலைந்த பொருள் பிரிவில் கேளுங்கள்.",
+  "synonyms": [
+   "lost and found"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "misplace",
+  "tamil": "எங்கோ வைத்து மறத்தல்",
+  "pos": "verb",
+  "pron": "mis-PLAYSS",
+  "example": "I seem to have misplaced my room key.",
+  "exampleTamil": "என் அறைச் சாவியை எங்கோ வைத்துவிட்டேன் போலிருக்கிறது.",
+  "synonyms": [
+   "mislay"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "missing",
+  "tamil": "காணாமல் போன",
+  "pos": "adjective",
+  "pron": "MIS-ing",
+  "example": "One of our bags is missing.",
+  "exampleTamil": "எங்கள் பைகளில் ஒன்று காணவில்லை.",
+  "synonyms": [
+   "lost"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "claim",
+  "tamil": "உரிமை கோருதல்",
+  "pos": "verb",
+  "pron": "KLAYM",
+  "example": "You can claim your bag at the desk.",
+  "exampleTamil": "நீங்கள் பையை மேசையில் பெற்றுக்கொள்ளலாம்.",
+  "synonyms": [
+   "collect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "replacement",
+  "tamil": "மாற்றுப் பொருள்",
+  "pos": "noun",
+  "pron": "rih-PLAYSS-ment",
+  "example": "They issued a replacement passport quickly.",
+  "exampleTamil": "அவர்கள் மாற்றுக் கடவுச்சீட்டை விரைவாக வழங்கினர்.",
+  "synonyms": [
+   "substitute"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "first aid",
+  "tamil": "முதலுதவி",
+  "pos": "noun",
+  "pron": "FURST ayd",
+  "example": "Every hotel should have a first aid kit.",
+  "exampleTamil": "ஒவ்வொரு விடுதியிலும் முதலுதவிப் பெட்டி இருக்க வேண்டும்.",
+  "synonyms": [
+   "basic care"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fire exit",
+  "tamil": "தீ வெளியேறும் வழி",
+  "pos": "noun",
+  "pron": "FY-er EK-sit",
+  "example": "Check where the fire exit is on arrival.",
+  "exampleTamil": "வந்தவுடன் தீ வெளியேறும் வழி எங்கே என்று பாருங்கள்.",
+  "synonyms": [
+   "emergency door"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "accident",
+  "tamil": "விபத்து",
+  "pos": "noun",
+  "pron": "AK-sih-dunt",
+  "example": "There was an accident on the highway.",
+  "exampleTamil": "நெடுஞ்சாலையில் ஒரு விபத்து நடந்தது.",
+  "synonyms": [
+   "crash",
+   "collision"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "breakdown",
+  "tamil": "வண்டி பழுது",
+  "pos": "noun",
+  "pron": "BRAYK-down",
+  "example": "Our car had a breakdown near the border.",
+  "exampleTamil": "எங்கள் கார் எல்லை அருகே பழுதானது.",
+  "synonyms": [
+   "failure"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "break down",
+  "tamil": "பழுதாகி நிற்றல்",
+  "pos": "phrasal verb",
+  "pron": "brayk DOWN",
+  "example": "Old buses often break down on this rough road.",
+  "exampleTamil": "இந்தக் கரடுமுரடான சாலையில் பழைய பேருந்துகள் அடிக்கடி பழுதாகி நிற்கும்.",
+  "synonyms": [
+   "stop working"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "travel insurance",
+  "tamil": "பயணக் காப்பீடு",
+  "pos": "noun",
+  "pron": "TRAV-ul in-SHOOR-unss",
+  "example": "Always buy travel insurance for foreign trips.",
+  "exampleTamil": "வெளிநாட்டுப் பயணங்களுக்கு எப்போதும் பயணக் காப்பீடு வாங்குங்கள்.",
+  "synonyms": [
+   "trip cover"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "premium",
+  "tamil": "காப்பீட்டுத் தவணை",
+  "pos": "noun",
+  "pron": "PREE-mee-um",
+  "example": "The premium is cheaper for short trips.",
+  "exampleTamil": "குறுகிய பயணங்களுக்கு தவணைத் தொகை குறைவு.",
+  "synonyms": [
+   "insurance payment"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reimburse",
+  "tamil": "செலவைத் திருப்பித் தருதல்",
+  "pos": "verb",
+  "pron": "ree-im-BURSS",
+  "example": "The company will reimburse your hotel costs.",
+  "exampleTamil": "நிறுவனம் உங்கள் விடுதிச் செலவைத் திருப்பித் தரும்.",
+  "synonyms": [
+   "repay"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cancellation",
+  "tamil": "ரத்து",
+  "pos": "noun",
+  "pron": "kan-suh-LAY-shun",
+  "example": "The cancellation fee is quite high.",
+  "exampleTamil": "ரத்துக் கட்டணம் மிகவும் அதிகம்.",
+  "synonyms": [
+   "calling off"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "delayed",
+  "tamil": "தாமதமான",
+  "pos": "adjective",
+  "pron": "dih-LAYD",
+  "example": "Our train is delayed by two hours.",
+  "exampleTamil": "எங்கள் ரயில் இரண்டு மணி நேரம் தாமதமாக உள்ளது.",
+  "synonyms": [
+   "late",
+   "held up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cancelled",
+  "tamil": "ரத்து செய்யப்பட்ட",
+  "pos": "adjective",
+  "pron": "KAN-suld",
+  "example": "All flights to Delhi were cancelled today.",
+  "exampleTamil": "டெல்லிக்கான அனைத்து விமானங்களும் இன்று ரத்து செய்யப்பட்டன.",
+  "synonyms": [
+   "called off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "overbooked",
+  "tamil": "அதிகமாக முன்பதிவான",
+  "pos": "adjective",
+  "pron": "oh-ver-BOOKT",
+  "example": "The flight was overbooked, so I took the next one.",
+  "exampleTamil": "விமானத்தில் அதிக முன்பதிவு இருந்ததால் அடுத்ததில் சென்றேன்.",
+  "synonyms": [
+   "oversold"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "voucher",
+  "tamil": "பற்றுச்சீட்டு",
+  "pos": "noun",
+  "pron": "VOW-cher",
+  "example": "They gave us a meal voucher for the delay.",
+  "exampleTamil": "தாமதத்திற்காக அவர்கள் எங்களுக்கு உணவுப் பற்றுச்சீட்டு கொடுத்தனர்.",
+  "synonyms": [
+   "coupon"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rebook",
+  "tamil": "மீண்டும் பதிவு செய்தல்",
+  "pos": "verb",
+  "pron": "ree-BOOK",
+  "example": "The agent will rebook you on the evening flight.",
+  "exampleTamil": "முகவர் உங்களை மாலை விமானத்தில் மீண்டும் பதிவு செய்வார்.",
+  "synonyms": [
+   "reserve again"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "miss",
+  "tamil": "தவறவிடுதல்",
+  "pos": "verb",
+  "pron": "MISS",
+  "example": "Hurry or you will miss the last bus.",
+  "exampleTamil": "விரைந்து செல்லுங்கள், இல்லையெனில் கடைசிப் பேருந்தைத் தவறவிடுவீர்கள்.",
+  "synonyms": [
+   "lose"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "strike",
+  "tamil": "வேலைநிறுத்தம்",
+  "pos": "noun",
+  "pron": "STRYKE",
+  "example": "Bus drivers called a strike this week.",
+  "exampleTamil": "பேருந்து ஓட்டுநர்கள் இந்த வாரம் வேலைநிறுத்தம் அறிவித்தனர்.",
+  "synonyms": [
+   "walkout"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "disruption",
+  "tamil": "போக்குவரத்துத் தடங்கல்",
+  "pos": "noun",
+  "pron": "dis-RUP-shun",
+  "example": "Snow caused major disruption to train services.",
+  "exampleTamil": "பனியால் ரயில் சேவைகளில் பெரும் தடங்கல் ஏற்பட்டது.",
+  "synonyms": [
+   "disturbance"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "on time",
+  "tamil": "சரியான நேரத்தில்",
+  "pos": "phrase",
+  "pron": "on TIME",
+  "example": "The bus arrived exactly on time.",
+  "exampleTamil": "பேருந்து சரியாக நேரத்தில் வந்தது.",
+  "synonyms": [
+   "punctually"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "set off",
+  "tamil": "பயணம் தொடங்குதல்",
+  "pos": "phrasal verb",
+  "pron": "set OFF",
+  "example": "We set off at dawn to avoid traffic.",
+  "exampleTamil": "போக்குவரத்தைத் தவிர்க்க நாங்கள் விடியற்காலையில் புறப்பட்டோம்.",
+  "synonyms": [
+   "depart"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stop by",
+  "tamil": "வழியில் சற்று நிற்றல்",
+  "pos": "phrasal verb",
+  "pron": "stop BY",
+  "example": "Let's stop by the market on our way back.",
+  "exampleTamil": "திரும்பும் வழியில் சந்தையில் சற்று நிற்போம்.",
+  "synonyms": [
+   "drop in"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "see off",
+  "tamil": "வழியனுப்புதல்",
+  "pos": "phrasal verb",
+  "pron": "see OFF",
+  "example": "My parents came to see me off at the station.",
+  "exampleTamil": "என் பெற்றோர் என்னை வழியனுப்ப நிலையத்திற்கு வந்தனர்.",
+  "synonyms": [
+   "say goodbye"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "get in",
+  "tamil": "ஏறுதல், வந்து சேர்தல்",
+  "pos": "phrasal verb",
+  "pron": "get IN",
+  "example": "Our flight gets in at midnight.",
+  "exampleTamil": "எங்கள் விமானம் நள்ளிரவில் வந்து சேரும்.",
+  "synonyms": [
+   "arrive"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "board",
+  "tamil": "ஏறுதல் (விமானம், கப்பல்)",
+  "pos": "verb",
+  "pron": "BORD",
+  "example": "Passengers may now board the aircraft.",
+  "exampleTamil": "பயணிகள் இப்போது விமானத்தில் ஏறலாம்.",
+  "synonyms": [
+   "embark"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "disembark",
+  "tamil": "இறங்குதல்",
+  "pos": "verb",
+  "pron": "dis-im-BARK",
+  "example": "Please disembark through the front door.",
+  "exampleTamil": "தயவுசெய்து முன் கதவு வழியாக இறங்குங்கள்.",
+  "synonyms": [
+   "get off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "depart",
+  "tamil": "புறப்படுதல்",
+  "pos": "verb",
+  "pron": "dih-PART",
+  "example": "The ferry departs at nine sharp.",
+  "exampleTamil": "படகு சரியாக ஒன்பது மணிக்குப் புறப்படும்.",
+  "synonyms": [
+   "leave"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "arrive",
+  "tamil": "வந்து சேருதல்",
+  "pos": "verb",
+  "pron": "uh-RYVE",
+  "example": "We arrived at the hotel late at night.",
+  "exampleTamil": "நாங்கள் இரவு தாமதமாக விடுதிக்கு வந்து சேர்ந்தோம்.",
+  "synonyms": [
+   "reach"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "crowded",
+  "tamil": "நெரிசலான",
+  "pos": "adjective",
+  "pron": "KROW-did",
+  "example": "The beach was crowded on Sunday.",
+  "exampleTamil": "ஞாயிற்றுக்கிழமை கடற்கரை நெரிசலாக இருந்தது.",
+  "synonyms": [
+   "packed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scenic",
+  "tamil": "இயற்கை எழில் மிக்க",
+  "pos": "adjective",
+  "pron": "SEE-nik",
+  "example": "We took the scenic route through the hills.",
+  "exampleTamil": "நாங்கள் மலைகள் வழியாக எழில்மிகு பாதையில் சென்றோம்.",
+  "synonyms": [
+   "picturesque"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "picturesque",
+  "tamil": "ஓவியம் போன்ற அழகான",
+  "pos": "adjective",
+  "pron": "pik-chuh-RESK",
+  "example": "It is a picturesque village by the lake.",
+  "exampleTamil": "அது ஏரியோரம் உள்ள ஓவியம் போன்ற அழகிய கிராமம்.",
+  "synonyms": [
+   "charming"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "breathtaking",
+  "tamil": "மூச்சடைக்க வைக்கும்",
+  "pos": "adjective",
+  "pron": "BRETH-tay-king",
+  "example": "The view from the summit was breathtaking.",
+  "exampleTamil": "உச்சியிலிருந்த காட்சி மூச்சடைக்க வைத்தது.",
+  "synonyms": [
+   "stunning"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "touristy",
+  "tamil": "சுற்றுலாக் கூட்டம் நிறைந்த",
+  "pos": "adjective",
+  "pron": "TOOR-is-tee",
+  "example": "That restaurant is too touristy for me.",
+  "exampleTamil": "அந்த உணவகம் எனக்கு மிகவும் சுற்றுலாக் கூட்டமாக உள்ளது.",
+  "synonyms": [
+   "commercialised"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "peaceful",
+  "tamil": "அமைதியான",
+  "pos": "adjective",
+  "pron": "PEESS-ful",
+  "example": "The island is quiet and peaceful.",
+  "exampleTamil": "அந்தத் தீவு அமைதியாகவும் நிம்மதியாகவும் உள்ளது.",
+  "synonyms": [
+   "calm"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lively",
+  "tamil": "கலகலப்பான",
+  "pos": "adjective",
+  "pron": "LYVE-lee",
+  "example": "The old town is lively in the evening.",
+  "exampleTamil": "பழைய நகரம் மாலையில் கலகலப்பாக இருக்கும்.",
+  "synonyms": [
+   "vibrant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "exotic",
+  "tamil": "வெளிநாட்டு விசித்திரமான",
+  "pos": "adjective",
+  "pron": "ig-ZOT-ik",
+  "example": "She loves trying exotic fruits abroad.",
+  "exampleTamil": "அவள் வெளிநாடுகளில் விசித்திரமான பழங்களைச் சுவைக்க விரும்புகிறாள்.",
+  "synonyms": [
+   "unusual"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "affordable",
+  "tamil": "கட்டுப்படியாகும் விலையிலான",
+  "pos": "adjective",
+  "pron": "uh-FOR-duh-bul",
+  "example": "We found an affordable hotel near the beach.",
+  "exampleTamil": "கடற்கரை அருகே கட்டுப்படியான விடுதியைக் கண்டோம்.",
+  "synonyms": [
+   "reasonable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overpriced",
+  "tamil": "அதிக விலையுள்ள",
+  "pos": "adjective",
+  "pron": "oh-ver-PRYSST",
+  "example": "Food at the airport is usually overpriced.",
+  "exampleTamil": "விமான நிலைய உணவு பொதுவாக அதிக விலையுள்ளது.",
+  "synonyms": [
+   "expensive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exhausting",
+  "tamil": "களைப்பூட்டும்",
+  "pos": "adjective",
+  "pron": "ig-ZAW-sting",
+  "example": "It was an exhausting journey with two transfers.",
+  "exampleTamil": "இரண்டு மாற்றங்களுடன் அது களைப்பூட்டும் பயணம்.",
+  "synonyms": [
+   "tiring"
+  ],
+  "level": "intermediate"
+ }
+]

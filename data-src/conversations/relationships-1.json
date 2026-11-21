@@ -1,0 +1,362 @@
+[
+ {
+  "category": "relationships",
+  "context": "Introducing yourself at a party",
+  "level": "beginner",
+  "en": "Hi, I don't think we've met. I'm Karthik.",
+  "tamil": "வணக்கம், நாம் முன்பு சந்தித்ததில்லை என்று நினைக்கிறேன். நான் கார்த்திக்.",
+  "reply": "Nice to meet you, Karthik. I'm Divya, Meena's cousin.",
+  "replyTamil": "உங்களைச் சந்தித்ததில் மகிழ்ச்சி, கார்த்திக். நான் திவ்யா, மீனாவின் கசின்."
+ },
+ {
+  "category": "relationships",
+  "context": "Chatting at a get-together",
+  "level": "beginner",
+  "en": "Is this your first time at one of these get-togethers?",
+  "tamil": "இது போன்ற நிகழ்ச்சிக்கு நீங்கள் வருவது இதுதான் முதல் முறையா?",
+  "reply": "Yes, it is. I only know the host, so I'm a bit nervous.",
+  "replyTamil": "ஆமாம். எனக்கு விழா நடத்துபவரை மட்டும்தான் தெரியும், அதனால் கொஞ்சம் பதற்றமாக இருக்கிறது."
+ },
+ {
+  "context": "Learning someone's name at a party",
+  "level": "intermediate",
+  "en": "It's so loud in here! What was your name again?",
+  "tamil": "இங்க ஒரே சத்தமா இருக்கு! உங்க பேர் என்னனு சொன்னீங்க?",
+  "reply": "Ramya! And you're Arun, right? Priya mentioned you'd be here.",
+  "replyTamil": "ரம்யா! நீங்க அருண்தானே? நீங்க வருவீங்கனு பிரியா சொன்னாங்க.",
+  "category": "relationships"
+ },
+ {
+  "category": "relationships",
+  "context": "Meeting a friend of a friend",
+  "level": "beginner",
+  "en": "You must be Suresh's friend from college!",
+  "tamil": "நீங்கள்தான் சுரேஷோட கல்லூரி நண்பர் இல்லையா!",
+  "reply": "That's right! And you're his sister? He talks about you all the time.",
+  "replyTamil": "ஆமாம்! நீங்கள் அவருடைய தங்கைதானே? அவர் எப்போதும் உங்களைப் பற்றியே பேசுவார்."
+ },
+ {
+  "category": "relationships",
+  "context": "Talking to a wedding guest",
+  "level": "intermediate",
+  "en": "So how do you know the bride?",
+  "tamil": "அப்புறம், மணப்பெண்ணை உங்களுக்கு எப்படித் தெரியும்?",
+  "reply": "We studied together in Coimbatore. We shared a hostel room for three years, actually.",
+  "replyTamil": "நாங்கள் கோயம்புத்தூரில் ஒன்றாகப் படித்தோம். உண்மையில், மூன்று வருடம் ஒரே ஹாஸ்டல் அறையில் இருந்தோம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Getting to know someone new",
+  "level": "beginner",
+  "en": "So, which town is your family's native place?",
+  "tamil": "அப்புறம், உங்கள் குடும்பத்தின் சொந்த ஊர் எது?",
+  "reply": "We're from Madurai, but I've lived in Chennai for six years now.",
+  "replyTamil": "எங்கள் சொந்த ஊர் மதுரை, ஆனால் ஆறு வருடமாகச் சென்னையில் இருக்கிறேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "First impression of a new friend",
+  "level": "advanced",
+  "en": "I have to say, you're not what I expected after hearing so much about you.",
+  "tamil": "உண்மையைச் சொல்ல வேண்டுமென்றால், உங்களைப் பற்றி இவ்வளவு கேள்விப்பட்ட பிறகு நான் எதிர்பார்த்தது போல நீங்கள் இல்லை.",
+  "reply": "Ha, I hope that's a good thing! Whatever they said, I promise I'm much calmer in person.",
+  "replyTamil": "ஹா, அது நல்ல விஷயமாக இருக்கும் என்று நம்புகிறேன்! அவர்கள் என்ன சொன்னாலும், நேரில் நான் ரொம்ப அமைதியானவன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Thinking you've met before",
+  "level": "intermediate",
+  "en": "Have we met before? Your face looks really familiar.",
+  "tamil": "நாம் முன்பே சந்தித்திருக்கிறோமா? உங்கள் முகம் ரொம்ப பழக்கமானது போலத் தெரிகிறது.",
+  "reply": "I think we were at the same Pongal function last year. Were you with the Chennai team?",
+  "replyTamil": "போன வருடம் ஒரே பொங்கல் விழாவில் இருந்தோம் என்று நினைக்கிறேன். நீங்கள் சென்னை அணியோடு இருந்தீர்களா?"
+ },
+ {
+  "category": "relationships",
+  "context": "Complimenting a saree",
+  "level": "beginner",
+  "en": "That's a lovely saree. The colour really suits you.",
+  "tamil": "அது அழகான புடவை. அந்த நிறம் உங்களுக்கு ரொம்பப் பொருத்தமாக இருக்கிறது.",
+  "reply": "Thank you so much! My mother picked it for me.",
+  "replyTamil": "ரொம்ப நன்றி! என் அம்மாதான் எனக்காகத் தேர்ந்தெடுத்தார்."
+ },
+ {
+  "category": "relationships",
+  "context": "Praising someone's singing",
+  "level": "beginner",
+  "en": "You sing really well!",
+  "tamil": "நீங்கள் ரொம்ப நன்றாகப் பாடுகிறீர்கள்!",
+  "reply": "Aww, thanks. I only sing in the bathroom, but that's kind of you.",
+  "replyTamil": "அய்யோ, நன்றி. நான் குளியலறையில் மட்டும்தான் பாடுவேன், ஆனாலும் நீங்கள் சொன்னது இனிமை."
+ },
+ {
+  "category": "relationships",
+  "context": "Complimenting someone's cooking",
+  "level": "intermediate",
+  "en": "Your cooking today was amazing. Where did you learn to make sambar like that?",
+  "tamil": "இன்றைக்கு உங்கள் சமையல் அற்புதமாக இருந்தது. இந்தச் சாம்பார் செய்வதை எங்கே கற்றுக்கொண்டீர்கள்?",
+  "reply": "Thanks! It's my grandmother's recipe. She never measured anything, so I learned by watching.",
+  "replyTamil": "நன்றி! இது என் பாட்டியின் செய்முறை. அவர் எதையும் அளந்து போட மாட்டார், அதனால் பார்த்துத்தான் கற்றுக்கொண்டேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Noticing a new haircut",
+  "level": "beginner",
+  "en": "I like your new haircut.",
+  "tamil": "உங்கள் புதிய ஹேர்கட் எனக்குப் பிடித்திருக்கிறது.",
+  "reply": "Oh, thanks! I was a little scared to try it, to be honest.",
+  "replyTamil": "ஓ, நன்றி! உண்மையைச் சொன்னால், அதைச் செய்து பார்க்கக் கொஞ்சம் பயமாக இருந்தது."
+ },
+ {
+  "category": "relationships",
+  "context": "Praising a warm personality",
+  "level": "advanced",
+  "en": "You have a knack for making everyone feel at ease, you know that?",
+  "tamil": "எல்லோரையும் சகஜமாக உணர வைக்கும் திறமை உங்களுக்கு இருக்கிறது, தெரியுமா?",
+  "reply": "That's really sweet of you to say. I think I just get nervous and start chatting, honestly.",
+  "replyTamil": "நீங்கள் அப்படிச் சொல்வது ரொம்ப இனிமை. உண்மையில் எனக்குப் பதற்றம் வந்தால் பேசிக்கொண்டே இருப்பேன், அவ்வளவுதான்."
+ },
+ {
+  "category": "relationships",
+  "context": "Praising improved English",
+  "level": "intermediate",
+  "en": "Your English has improved a lot since we last spoke.",
+  "tamil": "நாம் கடைசியாகப் பேசியதிலிருந்து உங்கள் ஆங்கிலம் நிறைய முன்னேறியிருக்கிறது.",
+  "reply": "Really? That means a lot. I've been practising every night, so it's nice to hear it's working.",
+  "replyTamil": "உண்மையாகவா? அது எனக்கு ரொம்ப முக்கியம். தினமும் இரவு பயிற்சி செய்கிறேன், அது பலன் தருகிறது என்று கேட்க நன்றாக இருக்கிறது."
+ },
+ {
+  "category": "relationships",
+  "context": "Praising a friend's child",
+  "level": "beginner",
+  "en": "Your son is so polite!",
+  "tamil": "உங்கள் மகன் ரொம்ப மரியாதையானவன்!",
+  "reply": "Thank you! We keep reminding him, and today he actually listened.",
+  "replyTamil": "நன்றி! நாங்கள் அவனுக்குத் தொடர்ந்து நினைவுபடுத்துவோம், இன்றைக்குத்தான் உண்மையிலேயே கேட்டான்."
+ },
+ {
+  "category": "relationships",
+  "context": "Praising a colleague's presentation",
+  "level": "intermediate",
+  "en": "That was a great presentation. You made a hard topic sound simple.",
+  "tamil": "அது அருமையான பிரசன்டேஷன். கடினமான தலைப்பையும் எளிமையாகச் சொல்லிவிட்டீர்கள்.",
+  "reply": "Thanks, I practised it twice last night. I was afraid the demo would crash, though.",
+  "replyTamil": "நன்றி, நேற்று இரவு இரண்டு முறை பயிற்சி செய்தேன். ஆனாலும் டெமோ கிராஷ் ஆகிவிடுமோ என்று பயந்தேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Inviting someone for coffee",
+  "level": "intermediate",
+  "en": "Would you like to grab a coffee sometime this week?",
+  "tamil": "இந்த வாரத்தில் ஒரு நாள் காபி குடிக்கப் போகலாமா?",
+  "reply": "I'd love to. How about Thursday evening after work?",
+  "replyTamil": "எனக்கு விருப்பம்தான். வியாழன் மாலை ஆபீஸ் முடிந்த பிறகு எப்படி?"
+ },
+ {
+  "category": "relationships",
+  "context": "Checking if someone is free",
+  "level": "beginner",
+  "en": "Are you free this Saturday?",
+  "tamil": "இந்த சனிக்கிழமை நீங்கள் ஃப்ரீயா?",
+  "reply": "I think so. What did you have in mind?",
+  "replyTamil": "அப்படித்தான் நினைக்கிறேன். உங்கள் மனதில் என்ன திட்டம்?"
+ },
+ {
+  "category": "relationships",
+  "context": "Asking someone to dinner gently",
+  "level": "advanced",
+  "en": "I don't want to put you on the spot, but would you be up for dinner with me?",
+  "tamil": "உங்களைச் சங்கடப்படுத்த விரும்பவில்லை, ஆனால் என்னோடு இரவு உணவுக்கு வர விருப்பம் இருக்கிறதா?",
+  "reply": "That's thoughtful of you. Yes, I'd like that. Somewhere quiet, if possible.",
+  "replyTamil": "நீங்கள் யோசித்துக் கேட்டது நல்லது. சரி, எனக்கும் விருப்பம். முடிந்தால் அமைதியான இடமாக இருக்கட்டும்."
+ },
+ {
+  "category": "relationships",
+  "context": "Suggesting a Sunday outing",
+  "level": "beginner",
+  "en": "Shall we try that new dosa place on Sunday?",
+  "tamil": "ஞாயிற்றுக்கிழமை அந்தப் புதிய தோசைக் கடைக்குப் போய்ப் பார்க்கலாமா?",
+  "reply": "Sure, sounds good! I've heard the filter coffee there is great.",
+  "replyTamil": "சரி, நல்ல யோசனை! அங்கே ஃபில்டர் காபி அருமையாக இருக்கும் என்று கேள்விப்பட்டேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Asking to call tomorrow",
+  "level": "intermediate",
+  "en": "I've enjoyed talking to you. Would it be okay if I called you tomorrow?",
+  "tamil": "உங்களோடு பேசியது எனக்குப் பிடித்தது. நாளை உங்களுக்கு போன் செய்யலாமா?",
+  "reply": "Of course. Any time after seven is good, I'll be home by then.",
+  "replyTamil": "தாராளமாக. ஏழு மணிக்குப் பிறகு எப்போது வேண்டுமானாலும் செய்யுங்கள், அதற்குள் நான் வீட்டில் இருப்பேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Inviting someone to a movie",
+  "level": "beginner",
+  "en": "Have you seen the new Tamil movie? I'd love to go together.",
+  "tamil": "புதிய தமிழ்ப் படம் பார்த்துவிட்டீர்களா? சேர்ந்து போகலாம் என்று ஆசை.",
+  "reply": "Not yet. Which theatre were you thinking of?",
+  "replyTamil": "இன்னும் இல்லை. எந்தத் தியேட்டர் என்று யோசித்தீர்கள்?"
+ },
+ {
+  "category": "relationships",
+  "context": "Admitting you like someone",
+  "level": "intermediate",
+  "en": "Honestly, I'm not sure how to say this, but I really like spending time with you.",
+  "tamil": "உண்மையைச் சொன்னால், இதை எப்படிச் சொல்வது என்று தெரியவில்லை, ஆனால் உங்களோடு நேரம் செலவிடுவது எனக்கு ரொம்பப் பிடிக்கும்.",
+  "reply": "That's sweet. I like spending time with you too, so I'm glad you said it.",
+  "replyTamil": "அது இனிமையான வார்த்தை. எனக்கும் உங்களோடு நேரம் செலவிடப் பிடிக்கும், அதனால் நீங்கள் சொன்னது மகிழ்ச்சி."
+ },
+ {
+  "category": "relationships",
+  "context": "Accepting a polite no",
+  "level": "advanced",
+  "en": "I completely understand if you'd rather keep things as friends.",
+  "tamil": "நாம் நண்பர்களாகவே இருப்பது உங்களுக்கு விருப்பம் என்றால் அதை நான் முழுமையாகப் புரிந்துகொள்வேன்.",
+  "reply": "Thanks for being so understanding. I'm just not ready yet, but I'd still like to stay in touch.",
+  "replyTamil": "புரிந்துகொண்டதற்கு நன்றி. நான் இன்னும் தயாராக இல்லை, ஆனாலும் தொடர்பில் இருக்க விரும்புகிறேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Planning a weekend trip",
+  "level": "beginner",
+  "en": "Where should we go for our weekend trip?",
+  "tamil": "வார இறுதிச் சுற்றுலாவுக்கு நாம் எங்கே போகலாம்?",
+  "reply": "How about Pondicherry? It's close, and we can drive.",
+  "replyTamil": "பாண்டிச்சேரி எப்படி? பக்கத்தில்தான், காரிலேயே போகலாம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Sharing housework fairly",
+  "level": "intermediate",
+  "en": "We need to decide how to split the housework. It's getting messy.",
+  "tamil": "வீட்டு வேலைகளை எப்படிப் பிரித்துக்கொள்வது என்று முடிவு செய்ய வேண்டும். எல்லாம் குழப்பமாகிக்கொண்டே போகிறது.",
+  "reply": "You're right. I'll handle the cooking if you take care of the laundry and the groceries.",
+  "replyTamil": "நீ சொல்வது சரி. நான் சமையலைப் பார்த்துக்கொள்கிறேன், நீ துணி துவைப்பதையும் மளிகை வாங்குவதையும் பார்த்துக்கொள்."
+ },
+ {
+  "category": "relationships",
+  "context": "Deciding dinner at home",
+  "level": "beginner",
+  "en": "What shall we cook for dinner tonight?",
+  "tamil": "இன்றிரவு சாப்பாட்டுக்கு என்ன சமைக்கலாம்?",
+  "reply": "Let's make something simple. Lemon rice and potato fry?",
+  "replyTamil": "எளிமையாக ஏதாவது செய்வோம். எலுமிச்சை சாதமும் உருளைக்கிழங்கு வறுவலும் எப்படி?"
+ },
+ {
+  "category": "relationships",
+  "context": "Booking festival train tickets",
+  "level": "intermediate",
+  "en": "Should we book the train tickets now or wait for the holiday offer?",
+  "tamil": "ரயில் டிக்கெட்டை இப்போதே புக் செய்யலாமா, இல்லை விடுமுறைச் சலுகைக்காகக் காத்திருக்கலாமா?",
+  "reply": "Let's book now. Pongal tickets sell out in minutes.",
+  "replyTamil": "இப்போதே புக் செய்வோம். பொங்கல் டிக்கெட் சில நிமிடங்களில் தீர்ந்துவிடும்."
+ },
+ {
+  "category": "relationships",
+  "context": "Planning the future together",
+  "level": "advanced",
+  "en": "I was thinking we could sit down this weekend and map out the next five years.",
+  "tamil": "இந்த வார இறுதியில் உட்கார்ந்து, அடுத்த ஐந்து வருடத் திட்டத்தை வரையறுக்கலாம் என்று நினைத்தேன்.",
+  "reply": "That sounds like a plan. Let's make it a relaxed chat over coffee, not a big meeting.",
+  "replyTamil": "நல்ல யோசனை. அதைப் பெரிய மீட்டிங்காக இல்லாமல், காபி குடித்துக்கொண்டே ஒரு சாதாரண பேச்சாக வைத்துக்கொள்வோம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Choosing a flat together",
+  "level": "beginner",
+  "en": "Which flat do you like more, the first or the second?",
+  "tamil": "முதல் ஃபிளாட், இரண்டாவது ஃபிளாட், உனக்கு எது அதிகம் பிடித்தது?",
+  "reply": "The second one. It gets more sunlight, and the kitchen is bigger.",
+  "replyTamil": "இரண்டாவதுதான். அதில் வெயில் நிறைய வருகிறது, சமையலறையும் பெரியது."
+ },
+ {
+  "category": "relationships",
+  "context": "Deciding whether to buy a car",
+  "level": "intermediate",
+  "en": "Do we really need a car, or can we manage with the metro and autos?",
+  "tamil": "நமக்கு உண்மையிலேயே கார் தேவையா, இல்லை மெட்ரோவிலும் ஆட்டோவிலும் சமாளிக்க முடியுமா?",
+  "reply": "Honestly, we can manage for now. Let's save the money and revisit it next year.",
+  "replyTamil": "உண்மையைச் சொன்னால், இப்போதைக்குச் சமாளிக்கலாம். பணத்தைச் சேமித்து, அடுத்த வருடம் மறுபடி யோசிப்போம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Dividing errands on the way home",
+  "level": "beginner",
+  "en": "I'll pick up the vegetables on my way home.",
+  "tamil": "வீட்டுக்கு வரும் வழியில் நான் காய்கறி வாங்கி வருகிறேன்.",
+  "reply": "Perfect. Please get some coriander and curry leaves too.",
+  "replyTamil": "சரி, நல்லது. கொத்தமல்லியும் கறிவேப்பிலையும் கூட வாங்கி வாருங்கள்."
+ },
+ {
+  "category": "relationships",
+  "context": "Telling someone they matter",
+  "level": "beginner",
+  "en": "You mean a lot to me, you know.",
+  "tamil": "நீ எனக்கு ரொம்ப முக்கியம், தெரியுமா.",
+  "reply": "You mean a lot to me too. I'm really glad we met.",
+  "replyTamil": "நீயும் எனக்கு ரொம்ப முக்கியம். நாம் சந்தித்தது எனக்கு உண்மையிலேயே மகிழ்ச்சி."
+ },
+ {
+  "category": "relationships",
+  "context": "Telling a partner you felt hurt",
+  "level": "intermediate",
+  "en": "I felt a little hurt when you didn't call yesterday.",
+  "tamil": "நேற்று நீ போன் செய்யாதபோது எனக்குக் கொஞ்சம் வருத்தமாக இருந்தது.",
+  "reply": "I'm sorry. Work got crazy, but I should have sent you a message at least.",
+  "replyTamil": "மன்னித்துவிடு. வேலை ரொம்ப அதிகமாகிவிட்டது, ஆனாலும் ஒரு மெசேஜாவது அனுப்பியிருக்க வேண்டும்."
+ },
+ {
+  "category": "relationships",
+  "context": "Welcoming a guest warmly",
+  "level": "beginner",
+  "en": "I'm so happy you came today.",
+  "tamil": "இன்றைக்கு நீங்கள் வந்தது எனக்கு ரொம்ப மகிழ்ச்சி.",
+  "reply": "Me too! I wouldn't have missed it for anything.",
+  "replyTamil": "எனக்கும்தான்! எதற்காகவும் இதைத் தவறவிட மாட்டேன்."
+ },
+ {
+  "category": "relationships",
+  "context": "Saying you feel safe with someone",
+  "level": "advanced",
+  "en": "It's hard for me to put this into words, but I feel really safe around you.",
+  "tamil": "இதை வார்த்தைகளில் சொல்வது எனக்குக் கடினம், ஆனால் உன்னோடு இருக்கும்போது நான் ரொம்பப் பாதுகாப்பாக உணர்கிறேன்.",
+  "reply": "That's the nicest thing anyone has said to me. I feel the same way about you.",
+  "replyTamil": "இதுவரை யாரும் எனக்குச் சொன்னதில் இதுதான் மிக இனிமையான வார்த்தை. எனக்கும் உன்னைப் பற்றி அதே உணர்வுதான்."
+ },
+ {
+  "category": "relationships",
+  "context": "Asking a loved one to listen",
+  "level": "intermediate",
+  "en": "Can I be honest? I've been feeling a bit stressed lately and I need someone to listen.",
+  "tamil": "நான் வெளிப்படையாகச் சொல்லலாமா? சமீபத்தில் எனக்குக் கொஞ்சம் மன அழுத்தமாக இருக்கிறது, யாராவது கேட்க வேண்டும்.",
+  "reply": "Of course. I'm all ears. Let's sit down and talk it through.",
+  "replyTamil": "நிச்சயமாக. நான் கேட்கத் தயார். உட்கார்ந்து எல்லாம் பேசலாம்."
+ },
+ {
+  "category": "relationships",
+  "context": "Thanking someone for support",
+  "level": "beginner",
+  "en": "Thank you for always being there for me.",
+  "tamil": "எப்போதும் எனக்குத் துணையாக இருப்பதற்கு நன்றி.",
+  "reply": "Of course! You'd do the same for me.",
+  "replyTamil": "நிச்சயமாக! நீயும் எனக்கு அப்படித்தான் செய்வாய்."
+ },
+ {
+  "category": "relationships",
+  "context": "Expressing pride in a loved one",
+  "level": "intermediate",
+  "en": "I'm proud of how hard you've worked this year.",
+  "tamil": "இந்த வருடம் நீ எவ்வளவு கடினமாக உழைத்தாய் என்பதில் எனக்குப் பெருமை.",
+  "reply": "That means so much to me, especially coming from you.",
+  "replyTamil": "அது எனக்கு ரொம்ப முக்கியம், அதுவும் நீ சொல்லும்போது."
+ },
+ {
+  "category": "relationships",
+  "context": "Appreciating a partner at home",
+  "level": "advanced",
+  "en": "I don't say it often enough, but I really appreciate everything you do around here.",
+  "tamil": "அடிக்கடி சொல்வதில்லை, ஆனால் வீட்டில் நீ செய்யும் எல்லாவற்றுக்கும் நான் உண்மையிலேயே நன்றியுள்ளவன்.",
+  "reply": "Aww, that's a lovely surprise. Honestly, I needed to hear that today.",
+  "replyTamil": "அய்யோ, இது இனிமையான ஆச்சரியம். உண்மையைச் சொன்னால், இன்றைக்கு எனக்கு இதைக் கேட்க வேண்டியிருந்தது."
+ }
+]

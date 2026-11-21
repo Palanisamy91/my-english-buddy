@@ -1,0 +1,206 @@
+[
+ {
+  "word": "airline",
+  "tamil": "விமான நிறுவனம்",
+  "pos": "noun",
+  "pron": "AIR-line",
+  "example": "Which airline are you flying with?",
+  "exampleTamil": "நீங்கள் எந்த விமான நிறுவனத்தில் பயணிக்கிறீர்கள்?",
+  "synonyms": [
+   "carrier"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "aircraft",
+  "tamil": "விமானம்",
+  "pos": "noun",
+  "pron": "AIR-kraft",
+  "example": "The aircraft was cleaned before boarding.",
+  "exampleTamil": "ஏறுவதற்கு முன் விமானம் சுத்தம் செய்யப்பட்டது.",
+  "synonyms": [
+   "plane"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "window seat",
+  "tamil": "ஜன்னல் இருக்கை",
+  "pos": "noun",
+  "pron": "WIN-doh seet",
+  "example": "I always ask for a window seat.",
+  "exampleTamil": "நான் எப்போதும் ஜன்னல் இருக்கை கேட்பேன்.",
+  "synonyms": [
+   "seat by the window"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "legroom",
+  "tamil": "கால் நீட்டும் இடம்",
+  "pos": "noun",
+  "pron": "LEG-room",
+  "example": "Exit-row seats have extra legroom.",
+  "exampleTamil": "அவசர வழி இருக்கைகளில் கூடுதல் கால் இடம் உண்டு.",
+  "synonyms": [
+   "space"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "economy",
+  "tamil": "சாதாரண வகுப்பு",
+  "pos": "noun",
+  "pron": "ih-KON-uh-mee",
+  "example": "We flew economy to save money.",
+  "exampleTamil": "நாங்கள் பணத்தை மிச்சப்படுத்த சாதாரண வகுப்பில் பறந்தோம்.",
+  "synonyms": [
+   "standard class"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lounge",
+  "tamil": "ஓய்வறை",
+  "pos": "noun",
+  "pron": "LOWNJ",
+  "example": "Business passengers can relax in the lounge.",
+  "exampleTamil": "வணிகப் பயணிகள் ஓய்வறையில் இளைப்பாறலாம்.",
+  "synonyms": [
+   "waiting room"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cloakroom",
+  "tamil": "பைகள் வைக்கும் அறை",
+  "pos": "noun",
+  "pron": "KLOHK-room",
+  "example": "Leave your bag in the museum cloakroom.",
+  "exampleTamil": "உங்கள் பையை அருங்காட்சியக பாதுகாப்பு அறையில் வைக்கவும்.",
+  "synonyms": [
+   "left-luggage room"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "locker",
+  "tamil": "பூட்டுப் பெட்டகம்",
+  "pos": "noun",
+  "pron": "LOK-er",
+  "example": "Keep your valuables in the hotel locker.",
+  "exampleTamil": "உங்கள் மதிப்புமிக்க பொருட்களை விடுதிப் பெட்டகத்தில் வையுங்கள்.",
+  "synonyms": [
+   "safe box"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "valuables",
+  "tamil": "மதிப்புமிக்க பொருட்கள்",
+  "pos": "noun",
+  "pron": "VAL-yuh-bulz",
+  "example": "Don't leave valuables in the car.",
+  "exampleTamil": "மதிப்புமிக்க பொருட்களை காரில் விட்டுச் செல்லாதீர்கள்.",
+  "synonyms": [
+   "precious items"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sleeper",
+  "tamil": "படுக்கை வசதி ரயில்",
+  "pos": "noun",
+  "pron": "SLEE-per",
+  "example": "We took the overnight sleeper to Mumbai.",
+  "exampleTamil": "நாங்கள் மும்பைக்கு இரவு படுக்கை ரயிலில் சென்றோம்.",
+  "synonyms": [
+   "night train"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "express",
+  "tamil": "விரைவு (ரயில், பேருந்து)",
+  "pos": "adjective",
+  "pron": "ik-SPRESS",
+  "example": "The express train skips small stations.",
+  "exampleTamil": "விரைவு ரயில் சிறு நிலையங்களில் நிற்காது.",
+  "synonyms": [
+   "fast"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stopover city",
+  "tamil": "இடைநிறுத்த நகரம்",
+  "pos": "noun",
+  "pron": "STOP-oh-ver SIT-ee",
+  "example": "Singapore is a handy stopover city.",
+  "exampleTamil": "சிங்கப்பூர் வசதியான இடைநிறுத்த நகரம்.",
+  "synonyms": [
+   "transit city"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "transit",
+  "tamil": "வழிப் பயணம்",
+  "pos": "noun",
+  "pron": "TRAN-zit",
+  "example": "I am in transit for six hours in Doha.",
+  "exampleTamil": "நான் தோஹாவில் ஆறு மணி நேரம் வழிப் பயணத்தில் இருக்கிறேன்.",
+  "synonyms": [
+   "passage"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "postcard",
+  "tamil": "அஞ்சல் அட்டை",
+  "pos": "noun",
+  "pron": "POHST-kard",
+  "example": "I sent a postcard from every city.",
+  "exampleTamil": "நான் ஒவ்வொரு நகரத்திலிருந்தும் அஞ்சல் அட்டை அனுப்பினேன்.",
+  "synonyms": [
+   "card"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "itinerary change",
+  "tamil": "பயணத் திட்ட மாற்றம்",
+  "pos": "noun",
+  "pron": "eye-TIN-uh-rair-ee chaynj",
+  "example": "An itinerary change added a day in Paris.",
+  "exampleTamil": "பயணத் திட்ட மாற்றத்தால் பாரிசில் ஒரு நாள் கூடியது.",
+  "synonyms": [
+   "plan update"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "unforgettable",
+  "tamil": "மறக்க முடியாத",
+  "pos": "adjective",
+  "pron": "un-fer-GET-uh-bul",
+  "example": "Our trip to Kerala was unforgettable.",
+  "exampleTamil": "கேரளப் பயணம் எங்களுக்கு மறக்க முடியாததாக இருந்தது.",
+  "synonyms": [
+   "memorable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bon voyage",
+  "tamil": "இனிய பயணம் அமையட்டும்",
+  "pos": "phrase",
+  "pron": "bon voy-AHZH",
+  "example": "We shouted bon voyage as the ship left.",
+  "exampleTamil": "கப்பல் புறப்படும்போது நாங்கள் இனிய பயணம் என்று கூவினோம்.",
+  "synonyms": [
+   "safe travels"
+  ],
+  "level": "advanced"
+ }
+]

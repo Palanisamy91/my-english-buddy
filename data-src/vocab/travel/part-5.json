@@ -1,0 +1,626 @@
+[
+ {
+  "word": "petrol",
+  "tamil": "பெட்ரோல்",
+  "pos": "noun",
+  "pron": "PET-rul",
+  "example": "We stopped to fill the car with petrol.",
+  "exampleTamil": "நாங்கள் காரில் பெட்ரோல் நிரப்ப நின்றோம்.",
+  "synonyms": [
+   "gasoline"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "diesel",
+  "tamil": "டீசல்",
+  "pos": "noun",
+  "pron": "DEE-zul",
+  "example": "This rental car runs on diesel.",
+  "exampleTamil": "இந்த வாடகைக் கார் டீசலில் ஓடுகிறது.",
+  "synonyms": [
+   "fuel"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fuel",
+  "tamil": "எரிபொருள்",
+  "pos": "noun",
+  "pron": "FYOO-ul",
+  "example": "We are low on fuel, so let's stop.",
+  "exampleTamil": "எரிபொருள் குறைவு, அதனால் நிற்போம்.",
+  "synonyms": [
+   "petrol"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "petrol pump",
+  "tamil": "பெட்ரோல் நிலையம்",
+  "pos": "noun",
+  "pron": "PET-rul pump",
+  "example": "There is a petrol pump after the bridge.",
+  "exampleTamil": "பாலத்திற்குப் பின் ஒரு பெட்ரோல் நிலையம் உள்ளது.",
+  "synonyms": [
+   "gas station"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "toll",
+  "tamil": "சுங்கக் கட்டணம் (சாலை)",
+  "pos": "noun",
+  "pron": "TOHL",
+  "example": "We paid the toll at the highway booth.",
+  "exampleTamil": "நாங்கள் நெடுஞ்சாலைச் சாவடியில் சுங்கம் செலுத்தினோம்.",
+  "synonyms": [
+   "road fee"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "highway",
+  "tamil": "நெடுஞ்சாலை",
+  "pos": "noun",
+  "pron": "HY-way",
+  "example": "The highway is smooth and wide.",
+  "exampleTamil": "நெடுஞ்சாலை சீராகவும் அகலமாகவும் உள்ளது.",
+  "synonyms": [
+   "expressway"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "motorway",
+  "tamil": "அதிவேகச் சாலை",
+  "pos": "noun",
+  "pron": "MOH-ter-way",
+  "example": "Speed limits on the motorway are strictly enforced.",
+  "exampleTamil": "அதிவேகச் சாலையில் வேக வரம்பு கடுமையாக அமல்படுத்தப்படும்.",
+  "synonyms": [
+   "freeway"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lane",
+  "tamil": "சாலைப் பாதை",
+  "pos": "noun",
+  "pron": "LAYN",
+  "example": "Stay in the left lane unless you are overtaking.",
+  "exampleTamil": "முந்தாத வரை இடதுபுறப் பாதையிலேயே இருங்கள்.",
+  "synonyms": [
+   "track"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "overtake",
+  "tamil": "முந்திச் செல்லுதல்",
+  "pos": "verb",
+  "pron": "oh-ver-TAYK",
+  "example": "Never overtake on a sharp curve.",
+  "exampleTamil": "கூர்மையான வளைவில் ஒருபோதும் முந்தாதீர்கள்.",
+  "synonyms": [
+   "pass"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "speed limit",
+  "tamil": "வேக வரம்பு",
+  "pos": "noun",
+  "pron": "SPEED LIM-it",
+  "example": "The speed limit here is sixty kilometres per hour.",
+  "exampleTamil": "இங்கு வேக வரம்பு மணிக்கு அறுபது கிலோமீட்டர்.",
+  "synonyms": [
+   "maximum speed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "traffic jam",
+  "tamil": "போக்குவரத்து நெரிசல்",
+  "pos": "noun",
+  "pron": "TRAF-ik jam",
+  "example": "We were stuck in a traffic jam for an hour.",
+  "exampleTamil": "நாங்கள் ஒரு மணி நேரம் போக்குவரத்து நெரிசலில் சிக்கினோம்.",
+  "synonyms": [
+   "gridlock"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "parking",
+  "tamil": "வாகன நிறுத்தம்",
+  "pos": "noun",
+  "pron": "PAR-king",
+  "example": "Parking is difficult near the beach.",
+  "exampleTamil": "கடற்கரை அருகே வாகன நிறுத்தம் கடினம்.",
+  "synonyms": [
+   "car park"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "roadside",
+  "tamil": "சாலையோரம்",
+  "pos": "noun",
+  "pron": "ROHD-side",
+  "example": "We ate at a small roadside stall.",
+  "exampleTamil": "நாங்கள் ஒரு சிறிய சாலையோரக் கடையில் சாப்பிட்டோம்.",
+  "synonyms": [
+   "wayside"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rest stop",
+  "tamil": "ஓய்வு நிறுத்தம்",
+  "pos": "noun",
+  "pron": "REST stop",
+  "example": "We took a break at a rest stop.",
+  "exampleTamil": "நாங்கள் ஒரு ஓய்வு நிறுத்தத்தில் இளைப்பாறினோம்.",
+  "synonyms": [
+   "service area"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "road trip",
+  "tamil": "சாலைப் பயணம்",
+  "pos": "noun",
+  "pron": "ROHD trip",
+  "example": "A road trip along the coast sounds fun.",
+  "exampleTamil": "கடற்கரையோரம் சாலைப் பயணம் இனிமையாக இருக்கும்.",
+  "synonyms": [
+   "drive"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "driving licence",
+  "tamil": "ஓட்டுநர் உரிமம்",
+  "pos": "noun",
+  "pron": "DRY-ving LY-sunss",
+  "example": "Carry your driving licence at all times.",
+  "exampleTamil": "ஓட்டுநர் உரிமத்தை எப்போதும் எடுத்துச் செல்லுங்கள்.",
+  "synonyms": [
+   "driving permit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rental",
+  "tamil": "வாடகைக்கான",
+  "pos": "adjective",
+  "pron": "REN-tul",
+  "example": "We picked up the rental car at the airport.",
+  "exampleTamil": "நாங்கள் விமான நிலையத்தில் வாடகைக் காரை எடுத்தோம்.",
+  "synonyms": [
+   "hired"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "seat belt",
+  "tamil": "இருக்கைப் பட்டை",
+  "pos": "noun",
+  "pron": "SEET belt",
+  "example": "Always fasten your seat belt.",
+  "exampleTamil": "எப்போதும் இருக்கைப் பட்டையை அணியுங்கள்.",
+  "synonyms": [
+   "safety strap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tyre",
+  "tamil": "வாகனச் சக்கரம் (டயர்)",
+  "pos": "noun",
+  "pron": "TY-er",
+  "example": "We got a flat tyre on the hill road.",
+  "exampleTamil": "மலைச் சாலையில் எங்கள் டயர் காற்றிழந்தது.",
+  "synonyms": [
+   "wheel rubber"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "puncture",
+  "tamil": "டயர் பஞ்சர்",
+  "pos": "noun",
+  "pron": "PUNK-cher",
+  "example": "A puncture delayed us by an hour.",
+  "exampleTamil": "பஞ்சர் எங்களை ஒரு மணி நேரம் தாமதப்படுத்தியது.",
+  "synonyms": [
+   "flat tyre"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mechanic",
+  "tamil": "வாகனப் பழுதுநீக்குபவர்",
+  "pos": "noun",
+  "pron": "muh-KAN-ik",
+  "example": "A mechanic fixed our car within minutes.",
+  "exampleTamil": "ஒரு மெக்கானிக் எங்கள் காரை சில நிமிடங்களில் சரிசெய்தார்.",
+  "synonyms": [
+   "repairman"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "signpost",
+  "tamil": "வழிகாட்டிப் பலகை",
+  "pos": "noun",
+  "pron": "SINE-pohst",
+  "example": "Follow the signpost to the old fort.",
+  "exampleTamil": "பழைய கோட்டைக்குச் செல்ல வழிகாட்டிப் பலகையைப் பின்பற்றுங்கள்.",
+  "synonyms": [
+   "road sign"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bridge",
+  "tamil": "பாலம்",
+  "pos": "noun",
+  "pron": "BRIJ",
+  "example": "We crossed the bridge over the river.",
+  "exampleTamil": "நாங்கள் ஆற்றின் மேலுள்ள பாலத்தைக் கடந்தோம்.",
+  "synonyms": [
+   "overpass"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tunnel",
+  "tamil": "சுரங்கப்பாதை",
+  "pos": "noun",
+  "pron": "TUN-ul",
+  "example": "The train goes through a long tunnel.",
+  "exampleTamil": "ரயில் ஒரு நீண்ட சுரங்கப்பாதை வழியே செல்கிறது.",
+  "synonyms": [
+   "underpass"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pedestrian",
+  "tamil": "பாதசாரி",
+  "pos": "noun",
+  "pron": "puh-DES-tree-un",
+  "example": "Drivers must give way to pedestrians.",
+  "exampleTamil": "ஓட்டுநர்கள் பாதசாரிகளுக்கு வழிவிட வேண்டும்.",
+  "synonyms": [
+   "walker"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sidewalk",
+  "tamil": "நடைபாதை",
+  "pos": "noun",
+  "pron": "SIDE-wawk",
+  "example": "Please walk on the sidewalk, not the road.",
+  "exampleTamil": "தயவுசெய்து சாலையில் அல்லாமல் நடைபாதையில் நடங்கள்.",
+  "synonyms": [
+   "footpath"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "one-way",
+  "tamil": "ஒருவழி (போக்குவரத்து)",
+  "pos": "adjective",
+  "pron": "WUN-way",
+  "example": "This is a one-way street, so turn back.",
+  "exampleTamil": "இது ஒருவழித் தெரு, அதனால் திரும்பிச் செல்லுங்கள்.",
+  "synonyms": [
+   "single direction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bumpy",
+  "tamil": "குண்டும் குழியுமான",
+  "pos": "adjective",
+  "pron": "BUM-pee",
+  "example": "The road to the village was very bumpy.",
+  "exampleTamil": "கிராமத்திற்கான சாலை மிகவும் குண்டும் குழியுமாக இருந்தது.",
+  "synonyms": [
+   "rough"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hairpin",
+  "tamil": "கூர்மையான வளைவு (சாலை)",
+  "pos": "adjective",
+  "pron": "HAIR-pin",
+  "example": "The hill road has many hairpin bends.",
+  "exampleTamil": "மலைச் சாலையில் பல கூர்மையான வளைவுகள் உள்ளன.",
+  "synonyms": [
+   "sharp turn"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "steep",
+  "tamil": "செங்குத்தான",
+  "pos": "adjective",
+  "pron": "STEEP",
+  "example": "The path up to the temple is steep.",
+  "exampleTamil": "கோவிலுக்கான பாதை செங்குத்தாக உள்ளது.",
+  "synonyms": [
+   "sharp"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tourism",
+  "tamil": "சுற்றுலாத் துறை",
+  "pos": "noun",
+  "pron": "TOOR-iz-um",
+  "example": "Tourism is the main source of income here.",
+  "exampleTamil": "சுற்றுலாத் துறையே இங்கு முக்கிய வருமானம்.",
+  "synonyms": [
+   "travel industry"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sightseer",
+  "tamil": "இடங்களைப் பார்க்க வருபவர்",
+  "pos": "noun",
+  "pron": "SITE-see-er",
+  "example": "Sightseers fill the old streets every summer.",
+  "exampleTamil": "ஒவ்வொரு கோடையிலும் பார்வையாளர்கள் பழைய தெருக்களை நிரப்புகின்றனர்.",
+  "synonyms": [
+   "visitor"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "backpacker",
+  "tamil": "முதுகுப்பையுடன் பயணிப்பவர்",
+  "pos": "noun",
+  "pron": "BAK-pak-er",
+  "example": "Backpackers love the cheap hostels here.",
+  "exampleTamil": "முதுகுப்பைப் பயணிகள் இங்குள்ள மலிவு விடுதிகளை விரும்புகின்றனர்.",
+  "synonyms": [
+   "budget traveller"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pilgrimage",
+  "tamil": "புனிதப் பயணம்",
+  "pos": "noun",
+  "pron": "PIL-grim-ij",
+  "example": "Thousands go on a pilgrimage to the hill temple.",
+  "exampleTamil": "ஆயிரக்கணக்கானோர் மலைக்கோவிலுக்கு புனிதப் பயணம் செல்கின்றனர்.",
+  "synonyms": [
+   "holy journey"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pilgrim",
+  "tamil": "புனிதப் பயணி",
+  "pos": "noun",
+  "pron": "PIL-grim",
+  "example": "Pilgrims walk barefoot to the shrine.",
+  "exampleTamil": "புனிதப் பயணிகள் வெறுங்காலுடன் கோவிலுக்கு நடக்கின்றனர்.",
+  "synonyms": [
+   "devotee"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "honeymoon",
+  "tamil": "தேனிலவு",
+  "pos": "noun",
+  "pron": "HUN-ee-moon",
+  "example": "They chose Kashmir for their honeymoon.",
+  "exampleTamil": "அவர்கள் தேனிலவுக்கு காஷ்மீரைத் தேர்ந்தெடுத்தனர்.",
+  "synonyms": [
+   "wedding trip"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "getaway",
+  "tamil": "ஓய்வுக்கான சிறு பயணம்",
+  "pos": "noun",
+  "pron": "GET-uh-way",
+  "example": "A weekend getaway will refresh you.",
+  "exampleTamil": "வார இறுதி ஓய்வுப் பயணம் உங்களுக்குப் புத்துணர்ச்சி தரும்.",
+  "synonyms": [
+   "short break"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sunscreen",
+  "tamil": "சூரியத் தடுப்புக் கிரீம்",
+  "pos": "noun",
+  "pron": "SUN-skreen",
+  "example": "Don't forget sunscreen at the beach.",
+  "exampleTamil": "கடற்கரையில் சூரியத் தடுப்புக் கிரீமை மறக்காதீர்கள்.",
+  "synonyms": [
+   "sun lotion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "adapter",
+  "tamil": "மின் இணைப்பு அடாப்டர்",
+  "pos": "noun",
+  "pron": "uh-DAP-ter",
+  "example": "Bring a plug adapter for European sockets.",
+  "exampleTamil": "ஐரோப்பிய சாக்கெட்டுகளுக்கு அடாப்டர் கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "plug converter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pack",
+  "tamil": "பெட்டியில் அடுக்குதல்",
+  "pos": "verb",
+  "pron": "PAK",
+  "example": "I haven't packed my bags yet.",
+  "exampleTamil": "நான் இன்னும் என் பைகளை அடுக்கவில்லை.",
+  "synonyms": [
+   "load"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "unpack",
+  "tamil": "பெட்டியிலிருந்து எடுத்து வைத்தல்",
+  "pos": "verb",
+  "pron": "un-PAK",
+  "example": "Let's unpack and then go for dinner.",
+  "exampleTamil": "பெட்டிகளை பிரித்து வைத்துவிட்டு இரவு உணவுக்குச் செல்வோம்.",
+  "synonyms": [
+   "empty"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "book",
+  "tamil": "முன்பதிவு செய்தல்",
+  "pos": "verb",
+  "pron": "BUK",
+  "example": "Book your tickets at least a month ahead.",
+  "exampleTamil": "குறைந்தது ஒரு மாதம் முன்பே சீட்டுகளை பதிவு செய்யுங்கள்.",
+  "synonyms": [
+   "reserve"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sold out",
+  "tamil": "முழுவதும் விற்றுத் தீர்ந்த",
+  "pos": "phrase",
+  "pron": "sohld OWT",
+  "example": "The morning tickets are sold out.",
+  "exampleTamil": "காலைச் சீட்டுகள் விற்றுத் தீர்ந்துவிட்டன.",
+  "synonyms": [
+   "full"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "peak season",
+  "tamil": "உச்சப் பருவம்",
+  "pos": "noun",
+  "pron": "PEEK SEE-zun",
+  "example": "Hotels are costly in peak season.",
+  "exampleTamil": "உச்சப் பருவத்தில் விடுதிகள் விலை அதிகம்.",
+  "synonyms": [
+   "high season"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "off-season",
+  "tamil": "சுற்றுலா இல்லாத பருவம்",
+  "pos": "noun",
+  "pron": "OFF-see-zun",
+  "example": "Travelling in the off-season saves money.",
+  "exampleTamil": "சுற்றுலா இல்லாத காலத்தில் பயணிப்பது பணத்தை மிச்சப்படுத்தும்.",
+  "synonyms": [
+   "low season"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "visa-free",
+  "tamil": "விசா தேவையற்ற",
+  "pos": "adjective",
+  "pron": "VEE-zuh-free",
+  "example": "Many countries are visa-free for short stays.",
+  "exampleTamil": "பல நாடுகளுக்கு குறுகிய தங்குதலுக்கு விசா தேவையில்லை.",
+  "synonyms": [
+   "no-visa"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overstay",
+  "tamil": "அனுமதி காலத்தை மீறி தங்குதல்",
+  "pos": "verb",
+  "pron": "oh-ver-STAY",
+  "example": "Do not overstay your visa in any country.",
+  "exampleTamil": "எந்த நாட்டிலும் விசா காலத்தைத் தாண்டி தங்காதீர்கள்.",
+  "synonyms": [
+   "exceed"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tour guide",
+  "tamil": "சுற்றுலா வழிகாட்டி",
+  "pos": "noun",
+  "pron": "TOOR gyde",
+  "example": "The tour guide spoke three languages.",
+  "exampleTamil": "சுற்றுலா வழிகாட்டி மூன்று மொழிகள் பேசினார்.",
+  "synonyms": [
+   "escort"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "phrasebook",
+  "tamil": "சொற்றொடர் கையேடு",
+  "pos": "noun",
+  "pron": "FRAYZ-buk",
+  "example": "A small phrasebook helped me in Japan.",
+  "exampleTamil": "ஒரு சிறிய சொற்றொடர் கையேடு ஜப்பானில் எனக்கு உதவியது.",
+  "synonyms": [
+   "language guide"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "jetty",
+  "tamil": "படகுத் துறை மேடை",
+  "pos": "noun",
+  "pron": "JET-ee",
+  "example": "We waited at the jetty for the boat.",
+  "exampleTamil": "நாங்கள் படகுக்காக துறை மேடையில் காத்திருந்தோம்.",
+  "synonyms": [
+   "pier"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lighthouse",
+  "tamil": "கலங்கரை விளக்கம்",
+  "pos": "noun",
+  "pron": "LYTE-howss",
+  "example": "The lighthouse guides ships at night.",
+  "exampleTamil": "கலங்கரை விளக்கம் இரவில் கப்பல்களுக்கு வழிகாட்டுகிறது.",
+  "synonyms": [
+   "beacon"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "souvenir shop",
+  "tamil": "நினைவுப் பரிசுக் கடை",
+  "pos": "noun",
+  "pron": "soo-vuh-NEER shop",
+  "example": "The souvenir shop sells handmade toys.",
+  "exampleTamil": "நினைவுப் பரிசுக் கடையில் கைவினை பொம்மைகள் விற்கப்படுகின்றன.",
+  "synonyms": [
+   "gift shop"
+  ],
+  "level": "beginner"
+ }
+]

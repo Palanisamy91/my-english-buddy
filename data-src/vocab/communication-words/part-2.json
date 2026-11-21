@@ -1,0 +1,348 @@
+[
+ {
+  "word": "confess",
+  "meaning": "to admit that you did something wrong",
+  "tamil": "ஒப்புக்கொள்",
+  "pos": "verb",
+  "pron": "kun-FES",
+  "example": "He confessed that he forgot the meeting.",
+  "exampleTamil": "அவன் கூட்டத்தை மறந்துவிட்டதாக ஒப்புக்கொண்டான்.",
+  "synonyms": [
+   "admit",
+   "own up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "criticize",
+  "meaning": "to say what is wrong or bad about someone or something",
+  "tamil": "குறை கூறு, விமர்சனம் செய்",
+  "pos": "verb",
+  "pron": "KRIT-i-syz",
+  "example": "Try not to criticize your team in public.",
+  "exampleTamil": "உன் குழுவை பொதுவில் குறை கூறாமல் இருக்க முயற்சி செய்.",
+  "synonyms": [
+   "blame",
+   "fault"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "murmur",
+  "meaning": "to speak very softly and quietly",
+  "tamil": "முணுமுணு",
+  "pos": "verb",
+  "pron": "MUR-mer",
+  "example": "She murmured a thank you and left.",
+  "exampleTamil": "அவள் மெதுவாக நன்றி முணுமுணுத்துவிட்டுச் சென்றாள்.",
+  "synonyms": [
+   "whisper",
+   "mumble"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mutter",
+  "meaning": "to speak in a low voice, often when unhappy",
+  "tamil": "முணுமுணுத்துக் குறை சொல்",
+  "pos": "verb",
+  "pron": "MUT-er",
+  "example": "He muttered something about the long wait.",
+  "exampleTamil": "நீண்ட காத்திருப்பைப் பற்றி அவன் ஏதோ முணுமுணுத்தான்.",
+  "synonyms": [
+   "grumble",
+   "murmur"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boast",
+  "meaning": "to speak with too much pride about yourself",
+  "tamil": "பெருமையடித்துக் கொள்",
+  "pos": "verb",
+  "pron": "BOHST",
+  "example": "He likes to boast about his high marks.",
+  "exampleTamil": "அவன் தன் உயர்ந்த மதிப்பெண்களைப் பற்றி பெருமையடித்துக் கொள்கிறான்.",
+  "synonyms": [
+   "brag",
+   "show off"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lecture",
+  "meaning": "a long talk given to teach people or to scold them",
+  "tamil": "சொற்பொழிவு, நீண்ட அறிவுரை",
+  "pos": "noun",
+  "pron": "LEK-cher",
+  "example": "The guest lecture on health was very useful.",
+  "exampleTamil": "ஆரோக்கியம் பற்றிய சிறப்பு சொற்பொழிவு மிகவும் பயனுள்ளதாக இருந்தது.",
+  "synonyms": [
+   "talk",
+   "sermon"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unclear",
+  "meaning": "not easy to understand",
+  "tamil": "தெளிவற்ற",
+  "pos": "adjective",
+  "pron": "un-KLEER",
+  "example": "Your last message was unclear to me.",
+  "exampleTamil": "உன் கடைசி செய்தி எனக்குத் தெளிவாக இல்லை.",
+  "synonyms": [
+   "vague",
+   "confusing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overhear",
+  "meaning": "to hear others talk without them knowing",
+  "tamil": "ஒட்டுக்கேள், தற்செயலாகக் கேள்",
+  "pos": "verb",
+  "pron": "oh-ver-HEER",
+  "example": "I overheard them talking about the surprise party.",
+  "exampleTamil": "ஆச்சரிய விருந்து பற்றி அவர்கள் பேசுவதை நான் தற்செயலாகக் கேட்டேன்.",
+  "synonyms": [
+   "catch",
+   "hear"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "translate",
+  "meaning": "to change words from one language into another",
+  "tamil": "மொழிபெயர்",
+  "pos": "verb",
+  "pron": "TRANZ-layt",
+  "example": "Can you translate this letter into Tamil?",
+  "exampleTamil": "இந்தக் கடிதத்தைத் தமிழில் மொழிபெயர்க்க முடியுமா?",
+  "synonyms": [
+   "interpret",
+   "convert"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "interpret",
+  "meaning": "to explain the meaning of words, or translate speech aloud",
+  "tamil": "விளக்கு, வாய்மொழி மொழிபெயர்",
+  "pos": "verb",
+  "pron": "in-TUR-prit",
+  "example": "She will interpret for the visitors at the meeting.",
+  "exampleTamil": "கூட்டத்தில் வருகையாளர்களுக்காக அவள் மொழிபெயர்ப்பாள்.",
+  "synonyms": [
+   "translate",
+   "explain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "slang",
+  "meaning": "informal words used by friends but not in formal speech",
+  "tamil": "பேச்சு வழக்குச் சொற்கள்",
+  "pos": "noun",
+  "pron": "SLANG",
+  "example": "Avoid slang in a job interview.",
+  "exampleTamil": "வேலை நேர்காணலில் பேச்சு வழக்குச் சொற்களைத் தவிர்.",
+  "synonyms": [
+   "informal talk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "jargon",
+  "meaning": "special words used in one job that others find hard",
+  "tamil": "துறை சார்ந்த கடினமான சொற்கள்",
+  "pos": "noun",
+  "pron": "JAR-gun",
+  "example": "Please avoid jargon so everyone can follow.",
+  "exampleTamil": "எல்லோருக்கும் புரிய, தயவுசெய்து கடினமான துறைச் சொற்களைத் தவிர்.",
+  "synonyms": [
+   "technical terms"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cite",
+  "meaning": "to mention something as proof or an example",
+  "tamil": "மேற்கோள் காட்டு, சான்றாகக் குறிப்பிடு",
+  "pos": "verb",
+  "pron": "SYT",
+  "example": "He cited last year's sales to support his point.",
+  "exampleTamil": "தன் கருத்தை ஆதரிக்க அவன் கடந்த ஆண்டு விற்பனையைச் சான்றாகக் குறிப்பிட்டான்.",
+  "synonyms": [
+   "quote",
+   "mention"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inquire",
+  "meaning": "to ask for information formally",
+  "tamil": "விசாரி",
+  "pos": "verb",
+  "pron": "in-KWYR",
+  "example": "I am writing to inquire about the course fees.",
+  "exampleTamil": "பாடக் கட்டணத்தைப் பற்றி விசாரிக்க எழுதுகிறேன்.",
+  "synonyms": [
+   "ask",
+   "enquire"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "enquire",
+  "meaning": "to ask for information; British spelling of inquire",
+  "tamil": "விசாரி, தகவல் கேள்",
+  "pos": "verb",
+  "pron": "in-KWYR",
+  "example": "You can enquire at the front desk.",
+  "exampleTamil": "நீ வரவேற்பு மேசையில் விசாரிக்கலாம்.",
+  "synonyms": [
+   "ask",
+   "inquire"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "congratulations",
+  "meaning": "words said to praise someone for good news",
+  "tamil": "வாழ்த்துகள்",
+  "pos": "interjection",
+  "pron": "kun-grach-oo-LAY-shunz",
+  "example": "Congratulations on your new job!",
+  "exampleTamil": "உன் புதிய வேலைக்கு வாழ்த்துகள்!",
+  "synonyms": [
+   "well done"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sincerely",
+  "meaning": "in an honest way; used to end a formal letter",
+  "tamil": "உண்மையாக, மனப்பூர்வமாக",
+  "pos": "adverb",
+  "pron": "sin-SEER-lee",
+  "example": "Sincerely, Kumar, is how he ends formal letters.",
+  "exampleTamil": "உண்மையுடன், குமார் என்று அவன் முறையான கடிதங்களை முடிக்கிறான்.",
+  "synonyms": [
+   "honestly",
+   "truly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "frank",
+  "meaning": "honest and open in what you say",
+  "tamil": "வெளிப்படையான",
+  "pos": "adjective",
+  "pron": "FRANK",
+  "example": "Let me be frank with you about the problem.",
+  "exampleTamil": "பிரச்சினையைப் பற்றி உன்னிடம் வெளிப்படையாகப் பேசுகிறேன்.",
+  "synonyms": [
+   "honest",
+   "open"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "witty",
+  "meaning": "clever and funny in what you say",
+  "tamil": "நகைச்சுவை நயமுள்ள",
+  "pos": "adjective",
+  "pron": "WIT-ee",
+  "example": "She is witty and makes every meeting fun.",
+  "exampleTamil": "அவள் நகைச்சுவை நயமுள்ளவள், ஒவ்வொரு கூட்டத்தையும் சுவாரஸ்யமாக்குகிறாள்.",
+  "synonyms": [
+   "clever",
+   "amusing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "attentive",
+  "meaning": "listening or watching carefully",
+  "tamil": "கவனமுள்ள",
+  "pos": "adjective",
+  "pron": "uh-TEN-tiv",
+  "example": "The students were attentive during the class.",
+  "exampleTamil": "வகுப்பில் மாணவர்கள் கவனமாக இருந்தனர்.",
+  "synonyms": [
+   "alert",
+   "focused"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "distracted",
+  "meaning": "not able to give your full attention",
+  "tamil": "கவனம் சிதறிய",
+  "pos": "adjective",
+  "pron": "dis-TRAK-tid",
+  "example": "He looked distracted during the call.",
+  "exampleTamil": "அழைப்பின்போது அவன் கவனம் சிதறியவனாகத் தெரிந்தான்.",
+  "synonyms": [
+   "unfocused",
+   "absent-minded"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "listener",
+  "meaning": "a person who listens",
+  "tamil": "கேட்பவர்",
+  "pos": "noun",
+  "pron": "LIS-uh-ner",
+  "example": "A good listener never interrupts others.",
+  "exampleTamil": "நல்ல கேட்பவர் மற்றவர்களை ஒருபோதும் இடைமறிக்க மாட்டார்.",
+  "synonyms": [
+   "hearer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "anecdote",
+  "meaning": "a short true story about something interesting",
+  "tamil": "சிறு சுவாரஸ்யக் கதை",
+  "pos": "noun",
+  "pron": "AN-ik-doht",
+  "example": "He began his talk with a funny anecdote.",
+  "exampleTamil": "அவன் தன் உரையை ஒரு நகைச்சுவையான சிறு கதையுடன் தொடங்கினான்.",
+  "synonyms": [
+   "story",
+   "tale"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "narrate",
+  "meaning": "to tell a story in order",
+  "tamil": "கதை சொல்லு, விவரி",
+  "pos": "verb",
+  "pron": "NA-rayt",
+  "example": "Grandmother narrates old stories every night.",
+  "exampleTamil": "பாட்டி ஒவ்வொரு இரவும் பழைய கதைகளைச் சொல்கிறாள்.",
+  "synonyms": [
+   "tell",
+   "relate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "retell",
+  "meaning": "to tell a story again in your own words",
+  "tamil": "மீண்டும் சொல்",
+  "pos": "verb",
+  "pron": "ree-TEL",
+  "example": "Please retell the story in your own words.",
+  "exampleTamil": "தயவுசெய்து கதையை உன் சொந்த வார்த்தைகளில் மீண்டும் சொல்.",
+  "synonyms": [
+   "repeat",
+   "recount"
+  ],
+  "level": "intermediate"
+ }
+]

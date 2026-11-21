@@ -1,0 +1,352 @@
+[
+ {
+  "en": "We are planning a small get-together at home on Saturday.",
+  "tamil": "சனிக்கிழமை வீட்டுல ஒரு சின்ன கூடுகை பண்ண பிளான் பண்றோம்.",
+  "context": "Telling a friend about your weekend plan.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Are planning' shows a plan already being made for the near future.",
+  "words": [
+   "get-together"
+  ],
+  "usage": "Use it when you tell friends or relatives about a plan you are making.",
+  "leelaQ": "What are you planning for this Saturday?",
+  "answer": "I am planning to relax at home with my family."
+ },
+ {
+  "en": "I will join you for lunch tomorrow.",
+  "tamil": "நாளைக்கு மதிய சாப்பாட்டுக்கு நானும் உங்களோட சேர்ந்துக்கறேன்.",
+  "context": "Accepting a colleague's lunch invitation.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' is used for a decision made at the moment of speaking.",
+  "words": [
+   "join"
+  ],
+  "usage": "Say it to a colleague when you accept an invitation to eat together.",
+  "leelaQ": "Would you like to have lunch with me tomorrow?",
+  "answer": "Yes, I will join you for lunch tomorrow."
+ },
+ {
+  "en": "Thank you for inviting me to your cousin's wedding.",
+  "tamil": "உங்க cousin கல்யாணத்துக்கு கூப்பிட்டதுக்கு நன்றி.",
+  "context": "Thanking someone for a wedding invitation.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Thank you for' is followed by an -ing word to give the reason for thanks.",
+  "words": [
+   "inviting"
+  ],
+  "usage": "Say it to a host when you receive an invitation to a function.",
+  "leelaQ": "How do you thank someone who invites you to a wedding?",
+  "answer": "I say thank you for inviting me and promise to come."
+ },
+ {
+  "en": "I am sorry, I can't come to the party this evening.",
+  "tamil": "மன்னிக்கணும், இன்னைக்கு சாயங்காலம் பார்ட்டிக்கு வர முடியாது.",
+  "context": "Politely declining a party invitation.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Can't' shows you are not able to do something. Starting with 'I am sorry' is polite.",
+  "words": [
+   "party"
+  ],
+  "usage": "Use it to refuse an invitation politely without hurting the host.",
+  "leelaQ": "Why might you refuse a party invitation?",
+  "answer": "I might refuse because I have to finish some work."
+ },
+ {
+  "en": "We are going to visit my grandmother in Madurai this Diwali.",
+  "tamil": "இந்த தீபாவளிக்கு மதுரையில இருக்கற பாட்டியைப் பார்க்கப் போறோம்.",
+  "context": "Sharing your festival travel plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Are going to' talks about a plan you have already decided.",
+  "words": [
+   "visit"
+  ],
+  "usage": "Use it when colleagues or friends ask where you will spend the festival.",
+  "leelaQ": "Where will you spend the next festival?",
+  "answer": "We are going to celebrate it at my native place."
+ },
+ {
+  "en": "Let's meet at the bus stand at six o'clock.",
+  "tamil": "ஆறு மணிக்கு பஸ் ஸ்டாண்டில் சந்திக்கலாம்.",
+  "context": "Fixing a meeting time with a friend.",
+  "tense": "imperative",
+  "type": "statement",
+  "explain": "'Let's' is used to suggest something we do together.",
+  "words": [
+   "meet"
+  ],
+  "usage": "Say it when you finalise the time and place with a friend.",
+  "leelaQ": "Where do you usually meet your friends?",
+  "answer": "We usually meet near the tea shop in our street."
+ },
+ {
+  "en": "I have already made plans for Sunday.",
+  "tamil": "ஞாயிற்றுக்கிழமைக்கு நான் ஏற்கனவே பிளான் பண்ணிட்டேன்.",
+  "context": "Saying you are busy on Sunday.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have made' shows the plan is already done before now. 'Already' stresses this.",
+  "words": [
+   "already"
+  ],
+  "usage": "Use it to refuse a new invitation because you have something else fixed.",
+  "leelaQ": "Are you free on Sunday?",
+  "answer": "No, I have already made plans for Sunday."
+ },
+ {
+  "en": "The meeting has been moved to Thursday afternoon.",
+  "tamil": "மீட்டிங்கை வியாழன் மதியத்துக்கு மாத்திட்டாங்க.",
+  "context": "Informing your team about a new meeting day.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has been moved' is passive. It tells the result without saying who moved it.",
+  "words": [
+   "moved"
+  ],
+  "usage": "Use it at work to tell people about a changed schedule.",
+  "leelaQ": "How do you inform your team about a changed meeting?",
+  "answer": "I send a short message with the new day and time."
+ },
+ {
+  "en": "I'll check my calendar and let you know.",
+  "tamil": "என் calendar பார்த்துட்டு சொல்றேன்.",
+  "context": "Replying to an invitation when you are not sure.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Let you know' means to tell you later. It is a safe way to delay a reply.",
+  "words": [
+   "calendar"
+  ],
+  "usage": "Use it when you cannot say yes or no immediately.",
+  "leelaQ": "What do you say when you are not sure about a plan?",
+  "answer": "I say I will check my calendar and tell them later."
+ },
+ {
+  "en": "We went to a movie last Friday and had dinner outside.",
+  "tamil": "போன வெள்ளிக்கிழமை படத்துக்குப் போய் வெளியில சாப்பிட்டோம்.",
+  "context": "Telling a friend about your last weekend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Went' and 'had' are past forms. 'Last Friday' shows when it happened.",
+  "words": [
+   "dinner"
+  ],
+  "usage": "Use it to share your weekend activities with friends at work.",
+  "leelaQ": "What did you do last Friday?",
+  "answer": "I watched a movie and ate dinner with my friends."
+ },
+ {
+  "en": "My parents are coming to stay with us next week.",
+  "tamil": "அடுத்த வாரம் அம்மா அப்பா எங்க கூட தங்க வராங்க.",
+  "context": "Telling a friend about family guests.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with 'next week' shows a fixed arrangement.",
+  "words": [
+   "stay"
+  ],
+  "usage": "Use it to explain why you will be busy or away from other plans.",
+  "leelaQ": "Who is coming to your house next week?",
+  "answer": "My uncle and aunt are coming to our house."
+ },
+ {
+  "en": "I would love to come, but I have an exam on Monday.",
+  "tamil": "வர ரொம்ப ஆசைதான், ஆனா திங்கட்கிழமை பரீட்சை இருக்கு.",
+  "context": "A student declining an outing.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Would love to' is warm. 'But' then gives the reason for saying no.",
+  "words": [
+   "exam"
+  ],
+  "usage": "Use it to decline kindly while giving a clear reason.",
+  "leelaQ": "How do you refuse an invitation kindly?",
+  "answer": "I say I would love to come but I have other work."
+ },
+ {
+  "en": "We will celebrate her birthday on the terrace.",
+  "tamil": "அவ பிறந்தநாளை மொட்டை மாடியில கொண்டாடுவோம்.",
+  "context": "Planning a birthday surprise with family.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will celebrate' states a plan. 'On the terrace' says where.",
+  "words": [
+   "celebrate"
+  ],
+  "usage": "Use it when you plan a family celebration with others.",
+  "leelaQ": "How will you celebrate your next birthday?",
+  "answer": "I will celebrate it with cake and my close friends."
+ },
+ {
+  "en": "I usually go to the temple on Sunday mornings.",
+  "tamil": "நான் பொதுவா ஞாயிற்றுக்கிழமை காலையில கோயிலுக்குப் போவேன்.",
+  "context": "Describing your weekly routine to a new friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Usually' goes before the main verb to show a regular habit.",
+  "words": [
+   "usually"
+  ],
+  "usage": "Use it to explain your weekend habits to someone new.",
+  "leelaQ": "What do you usually do on Sunday morning?",
+  "answer": "I usually clean the house and then go to the temple."
+ },
+ {
+  "en": "The train leaves at ten, so we should reach the station early.",
+  "tamil": "ரயில் பத்து மணிக்குக் கிளம்பும், அதனால சீக்கிரமே ஸ்டேஷனுக்குப் போகணும்.",
+  "context": "Planning a train trip with your family.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'So' joins a reason with a result. 'Should' gives advice.",
+  "words": [
+   "station"
+  ],
+  "usage": "Use it when you plan travel timing with family or friends.",
+  "leelaQ": "How early do you reach the station for a train?",
+  "answer": "I reach the station about thirty minutes early."
+ },
+ {
+  "en": "Our family trip to Ooty is confirmed for December.",
+  "tamil": "டிசம்பர்ல ஊட்டிக்கு எங்க குடும்ப டிரிப் உறுதியாயிடுச்சு.",
+  "context": "Sharing a confirmed holiday plan.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Is confirmed' means the plan is final and sure.",
+  "words": [
+   "confirmed"
+  ],
+  "usage": "Use it to tell friends that a holiday plan is now final.",
+  "leelaQ": "Which place do you want to visit on a holiday?",
+  "answer": "I want to visit the hills with my family."
+ },
+ {
+  "en": "I'm free after five, so we can talk then.",
+  "tamil": "ஐந்து மணிக்கு மேல ஃப்ரீ தான், அப்போ பேசலாம்.",
+  "context": "Suggesting a time to a colleague.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Free' here means not busy. 'So' links the time with the suggestion.",
+  "words": [
+   "free"
+  ],
+  "usage": "Use it to offer a time when someone wants to discuss something.",
+  "leelaQ": "When are you free to talk in the evening?",
+  "answer": "I am free after seven when I come home."
+ },
+ {
+  "en": "We have booked the tickets for the 15th.",
+  "tamil": "பதினைந்தாம் தேதிக்கு டிக்கெட் புக் பண்ணிட்டோம்.",
+  "context": "Telling relatives that travel is booked.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have booked' shows a finished action that matters now.",
+  "words": [
+   "booked"
+  ],
+  "usage": "Use it to tell family that the travel tickets are ready.",
+  "leelaQ": "Have you ever booked tickets for a family trip?",
+  "answer": "Yes, I booked train tickets for our trip to Chennai."
+ },
+ {
+  "en": "I am going to start going to the gym from next Monday.",
+  "tamil": "அடுத்த திங்கட்கிழமையிலிருந்து ஜிம்முக்குப் போகப் போறேன்.",
+  "context": "Sharing a new routine plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'From next Monday' tells the starting point of a new plan.",
+  "words": [
+   "gym"
+  ],
+  "usage": "Use it when you tell friends about a new habit you plan to start.",
+  "leelaQ": "What new habit do you want to start?",
+  "answer": "I want to start walking every morning from Monday."
+ },
+ {
+  "en": "We will have a long weekend because of the holiday.",
+  "tamil": "விடுமுறை வர்றதால நமக்கு நீண்ட வார இறுதி கிடைக்கும்.",
+  "context": "Talking about a coming holiday at office.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Because of' is followed by a noun. 'Long weekend' means three or more days off.",
+  "words": [
+   "holiday"
+  ],
+  "usage": "Use it at work when a holiday joins the weekend.",
+  "leelaQ": "What do you do on a long weekend?",
+  "answer": "I go to my hometown and meet my relatives."
+ },
+ {
+  "en": "She has invited the whole family for lunch on Sunday.",
+  "tamil": "ஞாயிற்றுக்கிழமை மதிய சாப்பாட்டுக்கு அவ முழு குடும்பத்தையும் கூப்பிட்டிருக்கா.",
+  "context": "Telling your mother about an invitation.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has invited' shows an invitation that is still open.",
+  "words": [
+   "invited"
+  ],
+  "usage": "Use it to pass on an invitation to someone in your family.",
+  "leelaQ": "Who invited you to a function recently?",
+  "answer": "My neighbour invited us to her housewarming."
+ },
+ {
+  "en": "I will call you once I reach home.",
+  "tamil": "வீட்டுக்குப் போனவுடனே உங்களுக்கு போன் பண்றேன்.",
+  "context": "Promising to call after reaching home.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Once' means as soon as. The time part uses the present tense, not 'will'.",
+  "words": [
+   "once"
+  ],
+  "usage": "Use it when you promise to contact a friend later.",
+  "leelaQ": "What do you tell your family when you travel alone?",
+  "answer": "I tell them I will call once I reach safely."
+ },
+ {
+  "en": "Our school reunion is on the last Saturday of this month.",
+  "tamil": "எங்க பள்ளி நண்பர்கள் சந்திப்பு இந்த மாசம் கடைசி சனிக்கிழமை.",
+  "context": "Talking about a reunion date.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Present simple is used for fixed events on a calendar.",
+  "words": [
+   "reunion"
+  ],
+  "usage": "Use it to tell people the date of a scheduled event.",
+  "leelaQ": "Do you meet your old school friends often?",
+  "answer": "Yes, we meet once a year at a reunion."
+ },
+ {
+  "en": "We were planning to go out, but it started raining.",
+  "tamil": "வெளியில போக பிளான் பண்ணிட்டு இருந்தோம், ஆனா மழை பெய்ய ஆரம்பிச்சுது.",
+  "context": "Explaining why a plan failed.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Were planning to' shows a plan that did not happen. 'But' shows the problem.",
+  "words": [
+   "raining"
+  ],
+  "usage": "Use it to explain why you cancelled an outing.",
+  "leelaQ": "What do you do when rain spoils your plan?",
+  "answer": "I stay at home and watch a movie with my family."
+ },
+ {
+  "en": "Let me know if you can make it on Friday.",
+  "tamil": "வெள்ளிக்கிழமை வர முடியுமான்னு சொல்லுங்க.",
+  "context": "Asking a friend to confirm attendance.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Make it' means to be able to attend. 'Let me know' is a friendly request.",
+  "words": [
+   "make it"
+  ],
+  "usage": "Use it after you invite someone and need their reply.",
+  "leelaQ": "How do you ask a friend to confirm a plan?",
+  "answer": "I send a message and ask them to let me know."
+ }
+]

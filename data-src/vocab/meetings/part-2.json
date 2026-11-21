@@ -1,0 +1,744 @@
+[
+ {
+  "word": "elaborate",
+  "tamil": "விரிவாக விளக்கு",
+  "pos": "verb",
+  "pron": "ih-LAB-uh-rayt",
+  "example": "Can you elaborate on the second point, please?",
+  "exampleTamil": "இரண்டாவது கருத்தை விரிவாக விளக்க முடியுமா?",
+  "synonyms": [
+   "expand",
+   "detail",
+   "explain further"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rephrase",
+  "tamil": "வேறு விதமாகச் சொல்",
+  "pos": "verb",
+  "pron": "ree-FRAYZ",
+  "example": "Let me rephrase my question so it is clearer.",
+  "exampleTamil": "என் கேள்வி தெளிவாக இருக்க வேறு விதமாகச் சொல்கிறேன்.",
+  "synonyms": [
+   "reword",
+   "put differently",
+   "restate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "summarize",
+  "tamil": "சுருக்கமாகச் சொல்",
+  "pos": "verb",
+  "pron": "SUM-uh-ryz",
+  "example": "Please summarize the main points before we leave.",
+  "exampleTamil": "கிளம்பும் முன் முக்கிய அம்சங்களைச் சுருக்கமாகச் சொல்லுங்கள்.",
+  "synonyms": [
+   "sum up",
+   "recap",
+   "condense"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "paraphrase",
+  "tamil": "தன் வார்த்தையில் மாற்றிச் சொல்",
+  "pos": "verb",
+  "pron": "PAR-uh-frayz",
+  "example": "Let me paraphrase what you said to confirm.",
+  "exampleTamil": "நீங்கள் சொன்னதை என் வார்த்தைகளில் சொல்லி உறுதி செய்கிறேன்.",
+  "synonyms": [
+   "reword",
+   "restate",
+   "put in other words"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reiterate",
+  "tamil": "மீண்டும் வலியுறுத்து",
+  "pos": "verb",
+  "pron": "ree-IT-uh-rayt",
+  "example": "I want to reiterate that the deadline cannot move.",
+  "exampleTamil": "கெடு தேதி மாறாது என்பதை மீண்டும் வலியுறுத்துகிறேன்.",
+  "synonyms": [
+   "repeat",
+   "restate",
+   "stress again"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "emphasize",
+  "tamil": "வலியுறுத்து",
+  "pos": "verb",
+  "pron": "EM-fuh-syz",
+  "example": "The manager emphasized the importance of testing.",
+  "exampleTamil": "சோதனையின் முக்கியத்துவத்தை மேலாளர் வலியுறுத்தினார்.",
+  "synonyms": [
+   "stress",
+   "underline",
+   "highlight"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "highlight",
+  "tamil": "முக்கியப்படுத்திக் காட்டு",
+  "pos": "verb",
+  "pron": "HY-lyt",
+  "example": "I would like to highlight two key risks today.",
+  "exampleTamil": "இன்று இரண்டு முக்கிய ஆபத்துகளை எடுத்துக்காட்ட விரும்புகிறேன்.",
+  "synonyms": [
+   "spotlight",
+   "point out",
+   "stress"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "outline",
+  "tamil": "சுருக்கமாக வரையறுத்துக் கூறு",
+  "pos": "verb",
+  "pron": "OWT-lyn",
+  "example": "She outlined the plan in five simple steps.",
+  "exampleTamil": "அவர் திட்டத்தை ஐந்து எளிய படிகளில் சுருக்கமாகக் கூறினார்.",
+  "synonyms": [
+   "sketch",
+   "summarize",
+   "describe briefly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "propose",
+  "tamil": "முன்மொழி",
+  "pos": "verb",
+  "pron": "pruh-POHZ",
+  "example": "I propose that we meet every Monday.",
+  "exampleTamil": "ஒவ்வொரு திங்கட்கிழமையும் சந்திக்கலாம் என்று முன்மொழிகிறேன்.",
+  "synonyms": [
+   "put forward",
+   "suggest",
+   "submit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "proposal",
+  "tamil": "முன்மொழிவு",
+  "pos": "noun",
+  "pron": "pruh-POH-zul",
+  "example": "The team accepted our proposal after a short discussion.",
+  "exampleTamil": "சிறு விவாதத்திற்குப் பிறகு குழு எங்கள் முன்மொழிவை ஏற்றுக்கொண்டது.",
+  "synonyms": [
+   "plan",
+   "offer",
+   "suggestion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "suggest",
+  "tamil": "யோசனை சொல்",
+  "pos": "verb",
+  "pron": "suh-JEST",
+  "example": "I suggest we take a short break now.",
+  "exampleTamil": "இப்போது சிறிது இடைவேளை எடுக்கலாம் என்று யோசனை சொல்கிறேன்.",
+  "synonyms": [
+   "propose",
+   "advise",
+   "put forward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "suggestion",
+  "tamil": "யோசனை",
+  "pos": "noun",
+  "pron": "suh-JES-chun",
+  "example": "Does anyone have a suggestion for the new logo?",
+  "exampleTamil": "புதிய லோகோவுக்கு யாரிடமாவது யோசனை இருக்கிறதா?",
+  "synonyms": [
+   "idea",
+   "proposal",
+   "tip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "recommend",
+  "tamil": "பரிந்துரைசெய்",
+  "pos": "verb",
+  "pron": "rek-uh-MEND",
+  "example": "I recommend that we postpone the release by a week.",
+  "exampleTamil": "வெளியீட்டை ஒரு வாரம் ஒத்திவைக்கப் பரிந்துரைக்கிறேன்.",
+  "synonyms": [
+   "advise",
+   "endorse",
+   "advocate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recommendation",
+  "tamil": "பரிந்துரை",
+  "pos": "noun",
+  "pron": "rek-uh-men-DAY-shun",
+  "example": "Our recommendation is to hire two more testers.",
+  "exampleTamil": "இன்னும் இரண்டு சோதனையாளர்களை நியமிக்க வேண்டும் என்பது எங்கள் பரிந்துரை.",
+  "synonyms": [
+   "advice",
+   "suggestion",
+   "proposal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "objection",
+  "tamil": "ஆட்சேபனை",
+  "pos": "noun",
+  "pron": "ub-JEK-shun",
+  "example": "I have no objection to the new schedule.",
+  "exampleTamil": "புதிய அட்டவணைக்கு எனக்கு ஆட்சேபனை இல்லை.",
+  "synonyms": [
+   "complaint",
+   "protest",
+   "disapproval"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "agree",
+  "tamil": "ஒப்புக்கொள்",
+  "pos": "verb",
+  "pron": "uh-GREE",
+  "example": "I completely agree with Priya on this point.",
+  "exampleTamil": "இந்த விஷயத்தில் பிரியாவுடன் நான் முழுமையாக ஒப்புக்கொள்கிறேன்.",
+  "synonyms": [
+   "concur",
+   "accept",
+   "be of the same mind"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "disagree",
+  "tamil": "உடன்படாதே",
+  "pos": "verb",
+  "pron": "dis-uh-GREE",
+  "example": "I respectfully disagree with that estimate.",
+  "exampleTamil": "அந்த மதிப்பீட்டுடன் மரியாதையுடன் நான் உடன்படவில்லை.",
+  "synonyms": [
+   "differ",
+   "dispute",
+   "object"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "concur",
+  "tamil": "ஒத்துக்கொள்",
+  "pos": "verb",
+  "pron": "kun-KER",
+  "example": "We concur with the committee's final recommendation.",
+  "exampleTamil": "குழுவின் இறுதிப் பரிந்துரையுடன் நாங்கள் ஒத்துக்கொள்கிறோம்.",
+  "synonyms": [
+   "agree",
+   "assent",
+   "go along"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dissent",
+  "tamil": "மாற்றுக் கருத்து",
+  "pos": "noun",
+  "pron": "dih-SENT",
+  "example": "There was some dissent among the senior engineers.",
+  "exampleTamil": "மூத்த பொறியாளர்களிடையே சிறிது மாற்றுக் கருத்து இருந்தது.",
+  "synonyms": [
+   "disagreement",
+   "objection",
+   "opposition"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "oppose",
+  "tamil": "எதிர்",
+  "pos": "verb",
+  "pron": "uh-POHZ",
+  "example": "Several members opposed the move to a new vendor.",
+  "exampleTamil": "புதிய விற்பனையாளருக்கு மாறுவதைப் பல உறுப்பினர்கள் எதிர்த்தனர்.",
+  "synonyms": [
+   "resist",
+   "object to",
+   "be against"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "endorse",
+  "tamil": "ஆதரித்து ஒப்புதல் அளி",
+  "pos": "verb",
+  "pron": "en-DORS",
+  "example": "The board endorsed the plan unanimously.",
+  "exampleTamil": "வாரியம் அந்தத் திட்டத்தை ஒருமனதாக ஆதரித்து ஒப்புதல் அளித்தது.",
+  "synonyms": [
+   "back",
+   "approve",
+   "support"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "support",
+  "tamil": "ஆதரி",
+  "pos": "verb",
+  "pron": "suh-PORT",
+  "example": "Our director supports the idea of remote work.",
+  "exampleTamil": "எங்கள் இயக்குநர் வீட்டிலிருந்து வேலை செய்யும் யோசனையை ஆதரிக்கிறார்.",
+  "synonyms": [
+   "back",
+   "back up",
+   "favour"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "approve",
+  "tamil": "ஒப்புதல் அளி",
+  "pos": "verb",
+  "pron": "uh-PROOV",
+  "example": "The manager approved the leave request quickly.",
+  "exampleTamil": "மேலாளர் விடுப்புக் கோரிக்கைக்கு விரைவாக ஒப்புதல் அளித்தார்.",
+  "synonyms": [
+   "authorize",
+   "accept",
+   "okay"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "approval",
+  "tamil": "ஒப்புதல்",
+  "pos": "noun",
+  "pron": "uh-PROO-vul",
+  "example": "We need your approval before we start.",
+  "exampleTamil": "தொடங்குவதற்கு முன் உங்கள் ஒப்புதல் தேவை.",
+  "synonyms": [
+   "consent",
+   "permission",
+   "go-ahead"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "reject",
+  "tamil": "நிராகரி",
+  "pos": "verb",
+  "pron": "rih-JEKT",
+  "example": "The committee rejected the first draft of the plan.",
+  "exampleTamil": "குழு திட்டத்தின் முதல் வரைவை நிராகரித்தது.",
+  "synonyms": [
+   "turn down",
+   "refuse",
+   "dismiss"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "decline",
+  "tamil": "பணிவுடன் மறு",
+  "pos": "verb",
+  "pron": "dih-KLYN",
+  "example": "She politely declined the invitation to the offsite.",
+  "exampleTamil": "அவர் வெளியிடக் கூட்ட அழைப்பைப் பணிவுடன் மறுத்தார்.",
+  "synonyms": [
+   "refuse",
+   "turn down",
+   "say no"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "defer",
+  "tamil": "தள்ளி வை",
+  "pos": "verb",
+  "pron": "dih-FER",
+  "example": "Let's defer this topic until next week's meeting.",
+  "exampleTamil": "இந்தத் தலைப்பை அடுத்த வாரக் கூட்டம் வரை தள்ளி வைப்போம்.",
+  "synonyms": [
+   "delay",
+   "put off",
+   "postpone"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "postpone",
+  "tamil": "ஒத்திவை",
+  "pos": "verb",
+  "pron": "poh-SPOHN",
+  "example": "They postponed the review because the lead was ill.",
+  "exampleTamil": "தலைவர் உடல்நலமின்றி இருந்ததால் மதிப்பாய்வை ஒத்திவைத்தனர்.",
+  "synonyms": [
+   "delay",
+   "put off",
+   "reschedule"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "finalize",
+  "tamil": "இறுதி செய்",
+  "pos": "verb",
+  "pron": "FY-nuh-lyz",
+  "example": "We will finalize the budget by Friday.",
+  "exampleTamil": "வெள்ளிக்கிழமைக்குள் பட்ஜெட்டை இறுதி செய்வோம்.",
+  "synonyms": [
+   "complete",
+   "settle",
+   "wrap up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ratify",
+  "tamil": "முறையாக உறுதிசெய்",
+  "pos": "verb",
+  "pron": "RAT-uh-fy",
+  "example": "The board must ratify the agreement before it takes effect.",
+  "exampleTamil": "ஒப்பந்தம் அமலுக்கு வர வாரியம் அதை முறையாக உறுதிசெய்ய வேண்டும்.",
+  "synonyms": [
+   "confirm",
+   "approve",
+   "formalize"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "authorize",
+  "tamil": "அதிகாரம் அளி",
+  "pos": "verb",
+  "pron": "AW-thuh-ryz",
+  "example": "Only the director can authorize this purchase.",
+  "exampleTamil": "இந்தக் கொள்முதலுக்கு இயக்குநர் மட்டுமே அதிகாரம் அளிக்க முடியும்.",
+  "synonyms": [
+   "permit",
+   "sanction",
+   "approve"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mandate",
+  "tamil": "அதிகாரப்பூர்வ கட்டளை",
+  "pos": "noun",
+  "pron": "MAN-dayt",
+  "example": "The committee has a clear mandate to cut costs.",
+  "exampleTamil": "செலவுகளைக் குறைக்க குழுவுக்குத் தெளிவான அதிகாரம் உள்ளது.",
+  "synonyms": [
+   "authority",
+   "order",
+   "commission"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "concise",
+  "tamil": "சுருக்கமான",
+  "pos": "adjective",
+  "pron": "kun-SYS",
+  "example": "Please keep your update short and concise.",
+  "exampleTamil": "உங்கள் அறிக்கையைச் சுருக்கமாகவும் தெளிவாகவும் வையுங்கள்.",
+  "synonyms": [
+   "brief",
+   "short",
+   "to the point"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "relevant",
+  "tamil": "தொடர்புடைய",
+  "pos": "adjective",
+  "pron": "REL-uh-vunt",
+  "example": "Only share information that is relevant to this project.",
+  "exampleTamil": "இந்தத் திட்டத்துடன் தொடர்புடைய தகவலை மட்டும் பகிருங்கள்.",
+  "synonyms": [
+   "related",
+   "pertinent",
+   "applicable"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tentative",
+  "tamil": "தற்காலிகமான",
+  "pos": "adjective",
+  "pron": "TEN-tuh-tiv",
+  "example": "We have a tentative plan to launch in March.",
+  "exampleTamil": "மார்ச்சில் அறிமுகப்படுத்த எங்களிடம் தற்காலிகத் திட்டம் உள்ளது.",
+  "synonyms": [
+   "provisional",
+   "unconfirmed",
+   "preliminary"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "briefly",
+  "tamil": "சுருக்கமாக",
+  "pos": "adverb",
+  "pron": "BREEF-lee",
+  "example": "Let me briefly explain how the process works.",
+  "exampleTamil": "செயல்முறை எப்படி வேலை செய்கிறது என்பதைச் சுருக்கமாக விளக்குகிறேன்.",
+  "synonyms": [
+   "in short",
+   "concisely",
+   "quickly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "brief",
+  "tamil": "சுருக்கமான",
+  "pos": "adjective",
+  "pron": "BREEF",
+  "example": "Keep your comments brief so everyone can speak.",
+  "exampleTamil": "எல்லோரும் பேசும்படி உங்கள் கருத்துகளைச் சுருக்கமாக வையுங்கள்.",
+  "synonyms": [
+   "short",
+   "concise",
+   "quick"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lengthy",
+  "tamil": "நீண்ட",
+  "pos": "adjective",
+  "pron": "LENG-thee",
+  "example": "The lengthy discussion made us late for lunch.",
+  "exampleTamil": "நீண்ட விவாதத்தால் மதிய உணவுக்கு நாங்கள் தாமதமானோம்.",
+  "synonyms": [
+   "long",
+   "drawn-out",
+   "wordy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thorough",
+  "tamil": "முழுமையான",
+  "pos": "adjective",
+  "pron": "THUR-oh",
+  "example": "She gave a thorough review of the test results.",
+  "exampleTamil": "அவர் சோதனை முடிவுகளை முழுமையாக ஆய்வு செய்து கூறினார்.",
+  "synonyms": [
+   "complete",
+   "detailed",
+   "in-depth"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vague",
+  "tamil": "தெளிவற்ற",
+  "pos": "adjective",
+  "pron": "VAYG",
+  "example": "His answer was vague, so I asked a follow-up.",
+  "exampleTamil": "அவர் பதில் தெளிவற்றதாக இருந்ததால் மேலும் கேட்டேன்.",
+  "synonyms": [
+   "unclear",
+   "fuzzy",
+   "imprecise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "specific",
+  "tamil": "குறிப்பிட்ட",
+  "pos": "adjective",
+  "pron": "spuh-SIF-ik",
+  "example": "Can you give a specific example of the problem?",
+  "exampleTamil": "பிரச்சினைக்கு ஒரு குறிப்பிட்ட எடுத்துக்காட்டு தர முடியுமா?",
+  "synonyms": [
+   "particular",
+   "exact",
+   "definite"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "precise",
+  "tamil": "துல்லியமான",
+  "pos": "adjective",
+  "pron": "prih-SYS",
+  "example": "We need a precise number for the report.",
+  "exampleTamil": "அறிக்கைக்கு எங்களுக்குத் துல்லியமான எண் தேவை.",
+  "synonyms": [
+   "exact",
+   "accurate",
+   "specific"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ambiguous",
+  "tamil": "இருபொருள் தரும்",
+  "pos": "adjective",
+  "pron": "am-BIG-yoo-us",
+  "example": "The wording of the clause is ambiguous.",
+  "exampleTamil": "அந்த விதியின் வார்த்தையமைப்பு இருபொருள் தருகிறது.",
+  "synonyms": [
+   "unclear",
+   "open to interpretation",
+   "vague"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "constructive",
+  "tamil": "ஆக்கபூர்வமான",
+  "pos": "adjective",
+  "pron": "kun-STRUK-tiv",
+  "example": "Thank you for such constructive feedback.",
+  "exampleTamil": "இவ்வளவு ஆக்கபூர்வமான கருத்துக்கு நன்றி.",
+  "synonyms": [
+   "helpful",
+   "positive",
+   "useful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "productive",
+  "tamil": "பயனுள்ள",
+  "pos": "adjective",
+  "pron": "pruh-DUK-tiv",
+  "example": "That was a very productive meeting for everyone.",
+  "exampleTamil": "அது எல்லோருக்கும் மிகப் பயனுள்ள கூட்டமாக இருந்தது.",
+  "synonyms": [
+   "useful",
+   "fruitful",
+   "worthwhile"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "efficient",
+  "tamil": "திறமையான",
+  "pos": "adjective",
+  "pron": "ih-FISH-unt",
+  "example": "A short stand-up is an efficient way to share news.",
+  "exampleTamil": "குறுகிய ஸ்டாண்ட்-அப் செய்திகளைப் பகிர திறமையான வழி.",
+  "synonyms": [
+   "effective",
+   "well-organized",
+   "streamlined"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "effective",
+  "tamil": "பயனுள்ள",
+  "pos": "adjective",
+  "pron": "ih-FEK-tiv",
+  "example": "An effective chair keeps the discussion on track.",
+  "exampleTamil": "திறமையான தலைவர் விவாதத்தைச் சரியான பாதையில் வைத்திருப்பார்.",
+  "synonyms": [
+   "successful",
+   "useful",
+   "capable"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tangent",
+  "tamil": "தலைப்பை விட்டு விலகிய பேச்சு",
+  "pos": "noun",
+  "pron": "TAN-junt",
+  "example": "He went off on a tangent about old projects.",
+  "exampleTamil": "அவர் பழைய திட்டங்களைப் பற்றி தலைப்பை விட்டு விலகிப் பேசினார்.",
+  "synonyms": [
+   "digression",
+   "side topic",
+   "aside"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "digress",
+  "tamil": "தலைப்பை விட்டு விலகு",
+  "pos": "verb",
+  "pron": "dy-GRES",
+  "example": "Sorry, I digressed; let me return to the budget.",
+  "exampleTamil": "மன்னிக்கவும், விலகிவிட்டேன்; பட்ஜெட்டுக்குத் திரும்புகிறேன்.",
+  "synonyms": [
+   "stray",
+   "wander off",
+   "go off topic"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "interruption",
+  "tamil": "குறுக்கீடு",
+  "pos": "noun",
+  "pron": "in-tuh-RUP-shun",
+  "example": "Constant interruptions made the call hard to follow.",
+  "exampleTamil": "தொடர் குறுக்கீடுகளால் அழைப்பைப் பின்தொடர்வது கடினமாக இருந்தது.",
+  "synonyms": [
+   "disruption",
+   "break",
+   "intrusion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "interject",
+  "tamil": "இடையில் பேசு",
+  "pos": "verb",
+  "pron": "in-ter-JEKT",
+  "example": "May I interject with one quick point?",
+  "exampleTamil": "ஒரு சிறு கருத்தை இடையில் சொல்லலாமா?",
+  "synonyms": [
+   "cut in",
+   "chip in",
+   "interpose"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pertinent",
+  "tamil": "பொருத்தமான",
+  "pos": "adjective",
+  "pron": "PER-tuh-nunt",
+  "example": "That is a pertinent question for this stage.",
+  "exampleTamil": "இந்தக் கட்டத்துக்கு அது பொருத்தமான கேள்வி.",
+  "synonyms": [
+   "relevant",
+   "applicable",
+   "fitting"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "irrelevant",
+  "tamil": "தொடர்பற்ற",
+  "pos": "adjective",
+  "pron": "ih-REL-uh-vunt",
+  "example": "Those details are irrelevant to today's decision.",
+  "exampleTamil": "அந்த விவரங்கள் இன்றைய முடிவுக்குத் தொடர்பற்றவை.",
+  "synonyms": [
+   "unrelated",
+   "beside the point",
+   "immaterial"
+  ],
+  "level": "intermediate"
+ }
+]

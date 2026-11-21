@@ -1,0 +1,335 @@
+[
+ {
+  "category": "advanced",
+  "context": "Politely declining an invitation",
+  "level": "advanced",
+  "en": "We're having a get-together on Saturday. You'll come, won't you?",
+  "tamil": "சனிக்கிழமை ஒரு சின்ன கெட்-டுகெதர் வச்சிருக்கோம். நீங்க வருவீங்க இல்லையா?",
+  "reply": "I'd love to, but I'm afraid I've already committed to something. Can I take a rain check?",
+  "replyTamil": "வர ஆசைதான், ஆனா வேற ஒரு வேலைக்கு ஏற்கனவே ஒத்துக்கிட்டுட்டேன். அடுத்த தடவை வரலாமா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Turning down extra work diplomatically",
+  "level": "advanced",
+  "en": "Could you also take over the vendor calls this month? Everyone else is tied up.",
+  "tamil": "இந்த மாசம் வெண்டர் கால்ஸையும் நீங்க எடுத்துக்க முடியுமா? மத்தவங்க எல்லாரும் வேலையில மாட்டியிருக்காங்க.",
+  "reply": "I'd like to help, but my plate is already full. Could we look at moving something off it first?",
+  "replyTamil": "உதவணும்னு ஆசைதான், ஆனா என் வேலை ஏற்கனவே நிறைய இருக்கு. முதல்ல ஏதாவது ஒண்ணை எடுத்துட்டு பாக்கலாமா?"
+ },
+ {
+  "context": "Declining a loan request from a friend",
+  "level": "advanced",
+  "en": "I'm a bit short this month. Is there any chance you could lend me fifty thousand?",
+  "tamil": "இந்த மாசம் கொஞ்சம் பணத்தட்டுப்பாடா இருக்கு. ஐம்பதாயிரம் கடனா குடுக்க வாய்ப்பிருக்கா?",
+  "reply": "I'd like to help, but I keep money and friendship separate. Maybe I can help you find a better option?",
+  "replyTamil": "உதவணும்னு ஆசைதான், ஆனா பணத்தையும் நட்பையும் நான் தனித்தனியா வச்சுக்கிறேன். வேற நல்ல வழி கண்டுபிடிக்க உதவலாமா?",
+  "category": "advanced"
+ },
+ {
+  "category": "advanced",
+  "context": "Disagreeing diplomatically in a meeting",
+  "level": "advanced",
+  "en": "I think we should scrap the old module entirely and rebuild it from scratch.",
+  "tamil": "பழைய மாட்யூலை முழுசா தூக்கிட்டு, முதல்ல இருந்து திரும்ப உருவாக்கணும்னு நான் நினைக்கிறேன்.",
+  "reply": "I see where you're coming from, though I wonder if a full rebuild is overkill. Could we refactor the worst parts first?",
+  "replyTamil": "நீங்க சொல்றது புரியுது, ஆனா முழு மறுகட்டமைப்பு அதிகமோனு தோணுது. முதல்ல மோசமான பகுதிகளை மட்டும் மாத்தலாமா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Softening a complaint about noise",
+  "level": "advanced",
+  "en": "Sorry, were we being too loud? We didn't realise the walls were so thin.",
+  "tamil": "மன்னிக்கணும், நாங்க ரொம்பச் சத்தமா இருந்தோமா? சுவர்கள் இவ்வளவு மெல்லிசுனு எங்களுக்குத் தெரியலை.",
+  "reply": "No harm done. It's just that I have an early shift, so I'd appreciate it if you kept it down after ten.",
+  "replyTamil": "பரவாயில்லை. எனக்கு அதிகாலை ஷிஃப்ட் இருக்கு, அதனால பத்து மணிக்கு அப்புறம் சத்தத்தைக் குறைச்சா நல்லா இருக்கும்."
+ },
+ {
+  "category": "advanced",
+  "context": "Raising a concern about a plan",
+  "level": "advanced",
+  "en": "We'll launch on Friday evening so the users see it first thing Monday.",
+  "tamil": "வெள்ளிக்கிழமை மாலை லான்ச் பண்ணலாம், அப்பதான் திங்கள் காலைல பயனர்கள் முதல்ல பாப்பாங்க.",
+  "reply": "That's a thought, but I do have some reservations. If something breaks, nobody will be around over the weekend.",
+  "replyTamil": "அது ஒரு யோசனைதான், ஆனா எனக்குச் சில தயக்கங்கள் இருக்கு. ஏதாவது உடைஞ்சா, வார இறுதில யாரும் இருக்க மாட்டாங்க."
+ },
+ {
+  "category": "advanced",
+  "context": "Partly agreeing with a colleague",
+  "level": "intermediate",
+  "en": "I feel the new logo is much better than the old one. Don't you agree?",
+  "tamil": "பழைய லோகோவை விட புது லோகோ ரொம்ப நல்லா இருக்குனு நினைக்கிறேன். நீங்களும் ஒத்துக்குறீங்களா?",
+  "reply": "I agree to some extent. The colours are great, but the font looks a bit too thin to me.",
+  "replyTamil": "ஓரளவுக்கு ஒத்துக்குறேன். நிறங்கள் அருமை, ஆனா எழுத்துரு எனக்கு கொஞ்சம் மெல்லிசா தெரியுது."
+ },
+ {
+  "category": "advanced",
+  "context": "Challenging an assumption politely",
+  "level": "advanced",
+  "en": "Everyone obviously prefers a dark theme, so let's make it the default.",
+  "tamil": "எல்லாருக்கும் டார்க் தீம்தான் பிடிக்கும், அதனால அதையே இயல்பா வச்சிடலாம்.",
+  "reply": "I'm not sure that's a given, to be honest. Shall we check the usage data before we assume anything?",
+  "replyTamil": "உண்மையைச் சொல்லணும்னா அது நிச்சயம்னு எனக்குத் தோணலை. எதையும் ஊகிக்கிறதுக்கு முன்னாடி பயன்பாட்டுத் தரவைப் பாக்கலாமா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Asking someone to repeat politely",
+  "level": "intermediate",
+  "en": "The pothole near the signal was so bad, our auto nearly flipped over.",
+  "tamil": "சிக்னல் பக்கத்துல இருந்த குழி ரொம்ப மோசம், எங்க ஆட்டோ கிட்டத்தட்ட கவுந்திடுச்சு.",
+  "reply": "Sorry, could you say that again? The line is crackling. Did you say the auto nearly flipped?",
+  "replyTamil": "மன்னிக்கணும், இன்னொரு தடவை சொல்ல முடியுமா? லைன்ல கரகரப்பு இருக்கு. ஆட்டோ கவுந்திடுச்சுனு சொன்னீங்களா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Checking the meaning of a term",
+  "level": "advanced",
+  "en": "The client wants a minimum viable version by Friday, nothing fancy.",
+  "tamil": "வெள்ளிக்குள்ள குறைந்தபட்ச செயல்படக்கூடிய பதிப்பு வேணும்னு கிளையன்ட் கேக்குறாங்க, ஆடம்பரம் எதுவும் வேண்டாம்.",
+  "reply": "When you say minimum viable, do you mean just the login and dashboard, or should it include reports too?",
+  "replyTamil": "குறைந்தபட்சம்னு சொல்லும்போது, லாகின், டாஷ்போர்டு மட்டுமா, இல்லை ரிப்போர்ட்ஸும் சேர்க்கணுமா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Admitting not following an explanation",
+  "level": "advanced",
+  "en": "So the root cause was a race condition in the queue handler, which we've patched.",
+  "tamil": "அப்போ மூல காரணம் குயூ ஹேண்ட்லர்ல இருந்த ரேஸ் கண்டிஷன், அதை நாங்க சரி பண்ணிட்டோம்.",
+  "reply": "I'm afraid you've lost me there. Could you explain the race condition in simpler terms, maybe with an example?",
+  "replyTamil": "மன்னிக்கணும், அங்க எனக்குப் புரியலை. ரேஸ் கண்டிஷனை எளிமையா, ஒரு உதாரணத்தோட விளக்க முடியுமா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Clarifying who is responsible",
+  "level": "advanced",
+  "en": "Someone needs to follow up with the supplier about the late shipment.",
+  "tamil": "தாமதமான சரக்கைப் பத்தி சப்ளையர்கிட்ட யாராவது தொடர்ந்து கேக்கணும்.",
+  "reply": "Just so we're clear, who exactly is that someone? I don't want it to fall between the cracks.",
+  "replyTamil": "தெளிவா இருக்கணும்னு கேக்குறேன், அந்த யாரோ ஒருத்தர் யாரு? இது யார் கவனத்துலயும் படாம போயிடக்கூடாது."
+ },
+ {
+  "category": "advanced",
+  "context": "Confirming a vague deadline",
+  "level": "advanced",
+  "en": "Please send me the draft as soon as possible, but there's no rush.",
+  "tamil": "டிராஃப்டை முடிஞ்ச சீக்கிரம் அனுப்புங்க, ஆனா அவசரம் இல்லை.",
+  "reply": "That's a bit contradictory, isn't it? Would end of day tomorrow work, or do you need it sooner?",
+  "replyTamil": "இது கொஞ்சம் முரணா இருக்கே இல்லையா? நாளைக்கு மாலைக்குள்ள சரியா இருக்குமா, இல்லை சீக்கிரமே வேணுமா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about being on the same page",
+  "level": "intermediate",
+  "en": "Before the call, let's make sure we're all on the same page about the pricing.",
+  "tamil": "கால் தொடங்குறதுக்கு முன்னாடி, விலை நிர்ணயத்தைப் பத்தி எல்லாரும் ஒரே புரிதல்ல இருக்கோம்னு உறுதி பண்ணிக்கலாம்.",
+  "reply": "Good call. I'll share the sheet now, so we can iron out any mismatches before the client joins.",
+  "replyTamil": "நல்ல யோசனை. இப்பவே ஷீட்டை பகிர்றேன், கிளையன்ட் சேருறதுக்கு முன்னாடி வித்தியாசங்களைச் சரி பண்ணிடலாம்."
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about a lucky break",
+  "level": "advanced",
+  "en": "I got the interview call out of the blue after I'd almost given up hope.",
+  "tamil": "நம்பிக்கையையே கிட்டத்தட்ட விட்டுட்ட நேரத்துல, திடீர்னு இன்டர்வியூ கால் வந்துச்சு.",
+  "reply": "Wow, talk about good timing! Things have a way of working out when you least expect it.",
+  "replyTamil": "வாவ், என்ன ஒரு நல்ல நேரம்! எதிர்பாக்காத நேரத்துலதான் விஷயங்கள் சரியாகுது."
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about a hidden problem",
+  "level": "advanced",
+  "en": "The demo looked great, but I suspect it's only the tip of the iceberg.",
+  "tamil": "டெமோ நல்லா இருந்துச்சு, ஆனா இது பெரிய பிரச்சனையோட மேல்நுனி மட்டும்தான்னு எனக்குச் சந்தேகம்.",
+  "reply": "I'd say the same. We shouldn't count our chickens until the load tests are done.",
+  "replyTamil": "நானும் அப்படித்தான் நினைக்கிறேன். லோடு டெஸ்ட் முடியுற வரைக்கும் வெற்றியை எதிர்பார்த்துக் கொண்டாடக்கூடாது."
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about taking a risk",
+  "level": "advanced",
+  "en": "Should I invest all my savings in my friend's startup? I keep going back and forth.",
+  "tamil": "என் சேமிப்பு முழுசையும் நண்பனோட ஸ்டார்ட்அப்ல போடலாமா? நான் தொடர்ந்து தயங்கிட்டே இருக்கேன்.",
+  "reply": "I'd think twice before putting all your eggs in one basket. Maybe start with a small amount.",
+  "replyTamil": "எல்லா முட்டையையும் ஒரே கூடையில வைக்குறதுக்கு முன்னாடி நல்லா யோசிப்பேன். சின்ன தொகையில தொடங்கலாம்."
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about dodging a question",
+  "level": "advanced",
+  "en": "Whenever I ask about the promotion, my manager just changes the subject.",
+  "tamil": "நான் பதவி உயர்வைப் பத்தி கேக்கும்போதெல்லாம், என் மேனேஜர் பேச்சையே மாத்திடுறார்.",
+  "reply": "That's frustrating. Maybe you should pin him down and ask for a clear timeline in writing.",
+  "replyTamil": "இது எரிச்சலா இருக்கும். அவரைக் கேள்வியில மடக்கி, தெளிவான காலக்கெடுவை எழுத்துல கேளுங்க."
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about a long wait",
+  "level": "advanced",
+  "en": "The passport office kept us waiting for ages, and we left empty-handed in the end.",
+  "tamil": "பாஸ்போர்ட் ஆபீஸ்ல ரொம்ப நேரம் காக்க வச்சாங்க, கடைசியில வெறுங்கையோட திரும்பினோம்.",
+  "reply": "Ugh, that's maddening. Government offices really test your patience, don't they?",
+  "replyTamil": "ஐயோ, எரிச்சலா இருக்கே. அரசு அலுவலகங்கள் பொறுமையைச் சோதிக்கும் இல்லையா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about a close call",
+  "level": "intermediate",
+  "en": "I submitted the form at the last minute, literally seconds before the portal closed.",
+  "tamil": "கடைசி நிமிஷத்துல ஃபார்மை சமர்ப்பிச்சேன், போர்ட்டல் மூடுறதுக்கு சில விநாடிகள் முன்னாடிதான்.",
+  "reply": "That was a close shave! Next time, don't leave things till the eleventh hour.",
+  "replyTamil": "அது நூலிழையில தப்பிச்சது! அடுத்த தடவை கடைசி நிமிஷம் வரைக்கும் விடாதீங்க."
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about thinking ahead",
+  "level": "advanced",
+  "en": "Why are you already booking the venue? We haven't even confirmed the date.",
+  "tamil": "தேதியையே இன்னும் உறுதி பண்ணலையே, அதுக்குள்ள ஏன் இடத்தை புக் பண்றீங்க?",
+  "reply": "Better safe than sorry. Good halls get snapped up early, and I didn't want to be caught on the back foot.",
+  "replyTamil": "வருமுன் காப்பது நல்லது. நல்ல ஹால்கள் சீக்கிரமே போயிடும், கடைசியில தவிக்க வேண்டாம்னு பாத்தேன்."
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about a thankless task",
+  "level": "advanced",
+  "en": "I spent two weeks cleaning up the old data, and nobody even said thanks.",
+  "tamil": "ரெண்டு வாரம் பழைய டேட்டாவைச் சுத்தம் பண்ணினேன், யாருமே நன்றி கூடச் சொல்லலை.",
+  "reply": "That's rough. Sometimes the unglamorous work is what keeps the whole thing afloat, and I do appreciate it.",
+  "replyTamil": "அது கஷ்டம்தான். சில நேரம் கண்ணுக்குத் தெரியாத வேலைதான் எல்லாத்தையும் தாங்கி நிக்குது, நான் அதை மதிக்கிறேன்."
+ },
+ {
+  "category": "advanced",
+  "context": "Idiom about a sudden change of plans",
+  "level": "advanced",
+  "en": "The boss has pulled the rug out from under us by cancelling the project.",
+  "tamil": "ப்ராஜெக்ட்டை ரத்து பண்ணி, முதலாளி எங்களை நடுவழியில கைவிட்டுட்டார்.",
+  "reply": "That's a blow after all your effort. Let's not dwell on it, though, and see what we can salvage.",
+  "replyTamil": "அவ்வளவு உழைப்புக்கு அப்புறம் இது பெரிய அடிதான். ஆனா அதையே நினைச்சுட்டு இருக்காம, எதைக் காப்பாத்தலாம்னு பாப்போம்."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about postponing",
+  "level": "advanced",
+  "en": "The review has been put off until next week because the client is travelling.",
+  "tamil": "கிளையன்ட் பயணத்துல இருக்குறதால ரிவ்யூ அடுத்த வாரத்துக்குத் தள்ளி வச்சிருக்காங்க.",
+  "reply": "That works for me, since it gives us time to tidy up the loose ends before they come back.",
+  "replyTamil": "எனக்கு அது சரிதான், அவங்க திரும்பி வர்றதுக்குள்ள மீதமிருக்கிற வேலைகளை முடிக்க நேரம் கிடைக்கும்."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about handling a problem",
+  "level": "advanced",
+  "en": "A lot of complaints have been piling up, and someone has to deal with them soon.",
+  "tamil": "நிறைய புகார்கள் குவிஞ்சிட்டே இருக்கு, யாராவது சீக்கிரம் அவற்றைக் கையாளணும்.",
+  "reply": "I'll look into it first thing tomorrow. If it gets out of hand, I'll loop you in right away.",
+  "replyTamil": "நாளைக் காலைல முதல் வேலையா இதைப் பாக்குறேன். கட்டுப்பாட்டை மீறிப்போனா உடனே உங்களுக்குத் தெரிவிக்கிறேன்."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about relying on someone",
+  "level": "advanced",
+  "en": "You can count on me to back you up when you present to the board.",
+  "tamil": "நீங்க போர்டுக்கு விளக்கும்போது நான் உங்களுக்கு ஆதரவா இருப்பேன்னு நம்பலாம்.",
+  "reply": "That means a lot, thank you. I feel better knowing I won't have to face them on my own.",
+  "replyTamil": "இது எனக்கு ரொம்ப முக்கியம், நன்றி. தனியா அவங்களை எதிர்கொள்ள வேண்டாம்னு தெரிஞ்சதும் நிம்மதியா இருக்கு."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about doing without",
+  "level": "intermediate",
+  "en": "We've run out of milk. Can we get by without filter coffee this morning?",
+  "tamil": "பால் தீர்ந்துடுச்சு. இன்னைக்குக் காலைல ஃபில்டர் காபி இல்லாம சமாளிக்க முடியுமா?",
+  "reply": "I suppose I'll have to make do with plain tea. I'll pop out and grab some milk in a bit.",
+  "replyTamil": "சாதா டீயை வச்சு சமாளிச்சுக்க வேண்டியதுதான். கொஞ்ச நேரத்துல வெளிய போய் பால் வாங்கிட்டு வர்றேன்."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about finding a solution",
+  "level": "advanced",
+  "en": "We're stuck on this bug. Has anyone come up with a workaround yet?",
+  "tamil": "இந்த பக்ல நாம சிக்கிட்டோம். யாராவது இதுக்கு ஒரு தற்காலிக தீர்வு கண்டுபிடிச்சிருக்காங்களா?",
+  "reply": "I've sorted out a rough fix, but it's not pretty. Let me walk you through it, and then we can tidy it up.",
+  "replyTamil": "நான் ஒரு தோராயமான தீர்வைச் செய்திருக்கேன், ஆனா அது அழகா இல்லை. விளக்குறேன், அப்புறம் சுத்தம் பண்ணிடலாம்."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about a growing team",
+  "level": "advanced",
+  "en": "Our team is really shaping up now, especially since the two new hires settled in.",
+  "tamil": "புதுசா சேர்ந்த ரெண்டு பேர் பழகிட்டதுல இருந்து, எங்க டீம் இப்போ நல்லா உருவாகிட்டு வருது.",
+  "reply": "That's great to hear. A bit of patience while people find their feet really does pay off.",
+  "replyTamil": "கேக்க சந்தோஷமா இருக்கு. புது ஆட்கள் தங்களைப் பழக்கிக்கிற வரைக்கும் கொஞ்சம் பொறுமையா இருந்தா நல்ல பலன் கிடைக்கும்."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about reconnecting",
+  "level": "advanced",
+  "en": "We've lost touch over the years, so I'd love to catch up properly someday.",
+  "tamil": "இத்தனை வருஷத்துல தொடர்பு விட்டுப்போச்சு, அதனால ஒரு நாள் நல்லா பேசி சந்திக்கணும்னு ஆசை.",
+  "reply": "Same here. Let's not just say it, let's fix a date. How does the first Sunday of next month look?",
+  "replyTamil": "எனக்கும் அதே ஆசைதான். சொல்லிட்டு மட்டும் இருக்காம ஒரு தேதியை முடிவு பண்ணுவோம். அடுத்த மாசம் முதல் ஞாயிறு எப்படி?"
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about a falling-out",
+  "level": "advanced",
+  "en": "I heard you and Karthik fell out over the rent. Is everything okay now?",
+  "tamil": "வாடகை விஷயத்துல உங்களுக்கும் கார்த்திக்குக்கும் சண்டை வந்துச்சுனு கேள்விப்பட்டேன். இப்போ எல்லாம் சரியாகிடுச்சா?",
+  "reply": "We've patched things up, mostly. It was a misunderstanding that blew up because neither of us wanted to back down.",
+  "replyTamil": "பெரும்பாலும் சமாதானம் ஆகிட்டோம். யாருமே விட்டுக்குடுக்க விரும்பாததால ஒரு தப்பான புரிதல் பெரிசாயிடுச்சு."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about taking responsibility",
+  "level": "intermediate",
+  "en": "Who's going to see this project through once the manager leaves?",
+  "tamil": "மேனேஜர் போன பிறகு இந்த ப்ராஜெக்ட்டை முடிவு வரை யார் கொண்டு போவாங்க?",
+  "reply": "I'm happy to step up. I've been on it from day one, so I know it inside out.",
+  "replyTamil": "நான் பொறுப்பேத்துக்க தயார். முதல் நாள்ல இருந்து இதுல இருக்கேன், அதனால எனக்கு முழுசா தெரியும்."
+ },
+ {
+  "category": "advanced",
+  "context": "Phrasal verb about turning something down",
+  "level": "advanced",
+  "en": "Did the vendor agree to our terms, or did they turn us down flat?",
+  "tamil": "வெண்டர் நம்ம நிபந்தனைகளை ஒத்துக்கிட்டாரா, இல்லை நேரடியா மறுத்துட்டாரா?",
+  "reply": "Neither, really. They've asked for a few days to think it over, so we'll just have to wait and see.",
+  "replyTamil": "ரெண்டுமே இல்லை. யோசிக்க சில நாள் கேட்டிருக்காங்க, அதனால பொறுத்திருந்து பாக்கணும்."
+ },
+ {
+  "category": "advanced",
+  "context": "Emphasising a point strongly",
+  "level": "advanced",
+  "en": "I can't stress this enough: back up your files before you touch the server.",
+  "tamil": "இதை எவ்வளவு சொன்னாலும் போதாது: சர்வரைத் தொடுறதுக்கு முன்னாடி உங்க ஃபைல்களை பேக்அப் எடுங்க.",
+  "reply": "Noted, and I'll do it right now. I still remember the time I lost a whole week's work.",
+  "replyTamil": "புரிஞ்சுது, இப்பவே பண்றேன். ஒரு வாரம் முழுக்க வேலையை இழந்த அந்த நேரம் இன்னும் எனக்கு ஞாபகம் இருக்கு."
+ },
+ {
+  "category": "advanced",
+  "context": "Making a polite complaint at a restaurant",
+  "level": "advanced",
+  "en": "Is everything to your satisfaction with the meal, sir?",
+  "tamil": "சாப்பாடு எல்லாம் உங்களுக்குத் திருப்தியா இருக்கா, சார்?",
+  "reply": "Mostly, yes, but the dosa was a touch cold. Would it be possible to get a fresh one?",
+  "replyTamil": "பெரும்பாலும் ஆமா, ஆனா தோசை கொஞ்சம் ஆறிப்போயிருந்துச்சு. புதுசா ஒண்ணு கிடைக்குமா?"
+ },
+ {
+  "category": "advanced",
+  "context": "Giving a gentle warning",
+  "level": "advanced",
+  "en": "A word of caution: that shortcut floods badly whenever it rains, so I'd avoid it.",
+  "tamil": "ஒரு எச்சரிக்கை: மழை பெய்யும்போதெல்லாம் அந்த குறுக்குப் பாதையில தண்ணி தேங்கும், அதனால தவிர்ப்பேன்.",
+  "reply": "Thanks for the heads-up. I'll stick to the main road, even if it takes a bit longer.",
+  "replyTamil": "முன்கூட்டியே சொன்னதுக்கு நன்றி. கொஞ்சம் நேரம் ஆனாலும் பிரதான சாலையிலேயே போறேன்."
+ },
+ {
+  "category": "advanced",
+  "context": "Expressing gratitude with understatement",
+  "level": "advanced",
+  "en": "I stayed up till two to finish your slides. I hope they're what you wanted.",
+  "tamil": "உங்க ஸ்லைடுகளை முடிக்க இரண்டு மணி வரைக்கும் முழிச்சிருந்தேன். நீங்க எதிர்பார்த்த மாதிரி இருக்கும்னு நம்புறேன்.",
+  "reply": "They're perfect, and I can't thank you enough. I owe you one, so lunch is on me tomorrow.",
+  "replyTamil": "அருமையா இருக்கு, உங்களுக்கு எவ்வளவு நன்றி சொன்னாலும் போதாது. நான் உங்களுக்குக் கடன்பட்டிருக்கேன், நாளைக்கு மதிய சாப்பாடு என் செலவு."
+ }
+]

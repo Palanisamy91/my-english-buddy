@@ -1,0 +1,377 @@
+[
+ {
+  "en": "This app is easy to use even for beginners.",
+  "tamil": "இந்த ஆப்பை ஆரம்பிக்கிறவங்களும் ஈஸியா யூஸ் பண்ணலாம்.",
+  "context": "Recommending an app to a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Easy to use' describes a simple tool. 'Even for' adds a surprise.",
+  "words": [
+   "app",
+   "beginners"
+  ],
+  "usage": "Say it when you suggest an app to someone new to technology.",
+  "leelaQ": "Which app would you suggest to a beginner?",
+  "answer": "I would suggest a simple app like WhatsApp."
+ },
+ {
+  "en": "The phone was on silent, so I missed your call.",
+  "tamil": "போன் சைலண்ட்ல இருந்துச்சு, அதனால உன் கால் மிஸ் ஆயிடுச்சு.",
+  "context": "Apologising for a missed call.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Missed' is the past of 'miss'. 'So' gives the result.",
+  "words": [
+   "silent",
+   "missed"
+  ],
+  "usage": "Say it to friends or family when they are upset about a call.",
+  "leelaQ": "Do you keep your phone on silent?",
+  "answer": "Only in meetings, otherwise I keep it on loud."
+ },
+ {
+  "en": "I forgot to attach the file to the email.",
+  "tamil": "நான் மெயில்ல ஃபைலை அட்டாச் பண்ண மறந்துட்டேன்.",
+  "context": "Admitting a common email mistake.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Forgot to' plus a verb means you did not do something you should have done.",
+  "words": [
+   "attach",
+   "email"
+  ],
+  "usage": "Say it at work before sending a second email.",
+  "leelaQ": "What mistakes do you make in emails?",
+  "answer": "I sometimes forget the attachment or the subject."
+ },
+ {
+  "en": "My neighbour is fixing my TV remote.",
+  "tamil": "என் பக்கத்து வீட்டுக்காரர் என் டிவி ரிமோட்டை சரிசெய்றாங்க.",
+  "context": "Telling a visitor what is happening.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous is used for something happening now.",
+  "words": [
+   "fixing",
+   "remote"
+  ],
+  "usage": "Use it in casual talk about gadgets at home.",
+  "leelaQ": "Can you fix small things at home?",
+  "answer": "Yes, I can fix a switch or change a bulb."
+ },
+ {
+  "en": "I am not comfortable sharing my phone number online.",
+  "tamil": "என் போன் நம்பரை ஆன்லைன்ல பகிர எனக்கு வசதியா இல்ல.",
+  "context": "Refusing to give personal details.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Comfortable doing' shows how you feel. 'Not' makes it negative.",
+  "words": [
+   "comfortable",
+   "phone number"
+  ],
+  "usage": "Say it when a website or a stranger asks for personal details.",
+  "leelaQ": "What information should we not share online?",
+  "answer": "We should not share passwords or our home address."
+ },
+ {
+  "en": "Do not forget to charge your laptop before the meeting.",
+  "tamil": "மீட்டிங்குக்கு முன்னாடி உன் லேப்டாப்பை சார்ஜ் பண்ண மறந்துடாதே.",
+  "context": "Reminding a colleague.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Do not forget to' plus a verb is a friendly reminder.",
+  "words": [
+   "forget",
+   "charge"
+  ],
+  "usage": "Use it before a long meeting or a trip.",
+  "leelaQ": "What do you do before an important meeting?",
+  "answer": "I charge my laptop and test my camera."
+ },
+ {
+  "en": "I don't use social media during exam time.",
+  "tamil": "நான் தேர்வு நேரத்துல சோஷியல் மீடியா யூஸ் பண்றதில்ல.",
+  "context": "Explaining a good habit to a friend.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Don't' makes present simple negative with I, you, we and they.",
+  "words": [
+   "social media",
+   "exam"
+  ],
+  "usage": "Say it when talking about focus and study habits.",
+  "leelaQ": "Does social media waste your time?",
+  "answer": "Sometimes it does, so I limit it to thirty minutes a day."
+ },
+ {
+  "en": "Hello, can everyone see my screen?",
+  "tamil": "ஹலோ, எல்லாருக்கும் என் ஸ்கிரீன் தெரியுதா?",
+  "context": "Starting a presentation online.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can everyone...?' checks with a group. It is a common meeting phrase.",
+  "words": [
+   "everyone",
+   "screen"
+  ],
+  "usage": "Say it just after you start sharing your screen.",
+  "leelaQ": "What do you say at the start of a presentation?",
+  "answer": "I say hello and ask if everyone can hear me."
+ },
+ {
+  "en": "Which phone is better for a small budget?",
+  "tamil": "சின்ன பட்ஜெட்டுக்கு எந்த போன் நல்லது?",
+  "context": "Asking a salesperson for advice.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Which' is used when choosing from a few options.",
+  "words": [
+   "budget",
+   "better"
+  ],
+  "usage": "Ask at a mobile shop or from a friend who knows phones.",
+  "leelaQ": "What is a good budget for a phone?",
+  "answer": "About fifteen thousand rupees is a good budget for me."
+ },
+ {
+  "en": "How much data do I have left?",
+  "tamil": "எனக்கு எவ்வளவு டேட்டா மீதி இருக்கு?",
+  "context": "Checking your mobile plan.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How much' is used for things we cannot count, like data.",
+  "words": [
+   "data",
+   "left"
+  ],
+  "usage": "Ask at a mobile store or in an app at the end of the month.",
+  "leelaQ": "How much data do you use every day?",
+  "answer": "I use about two GB every day."
+ },
+ {
+  "en": "When did the update finish?",
+  "tamil": "அப்டேட் எப்போ முடிஞ்சுது?",
+  "context": "Asking an IT colleague.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'When did' asks about the time of a past event. After 'did', use the base verb.",
+  "words": [
+   "update",
+   "finish"
+  ],
+  "usage": "Use it in the office when a system was down for maintenance.",
+  "leelaQ": "What do you do while an update is running?",
+  "answer": "I drink tea and wait."
+ },
+ {
+  "en": "Why is my phone getting so hot?",
+  "tamil": "என் போன் ஏன் இவ்வளவு சூடாகுது?",
+  "context": "Asking a technician about overheating.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Why' asks for a reason. 'Getting hot' shows a change.",
+  "words": [
+   "phone",
+   "hot"
+  ],
+  "usage": "Ask a technician or a friend when your phone overheats.",
+  "leelaQ": "What makes a phone hot?",
+  "answer": "Playing games for a long time makes it hot."
+ },
+ {
+  "en": "Are you free for a quick video call?",
+  "tamil": "உனக்கு ஒரு சின்ன வீடியோ கால் பண்ண நேரம் இருக்கா?",
+  "context": "Asking a colleague for a short call.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Are you free?' asks if someone has time.",
+  "words": [
+   "free",
+   "video call"
+  ],
+  "usage": "Use it with coworkers before you call them.",
+  "leelaQ": "When do you prefer to have calls?",
+  "answer": "I prefer calls in the evening after work."
+ },
+ {
+  "en": "Who is hosting the meeting today?",
+  "tamil": "இன்னைக்கு மீட்டிங்கை யார் ஹோஸ்ட் பண்றாங்க?",
+  "context": "Asking about the organiser.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Hosting' means running the meeting.",
+  "words": [
+   "hosting",
+   "meeting"
+  ],
+  "usage": "Ask it when you cannot find the link.",
+  "leelaQ": "Who usually leads your meetings?",
+  "answer": "My manager usually leads them."
+ },
+ {
+  "en": "Did you see the message in the group?",
+  "tamil": "க்ரூப்ல வந்த மெசேஜை பாத்தியா?",
+  "context": "Asking a friend about a group chat.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did you see...?' asks about a past action.",
+  "words": [
+   "message",
+   "group"
+  ],
+  "usage": "Ask classmates or coworkers about news in a group chat.",
+  "leelaQ": "Are you in many WhatsApp groups?",
+  "answer": "Yes, I am in about ten groups."
+ },
+ {
+  "en": "What is the Wi-Fi name and password?",
+  "tamil": "வைஃபை பேரு என்ன, பாஸ்வேர்டு என்ன?",
+  "context": "Asking at a cafe or a friend's house.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Wi-Fi names are called SSIDs, but people simply say 'Wi-Fi name'.",
+  "words": [
+   "wi-fi",
+   "password"
+  ],
+  "usage": "A very common question when you visit a place and need the internet.",
+  "leelaQ": "Where do you ask for the Wi-Fi password?",
+  "answer": "I ask the staff at a cafe or my friend at home."
+ },
+ {
+  "en": "Will the app work without internet?",
+  "tamil": "இன்டர்நெட் இல்லாம இந்த ஆப் வேலை செய்யுமா?",
+  "context": "Asking about an app feature.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will' asks about the future. 'Without' means not having.",
+  "words": [
+   "work",
+   "without"
+  ],
+  "usage": "Ask before you travel to a place with weak signal.",
+  "leelaQ": "Which apps do you use offline?",
+  "answer": "I use music and notes apps offline."
+ },
+ {
+  "en": "Is it safe to pay through this link?",
+  "tamil": "இந்த லிங்க் வழியா பணம் கட்டுறது பாதுகாப்பானதா?",
+  "context": "Checking before an online payment.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is it safe to...?' asks about safety.",
+  "words": [
+   "safe",
+   "pay"
+  ],
+  "usage": "Ask a family member or a bank when you are not sure about a payment.",
+  "leelaQ": "How do you pay for things online?",
+  "answer": "I pay with UPI because it is quick and simple."
+ },
+ {
+  "en": "Have you tried turning it off and on again?",
+  "tamil": "நீ அதை ஆஃப் பண்ணிட்டு திரும்ப ஆன் பண்ணிப் பாத்தியா?",
+  "context": "The classic tech support advice.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you tried...?' asks about experience. It uses the -ing form after 'tried'.",
+  "words": [
+   "tried",
+   "turning"
+  ],
+  "usage": "Help desk staff say this first for almost every problem.",
+  "leelaQ": "What is your first step when a device does not work?",
+  "answer": "I restart it and check the cables."
+ },
+ {
+  "en": "Could you speak a little louder? The sound is low.",
+  "tamil": "கொஞ்சம் சத்தமா பேச முடியுமா? சவுண்ட் கம்மியா இருக்கு.",
+  "context": "Asking a speaker in an online meeting.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'A little louder' makes the request soft. The second sentence gives the reason.",
+  "words": [
+   "louder",
+   "sound"
+  ],
+  "usage": "Use it when you cannot hear someone on a call.",
+  "leelaQ": "Do you speak clearly on calls?",
+  "answer": "I try to speak slowly and clearly."
+ },
+ {
+  "en": "Please help me to download this app.",
+  "tamil": "இந்த ஆப்பை டவுன்லோட் பண்ண எனக்கு உதவி பண்ணுங்க.",
+  "context": "Asking a younger person for help.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Help me to' plus a verb is polite when you say 'please'.",
+  "words": [
+   "help",
+   "download"
+  ],
+  "usage": "Say it to a child or a friend who is good with technology.",
+  "leelaQ": "Who do you ask for help with apps?",
+  "answer": "I ask my nephew because he knows many apps."
+ },
+ {
+  "en": "Could you put the link in the chat box?",
+  "tamil": "லிங்கை சாட் பாக்ஸ்ல போட முடியுமா?",
+  "context": "Asking in an online meeting.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you put...' is polite. 'Chat box' is the area for messages in a call.",
+  "words": [
+   "link",
+   "chat"
+  ],
+  "usage": "Use it in a video call when a speaker mentions a link.",
+  "leelaQ": "What do people usually write in the chat box?",
+  "answer": "They write questions and links."
+ },
+ {
+  "en": "Please switch on your camera for a minute.",
+  "tamil": "தயவுசெஞ்சு ஒரு நிமிஷம் உங்க கேமராவை ஆன் பண்ணுங்க.",
+  "context": "A teacher asking students.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Switch on' is the same as 'turn on'.",
+  "words": [
+   "camera",
+   "switch on"
+  ],
+  "usage": "A teacher or an interviewer says this during an online session.",
+  "leelaQ": "Do you like to keep your camera on?",
+  "answer": "Not always, but I keep it on in interviews."
+ },
+ {
+  "en": "Can you teach me how to use Excel?",
+  "tamil": "எக்ஸெல்லை எப்படி யூஸ் பண்றதுன்னு எனக்கு சொல்லித் தர முடியுமா?",
+  "context": "Asking a coworker.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'How to' plus a verb asks for a method.",
+  "words": [
+   "teach",
+   "excel"
+  ],
+  "usage": "Ask a colleague when you must learn a new office tool.",
+  "leelaQ": "What computer skill do you want to learn?",
+  "answer": "I want to learn Excel for my work."
+ },
+ {
+  "en": "Please speak slowly, the network is breaking.",
+  "tamil": "தயவுசெஞ்சு மெதுவா பேசுங்க, நெட்வொர்க் கட் ஆகுது.",
+  "context": "Asking on a poor line.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Breaking' means the signal is cutting in and out.",
+  "words": [
+   "slowly",
+   "network"
+  ],
+  "usage": "Say it on a phone call when the signal is weak.",
+  "leelaQ": "Where is your phone signal weak?",
+  "answer": "The signal is weak in our basement."
+ }
+]

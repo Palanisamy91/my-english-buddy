@@ -1,0 +1,377 @@
+[
+ {
+  "en": "I have had a fever since yesterday morning.",
+  "tamil": "எனக்கு நேத்து காலையிலிருந்து காய்ச்சல் இருக்கு.",
+  "context": "Telling a doctor how long you have been sick.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have had ... since' tells how long a problem has continued up to now.",
+  "words": [
+   "fever",
+   "since"
+  ],
+  "usage": "Use it in a clinic when the doctor asks about your illness.",
+  "leelaQ": "Have you ever had a high fever? What did you do?",
+  "answer": "Yes, I had a high fever last year, so I took rest and went to a doctor."
+ },
+ {
+  "en": "My head hurts a lot today.",
+  "tamil": "இன்னைக்கு எனக்கு தலை ரொம்ப வலிக்குது.",
+  "context": "Telling a friend or boss you have a headache.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Hurts' is a simple present verb for pain. 'A lot' shows the pain is strong.",
+  "words": [
+   "head",
+   "hurts"
+  ],
+  "usage": "Say it to a colleague or teacher when you feel unwell.",
+  "leelaQ": "What do you do when you have a headache?",
+  "answer": "I drink some water, take a tablet and sleep for a while."
+ },
+ {
+  "en": "How long have you had this cough?",
+  "tamil": "இந்த இருமல் உங்களுக்கு எவ்வளவு நாளா இருக்கு?",
+  "context": "A doctor asking about your cough.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'How long have you had ...?' asks about the duration of a problem.",
+  "words": [
+   "cough",
+   "long"
+  ],
+  "usage": "A doctor or nurse asks this at the start of a check-up.",
+  "leelaQ": "How long have you had your cough, or when did you last have one?",
+  "answer": "I have had it for three days, and it is getting better now."
+ },
+ {
+  "en": "Please give me an appointment for tomorrow evening.",
+  "tamil": "நாளைக்கு சாயங்காலம் எனக்கு ஒரு அப்பாயின்ட்மென்ட் குடுங்க.",
+  "context": "Asking a clinic receptionist for a time slot.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please give me ...' is a polite way to ask for something at a counter.",
+  "words": [
+   "appointment",
+   "evening"
+  ],
+  "usage": "Say it at a clinic reception desk or on a phone call.",
+  "leelaQ": "What will you say to the receptionist to book a time?",
+  "answer": "I will say, please give me an appointment for tomorrow evening."
+ },
+ {
+  "en": "I could not sleep at all last night.",
+  "tamil": "நேத்து ராத்திரி என்னால கொஞ்சம் கூட தூங்க முடியல.",
+  "context": "Telling a doctor about sleep trouble.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Could not' talks about something you were unable to do in the past. 'At all' makes it stronger.",
+  "words": [
+   "sleep",
+   "night"
+  ],
+  "usage": "Use it with a doctor, a friend or your family when you feel tired.",
+  "leelaQ": "Did you sleep well last night? Why or why not?",
+  "answer": "No, I could not sleep well because it was very hot."
+ },
+ {
+  "en": "The doctor will see you in ten minutes.",
+  "tamil": "டாக்டர் பத்து நிமிஷத்துல உங்களைப் பார்ப்பாரு.",
+  "context": "A receptionist telling a patient to wait.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will see you' is a polite, formal way to say the doctor is coming. 'In ten minutes' gives the time.",
+  "words": [
+   "doctor",
+   "minutes"
+  ],
+  "usage": "Receptionists and nurses say this in waiting rooms.",
+  "leelaQ": "How do you feel when you wait a long time at a hospital?",
+  "answer": "I feel bored and a little worried, so I check my phone."
+ },
+ {
+  "en": "Could you write down the names of the tablets for me?",
+  "tamil": "மாத்திரைகளோட பேரை எனக்கு எழுதிக் குடுக்க முடியுமா?",
+  "context": "Asking a doctor or pharmacist to write the medicine names.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you ...?' is a very polite request. 'Write down' means to note on paper.",
+  "words": [
+   "write down",
+   "tablets"
+  ],
+  "usage": "Use it with a doctor or pharmacist when you cannot remember details.",
+  "leelaQ": "Do you remember the names of medicines you take? Which ones?",
+  "answer": "I remember only paracetamol, because I take it for fever."
+ },
+ {
+  "en": "Do you have any allergies to medicines?",
+  "tamil": "உங்களுக்கு ஏதாவது மருந்து அலர்ஜி இருக்கா?",
+  "context": "A doctor or pharmacist checking for allergies.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you have any ...?' is a common way to ask about conditions. 'Allergies' is the plural noun.",
+  "words": [
+   "allergies",
+   "medicines"
+  ],
+  "usage": "Doctors ask this before giving a new tablet or injection.",
+  "leelaQ": "Are you allergic to any food or medicine?",
+  "answer": "No, I am not allergic to anything, but my brother is allergic to dust."
+ },
+ {
+  "en": "I am taking these tablets twice a day after food.",
+  "tamil": "நான் இந்த மாத்திரைகளை தினமும் ரெண்டு தடவை சாப்பிட்டு அப்புறம் போடுறேன்.",
+  "context": "Explaining your medicine routine to a doctor.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Am taking' shows a medicine course that is going on now. 'Twice a day' tells how often.",
+  "words": [
+   "tablets",
+   "twice a day"
+  ],
+  "usage": "Say it when a doctor asks about the medicines you are using.",
+  "leelaQ": "How often do you take medicine when you are sick?",
+  "answer": "I take it two times a day, once in the morning and once at night."
+ },
+ {
+  "en": "I went to the clinic near my house this morning.",
+  "tamil": "நான் இன்னைக்கு காலையில வீட்டுக்கு பக்கத்துல இருக்கிற கிளினிக்குக்கு போனேன்.",
+  "context": "Telling a friend where you went today.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Went' is the past form of 'go'. 'This morning' shows the time of the action.",
+  "words": [
+   "clinic",
+   "morning"
+  ],
+  "usage": "Use it when you tell family or colleagues why you came late.",
+  "leelaQ": "Where do you go when you are not well?",
+  "answer": "I go to a small clinic near my house, because it is very close."
+ },
+ {
+  "en": "Is it a serious problem, doctor?",
+  "tamil": "இது ஏதாவது பெரிய பிரச்சனையா டாக்டர்?",
+  "context": "Asking the doctor about your condition.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Starting with 'Is it ...?' makes a simple yes-or-no question. Adding 'doctor' is respectful.",
+  "words": [
+   "serious",
+   "problem"
+  ],
+  "usage": "Ask this when you feel worried after a check-up.",
+  "leelaQ": "What do you ask the doctor when you feel worried?",
+  "answer": "I ask if it is serious and how many days it will take to recover."
+ },
+ {
+  "en": "You should drink plenty of warm water and take rest.",
+  "tamil": "நீங்க நிறைய சூடான தண்ணி குடிச்சு ஓய்வு எடுக்கணும்.",
+  "context": "A doctor or elder giving simple advice.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' gives advice. 'Plenty of' means a lot of something.",
+  "words": [
+   "plenty of",
+   "rest"
+  ],
+  "usage": "Use it to advise a friend or family member who has a cold.",
+  "leelaQ": "What advice will you give a friend who has a cold?",
+  "answer": "I will tell him to drink warm water, take rest and avoid cold drinks."
+ },
+ {
+  "en": "My mother has high blood pressure, so she checks it every week.",
+  "tamil": "எங்கம்மாவுக்கு ஹை பிளட் பிரஷர் இருக்கு, அதனால வாரா வாரம் செக் பண்றாங்க.",
+  "context": "Talking about a family member's health.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'So' joins a cause and its result. 'Every week' shows a habit in simple present.",
+  "words": [
+   "blood pressure",
+   "every week"
+  ],
+  "usage": "Use it when someone asks about your family's health.",
+  "leelaQ": "Does anyone in your family check their health regularly?",
+  "answer": "Yes, my father checks his sugar level every month."
+ },
+ {
+  "en": "Take this tablet after lunch and dinner.",
+  "tamil": "இந்த மாத்திரையை மதியமும் ராத்திரியும் சாப்பிட்ட பிறகு போடுங்க.",
+  "context": "A pharmacist explaining how to use a medicine.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "An imperative gives clear instructions. 'After' tells the time to take the tablet.",
+  "words": [
+   "tablet",
+   "after"
+  ],
+  "usage": "Pharmacists and doctors say this when they hand over medicines.",
+  "leelaQ": "How will you tell your grandmother when to take her tablet?",
+  "answer": "I will say, please take this tablet after lunch and after dinner."
+ },
+ {
+  "en": "Don't skip your breakfast, it is not good for your health.",
+  "tamil": "காலை சாப்பாட்டை தவிர்க்காதே, அது உடம்புக்கு நல்லது இல்ல.",
+  "context": "Advising a friend who often skips breakfast.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't' plus a verb tells someone not to do something. 'Skip' means to miss.",
+  "words": [
+   "skip",
+   "breakfast"
+  ],
+  "usage": "Use it kindly with friends, younger family members or colleagues.",
+  "leelaQ": "Do you have breakfast every day? What do you usually eat?",
+  "answer": "Yes, I eat idli or dosa with chutney every morning."
+ },
+ {
+  "en": "Where can I get this blood test done?",
+  "tamil": "இந்த ரத்த பரிசோதனையை நான் எங்க பண்ணிக்கலாம்?",
+  "context": "Asking a nurse or a pharmacist about a lab.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Get ... done' means to have someone do it for you. 'Can' asks about possibility.",
+  "words": [
+   "blood test",
+   "get"
+  ],
+  "usage": "Use it at a hospital reception or a medical shop.",
+  "leelaQ": "Have you ever done a blood test? Where did you do it?",
+  "answer": "Yes, I did one at a lab near my office last year."
+ },
+ {
+  "en": "I will come for a check-up next week.",
+  "tamil": "நான் அடுத்த வாரம் செக்-அப்புக்கு வருவேன்.",
+  "context": "Promising a doctor you will return.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will come' shows a plan or promise. 'Check-up' is a regular health examination.",
+  "words": [
+   "check-up",
+   "next week"
+  ],
+  "usage": "Say it at the end of a doctor visit before you leave.",
+  "leelaQ": "When was your last health check-up?",
+  "answer": "It was about six months ago, at a hospital near my home."
+ },
+ {
+  "en": "The pharmacy is open until ten at night.",
+  "tamil": "மெடிக்கல் ஷாப் ராத்திரி பத்து மணி வரைக்கும் திறந்திருக்கும்.",
+  "context": "Telling someone where they can buy medicine late.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Until' tells the last time something is open. 'Is open' describes the shop's state.",
+  "words": [
+   "pharmacy",
+   "until"
+  ],
+  "usage": "Use it when a neighbour or friend needs medicine in the evening.",
+  "leelaQ": "Is there a medical shop near your house? How far is it?",
+  "answer": "Yes, there is one just two minutes from my house."
+ },
+ {
+  "en": "Did you take your medicine after food?",
+  "tamil": "நீ சாப்பிட்ட பிறகு மருந்து சாப்பிட்டியா?",
+  "context": "Checking if a family member took their tablet.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did you take ...?' asks about a finished action. The main verb stays in base form.",
+  "words": [
+   "medicine",
+   "food"
+  ],
+  "usage": "Use it with parents, children or friends who are on medication.",
+  "leelaQ": "Do you ever forget to take your medicine? What do you do then?",
+  "answer": "Sometimes I forget, so I set an alarm on my phone."
+ },
+ {
+  "en": "My son has got a sore throat and a runny nose.",
+  "tamil": "என் பையனுக்கு தொண்டை வலியும் மூக்கு ஒழுகலும் இருக்கு.",
+  "context": "Describing your child's cold to a doctor.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has got' is a common spoken way to say 'has'. It lists two symptoms with 'and'.",
+  "words": [
+   "sore throat",
+   "runny nose"
+  ],
+  "usage": "Use it with a doctor or a teacher when a child is ill.",
+  "leelaQ": "What are the signs of a common cold?",
+  "answer": "A cold gives you a runny nose, a sore throat and a little cough."
+ },
+ {
+  "en": "I am feeling much better after taking rest.",
+  "tamil": "ஓய்வு எடுத்ததுக்கு அப்புறம் நான் ரொம்ப நல்லா உணர்றேன்.",
+  "context": "Telling a colleague you have recovered.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Much better' compares with how you felt before. 'After taking' joins a time and an action.",
+  "words": [
+   "better",
+   "rest"
+  ],
+  "usage": "Say it when someone asks how you are after an illness.",
+  "leelaQ": "How do you feel today compared to yesterday?",
+  "answer": "I feel much better today because I slept well."
+ },
+ {
+  "en": "Can you check my blood pressure once?",
+  "tamil": "என்னோட ரத்த அழுத்தத்தை ஒரு தடவை செக் பண்ணிப் பாக்க முடியுமா?",
+  "context": "Asking a nurse or pharmacist for a quick check.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you ...?' is a friendly request. 'Once' means 'one time' in Indian English.",
+  "words": [
+   "check",
+   "blood pressure"
+  ],
+  "usage": "Ask this at a pharmacy, a clinic or a health camp.",
+  "leelaQ": "What small health check can you do at home?",
+  "answer": "I can check my weight and my temperature at home."
+ },
+ {
+  "en": "The nurse took my weight and height first.",
+  "tamil": "நர்ஸ் முதல்ல என் எடையையும் உயரத்தையும் எடுத்தாங்க.",
+  "context": "Describing what happened at a clinic.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Took' is the past of 'take'. 'First' shows the order of what happened.",
+  "words": [
+   "nurse",
+   "weight"
+  ],
+  "usage": "Use it when you tell someone about your hospital visit.",
+  "leelaQ": "What happens first when you go to a hospital?",
+  "answer": "First, I write my name at the counter and then I wait for my turn."
+ },
+ {
+  "en": "I need to fast for eight hours before the blood test.",
+  "tamil": "ரத்த பரிசோதனைக்கு முன்னாடி நான் எட்டு மணி நேரம் சாப்பிடாம இருக்கணும்.",
+  "context": "Telling a friend about lab test rules.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Need to' shows something that is necessary. 'Fast' means to stay without food.",
+  "words": [
+   "fast",
+   "hours"
+  ],
+  "usage": "Use it to explain why you cannot eat before a lab test.",
+  "leelaQ": "Have you ever fasted for a test or for a festival?",
+  "answer": "Yes, I fasted for a blood test, and I only had water."
+ },
+ {
+  "en": "I am not allergic to any medicine.",
+  "tamil": "எனக்கு எந்த மருந்தும் அலர்ஜி இல்ல.",
+  "context": "Telling a doctor you have no medicine allergy.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Allergic to' is the correct phrase with 'to'. 'Not ... any' means none.",
+  "words": [
+   "allergic",
+   "medicine"
+  ],
+  "usage": "Say it when a doctor or a pharmacist asks about allergies.",
+  "leelaQ": "What foods or things do you avoid because of allergy?",
+  "answer": "I avoid dust because it makes me sneeze."
+ }
+]

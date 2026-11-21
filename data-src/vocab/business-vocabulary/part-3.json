@@ -1,0 +1,352 @@
+[
+ {
+  "word": "upturn",
+  "meaning": "A period when business or the economy starts to improve.",
+  "tamil": "பொருளாதார மீட்சி",
+  "pos": "noun",
+  "pron": "UP-turn",
+  "example": "Experts expect an upturn in sales after the festival.",
+  "exampleTamil": "பண்டிகைக்குப் பிறகு விற்பனையில் மீட்சி இருக்கும் என்று நிபுணர்கள் எதிர்பார்க்கிறார்கள்.",
+  "synonyms": [
+   "recovery",
+   "revival"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "windfall",
+  "meaning": "A large amount of money you get suddenly and did not expect.",
+  "tamil": "எதிர்பாராத பெரும் வருமானம்",
+  "pos": "noun",
+  "pron": "WIND-fawl",
+  "example": "The festival season brought a windfall for the sweet shop.",
+  "exampleTamil": "பண்டிகைக் காலம் இனிப்புக் கடைக்கு எதிர்பாராத பெரும் வருமானம் தந்தது.",
+  "synonyms": [
+   "bonanza",
+   "jackpot"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "underpriced",
+  "meaning": "Sold for less money than its real value.",
+  "tamil": "மதிப்பை விடக் குறைந்த விலையுள்ள",
+  "pos": "adjective",
+  "pron": "un-der-PRYST",
+  "example": "This house is underpriced, so buyers will rush to it.",
+  "exampleTamil": "இந்த வீடு மதிப்பை விடக் குறைந்த விலையில் உள்ளது, அதனால் வாங்குபவர்கள் விரைவார்கள்.",
+  "synonyms": [
+   "cheap",
+   "undervalued"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "equity",
+  "meaning": "The value of a share in a company or of property after debts.",
+  "tamil": "பங்கு மூலதனம்",
+  "pos": "noun",
+  "pron": "EK-wih-tee",
+  "example": "The founder kept sixty percent equity in the company.",
+  "exampleTamil": "நிறுவனர் நிறுவனத்தில் அறுபது சதவீத பங்கை வைத்துக்கொண்டார்.",
+  "synonyms": [
+   "ownership",
+   "stake"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "diversify",
+  "meaning": "To add new types of products or investments to reduce risk.",
+  "tamil": "பல துறைகளில் விரிவுபடுத்து",
+  "pos": "verb",
+  "pron": "dy-VUR-sih-fy",
+  "example": "The company decided to diversify into food and travel.",
+  "exampleTamil": "நிறுவனம் உணவு மற்றும் பயணத் துறைகளில் விரிவுபடுத்த முடிவு செய்தது.",
+  "synonyms": [
+   "expand",
+   "branch out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hedge",
+  "meaning": "To protect yourself from losing money by making a second safe investment.",
+  "tamil": "இழப்பிலிருந்து காத்துக்கொள்",
+  "pos": "verb",
+  "pron": "HEJ",
+  "example": "Many people buy gold to hedge against inflation.",
+  "exampleTamil": "பலர் விலைவாசி உயர்விலிருந்து காத்துக்கொள்ள தங்கம் வாங்குகிறார்கள்.",
+  "synonyms": [
+   "protect",
+   "safeguard"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "remittance",
+  "meaning": "Money sent to someone, usually to family in another place.",
+  "tamil": "அனுப்பிய பணம்",
+  "pos": "noun",
+  "pron": "rih-MIT-ns",
+  "example": "He sends a monthly remittance to his parents in Tamil Nadu.",
+  "exampleTamil": "அவர் தமிழ்நாட்டில் உள்ள பெற்றோருக்கு மாதந்தோறும் பணம் அனுப்புகிறார்.",
+  "synonyms": [
+   "transfer",
+   "payment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "payable",
+  "meaning": "Money that must be paid, often by a certain date.",
+  "tamil": "செலுத்த வேண்டிய",
+  "pos": "adjective",
+  "pron": "PAY-uh-bul",
+  "example": "The bill is payable within thirty days.",
+  "exampleTamil": "இந்தப் பில் முப்பது நாட்களுக்குள் செலுத்த வேண்டியது.",
+  "synonyms": [
+   "due",
+   "owed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "receivable",
+  "meaning": "Money that a customer still has to pay you.",
+  "tamil": "பெற வேண்டிய",
+  "pos": "adjective",
+  "pron": "rih-SEE-vuh-bul",
+  "example": "Unpaid invoices are shown as accounts receivable.",
+  "exampleTamil": "செலுத்தப்படாத விலைப்பட்டியல்கள் பெற வேண்டிய கணக்குகளாகக் காட்டப்படும்.",
+  "synonyms": [
+   "outstanding",
+   "owing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "accrue",
+  "meaning": "To build up slowly over time, like interest or profit.",
+  "tamil": "காலப்போக்கில் சேர்",
+  "pos": "verb",
+  "pron": "uh-KROO",
+  "example": "Interest will accrue on your savings every month.",
+  "exampleTamil": "உங்கள் சேமிப்புக்கு ஒவ்வொரு மாதமும் வட்டி சேரும்.",
+  "synonyms": [
+   "accumulate",
+   "build up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "depreciate",
+  "meaning": "To lose value over time.",
+  "tamil": "மதிப்பு குறை",
+  "pos": "verb",
+  "pron": "dih-PREE-shee-ayt",
+  "example": "Cars depreciate quickly in the first few years.",
+  "exampleTamil": "கார்களின் மதிப்பு முதல் சில ஆண்டுகளில் வேகமாகக் குறைகிறது.",
+  "synonyms": [
+   "lose value",
+   "decline"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "downsize",
+  "meaning": "To make a company smaller by cutting jobs or costs.",
+  "tamil": "நிறுவனத்தைச் சுருக்கு",
+  "pos": "verb",
+  "pron": "DOWN-syz",
+  "example": "The firm had to downsize after losing a big client.",
+  "exampleTamil": "பெரிய வாடிக்கையாளரை இழந்ததால் நிறுவனம் தன்னைச் சுருக்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "cut back",
+   "trim"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "acquire",
+  "meaning": "To buy or get a company, property or skill.",
+  "tamil": "கையகப்படுத்து",
+  "pos": "verb",
+  "pron": "uh-KWYR",
+  "example": "A large firm plans to acquire our small company.",
+  "exampleTamil": "ஒரு பெரிய நிறுவனம் எங்கள் சிறிய நிறுவனத்தை கையகப்படுத்த திட்டமிடுகிறது.",
+  "synonyms": [
+   "buy",
+   "purchase"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "liquidate",
+  "meaning": "To close a business and sell its things to pay debts.",
+  "tamil": "நிறுவனத்தை கலைத்து சொத்தை விற்று",
+  "pos": "verb",
+  "pron": "LIK-wih-dayt",
+  "example": "The owners had to liquidate the company to pay its debts.",
+  "exampleTamil": "கடன்களை அடைக்க உரிமையாளர்கள் நிறுவனத்தை கலைக்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "wind up",
+   "close down"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "upsell",
+  "meaning": "To persuade a customer to buy a more expensive item.",
+  "tamil": "அதிக விலையுள்ளதை வாங்க வைக்க",
+  "pos": "verb",
+  "pron": "UP-sell",
+  "example": "The waiter tried to upsell us a larger dessert.",
+  "exampleTamil": "பரிமாறுபவர் எங்களுக்கு பெரிய இனிப்பை வாங்க வைக்க முயன்றார்.",
+  "synonyms": [
+   "push",
+   "sell more"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ultimatum",
+  "meaning": "A final demand that warns of bad results if not accepted.",
+  "tamil": "இறுதி எச்சரிக்கைக் கோரிக்கை",
+  "pos": "noun",
+  "pron": "ul-tih-MAY-tum",
+  "example": "The buyer gave the seller an ultimatum about the price.",
+  "exampleTamil": "வாங்குபவர் விலை குறித்து விற்பவருக்கு இறுதி எச்சரிக்கை கொடுத்தார்.",
+  "synonyms": [
+   "final demand",
+   "last warning"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "arbitration",
+  "meaning": "Settling a dispute by a neutral person instead of going to court.",
+  "tamil": "நடுவர் தீர்ப்பு",
+  "pos": "noun",
+  "pron": "ar-bih-TRAY-shun",
+  "example": "The two companies agreed to settle through arbitration.",
+  "exampleTamil": "இரு நிறுவனங்களும் நடுவர் தீர்ப்பு மூலம் தீர்த்துக்கொள்ள ஒப்புக்கொண்டன.",
+  "synonyms": [
+   "mediation",
+   "settlement"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mediation",
+  "meaning": "Help from a neutral person to solve a dispute between two sides.",
+  "tamil": "சமரசப் பேச்சுவார்த்தை",
+  "pos": "noun",
+  "pron": "mee-dee-AY-shun",
+  "example": "Mediation helped the partners end their quarrel.",
+  "exampleTamil": "சமரசப் பேச்சுவார்த்தை கூட்டாளிகளின் சண்டையை முடிக்க உதவியது.",
+  "synonyms": [
+   "intervention",
+   "peacemaking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "appease",
+  "meaning": "To calm someone by giving them what they want.",
+  "tamil": "சமாதானப்படுத்து",
+  "pos": "verb",
+  "pron": "uh-PEEZ",
+  "example": "The manager tried to appease the angry customer with a refund.",
+  "exampleTamil": "மேலாளர் கோபமான வாடிக்கையாளரைப் பணம் திருப்பித் தந்து சமாதானப்படுத்த முயன்றார்.",
+  "synonyms": [
+   "calm",
+   "pacify"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "yield",
+  "meaning": "The profit you earn from an investment.",
+  "tamil": "முதலீட்டு வருவாய்",
+  "pos": "noun",
+  "pron": "YEELD",
+  "example": "This fixed deposit gives a good yield.",
+  "exampleTamil": "இந்த நிலையான வைப்புத் தொகை நல்ல வருவாய் தருகிறது.",
+  "synonyms": [
+   "return",
+   "income"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "traction",
+  "meaning": "Early signs that a new product or business is attracting customers.",
+  "tamil": "தொடக்கக் கால வரவேற்பு",
+  "pos": "noun",
+  "pron": "TRAK-shun",
+  "example": "The app is slowly gaining traction among students.",
+  "exampleTamil": "அந்தச் செயலி மாணவர்களிடையே மெதுவாக வரவேற்பைப் பெற்று வருகிறது.",
+  "synonyms": [
+   "momentum",
+   "progress"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "disrupt",
+  "meaning": "To change an industry strongly with a new idea or technology.",
+  "tamil": "தொழிலை மாற்றியமை",
+  "pos": "verb",
+  "pron": "dis-RUPT",
+  "example": "Online apps disrupted the taxi business.",
+  "exampleTamil": "இணைய செயலிகள் டாக்சி தொழிலை மாற்றியமைத்தன.",
+  "synonyms": [
+   "upend",
+   "shake up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "innovation",
+  "meaning": "A new idea, method or product.",
+  "tamil": "புதுமை",
+  "pos": "noun",
+  "pron": "in-uh-VAY-shun",
+  "example": "Innovation helps a small business stay ahead.",
+  "exampleTamil": "புதுமை ஒரு சிறிய வணிகம் முன்னேறி இருக்க உதவுகிறது.",
+  "synonyms": [
+   "invention",
+   "novelty"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "insolvent",
+  "meaning": "Not having enough money to pay debts.",
+  "tamil": "கடன் அடைக்க முடியாத",
+  "pos": "adjective",
+  "pron": "in-SOL-vunt",
+  "example": "The insolvent firm could not pay its workers.",
+  "exampleTamil": "கடன் அடைக்க முடியாத நிறுவனம் தன் தொழிலாளர்களுக்குச் சம்பளம் தர முடியவில்லை.",
+  "synonyms": [
+   "bankrupt",
+   "broke"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "consignment",
+  "meaning": "Goods sent to someone to sell, or a batch of goods being sent.",
+  "tamil": "அனுப்பப்படும் சரக்குத் தொகுதி",
+  "pos": "noun",
+  "pron": "kun-SYN-munt",
+  "example": "A fresh consignment of mangoes arrived this morning.",
+  "exampleTamil": "இன்று காலை புதிய மாம்பழச் சரக்குத் தொகுதி வந்தது.",
+  "synonyms": [
+   "shipment",
+   "batch"
+  ],
+  "level": "intermediate"
+ }
+]

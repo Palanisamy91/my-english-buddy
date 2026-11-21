@@ -1,0 +1,376 @@
+[
+ {
+  "word": "contemporary",
+  "meaning": "belonging to the present time; modern",
+  "tamil": "சமகால, நவீன",
+  "pos": "adjective",
+  "pron": "kun-TEM-puh-rer-ee",
+  "example": "She enjoys contemporary music more than old songs.",
+  "exampleTamil": "அவளுக்கு பழைய பாடல்களை விட சமகால இசை பிடிக்கும்.",
+  "synonyms": [
+   "modern",
+   "current",
+   "present-day"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "convention",
+  "meaning": "a usual way of doing things that most people follow",
+  "tamil": "வழக்கம், மரபு",
+  "pos": "noun",
+  "pron": "kun-VEN-shun",
+  "example": "It is a convention to greet elders first.",
+  "exampleTamil": "பெரியவர்களை முதலில் வணங்குவது ஒரு மரபு.",
+  "synonyms": [
+   "custom",
+   "tradition",
+   "practice"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "endeavor",
+  "meaning": "a serious attempt or effort to do something",
+  "tamil": "தீவிர முயற்சி",
+  "pos": "noun",
+  "pron": "en-DEV-er",
+  "example": "Starting a school was a big endeavor for the family.",
+  "exampleTamil": "பள்ளி தொடங்குவது குடும்பத்துக்கு ஒரு பெரிய முயற்சியாக இருந்தது.",
+  "synonyms": [
+   "effort",
+   "attempt",
+   "venture"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "default",
+  "meaning": "the setting or choice used when you choose nothing else",
+  "tamil": "இயல்புநிலை, தானியங்கி அமைப்பு",
+  "pos": "noun",
+  "pron": "dih-FAWLT",
+  "example": "The default language on my phone is English.",
+  "exampleTamil": "என் தொலைபேசியின் இயல்புநிலை மொழி ஆங்கிலம்.",
+  "synonyms": [
+   "standard",
+   "preset"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "offset",
+  "meaning": "to balance a loss or cost with something else",
+  "tamil": "ஈடுசெய்",
+  "pos": "verb",
+  "pron": "OF-set",
+  "example": "Higher sales offset the cost of the new machine.",
+  "exampleTamil": "அதிக விற்பனை புதிய இயந்திரத்தின் செலவை ஈடுசெய்தது.",
+  "synonyms": [
+   "balance",
+   "compensate",
+   "cancel out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "regulate",
+  "meaning": "to control something with rules or settings",
+  "tamil": "ஒழுங்குபடுத்து, கட்டுப்படுத்து",
+  "pos": "verb",
+  "pron": "REG-yuh-layt",
+  "example": "The government regulates the price of some medicines.",
+  "exampleTamil": "சில மருந்துகளின் விலையை அரசு கட்டுப்படுத்துகிறது.",
+  "synonyms": [
+   "control",
+   "manage",
+   "govern"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inclination",
+  "meaning": "a natural feeling that makes you want to do something",
+  "tamil": "நாட்டம், சாய்வு",
+  "pos": "noun",
+  "pron": "in-kli-NAY-shun",
+  "example": "I have no inclination to argue about small things.",
+  "exampleTamil": "சிறிய விஷயங்களுக்கு வாதிட எனக்கு நாட்டமில்லை.",
+  "synonyms": [
+   "tendency",
+   "urge",
+   "leaning"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gauge",
+  "meaning": "to judge or measure something, like a feeling or amount",
+  "tamil": "மதிப்பிடு, அளவிடு",
+  "pos": "verb",
+  "pron": "GAYJ",
+  "example": "It was hard to gauge his mood from his face.",
+  "exampleTamil": "அவன் முகத்திலிருந்து அவன் மனநிலையை மதிப்பிடுவது கடினமாக இருந்தது.",
+  "synonyms": [
+   "judge",
+   "measure",
+   "estimate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dominate",
+  "meaning": "to have the most power or influence over something",
+  "tamil": "ஆதிக்கம் செலுத்து",
+  "pos": "verb",
+  "pron": "DOM-ih-nayt",
+  "example": "One loud voice dominated the whole discussion.",
+  "exampleTamil": "ஒரே ஒரு உரத்த குரல் முழு விவாதத்திலும் ஆதிக்கம் செலுத்தியது.",
+  "synonyms": [
+   "control",
+   "rule",
+   "overshadow"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "impose",
+  "meaning": "to force a rule or idea on someone",
+  "tamil": "திணி, விதி",
+  "pos": "verb",
+  "pron": "im-POHZ",
+  "example": "Parents should not impose their dreams on children.",
+  "exampleTamil": "பெற்றோர் தங்கள் கனவுகளை பிள்ளைகள் மீது திணிக்கக் கூடாது.",
+  "synonyms": [
+   "force",
+   "enforce",
+   "inflict"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "coherent",
+  "meaning": "clear, logical and easy to follow",
+  "tamil": "தெளிவான, ஒருங்கிணைந்த",
+  "pos": "adjective",
+  "pron": "koh-HEER-unt",
+  "example": "Try to give a coherent answer in the interview.",
+  "exampleTamil": "நேர்காணலில் தெளிவான, ஒழுங்கான பதிலைச் சொல்ல முயற்சி செய்.",
+  "synonyms": [
+   "logical",
+   "clear",
+   "consistent"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "credible",
+  "meaning": "believable and trustworthy",
+  "tamil": "நம்பத்தகுந்த",
+  "pos": "adjective",
+  "pron": "KRED-uh-bul",
+  "example": "Please check that your source is credible before sharing the news.",
+  "exampleTamil": "செய்தியைப் பகிரும் முன் உன் ஆதாரம் நம்பத்தகுந்ததா என்று பார்.",
+  "synonyms": [
+   "believable",
+   "reliable",
+   "trustworthy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "deliberate",
+  "meaning": "done on purpose, or done slowly and carefully",
+  "tamil": "வேண்டுமென்றே செய்த, நிதானமான",
+  "pos": "adjective",
+  "pron": "dih-LIB-er-it",
+  "example": "It was a deliberate choice, not an accident.",
+  "exampleTamil": "அது தற்செயல் அல்ல, வேண்டுமென்றே எடுத்த முடிவு.",
+  "synonyms": [
+   "intentional",
+   "planned",
+   "careful"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "discrepancy",
+  "meaning": "a difference between two things that should match",
+  "tamil": "முரண்பாடு, வேறுபாடு",
+  "pos": "noun",
+  "pron": "dis-KREP-un-see",
+  "example": "There is a discrepancy between the two bills.",
+  "exampleTamil": "இரண்டு பில்களுக்கு இடையே முரண்பாடு உள்ளது.",
+  "synonyms": [
+   "difference",
+   "mismatch",
+   "gap"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fluctuate",
+  "meaning": "to go up and down again and again",
+  "tamil": "ஏற்ற இறக்கமாக மாறு",
+  "pos": "verb",
+  "pron": "FLUK-choo-ayt",
+  "example": "Vegetable prices fluctuate a lot during the rainy season.",
+  "exampleTamil": "மழைக்காலத்தில் காய்கறி விலை அதிகமாக ஏறி இறங்குகிறது.",
+  "synonyms": [
+   "vary",
+   "change",
+   "swing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "implicit",
+  "meaning": "suggested but not said directly",
+  "tamil": "மறைமுகமான, உட்கிடையான",
+  "pos": "adjective",
+  "pron": "im-PLIS-it",
+  "example": "There was an implicit warning in his polite words.",
+  "exampleTamil": "அவனுடைய பணிவான வார்த்தைகளில் ஒரு மறைமுக எச்சரிக்கை இருந்தது.",
+  "synonyms": [
+   "implied",
+   "unspoken",
+   "indirect"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "legitimate",
+  "meaning": "allowed by law, or fair and reasonable",
+  "tamil": "சட்டப்பூர்வமான, நியாயமான",
+  "pos": "adjective",
+  "pron": "luh-JIT-uh-mit",
+  "example": "You have a legitimate reason to complain.",
+  "exampleTamil": "புகார் செய்ய உனக்கு நியாயமான காரணம் இருக்கிறது.",
+  "synonyms": [
+   "lawful",
+   "valid",
+   "genuine"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "preliminary",
+  "meaning": "coming before the main thing; first and early",
+  "tamil": "ஆரம்பநிலை, முன்னோடியான",
+  "pos": "adjective",
+  "pron": "prih-LIM-uh-ner-ee",
+  "example": "The preliminary results look very promising.",
+  "exampleTamil": "ஆரம்பநிலை முடிவுகள் மிகவும் நம்பிக்கையளிப்பதாக உள்ளன.",
+  "synonyms": [
+   "initial",
+   "early",
+   "introductory"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "prevalent",
+  "meaning": "common and widespread at a particular time or place",
+  "tamil": "பரவலாக உள்ள",
+  "pos": "adjective",
+  "pron": "PREV-uh-lunt",
+  "example": "Mobile payments are now prevalent even in small villages.",
+  "exampleTamil": "சிறிய கிராமங்களிலும் இப்போது மொபைல் பணப்பரிவர்த்தனை பரவலாக உள்ளது.",
+  "synonyms": [
+   "common",
+   "widespread",
+   "frequent"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scrutiny",
+  "meaning": "very careful and close examination",
+  "tamil": "கூர்ந்த ஆய்வு, நுணுக்கமான பரிசோதனை",
+  "pos": "noun",
+  "pron": "SKROO-tuh-nee",
+  "example": "The company accounts came under close scrutiny.",
+  "exampleTamil": "நிறுவனத்தின் கணக்குகள் கூர்ந்த ஆய்வுக்கு உட்படுத்தப்பட்டன.",
+  "synonyms": [
+   "inspection",
+   "examination",
+   "review"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scrutinize",
+  "meaning": "To examine something very carefully and closely.",
+  "tamil": "கூர்ந்து ஆராய், மிக நுணுக்கமாகப் பரிசோதி",
+  "pos": "verb",
+  "pron": "SKROO-tuh-nyze",
+  "example": "The auditor will scrutinize every bill in the report.",
+  "exampleTamil": "தணிக்கையாளர் அறிக்கையில் உள்ள ஒவ்வொரு பில்லையும் கூர்ந்து ஆராய்வார்.",
+  "synonyms": [
+   "examine",
+   "inspect",
+   "study"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sustain",
+  "meaning": "to keep something going for a long time",
+  "tamil": "தொடர்ந்து நிலைநிறுத்து",
+  "pos": "verb",
+  "pron": "suh-STAYN",
+  "example": "It is hard to sustain interest in a boring job.",
+  "exampleTamil": "சலிப்பான வேலையில் ஆர்வத்தைத் தக்கவைப்பது கடினம்.",
+  "synonyms": [
+   "maintain",
+   "continue",
+   "support"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "transparent",
+  "meaning": "open and honest, with nothing hidden",
+  "tamil": "வெளிப்படையான",
+  "pos": "adjective",
+  "pron": "trans-PAIR-unt",
+  "example": "The committee should be transparent about how it spends money.",
+  "exampleTamil": "குழு பணத்தை எப்படி செலவிடுகிறது என்பதில் வெளிப்படையாக இருக்க வேண்டும்.",
+  "synonyms": [
+   "open",
+   "honest",
+   "clear"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "underlying",
+  "meaning": "basic and important but not easy to see at first",
+  "tamil": "அடிப்படையிலுள்ள",
+  "pos": "adjective",
+  "pron": "un-der-LY-ing",
+  "example": "We need to find the underlying cause of the problem.",
+  "exampleTamil": "பிரச்சனையின் அடிப்படைக் காரணத்தை நாம் கண்டறிய வேண்டும்.",
+  "synonyms": [
+   "basic",
+   "root",
+   "hidden"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "viable",
+  "meaning": "able to work or succeed in practice",
+  "tamil": "நடைமுறைக்கு ஏற்ற, சாத்தியமான",
+  "pos": "adjective",
+  "pron": "VY-uh-bul",
+  "example": "Is selling homemade snacks online a viable business?",
+  "exampleTamil": "வீட்டில் செய்த தின்பண்டங்களை ஆன்லைனில் விற்பது சாத்தியமான தொழிலா?",
+  "synonyms": [
+   "workable",
+   "practical",
+   "feasible"
+  ],
+  "level": "advanced"
+ }
+]

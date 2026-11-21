@@ -1,0 +1,347 @@
+[
+ {
+  "word": "say",
+  "meaning": "to speak words to someone",
+  "tamil": "சொல்லு",
+  "pos": "verb",
+  "pron": "SAY",
+  "example": "What did you say? I could not hear you.",
+  "exampleTamil": "நீ என்ன சொன்னாய்? எனக்குக் கேட்கவில்லை.",
+  "synonyms": [
+   "speak",
+   "state"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tell",
+  "meaning": "to give information to someone in words",
+  "tamil": "கூறு, சொல்லு",
+  "pos": "verb",
+  "pron": "TEL",
+  "example": "Please tell me your name again.",
+  "exampleTamil": "தயவுசெய்து உன் பெயரை மீண்டும் சொல்லு.",
+  "synonyms": [
+   "inform",
+   "say"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ask",
+  "meaning": "to say something to get an answer or help",
+  "tamil": "கேள்",
+  "pos": "verb",
+  "pron": "ASK",
+  "example": "Can I ask you a small question?",
+  "exampleTamil": "நான் உன்னிடம் ஒரு சிறிய கேள்வி கேட்கலாமா?",
+  "synonyms": [
+   "inquire",
+   "request"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "excuse",
+  "meaning": "to forgive a small mistake; used to get attention politely",
+  "tamil": "மன்னி, பொறுத்துக்கொள்",
+  "pos": "verb",
+  "pron": "ik-SKYOOZ",
+  "example": "Excuse me, where is the bus stop?",
+  "exampleTamil": "மன்னிக்கவும், பேருந்து நிறுத்தம் எங்கே?",
+  "synonyms": [
+   "pardon",
+   "forgive"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "advice",
+  "meaning": "words that help someone decide what to do",
+  "tamil": "அறிவுரை, ஆலோசனை",
+  "pos": "noun",
+  "pron": "ad-VYSS",
+  "example": "My teacher gave me good advice about exams.",
+  "exampleTamil": "என் ஆசிரியர் தேர்வுகள் பற்றி நல்ல அறிவுரை கொடுத்தார்.",
+  "synonyms": [
+   "tip",
+   "guidance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "discuss",
+  "meaning": "to talk about something with other people",
+  "tamil": "விவாதி, பேசி ஆலோசி",
+  "pos": "verb",
+  "pron": "dis-KUSS",
+  "example": "Let us discuss the plan after lunch.",
+  "exampleTamil": "மதிய உணவுக்குப் பிறகு திட்டத்தைப் பற்றி பேசலாம்.",
+  "synonyms": [
+   "talk over",
+   "debate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "voice",
+  "meaning": "the sound you make when you speak or sing",
+  "tamil": "குரல்",
+  "pos": "noun",
+  "pron": "VOYSS",
+  "example": "Please keep your voice low in the library.",
+  "exampleTamil": "நூலகத்தில் தயவுசெய்து குரலைத் தாழ்த்திப் பேசு.",
+  "synonyms": [
+   "tone"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "speech",
+  "meaning": "a talk given to a group of people",
+  "tamil": "உரை, பேச்சு",
+  "pos": "noun",
+  "pron": "SPEECH",
+  "example": "Her speech at the function was very short.",
+  "exampleTamil": "விழாவில் அவளுடைய உரை மிகவும் சிறியதாக இருந்தது.",
+  "synonyms": [
+   "talk",
+   "address"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "yell",
+  "meaning": "to shout very loudly",
+  "tamil": "கத்து",
+  "pos": "verb",
+  "pron": "YEL",
+  "example": "Please do not yell at the children.",
+  "exampleTamil": "தயவுசெய்து குழந்தைகளிடம் கத்தாதே.",
+  "synonyms": [
+   "shout",
+   "scream"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scream",
+  "meaning": "to cry out in a loud high voice",
+  "tamil": "அலறு, கூச்சலிடு",
+  "pos": "verb",
+  "pron": "SKREEM",
+  "example": "She screamed when she saw the snake.",
+  "exampleTamil": "பாம்பைப் பார்த்ததும் அவள் அலறினாள்.",
+  "synonyms": [
+   "shriek",
+   "yell"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "order",
+  "meaning": "to ask for food or goods; to tell someone to do something",
+  "tamil": "ஆர்டர் செய், கட்டளையிடு",
+  "pos": "verb",
+  "pron": "OR-der",
+  "example": "Let us order two coffees and a snack.",
+  "exampleTamil": "இரண்டு காபியும் ஒரு சிற்றுண்டியும் ஆர்டர் செய்வோம்.",
+  "synonyms": [
+   "request",
+   "command"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sentence",
+  "meaning": "a group of words that gives a complete idea",
+  "tamil": "வாக்கியம்",
+  "pos": "noun",
+  "pron": "SEN-tuns",
+  "example": "Try to say this sentence in English.",
+  "exampleTamil": "இந்த வாக்கியத்தை ஆங்கிலத்தில் சொல்ல முயற்சி செய்.",
+  "synonyms": [
+   "statement"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "phrase",
+  "meaning": "a small group of words used together",
+  "tamil": "சொற்றொடர்",
+  "pos": "noun",
+  "pron": "FRAYZ",
+  "example": "This phrase is useful in every meeting.",
+  "exampleTamil": "இந்தச் சொற்றொடர் ஒவ்வொரு கூட்டத்திலும் பயனுள்ளது.",
+  "synonyms": [
+   "expression",
+   "saying"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quote",
+  "meaning": "to repeat the exact words of someone",
+  "tamil": "மேற்கோள் காட்டு",
+  "pos": "verb",
+  "pron": "KWOHT",
+  "example": "He likes to quote famous people in his talks.",
+  "exampleTamil": "அவன் தன் பேச்சுகளில் பிரபலமானவர்களை மேற்கோள் காட்ட விரும்புகிறான்.",
+  "synonyms": [
+   "cite",
+   "repeat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "deny",
+  "meaning": "to say that something is not true",
+  "tamil": "மறு, இல்லை என்று சொல்",
+  "pos": "verb",
+  "pron": "dee-NY",
+  "example": "He will deny that he broke the glass.",
+  "exampleTamil": "கண்ணாடியை உடைத்தது அவன்தான் என்பதை அவன் மறுப்பான்.",
+  "synonyms": [
+   "reject",
+   "refuse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "beg",
+  "meaning": "to ask for something in a very strong, humble way",
+  "tamil": "கெஞ்சு, இரந்து கேள்",
+  "pos": "verb",
+  "pron": "BEG",
+  "example": "The child begged his mother for an ice cream.",
+  "exampleTamil": "அந்தக் குழந்தை ஐஸ்கிரீமுக்காக அம்மாவிடம் கெஞ்சினான்.",
+  "synonyms": [
+   "plead",
+   "implore"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "frown",
+  "meaning": "to bring your eyebrows together to show you are unhappy",
+  "tamil": "முகம் சுளி",
+  "pos": "verb",
+  "pron": "FROWN",
+  "example": "He frowned when he read the message.",
+  "exampleTamil": "செய்தியைப் படித்ததும் அவன் முகம் சுளித்தான்.",
+  "synonyms": [
+   "scowl"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wink",
+  "meaning": "to close and open one eye quickly as a friendly signal",
+  "tamil": "கண்ணடி",
+  "pos": "verb",
+  "pron": "WINK",
+  "example": "She winked at me to say it was a secret.",
+  "exampleTamil": "அது ரகசியம் என்று சொல்ல அவள் என்னைப் பார்த்துக் கண்ணடித்தாள்.",
+  "synonyms": [
+   "blink"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cheers",
+  "meaning": "a word used when drinking together or to say thanks",
+  "tamil": "மகிழ்ச்சி, நன்றி",
+  "pos": "interjection",
+  "pron": "CHEERZ",
+  "example": "Cheers, my friend! That was a big help.",
+  "exampleTamil": "நன்றி நண்பா! அது பெரிய உதவி.",
+  "synonyms": [
+   "thanks",
+   "good luck"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dear",
+  "meaning": "a word used to begin a letter or email to someone",
+  "tamil": "அன்பான",
+  "pos": "adjective",
+  "pron": "DEER",
+  "example": "Dear Sir, I am writing about the job post.",
+  "exampleTamil": "அன்புள்ள ஐயா, நான் வேலை அறிவிப்பைப் பற்றி எழுதுகிறேன்.",
+  "synonyms": [
+   "beloved"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "subject",
+  "meaning": "the short title line of an email",
+  "tamil": "மின்னஞ்சலின் தலைப்பு",
+  "pos": "noun",
+  "pron": "SUB-jikt",
+  "example": "Please write a clear subject in your email.",
+  "exampleTamil": "உன் மின்னஞ்சலில் தெளிவான தலைப்பை எழுது.",
+  "synonyms": [
+   "topic",
+   "title"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "brag",
+  "meaning": "to talk too proudly about what you have done",
+  "tamil": "தற்பெருமை பேசு",
+  "pos": "verb",
+  "pron": "BRAG",
+  "example": "He likes to brag about his new phone.",
+  "exampleTamil": "அவன் தன் புதிய ஃபோனைப் பற்றி தற்பெருமை பேச விரும்புகிறான்.",
+  "synonyms": [
+   "boast",
+   "show off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hint",
+  "meaning": "a small clue that helps without telling everything",
+  "tamil": "குறிப்பு, சூசகம்",
+  "pos": "noun",
+  "pron": "HINT",
+  "example": "Can you give me a hint about the answer?",
+  "exampleTamil": "விடையைப் பற்றி எனக்கு ஒரு குறிப்பு தர முடியுமா?",
+  "synonyms": [
+   "clue",
+   "tip"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "state",
+  "meaning": "to say something clearly and formally",
+  "tamil": "தெளிவாகக் கூறு",
+  "pos": "verb",
+  "pron": "STAYT",
+  "example": "Please state your name and address.",
+  "exampleTamil": "உன் பெயரையும் முகவரியையும் தெளிவாகக் கூறு.",
+  "synonyms": [
+   "declare",
+   "say"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "assure",
+  "meaning": "to tell someone firmly that something is true so they feel safe",
+  "tamil": "உறுதியளி",
+  "pos": "verb",
+  "pron": "uh-SHOOR",
+  "example": "I assure you the work will be done on time.",
+  "exampleTamil": "வேலை நேரத்தில் முடியும் என்று உனக்கு உறுதியளிக்கிறேன்.",
+  "synonyms": [
+   "promise",
+   "reassure"
+  ],
+  "level": "intermediate"
+ }
+]

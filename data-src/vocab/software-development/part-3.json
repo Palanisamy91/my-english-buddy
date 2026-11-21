@@ -1,0 +1,730 @@
+[
+ {
+  "word": "deploy",
+  "tamil": "மென்பொருளை நேரலைக்கு வெளியிடு (டெப்ளாய்)",
+  "pos": "verb",
+  "pron": "dih-PLOY",
+  "example": "We deploy the new version every Friday.",
+  "exampleTamil": "ஒவ்வொரு வெள்ளிக்கிழமையும் புதிய பதிப்பை டெப்ளாய் செய்கிறோம்.",
+  "synonyms": [
+   "release",
+   "roll out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "release",
+  "tamil": "வெளியீடு (ரிலீஸ்)",
+  "pos": "noun",
+  "pron": "rih-LEES",
+  "example": "The release is scheduled for next Tuesday.",
+  "exampleTamil": "ரிலீஸ் அடுத்த செவ்வாய்க்கு திட்டமிடப்பட்டுள்ளது.",
+  "synonyms": [
+   "launch",
+   "version"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "server",
+  "tamil": "சர்வர், சேவை வழங்கி",
+  "pos": "noun",
+  "pron": "SER-ver",
+  "example": "The server is down again this morning.",
+  "exampleTamil": "இன்று காலை சர்வர் மீண்டும் செயலிழந்துள்ளது.",
+  "synonyms": [
+   "host",
+   "machine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "request",
+  "tamil": "கோரிக்கை (ரிக்வெஸ்ட்)",
+  "pos": "noun",
+  "pron": "rih-KWEST",
+  "example": "Each request takes about two seconds.",
+  "exampleTamil": "ஒவ்வொரு ரிக்வெஸ்ட்டுக்கும் சுமார் இரண்டு வினாடிகள் ஆகிறது.",
+  "synonyms": [
+   "call",
+   "query"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "response",
+  "tamil": "பதில் (ரெஸ்பான்ஸ்)",
+  "pos": "noun",
+  "pron": "rih-SPONS",
+  "example": "The response came back in under a second.",
+  "exampleTamil": "ரெஸ்பான்ஸ் ஒரு வினாடிக்குள் திரும்பி வந்தது.",
+  "synonyms": [
+   "reply",
+   "answer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "database",
+  "tamil": "தரவுத்தளம் (டேட்டாபேஸ்)",
+  "pos": "noun",
+  "pron": "DAY-tuh-bays",
+  "example": "All customer data is stored in the database.",
+  "exampleTamil": "அனைத்து வாடிக்கையாளர் தரவும் டேட்டாபேஸில் சேமிக்கப்படுகிறது.",
+  "synonyms": [
+   "data store",
+   "DB"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "query",
+  "tamil": "தரவுக் கேள்வி (குவெரி)",
+  "pos": "noun",
+  "pron": "KWEER-ee",
+  "example": "This query takes too long to run.",
+  "exampleTamil": "இந்த குவெரி இயங்க மிகவும் நேரம் எடுக்கிறது.",
+  "synonyms": [
+   "search",
+   "question"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "table",
+  "tamil": "அட்டவணை (டேபிள்)",
+  "pos": "noun",
+  "pron": "TAY-bul",
+  "example": "Add a new column to the users table.",
+  "exampleTamil": "யூசர்ஸ் டேபிளில் ஒரு புதிய காலத்தைச் சேர்க்கவும்.",
+  "synonyms": [
+   "grid",
+   "data set"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cloud",
+  "tamil": "மேகக் கணினி (க்ளவுட்)",
+  "pos": "noun",
+  "pron": "KLOWD",
+  "example": "We moved our servers to the cloud last year.",
+  "exampleTamil": "கடந்த ஆண்டு எங்கள் சர்வர்களை க்ளவுடுக்கு மாற்றினோம்.",
+  "synonyms": [
+   "online hosting",
+   "remote servers"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "backup",
+  "tamil": "காப்புப் பிரதி (பேக்கப்)",
+  "pos": "noun",
+  "pron": "BAK-up",
+  "example": "Always take a backup before changing the database.",
+  "exampleTamil": "டேட்டாபேஸை மாற்றும் முன் எப்போதும் பேக்கப் எடுங்கள்.",
+  "synonyms": [
+   "copy",
+   "safeguard"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "build",
+  "tamil": "நிரலைத் தொகுத்து உருவாக்கு (பில்ட்)",
+  "pos": "noun",
+  "pron": "BILD",
+  "example": "The build failed because of a missing file.",
+  "exampleTamil": "ஒரு கோப்பு இல்லாததால் பில்ட் தோல்வியடைந்தது.",
+  "synonyms": [
+   "compilation",
+   "version"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "domain",
+  "tamil": "இணையதளப் பெயர் (டொமைன்)",
+  "pos": "noun",
+  "pron": "doh-MAYN",
+  "example": "We bought a new domain for the project.",
+  "exampleTamil": "திட்டத்துக்காக ஒரு புதிய டொமைன் வாங்கினோம்.",
+  "synonyms": [
+   "web address",
+   "site name"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "production",
+  "tamil": "நேரலைச் சூழல் (ப்ரொடக்ஷன்)",
+  "pos": "noun",
+  "pron": "pruh-DUK-shun",
+  "example": "Never test new code directly in production.",
+  "exampleTamil": "புதிய கோடை ஒருபோதும் நேரடியாக ப்ரொடக்ஷனில் சோதிக்காதீர்கள்.",
+  "synonyms": [
+   "live system",
+   "live environment"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cookie",
+  "tamil": "உலாவியில் சேமிக்கும் சிறு தரவு (குக்கீ)",
+  "pos": "noun",
+  "pron": "KUK-ee",
+  "example": "The site stores a cookie to remember you.",
+  "exampleTamil": "தளம் உங்களை நினைவில் வைக்க ஒரு குக்கீயைச் சேமிக்கிறது.",
+  "synonyms": [
+   "small file",
+   "tracker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "endpoint",
+  "tamil": "சேவை முகவரி (எண்ட்பாயின்ட்)",
+  "pos": "noun",
+  "pron": "END-point",
+  "example": "This endpoint returns a list of orders.",
+  "exampleTamil": "இந்த எண்ட்பாயின்ட் ஆர்டர்களின் பட்டியலைத் தருகிறது.",
+  "synonyms": [
+   "API address",
+   "route"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pipeline",
+  "tamil": "தானியங்கிப் பணி வரிசை (பைப்லைன்)",
+  "pos": "noun",
+  "pron": "PYP-lyn",
+  "example": "The pipeline runs all tests on every commit.",
+  "exampleTamil": "ஒவ்வொரு கமிட்டிலும் பைப்லைன் அனைத்து டெஸ்ட்களையும் இயக்குகிறது.",
+  "synonyms": [
+   "workflow",
+   "process chain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "container",
+  "tamil": "கன்டெய்னர் - தனிப்படுத்தப்பட்ட இயக்கச் சூழல்",
+  "pos": "noun",
+  "pron": "kun-TAY-ner",
+  "example": "Each service runs in its own container.",
+  "exampleTamil": "ஒவ்வொரு சேவையும் தனக்கான கன்டெய்னரில் இயங்குகிறது.",
+  "synonyms": [
+   "package",
+   "isolated environment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cluster",
+  "tamil": "சர்வர் குழு (க்ளஸ்டர்)",
+  "pos": "noun",
+  "pron": "KLUS-ter",
+  "example": "The cluster has five nodes.",
+  "exampleTamil": "அந்த க்ளஸ்டரில் ஐந்து நோட்கள் உள்ளன.",
+  "synonyms": [
+   "group",
+   "set of servers"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "latency",
+  "tamil": "தாமத நேரம் (லேட்டன்சி)",
+  "pos": "noun",
+  "pron": "LAY-tun-see",
+  "example": "High latency makes the app feel slow.",
+  "exampleTamil": "அதிக லேட்டன்சி ஆப்பை மெதுவாக உணர வைக்கிறது.",
+  "synonyms": [
+   "delay",
+   "lag"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "firewall",
+  "tamil": "பாதுகாப்புச் சுவர் (ஃபயர்வால்)",
+  "pos": "noun",
+  "pron": "FY-er-wawl",
+  "example": "The firewall blocks all unknown connections.",
+  "exampleTamil": "தெரியாத இணைப்புகள் அனைத்தையும் ஃபயர்வால் தடுக்கிறது.",
+  "synonyms": [
+   "security filter",
+   "barrier"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "proxy",
+  "tamil": "இடைநிலைச் சேவையகம் (ப்ராக்ஸி)",
+  "pos": "noun",
+  "pron": "PROK-see",
+  "example": "Requests go through a proxy before reaching us.",
+  "exampleTamil": "கோரிக்கைகள் எங்களை அடைவதற்கு முன் ஒரு ப்ராக்ஸி வழியாகச் செல்கின்றன.",
+  "synonyms": [
+   "intermediary",
+   "gateway"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cache",
+  "tamil": "விரைவு நினைவகம் (கேஷ்)",
+  "pos": "noun",
+  "pron": "KASH",
+  "example": "Clear your cache and try again.",
+  "exampleTamil": "உங்கள் கேஷை அழித்துவிட்டு மீண்டும் முயற்சிக்கவும்.",
+  "synonyms": [
+   "temporary store",
+   "buffer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "index",
+  "tamil": "தேடல் வேகப்படுத்தும் குறியீடு (இண்டெக்ஸ்)",
+  "pos": "noun",
+  "pron": "IN-deks",
+  "example": "Adding an index made the query ten times faster.",
+  "exampleTamil": "இண்டெக்ஸ் சேர்த்ததால் குவெரி பத்து மடங்கு வேகமானது.",
+  "synonyms": [
+   "lookup key",
+   "pointer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "schema",
+  "tamil": "தரவு அமைப்பு வடிவம் (ஸ்கீமா)",
+  "pos": "noun",
+  "pron": "SKEE-muh",
+  "example": "The new schema adds two columns to the table.",
+  "exampleTamil": "புதிய ஸ்கீமா டேபிளில் இரண்டு காலங்களைச் சேர்க்கிறது.",
+  "synonyms": [
+   "structure",
+   "blueprint"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "migration",
+  "tamil": "தரவு அல்லது அமைப்பு இடமாற்றம்",
+  "pos": "noun",
+  "pron": "my-GRAY-shun",
+  "example": "The database migration will run overnight.",
+  "exampleTamil": "டேட்டாபேஸ் மைக்ரேஷன் இரவு முழுவதும் நடக்கும்.",
+  "synonyms": [
+   "transfer",
+   "move"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "transaction",
+  "tamil": "பரிவர்த்தனை (ட்ரான்சாக்ஷன்)",
+  "pos": "noun",
+  "pron": "tran-ZAK-shun",
+  "example": "The whole transaction is rolled back if one step fails.",
+  "exampleTamil": "ஒரு படி தோல்வியடைந்தால் முழு பரிவர்த்தனையும் திரும்பப் பெறப்படும்.",
+  "synonyms": [
+   "operation",
+   "exchange"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rollout",
+  "tamil": "படிப்படியான வெளியீடு (ரோல்அவுட்)",
+  "pos": "noun",
+  "pron": "ROHL-owt",
+  "example": "The rollout will happen in three phases.",
+  "exampleTamil": "ரோல்அவுட் மூன்று கட்டங்களாக நடக்கும்.",
+  "synonyms": [
+   "launch",
+   "deployment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "staging",
+  "tamil": "சோதனைச் சூழல் (ஸ்டேஜிங்)",
+  "pos": "noun",
+  "pron": "STAY-jing",
+  "example": "Please test it on staging first.",
+  "exampleTamil": "முதலில் ஸ்டேஜிங்கில் சோதியுங்கள்.",
+  "synonyms": [
+   "pre-production",
+   "test site"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "environment",
+  "tamil": "இயக்கச் சூழல் (என்விரான்மெண்ட்)",
+  "pos": "noun",
+  "pron": "en-VY-run-ment",
+  "example": "It works in the dev environment but not in production.",
+  "exampleTamil": "இது டெவ் சூழலில் வேலை செய்கிறது, ஆனால் ப்ரொடக்ஷனில் இல்லை.",
+  "synonyms": [
+   "setup",
+   "system"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "uptime",
+  "tamil": "சேவை இயங்கும் நேரம் (அப்டைம்)",
+  "pos": "noun",
+  "pron": "UP-tym",
+  "example": "We promised ninety-nine percent uptime to the client.",
+  "exampleTamil": "வாடிக்கையாளருக்கு தொண்ணூற்று ஒன்பது சதவீத அப்டைம் வாக்குறுதி அளித்தோம்.",
+  "synonyms": [
+   "availability",
+   "running time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "payload",
+  "tamil": "கோரிக்கையில் உள்ள தரவு (பேலோடு)",
+  "pos": "noun",
+  "pron": "PAY-lohd",
+  "example": "The payload is too large for this endpoint.",
+  "exampleTamil": "இந்த எண்ட்பாயின்ட்டுக்கு பேலோடு மிகப் பெரியது.",
+  "synonyms": [
+   "data body",
+   "content"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "timeout",
+  "tamil": "காலக்கெடு முடிவு (டைம்அவுட்)",
+  "pos": "noun",
+  "pron": "TYM-owt",
+  "example": "The request ended with a timeout after thirty seconds.",
+  "exampleTamil": "முப்பது வினாடிகளுக்குப் பிறகு ரிக்வெஸ்ட் டைம்அவுட்டில் முடிந்தது.",
+  "synonyms": [
+   "expiry",
+   "time limit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "webhook",
+  "tamil": "நிகழ்வு அறிவிப்புக் கோரிக்கை (வெப்ஹூக்)",
+  "pos": "noun",
+  "pron": "WEB-hook",
+  "example": "The payment service calls our webhook after every sale.",
+  "exampleTamil": "ஒவ்வொரு விற்பனைக்குப் பிறகும் பேமெண்ட் சேவை எங்கள் வெப்ஹூக்கை அழைக்கிறது.",
+  "synonyms": [
+   "callback",
+   "notification"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "redirect",
+  "tamil": "வேறு பக்கத்துக்கு அனுப்பு",
+  "pos": "verb",
+  "pron": "ree-dih-REKT",
+  "example": "The site will redirect you to the login page.",
+  "exampleTamil": "தளம் உங்களை லாகின் பக்கத்துக்கு திருப்பிவிடும்.",
+  "synonyms": [
+   "forward",
+   "reroute"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "packet",
+  "tamil": "தரவுப் பொட்டலம் (பாக்கெட்)",
+  "pos": "noun",
+  "pron": "PAK-it",
+  "example": "Some packets were lost on the way.",
+  "exampleTamil": "சில பாக்கெட்டுகள் வழியில் தொலைந்துவிட்டன.",
+  "synonyms": [
+   "data unit",
+   "chunk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "protocol",
+  "tamil": "தொடர்பு விதிமுறை (ப்ரோட்டோகால்)",
+  "pos": "noun",
+  "pron": "PROH-tuh-kol",
+  "example": "HTTP is the protocol used by web browsers.",
+  "exampleTamil": "HTTP என்பது உலாவிகள் பயன்படுத்தும் ப்ரோட்டோகால்.",
+  "synonyms": [
+   "standard",
+   "rules"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gateway",
+  "tamil": "நுழைவாயில் (கேட்வே)",
+  "pos": "noun",
+  "pron": "GAYT-way",
+  "example": "All traffic goes through the API gateway.",
+  "exampleTamil": "அனைத்து போக்குவரத்தும் API கேட்வே வழியாகச் செல்கிறது.",
+  "synonyms": [
+   "entry point",
+   "portal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "snapshot",
+  "tamil": "குறிப்பிட்ட நேர நிலைப் படம் (ஸ்னாப்ஷாட்)",
+  "pos": "noun",
+  "pron": "SNAP-shot",
+  "example": "Take a snapshot of the disk before the upgrade.",
+  "exampleTamil": "மேம்படுத்தும் முன் டிஸ்க்கின் ஸ்னாப்ஷாட் எடுங்கள்.",
+  "synonyms": [
+   "image",
+   "backup"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "monitoring",
+  "tamil": "கண்காணிப்பு (மானிட்டரிங்)",
+  "pos": "noun",
+  "pron": "MON-ih-tor-ing",
+  "example": "Monitoring alerted us before customers noticed anything.",
+  "exampleTamil": "வாடிக்கையாளர்கள் கவனிக்கும் முன்பே மானிட்டரிங் எங்களை எச்சரித்தது.",
+  "synonyms": [
+   "observation",
+   "tracking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "status code",
+  "tamil": "பதில் நிலைக் குறியீடு",
+  "pos": "noun",
+  "pron": "STAY-tus kohd",
+  "example": "A 404 status code means the page was not found.",
+  "exampleTamil": "404 ஸ்டேட்டஸ் கோட் என்றால் பக்கம் கிடைக்கவில்லை என்று பொருள்.",
+  "synonyms": [
+   "response code",
+   "HTTP code"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "replica",
+  "tamil": "தரவுத்தள நகல் (ரெப்ளிக்கா)",
+  "pos": "noun",
+  "pron": "REP-lih-kuh",
+  "example": "Reads go to the replica, not the main database.",
+  "exampleTamil": "வாசிப்புகள் முதன்மை டேட்டாபேஸுக்கு அல்ல, ரெப்ளிக்காவுக்குச் செல்கின்றன.",
+  "synonyms": [
+   "copy",
+   "duplicate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "shard",
+  "tamil": "தரவுப் பிரிவு (ஷார்டு)",
+  "pos": "noun",
+  "pron": "SHARD",
+  "example": "Each shard holds data for a different region.",
+  "exampleTamil": "ஒவ்வொரு ஷார்டும் வேறொரு பகுதியின் தரவைக் கொண்டுள்ளது.",
+  "synonyms": [
+   "partition",
+   "segment"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "orchestration",
+  "tamil": "பல சேவைகளை ஒருங்கிணைத்து இயக்குதல்",
+  "pos": "noun",
+  "pron": "or-kuh-STRAY-shun",
+  "example": "Container orchestration saves us a lot of manual work.",
+  "exampleTamil": "கன்டெய்னர் ஆர்க்கெஸ்ட்ரேஷன் எங்களுக்கு நிறைய கைமுறை வேலையைச் சேமிக்கிறது.",
+  "synonyms": [
+   "coordination",
+   "automation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "provisioning",
+  "tamil": "வளங்களைத் தயார் செய்தல்",
+  "pos": "noun",
+  "pron": "pruh-VIZH-uh-ning",
+  "example": "Automated provisioning creates a new server in minutes.",
+  "exampleTamil": "தானியங்கி ப்ரொவிஷனிங் நிமிடங்களில் ஒரு புதிய சர்வரை உருவாக்குகிறது.",
+  "synonyms": [
+   "setup",
+   "allocation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "load balancer",
+  "tamil": "சுமையைப் பகிரும் அமைப்பு",
+  "pos": "noun",
+  "pron": "LOHD BAL-un-ser",
+  "example": "The load balancer sends traffic to healthy servers only.",
+  "exampleTamil": "லோட் பேலன்சர் ஆரோக்கியமான சர்வர்களுக்கு மட்டுமே போக்குவரத்தை அனுப்புகிறது.",
+  "synonyms": [
+   "traffic distributor",
+   "router"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "serverless",
+  "tamil": "சர்வர் நிர்வாகம் இல்லாத (சர்வர்லெஸ்)",
+  "pos": "adjective",
+  "pron": "SERV-er-less",
+  "example": "We chose a serverless setup to keep costs low.",
+  "exampleTamil": "செலவைக் குறைக்க சர்வர்லெஸ் அமைப்பைத் தேர்ந்தெடுத்தோம்.",
+  "synonyms": [
+   "managed",
+   "cloud-based"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "infrastructure",
+  "tamil": "உள்கட்டமைப்பு",
+  "pos": "noun",
+  "pron": "IN-fruh-struk-cher",
+  "example": "The infrastructure team manages all our servers.",
+  "exampleTamil": "இன்ஃப்ராஸ்ட்ரக்சர் குழு எங்கள் அனைத்து சர்வர்களையும் நிர்வகிக்கிறது.",
+  "synonyms": [
+   "foundation",
+   "systems"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "artifact",
+  "tamil": "உருவாக்கப்பட்ட பில்ட் கோப்பு (ஆர்ட்டிஃபாக்ட்)",
+  "pos": "noun",
+  "pron": "AR-tih-fakt",
+  "example": "The build artifact is uploaded after every successful run.",
+  "exampleTamil": "ஒவ்வொரு வெற்றிகரமான ரன்னுக்குப் பிறகும் பில்ட் ஆர்ட்டிஃபாக்ட் பதிவேற்றப்படுகிறது.",
+  "synonyms": [
+   "build output",
+   "package"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "registry",
+  "tamil": "தொகுப்புகள் சேமிக்கும் இடம் (ரெஜிஸ்ட்ரி)",
+  "pos": "noun",
+  "pron": "REJ-is-tree",
+  "example": "Push the image to the container registry.",
+  "exampleTamil": "இமேஜை கன்டெய்னர் ரெஜிஸ்ட்ரிக்கு புஷ் செய்யுங்கள்.",
+  "synonyms": [
+   "repository",
+   "store"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "namespace",
+  "tamil": "பெயர்ப் பிரிவு (நேம்ஸ்பேஸ்)",
+  "pos": "noun",
+  "pron": "NAYM-spays",
+  "example": "Each team has its own namespace in the cluster.",
+  "exampleTamil": "ஒவ்வொரு குழுவுக்கும் க்ளஸ்டரில் தனி நேம்ஸ்பேஸ் உள்ளது.",
+  "synonyms": [
+   "scope",
+   "partition"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "idempotent",
+  "tamil": "மீண்டும் செய்தாலும் ஒரே விளைவு",
+  "pos": "adjective",
+  "pron": "eye-dem-POH-tunt",
+  "example": "A good payment API must be idempotent.",
+  "exampleTamil": "ஒரு நல்ல பேமெண்ட் API இடெம்போட்டன்ட் ஆக இருக்க வேண்டும்.",
+  "synonyms": [
+   "repeatable",
+   "safe to retry"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "throttle",
+  "tamil": "கோரிக்கை வேகத்தைக் கட்டுப்படுத்து",
+  "pos": "verb",
+  "pron": "THROT-ul",
+  "example": "We throttle requests to protect the server.",
+  "exampleTamil": "சர்வரைப் பாதுகாக்க ரிக்வெஸ்ட்களை த்ராட்டில் செய்கிறோம்.",
+  "synonyms": [
+   "limit",
+   "restrict"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pagination",
+  "tamil": "பக்கம் பக்கமாகப் பிரித்தல்",
+  "pos": "noun",
+  "pron": "paj-ih-NAY-shun",
+  "example": "Pagination keeps large result lists fast.",
+  "exampleTamil": "பெரிய முடிவுப் பட்டியல்களை பேஜினேஷன் வேகமாக வைத்திருக்கிறது.",
+  "synonyms": [
+   "paging",
+   "splitting"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "failover",
+  "tamil": "தானியங்கி மாற்று இயக்கம் (ஃபெய்ல்ஓவர்)",
+  "pos": "noun",
+  "pron": "FAYL-oh-ver",
+  "example": "The failover switched traffic to the backup server instantly.",
+  "exampleTamil": "ஃபெய்ல்ஓவர் போக்குவரத்தை உடனே பேக்கப் சர்வருக்கு மாற்றியது.",
+  "synonyms": [
+   "switchover",
+   "backup mode"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "deadlock",
+  "tamil": "இரு செயல்கள் ஒன்றையொன்று தடுக்கும் நிலை",
+  "pos": "noun",
+  "pron": "DED-lok",
+  "example": "A deadlock froze both database sessions.",
+  "exampleTamil": "ஒரு டெட்லாக் இரண்டு டேட்டாபேஸ் செஷன்களையும் முடக்கியது.",
+  "synonyms": [
+   "standstill",
+   "stalemate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "foreign key",
+  "tamil": "வேறு அட்டவணையைக் குறிக்கும் திறவுகோல்",
+  "pos": "noun",
+  "pron": "FOR-in KEE",
+  "example": "The orders table has a foreign key to customers.",
+  "exampleTamil": "ஆர்டர்ஸ் டேபிளில் வாடிக்கையாளர்களுக்கான ஒரு ஃபாரின் கீ உள்ளது.",
+  "synonyms": [
+   "reference key",
+   "link"
+  ],
+  "level": "advanced"
+ }
+]

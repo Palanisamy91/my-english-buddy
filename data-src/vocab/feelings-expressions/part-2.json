@@ -1,0 +1,352 @@
+[
+ {
+  "word": "sulk",
+  "meaning": "To stay silent and angry because you did not get what you wanted",
+  "tamil": "கோபத்தில் மௌனமாக இருக்க, முகம் தூக்கி வைக்க",
+  "pos": "verb",
+  "pron": "SULK",
+  "example": "He sulked in his room after losing the match.",
+  "exampleTamil": "ஆட்டத்தில் தோற்றபின் அவன் தன் அறையில் முகம் தூக்கிக்கொண்டு இருந்தான்.",
+  "synonyms": [
+   "pout",
+   "brood"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mourn",
+  "meaning": "To feel and show deep sadness after a death",
+  "tamil": "இறந்தவருக்காக துக்கம் அனுசரிக்க",
+  "pos": "verb",
+  "pron": "MORN",
+  "example": "The family mourned the loss of their grandfather.",
+  "exampleTamil": "குடும்பத்தினர் தங்கள் தாத்தாவின் இழப்புக்காக துக்கம் அனுசரித்தனர்.",
+  "synonyms": [
+   "grieve",
+   "lament"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "terrified",
+  "meaning": "Extremely afraid",
+  "tamil": "மிகவும் பயந்த",
+  "pos": "adjective",
+  "pron": "TER-uh-fyd",
+  "example": "I was terrified when the lights went off suddenly.",
+  "exampleTamil": "விளக்குகள் திடீரென அணைந்தபோது நான் மிகவும் பயந்தேன்.",
+  "synonyms": [
+   "frightened",
+   "scared stiff"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fond",
+  "meaning": "Liking someone or something with warm feelings",
+  "tamil": "பாசம் கொண்ட, விரும்பும்",
+  "pos": "adjective",
+  "pron": "FOND",
+  "example": "She is very fond of her little nephew.",
+  "exampleTamil": "அவளுக்கு தன் சிறிய மருமகனிடம் மிகுந்த பாசம்.",
+  "synonyms": [
+   "affectionate",
+   "attached"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "crush",
+  "meaning": "A strong liking for someone, usually for a short time",
+  "tamil": "ஒருவர் மேல் ஏற்படும் கவர்ச்சி, ஒருதலைக் காதல்",
+  "pos": "noun",
+  "pron": "KRUSH",
+  "example": "He had a crush on his classmate in college.",
+  "exampleTamil": "கல்லூரியில் அவனுக்கு தன் வகுப்புத் தோழி மேல் ஒருதலைக் காதல் இருந்தது.",
+  "synonyms": [
+   "infatuation",
+   "liking"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bond",
+  "meaning": "A close link of love or trust between people",
+  "tamil": "உறவின் பிணைப்பு, நெருக்கம்",
+  "pos": "noun",
+  "pron": "BOND",
+  "example": "There is a strong bond between the two sisters.",
+  "exampleTamil": "அந்த இரண்டு சகோதரிகளுக்கும் இடையே வலுவான பிணைப்பு உள்ளது.",
+  "synonyms": [
+   "connection",
+   "tie"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tantrum",
+  "meaning": "A sudden fit of angry crying or shouting, mostly by a child",
+  "tamil": "குழந்தையின் கோபக் கூச்சல், அடம்",
+  "pos": "noun",
+  "pron": "TAN-trum",
+  "example": "The baby threw a tantrum in the toy shop.",
+  "exampleTamil": "பொம்மைக் கடையில் குழந்தை அடம்பிடித்து கத்தியது.",
+  "synonyms": [
+   "outburst",
+   "fit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "merry",
+  "meaning": "Cheerful and full of fun",
+  "tamil": "மகிழ்ச்சியான, கலகலப்பான",
+  "pos": "adjective",
+  "pron": "MER-ee",
+  "example": "We had a merry evening with all our cousins.",
+  "exampleTamil": "எல்லா உறவினர்களுடன் நாங்கள் கலகலப்பான மாலைப்பொழுது கழித்தோம்.",
+  "synonyms": [
+   "joyful",
+   "jolly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "jumpy",
+  "meaning": "Nervous and easily frightened",
+  "tamil": "எளிதில் பயப்படும், பதற்றமான",
+  "pos": "adjective",
+  "pron": "JUM-pee",
+  "example": "I feel jumpy after watching that horror movie.",
+  "exampleTamil": "அந்த பேய்ப்படம் பார்த்த பிறகு நான் பதற்றமாக உணர்கிறேன்.",
+  "synonyms": [
+   "nervous",
+   "edgy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "goofy",
+  "meaning": "Silly in a fun and harmless way",
+  "tamil": "விளையாட்டுத்தனமான, கோமாளித்தனமான",
+  "pos": "adjective",
+  "pron": "GOO-fee",
+  "example": "My uncle tells goofy jokes that make us all laugh.",
+  "exampleTamil": "என் மாமா கோமாளித்தனமான நகைச்சுவைகள் சொல்லி எங்களை சிரிக்க வைப்பார்.",
+  "synonyms": [
+   "silly",
+   "funny"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bashful",
+  "meaning": "Shy and easily embarrassed",
+  "tamil": "கூச்ச சுபாவமுள்ள",
+  "pos": "adjective",
+  "pron": "BASH-ful",
+  "example": "The bashful boy hid behind his mother.",
+  "exampleTamil": "கூச்சமுள்ள சிறுவன் தன் அம்மாவின் பின்னால் ஒளிந்தான்.",
+  "synonyms": [
+   "shy",
+   "timid"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "affectionate",
+  "meaning": "Showing love and care openly",
+  "tamil": "அன்பு காட்டும், பாசமுள்ள",
+  "pos": "adjective",
+  "pron": "uh-FEK-shuh-nit",
+  "example": "Our cat is very affectionate and sits on my lap.",
+  "exampleTamil": "எங்கள் பூனை மிகவும் பாசமுள்ளது, என் மடியில் உட்காரும்.",
+  "synonyms": [
+   "loving",
+   "caring"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cheeky",
+  "meaning": "Slightly rude but in a playful way",
+  "tamil": "துடுக்கான, குறும்பாக பேசும்",
+  "pos": "adjective",
+  "pron": "CHEE-kee",
+  "example": "The cheeky boy winked at his teacher.",
+  "exampleTamil": "துடுக்கான சிறுவன் ஆசிரியரைப் பார்த்து கண்ணடித்தான்.",
+  "synonyms": [
+   "impudent",
+   "playful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "faithful",
+  "meaning": "Staying loyal and true to someone",
+  "tamil": "விசுவாசமான, நம்பிக்கைக்குரிய",
+  "pos": "adjective",
+  "pron": "FAYTH-ful",
+  "example": "He was a faithful friend through every hard time.",
+  "exampleTamil": "ஒவ்வொரு கஷ்ட காலத்திலும் அவன் விசுவாசமான நண்பனாக இருந்தான்.",
+  "synonyms": [
+   "loyal",
+   "devoted"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "betray",
+  "meaning": "To break someone's trust by doing something against them",
+  "tamil": "துரோகம் செய்ய, நம்பிக்கையை உடைக்க",
+  "pos": "verb",
+  "pron": "bih-TRAY",
+  "example": "I never thought my friend would betray me.",
+  "exampleTamil": "என் நண்பன் எனக்கு துரோகம் செய்வான் என்று நான் நினைக்கவே இல்லை.",
+  "synonyms": [
+   "deceive",
+   "double-cross"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "easygoing",
+  "meaning": "Relaxed and not easily worried or upset",
+  "tamil": "எதையும் எளிதாக எடுத்துக்கொள்ளும்",
+  "pos": "adjective",
+  "pron": "EE-zee-GOH-ing",
+  "example": "My manager is easygoing and never shouts at us.",
+  "exampleTamil": "என் மேலாளர் எளிதாக பழகுபவர், எங்களிடம் ஒருபோதும் கத்தமாட்டார்.",
+  "synonyms": [
+   "relaxed",
+   "laid-back"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bubbly",
+  "meaning": "Lively, cheerful and full of energy",
+  "tamil": "கலகலப்பான, துள்ளலான",
+  "pos": "adjective",
+  "pron": "BUB-lee",
+  "example": "Her bubbly nature makes every party more fun.",
+  "exampleTamil": "அவளுடைய கலகலப்பான குணம் ஒவ்வொரு விழாவையும் இனிமையாக்குகிறது.",
+  "synonyms": [
+   "lively",
+   "vivacious"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "introvert",
+  "meaning": "A quiet person who likes to spend time alone",
+  "tamil": "தனிமையை விரும்பும் அமைதியான நபர்",
+  "pos": "noun",
+  "pron": "IN-truh-vert",
+  "example": "As an introvert, I need some quiet time after parties.",
+  "exampleTamil": "நான் உள்முகமானவன் என்பதால் விழாக்களுக்கு பிறகு எனக்கு அமைதியான நேரம் வேண்டும்.",
+  "synonyms": [
+   "loner",
+   "quiet person"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "extrovert",
+  "meaning": "A person who enjoys being with other people",
+  "tamil": "மற்றவர்களுடன் பழக விரும்பும் நபர்",
+  "pos": "noun",
+  "pron": "EK-struh-vert",
+  "example": "Meena is an extrovert who makes friends everywhere.",
+  "exampleTamil": "மீனா எல்லா இடத்திலும் நண்பர்களை உருவாக்கும் வெளிப்படையான நபர்.",
+  "synonyms": [
+   "social person",
+   "outgoing person"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "edgy",
+  "meaning": "Nervous and slightly tense",
+  "tamil": "பதற்றமான, எரிச்சலான மனநிலையில்",
+  "pos": "adjective",
+  "pron": "EJ-ee",
+  "example": "I felt edgy before the interview results came.",
+  "exampleTamil": "நேர்காணல் முடிவுகள் வரும் முன் நான் பதற்றமாக இருந்தேன்.",
+  "synonyms": [
+   "tense",
+   "jittery"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sullen",
+  "meaning": "Silent and bad-tempered",
+  "tamil": "முகம் தூக்கிய, மௌன கோபமுள்ள",
+  "pos": "adjective",
+  "pron": "SUL-un",
+  "example": "He gave a sullen reply and left the room.",
+  "exampleTamil": "அவன் கோபமான மௌனத்துடன் பதில் சொல்லிவிட்டு அறையை விட்டு சென்றான்.",
+  "synonyms": [
+   "moody",
+   "sulky"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "glum",
+  "meaning": "Sad and quiet",
+  "tamil": "சோகமாக, வாடிய முகத்துடன்",
+  "pos": "adjective",
+  "pron": "GLUM",
+  "example": "Why are you so glum after the holiday?",
+  "exampleTamil": "விடுமுறைக்குப் பிறகு நீ ஏன் இவ்வளவு சோகமாக இருக்கிறாய்?",
+  "synonyms": [
+   "gloomy",
+   "downcast"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dejected",
+  "meaning": "Sad because you have failed or lost hope",
+  "tamil": "மனம் தளர்ந்த, ஏமாற்றமடைந்த",
+  "pos": "adjective",
+  "pron": "dih-JEK-tid",
+  "example": "He looked dejected after missing the job by one mark.",
+  "exampleTamil": "ஒரு மதிப்பெண்ணில் வேலையை இழந்ததால் அவன் மனம் தளர்ந்து காணப்பட்டான்.",
+  "synonyms": [
+   "disheartened",
+   "depressed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "upbeat",
+  "meaning": "Cheerful and positive",
+  "tamil": "நம்பிக்கையான, உற்சாகமான",
+  "pos": "adjective",
+  "pron": "UP-beet",
+  "example": "She stayed upbeat even during the long wait.",
+  "exampleTamil": "நீண்ட காத்திருப்பிலும் அவள் உற்சாகமாகவே இருந்தாள்.",
+  "synonyms": [
+   "positive",
+   "optimistic"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cynical",
+  "meaning": "Not trusting people and thinking they act only for themselves",
+  "tamil": "சந்தேக மனப்பான்மையுள்ள",
+  "pos": "adjective",
+  "pron": "SIN-ih-kul",
+  "example": "He is cynical about every promise politicians make.",
+  "exampleTamil": "அரசியல்வாதிகளின் ஒவ்வொரு வாக்குறுதியையும் அவன் சந்தேகத்துடன் பார்க்கிறான்.",
+  "synonyms": [
+   "doubtful",
+   "distrustful"
+  ],
+  "level": "intermediate"
+ }
+]

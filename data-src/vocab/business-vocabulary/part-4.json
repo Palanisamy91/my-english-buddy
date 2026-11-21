@@ -1,0 +1,352 @@
+[
+ {
+  "word": "levy",
+  "meaning": "An extra tax or charge collected by the government.",
+  "tamil": "கூடுதல் வரி",
+  "pos": "noun",
+  "pron": "LEV-ee",
+  "example": "The government added a new levy on plastic bags.",
+  "exampleTamil": "அரசு பிளாஸ்டிக் பைகளுக்கு புதிய கூடுதல் வரி விதித்தது.",
+  "synonyms": [
+   "tax",
+   "charge"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "withholding",
+  "meaning": "Tax taken out of your payment before you receive it.",
+  "tamil": "முன்கூட்டியே பிடிக்கப்படும் வரி",
+  "pos": "noun",
+  "pron": "with-HOHL-ding",
+  "example": "Withholding tax is cut from the freelancer's payment.",
+  "exampleTamil": "முன்கூட்டியே பிடிக்கப்படும் வரி சுயதொழில் பணியாளரின் பணத்திலிருந்து கழிக்கப்படுகிறது.",
+  "synonyms": [
+   "deduction",
+   "tax cut"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "guarantor",
+  "meaning": "A person who promises to pay a loan if the borrower cannot.",
+  "tamil": "உத்தரவாதம் அளிப்பவர்",
+  "pos": "noun",
+  "pron": "gair-un-TOR",
+  "example": "My father agreed to be the guarantor for my education loan.",
+  "exampleTamil": "என் கல்விக் கடனுக்கு உத்தரவாதம் அளிப்பவராக இருக்க என் அப்பா ஒப்புக்கொண்டார்.",
+  "synonyms": [
+   "backer",
+   "sponsor"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "speculate",
+  "meaning": "To invest in risky things hoping to make a quick profit.",
+  "tamil": "ஊக வணிகம் செய்",
+  "pos": "verb",
+  "pron": "SPEK-yuh-layt",
+  "example": "Some people speculate in shares and lose everything.",
+  "exampleTamil": "சிலர் பங்குகளில் ஊக வணிகம் செய்து எல்லாவற்றையும் இழக்கிறார்கள்.",
+  "synonyms": [
+   "gamble",
+   "bet"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "amortize",
+  "meaning": "To pay off a debt slowly with regular payments.",
+  "tamil": "கடனைத் தவணையாகத் தீர்",
+  "pos": "verb",
+  "pron": "AM-er-tyz",
+  "example": "The bank lets us amortize the loan over twenty years.",
+  "exampleTamil": "வங்கி எங்களை இருபது ஆண்டுகளில் கடனைத் தவணையாகத் தீர்க்க அனுமதிக்கிறது.",
+  "synonyms": [
+   "repay",
+   "pay off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dissolve",
+  "meaning": "To officially end a company or partnership.",
+  "tamil": "முறைப்படி கலை",
+  "pos": "verb",
+  "pron": "dih-ZOLV",
+  "example": "The two partners decided to dissolve the business.",
+  "exampleTamil": "இரு கூட்டாளிகளும் வணிகத்தை முறைப்படி கலைக்க முடிவு செய்தனர்.",
+  "synonyms": [
+   "wind up",
+   "disband"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "underperform",
+  "meaning": "To do worse than expected or worse than others.",
+  "tamil": "எதிர்பார்த்ததை விடக் குறைவாகச் செயல்படு",
+  "pos": "verb",
+  "pron": "un-der-per-FORM",
+  "example": "The new product continued to underperform in the south.",
+  "exampleTamil": "புதிய பொருள் தெற்கில் தொடர்ந்து எதிர்பார்த்ததை விடக் குறைவாக விற்றது.",
+  "synonyms": [
+   "fall short",
+   "lag"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cold-call",
+  "meaning": "To phone a stranger to sell something without being asked.",
+  "tamil": "முன்பின் தெரியாதவரை அழைத்து விற்க முயல்",
+  "pos": "verb",
+  "pron": "KOHLD-kawl",
+  "example": "I hate it when people cold-call me about insurance.",
+  "exampleTamil": "காப்பீடு பற்றி யாராவது முன்னறிவிப்பின்றி அழைத்தால் எனக்குப் பிடிக்காது.",
+  "synonyms": [
+   "telemarket",
+   "phone"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cross-sell",
+  "meaning": "To sell an extra product to someone who already bought something.",
+  "tamil": "கூடுதல் பொருளை விற்க முயல்",
+  "pos": "verb",
+  "pron": "KROS-sell",
+  "example": "Banks often cross-sell insurance to loan customers.",
+  "exampleTamil": "வங்கிகள் கடன் வாடிக்கையாளர்களுக்கு அடிக்கடி காப்பீட்டையும் விற்க முயல்கின்றன.",
+  "synonyms": [
+   "upsell",
+   "add on"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stake",
+  "meaning": "A share or interest that you own in a business.",
+  "tamil": "பங்குரிமை",
+  "pos": "noun",
+  "pron": "STAYK",
+  "example": "She holds a ten percent stake in the company.",
+  "exampleTamil": "அவள் நிறுவனத்தில் பத்து சதவீத பங்குரிமை வைத்திருக்கிறாள்.",
+  "synonyms": [
+   "share",
+   "interest"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "unicorn",
+  "meaning": "A startup worth more than one billion dollars.",
+  "tamil": "நூறு கோடி டாலர் மதிப்புள்ள தொடக்க நிறுவனம்",
+  "pos": "noun",
+  "pron": "YOO-nih-korn",
+  "example": "India now has many startup unicorns.",
+  "exampleTamil": "இந்தியாவில் இப்போது பல நூறு கோடி டாலர் மதிப்புள்ள தொடக்க நிறுவனங்கள் உள்ளன.",
+  "synonyms": [
+   "billion-dollar startup",
+   "giant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "payback",
+  "meaning": "The time or return needed to earn back the money you invested.",
+  "tamil": "முதலீடு திரும்பக் கிடைப்பது",
+  "pos": "noun",
+  "pron": "PAY-bak",
+  "example": "The new machine has a payback period of two years.",
+  "exampleTamil": "புதிய இயந்திரத்தின் முதலீடு இரண்டு ஆண்டுகளில் திரும்பக் கிடைக்கும்.",
+  "synonyms": [
+   "return",
+   "recovery"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "magnate",
+  "meaning": "A very rich and powerful person in a certain industry.",
+  "tamil": "பெரும் தொழில் அதிபர்",
+  "pos": "noun",
+  "pron": "MAG-nayt",
+  "example": "He became a steel magnate in his forties.",
+  "exampleTamil": "அவர் நாற்பது வயதில் ஒரு எஃகு தொழில் அதிபராக ஆனார்.",
+  "synonyms": [
+   "tycoon",
+   "mogul"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mogul",
+  "meaning": "An important and powerful person in business or media.",
+  "tamil": "செல்வாக்குள்ள தொழில் அதிபர்",
+  "pos": "noun",
+  "pron": "MOH-gul",
+  "example": "The media mogul bought two television channels.",
+  "exampleTamil": "அந்த ஊடக அதிபர் இரண்டு தொலைக்காட்சி சேனல்களை வாங்கினார்.",
+  "synonyms": [
+   "tycoon",
+   "baron"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "remit",
+  "meaning": "To send money to someone, often as payment.",
+  "tamil": "பணம் அனுப்பு",
+  "pos": "verb",
+  "pron": "rih-MIT",
+  "example": "Please remit the amount to our bank account.",
+  "exampleTamil": "தயவுசெய்து அந்தத் தொகையை எங்கள் வங்கிக் கணக்கிற்கு அனுப்பவும்.",
+  "synonyms": [
+   "send",
+   "pay"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "instalment",
+  "meaning": "One of several smaller payments that pay off a total amount.",
+  "tamil": "தவணை",
+  "pos": "noun",
+  "pron": "in-STAWL-munt",
+  "example": "I pay the second instalment of my bike loan tomorrow.",
+  "exampleTamil": "என் பைக் கடனின் இரண்டாவது தவணையை நாளை செலுத்துகிறேன்.",
+  "synonyms": [
+   "part payment",
+   "EMI"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bankrupt",
+  "meaning": "Unable to pay debts and legally declared so.",
+  "tamil": "திவாலான",
+  "pos": "adjective",
+  "pron": "BANK-rupt",
+  "example": "The bankrupt company closed all its shops.",
+  "exampleTamil": "திவாலான நிறுவனம் தன் எல்லாக் கடைகளையும் மூடியது.",
+  "synonyms": [
+   "insolvent",
+   "broke"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "solvent",
+  "meaning": "Having enough money to pay all your debts.",
+  "tamil": "கடன் அடைக்கும் திறனுள்ள",
+  "pos": "adjective",
+  "pron": "SOL-vunt",
+  "example": "The business stayed solvent despite the slow year.",
+  "exampleTamil": "மந்தமான ஆண்டிலும் அந்த வணிகம் கடன் அடைக்கும் திறனுடன் இருந்தது.",
+  "synonyms": [
+   "stable",
+   "creditworthy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "liquidity",
+  "meaning": "How easily a business can turn assets into cash.",
+  "tamil": "உடனடிப் பணப்புழக்கம்",
+  "pos": "noun",
+  "pron": "lih-KWID-ih-tee",
+  "example": "The firm has good liquidity and can pay bills quickly.",
+  "exampleTamil": "நிறுவனத்துக்கு நல்ல பணப்புழக்கம் இருப்பதால் பில்களை விரைவாகச் செலுத்த முடியும்.",
+  "synonyms": [
+   "cash flow",
+   "ready money"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "valuation",
+  "meaning": "An estimate of how much a company or property is worth.",
+  "tamil": "மதிப்பீடு",
+  "pos": "noun",
+  "pron": "val-yoo-AY-shun",
+  "example": "The startup's valuation doubled in one year.",
+  "exampleTamil": "அந்தத் தொடக்க நிறுவனத்தின் மதிப்பீடு ஓராண்டில் இரட்டிப்பானது.",
+  "synonyms": [
+   "appraisal",
+   "estimate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "royalty",
+  "meaning": "Money paid to a writer or inventor each time their work is sold.",
+  "tamil": "உரிமைத் தொகை",
+  "pos": "noun",
+  "pron": "ROY-ul-tee",
+  "example": "The author earns a royalty on every book sold.",
+  "exampleTamil": "விற்கப்படும் ஒவ்வொரு புத்தகத்துக்கும் ஆசிரியர் உரிமைத் தொகை பெறுகிறார்.",
+  "synonyms": [
+   "commission",
+   "fee"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "monopoly",
+  "meaning": "Control of a market by one company with no competition.",
+  "tamil": "ஏகபோக உரிமை",
+  "pos": "noun",
+  "pron": "muh-NOP-uh-lee",
+  "example": "The company had a monopoly on mobile services in the town.",
+  "exampleTamil": "அந்த நிறுவனத்துக்கு நகரத்தில் கைபேசி சேவையில் ஏகபோக உரிமை இருந்தது.",
+  "synonyms": [
+   "control",
+   "exclusive right"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "merger",
+  "meaning": "The joining of two companies into one.",
+  "tamil": "நிறுவன இணைப்பு",
+  "pos": "noun",
+  "pron": "MUR-jer",
+  "example": "The merger of the two banks was announced yesterday.",
+  "exampleTamil": "இரு வங்கிகளின் இணைப்பு நேற்று அறிவிக்கப்பட்டது.",
+  "synonyms": [
+   "union",
+   "combination"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "subsidiary",
+  "meaning": "A company that is owned and controlled by a bigger company.",
+  "tamil": "துணை நிறுவனம்",
+  "pos": "noun",
+  "pron": "sub-SID-ee-air-ee",
+  "example": "The car maker has a subsidiary in Chennai.",
+  "exampleTamil": "அந்தக் கார் நிறுவனத்துக்கு சென்னையில் ஒரு துணை நிறுவனம் உள்ளது.",
+  "synonyms": [
+   "branch",
+   "affiliate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bootstrap",
+  "meaning": "To start and grow a business using only your own money.",
+  "tamil": "சொந்தப் பணத்தில் தொழில் தொடங்கு",
+  "pos": "verb",
+  "pron": "BOOT-strap",
+  "example": "She bootstrapped her company without any investors.",
+  "exampleTamil": "அவள் எந்த முதலீட்டாளரும் இல்லாமல் தன் நிறுவனத்தைச் சொந்தப் பணத்தில் தொடங்கினாள்.",
+  "synonyms": [
+   "self-fund",
+   "start up"
+  ],
+  "level": "advanced"
+ }
+]

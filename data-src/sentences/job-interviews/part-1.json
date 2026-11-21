@@ -1,0 +1,374 @@
+[
+ {
+  "en": "Good morning, sir, thank you for giving me this opportunity.",
+  "tamil": "காலை வணக்கம் சார், எனக்கு இந்த வாய்ப்பு கொடுத்ததுக்கு நன்றி.",
+  "context": "Greeting the interview panel when you enter the room.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "A polite opening line. 'Thank you for giving me' shows respect and good manners.",
+  "words": [
+   "opportunity"
+  ],
+  "usage": "Say it with the panel at the start of an interview, right after you sit down.",
+  "leelaQ": "How would you greet the panel at the start of an interview?",
+  "answer": "I would say good morning and thank you for the opportunity."
+ },
+ {
+  "en": "Please tell us a little about yourself.",
+  "tamil": "உங்களைப் பத்தி கொஞ்சம் சொல்லுங்க.",
+  "context": "The interviewer starts the interview with the most common question.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Tell us about yourself' is the usual first question. 'A little' means a short answer is enough.",
+  "words": [
+   "yourself"
+  ],
+  "usage": "An interviewer says this to start the conversation and see how you speak.",
+  "leelaQ": "Can you introduce yourself to me in two or three lines?",
+  "answer": "I am Karthik from Madurai, and I am a computer science graduate."
+ },
+ {
+  "en": "I completed my engineering in Coimbatore in 2022.",
+  "tamil": "நான் 2022-ல கோயம்புத்தூர்ல என் இன்ஜினியரிங் முடிச்சேன்.",
+  "context": "Talking about your education in an interview.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Completed' is past tense, used for a finished course. Use 'in' with a city and with a year.",
+  "words": [
+   "completed",
+   "engineering"
+  ],
+  "usage": "Use it when the interviewer asks about your studies and your college.",
+  "leelaQ": "Where did you complete your studies, and in which year?",
+  "answer": "I completed my degree in Trichy in 2021."
+ },
+ {
+  "en": "I am a quick learner and I enjoy working in a team.",
+  "tamil": "நான் சீக்கிரமா கத்துக்குவேன், டீம்ல வேலை செய்யவும் எனக்குப் பிடிக்கும்.",
+  "context": "Describing your good qualities to the interviewer.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Two good qualities joined with 'and'. 'Quick learner' means someone who learns new things fast.",
+  "words": [
+   "quick learner",
+   "team"
+  ],
+  "usage": "Say it when you introduce yourself or when asked about your qualities.",
+  "leelaQ": "What are two good qualities you have as a worker?",
+  "answer": "I am hardworking, and I always help my teammates."
+ },
+ {
+  "en": "What do you think is your biggest strength?",
+  "tamil": "உங்களோட மிகப் பெரிய பலம் என்னன்னு நினைக்கிறீங்க?",
+  "context": "The interviewer asks about your main strength.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A very common interview question. 'Do you think' inside the question keeps 'is' in normal order.",
+  "words": [
+   "strength"
+  ],
+  "usage": "Expect it in almost every interview, from freshers and experienced people alike.",
+  "leelaQ": "Tell me, what is your biggest strength at work?",
+  "answer": "My biggest strength is that I finish my work on time."
+ },
+ {
+  "en": "My biggest strength is that I stay calm under pressure.",
+  "tamil": "என்னோட பெரிய பலம் என்னன்னா, அழுத்தத்துல நான் அமைதியா இருப்பேன்.",
+  "context": "Answering the strength question in an interview.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Is that I ...' joins the strength with a full sentence. 'Under pressure' means in a stressful time.",
+  "words": [
+   "strength",
+   "calm",
+   "pressure"
+  ],
+  "usage": "A good answer for jobs with deadlines, such as support, sales or IT.",
+  "leelaQ": "How do you feel when there is too much work and a short deadline?",
+  "answer": "I stay calm and make a plan to finish everything step by step."
+ },
+ {
+  "en": "I can adjust to any shift the company needs.",
+  "tamil": "கம்பெனிக்கு எந்த ஷிஃப்ட் தேவையோ அதுக்கு நான் அட்ஜஸ்ட் பண்ணிக்குவேன்.",
+  "context": "Telling HR that you are flexible about timings.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Adjust to' means to change yourself to suit something. 'Any' shows you are very flexible.",
+  "words": [
+   "adjust",
+   "shift"
+  ],
+  "usage": "Say it to HR when you want to show you are flexible and ready to work.",
+  "leelaQ": "Are you flexible with your working hours?",
+  "answer": "Yes, I can adjust to morning or evening hours."
+ },
+ {
+  "en": "I led a small team of four people in my last project.",
+  "tamil": "என்னோட கடைசி ப்ராஜெக்ட்ல நான் நாலு பேர் கொண்ட சின்ன டீமை லீட் பண்ணினேன்.",
+  "context": "Giving an example of your leadership skill.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Led' is the past of 'lead'. 'Of four people' tells the size of the team.",
+  "words": [
+   "led",
+   "project"
+  ],
+  "usage": "Use it when the interviewer asks for proof of leadership or teamwork.",
+  "leelaQ": "Have you ever led a group at college or at work?",
+  "answer": "Yes, I led my college team in a final year project."
+ },
+ {
+  "en": "I do not give up easily when a problem is difficult.",
+  "tamil": "பிரச்சனை கஷ்டமா இருந்தா நான் சுலபமா விட்டுக் கொடுக்க மாட்டேன்.",
+  "context": "Showing that you are determined during an interview.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Give up' means to stop trying. 'Do not ... easily' shows you keep trying for a long time.",
+  "words": [
+   "give up",
+   "difficult"
+  ],
+  "usage": "A good line when asked how you face problems or failure at work.",
+  "leelaQ": "What do you do when a task is very difficult?",
+  "answer": "I try again and I ask my seniors if I need help."
+ },
+ {
+  "en": "My friend working here told me about this opening.",
+  "tamil": "இங்க வேலை செய்யற என் ஃப்ரெண்ட் இந்த காலியிடத்தைப் பத்தி சொன்னாரு.",
+  "context": "Answering how you came to know about the job.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Working here' tells which friend. 'Opening' means a vacancy, a job that is free to apply.",
+  "words": [
+   "opening"
+  ],
+  "usage": "Use it when you came by a referral from a friend or a relative at the company.",
+  "leelaQ": "Who told you about your current or last job?",
+  "answer": "My cousin told me about it, and I applied the same day."
+ },
+ {
+  "en": "I have worked as a customer support executive for three years.",
+  "tamil": "நான் மூணு வருஷமா கஸ்டமர் சப்போர்ட் எக்ஸிக்யூட்டிவா வேலை செஞ்சிருக்கேன்.",
+  "context": "Explaining your work experience in an interview.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect with 'for three years' shows experience that connects the past with now.",
+  "words": [
+   "worked",
+   "executive"
+  ],
+  "usage": "Say it when the interviewer asks how much experience you have.",
+  "leelaQ": "How many years of work experience do you have?",
+  "answer": "I have two years of experience in sales."
+ },
+ {
+  "en": "Could you explain the role in a little more detail?",
+  "tamil": "இந்த ரோலைப் பத்தி இன்னும் கொஞ்சம் விவரமா சொல்ல முடியுமா?",
+  "context": "Asking the interviewer to describe the job.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you ...?' is a polite request. Asking about the role shows that you are interested.",
+  "words": [
+   "role",
+   "detail"
+  ],
+  "usage": "Ask it politely when you want to know the exact work of the job.",
+  "leelaQ": "What would you ask the interviewer about the job?",
+  "answer": "I would ask what my daily work will be."
+ },
+ {
+  "en": "I am currently working at a software company in Chennai.",
+  "tamil": "நான் இப்போ சென்னையில ஒரு சாஃப்ட்வேர் கம்பெனில வேலை செய்யறேன்.",
+  "context": "Telling the interviewer where you work now.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with 'currently' shows something that is happening at this time.",
+  "words": [
+   "currently",
+   "software"
+  ],
+  "usage": "Use it when asked about your present job and place of work.",
+  "leelaQ": "Where are you working at the moment?",
+  "answer": "I am working in a small shop near my house."
+ },
+ {
+  "en": "Are you comfortable with a lot of travel?",
+  "tamil": "நிறைய பயணம் செய்யறது உங்களுக்கு சௌகரியமா இருக்குமா?",
+  "context": "HR asks about travel for a sales job.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Comfortable with' means you feel fine about something. 'A lot of' is used for big amounts.",
+  "words": [
+   "comfortable",
+   "travel"
+  ],
+  "usage": "Sales, field and audit jobs often have this question from HR.",
+  "leelaQ": "Do you like travelling for work, or do you prefer staying in one place?",
+  "answer": "I like travelling because I get to meet many new people."
+ },
+ {
+  "en": "Yes, I am ready to travel whenever the work needs it.",
+  "tamil": "ஆமா, வேலைக்குத் தேவைப்படும்போதெல்லாம் பயணம் செய்ய நான் தயார்.",
+  "context": "Telling HR you can travel for the job.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Whenever' means every time that. 'Ready to' is followed by the base verb.",
+  "words": [
+   "ready",
+   "whenever"
+  ],
+  "usage": "Use it when the job needs field visits or outstation trips.",
+  "leelaQ": "Are you ready to go on a work trip next week?",
+  "answer": "Yes, I am ready, and I can pack in one day."
+ },
+ {
+  "en": "I will give my best effort from the very first day.",
+  "tamil": "முதல் நாள்ல இருந்தே என்னோட முழு முயற்சியையும் போடுவேன்.",
+  "context": "Promising hard work when the interviewer asks what you will do for the company.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' shows a promise. 'Very' makes 'first day' stronger. 'Best effort' means the most you can do.",
+  "words": [
+   "effort"
+  ],
+  "usage": "A confident way to end an answer about what you will bring to the job.",
+  "leelaQ": "What will you do in your first week at a new job?",
+  "answer": "I will learn the work and help my team as much as I can."
+ },
+ {
+  "en": "Have you handled any difficult customers before?",
+  "tamil": "இதுக்கு முன்னாடி கஷ்டமான கஸ்டமர்களை நீங்க சமாளிச்சிருக்கீங்களா?",
+  "context": "The interviewer tests your customer handling skills.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "Present perfect with 'before' asks about experience in life up to now.",
+  "words": [
+   "handled",
+   "customers"
+  ],
+  "usage": "Asked in support, retail and hotel interviews to check your patience.",
+  "leelaQ": "How do you talk to a customer who is angry?",
+  "answer": "I listen to him calmly and then I try to solve the problem."
+ },
+ {
+  "en": "Yes, I once calmed down an angry customer and solved his problem.",
+  "tamil": "ஆமா, ஒரு தடவை கோபமா இருந்த கஸ்டமரை சமாதானப்படுத்தி அவரோட பிரச்சனையை தீர்த்து வச்சேன்.",
+  "context": "Giving an example of handling a customer complaint.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Once' means one time in the past. 'Calmed down' is a phrasal verb meaning made someone quiet.",
+  "words": [
+   "calmed",
+   "angry",
+   "solved"
+  ],
+  "usage": "Use a short story like this when the interviewer asks for an example.",
+  "leelaQ": "Can you tell me about a time you helped someone with a problem?",
+  "answer": "Yes, I helped my neighbour fix his phone last week."
+ },
+ {
+  "en": "I am not afraid of hard work.",
+  "tamil": "கடினமா உழைக்க எனக்குப் பயம் இல்லை.",
+  "context": "Showing a strong attitude to the interviewer.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not afraid of' means you are brave about something. 'Hard work' means a lot of effort.",
+  "words": [
+   "afraid",
+   "hard work"
+  ],
+  "usage": "Freshers use it to show they will work seriously even with little experience.",
+  "leelaQ": "Do you like jobs that need a lot of hard work?",
+  "answer": "Yes, I do, because hard work helps me learn faster."
+ },
+ {
+  "en": "My English is not perfect, but I am improving every day.",
+  "tamil": "என்னோட இங்கிலீஷ் முழுசா சரியா இல்ல, ஆனா தினமும் முன்னேறிட்டு இருக்கேன்.",
+  "context": "Being honest about your English in an interview.",
+  "tense": "present-continuous",
+  "type": "negative",
+  "explain": "'But' joins a weak point with a good point. 'Am improving' shows steady progress.",
+  "words": [
+   "perfect",
+   "improving"
+  ],
+  "usage": "An honest and positive answer when the interviewer asks about your English.",
+  "leelaQ": "How are you improving your English these days?",
+  "answer": "I practise speaking for ten minutes every day."
+ },
+ {
+  "en": "In five years, I want to grow into a team leader role.",
+  "tamil": "அஞ்சு வருஷத்துல ஒரு டீம் லீடர் பொசிஷனுக்கு வளரணும்னு ஆசைப்படறேன்.",
+  "context": "Sharing your career goal with the interviewer.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Grow into' means slowly become. 'Want to' is followed by the base verb.",
+  "words": [
+   "grow",
+   "leader"
+  ],
+  "usage": "Use it to answer the future plans question with a clear and realistic goal.",
+  "leelaQ": "What job position would you like to reach one day?",
+  "answer": "I would like to become a manager after some years."
+ },
+ {
+  "en": "I enjoy solving problems, so this role suits me well.",
+  "tamil": "எனக்கு பிரச்சனைகளை தீர்க்கறது பிடிக்கும், அதனால இந்த ரோல் எனக்குப் பொருத்தமா இருக்கும்.",
+  "context": "Linking your interest with the job role.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Enjoy' is followed by an -ing word. 'So' gives the result. 'Suits me' means is right for me.",
+  "words": [
+   "enjoy",
+   "solving",
+   "suits"
+  ],
+  "usage": "Say it when the interviewer asks why you are right for the job.",
+  "leelaQ": "What kind of work do you enjoy doing most?",
+  "answer": "I enjoy fixing technical problems and helping people."
+ },
+ {
+  "en": "Could you tell me more about the team I would work with?",
+  "tamil": "நான் யாரோட டீம்ல வேலை செய்வேன்னு இன்னும் கொஞ்சம் சொல்ல முடியுமா?",
+  "context": "Asking the interviewer about the team.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is a polite way to ask. It shows you are interested in the job.",
+  "words": [
+   "team"
+  ],
+  "usage": "Use it at the end of an interview to show interest in the role.",
+  "leelaQ": "Who would you like to work with in your next job?",
+  "answer": "I would like to work with friendly and helpful people."
+ },
+ {
+  "en": "I am not comfortable with night shifts because of my family.",
+  "tamil": "குடும்பம் காரணமா எனக்கு நைட் ஷிஃப்ட் வசதியா இருக்காது.",
+  "context": "Honestly telling HR about a limit.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not comfortable with' is a polite way to say no. Give a short reason.",
+  "words": [
+   "shifts",
+   "comfortable"
+  ],
+  "usage": "Use it with HR when you must be honest about timing limits.",
+  "leelaQ": "Which work timing is best for you?",
+  "answer": "Day time is best for me because I can be with my family."
+ },
+ {
+  "en": "I have been working as an accountant for four years.",
+  "tamil": "நான் நாலு வருஷமா அக்கவுண்டன்டா வேலை செய்யறேன்.",
+  "context": "Explaining your work experience.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been working' with 'for' shows an activity that started in the past and continues now.",
+  "words": [
+   "accountant",
+   "years"
+  ],
+  "usage": "Use it when the interviewer asks about your experience.",
+  "leelaQ": "How long have you been doing your current work?",
+  "answer": "I have been working in this job for three years."
+ }
+]

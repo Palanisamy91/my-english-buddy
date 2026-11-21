@@ -1,0 +1,341 @@
+[
+ {
+  "word": "meeting",
+  "meaning": "A time when people gather to talk and decide things.",
+  "tamil": "கூட்டம்",
+  "pos": "noun",
+  "pron": "MEE-ting",
+  "example": "We have a team meeting at ten o'clock.",
+  "exampleTamil": "நமக்கு பத்து மணிக்கு குழுக் கூட்டம் இருக்கிறது.",
+  "synonyms": [
+   "gathering",
+   "conference"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "project",
+  "meaning": "A planned piece of work with a clear goal.",
+  "tamil": "திட்டப்பணி",
+  "pos": "noun",
+  "pron": "PROJ-ekt",
+  "example": "Our new project will finish by March.",
+  "exampleTamil": "எங்கள் புதிய திட்டப்பணி மார்ச்சுக்குள் முடியும்.",
+  "synonyms": [
+   "assignment",
+   "plan"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "team",
+  "meaning": "A group of people who work together.",
+  "tamil": "குழு",
+  "pos": "noun",
+  "pron": "TEEM",
+  "example": "Our team works well together.",
+  "exampleTamil": "எங்கள் குழு ஒன்றாக நன்றாக வேலை செய்கிறது.",
+  "synonyms": [
+   "group",
+   "crew"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "office",
+  "meaning": "A place where people do desk work.",
+  "tamil": "அலுவலகம்",
+  "pos": "noun",
+  "pron": "OF-is",
+  "example": "I reach the office by nine every day.",
+  "exampleTamil": "நான் தினமும் ஒன்பது மணிக்கு அலுவலகம் சென்றடைகிறேன்.",
+  "synonyms": [
+   "workplace"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "laptop",
+  "meaning": "A small computer you can carry.",
+  "tamil": "மடிக்கணினி",
+  "pos": "noun",
+  "pron": "LAP-top",
+  "example": "She opened her laptop and started working.",
+  "exampleTamil": "அவள் தன் மடிக்கணினியைத் திறந்து வேலை செய்யத் தொடங்கினாள்.",
+  "synonyms": [
+   "notebook"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "loss",
+  "meaning": "Money lost when costs are more than income.",
+  "tamil": "நஷ்டம்",
+  "pos": "noun",
+  "pron": "LOSS",
+  "example": "The company had a big loss this year.",
+  "exampleTamil": "இந்த ஆண்டு நிறுவனத்துக்கு பெரிய நஷ்டம் ஏற்பட்டது.",
+  "synonyms": [
+   "deficit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ratio",
+  "meaning": "A comparison of two amounts, such as 2 to 1.",
+  "tamil": "விகிதம்",
+  "pos": "noun",
+  "pron": "RAY-shoh",
+  "example": "The ratio of men to women here is equal.",
+  "exampleTamil": "இங்கு ஆண்கள் பெண்கள் விகிதம் சமமாக உள்ளது.",
+  "synonyms": [
+   "proportion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rule",
+  "meaning": "An official instruction about what you must do.",
+  "tamil": "விதி",
+  "pos": "noun",
+  "pron": "ROOL",
+  "example": "It is a company rule to wear an ID card.",
+  "exampleTamil": "அடையாள அட்டை அணிவது நிறுவன விதி.",
+  "synonyms": [
+   "regulation",
+   "law"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "process",
+  "meaning": "A series of steps to get something done.",
+  "tamil": "செயல்முறை",
+  "pos": "noun",
+  "pron": "PROS-es",
+  "example": "The hiring process takes two weeks.",
+  "exampleTamil": "ஆட்சேர்ப்பு செயல்முறை இரண்டு வாரங்கள் ஆகும்.",
+  "synonyms": [
+   "procedure",
+   "method"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "decision",
+  "meaning": "A choice you make after thinking.",
+  "tamil": "முடிவு",
+  "pos": "noun",
+  "pron": "dih-SIZH-un",
+  "example": "The manager made a quick decision.",
+  "exampleTamil": "மேலாளர் விரைவாக ஒரு முடிவு எடுத்தார்.",
+  "synonyms": [
+   "choice",
+   "verdict"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "detail",
+  "meaning": "A small fact or piece of information.",
+  "tamil": "விவரம்",
+  "pos": "noun",
+  "pron": "DEE-tayl",
+  "example": "Please send me every detail by email.",
+  "exampleTamil": "தயவுசெய்து எல்லா விவரங்களையும் மின்னஞ்சலில் அனுப்புங்கள்.",
+  "synonyms": [
+   "particular",
+   "information"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chair",
+  "meaning": "The person who leads a meeting.",
+  "tamil": "தலைவர் (கூட்டத்தின்)",
+  "pos": "noun",
+  "pron": "CHAIR",
+  "example": "Ravi will chair the meeting today.",
+  "exampleTamil": "இன்று ரவி கூட்டத்தை வழிநடத்துவார்.",
+  "synonyms": [
+   "leader",
+   "head"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "review",
+  "meaning": "To check something carefully again.",
+  "tamil": "மறுபரிசீலனை செய்",
+  "pos": "verb",
+  "pron": "rih-VYOO",
+  "example": "Please review my report before Friday.",
+  "exampleTamil": "வெள்ளிக்கு முன் என் அறிக்கையை மறுபார்வை செய்யுங்கள்.",
+  "synonyms": [
+   "check",
+   "examine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "diary",
+  "meaning": "A book where you write daily plans and notes.",
+  "tamil": "நாட்குறிப்பேடு",
+  "pos": "noun",
+  "pron": "DY-uh-ree",
+  "example": "I wrote the meeting time in my diary.",
+  "exampleTamil": "நான் கூட்ட நேரத்தை என் நாட்குறிப்பேட்டில் எழுதினேன்.",
+  "synonyms": [
+   "journal",
+   "planner"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "clipboard",
+  "meaning": "A small board with a clip for holding papers.",
+  "tamil": "கிளிப் பலகை",
+  "pos": "noun",
+  "pron": "KLIP-bord",
+  "example": "He wrote the notes on his clipboard.",
+  "exampleTamil": "அவர் தன் கிளிப் பலகையில் குறிப்புகளை எழுதினார்.",
+  "synonyms": [
+   "writing board"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lanyard",
+  "meaning": "A cord worn around the neck to hold an ID card.",
+  "tamil": "அடையாள அட்டை கயிறு",
+  "pos": "noun",
+  "pron": "LAN-yerd",
+  "example": "Please wear your lanyard inside the office.",
+  "exampleTamil": "அலுவலகத்துக்குள் உங்கள் அடையாள அட்டை கயிற்றை அணியுங்கள்.",
+  "synonyms": [
+   "neck cord"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "elevator",
+  "meaning": "A machine that carries people between floors.",
+  "tamil": "மின்தூக்கி",
+  "pos": "noun",
+  "pron": "EL-uh-vay-ter",
+  "example": "Our office is on the tenth floor, so take the elevator.",
+  "exampleTamil": "எங்கள் அலுவலகம் பத்தாவது மாடியில் உள்ளது, மின்தூக்கியைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "lift"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "uniform",
+  "meaning": "Special clothes worn by staff at work.",
+  "tamil": "சீருடை",
+  "pos": "noun",
+  "pron": "YOO-nih-form",
+  "example": "Every guard wears a blue uniform.",
+  "exampleTamil": "ஒவ்வொரு காவலரும் நீல சீருடை அணிகிறார்.",
+  "synonyms": [
+   "outfit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "handshake",
+  "meaning": "Greeting by holding and shaking someone's hand.",
+  "tamil": "கைகுலுக்கல்",
+  "pos": "noun",
+  "pron": "HAND-shayk",
+  "example": "He greeted the client with a firm handshake.",
+  "exampleTamil": "அவர் வாடிக்கையாளரை உறுதியான கைகுலுக்கலுடன் வரவேற்றார்.",
+  "synonyms": [
+   "greeting"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "binder",
+  "meaning": "A cover with rings that holds loose papers.",
+  "tamil": "கோப்பு அட்டை",
+  "pos": "noun",
+  "pron": "BYN-der",
+  "example": "Keep all the bills in one binder.",
+  "exampleTamil": "எல்லா பில்களையும் ஒரே கோப்பு அட்டையில் வையுங்கள்.",
+  "synonyms": [
+   "folder",
+   "file"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "newsletter",
+  "meaning": "A short report sent regularly to staff or members.",
+  "tamil": "செய்தி மடல்",
+  "pos": "noun",
+  "pron": "NYOOZ-let-er",
+  "example": "The monthly newsletter has company news.",
+  "exampleTamil": "மாதாந்திர செய்தி மடலில் நிறுவனச் செய்திகள் உள்ளன.",
+  "synonyms": [
+   "bulletin"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "penalty",
+  "meaning": "A punishment or extra payment for breaking a rule.",
+  "tamil": "அபராதம்",
+  "pos": "noun",
+  "pron": "PEN-ul-tee",
+  "example": "There is a penalty for late payment.",
+  "exampleTamil": "தாமதமாகச் செலுத்தினால் அபராதம் உண்டு.",
+  "synonyms": [
+   "punishment",
+   "charge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shredder",
+  "meaning": "A machine that cuts paper into small pieces.",
+  "tamil": "காகிதத் துண்டாக்கி",
+  "pos": "noun",
+  "pron": "SHRED-er",
+  "example": "Put the old papers in the shredder.",
+  "exampleTamil": "பழைய காகிதங்களை காகிதத் துண்டாக்கியில் போடுங்கள்.",
+  "synonyms": [
+   "paper cutter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "calculate",
+  "meaning": "To find a number by doing maths.",
+  "tamil": "கணக்கிடு",
+  "pos": "verb",
+  "pron": "KAL-kyuh-layt",
+  "example": "Please calculate the total cost for me.",
+  "exampleTamil": "தயவுசெய்து மொத்த செலவை எனக்காக கணக்கிடுங்கள்.",
+  "synonyms": [
+   "compute",
+   "count"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "percentage",
+  "meaning": "A part of a whole shown out of one hundred.",
+  "tamil": "சதவீதம்",
+  "pos": "noun",
+  "pron": "per-SEN-tij",
+  "example": "What percentage of staff came on time?",
+  "exampleTamil": "எவ்வளவு சதவீத ஊழியர்கள் நேரத்தில் வந்தார்கள்?",
+  "synonyms": [
+   "proportion",
+   "share"
+  ],
+  "level": "beginner"
+ }
+]

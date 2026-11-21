@@ -1,0 +1,912 @@
+[
+ {
+  "word": "find out",
+  "tamil": "தெரிந்துகொள்ள",
+  "pos": "phrasal verb",
+  "pron": "FYND OWT",
+  "example": "I will find out what time the shop opens.",
+  "exampleTamil": "கடை எத்தனை மணிக்குத் திறக்கும் என்று நான் கண்டறிகிறேன்.",
+  "synonyms": [
+   "discover",
+   "learn"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "carry on",
+  "tamil": "தொடர்ந்து செய்ய",
+  "pos": "phrasal verb",
+  "pron": "KAR-ee ON",
+  "example": "Please carry on with your work.",
+  "exampleTamil": "தயவுசெய்து உங்கள் வேலையைத் தொடருங்கள்.",
+  "synonyms": [
+   "continue",
+   "keep going"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "turn out",
+  "tamil": "முடிவாக அமைய",
+  "pos": "phrasal verb",
+  "pron": "TURN OWT",
+  "example": "The party turned out better than expected.",
+  "exampleTamil": "விருந்து எதிர்பார்த்ததை விட நன்றாக அமைந்தது.",
+  "synonyms": [
+   "prove to be",
+   "end up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "end up",
+  "tamil": "இறுதியில் ஆக",
+  "pos": "phrasal verb",
+  "pron": "END UP",
+  "example": "We ended up eating at a small roadside stall.",
+  "exampleTamil": "நாங்கள் இறுதியில் சாலையோரச் சிறு கடையில் சாப்பிட்டோம்.",
+  "synonyms": [
+   "finish",
+   "wind up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "work out",
+  "tamil": "தீர்வு காண, உடற்பயிற்சி செய்ய",
+  "pos": "phrasal verb",
+  "pron": "WURK OWT",
+  "example": "Don't worry, everything will work out fine.",
+  "exampleTamil": "கவலைப்படாதீர்கள், எல்லாம் நல்லபடியாக முடியும்.",
+  "synonyms": [
+   "succeed",
+   "solve"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "look after",
+  "tamil": "கவனித்துக்கொள்ள",
+  "pos": "phrasal verb",
+  "pron": "LUK AF-ter",
+  "example": "She looks after her grandmother every weekend.",
+  "exampleTamil": "அவள் ஒவ்வொரு வார இறுதியும் தன் பாட்டியைக் கவனித்துக்கொள்கிறாள்.",
+  "synonyms": [
+   "take care of",
+   "tend"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "make up",
+  "tamil": "சமாதானமாக / கற்பனை செய்ய",
+  "pos": "phrasal verb",
+  "pron": "MAYK UP",
+  "example": "They quarrelled, but they will make up soon.",
+  "exampleTamil": "அவர்கள் சண்டையிட்டனர், ஆனால் விரைவில் சமாதானமாகிவிடுவார்கள்.",
+  "synonyms": [
+   "reconcile",
+   "invent"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "put off",
+  "tamil": "தள்ளிப்போட",
+  "pos": "phrasal verb",
+  "pron": "PUT OF",
+  "example": "Don't put off your work until the last minute.",
+  "exampleTamil": "உங்கள் வேலையை கடைசி நிமிடம் வரை தள்ளிப்போடாதீர்கள்.",
+  "synonyms": [
+   "delay",
+   "postpone"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cut down",
+  "tamil": "குறைக்க",
+  "pos": "phrasal verb",
+  "pron": "KUT DOWN",
+  "example": "The doctor told him to cut down on sugar.",
+  "exampleTamil": "சர்க்கரையைக் குறைக்கும்படி மருத்துவர் அவனிடம் கூறினார்.",
+  "synonyms": [
+   "reduce",
+   "decrease"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "take part",
+  "tamil": "பங்கேற்க",
+  "pos": "phrase",
+  "pron": "TAYK PART",
+  "example": "Everyone should take part in the discussion.",
+  "exampleTamil": "எல்லோரும் விவாதத்தில் பங்கேற்க வேண்டும்.",
+  "synonyms": [
+   "participate",
+   "join in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "in fact",
+  "tamil": "உண்மையில்",
+  "pos": "phrase",
+  "pron": "in FAKT",
+  "example": "In fact, I have never been to Delhi.",
+  "exampleTamil": "உண்மையில் நான் டெல்லிக்குப் போனதே இல்லை.",
+  "synonyms": [
+   "actually",
+   "really"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "as well as",
+  "tamil": "மட்டுமின்றி",
+  "pos": "phrase",
+  "pron": "az WEL az",
+  "example": "He plays cricket as well as football.",
+  "exampleTamil": "அவன் கால்பந்து மட்டுமின்றி கிரிக்கெட்டும் விளையாடுவான்.",
+  "synonyms": [
+   "in addition to",
+   "along with"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "in case",
+  "tamil": "ஒருவேளை என்பதற்காக",
+  "pos": "phrase",
+  "pron": "in KAYS",
+  "example": "Take an umbrella in case it rains.",
+  "exampleTamil": "மழை பெய்தால் என்று குடையை எடுத்துச் செல்லுங்கள்.",
+  "synonyms": [
+   "just in case",
+   "if"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "on purpose",
+  "tamil": "வேண்டுமென்றே",
+  "pos": "phrase",
+  "pron": "on PUR-pus",
+  "example": "I did not break the glass on purpose.",
+  "exampleTamil": "நான் கண்ணாடியை வேண்டுமென்றே உடைக்கவில்லை.",
+  "synonyms": [
+   "deliberately",
+   "intentionally"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "by mistake",
+  "tamil": "தவறுதலாக",
+  "pos": "phrase",
+  "pron": "by mis-TAYK",
+  "example": "I took your umbrella by mistake.",
+  "exampleTamil": "நான் தவறுதலாக உங்கள் குடையை எடுத்துவிட்டேன்.",
+  "synonyms": [
+   "accidentally",
+   "in error"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "at least",
+  "tamil": "குறைந்தபட்சம்",
+  "pos": "phrase",
+  "pron": "at LEEST",
+  "example": "Drink at least two litres of water a day.",
+  "exampleTamil": "ஒரு நாளைக்கு குறைந்தது இரண்டு லிட்டர் தண்ணீர் குடியுங்கள்.",
+  "synonyms": [
+   "no less than",
+   "minimum"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "for instance",
+  "tamil": "எடுத்துக்காட்டாக",
+  "pos": "phrase",
+  "pron": "fer IN-stuns",
+  "example": "Many fruits are healthy, for instance, apples and oranges.",
+  "exampleTamil": "பல பழங்கள் ஆரோக்கியமானவை, எடுத்துக்காட்டாக ஆப்பிள், ஆரஞ்சு.",
+  "synonyms": [
+   "for example",
+   "such as"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "in general",
+  "tamil": "பொதுவாக",
+  "pos": "phrase",
+  "pron": "in JEN-er-ul",
+  "example": "In general, trains here run on time.",
+  "exampleTamil": "பொதுவாக இங்கு ரயில்கள் சரியான நேரத்தில் ஓடும்.",
+  "synonyms": [
+   "generally",
+   "on the whole"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "as soon as",
+  "tamil": "உடனே, ... ஆனவுடன்",
+  "pos": "phrase",
+  "pron": "az SOON az",
+  "example": "Call me as soon as you reach home.",
+  "exampleTamil": "வீட்டை அடைந்தவுடன் எனக்கு அழையுங்கள்.",
+  "synonyms": [
+   "immediately after",
+   "once"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "so far",
+  "tamil": "இதுவரை",
+  "pos": "phrase",
+  "pron": "soh FAR",
+  "example": "So far, the project is going well.",
+  "exampleTamil": "இதுவரை திட்டம் நன்றாகச் சென்றுகொண்டிருக்கிறது.",
+  "synonyms": [
+   "until now",
+   "to date"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "after all",
+  "tamil": "எல்லாவற்றுக்கும் பிறகு",
+  "pos": "phrase",
+  "pron": "AF-ter AWL",
+  "example": "She came to the party after all.",
+  "exampleTamil": "எல்லாம் முடிந்து அவள் விருந்துக்கு வந்தாள்.",
+  "synonyms": [
+   "in the end",
+   "anyway"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "by the way",
+  "tamil": "சொல்லப்போனால்",
+  "pos": "phrase",
+  "pron": "by thuh WAY",
+  "example": "By the way, have you seen my keys?",
+  "exampleTamil": "சொல்லப்போனால், என் சாவிகளைப் பார்த்தீர்களா?",
+  "synonyms": [
+   "incidentally",
+   "on another note"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "no matter",
+  "tamil": "எதுவாக இருந்தாலும்",
+  "pos": "phrase",
+  "pron": "NOH MAT-er",
+  "example": "No matter how hard I try, I cannot win.",
+  "exampleTamil": "நான் எவ்வளவு முயன்றாலும் என்னால் வெல்ல முடியவில்லை.",
+  "synonyms": [
+   "regardless",
+   "whatever"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "according to",
+  "tamil": "... படி",
+  "pos": "phrase",
+  "pron": "uh-KAWR-ding too",
+  "example": "According to the forecast, it will rain tomorrow.",
+  "exampleTamil": "வானிலை அறிவிப்பின்படி நாளை மழை பெய்யும்.",
+  "synonyms": [
+   "as stated by",
+   "based on"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inevitable",
+  "tamil": "தவிர்க்க முடியாத",
+  "pos": "adjective",
+  "pron": "in-EV-i-tuh-bul",
+  "example": "Change is inevitable in every career.",
+  "exampleTamil": "ஒவ்வொரு தொழில் வாழ்க்கையிலும் மாற்றம் தவிர்க்க முடியாதது.",
+  "synonyms": [
+   "unavoidable",
+   "certain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "notion",
+  "tamil": "கருத்து, எண்ணம்",
+  "pos": "noun",
+  "pron": "NOH-shun",
+  "example": "The notion that money brings happiness is debatable.",
+  "exampleTamil": "பணம் மகிழ்ச்சியைத் தரும் என்ற எண்ணம் விவாதத்துக்குரியது.",
+  "synonyms": [
+   "idea",
+   "concept"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "paradox",
+  "tamil": "முரண்பாடான உண்மை",
+  "pos": "noun",
+  "pron": "PAIR-uh-doks",
+  "example": "It is a paradox that more choices can make us unhappy.",
+  "exampleTamil": "அதிகத் தேர்வுகள் நம்மை மகிழ்ச்சியற்றவர்களாக்கும் என்பது ஒரு முரண்.",
+  "synonyms": [
+   "contradiction",
+   "puzzle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nuance",
+  "tamil": "நுட்பமான வேறுபாடு",
+  "pos": "noun",
+  "pron": "NOO-ahns",
+  "example": "A good translator captures every nuance of the original.",
+  "exampleTamil": "நல்ல மொழிபெயர்ப்பாளர் மூலத்தின் ஒவ்வொரு நுட்பமான வேறுபாட்டையும் பிடிப்பார்.",
+  "synonyms": [
+   "subtlety",
+   "shade"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scrutinise",
+  "tamil": "கூர்ந்து ஆராய",
+  "pos": "verb",
+  "pron": "SKROO-ti-nyz",
+  "example": "Auditors scrutinise every detail of the accounts.",
+  "exampleTamil": "தணிக்கையாளர்கள் கணக்குகளின் ஒவ்வொரு விவரத்தையும் கூர்ந்து ஆராய்கிறார்கள்.",
+  "synonyms": [
+   "examine",
+   "inspect"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "undermine",
+  "tamil": "பலவீனப்படுத்த",
+  "pos": "verb",
+  "pron": "un-der-MYN",
+  "example": "Constant criticism can undermine a child's confidence.",
+  "exampleTamil": "தொடர் விமர்சனம் குழந்தையின் தன்னம்பிக்கையைப் பலவீனப்படுத்தும்.",
+  "synonyms": [
+   "weaken",
+   "erode"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exacerbate",
+  "tamil": "மோசமாக்க",
+  "pos": "verb",
+  "pron": "ig-ZAS-er-bayt",
+  "example": "Stress can exacerbate many health problems.",
+  "exampleTamil": "மன அழுத்தம் பல உடல்நலப் பிரச்சினைகளை மோசமாக்கும்.",
+  "synonyms": [
+   "worsen",
+   "aggravate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "alleviate",
+  "tamil": "தணிக்க",
+  "pos": "verb",
+  "pron": "uh-LEE-vee-ayt",
+  "example": "This cream will alleviate the itching.",
+  "exampleTamil": "இந்த கிரீம் அரிப்பைத் தணிக்கும்.",
+  "synonyms": [
+   "relieve",
+   "ease"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "substantiate",
+  "tamil": "நிரூபிக்க",
+  "pos": "verb",
+  "pron": "sub-STAN-shee-ayt",
+  "example": "You must substantiate your claim with evidence.",
+  "exampleTamil": "உங்கள் கூற்றை ஆதாரத்துடன் நிரூபிக்க வேண்டும்.",
+  "synonyms": [
+   "prove",
+   "verify"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "elusive",
+  "tamil": "பிடிபடாத",
+  "pos": "adjective",
+  "pron": "i-LOO-siv",
+  "example": "Success can be elusive without patience.",
+  "exampleTamil": "பொறுமை இல்லாவிட்டால் வெற்றி பிடிபடாததாகவே இருக்கும்.",
+  "synonyms": [
+   "hard to find",
+   "evasive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "profound",
+  "tamil": "ஆழமான",
+  "pos": "adjective",
+  "pron": "pruh-FOWND",
+  "example": "The book had a profound effect on her thinking.",
+  "exampleTamil": "அந்தப் புத்தகம் அவளது சிந்தனையில் ஆழமான தாக்கத்தை ஏற்படுத்தியது.",
+  "synonyms": [
+   "deep",
+   "far-reaching"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "plausible",
+  "tamil": "நம்பத்தகுந்த",
+  "pos": "adjective",
+  "pron": "PLAW-zi-bul",
+  "example": "His explanation sounded plausible to everyone.",
+  "exampleTamil": "அவனுடைய விளக்கம் எல்லோருக்கும் நம்பத்தகுந்ததாகத் தோன்றியது.",
+  "synonyms": [
+   "believable",
+   "credible"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mundane",
+  "tamil": "சாதாரணமான, அன்றாட",
+  "pos": "adjective",
+  "pron": "mun-DAYN",
+  "example": "He found his mundane routine boring.",
+  "exampleTamil": "அவன் தன் சாதாரண அன்றாட வழக்கத்தை சலிப்பாகக் கண்டான்.",
+  "synonyms": [
+   "ordinary",
+   "routine"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "resilience",
+  "tamil": "மீண்டெழும் திறன்",
+  "pos": "noun",
+  "pron": "ri-ZIL-yuns",
+  "example": "The villagers showed great resilience after the storm.",
+  "exampleTamil": "புயலுக்குப் பிறகு கிராம மக்கள் மிகுந்த மீண்டெழும் திறனைக் காட்டினர்.",
+  "synonyms": [
+   "toughness",
+   "adaptability"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pragmatic",
+  "tamil": "நடைமுறை சார்ந்த",
+  "pos": "adjective",
+  "pron": "prag-MAT-ik",
+  "example": "She takes a pragmatic approach to problems.",
+  "exampleTamil": "அவள் பிரச்சினைகளை நடைமுறை சார்ந்த அணுகுமுறையுடன் கையாள்கிறாள்.",
+  "synonyms": [
+   "practical",
+   "realistic"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "arbitrary",
+  "tamil": "தன்னிச்சையான",
+  "pos": "adjective",
+  "pron": "AR-bi-trair-ee",
+  "example": "The rule seemed arbitrary and unfair.",
+  "exampleTamil": "அந்த விதி தன்னிச்சையாகவும் நியாயமற்றதாகவும் தோன்றியது.",
+  "synonyms": [
+   "random",
+   "capricious"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "inherent",
+  "tamil": "இயல்பாக உள்ள",
+  "pos": "adjective",
+  "pron": "in-HEER-unt",
+  "example": "Some risk is inherent in any business.",
+  "exampleTamil": "எந்தத் தொழிலிலும் சிறிது ஆபத்து இயல்பாகவே உண்டு.",
+  "synonyms": [
+   "built-in",
+   "intrinsic"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tangible",
+  "tamil": "உறுதியான, தொட்டுணரக்கூடிய",
+  "pos": "adjective",
+  "pron": "TAN-juh-bul",
+  "example": "We need tangible results, not just promises.",
+  "exampleTamil": "நமக்கு வெறும் வாக்குறுதிகள் அல்ல, உறுதியான பலன்கள் வேண்டும்.",
+  "synonyms": [
+   "concrete",
+   "real"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ubiquitous",
+  "tamil": "எங்கும் நிறைந்த",
+  "pos": "adjective",
+  "pron": "yoo-BIK-wi-tus",
+  "example": "Smartphones are ubiquitous in modern cities.",
+  "exampleTamil": "நவீன நகரங்களில் ஸ்மார்ட்போன்கள் எங்கும் நிறைந்துள்ளன.",
+  "synonyms": [
+   "omnipresent",
+   "widespread"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "conducive",
+  "tamil": "உகந்த",
+  "pos": "adjective",
+  "pron": "kun-DOO-siv",
+  "example": "A quiet room is conducive to studying.",
+  "exampleTamil": "அமைதியான அறை படிப்பதற்கு உகந்தது.",
+  "synonyms": [
+   "favourable",
+   "helpful"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "detrimental",
+  "tamil": "தீங்கு விளைவிக்கும்",
+  "pos": "adjective",
+  "pron": "det-ri-MEN-tul",
+  "example": "Lack of sleep is detrimental to your health.",
+  "exampleTamil": "தூக்கமின்மை உங்கள் உடல்நலத்துக்குத் தீங்கு விளைவிக்கும்.",
+  "synonyms": [
+   "harmful",
+   "damaging"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "albeit",
+  "tamil": "ஆயினும்",
+  "pos": "conjunction",
+  "pron": "awl-BEE-it",
+  "example": "He agreed, albeit reluctantly, to join us.",
+  "exampleTamil": "அவன் தயக்கத்துடனாயினும் எங்களுடன் சேர ஒப்புக்கொண்டான்.",
+  "synonyms": [
+   "although",
+   "even though"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ostensibly",
+  "tamil": "வெளித்தோற்றத்தில்",
+  "pos": "adverb",
+  "pron": "os-TEN-si-blee",
+  "example": "He left early, ostensibly to visit his doctor.",
+  "exampleTamil": "அவன் மருத்துவரைப் பார்க்கச் செல்வதாகக் கூறி சீக்கிரம் கிளம்பினான்.",
+  "synonyms": [
+   "supposedly",
+   "apparently"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "subsequently",
+  "tamil": "அதன் பிறகு",
+  "pos": "adverb",
+  "pron": "SUB-si-kwent-lee",
+  "example": "He subsequently moved to Chennai for work.",
+  "exampleTamil": "அதன் பிறகு அவன் வேலைக்காக சென்னைக்குக் குடிபெயர்ந்தான்.",
+  "synonyms": [
+   "afterwards",
+   "later"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "consequently",
+  "tamil": "இதன் விளைவாக",
+  "pos": "adverb",
+  "pron": "KON-si-kwent-lee",
+  "example": "It rained all night; consequently, the match was cancelled.",
+  "exampleTamil": "இரவு முழுவதும் மழை பெய்தது; இதன் விளைவாக போட்டி ரத்து செய்யப்பட்டது.",
+  "synonyms": [
+   "as a result",
+   "therefore"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hence",
+  "tamil": "எனவே",
+  "pos": "adverb",
+  "pron": "HENS",
+  "example": "The shop is new, hence the low prices.",
+  "exampleTamil": "கடை புதியது, எனவே விலைகள் குறைவு.",
+  "synonyms": [
+   "therefore",
+   "thus"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "thereby",
+  "tamil": "அதன் மூலம்",
+  "pos": "adverb",
+  "pron": "thair-BY",
+  "example": "She saved time, thereby finishing early.",
+  "exampleTamil": "அவள் நேரத்தைச் சேமித்து, அதன் மூலம் சீக்கிரம் முடித்தாள்.",
+  "synonyms": [
+   "by that means",
+   "thus"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "notwithstanding",
+  "tamil": "இருந்தாலும்",
+  "pos": "preposition",
+  "pron": "not-with-STAN-ding",
+  "example": "Notwithstanding the delay, the event was a success.",
+  "exampleTamil": "தாமதம் இருந்தாலும் நிகழ்ச்சி வெற்றிகரமாக அமைந்தது.",
+  "synonyms": [
+   "despite",
+   "regardless of"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gradually",
+  "tamil": "படிப்படியாக",
+  "pos": "adverb",
+  "pron": "GRAJ-oo-uh-lee",
+  "example": "The weather gradually became warmer in March.",
+  "exampleTamil": "மார்ச் மாதத்தில் வானிலை படிப்படியாகச் சூடாகியது.",
+  "synonyms": [
+   "slowly",
+   "step by step"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "suddenly",
+  "tamil": "திடீரென்று",
+  "pos": "adverb",
+  "pron": "SUD-en-lee",
+  "example": "Suddenly, all the lights went out.",
+  "exampleTamil": "திடீரென்று எல்லா விளக்குகளும் அணைந்துவிட்டன.",
+  "synonyms": [
+   "abruptly",
+   "all at once"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fortunately",
+  "tamil": "நல்லவேளையாக",
+  "pos": "adverb",
+  "pron": "FAWR-chuh-nit-lee",
+  "example": "Fortunately, nobody was hurt in the accident.",
+  "exampleTamil": "நல்லவேளையாக விபத்தில் யாருக்கும் காயம் ஏற்படவில்லை.",
+  "synonyms": [
+   "luckily",
+   "happily"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unfortunately",
+  "tamil": "துரதிர்ஷ்டவசமாக",
+  "pos": "adverb",
+  "pron": "un-FAWR-chuh-nit-lee",
+  "example": "Unfortunately, the tickets are sold out.",
+  "exampleTamil": "துரதிர்ஷ்டவசமாக டிக்கெட்டுகள் விற்றுத் தீர்ந்துவிட்டன.",
+  "synonyms": [
+   "sadly",
+   "regrettably"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deliberately",
+  "tamil": "வேண்டுமென்றே",
+  "pos": "adverb",
+  "pron": "di-LIB-er-it-lee",
+  "example": "He deliberately ignored my message.",
+  "exampleTamil": "அவன் வேண்டுமென்றே என் செய்தியைப் புறக்கணித்தான்.",
+  "synonyms": [
+   "intentionally",
+   "knowingly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reluctantly",
+  "tamil": "தயக்கத்துடன்",
+  "pos": "adverb",
+  "pron": "ri-LUK-tunt-lee",
+  "example": "She reluctantly agreed to lend him the money.",
+  "exampleTamil": "அவள் தயக்கத்துடன் அவனுக்குப் பணம் கடனாகக் கொடுக்க ஒப்புக்கொண்டாள்.",
+  "synonyms": [
+   "unwillingly",
+   "grudgingly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ambiguity",
+  "tamil": "தெளிவற்ற தன்மை",
+  "pos": "noun",
+  "pron": "am-bi-GYOO-i-tee",
+  "example": "The ambiguity in the contract caused confusion.",
+  "exampleTamil": "ஒப்பந்தத்தில் இருந்த தெளிவற்ற தன்மை குழப்பத்தை ஏற்படுத்தியது.",
+  "synonyms": [
+   "vagueness",
+   "uncertainty"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tenacity",
+  "tamil": "விடாமுயற்சி",
+  "pos": "noun",
+  "pron": "ti-NAS-i-tee",
+  "example": "Her tenacity helped her finish the marathon.",
+  "exampleTamil": "அவளது விடாமுயற்சி மாரத்தான் ஓட்டத்தை முடிக்க உதவியது.",
+  "synonyms": [
+   "determination",
+   "persistence"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "complacent",
+  "tamil": "அலட்சியமாக திருப்தியடைந்த",
+  "pos": "adjective",
+  "pron": "kum-PLAY-sunt",
+  "example": "Don't become complacent after one success.",
+  "exampleTamil": "ஒரு வெற்றிக்குப் பிறகு அலட்சியமாக இருந்துவிடாதீர்கள்.",
+  "synonyms": [
+   "smug",
+   "self-satisfied"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fleeting",
+  "tamil": "கணநேர",
+  "pos": "adjective",
+  "pron": "FLEE-ting",
+  "example": "I only caught a fleeting glimpse of the singer.",
+  "exampleTamil": "நான் பாடகரை ஒரு கணநேரம் மட்டுமே பார்த்தேன்.",
+  "synonyms": [
+   "brief",
+   "momentary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nostalgia",
+  "tamil": "பழைய நினைவு ஏக்கம்",
+  "pos": "noun",
+  "pron": "nos-TAL-juh",
+  "example": "Old songs fill him with nostalgia.",
+  "exampleTamil": "பழைய பாடல்கள் அவனுக்கு ஏக்கத்தை நிரப்புகின்றன.",
+  "synonyms": [
+   "longing",
+   "wistfulness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "empathy",
+  "tamil": "பிறர் உணர்வை உணரும் தன்மை",
+  "pos": "noun",
+  "pron": "EM-puh-thee",
+  "example": "A good doctor listens with empathy.",
+  "exampleTamil": "நல்ல மருத்துவர் பரிவுடன் கேட்பார்.",
+  "synonyms": [
+   "compassion",
+   "understanding"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ambivalent",
+  "tamil": "இருமனப்பான்மையுள்ள",
+  "pos": "adjective",
+  "pron": "am-BIV-uh-lunt",
+  "example": "He felt ambivalent about moving abroad.",
+  "exampleTamil": "வெளிநாடு செல்வது பற்றி அவனுக்கு இருமனநிலை இருந்தது.",
+  "synonyms": [
+   "undecided",
+   "conflicted"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "get along",
+  "tamil": "இணக்கமாக இருக்க",
+  "pos": "phrasal verb",
+  "pron": "GET uh-LONG",
+  "example": "Do you get along with your new manager?",
+  "exampleTamil": "உங்கள் புதிய மேலாளருடன் நீங்கள் இணக்கமாக இருக்கிறீர்களா?",
+  "synonyms": [
+   "be friendly",
+   "coexist"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "run into",
+  "tamil": "தற்செயலாகச் சந்திக்க",
+  "pos": "phrasal verb",
+  "pron": "RUN IN-too",
+  "example": "I often run into old friends at the market.",
+  "exampleTamil": "நான் சந்தையில் அடிக்கடி பழைய நண்பர்களைத் தற்செயலாகச் சந்திப்பேன்.",
+  "synonyms": [
+   "bump into",
+   "meet by chance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bring about",
+  "tamil": "ஏற்படுத்த",
+  "pos": "phrasal verb",
+  "pron": "BRING uh-BOWT",
+  "example": "New technology can bring about many changes.",
+  "exampleTamil": "புதிய தொழில்நுட்பம் பல மாற்றங்களை ஏற்படுத்தக்கூடும்.",
+  "synonyms": [
+   "cause",
+   "produce"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "give in",
+  "tamil": "பணிந்து ஒப்புக்கொள்ள",
+  "pos": "phrasal verb",
+  "pron": "GIV IN",
+  "example": "He did not give in, even when they begged him.",
+  "exampleTamil": "அவர்கள் கெஞ்சியபோதும் அவன் பணியவில்லை.",
+  "synonyms": [
+   "surrender",
+   "yield"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hold back",
+  "tamil": "அடக்கி வைக்க",
+  "pos": "phrasal verb",
+  "pron": "HOHLD BAK",
+  "example": "She could not hold back her tears.",
+  "exampleTamil": "அவளால் தன் கண்ணீரை அடக்க முடியவில்லை.",
+  "synonyms": [
+   "restrain",
+   "suppress"
+  ],
+  "level": "intermediate"
+ }
+]

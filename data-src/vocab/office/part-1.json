@@ -1,0 +1,626 @@
+[
+ {
+  "word": "task",
+  "tamil": "பணி, வேலை",
+  "pos": "noun",
+  "pron": "TASK",
+  "example": "This task will take about two hours to finish.",
+  "exampleTamil": "இந்தப் பணியை முடிக்க சுமார் இரண்டு மணி நேரம் ஆகும்.",
+  "synonyms": [
+   "job",
+   "assignment"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "deadline",
+  "tamil": "கெடு தேதி",
+  "pos": "noun",
+  "pron": "DED-line",
+  "example": "The deadline for this project is next Friday.",
+  "exampleTamil": "இந்தத் திட்டத்தின் கெடு தேதி அடுத்த வெள்ளிக்கிழமை.",
+  "synonyms": [
+   "due date",
+   "time limit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "workload",
+  "tamil": "வேலைச் சுமை",
+  "pos": "noun",
+  "pron": "WERK-lohd",
+  "example": "My workload has doubled since Ravi left the company.",
+  "exampleTamil": "ரவி நிறுவனத்தை விட்டுப் போனதிலிருந்து என் வேலைச் சுமை இரட்டிப்பாகிவிட்டது.",
+  "synonyms": [
+   "work pressure",
+   "amount of work"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "priority",
+  "tamil": "முன்னுரிமை",
+  "pos": "noun",
+  "pron": "pry-OR-uh-tee",
+  "example": "Customer complaints are our top priority this week.",
+  "exampleTamil": "இந்த வாரம் வாடிக்கையாளர் புகார்களே எங்கள் முதல் முன்னுரிமை.",
+  "synonyms": [
+   "precedence",
+   "importance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "assignment",
+  "tamil": "ஒதுக்கப்பட்ட பணி",
+  "pos": "noun",
+  "pron": "uh-SYN-ment",
+  "example": "She finished her first assignment ahead of time.",
+  "exampleTamil": "அவள் தன் முதல் பணியை நேரத்திற்கு முன்பே முடித்தாள்.",
+  "synonyms": [
+   "task",
+   "duty"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "duty",
+  "tamil": "கடமை",
+  "pos": "noun",
+  "pron": "DYOO-tee",
+  "example": "Opening the office is my duty every Monday.",
+  "exampleTamil": "ஒவ்வொரு திங்களும் அலுவலகத்தைத் திறப்பது என் கடமை.",
+  "synonyms": [
+   "obligation",
+   "responsibility"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "responsibility",
+  "tamil": "பொறுப்பு",
+  "pos": "noun",
+  "pron": "rih-spon-suh-BIL-uh-tee",
+  "example": "Managing the budget is her main responsibility.",
+  "exampleTamil": "பட்ஜெட்டை நிர்வகிப்பது அவளுடைய முக்கியப் பொறுப்பு.",
+  "synonyms": [
+   "duty",
+   "accountability"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overtime",
+  "tamil": "கூடுதல் நேர வேலை",
+  "pos": "noun",
+  "pron": "OH-ver-tyme",
+  "example": "We worked overtime all week to finish the order.",
+  "exampleTamil": "ஆர்டரை முடிக்க நாங்கள் வாரம் முழுவதும் கூடுதல் நேரம் வேலை செய்தோம்.",
+  "synonyms": [
+   "extra hours",
+   "extra time"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "urgent",
+  "tamil": "அவசரமான",
+  "pos": "adjective",
+  "pron": "ER-jent",
+  "example": "Please reply to this urgent request today.",
+  "exampleTamil": "தயவுசெய்து இந்த அவசரக் கோரிக்கைக்கு இன்றே பதில் அளியுங்கள்.",
+  "synonyms": [
+   "pressing",
+   "critical"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "delay",
+  "tamil": "தாமதம்",
+  "pos": "noun",
+  "pron": "dih-LAY",
+  "example": "The delay in approval pushed back our whole plan.",
+  "exampleTamil": "அனுமதி தாமதமானதால் எங்கள் முழுத் திட்டமும் பின்தள்ளப்பட்டது.",
+  "synonyms": [
+   "lateness",
+   "hold-up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "deliver",
+  "tamil": "ஒப்படைக்க, வழங்க",
+  "pos": "verb",
+  "pron": "dih-LIV-er",
+  "example": "Our team always delivers quality work on time.",
+  "exampleTamil": "எங்கள் குழு எப்போதும் தரமான வேலையை நேரத்தில் வழங்குகிறது.",
+  "synonyms": [
+   "provide",
+   "hand over"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "submit",
+  "tamil": "சமர்ப்பிக்க",
+  "pos": "verb",
+  "pron": "sub-MIT",
+  "example": "Please submit your timesheet before five o'clock.",
+  "exampleTamil": "தயவுசெய்து ஐந்து மணிக்கு முன் உங்கள் நேரப் பதிவேட்டைச் சமர்ப்பியுங்கள்.",
+  "synonyms": [
+   "hand in",
+   "turn in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "assign",
+  "tamil": "ஒதுக்க, நியமிக்க",
+  "pos": "verb",
+  "pron": "uh-SYNE",
+  "example": "The manager assigned the new task to Priya.",
+  "exampleTamil": "மேலாளர் புதிய பணியைப் பிரியாவுக்கு ஒதுக்கினார்.",
+  "synonyms": [
+   "allocate",
+   "give"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "delegate",
+  "tamil": "பொறுப்பை ஒப்படைக்க",
+  "pos": "verb",
+  "pron": "DEL-uh-gayt",
+  "example": "A good leader knows when to delegate work.",
+  "exampleTamil": "எப்போது வேலையைப் பிறரிடம் ஒப்படைக்க வேண்டும் என்பது நல்ல தலைவருக்குத் தெரியும்.",
+  "synonyms": [
+   "entrust",
+   "hand off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "prioritize",
+  "tamil": "முன்னுரிமை அளிக்க",
+  "pos": "verb",
+  "pron": "pry-OR-uh-tyze",
+  "example": "You need to prioritize your tasks every morning.",
+  "exampleTamil": "ஒவ்வொரு காலையும் உங்கள் பணிகளுக்கு முன்னுரிமை வகுக்க வேண்டும்.",
+  "synonyms": [
+   "rank",
+   "put first"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "organize",
+  "tamil": "ஒழுங்குபடுத்த",
+  "pos": "verb",
+  "pron": "OR-guh-nyze",
+  "example": "I organize my files by project name.",
+  "exampleTamil": "நான் என் கோப்புகளைத் திட்டப் பெயர் வாரியாக ஒழுங்குபடுத்துகிறேன்.",
+  "synonyms": [
+   "arrange",
+   "sort"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "productivity",
+  "tamil": "உற்பத்தித்திறன்",
+  "pos": "noun",
+  "pron": "proh-duk-TIV-uh-tee",
+  "example": "Short breaks can actually improve your productivity.",
+  "exampleTamil": "சிறு இடைவேளைகள் உங்கள் உற்பத்தித்திறனை உண்மையில் மேம்படுத்தும்.",
+  "synonyms": [
+   "output",
+   "efficiency"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "multitask",
+  "tamil": "ஒரே நேரத்தில் பல வேலை செய்ய",
+  "pos": "verb",
+  "pron": "mul-tee-TASK",
+  "example": "Most people cannot multitask as well as they think.",
+  "exampleTamil": "பெரும்பாலானோர் தாங்கள் நினைப்பது போல் பல வேலைகளை ஒரே நேரத்தில் செய்ய முடியாது.",
+  "synonyms": [
+   "juggle tasks",
+   "do several things"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "procrastinate",
+  "tamil": "தள்ளிப்போட",
+  "pos": "verb",
+  "pron": "proh-KRAS-tuh-nayt",
+  "example": "I often procrastinate when a task looks boring.",
+  "exampleTamil": "வேலை சலிப்பாகத் தெரிந்தால் நான் அடிக்கடி தள்ளிப்போடுவேன்.",
+  "synonyms": [
+   "delay",
+   "put things off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "distraction",
+  "tamil": "கவனச்சிதறல்",
+  "pos": "noun",
+  "pron": "dih-STRAK-shun",
+  "example": "Phone notifications are a big distraction at work.",
+  "exampleTamil": "வேலையில் போன் அறிவிப்புகள் ஒரு பெரிய கவனச்சிதறல்.",
+  "synonyms": [
+   "interruption",
+   "diversion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "timeline",
+  "tamil": "கால அட்டவணை",
+  "pos": "noun",
+  "pron": "TYME-lyne",
+  "example": "Can you share the timeline for this project?",
+  "exampleTamil": "இந்தத் திட்டத்தின் கால அட்டவணையைப் பகிர முடியுமா?",
+  "synonyms": [
+   "schedule",
+   "time frame"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "milestone",
+  "tamil": "முக்கிய கட்டம்",
+  "pos": "noun",
+  "pron": "MYLE-stohn",
+  "example": "We reached an important milestone this week.",
+  "exampleTamil": "இந்த வாரம் நாங்கள் ஒரு முக்கியமான கட்டத்தை அடைந்தோம்.",
+  "synonyms": [
+   "landmark",
+   "key stage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "target",
+  "tamil": "இலக்கு",
+  "pos": "noun",
+  "pron": "TAR-get",
+  "example": "Our monthly sales target is quite high.",
+  "exampleTamil": "எங்கள் மாத விற்பனை இலக்கு மிகவும் அதிகம்.",
+  "synonyms": [
+   "goal",
+   "aim"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quota",
+  "tamil": "ஒதுக்கீட்டு இலக்கு",
+  "pos": "noun",
+  "pron": "KWOH-tuh",
+  "example": "Each agent has a daily quota of twenty tickets.",
+  "exampleTamil": "ஒவ்வொரு பணியாளருக்கும் தினமும் இருபது டிக்கெட் என்ற இலக்கு உண்டு.",
+  "synonyms": [
+   "allotment",
+   "fixed share"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "backlog",
+  "tamil": "தேங்கிய வேலை",
+  "pos": "noun",
+  "pron": "BAK-log",
+  "example": "There is a huge backlog of unanswered requests.",
+  "exampleTamil": "பதிலளிக்கப்படாத கோரிக்கைகள் பெருமளவில் தேங்கியுள்ளன.",
+  "synonyms": [
+   "pile-up",
+   "accumulation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bottleneck",
+  "tamil": "தடைப்புள்ளி",
+  "pos": "noun",
+  "pron": "BOT-l-nek",
+  "example": "The approval step is the main bottleneck in our process.",
+  "exampleTamil": "எங்கள் செயல்முறையில் அனுமதி நிலைதான் முக்கியத் தடைப்புள்ளி.",
+  "synonyms": [
+   "obstacle",
+   "choke point"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "workflow",
+  "tamil": "வேலை ஓட்ட முறை",
+  "pos": "noun",
+  "pron": "WERK-floh",
+  "example": "The new tool has simplified our daily workflow.",
+  "exampleTamil": "புதிய கருவி எங்கள் அன்றாட வேலை ஓட்டத்தை எளிதாக்கியுள்ளது.",
+  "synonyms": [
+   "work process",
+   "work sequence"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "checklist",
+  "tamil": "சரிபார்ப்புப் பட்டியல்",
+  "pos": "noun",
+  "pron": "CHEK-list",
+  "example": "Use this checklist before sending any report.",
+  "exampleTamil": "எந்த அறிக்கையை அனுப்பும் முன்பும் இந்தச் சரிபார்ப்புப் பட்டியலைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "list",
+   "tick list"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "outcome",
+  "tamil": "விளைவு, முடிவு",
+  "pos": "noun",
+  "pron": "OWT-kum",
+  "example": "We are happy with the outcome of the project.",
+  "exampleTamil": "திட்டத்தின் விளைவில் நாங்கள் மகிழ்ச்சியாக இருக்கிறோம்.",
+  "synonyms": [
+   "result",
+   "consequence"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "effort",
+  "tamil": "முயற்சி",
+  "pos": "noun",
+  "pron": "EF-ert",
+  "example": "Everyone put a lot of effort into this launch.",
+  "exampleTamil": "இந்த அறிமுகத்திற்கு எல்லோரும் நிறைய முயற்சி செய்தனர்.",
+  "synonyms": [
+   "attempt",
+   "hard work"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "burnout",
+  "tamil": "அதிக வேலையால் ஏற்படும் சோர்வு",
+  "pos": "noun",
+  "pron": "BERN-owt",
+  "example": "Long hours without rest can lead to burnout.",
+  "exampleTamil": "ஓய்வின்றி நீண்ட நேரம் வேலை செய்வது முழுச் சோர்வுக்கு வழிவகுக்கும்.",
+  "synonyms": [
+   "exhaustion",
+   "fatigue"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pressure",
+  "tamil": "அழுத்தம்",
+  "pos": "noun",
+  "pron": "PRESH-er",
+  "example": "She works well under pressure.",
+  "exampleTamil": "அவள் அழுத்தத்திலும் நன்றாக வேலை செய்கிறாள்.",
+  "synonyms": [
+   "stress",
+   "strain"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "handle",
+  "tamil": "கையாள",
+  "pos": "verb",
+  "pron": "HAN-dl",
+  "example": "Who will handle this customer request?",
+  "exampleTamil": "இந்த வாடிக்கையாளர் கோரிக்கையை யார் கையாளுவார்?",
+  "synonyms": [
+   "manage",
+   "deal with"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "accomplish",
+  "tamil": "சாதிக்க, நிறைவேற்ற",
+  "pos": "verb",
+  "pron": "uh-KOM-plish",
+  "example": "We accomplished all our goals this quarter.",
+  "exampleTamil": "இந்தக் காலாண்டில் எங்கள் எல்லா இலக்குகளையும் நிறைவேற்றினோம்.",
+  "synonyms": [
+   "achieve",
+   "complete"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "roster",
+  "tamil": "பணிப் பட்டியல்",
+  "pos": "noun",
+  "pron": "ROS-ter",
+  "example": "Check the roster to see who is on duty tomorrow.",
+  "exampleTamil": "நாளை யார் பணியில் இருக்கிறார் என்பதைப் பணிப் பட்டியலில் பாருங்கள்.",
+  "synonyms": [
+   "duty list",
+   "rota"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "shift",
+  "tamil": "பணி நேரப் பிரிவு",
+  "pos": "noun",
+  "pron": "SHIFT",
+  "example": "I work the night shift this week.",
+  "exampleTamil": "இந்த வாரம் நான் இரவுப் பணிப் பிரிவில் வேலை செய்கிறேன்.",
+  "synonyms": [
+   "work period",
+   "turn"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "overdue",
+  "tamil": "காலக்கெடு தாண்டிய",
+  "pos": "adjective",
+  "pron": "oh-ver-DYOO",
+  "example": "Your report is already two days overdue.",
+  "exampleTamil": "உங்கள் அறிக்கை ஏற்கனவே இரண்டு நாட்கள் தாமதமாகிவிட்டது.",
+  "synonyms": [
+   "late",
+   "past due"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pending",
+  "tamil": "நிலுவையில் உள்ள",
+  "pos": "adjective",
+  "pron": "PEN-ding",
+  "example": "Three leave requests are still pending.",
+  "exampleTamil": "மூன்று விடுப்புக் கோரிக்கைகள் இன்னும் நிலுவையில் உள்ளன.",
+  "synonyms": [
+   "unresolved",
+   "awaiting"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ongoing",
+  "tamil": "தொடர்ந்து நடக்கும்",
+  "pos": "adjective",
+  "pron": "ON-goh-ing",
+  "example": "The renovation of the office is still ongoing.",
+  "exampleTamil": "அலுவலகப் புதுப்பிப்புப் பணி இன்னும் நடந்துகொண்டிருக்கிறது.",
+  "synonyms": [
+   "continuing",
+   "in progress"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "manageable",
+  "tamil": "சமாளிக்கக்கூடிய",
+  "pos": "adjective",
+  "pron": "MAN-ij-uh-bl",
+  "example": "With two more people, the workload is manageable.",
+  "exampleTamil": "இன்னும் இருவர் இருந்தால் வேலைச் சுமை சமாளிக்கக்கூடியதாக இருக்கும்.",
+  "synonyms": [
+   "doable",
+   "controllable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hectic",
+  "tamil": "பரபரப்பான",
+  "pos": "adjective",
+  "pron": "HEK-tik",
+  "example": "Month-end is always hectic in the accounts department.",
+  "exampleTamil": "கணக்குத் துறையில் மாத இறுதி எப்போதும் பரபரப்பாக இருக்கும்.",
+  "synonyms": [
+   "busy",
+   "frantic"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tedious",
+  "tamil": "சலிப்பூட்டும்",
+  "pos": "adjective",
+  "pron": "TEE-dee-us",
+  "example": "Entering data by hand is a tedious job.",
+  "exampleTamil": "கையால் தரவு உள்ளிடுவது சலிப்பூட்டும் வேலை.",
+  "synonyms": [
+   "boring",
+   "repetitive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "swamped",
+  "tamil": "வேலையில் மூழ்கிய",
+  "pos": "adjective",
+  "pron": "SWOMPT",
+  "example": "I'm swamped this week, so I can't help.",
+  "exampleTamil": "இந்த வாரம் நான் வேலையில் மூழ்கியிருக்கிறேன், அதனால் உதவ முடியாது.",
+  "synonyms": [
+   "overloaded",
+   "snowed under"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "workday",
+  "tamil": "வேலை நாள்",
+  "pos": "noun",
+  "pron": "WERK-day",
+  "example": "My workday usually ends around six.",
+  "exampleTamil": "என் வேலை நாள் பொதுவாக ஆறு மணியளவில் முடியும்.",
+  "synonyms": [
+   "working day",
+   "weekday"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stressful",
+  "tamil": "மன அழுத்தம் தரும்",
+  "pos": "adjective",
+  "pron": "STRES-ful",
+  "example": "Closing the books at year end is stressful.",
+  "exampleTamil": "ஆண்டு இறுதியில் கணக்கை முடிப்பது மன அழுத்தம் தரும்.",
+  "synonyms": [
+   "tense",
+   "demanding"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "timely",
+  "tamil": "உரிய நேரத்தில்",
+  "pos": "adjective",
+  "pron": "TYME-lee",
+  "example": "Thank you for your timely response.",
+  "exampleTamil": "உரிய நேரத்தில் பதிலளித்ததற்கு நன்றி.",
+  "synonyms": [
+   "prompt",
+   "punctual"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "streamline",
+  "tamil": "எளிமைப்படுத்த",
+  "pos": "verb",
+  "pron": "STREEM-lyne",
+  "example": "We want to streamline the approval process.",
+  "exampleTamil": "அனுமதி முறையை எளிமைப்படுத்த நாங்கள் விரும்புகிறோம்.",
+  "synonyms": [
+   "simplify",
+   "speed up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "to-do",
+  "tamil": "செய்ய வேண்டிய பட்டியல்",
+  "pos": "noun",
+  "pron": "too-DOO",
+  "example": "My to-do list gets longer every single day.",
+  "exampleTamil": "என் செய்ய வேண்டிய பட்டியல் ஒவ்வொரு நாளும் நீண்டுகொண்டே போகிறது.",
+  "synonyms": [
+   "task list",
+   "things to do"
+  ],
+  "level": "beginner"
+ }
+]

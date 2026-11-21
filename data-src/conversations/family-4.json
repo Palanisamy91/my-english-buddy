@@ -1,0 +1,407 @@
+[
+ {
+  "category": "family",
+  "context": "Neighbour's dog barking",
+  "level": "intermediate",
+  "en": "The neighbour's dog was barking all night again. Did it keep you awake too?",
+  "tamil": "பக்கத்து வீட்டு நாய் நேற்று இரவு முழுக்க மறுபடியும் குரைச்சுக்கிட்டே இருந்தது. உனக்கும் தூக்கம் வரலையா?",
+  "reply": "Yes, I barely slept. Maybe we should politely mention it to them tomorrow.",
+  "replyTamil": "ஆமாம், நான் கொஞ்சம்கூட தூங்கல. நாளைக்கு அவங்ககிட்ட மரியாதையா சொல்லலாமா?"
+ },
+ {
+  "category": "family",
+  "context": "Feeding the stray puppy",
+  "level": "beginner",
+  "en": "Can we keep this little puppy, Amma?",
+  "tamil": "அம்மா, இந்த குட்டி நாய்க்குட்டியை நாம வளர்க்கலாமா?",
+  "reply": "Let's feed it today and see. Your father has to agree first.",
+  "replyTamil": "இன்னைக்கு சாப்பாடு போடுவோம், பார்க்கலாம். முதல்ல உன் அப்பா சம்மதிக்கணும்."
+ },
+ {
+  "category": "family",
+  "context": "Cat on the compound wall",
+  "level": "beginner",
+  "en": "Look, the cat is sitting on our wall again!",
+  "tamil": "பாரு, பூனை மறுபடியும் நம்ம சுவர் மேல உட்கார்ந்திருக்கு!",
+  "reply": "Give her some milk, poor thing. She looks hungry.",
+  "replyTamil": "பாவம், அவளுக்கு கொஞ்சம் பால் வை. பசியா இருக்கற மாதிரி தெரியுது."
+ },
+ {
+  "category": "family",
+  "context": "Borrowing a neighbour's ladder",
+  "level": "intermediate",
+  "en": "Sorry to trouble you, but could I borrow your ladder for ten minutes?",
+  "tamil": "தொந்தரவு பண்றதுக்கு மன்னிக்கணும், உங்க ஏணியை பத்து நிமிஷம் இரவல் தர முடியுமா?",
+  "reply": "Of course, no trouble at all. I'll bring it over myself.",
+  "replyTamil": "தாராளமா, எந்த தொந்தரவும் இல்ல. நானே கொண்டு வந்து தரேன்."
+ },
+ {
+  "category": "family",
+  "context": "New neighbours moving in",
+  "level": "beginner",
+  "en": "New people are moving into the flat next door.",
+  "tamil": "பக்கத்து ஃபிளாட்டுக்கு புது ஆட்கள் குடி வராங்க.",
+  "reply": "Oh nice. Let's say hello once they settle in.",
+  "replyTamil": "ஓ நல்லது. அவங்க செட்டில் ஆனதும் போய் பேசலாம்."
+ },
+ {
+  "category": "family",
+  "context": "Noisy festival neighbours",
+  "level": "advanced",
+  "en": "They're celebrating till midnight again. I don't want to be the grumpy one, but the kids have school tomorrow.",
+  "tamil": "அவங்க மறுபடியும் நடுராத்திரி வரைக்கும் கொண்டாடறாங்க. நான் கடுப்பான ஆளா ஆக விரும்பல, ஆனா நாளைக்கு பிள்ளைகளுக்கு ஸ்கூல் இருக்கு.",
+  "reply": "I get that. Let's go over politely and ask them to turn the music down a bit.",
+  "replyTamil": "புரியுது. மரியாதையா போய் பாட்டு சத்தத்தை கொஞ்சம் குறைக்கச் சொல்லலாம்."
+ },
+ {
+  "category": "family",
+  "context": "Watching the house while away",
+  "level": "intermediate",
+  "en": "We're going out of town for a week. Would you mind keeping an eye on the house?",
+  "tamil": "நாங்க ஒரு வாரம் ஊருக்குப் போறோம். வீட்டை கொஞ்சம் பார்த்துக்கறீங்களா?",
+  "reply": "Not at all. Leave a spare key with us, and we'll water your plants too.",
+  "replyTamil": "தாராளமா. ஒரு சாவியை எங்ககிட்ட கொடுத்துட்டுப் போங்க, செடிகளுக்கும் தண்ணி ஊத்தறோம்."
+ },
+ {
+  "category": "family",
+  "context": "Taking the dog for a walk",
+  "level": "beginner",
+  "en": "Who is taking Bruno out for a walk?",
+  "tamil": "புரூனோவை யார் வாக்கிங் கூட்டிட்டுப் போறது?",
+  "reply": "I will. Just give me five minutes to change.",
+  "replyTamil": "நான் போறேன். டிரஸ் மாத்த ஐந்து நிமிஷம் கொடு."
+ },
+ {
+  "category": "family",
+  "context": "Pet fish tank",
+  "level": "intermediate",
+  "en": "Somebody overfed the fish again. The water in the tank is cloudy.",
+  "tamil": "யாரோ மறுபடியும் மீனுக்கு அதிகமா தீனி போட்டிருக்காங்க. தொட்டி தண்ணி கலங்கலா இருக்கு.",
+  "reply": "That was probably my son. I'll change the water this evening and explain it to him.",
+  "replyTamil": "அது என் பையனா இருக்கும். சாயங்காலம் தண்ணியை மாத்தி அவனுக்குப் புரிய வைக்கிறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Neighbour's parcel",
+  "level": "beginner",
+  "en": "A courier left a parcel with us for the neighbours.",
+  "tamil": "கூரியர்காரர் பக்கத்து வீட்டுக்காரங்களுக்கான பார்சலை நம்மகிட்ட கொடுத்துட்டுப் போனார்.",
+  "reply": "Okay, I'll take it over now. They must be waiting for it.",
+  "replyTamil": "சரி, நான் இப்பவே கொண்டு போய் கொடுக்கறேன். அவங்க எதிர்பார்த்துட்டு இருப்பாங்க."
+ },
+ {
+  "category": "family",
+  "context": "Dog needs a vet visit",
+  "level": "intermediate",
+  "en": "Bruno hasn't touched his food since morning. Should we take him to the vet?",
+  "tamil": "புரூனோ காலையிலிருந்து சாப்பாட்டைத் தொடவே இல்ல. டாக்டர்கிட்ட கூட்டிட்டுப் போகலாமா?",
+  "reply": "Yes, let's not wait. I'll call the clinic and ask for an evening slot.",
+  "replyTamil": "ஆமாம், காத்திருக்க வேண்டாம். நான் கிளினிக்குக்கு போன் பண்ணி சாயங்காலம் நேரம் கேட்கறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Plants and a neighbour's gift",
+  "level": "beginner",
+  "en": "Our neighbour gave us some curry leaves from her garden.",
+  "tamil": "பக்கத்து வீட்டு அக்கா தன் தோட்டத்திலிருந்து கொஞ்சம் கறிவேப்பிலை கொடுத்தாங்க.",
+  "reply": "That's so sweet of her. Let's send some sweets over later.",
+  "replyTamil": "அவங்க ரொம்ப நல்லவங்க. அப்புறம் கொஞ்சம் இனிப்பு கொடுத்தனுப்பலாம்."
+ },
+ {
+  "category": "family",
+  "context": "Going to hometown by train",
+  "level": "beginner",
+  "en": "Have you booked the train tickets to our hometown?",
+  "tamil": "நம்ம சொந்த ஊருக்கு ரயில் டிக்கெட் புக் பண்ணிட்டியா?",
+  "reply": "Yes, I booked them this morning. We leave on Friday night.",
+  "replyTamil": "ஆமாம், இன்னைக்கு காலைலயே புக் பண்ணிட்டேன். வெள்ளிக்கிழமை ராத்திரி கிளம்பறோம்."
+ },
+ {
+  "category": "family",
+  "context": "Grandmother's house in the village",
+  "level": "intermediate",
+  "en": "The old house looks smaller than I remember. Funny how that happens.",
+  "tamil": "பழைய வீடு நான் நினைச்சதை விட சின்னதா தெரியுது. வேடிக்கையா இருக்கு இல்ல?",
+  "reply": "I know, right? We were just tiny back then, and everything felt huge.",
+  "replyTamil": "ஆமாம் இல்ல? அப்போ நாம சின்னப் பசங்க, அதனால எல்லாமே பெருசா தெரிஞ்சது."
+ },
+ {
+  "category": "family",
+  "context": "Temple visit in the hometown",
+  "level": "beginner",
+  "en": "Shall we go to the temple tomorrow morning?",
+  "tamil": "நாளைக்கு காலைல கோயிலுக்குப் போகலாமா?",
+  "reply": "Yes, let's go early before it gets crowded.",
+  "replyTamil": "சரி, கூட்டம் வரதுக்கு முன்னாடியே சீக்கிரம் போகலாம்."
+ },
+ {
+  "category": "family",
+  "context": "Hometown bus journey",
+  "level": "intermediate",
+  "en": "The bus to our village takes forever. How are we supposed to reach before dark?",
+  "tamil": "நம்ம கிராமத்துக்குப் போற பஸ் ரொம்ப நேரம் எடுக்கும். இருட்டுறதுக்குள்ள எப்படி போய்ச் சேருவோம்?",
+  "reply": "Let's take the morning one then. It's slow, but at least we'll arrive in daylight.",
+  "replyTamil": "அப்போ காலை பஸ்ல போகலாம். மெதுவா போனாலும் வெளிச்சத்துலயாவது போய்ச் சேருவோம்."
+ },
+ {
+  "category": "family",
+  "context": "Old school friends in the hometown",
+  "level": "advanced",
+  "en": "I ran into a couple of my old school friends at the tea shop. It felt like no time had passed.",
+  "tamil": "டீக்கடைல என் பழைய ஸ்கூல் நண்பர்கள் ரெண்டு மூணு பேரை தற்செயலா பார்த்தேன். கொஞ்சம்கூட காலம் கடந்த மாதிரியே தெரியல.",
+  "reply": "That's the best part of going home. You pick up right where you left off.",
+  "replyTamil": "சொந்த ஊருக்குப் போறதுல இதுதான் சிறந்த விஷயம். விட்ட இடத்திலிருந்தே பேசலாம்."
+ },
+ {
+  "category": "family",
+  "context": "Calling parents from abroad",
+  "level": "beginner",
+  "en": "Hi Appa, did you have your dinner?",
+  "tamil": "ஹாய் அப்பா, சாப்பிட்டீங்களா?",
+  "reply": "Yes, we just finished. How about you? It must be morning there.",
+  "replyTamil": "ஆமாம், இப்பதான் சாப்பிட்டு முடிச்சோம். நீ சாப்பிட்டியா? அங்க காலையா இருக்கும் இல்ல?"
+ },
+ {
+  "category": "family",
+  "context": "Time difference on a call",
+  "level": "intermediate",
+  "en": "I'm sorry for calling so late. I forgot the time difference again.",
+  "tamil": "இவ்வளவு லேட்டா கூப்பிட்டதுக்கு மன்னிச்சுக்கோ. நேர வித்தியாசத்தை மறுபடியும் மறந்துட்டேன்.",
+  "reply": "It's fine, we were still awake. Honestly, hearing your voice is worth it.",
+  "replyTamil": "பரவாயில்ல, நாங்க முழிச்சுத்தான் இருந்தோம். உண்மையைச் சொல்லணும்னா, உன் குரலைக் கேட்கறதே சந்தோஷம்."
+ },
+ {
+  "category": "family",
+  "context": "Sending money home",
+  "level": "intermediate",
+  "en": "I've sent some money to your account. Please check if it has come through.",
+  "tamil": "உங்க அக்கவுண்டுக்கு கொஞ்சம் பணம் அனுப்பியிருக்கேன். வந்துடுச்சான்னு பாருங்க.",
+  "reply": "I'll check the message now. Thanks, kanna, but don't forget to save for yourself too.",
+  "replyTamil": "இப்பவே மெசேஜ் பார்க்கறேன். நன்றி கண்ணா, ஆனா உனக்காகவும் சேர்த்து வை."
+ },
+ {
+  "category": "family",
+  "context": "Cousin's baby on a video call",
+  "level": "beginner",
+  "en": "Look, the baby is smiling at you!",
+  "tamil": "பாரு, குழந்தை உன்னைப் பார்த்து சிரிக்குது!",
+  "reply": "She's so cute! I wish I could hold her right now.",
+  "replyTamil": "அவ ரொம்ப அழகா இருக்கா! இப்பவே தூக்கிக் கொஞ்சணும் போல இருக்கு."
+ },
+ {
+  "category": "family",
+  "context": "Homesick during a call",
+  "level": "advanced",
+  "en": "You sound a bit down. Is the homesickness getting to you?",
+  "tamil": "நீ கொஞ்சம் சோர்வா பேசற மாதிரி இருக்கு. வீட்டு ஞாபகம் அதிகமா வாட்டுதா?",
+  "reply": "A little, to be honest. It hits me most on weekends, but talking to you all really helps.",
+  "replyTamil": "உண்மையைச் சொன்னா கொஞ்சம். வார இறுதில ரொம்ப தாக்கும், ஆனா உங்ககிட்ட பேசறது ரொம்ப உதவுது."
+ },
+ {
+  "category": "family",
+  "context": "Mother has a stomach upset",
+  "level": "beginner",
+  "en": "Amma, are you feeling better now?",
+  "tamil": "அம்மா, இப்ப பரவாயில்லையா?",
+  "reply": "A little better, kanna. I just need to rest for a day.",
+  "replyTamil": "கொஞ்சம் பரவாயில்ல கண்ணா. ஒரு நாள் ஓய்வு எடுத்தா போதும்."
+ },
+ {
+  "category": "family",
+  "context": "Caring for a sick parent at night",
+  "level": "advanced",
+  "en": "I'll sleep in your room tonight in case you need anything. Please don't argue.",
+  "tamil": "உங்களுக்கு ஏதாவது தேவைப்பட்டா இருக்கட்டும்னு இன்னைக்கு ராத்திரி உங்க ரூம்லயே படுக்கறேன். தயவு செஞ்சு மறுக்காதீங்க.",
+  "reply": "You worry too much. Fine, but wake me up if you feel any chill yourself.",
+  "replyTamil": "நீ ரொம்ப கவலைப்படற. சரி, ஆனா உனக்கே குளிர் மாதிரி இருந்தா என்னை எழுப்பு."
+ },
+ {
+  "category": "family",
+  "context": "Giving medicine to a child",
+  "level": "beginner",
+  "en": "Open your mouth, it's only a little syrup.",
+  "tamil": "வாயைத் திற, கொஞ்சம் சிரப் தான்.",
+  "reply": "But it tastes so bad, Amma! Can I have some water after?",
+  "replyTamil": "ஆனா ரொம்ப கசக்குது அம்மா! அப்புறம் தண்ணி குடிக்கலாமா?"
+ },
+ {
+  "category": "family",
+  "context": "Visiting a sick relative",
+  "level": "intermediate",
+  "en": "Uncle's in the hospital for a minor operation. Shall we visit him this evening?",
+  "tamil": "சித்தப்பா ஒரு சின்ன ஆபரேஷனுக்காக ஆஸ்பத்திரில இருக்கார். இன்னைக்கு சாயங்காலம் பார்க்கப் போகலாமா?",
+  "reply": "Yes, let's go after work. I'll pick up some fruits on the way.",
+  "replyTamil": "சரி, வேலை முடிஞ்சதும் போகலாம். வழில கொஞ்சம் பழம் வாங்கிக்கறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Mopping the floor",
+  "level": "beginner",
+  "en": "Please don't walk in with your shoes. I just mopped the floor!",
+  "tamil": "செருப்போட உள்ள வராதே. இப்பதான் தரையைத் துடைச்சேன்!",
+  "reply": "Oops, sorry! I'll take them off right now.",
+  "replyTamil": "அச்சச்சோ, மன்னிச்சுக்கோ! இப்பவே கழட்டிடறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Sharing weekend cleaning",
+  "level": "intermediate",
+  "en": "The cupboards need a proper clean-out. Let's do it together this Sunday, shall we?",
+  "tamil": "பீரோவெல்லாம் முறையா சுத்தம் பண்ணணும். இந்த ஞாயிற்றுக்கிழமை சேர்ந்து பண்ணலாமா?",
+  "reply": "Fine, but only if we order lunch. I'm not cooking after all that dust.",
+  "replyTamil": "சரி, ஆனா மதிய சாப்பாடு வெளில ஆர்டர் பண்ணனும். அவ்வளவு தூசுக்கு அப்புறம் நான் சமைக்க மாட்டேன்."
+ },
+ {
+  "category": "family",
+  "context": "Watering the plants",
+  "level": "beginner",
+  "en": "Did you water the plants today?",
+  "tamil": "இன்னைக்கு செடிகளுக்குத் தண்ணி ஊத்தினியா?",
+  "reply": "Not yet. I'll do it right after tea.",
+  "replyTamil": "இன்னும் இல்ல. டீ குடிச்சதும் உடனே ஊத்தறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Planning a weekend with spouse",
+  "level": "beginner",
+  "en": "What shall we do this Sunday?",
+  "tamil": "இந்த ஞாயிற்றுக்கிழமை என்ன பண்ணலாம்?",
+  "reply": "Let's go to the beach in the evening. We haven't been in ages.",
+  "replyTamil": "சாயங்காலம் பீச்சுக்குப் போகலாம். ரொம்ப நாளா போகவே இல்ல."
+ },
+ {
+  "category": "family",
+  "context": "Spouse forgot something",
+  "level": "intermediate",
+  "en": "You promised you'd call the electrician today. Did it slip your mind again?",
+  "tamil": "இன்னைக்கு எலக்ட்ரீஷியனை கூப்பிடறேன்னு சொன்னியே. மறுபடியும் மறந்துட்டியா?",
+  "reply": "I'm so sorry, it totally slipped my mind. I'll call him right now.",
+  "replyTamil": "ரொம்ப மன்னிச்சுக்கோ, முழுசா மறந்துட்டேன். இப்பவே கூப்பிடறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Surprise anniversary plan",
+  "level": "advanced",
+  "en": "I was thinking we could do something low-key for our anniversary, maybe just dinner by the sea.",
+  "tamil": "நம்ம திருமண நாளுக்கு ஆடம்பரம் இல்லாம எளிமையா ஏதாவது பண்ணலாம்னு நினைச்சேன், கடற்கரைல ஒரு டின்னர் மாதிரி.",
+  "reply": "That sounds perfect to me. Honestly, quiet evenings with you are my favourite kind.",
+  "replyTamil": "அது எனக்கு ரொம்ப பிடிச்சிருக்கு. உண்மையைச் சொன்னா, உன்னோட அமைதியான சாயங்காலங்கள்தான் எனக்கு ரொம்பப் பிடிக்கும்."
+ },
+ {
+  "category": "family",
+  "context": "Shifting the kitchen things",
+  "level": "beginner",
+  "en": "Where should I put the kitchen boxes?",
+  "tamil": "சமையலறை பெட்டிகளை எங்க வைக்கணும்?",
+  "reply": "Keep them in the kitchen itself. I'll open them later.",
+  "replyTamil": "சமையலறைலயே வை. நான் அப்புறமா திறந்து எடுத்துக்கறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Gas and water connection in new house",
+  "level": "intermediate",
+  "en": "Have you applied for the new gas connection yet? The old one won't shift automatically.",
+  "tamil": "புது கேஸ் கனெக்ஷனுக்கு அப்ளை பண்ணிட்டியா? பழையது தானா மாறாது.",
+  "reply": "Not yet, but I have the forms ready. I'll submit them tomorrow morning.",
+  "replyTamil": "இன்னும் இல்ல, ஆனா பாரம் எல்லாம் ரெடியா இருக்கு. நாளைக்கு காலைல கொடுத்துடறேன்."
+ },
+ {
+  "category": "family",
+  "context": "New neighbourhood adjustment",
+  "level": "advanced",
+  "en": "It'll take a while to find our feet in this neighbourhood, but the people seem warm so far.",
+  "tamil": "இந்த ஏரியாவுல நாம செட்டில் ஆக கொஞ்ச நாள் ஆகும், ஆனா இதுவரைக்கும் மக்கள் அன்பா இருக்காங்க.",
+  "reply": "Agreed. Give it a month, and we'll know every shopkeeper by name.",
+  "replyTamil": "ஆமாம். ஒரு மாசம் போகட்டும், எல்லா கடைக்காரங்க பேரும் நமக்குத் தெரிஞ்சிடும்."
+ },
+ {
+  "category": "family",
+  "context": "Beach day with family",
+  "level": "beginner",
+  "en": "Can we build a sandcastle, Appa?",
+  "tamil": "அப்பா, மணல் கோட்டை கட்டலாமா?",
+  "reply": "Sure, go and get the bucket. I'll help you.",
+  "replyTamil": "சரி, போய் வாளியை எடுத்துட்டு வா. நான் உதவறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Train journey snacks",
+  "level": "intermediate",
+  "en": "Pack some snacks for the train, will you? The food on board is never great.",
+  "tamil": "ரயிலுக்குக் கொஞ்சம் தின்பண்டம் எடுத்து வச்சுடு. உள்ள கிடைக்கற சாப்பாடு நல்லாவே இருக்காது.",
+  "reply": "Already done. I made murukku and packed some fruits too.",
+  "replyTamil": "ஏற்கனவே முடிச்சாச்சு. முறுக்கு செஞ்சேன், கூடவே பழங்களும் வச்சிருக்கேன்."
+ },
+ {
+  "category": "family",
+  "context": "Missed the family trip flight",
+  "level": "advanced",
+  "en": "We nearly missed the flight because of that traffic jam. Next time, let's leave a good two hours earlier.",
+  "tamil": "அந்த டிராஃபிக் ஜாம்னால கிட்டத்தட்ட ஃபிளைட்டை தவறவிட்டுட்டோம். அடுத்த தடவை ரெண்டு மணி நேரம் முன்னாடியே கிளம்பலாம்.",
+  "reply": "Fair point. I'd rather sit at the airport than sweat in a cab like that again.",
+  "replyTamil": "சரியா சொன்ன. அப்படி கேப்ல வேர்த்து விறுவிறுக்கறதை விட, ஏர்போர்ட்ல உட்கார்ந்திருக்கறதே மேல்."
+ },
+ {
+  "category": "family",
+  "context": "Grandmother's advice on food",
+  "level": "beginner",
+  "en": "Eat slowly, kanna. Nobody is going to take your plate.",
+  "tamil": "மெதுவா சாப்பிடு கண்ணா. யாரும் உன் தட்டை எடுத்துக்க மாட்டாங்க.",
+  "reply": "Okay, Paati. But your sambar is so tasty!",
+  "replyTamil": "சரி பாட்டி. ஆனா உங்க சாம்பார் ரொம்ப ருசியா இருக்கு!"
+ },
+ {
+  "category": "family",
+  "context": "Elder's advice on money",
+  "level": "intermediate",
+  "en": "Don't spend everything you earn, da. Keep something aside for bad days.",
+  "tamil": "சம்பாதிக்கறதை எல்லாம் செலவு பண்ணாதடா. கஷ்ட காலத்துக்குன்னு கொஞ்சம் சேர்த்து வை.",
+  "reply": "You're right, Thatha. I've started a small recurring deposit this month.",
+  "replyTamil": "நீங்க சொல்றது சரி தாத்தா. இந்த மாசம்தான் ஒரு சின்ன ஆர்டி போட ஆரம்பிச்சேன்."
+ },
+ {
+  "category": "family",
+  "context": "Elder's advice on friendships",
+  "level": "advanced",
+  "en": "Be careful who you trust, kanna. Not everyone who smiles at you means well.",
+  "tamil": "யாரை நம்பறேன்னு கவனமா இரு கண்ணா. சிரிக்கற எல்லாரும் நல்லவங்க இல்ல.",
+  "reply": "I'll keep that in mind, Paati. I'm learning to take my time before I open up to people.",
+  "replyTamil": "ஞாபகம் வச்சுக்கறேன் பாட்டி. மனசு திறந்து பேசறதுக்கு முன்னாடி நிதானமா இருக்க கத்துக்கிட்டு வரேன்."
+ },
+ {
+  "category": "family",
+  "context": "Leaving the child with the sitter",
+  "level": "intermediate",
+  "en": "I'll be back by six. If he cries, just call me and I'll come home right away.",
+  "tamil": "நான் ஆறு மணிக்குள்ள வந்துடுவேன். அவன் அழுதா உடனே போன் பண்ணுங்க, நான் வீட்டுக்கு வந்துடறேன்.",
+  "reply": "Please don't worry. He'll be fine, and I'll keep him busy with his toys.",
+  "replyTamil": "கவலைப்படாதீங்க. அவன் நல்லா இருப்பான், பொம்மைகளோட விளையாட வச்சுக்கறேன்."
+ },
+ {
+  "category": "family",
+  "context": "Baby's first steps",
+  "level": "beginner",
+  "en": "She took her first steps today!",
+  "tamil": "அவ இன்னைக்கு முதல் தடவையா நடந்தா!",
+  "reply": "Really? I can't believe I missed it! Did you record it?",
+  "replyTamil": "நிஜமாவா? அதை மிஸ் பண்ணிட்டேனே! வீடியோ எடுத்தியா?"
+ },
+ {
+  "category": "family",
+  "context": "Choosing a play school",
+  "level": "intermediate",
+  "en": "We should start looking at play schools soon. Seats fill up quickly in this area.",
+  "tamil": "சீக்கிரமே பிளே ஸ்கூல் பார்க்க ஆரம்பிக்கணும். இந்த ஏரியாவுல சீட் சீக்கிரம் நிரம்பிடும்.",
+  "reply": "Good thinking. Let's visit two or three this weekend and compare.",
+  "replyTamil": "நல்ல யோசனை. இந்த வாரக்கடைசில ரெண்டு மூணு ஸ்கூல் போய் ஒப்பிட்டுப் பார்க்கலாம்."
+ },
+ {
+  "category": "family",
+  "context": "Neighbour's kids playing cricket",
+  "level": "beginner",
+  "en": "The kids next door broke our window with their cricket ball!",
+  "tamil": "பக்கத்து வீட்டுப் பசங்க கிரிக்கெட் பந்தால நம்ம ஜன்னலை உடைச்சிட்டாங்க!",
+  "reply": "Oh no! Let's talk to their parents calmly. It was an accident.",
+  "replyTamil": "அடடா! அவங்க பெற்றோர்கிட்ட அமைதியா பேசலாம். தெரியாம நடந்துடுச்சு."
+ }
+]

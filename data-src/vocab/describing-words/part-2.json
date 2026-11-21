@@ -1,0 +1,352 @@
+[
+ {
+  "word": "rotten",
+  "meaning": "Gone bad and not fit to eat.",
+  "tamil": "அழுகிய",
+  "pos": "adjective",
+  "pron": "ROT-un",
+  "example": "Throw away the rotten tomatoes.",
+  "exampleTamil": "அழுகிய தக்காளிகளை தூக்கி எறியுங்கள்.",
+  "synonyms": [
+   "spoiled",
+   "decayed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fancy",
+  "meaning": "Special and decorated, not plain.",
+  "tamil": "அலங்காரமான",
+  "pos": "adjective",
+  "pron": "FAN-see",
+  "example": "They had dinner at a fancy restaurant.",
+  "exampleTamil": "அவர்கள் ஒரு ஆடம்பர உணவகத்தில் இரவு உணவு சாப்பிட்டனர்.",
+  "synonyms": [
+   "stylish",
+   "elaborate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "slim",
+  "meaning": "Attractively thin.",
+  "tamil": "ஒல்லியான",
+  "pos": "adjective",
+  "pron": "SLIM",
+  "example": "He became slim after he started walking daily.",
+  "exampleTamil": "தினமும் நடக்கத் தொடங்கிய பிறகு அவன் ஒல்லியானான்.",
+  "synonyms": [
+   "slender",
+   "lean"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "flat",
+  "meaning": "Smooth and level, without bumps.",
+  "tamil": "தட்டையான",
+  "pos": "adjective",
+  "pron": "FLAT",
+  "example": "The playground is flat and green.",
+  "exampleTamil": "விளையாட்டு மைதானம் சமமாகவும் பசுமையாகவும் உள்ளது.",
+  "synonyms": [
+   "level",
+   "even"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "big",
+  "meaning": "Large in size.",
+  "tamil": "பெரிய",
+  "pos": "adjective",
+  "pron": "BIG",
+  "example": "They live in a big house near the river.",
+  "exampleTamil": "அவர்கள் ஆற்றின் அருகே ஒரு பெரிய வீட்டில் வசிக்கிறார்கள்.",
+  "synonyms": [
+   "large",
+   "huge"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "small",
+  "meaning": "Not large in size.",
+  "tamil": "சிறிய",
+  "pos": "adjective",
+  "pron": "SMAWL",
+  "example": "We have a small garden behind our house.",
+  "exampleTamil": "எங்கள் வீட்டுக்குப் பின்னால் ஒரு சிறிய தோட்டம் உள்ளது.",
+  "synonyms": [
+   "little",
+   "tiny"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "long",
+  "meaning": "Having great length; measuring a lot from end to end.",
+  "tamil": "நீளமான",
+  "pos": "adjective",
+  "pron": "LONG",
+  "example": "She has long black hair.",
+  "exampleTamil": "அவளுக்கு நீளமான கருப்பு முடி இருக்கிறது.",
+  "synonyms": [
+   "lengthy",
+   "extended"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "young",
+  "meaning": "Not old; having lived for a short time.",
+  "tamil": "இளமையான",
+  "pos": "adjective",
+  "pron": "YUNG",
+  "example": "The young boy helped the old man cross the road.",
+  "exampleTamil": "அந்த இளம் சிறுவன் முதியவர் சாலையைக் கடக்க உதவினான்.",
+  "synonyms": [
+   "youthful",
+   "little"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "new",
+  "meaning": "Recently made, bought or started.",
+  "tamil": "புதிய",
+  "pos": "adjective",
+  "pron": "NYOO",
+  "example": "I got a new phone for my birthday.",
+  "exampleTamil": "என் பிறந்த நாளுக்கு எனக்கு புதிய கைபேசி கிடைத்தது.",
+  "synonyms": [
+   "fresh",
+   "recent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "old",
+  "meaning": "Having lived or existed for a long time.",
+  "tamil": "பழைய, முதிய",
+  "pos": "adjective",
+  "pron": "OLD",
+  "example": "My grandfather's old watch still works well.",
+  "exampleTamil": "என் தாத்தாவின் பழைய கடிகாரம் இன்னும் நன்றாக ஓடுகிறது.",
+  "synonyms": [
+   "aged",
+   "ancient"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ancient",
+  "meaning": "Very old, from long ago.",
+  "tamil": "பழங்கால",
+  "pos": "adjective",
+  "pron": "AYN-shunt",
+  "example": "We visited an ancient temple in Thanjavur.",
+  "exampleTamil": "நாங்கள் தஞ்சாவூரில் ஒரு பழங்கால கோயிலுக்குச் சென்றோம்.",
+  "synonyms": [
+   "old",
+   "antique"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "modern",
+  "meaning": "Of the present time; new in style.",
+  "tamil": "நவீன",
+  "pos": "adjective",
+  "pron": "MOD-ern",
+  "example": "They bought a modern kitchen set.",
+  "exampleTamil": "அவர்கள் ஒரு நவீன சமையலறைத் தொகுப்பை வாங்கினார்கள்.",
+  "synonyms": [
+   "current",
+   "up-to-date"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "enormous",
+  "meaning": "Extremely large.",
+  "tamil": "மிகப்பெரிய",
+  "pos": "adjective",
+  "pron": "ih-NOR-mus",
+  "example": "An enormous crowd gathered at the stadium.",
+  "exampleTamil": "விளையாட்டரங்கில் மிகப்பெரிய கூட்டம் கூடியது.",
+  "synonyms": [
+   "huge",
+   "giant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "colorful",
+  "meaning": "Having many bright colors.",
+  "tamil": "வண்ணமயமான",
+  "pos": "adjective",
+  "pron": "KUL-er-ful",
+  "example": "The market was full of colorful flowers.",
+  "exampleTamil": "சந்தை வண்ணமயமான பூக்களால் நிறைந்திருந்தது.",
+  "synonyms": [
+   "bright",
+   "vibrant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "elegant",
+  "meaning": "Graceful and stylish.",
+  "tamil": "நேர்த்தியான",
+  "pos": "adjective",
+  "pron": "EL-ih-gunt",
+  "example": "She looked elegant in her silk saree.",
+  "exampleTamil": "பட்டுச் சேலையில் அவள் நேர்த்தியாகத் தெரிந்தாள்.",
+  "synonyms": [
+   "graceful",
+   "stylish"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gorgeous",
+  "meaning": "Extremely beautiful.",
+  "tamil": "பேரழகான",
+  "pos": "adjective",
+  "pron": "GOR-jus",
+  "example": "The view from the hill was gorgeous.",
+  "exampleTamil": "மலையிலிருந்து தெரிந்த காட்சி பேரழகாக இருந்தது.",
+  "synonyms": [
+   "stunning",
+   "splendid"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cozy",
+  "meaning": "Warm, comfortable and safe.",
+  "tamil": "இதமான வசதியான",
+  "pos": "adjective",
+  "pron": "KOH-zee",
+  "example": "We spent a cozy evening at home in the rain.",
+  "exampleTamil": "மழையில் நாங்கள் வீட்டில் இதமான மாலைப்பொழுதைக் கழித்தோம்.",
+  "synonyms": [
+   "snug",
+   "comfortable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "muddy",
+  "meaning": "Covered with or full of mud.",
+  "tamil": "சேறு நிறைந்த",
+  "pos": "adjective",
+  "pron": "MUD-ee",
+  "example": "The village road becomes muddy after rain.",
+  "exampleTamil": "மழைக்குப் பிறகு கிராமச் சாலை சேறாகிவிடும்.",
+  "synonyms": [
+   "slushy",
+   "dirty"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "breezy",
+  "meaning": "With a light, pleasant wind.",
+  "tamil": "காற்றோட்டமான",
+  "pos": "adjective",
+  "pron": "BREE-zee",
+  "example": "It was a breezy morning at the beach.",
+  "exampleTamil": "கடற்கரையில் காற்று வீசும் இனிய காலை அது.",
+  "synonyms": [
+   "windy",
+   "airy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "drizzly",
+  "meaning": "With light, fine rain.",
+  "tamil": "தூறல் போடும்",
+  "pos": "adjective",
+  "pron": "DRIZ-lee",
+  "example": "It was a drizzly evening, so we stayed inside.",
+  "exampleTamil": "தூறல் மாலையாக இருந்ததால் நாங்கள் உள்ளே இருந்தோம்.",
+  "synonyms": [
+   "rainy",
+   "misty"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "creamy",
+  "meaning": "Smooth and thick like cream.",
+  "tamil": "கிரீம் போன்ற மென்மையான",
+  "pos": "adjective",
+  "pron": "KREE-mee",
+  "example": "The soup was warm and creamy.",
+  "exampleTamil": "சூப் சூடாகவும் கிரீம் போல மென்மையாகவும் இருந்தது.",
+  "synonyms": [
+   "smooth",
+   "rich"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flimsy",
+  "meaning": "Weak, thin and easily broken.",
+  "tamil": "உறுதியற்ற",
+  "pos": "adjective",
+  "pron": "FLIM-zee",
+  "example": "This flimsy umbrella broke in the wind.",
+  "exampleTamil": "இந்த உறுதியற்ற குடை காற்றில் உடைந்துவிட்டது.",
+  "synonyms": [
+   "weak",
+   "fragile"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "graceful",
+  "meaning": "Moving or looking smooth and beautiful.",
+  "tamil": "நளினமான",
+  "pos": "adjective",
+  "pron": "GRAYS-ful",
+  "example": "The dancer's movements were graceful.",
+  "exampleTamil": "நடனக் கலைஞரின் அசைவுகள் நளினமாக இருந்தன.",
+  "synonyms": [
+   "elegant",
+   "smooth"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clumsy",
+  "meaning": "Awkward in movement and likely to drop things.",
+  "tamil": "கவனக்குறைவான, தடுமாறும்",
+  "pos": "adjective",
+  "pron": "KLUM-zee",
+  "example": "I am so clumsy that I spilled the tea again.",
+  "exampleTamil": "நான் மிகவும் தடுமாறுபவன், மீண்டும் தேநீரைச் சிந்திவிட்டேன்.",
+  "synonyms": [
+   "awkward",
+   "careless"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "eagerly",
+  "meaning": "In a way that shows strong wish or excitement.",
+  "tamil": "ஆவலுடன்",
+  "pos": "adverb",
+  "pron": "EE-ger-lee",
+  "example": "The children waited eagerly for the results.",
+  "exampleTamil": "குழந்தைகள் முடிவுகளுக்காக ஆவலுடன் காத்திருந்தனர்.",
+  "synonyms": [
+   "keenly",
+   "excitedly"
+  ],
+  "level": "intermediate"
+ }
+]

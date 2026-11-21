@@ -1,0 +1,351 @@
+[
+ {
+  "word": "blunt",
+  "meaning": "Saying things very directly, sometimes hurting people",
+  "tamil": "முகத்துக்கு நேராகப் பேசும்",
+  "pos": "adjective",
+  "pron": "BLUNT",
+  "example": "My father is blunt, but he always means well.",
+  "exampleTamil": "என் அப்பா முகத்துக்கு நேராகப் பேசுவார், ஆனால் நல்ல எண்ணத்துடன்தான்.",
+  "synonyms": [
+   "direct",
+   "frank"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "acquaintance",
+  "meaning": "A person you know a little but not a close friend",
+  "tamil": "அறிமுகமானவர்",
+  "pos": "noun",
+  "pron": "uh-KWAYN-tunss",
+  "example": "He is just an acquaintance from my old office.",
+  "exampleTamil": "அவர் என் பழைய அலுவலகத்தில் அறிமுகமான ஒருவர் மட்டுமே.",
+  "synonyms": [
+   "contact",
+   "associate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "newcomer",
+  "meaning": "A person who has just arrived in a place",
+  "tamil": "புதிதாக வந்தவர்",
+  "pos": "noun",
+  "pron": "NOO-kum-er",
+  "example": "We welcomed the newcomer to our street.",
+  "exampleTamil": "எங்கள் தெருவுக்குப் புதிதாக வந்தவரை நாங்கள் வரவேற்றோம்.",
+  "synonyms": [
+   "new arrival",
+   "outsider"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reunion",
+  "meaning": "A meeting of people after a long time apart",
+  "tamil": "மீண்டும் சந்திப்பு",
+  "pos": "noun",
+  "pron": "ree-YOON-yun",
+  "example": "We are planning a school reunion this December.",
+  "exampleTamil": "இந்த டிசம்பரில் பள்ளி நண்பர்களின் மீண்டும் சந்திப்பைத் திட்டமிடுகிறோம்.",
+  "synonyms": [
+   "get-together",
+   "gathering"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rumour",
+  "meaning": "A story passed around that may not be true",
+  "tamil": "வதந்தி",
+  "pos": "noun",
+  "pron": "ROO-mer",
+  "example": "Don't believe every rumour you hear.",
+  "exampleTamil": "நீ கேட்கும் ஒவ்வொரு வதந்தியையும் நம்பாதே.",
+  "synonyms": [
+   "gossip",
+   "hearsay"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "arrangement",
+  "meaning": "A plan or preparation made for something",
+  "tamil": "ஏற்பாடு",
+  "pos": "noun",
+  "pron": "uh-RAYNJ-munt",
+  "example": "The wedding arrangements are almost ready.",
+  "exampleTamil": "திருமண ஏற்பாடுகள் கிட்டத்தட்ட தயாராகிவிட்டன.",
+  "synonyms": [
+   "plan",
+   "preparation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "occupied",
+  "meaning": "Busy or already being used",
+  "tamil": "பிசியான, ஆள் இருக்கும்",
+  "pos": "adjective",
+  "pron": "OK-yoo-pyd",
+  "example": "Sorry, this seat is occupied.",
+  "exampleTamil": "மன்னிக்கவும், இந்த இருக்கையில் ஆள் இருக்கிறது.",
+  "synonyms": [
+   "busy",
+   "taken"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exhausted",
+  "meaning": "Extremely tired",
+  "tamil": "மிகவும் களைத்த",
+  "pos": "adjective",
+  "pron": "ig-ZAWS-tid",
+  "example": "I was exhausted after cleaning the whole house.",
+  "exampleTamil": "வீடு முழுவதையும் சுத்தம் செய்த பிறகு நான் மிகவும் களைத்துப்போனேன்.",
+  "synonyms": [
+   "worn out",
+   "drained"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "craving",
+  "meaning": "A very strong wish for a certain food",
+  "tamil": "ஆசை, மிகுந்த விருப்பம்",
+  "pos": "noun",
+  "pron": "KRAY-ving",
+  "example": "I have a craving for hot filter coffee.",
+  "exampleTamil": "எனக்கு சூடான ஃபில்டர் காபி குடிக்க ஆசையாக இருக்கிறது.",
+  "synonyms": [
+   "desire",
+   "urge"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "oversleep",
+  "meaning": "To sleep longer than you planned",
+  "tamil": "அதிக நேரம் தூங்கிவிடு",
+  "pos": "verb",
+  "pron": "oh-ver-SLEEP",
+  "example": "Please set an alarm so you do not oversleep tomorrow.",
+  "exampleTamil": "நாளை அதிகமாகத் தூங்கிவிடாமல் இருக்க அலாரம் வைத்துக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "sleep in",
+   "wake late"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "insomnia",
+  "meaning": "Long-term difficulty in falling asleep",
+  "tamil": "தூக்கமின்மை",
+  "pos": "noun",
+  "pron": "in-SOM-nee-uh",
+  "example": "My uncle suffers from insomnia these days.",
+  "exampleTamil": "என் மாமா இந்த நாட்களில் தூக்கமின்மையால் அவதிப்படுகிறார்.",
+  "synonyms": [
+   "sleeplessness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "unwind",
+  "meaning": "To relax after work or a stressful time",
+  "tamil": "ஓய்வெடுத்து தளர்வடை",
+  "pos": "verb",
+  "pron": "un-WINDE",
+  "example": "I unwind by listening to old songs.",
+  "exampleTamil": "நான் பழைய பாடல்கள் கேட்டு ஓய்வெடுக்கிறேன்.",
+  "synonyms": [
+   "relax",
+   "rest"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "indulge",
+  "meaning": "To allow yourself to enjoy something special",
+  "tamil": "விரும்பியதை அனுபவி",
+  "pos": "verb",
+  "pron": "in-DULJ",
+  "example": "Let us indulge in some sweets today.",
+  "exampleTamil": "இன்று கொஞ்சம் இனிப்புகளை மனம்போல் சாப்பிடலாம்.",
+  "synonyms": [
+   "treat oneself",
+   "enjoy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pamper",
+  "meaning": "To take great care of someone and spoil them",
+  "tamil": "செல்லம் கொடுத்து கவனி",
+  "pos": "verb",
+  "pron": "PAM-per",
+  "example": "My grandmother loves to pamper her grandchildren.",
+  "exampleTamil": "என் பாட்டி பேரக்குழந்தைகளுக்கு செல்லம் கொடுத்து கவனிக்க விரும்புவார்.",
+  "synonyms": [
+   "spoil",
+   "indulge"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scroll",
+  "meaning": "To move up or down a screen to read more",
+  "tamil": "திரையை மேலும் கீழும் நகர்த்து",
+  "pos": "verb",
+  "pron": "SKROLE",
+  "example": "I scroll through my phone before sleeping.",
+  "exampleTamil": "நான் தூங்கும் முன் போனில் ஸ்க்ரோல் செய்து பார்க்கிறேன்.",
+  "synonyms": [
+   "swipe",
+   "browse"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "blessing",
+  "meaning": "Something good that you are thankful for; good wishes",
+  "tamil": "ஆசீர்வாதம்",
+  "pos": "noun",
+  "pron": "BLES-ing",
+  "example": "We took the elders' blessing before leaving.",
+  "exampleTamil": "புறப்படும் முன் பெரியவர்களின் ஆசீர்வாதம் பெற்றோம்.",
+  "synonyms": [
+   "good wishes",
+   "gift"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "toast",
+  "meaning": "A short speech or drink to wish someone well",
+  "tamil": "வாழ்த்துரை, வாழ்த்துக் குடி",
+  "pos": "noun",
+  "pron": "TOAST",
+  "example": "He gave a lovely toast at the wedding.",
+  "exampleTamil": "அவர் திருமணத்தில் அருமையான வாழ்த்துரை வழங்கினார்.",
+  "synonyms": [
+   "tribute",
+   "salute"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "regards",
+  "meaning": "Kind wishes sent to someone",
+  "tamil": "அன்பான வணக்கங்கள்",
+  "pos": "noun",
+  "pron": "ri-GARDZ",
+  "example": "Please give my regards to your parents.",
+  "exampleTamil": "உங்கள் பெற்றோருக்கு என் அன்பான வணக்கங்களைச் சொல்லுங்கள்.",
+  "synonyms": [
+   "best wishes",
+   "greetings"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "informal",
+  "meaning": "Relaxed and not strict or official",
+  "tamil": "முறைசாரா, இயல்பான",
+  "pos": "adjective",
+  "pron": "in-FOR-mul",
+  "example": "It was just an informal chat over tea.",
+  "exampleTamil": "அது தேநீருடன் நடந்த ஒரு இயல்பான உரையாடல் மட்டுமே.",
+  "synonyms": [
+   "casual",
+   "relaxed"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tricky",
+  "meaning": "Difficult and needing careful handling",
+  "tamil": "சிக்கலான, கவனம் தேவைப்படும்",
+  "pos": "adjective",
+  "pron": "TRIK-ee",
+  "example": "Parking here is tricky on weekends.",
+  "exampleTamil": "வார இறுதிகளில் இங்கே வண்டி நிறுத்துவது சிக்கலானது.",
+  "synonyms": [
+   "difficult",
+   "awkward"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "decent",
+  "meaning": "Good enough; of fair quality",
+  "tamil": "தரமான, ஓரளவு நல்ல",
+  "pos": "adjective",
+  "pron": "DEE-sunt",
+  "example": "We found a decent restaurant near our hotel.",
+  "exampleTamil": "எங்கள் ஹோட்டல் அருகில் ஒரு நல்ல உணவகம் கண்டுபிடித்தோம்.",
+  "synonyms": [
+   "fair",
+   "reasonable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spontaneous",
+  "meaning": "done suddenly because you feel like it, not planned",
+  "tamil": "திட்டமிடாமல் திடீரென நடக்கும்",
+  "pos": "adjective",
+  "pron": "spon-TAY-nee-us",
+  "example": "We took a spontaneous trip to Pondicherry last Sunday.",
+  "exampleTamil": "நாங்கள் கடந்த ஞாயிறு திடீரென புதுச்சேரிக்குப் பயணம் சென்றோம்.",
+  "synonyms": [
+   "unplanned",
+   "impulsive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reminisce",
+  "meaning": "to talk about happy things you remember from the past",
+  "tamil": "பழைய நினைவுகளை அசைபோடு",
+  "pos": "verb",
+  "pron": "rem-ih-NIS",
+  "example": "The old friends sat together and reminisced about school.",
+  "exampleTamil": "பழைய நண்பர்கள் ஒன்றாக அமர்ந்து பள்ளி நாட்களை நினைவுகூர்ந்தனர்.",
+  "synonyms": [
+   "recall",
+   "remember"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "confide",
+  "meaning": "to tell someone your secret or private feelings because you trust them",
+  "tamil": "நம்பிக்கையுடன் ரகசியத்தைச் சொல்",
+  "pos": "verb",
+  "pron": "kun-FYDE",
+  "example": "She confided in her sister about her worries.",
+  "exampleTamil": "அவள் தன் கவலைகளை அக்காவிடம் நம்பிக்கையுடன் சொன்னாள்.",
+  "synonyms": [
+   "trust",
+   "disclose"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mingle",
+  "meaning": "to mix and talk with different people at a party or gathering",
+  "tamil": "கலந்து பழகு",
+  "pos": "verb",
+  "pron": "MING-gul",
+  "example": "At the wedding, he mingled with all the guests.",
+  "exampleTamil": "திருமணத்தில் அவர் எல்லா விருந்தினர்களுடனும் கலந்து பழகினார்.",
+  "synonyms": [
+   "mix",
+   "socialize"
+  ],
+  "level": "advanced"
+ }
+]

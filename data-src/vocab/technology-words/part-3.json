@@ -1,0 +1,340 @@
+[
+ {
+  "word": "automation",
+  "meaning": "Using machines or software to do work without people.",
+  "tamil": "மனிதர் இல்லாமல் இயந்திரம் அல்லது மென்பொருள் வேலை செய்வது",
+  "pos": "noun",
+  "pron": "aw-tuh-MAY-shun",
+  "example": "Automation has made the billing process much faster.",
+  "exampleTamil": "தானியக்கம் பில்லிங் செயல்முறையை மிகவும் வேகமாக்கியுள்ளது.",
+  "synonyms": [
+   "mechanization",
+   "computerization"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trending",
+  "meaning": "Being talked about by many people online right now.",
+  "tamil": "இப்போது இணையத்தில் பலரும் பேசுகிற",
+  "pos": "adjective",
+  "pron": "TREN-ding",
+  "example": "That song is trending on every app this week.",
+  "exampleTamil": "அந்தப் பாடல் இந்த வாரம் எல்லா செயலிகளிலும் பிரபலமாக உள்ளது.",
+  "synonyms": [
+   "popular",
+   "hot"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cloud-storage",
+  "meaning": "Online space where you keep files so you can open them anywhere.",
+  "tamil": "கோப்புகளை எங்கும் திறக்க இணையத்தில் சேமிக்கும் இடம்",
+  "pos": "noun",
+  "pron": "KLOWD STOR-ij",
+  "example": "I keep my photos in cloud-storage as a backup.",
+  "exampleTamil": "என் படங்களை காப்புப் பிரதியாக கிளவுட் சேமிப்பகத்தில் வைத்திருக்கிறேன்.",
+  "synonyms": [
+   "online storage",
+   "online drive"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "airplane-mode",
+  "meaning": "A phone setting that switches off calls and internet signals.",
+  "tamil": "அழைப்பு மற்றும் இணைய சிக்னலை நிறுத்தும் கைபேசி அமைப்பு",
+  "pos": "noun",
+  "pron": "AIR-playn mohd",
+  "example": "Switch your phone to airplane-mode during the flight.",
+  "exampleTamil": "விமானப் பயணத்தின்போது உங்கள் கைபேசியை விமானப் பயன்முறையில் வையுங்கள்.",
+  "synonyms": [
+   "flight mode"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "captcha",
+  "meaning": "A small test that checks you are a person and not a robot.",
+  "tamil": "கேப்ட்சா, நீங்கள் மனிதரா ரோபோவா என்று சோதிக்கும் சிறிய தேர்வு",
+  "pos": "noun",
+  "pron": "KAP-chuh",
+  "example": "I had to solve a captcha to log in.",
+  "exampleTamil": "உள்நுழைய நான் ஒரு கேப்ட்சாவைத் தீர்க்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "human test"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "paywall",
+  "meaning": "A block that asks you to pay before reading online content.",
+  "tamil": "கட்டணச் சுவர், இணையப் பதிவைப் படிக்கும் முன் பணம் கேட்கும் தடை",
+  "pos": "noun",
+  "pron": "PAY-wall",
+  "example": "I could not read the article because of a paywall.",
+  "exampleTamil": "கட்டணச் சுவர் இருந்ததால் என்னால் அந்தக் கட்டுரையைப் படிக்க முடியவில்லை.",
+  "synonyms": [
+   "subscription wall"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "foldable",
+  "meaning": "Able to be bent or folded, like some new phone screens.",
+  "tamil": "மடிக்கக்கூடிய",
+  "pos": "adjective",
+  "pron": "FOHL-duh-bul",
+  "example": "My uncle bought a foldable phone last month.",
+  "exampleTamil": "என் மாமா கடந்த மாதம் மடிக்கக்கூடிய கைபேசி வாங்கினார்.",
+  "synonyms": [
+   "bendable",
+   "collapsible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spyware",
+  "meaning": "Software that secretly watches what you do on your device.",
+  "tamil": "ஸ்பைவேர், உங்கள் செயல்களை ரகசியமாகக் கண்காணிக்கும் மென்பொருள்",
+  "pos": "noun",
+  "pron": "SPY-wair",
+  "example": "The fake app was full of spyware.",
+  "exampleTamil": "அந்தப் போலிச் செயலி முழுவதும் ஸ்பைவேர் நிறைந்திருந்தது.",
+  "synonyms": [
+   "snooping software"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "soundbar",
+  "meaning": "A long speaker placed under a TV for better sound.",
+  "tamil": "தொலைக்காட்சிக்கு கீழே வைக்கும் நீளமான ஒலிபெருக்கி",
+  "pos": "noun",
+  "pron": "SOWND-bar",
+  "example": "The soundbar makes movies feel like the cinema.",
+  "exampleTamil": "சவுண்ட்பார் திரைப்படங்களை திரையரங்கு போல உணர வைக்கிறது.",
+  "synonyms": [
+   "speaker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "repost",
+  "meaning": "To share someone else's post again on your own page.",
+  "tamil": "மற்றவரின் பதிவை உங்கள் பக்கத்தில் மீண்டும் பகிர்",
+  "pos": "verb",
+  "pron": "ree-POHST",
+  "example": "Please repost our event notice on your page.",
+  "exampleTamil": "எங்கள் நிகழ்ச்சி அறிவிப்பை உங்கள் பக்கத்தில் மீண்டும் பகிருங்கள்.",
+  "synonyms": [
+   "share",
+   "forward"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dashboard",
+  "meaning": "A screen that shows important information in one place.",
+  "tamil": "முக்கிய தகவல்களை ஒரே இடத்தில் காட்டும் திரை",
+  "pos": "noun",
+  "pron": "DASH-bord",
+  "example": "The sales dashboard shows today's numbers clearly.",
+  "exampleTamil": "விற்பனை டாஷ்போர்டு இன்றைய எண்களைத் தெளிவாகக் காட்டுகிறது.",
+  "synonyms": [
+   "control panel",
+   "overview"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "widget",
+  "meaning": "A small tool or box on a phone screen showing quick information.",
+  "tamil": "கைபேசித் திரையில் உடனடி தகவல் காட்டும் சிறிய பெட்டி",
+  "pos": "noun",
+  "pron": "WIJ-it",
+  "example": "I added a weather widget to my home screen.",
+  "exampleTamil": "என் முகப்புத் திரையில் வானிலை விட்ஜெட்டைச் சேர்த்தேன்.",
+  "synonyms": [
+   "gadget",
+   "tool"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "megapixel",
+  "meaning": "A unit that tells how detailed a camera photo is.",
+  "tamil": "கேமரா படம் எவ்வளவு தெளிவானது என்பதைக் காட்டும் அலகு",
+  "pos": "noun",
+  "pron": "MEG-uh-pik-sul",
+  "example": "This phone has a fifty megapixel camera.",
+  "exampleTamil": "இந்த கைபேசியில் ஐம்பது மெகாபிக்சல் கேமரா உள்ளது.",
+  "synonyms": [
+   "camera detail"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thumbnail",
+  "meaning": "A small preview picture of a photo or video.",
+  "tamil": "படம் அல்லது வீடியோவின் சிறிய முன்னோட்டப் படம்",
+  "pos": "noun",
+  "pron": "THUM-nayl",
+  "example": "I clicked the video because the thumbnail looked funny.",
+  "exampleTamil": "சிறுபடம் வேடிக்கையாகத் தெரிந்ததால் அந்த வீடியோவை அழுத்தினேன்.",
+  "synonyms": [
+   "preview",
+   "small image"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vpn",
+  "meaning": "A service that hides your online location and keeps data private.",
+  "tamil": "இணைய இருப்பிடத்தை மறைத்து தரவை பாதுகாக்கும் சேவை",
+  "pos": "noun",
+  "pron": "VEE-pee-EN",
+  "example": "He uses a VPN when he connects to public Wi-Fi.",
+  "exampleTamil": "பொது வைஃபையில் இணையும்போது அவன் விபிஎன் பயன்படுத்துகிறான்.",
+  "synonyms": [
+   "private network"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "voicenote",
+  "meaning": "A short recorded audio message sent in a chat.",
+  "tamil": "அரட்டையில் அனுப்பும் குறுகிய பதிவு செய்த குரல் செய்தி",
+  "pos": "noun",
+  "pron": "VOYS-noht",
+  "example": "She sent me a voicenote instead of typing.",
+  "exampleTamil": "அவள் தட்டச்சு செய்வதற்குப் பதிலாக குரல் செய்தி அனுப்பினாள்.",
+  "synonyms": [
+   "audio message",
+   "voice message"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "analytics",
+  "meaning": "The study of data to find useful patterns.",
+  "tamil": "பகுப்பாய்வு, பயனுள்ள வடிவங்களைக் காண தரவை ஆராய்தல்",
+  "pos": "noun",
+  "pron": "an-uh-LIT-iks",
+  "example": "Web analytics tells us how many people visit.",
+  "exampleTamil": "இணையப் பகுப்பாய்வு எத்தனை பேர் வருகிறார்கள் என்று சொல்கிறது.",
+  "synonyms": [
+   "data study",
+   "statistics"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "password-manager",
+  "meaning": "An app that safely stores all your passwords.",
+  "tamil": "உங்கள் கடவுச்சொற்கள் அனைத்தையும் பாதுகாப்பாக சேமிக்கும் செயலி",
+  "pos": "noun",
+  "pron": "PAS-werd MAN-ij-er",
+  "example": "A password-manager remembers every login for me.",
+  "exampleTamil": "கடவுச்சொல் மேலாளர் என் எல்லா உள்நுழைவுகளையும் நினைவில் வைத்திருக்கிறது.",
+  "synonyms": [
+   "password vault"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dataset",
+  "meaning": "A collection of data used for study or training.",
+  "tamil": "தரவுத்தொகுப்பு, ஆய்வு அல்லது பயிற்சிக்குப் பயன்படும் தரவுகளின் தொகுப்பு",
+  "pos": "noun",
+  "pron": "DAY-tuh-set",
+  "example": "The team trained the model on a large dataset.",
+  "exampleTamil": "அந்தக் குழு பெரிய தரவுத்தொகுப்பில் மாதிரியைப் பயிற்றுவித்தது.",
+  "synonyms": [
+   "data collection"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "adware",
+  "meaning": "Software that shows unwanted ads on your device.",
+  "tamil": "சாதனத்தில் தேவையற்ற விளம்பரங்களைக் காட்டும் மென்பொருள்",
+  "pos": "noun",
+  "pron": "AD-wair",
+  "example": "Adware kept showing pop-ups on my old laptop.",
+  "exampleTamil": "விளம்பர மென்பொருள் என் பழைய மடிக்கணினியில் தொடர்ந்து பாப்-அப் காட்டியது.",
+  "synonyms": [
+   "pop-up software"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "motherboard",
+  "meaning": "The main circuit board inside a computer.",
+  "tamil": "கணினியின் உள்ளே உள்ள முக்கிய மின்சுற்று பலகை",
+  "pos": "noun",
+  "pron": "MUTH-er-bord",
+  "example": "The technician replaced the damaged motherboard.",
+  "exampleTamil": "தொழில்நுட்பர் சேதமடைந்த மதர்போர்டை மாற்றினார்.",
+  "synonyms": [
+   "main board",
+   "circuit board"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "powerbank",
+  "meaning": "A portable battery used to charge your phone on the go.",
+  "tamil": "பயணத்தில் கைபேசியை சார்ஜ் செய்யும் எடுத்துச் செல்லும் மின்கலம்",
+  "pos": "noun",
+  "pron": "POW-er-bank",
+  "example": "Carry a powerbank when you travel by train.",
+  "exampleTamil": "ரயிலில் பயணம் செய்யும்போது பவர் பேங்க் எடுத்துச் செல்லுங்கள்.",
+  "synonyms": [
+   "portable charger"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ransomware",
+  "meaning": "Harmful software that locks your files until you pay money.",
+  "tamil": "பணம் கொடுக்கும் வரை கோப்புகளை முடக்கும் தீங்கு மென்பொருள்",
+  "pos": "noun",
+  "pron": "RAN-sum-wair",
+  "example": "Ransomware locked all the hospital's computers for two days.",
+  "exampleTamil": "ரான்சம்வேர் மருத்துவமனையின் அனைத்து கணினிகளையும் இரண்டு நாட்கள் முடக்கியது.",
+  "synonyms": [
+   "malware",
+   "cyber extortion"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "decryption",
+  "meaning": "Changing secret code back into readable information.",
+  "tamil": "மறைகுறி நீக்கம், ரகசியக் குறியீட்டை மீண்டும் படிக்கக்கூடியதாக மாற்றுதல்",
+  "pos": "noun",
+  "pron": "dee-KRIP-shun",
+  "example": "Decryption needs the right key.",
+  "exampleTamil": "மறைகுறி நீக்கத்துக்குச் சரியான சாவி தேவை.",
+  "synonyms": [
+   "decoding"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cybersecurity",
+  "meaning": "Protecting computers, networks and data from online attacks.",
+  "tamil": "இணையத் தாக்குதல்களிலிருந்து கணினி மற்றும் தரவைப் பாதுகாத்தல்",
+  "pos": "noun",
+  "pron": "SY-ber-sih-KYOOR-ih-tee",
+  "example": "Good cybersecurity starts with strong passwords.",
+  "exampleTamil": "நல்ல இணையப் பாதுகாப்பு வலுவான கடவுச்சொற்களுடன் தொடங்குகிறது.",
+  "synonyms": [
+   "online safety",
+   "data protection"
+  ],
+  "level": "advanced"
+ }
+]

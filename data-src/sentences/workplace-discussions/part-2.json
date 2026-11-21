@@ -1,0 +1,377 @@
+[
+ {
+  "en": "We must finish this work before Friday.",
+  "tamil": "இந்த வேலையை வெள்ளிக்கிழமைக்குள்ள முடிச்சே ஆகணும்.",
+  "context": "Reminding the team about a firm deadline.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Must' shows something very important or necessary.",
+  "words": [
+   "finish",
+   "before"
+  ],
+  "usage": "Use it when a deadline is fixed and the whole team needs to hurry.",
+  "leelaQ": "What must you finish this week?",
+  "answer": "I must finish my pending tasks and send them to my manager."
+ },
+ {
+  "en": "Good work, everyone, we reached our target.",
+  "tamil": "எல்லாருக்கும் வாழ்த்துக்கள், நம்ம டார்கெட்டை அடைஞ்சிட்டோம்.",
+  "context": "Thanking the team after a successful month.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Reached our target' is a common phrase for completing a goal.",
+  "words": [
+   "target",
+   "reached"
+  ],
+  "usage": "Use it as a manager or senior to thank the team after a success.",
+  "leelaQ": "How do you celebrate with your team?",
+  "answer": "We usually have tea together and share some sweets."
+ },
+ {
+  "en": "Which task should I do first?",
+  "tamil": "நான் எந்த வேலையை முதல்ல செய்யணும்?",
+  "context": "Asking a manager how to set priorities.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Which' is used when there are a few known choices.",
+  "words": [
+   "task",
+   "first"
+  ],
+  "usage": "Use it with a manager when you have many pending tasks.",
+  "leelaQ": "How do you decide which task to do first?",
+  "answer": "I do the urgent and important task first."
+ },
+ {
+  "en": "I have already sent you two reminders.",
+  "tamil": "நான் ஏற்கனவே ரெண்டு ரிமைண்டர் அனுப்பிட்டேன்.",
+  "context": "Politely telling someone you waited for a reply.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Already' shows that it happened before now and a bit more than expected.",
+  "words": [
+   "reminders",
+   "already"
+  ],
+  "usage": "Use it politely with a colleague who has not replied to your emails.",
+  "leelaQ": "What do you do if someone does not reply to your email?",
+  "answer": "I send a polite reminder and then I call them."
+ },
+ {
+  "en": "Can you please join the call on time?",
+  "tamil": "தயவுசெஞ்சு சரியான நேரத்துக்கு காலுக்கு வர முடியுமா?",
+  "context": "Asking a teammate to be punctual.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Please' in the middle makes it a gentle request.",
+  "words": [
+   "join",
+   "on time"
+  ],
+  "usage": "Use it as a team lead when people join meetings late.",
+  "leelaQ": "Why is it important to be on time?",
+  "answer": "It shows respect and saves everyone's time."
+ },
+ {
+  "en": "Please do not share this file outside the team.",
+  "tamil": "இந்த ஃபைலை டீமுக்கு வெளியே பகிராதீங்க.",
+  "context": "Giving a warning about a confidential file.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Please do not' is a polite and firm order.",
+  "words": [
+   "share",
+   "outside"
+  ],
+  "usage": "Use it when you send private office documents to your colleagues.",
+  "leelaQ": "What office files should you keep private?",
+  "answer": "Salary details and client data should stay private."
+ },
+ {
+  "en": "Can we start the meeting now?",
+  "tamil": "நாம இப்போ மீட்டிங்கை ஆரம்பிக்கலாமா?",
+  "context": "Asking in a meeting room when everyone is ready.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can we' is a friendly way to suggest an action together.",
+  "words": [
+   "start",
+   "meeting"
+  ],
+  "usage": "Use it as an organiser when you see all people have arrived.",
+  "leelaQ": "How do you start a meeting?",
+  "answer": "I greet everyone and say what we will discuss today."
+ },
+ {
+  "en": "Can you give me some feedback on my work?",
+  "tamil": "என் வேலைக்கு கொஞ்சம் ஃபீட்பேக் கொடுக்க முடியுமா?",
+  "context": "Asking a senior to review your work.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Some feedback' is correct. 'Feedbacks' is not used in standard English.",
+  "words": [
+   "feedback",
+   "work"
+  ],
+  "usage": "Use it with a senior when you want to improve your work.",
+  "leelaQ": "Who do you ask for feedback?",
+  "answer": "I ask my team lead because he knows my work well."
+ },
+ {
+  "en": "The design team is waiting for our approval.",
+  "tamil": "டிசைன் டீம் நம்ம ஒப்புதலுக்காக காத்துக்கிட்டு இருக்காங்க.",
+  "context": "Reminding your manager about a pending approval.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is waiting for' needs 'for' before the thing you wait for.",
+  "words": [
+   "waiting",
+   "approval"
+  ],
+  "usage": "Use it when work is stopped because someone has not approved it yet.",
+  "leelaQ": "What is the last thing you waited for at work?",
+  "answer": "I waited for my manager's approval on a leave request."
+ },
+ {
+  "en": "When will the report be ready?",
+  "tamil": "ரிப்போர்ட் எப்போ தயாராகும்?",
+  "context": "Asking a colleague about the time of a report.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'When will' asks about a future time.",
+  "words": [
+   "report",
+   "ready"
+  ],
+  "usage": "Use it when you are waiting for a document from a teammate.",
+  "leelaQ": "When do you expect your next big task to finish?",
+  "answer": "I expect to finish it by the end of next week."
+ },
+ {
+  "en": "Our boss appreciated the team's effort.",
+  "tamil": "எங்க பாஸ் டீமோட முயற்சியை பாராட்டினாரு.",
+  "context": "Telling your family about a good day at work.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Appreciated' is a stronger word than 'liked'. It shows respect for hard work.",
+  "words": [
+   "appreciated",
+   "effort"
+  ],
+  "usage": "Use it with friends or family when you share how the boss reacted.",
+  "leelaQ": "Does your boss appreciate your work?",
+  "answer": "Yes, he often says thank you after a project."
+ },
+ {
+  "en": "Please mute your mic when you are not speaking.",
+  "tamil": "பேசாத நேரத்துல உங்க மைக்கை மியூட் பண்ணுங்க.",
+  "context": "Reminding people in an online meeting.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Mute' means to turn off the sound. 'When' joins the request to the condition.",
+  "words": [
+   "mute",
+   "mic"
+  ],
+  "usage": "Use it as a host in an online meeting when there is background noise.",
+  "leelaQ": "Why should you mute your mic in a call?",
+  "answer": "Because the background noise disturbs the speaker."
+ },
+ {
+  "en": "I'll make the changes and send it again.",
+  "tamil": "நான் மாற்றங்களை செஞ்சிட்டு திரும்ப அனுப்புறேன்.",
+  "context": "Replying to a reviewer after getting comments.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll' is the short form of 'I will'. It is natural in spoken English.",
+  "words": [
+   "changes",
+   "send"
+  ],
+  "usage": "Use it when your manager or client gives you comments on your work.",
+  "leelaQ": "What do you do after you get comments on your work?",
+  "answer": "I read them carefully, make the changes and send it again."
+ },
+ {
+  "en": "The team worked late to meet the deadline.",
+  "tamil": "டெட்லைனை எட்டுறதுக்கு டீம் லேட்டா வரைக்கும் வேலை பண்ணுச்சு.",
+  "context": "Telling a friend how hard the team worked.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'To meet the deadline' means to finish the work on time.",
+  "words": [
+   "worked late",
+   "meet"
+  ],
+  "usage": "Use it when you describe a busy week to friends or to your manager.",
+  "leelaQ": "Have you ever worked late for a deadline?",
+  "answer": "Yes, I worked until nine o'clock to finish a report."
+ },
+ {
+  "en": "Everyone in our team helps each other.",
+  "tamil": "எங்க டீம்ல எல்லாரும் ஒருத்தருக்கொருத்தர் உதவி பண்ணுவாங்க.",
+  "context": "Describing your team spirit in an interview or chat.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Each other' is used when two or more people do the same thing to one another.",
+  "words": [
+   "helps",
+   "each other"
+  ],
+  "usage": "Use it in an interview or with a friend when you talk about your team.",
+  "leelaQ": "How is the teamwork in your office?",
+  "answer": "Our teamwork is good, and everyone helps when someone is busy."
+ },
+ {
+  "en": "I completed the testing yesterday.",
+  "tamil": "நேத்தே டெஸ்டிங்கை முடிச்சிட்டேன்.",
+  "context": "Giving a status update to your team lead.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Completed' is past tense. 'Yesterday' tells us the work was finished before today.",
+  "words": [
+   "completed",
+   "testing"
+  ],
+  "usage": "Use it in a daily update when you report work you have already finished.",
+  "leelaQ": "What work did you finish yesterday?",
+  "answer": "I finished the testing and wrote a short report yesterday."
+ },
+ {
+  "en": "What is the deadline for this task?",
+  "tamil": "இந்த வேலைக்கான டெட்லைன் என்ன?",
+  "context": "Asking your manager about the last date.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What is the ... for' is a clear question for details.",
+  "words": [
+   "deadline",
+   "task"
+  ],
+  "usage": "Use it when you get a new task and need to know the due date.",
+  "leelaQ": "What do you ask when you get a new task?",
+  "answer": "I ask the deadline and who will check the work."
+ },
+ {
+  "en": "I did not understand the last point.",
+  "tamil": "கடைசி பாயின்ட் எனக்கு புரியலை.",
+  "context": "Asking politely for clarity in a meeting.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not' with the base verb makes a past negative.",
+  "words": [
+   "understand",
+   "point"
+  ],
+  "usage": "Use it in a meeting before you ask the speaker to explain again.",
+  "leelaQ": "What do you do when you do not understand something?",
+  "answer": "I ask the person to explain it once more."
+ },
+ {
+  "en": "The report is not ready yet.",
+  "tamil": "ரிப்போர்ட் இன்னும் தயாராகல.",
+  "context": "Replying to a manager who asks for the report.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not ready yet' means it will be ready later.",
+  "words": [
+   "report",
+   "ready"
+  ],
+  "usage": "Use it when a manager asks for something before you have finished.",
+  "leelaQ": "What do you say when your work is not ready?",
+  "answer": "I say it is not ready yet and tell them when it will be."
+ },
+ {
+  "en": "I will update the status sheet after lunch.",
+  "tamil": "மதிய சாப்பாட்டுக்கு அப்புறம் ஸ்டேட்டஸ் ஷீட்டை அப்டேட் பண்றேன்.",
+  "context": "Telling a teammate when you will fill the tracker.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'After lunch' is a simple time phrase for a plan.",
+  "words": [
+   "update",
+   "status"
+  ],
+  "usage": "Use it with a team lead who asks for an updated tracker.",
+  "leelaQ": "What do you do after lunch at work?",
+  "answer": "I answer my emails and continue with my tasks."
+ },
+ {
+  "en": "Kindly reply to this mail as soon as possible.",
+  "tamil": "இந்த மெயிலுக்கு முடிஞ்சவரைக்கும் சீக்கிரம் பதில் சொல்லுங்க.",
+  "context": "Writing a formal email to a client.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Kindly' is common in Indian official English. 'As soon as possible' means quickly.",
+  "words": [
+   "kindly",
+   "possible"
+  ],
+  "usage": "Use it in an email when you need a fast answer from someone.",
+  "leelaQ": "How do you ask for a quick reply in an email?",
+  "answer": "I write please reply as soon as possible, and I say thank you."
+ },
+ {
+  "en": "I think we should try a different approach.",
+  "tamil": "நாம வேற மாதிரி முயற்சி பண்ணலாம்னு நினைக்கிறேன்.",
+  "context": "Suggesting a new way to solve a problem.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I think we should' is a soft way to give a suggestion.",
+  "words": [
+   "approach",
+   "different"
+  ],
+  "usage": "Use it in a team discussion when the current plan is not working.",
+  "leelaQ": "How do you suggest a new idea to your team?",
+  "answer": "I say I think we should try a different way."
+ },
+ {
+  "en": "I was in a client call when you messaged.",
+  "tamil": "நீங்க மெசேஜ் பண்ணப்போ நான் கிளையன்ட் காலுல இருந்தேன்.",
+  "context": "Explaining why you replied late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was' with 'when' shows what you were doing at that time.",
+  "words": [
+   "client call",
+   "messaged"
+  ],
+  "usage": "Use it when a colleague asks why you did not reply on time.",
+  "leelaQ": "Why do people reply late to messages?",
+  "answer": "Maybe they are in a meeting or busy with another task."
+ },
+ {
+  "en": "Someone has to talk to the client today.",
+  "tamil": "இன்னைக்கு யாராவது கிளையன்ட்கிட்ட பேசியே ஆகணும்.",
+  "context": "Pushing the team to take responsibility.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Has to' shows that something is necessary. 'Someone' takes a singular verb.",
+  "words": [
+   "client",
+   "someone"
+  ],
+  "usage": "Use it in a team chat when a task needs an owner.",
+  "leelaQ": "Who talks to the client in your team?",
+  "answer": "Our team lead talks to the client most of the time."
+ },
+ {
+  "en": "I will check with the team and get back to you.",
+  "tamil": "டீம்கிட்ட கேட்டுட்டு உங்களுக்கு திரும்ப சொல்றேன்.",
+  "context": "Replying to a client when you do not know the answer yet.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Get back to you' means to reply later with the answer. It is very common at work.",
+  "words": [
+   "check",
+   "get back"
+  ],
+  "usage": "Use it with a client or manager when you need time to find the answer.",
+  "leelaQ": "What do you say when you do not know the answer?",
+  "answer": "I say I will check and get back to them soon."
+ }
+]

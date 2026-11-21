@@ -1,0 +1,352 @@
+[
+ {
+  "word": "hop",
+  "meaning": "to jump on one foot or move with small jumps",
+  "tamil": "ஒரு காலில் தாவுதல்; சிறிய தாவல்களில் நகர்தல்",
+  "pos": "verb",
+  "pron": "HOP",
+  "example": "The little kids hop on one leg in the playground.",
+  "exampleTamil": "சிறுவர்கள் விளையாட்டு மைதானத்தில் ஒரு காலில் தாவுகிறார்கள்.",
+  "synonyms": [
+   "jump",
+   "leap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "roll",
+  "meaning": "to move by turning over and over",
+  "tamil": "உருளுதல்; சுழன்று நகர்தல்",
+  "pos": "verb",
+  "pron": "ROHL",
+  "example": "The ball rolled under the sofa.",
+  "exampleTamil": "பந்து சோபாவின் அடியில் உருண்டு சென்றது.",
+  "synonyms": [
+   "turn",
+   "tumble"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spin",
+  "meaning": "to turn round and round quickly",
+  "tamil": "வேகமாக சுற்றுதல்",
+  "pos": "verb",
+  "pron": "SPIN",
+  "example": "The fan spins very fast in summer.",
+  "exampleTamil": "கோடையில் மின்விசிறி மிக வேகமாக சுற்றுகிறது.",
+  "synonyms": [
+   "rotate",
+   "whirl"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "swing",
+  "meaning": "to move back and forth from a fixed point",
+  "tamil": "முன்னும் பின்னும் ஆடுதல்",
+  "pos": "verb",
+  "pron": "SWING",
+  "example": "The children swing on the old rope in the park.",
+  "exampleTamil": "குழந்தைகள் பூங்காவில் பழைய கயிற்றில் ஆடுகிறார்கள்.",
+  "synonyms": [
+   "sway",
+   "rock"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dive",
+  "meaning": "to jump into water head first",
+  "tamil": "தலைகீழாக தண்ணீரில் குதித்தல்",
+  "pos": "verb",
+  "pron": "DYVE",
+  "example": "He dived into the pool and swam to the end.",
+  "exampleTamil": "அவன் குளத்தில் குதித்து கடைசி வரை நீந்தினான்.",
+  "synonyms": [
+   "plunge",
+   "jump"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "skip",
+  "meaning": "to move forward with light hops from one foot to the other",
+  "tamil": "ஒரு காலிலிருந்து மறு காலுக்கு துள்ளிக் குதித்து செல்லுதல்",
+  "pos": "verb",
+  "pron": "SKIP",
+  "example": "The little girl skipped happily to school.",
+  "exampleTamil": "சிறுமி மகிழ்ச்சியாக துள்ளிக் குதித்து பள்ளிக்குச் சென்றாள்.",
+  "synonyms": [
+   "hop",
+   "bounce"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "march",
+  "meaning": "to walk in a straight, steady way like soldiers",
+  "tamil": "வீரர்களைப் போல நேராக அணிவகுத்து நடத்தல்",
+  "pos": "verb",
+  "pron": "MARCH",
+  "example": "The students march in a line on Independence Day.",
+  "exampleTamil": "சுதந்திர தினத்தில் மாணவர்கள் வரிசையாக அணிவகுத்துச் செல்கிறார்கள்.",
+  "synonyms": [
+   "parade",
+   "walk"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sneak",
+  "meaning": "to move quietly so nobody sees or hears you",
+  "tamil": "யாரும் பார்க்காமல் அமைதியாக நழுவிச் செல்லுதல்",
+  "pos": "verb",
+  "pron": "SNEEK",
+  "example": "She sneaked into the kitchen to eat a sweet.",
+  "exampleTamil": "அவள் இனிப்பு சாப்பிட சமையலறைக்குள் மெதுவாக நுழைந்தாள்.",
+  "synonyms": [
+   "creep",
+   "slip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "enter",
+  "meaning": "to go into a place",
+  "tamil": "உள்ளே நுழைதல்",
+  "pos": "verb",
+  "pron": "EN-ter",
+  "example": "Please remove your shoes before you enter the house.",
+  "exampleTamil": "வீட்டுக்குள் நுழைவதற்கு முன் செருப்பைக் கழற்றுங்கள்.",
+  "synonyms": [
+   "go in",
+   "come in"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "follow",
+  "meaning": "to go behind someone or something",
+  "tamil": "பின்தொடர்தல்",
+  "pos": "verb",
+  "pron": "FOL-oh",
+  "example": "Follow me, I will show you the way.",
+  "exampleTamil": "என்னைப் பின்தொடருங்கள், நான் வழி காட்டுகிறேன்.",
+  "synonyms": [
+   "trail",
+   "pursue"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cook",
+  "meaning": "to make food ready by heating it",
+  "tamil": "சமைத்தல்",
+  "pos": "verb",
+  "pron": "KUUK",
+  "example": "My mother cooks rice and sambar every day.",
+  "exampleTamil": "என் அம்மா தினமும் சாதமும் சாம்பாரும் சமைக்கிறார்.",
+  "synonyms": [
+   "prepare",
+   "make"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "draw",
+  "meaning": "to make a picture with a pencil or pen",
+  "tamil": "பென்சில் அல்லது பேனாவால் படம் வரைதல்",
+  "pos": "verb",
+  "pron": "DRAW",
+  "example": "My daughter likes to draw flowers.",
+  "exampleTamil": "என் மகளுக்கு பூக்களை வரைவது பிடிக்கும்.",
+  "synonyms": [
+   "doodle",
+   "trace"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wash",
+  "meaning": "to clean with water and soap",
+  "tamil": "தண்ணீர் மற்றும் சோப்பால் சுத்தம் செய்தல்; துவைத்தல்",
+  "pos": "verb",
+  "pron": "WOSH",
+  "example": "Wash your hands before eating.",
+  "exampleTamil": "சாப்பிடுவதற்கு முன் கைகளைக் கழுவுங்கள்.",
+  "synonyms": [
+   "clean",
+   "rinse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hang",
+  "meaning": "to fix something at the top so it does not touch the ground",
+  "tamil": "தரையில் படாமல் மேலே தொங்கவிடுதல்",
+  "pos": "verb",
+  "pron": "HANG",
+  "example": "Please hang your wet clothes outside to dry.",
+  "exampleTamil": "ஈரமான துணிகளை காய வெளியே தொங்கவிடுங்கள்.",
+  "synonyms": [
+   "suspend",
+   "dangle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fill",
+  "meaning": "to put something in until it is full",
+  "tamil": "நிரம்பும் வரை ஊற்றுதல்; நிரப்புதல்",
+  "pos": "verb",
+  "pron": "FIL",
+  "example": "Fill the bottle with fresh water.",
+  "exampleTamil": "பாட்டிலில் புதிய தண்ணீரை நிரப்புங்கள்.",
+  "synonyms": [
+   "load",
+   "top up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scoop",
+  "meaning": "to lift food or liquid out with a spoon",
+  "tamil": "கரண்டியால் அள்ளி எடுத்தல்",
+  "pos": "verb",
+  "pron": "SKOOP",
+  "example": "Scoop the rice onto my plate, please.",
+  "exampleTamil": "தயவுசெய்து சாதத்தை என் தட்டில் அள்ளி வையுங்கள்.",
+  "synonyms": [
+   "spoon",
+   "ladle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "imagine",
+  "meaning": "to make a picture of something in your mind",
+  "tamil": "மனதில் கற்பனை செய்தல்",
+  "pos": "verb",
+  "pron": "ih-MAJ-in",
+  "example": "Imagine you are sitting on a quiet beach.",
+  "exampleTamil": "நீங்கள் அமைதியான கடற்கரையில் அமர்ந்திருப்பதாக கற்பனை செய்யுங்கள்.",
+  "synonyms": [
+   "picture",
+   "visualize"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gulp",
+  "meaning": "to drink or swallow quickly in large amounts",
+  "tamil": "பெரிய அளவில் வேகமாக குடித்தல் அல்லது விழுங்குதல்",
+  "pos": "verb",
+  "pron": "GULP",
+  "example": "He gulped down a glass of water after the race.",
+  "exampleTamil": "ஓட்டத்துக்குப் பிறகு அவர் ஒரு டம்ளர் தண்ணீரை மடமடவென குடித்தார்.",
+  "synonyms": [
+   "swallow",
+   "gobble"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "grow",
+  "meaning": "to become bigger or taller over time",
+  "tamil": "காலப்போக்கில் வளர்தல்",
+  "pos": "verb",
+  "pron": "GROH",
+  "example": "Tomato plants grow fast in warm weather.",
+  "exampleTamil": "சூடான வானிலையில் தக்காளிச் செடிகள் வேகமாக வளரும்.",
+  "synonyms": [
+   "develop",
+   "expand"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "heat",
+  "meaning": "to make something hot",
+  "tamil": "சூடாக்குதல்",
+  "pos": "verb",
+  "pron": "HEET",
+  "example": "Heat the milk before you add the coffee powder.",
+  "exampleTamil": "காபித்தூள் சேர்ப்பதற்கு முன் பாலை சூடாக்குங்கள்.",
+  "synonyms": [
+   "warm",
+   "boil"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "melt",
+  "meaning": "to change from solid to liquid because of heat",
+  "tamil": "வெப்பத்தால் உருகுதல்",
+  "pos": "verb",
+  "pron": "MELT",
+  "example": "The ice cream melted in the hot sun.",
+  "exampleTamil": "வெயிலில் ஐஸ்கிரீம் உருகிவிட்டது.",
+  "synonyms": [
+   "thaw",
+   "dissolve"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "use",
+  "meaning": "to do something with a thing for a purpose",
+  "tamil": "பயன்படுத்துதல்",
+  "pos": "verb",
+  "pron": "YOOZ",
+  "example": "Can I use your phone for a minute?",
+  "exampleTamil": "உங்கள் போனை ஒரு நிமிடம் பயன்படுத்தலாமா?",
+  "synonyms": [
+   "employ",
+   "operate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "peek",
+  "meaning": "to take a quick look at something, often secretly",
+  "tamil": "சிறிது நேரம் மறைவாக எட்டிப் பார்த்தல்",
+  "pos": "verb",
+  "pron": "PEEK",
+  "example": "She peeked through the window to see who had come.",
+  "exampleTamil": "யார் வந்தது என்று பார்க்க அவள் ஜன்னல் வழியாக எட்டிப் பார்த்தாள்.",
+  "synonyms": [
+   "glance",
+   "peep"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sprout",
+  "meaning": "to begin to grow, as a plant does",
+  "tamil": "செடி முளைக்கத் தொடங்குதல்",
+  "pos": "verb",
+  "pron": "SPROWT",
+  "example": "The beans sprouted within three days.",
+  "exampleTamil": "மூன்று நாட்களுக்குள் பீன்ஸ் முளைத்தது.",
+  "synonyms": [
+   "bud",
+   "germinate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "try",
+  "meaning": "to make an effort to do something",
+  "tamil": "முயற்சி செய்தல்",
+  "pos": "verb",
+  "pron": "TRY",
+  "example": "Try this chutney and tell me if it needs salt.",
+  "exampleTamil": "இந்த சட்னியை சுவைத்து உப்பு வேண்டுமா என்று சொல்லுங்கள்.",
+  "synonyms": [
+   "attempt",
+   "test"
+  ],
+  "level": "beginner"
+ }
+]

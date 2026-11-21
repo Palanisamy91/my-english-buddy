@@ -1,0 +1,344 @@
+[
+ {
+  "word": "election",
+  "meaning": "The process of choosing leaders by voting.",
+  "tamil": "தேர்தல்",
+  "pos": "noun",
+  "pron": "ih-LEK-shun",
+  "example": "The election will be held next month.",
+  "exampleTamil": "தேர்தல் அடுத்த மாதம் நடைபெறும்.",
+  "synonyms": [
+   "vote",
+   "poll"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "government",
+  "meaning": "The group of people who run a country or state.",
+  "tamil": "அரசாங்கம்",
+  "pos": "noun",
+  "pron": "GUV-urn-munt",
+  "example": "The government announced a new bus service.",
+  "exampleTamil": "அரசாங்கம் புதிய பேருந்து சேவையை அறிவித்தது.",
+  "synonyms": [
+   "administration",
+   "authority"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "minister",
+  "meaning": "A senior person in the government who leads a department.",
+  "tamil": "அமைச்சர்",
+  "pos": "noun",
+  "pron": "MIN-ih-ster",
+  "example": "The minister visited our village yesterday.",
+  "exampleTamil": "அமைச்சர் நேற்று எங்கள் கிராமத்திற்கு வந்தார்.",
+  "synonyms": [
+   "secretary",
+   "official"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "president",
+  "meaning": "The head of a country or an organisation.",
+  "tamil": "குடியரசுத் தலைவர்",
+  "pos": "noun",
+  "pron": "PREZ-ih-dunt",
+  "example": "The president spoke to the nation on television.",
+  "exampleTamil": "குடியரசுத் தலைவர் தொலைக்காட்சியில் நாட்டு மக்களிடம் பேசினார்.",
+  "synonyms": [
+   "leader",
+   "head"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mayor",
+  "meaning": "The elected head of a city or town.",
+  "tamil": "மேயர்",
+  "pos": "noun",
+  "pron": "MAY-er",
+  "example": "The mayor opened the new park today.",
+  "exampleTamil": "மேயர் இன்று புதிய பூங்காவைத் திறந்து வைத்தார்.",
+  "synonyms": [
+   "city head"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wildfire",
+  "meaning": "A large fire that spreads quickly through forests or dry land.",
+  "tamil": "காட்டுத்தீ",
+  "pos": "noun",
+  "pron": "WILD-fire-r",
+  "example": "The wildfire destroyed hundreds of acres of forest.",
+  "exampleTamil": "காட்டுத்தீ நூற்றுக்கணக்கான ஏக்கர் காடுகளை அழித்தது.",
+  "synonyms": [
+   "forest fire",
+   "blaze"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "law",
+  "meaning": "A rule made by the government that everyone must follow.",
+  "tamil": "சட்டம்",
+  "pos": "noun",
+  "pron": "LAW",
+  "example": "It is against the law to drive without a licence.",
+  "exampleTamil": "உரிமம் இல்லாமல் வாகனம் ஓட்டுவது சட்டத்திற்கு எதிரானது.",
+  "synonyms": [
+   "rule",
+   "regulation"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "court",
+  "meaning": "A place where judges decide legal cases.",
+  "tamil": "நீதிமன்றம்",
+  "pos": "noun",
+  "pron": "KORT",
+  "example": "The case will be heard in court on Monday.",
+  "exampleTamil": "அந்த வழக்கு திங்கட்கிழமை நீதிமன்றத்தில் விசாரிக்கப்படும்.",
+  "synonyms": [
+   "tribunal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "anthem",
+  "meaning": "A special song that stands for a country or group.",
+  "tamil": "தேசிய கீதம்",
+  "pos": "noun",
+  "pron": "AN-thum",
+  "example": "Everyone stood up when the national anthem played.",
+  "exampleTamil": "தேசிய கீதம் ஒலித்தபோது அனைவரும் எழுந்து நின்றனர்.",
+  "synonyms": [
+   "hymn",
+   "song"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lawyer",
+  "meaning": "A person who gives legal advice and speaks for people in court.",
+  "tamil": "வழக்கறிஞர்",
+  "pos": "noun",
+  "pron": "LOY-er",
+  "example": "My uncle is a lawyer in Madurai.",
+  "exampleTamil": "என் மாமா மதுரையில் வழக்கறிஞராக இருக்கிறார்.",
+  "synonyms": [
+   "advocate",
+   "attorney"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "crime",
+  "meaning": "An act that is against the law.",
+  "tamil": "குற்றம்",
+  "pos": "noun",
+  "pron": "KRYME",
+  "example": "Crime has gone down in our area this year.",
+  "exampleTamil": "இந்த ஆண்டு எங்கள் பகுதியில் குற்றங்கள் குறைந்துள்ளன.",
+  "synonyms": [
+   "offence",
+   "felony"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "prison",
+  "meaning": "A place where people are kept as punishment for crimes.",
+  "tamil": "சிறைச்சாலை",
+  "pos": "noun",
+  "pron": "PRIZ-un",
+  "example": "The thief was sent to prison for two years.",
+  "exampleTamil": "திருடன் இரண்டு ஆண்டுகள் சிறைக்கு அனுப்பப்பட்டான்.",
+  "synonyms": [
+   "jail"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "drought",
+  "meaning": "A long time with very little or no rain.",
+  "tamil": "வறட்சி",
+  "pos": "noun",
+  "pron": "DROWT",
+  "example": "The drought has hurt many farmers this year.",
+  "exampleTamil": "இந்த ஆண்டு வறட்சி பல விவசாயிகளைப் பாதித்துள்ளது.",
+  "synonyms": [
+   "dry spell",
+   "water shortage"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pollution",
+  "meaning": "Harmful things that make air, water or land dirty.",
+  "tamil": "மாசுபாடு",
+  "pos": "noun",
+  "pron": "puh-LOO-shun",
+  "example": "Air pollution is very high in big cities.",
+  "exampleTamil": "பெரிய நகரங்களில் காற்று மாசுபாடு மிக அதிகமாக உள்ளது.",
+  "synonyms": [
+   "contamination"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "famine",
+  "meaning": "A time when many people have no food and go hungry.",
+  "tamil": "பஞ்சம்",
+  "pos": "noun",
+  "pron": "FAM-in",
+  "example": "The famine left thousands of families without food.",
+  "exampleTamil": "பஞ்சம் ஆயிரக்கணக்கான குடும்பங்களை உணவின்றி தவிக்க வைத்தது.",
+  "synonyms": [
+   "hunger",
+   "starvation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "plastic",
+  "meaning": "A light man-made material used to make bags, bottles and toys.",
+  "tamil": "பிளாஸ்டிக்",
+  "pos": "noun",
+  "pron": "PLAS-tik",
+  "example": "Please do not use plastic bags in the market.",
+  "exampleTamil": "சந்தையில் பிளாஸ்டிக் பைகளைப் பயன்படுத்த வேண்டாம்.",
+  "synonyms": [
+   "polythene"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "climate",
+  "meaning": "The usual weather of a place over a long time.",
+  "tamil": "காலநிலை",
+  "pos": "noun",
+  "pron": "KLY-mut",
+  "example": "The climate in Ooty is cool all year.",
+  "exampleTamil": "ஊட்டியில் ஆண்டு முழுவதும் குளிர்ச்சியான காலநிலை இருக்கும்.",
+  "synonyms": [
+   "weather pattern"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ceremony",
+  "meaning": "A formal event held on a special or important occasion.",
+  "tamil": "விழா, சடங்கு",
+  "pos": "noun",
+  "pron": "SEH-ruh-moh-nee",
+  "example": "The award ceremony starts at six in the evening.",
+  "exampleTamil": "விருது வழங்கும் விழா மாலை ஆறு மணிக்குத் தொடங்கும்.",
+  "synonyms": [
+   "function",
+   "ritual"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "city",
+  "meaning": "A large and important town.",
+  "tamil": "நகரம்",
+  "pos": "noun",
+  "pron": "SIT-ee",
+  "example": "Chennai is a busy city with many people.",
+  "exampleTamil": "சென்னை பலர் வாழும் பரபரப்பான நகரம்.",
+  "synonyms": [
+   "town",
+   "metropolis"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "population",
+  "meaning": "The number of people living in a place.",
+  "tamil": "மக்கள் தொகை",
+  "pos": "noun",
+  "pron": "pop-yuh-LAY-shun",
+  "example": "The population of India keeps growing every year.",
+  "exampleTamil": "இந்தியாவின் மக்கள் தொகை ஒவ்வொரு ஆண்டும் அதிகரிக்கிறது.",
+  "synonyms": [
+   "inhabitants"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "poverty",
+  "meaning": "The state of being very poor.",
+  "tamil": "வறுமை",
+  "pos": "noun",
+  "pron": "POV-er-tee",
+  "example": "Many schemes aim to reduce poverty in villages.",
+  "exampleTamil": "கிராமங்களில் வறுமையைக் குறைக்க பல திட்டங்கள் உள்ளன.",
+  "synonyms": [
+   "hardship",
+   "need"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "public",
+  "meaning": "Open to or for everyone, not private.",
+  "tamil": "பொது",
+  "pos": "adjective",
+  "pron": "PUB-lik",
+  "example": "Public parks are free for all citizens.",
+  "exampleTamil": "பொதுப் பூங்காக்கள் எல்லா குடிமக்களுக்கும் இலவசம்.",
+  "synonyms": [
+   "common",
+   "communal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "community",
+  "meaning": "A group of people who live in the same area or share interests.",
+  "tamil": "சமூகம்",
+  "pos": "noun",
+  "pron": "kuh-MYOO-nuh-tee",
+  "example": "Our community cleans the street every Sunday.",
+  "exampleTamil": "எங்கள் சமூகம் ஒவ்வொரு ஞாயிற்றுக்கிழமையும் தெருவைச் சுத்தம் செய்கிறது.",
+  "synonyms": [
+   "neighbourhood",
+   "group"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "religion",
+  "meaning": "A system of faith and worship of God or gods.",
+  "tamil": "மதம்",
+  "pos": "noun",
+  "pron": "rih-LIJ-un",
+  "example": "People of every religion live together in our town.",
+  "exampleTamil": "எங்கள் ஊரில் எல்லா மதத்தினரும் ஒன்றாக வாழ்கிறார்கள்.",
+  "synonyms": [
+   "faith"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "custom",
+  "meaning": "A traditional way of doing something in a group.",
+  "tamil": "வழக்கம்",
+  "pos": "noun",
+  "pron": "KUS-tum",
+  "example": "It is a custom to remove shoes before entering a home.",
+  "exampleTamil": "வீட்டிற்குள் நுழைவதற்கு முன் காலணிகளைக் கழற்றுவது வழக்கம்.",
+  "synonyms": [
+   "tradition",
+   "practice"
+  ],
+  "level": "beginner"
+ }
+]

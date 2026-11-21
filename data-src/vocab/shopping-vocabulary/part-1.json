@@ -1,0 +1,330 @@
+[
+ {
+  "word": "shop",
+  "meaning": "A place where you buy things.",
+  "tamil": "கடை",
+  "pos": "noun",
+  "pron": "SHOP",
+  "example": "The shop near my house opens at seven.",
+  "exampleTamil": "என் வீட்டின் அருகில் உள்ள கடை ஏழு மணிக்கு திறக்கும்.",
+  "synonyms": [
+   "store"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cheaper",
+  "meaning": "Costing less money than something else.",
+  "tamil": "விலை குறைவான",
+  "pos": "adjective",
+  "pron": "CHEE-per",
+  "example": "This shop is cheaper than that one.",
+  "exampleTamil": "இந்தக் கடை அந்தக் கடையை விட விலை குறைவு.",
+  "synonyms": [
+   "less costly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cashier",
+  "meaning": "The person who takes your money at a shop.",
+  "tamil": "கடையில் பணம் வாங்கும் நபர்",
+  "pos": "noun",
+  "pron": "ka-SHEER",
+  "example": "The cashier gave me the bill.",
+  "exampleTamil": "காசாளர் எனக்கு பில் கொடுத்தார்.",
+  "synonyms": [
+   "teller"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "basket",
+  "meaning": "A container you carry to put things in.",
+  "tamil": "கூடை",
+  "pos": "noun",
+  "pron": "BAS-kit",
+  "example": "She put the tomatoes in a basket.",
+  "exampleTamil": "அவள் தக்காளிகளை ஒரு கூடையில் போட்டாள்.",
+  "synonyms": [
+   "hamper"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bag",
+  "meaning": "A soft container to carry things you buy.",
+  "tamil": "பை",
+  "pos": "noun",
+  "pron": "BAG",
+  "example": "Please bring your own bag to the market.",
+  "exampleTamil": "தயவுசெய்து சந்தைக்கு உங்கள் சொந்த பையை கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "sack"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rate",
+  "meaning": "The price of something per unit or amount.",
+  "tamil": "ஒரு அலகிற்கான விலை",
+  "pos": "noun",
+  "pron": "RAYT",
+  "example": "What is the rate of tomatoes today?",
+  "exampleTamil": "இன்று தக்காளியின் விலை என்ன?",
+  "synonyms": [
+   "price"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wrapper",
+  "meaning": "Paper or plastic that covers a product.",
+  "tamil": "பொருளைச் சுற்றியுள்ள உறை",
+  "pos": "noun",
+  "pron": "RAP-er",
+  "example": "Throw the wrapper in the dustbin.",
+  "exampleTamil": "உறையை குப்பைத் தொட்டியில் போடுங்கள்.",
+  "synonyms": [
+   "cover"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "coupon",
+  "meaning": "A small paper or code that gives you a discount.",
+  "tamil": "தள்ளுபடி சீட்டு",
+  "pos": "noun",
+  "pron": "KOO-pon",
+  "example": "I have a coupon for ten percent off.",
+  "exampleTamil": "என்னிடம் பத்து சதவீத தள்ளுபடிக்கான கூப்பன் உள்ளது.",
+  "synonyms": [
+   "voucher"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "buy",
+  "meaning": "To get something by paying money.",
+  "tamil": "வாங்குதல்",
+  "pos": "verb",
+  "pron": "BY",
+  "example": "I want to buy a new bag.",
+  "exampleTamil": "நான் ஒரு புதிய பை வாங்க விரும்புகிறேன்.",
+  "synonyms": [
+   "purchase"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sell",
+  "meaning": "To give something to a person for money.",
+  "tamil": "விற்றல்",
+  "pos": "verb",
+  "pron": "SEL",
+  "example": "They sell fresh fruit here.",
+  "exampleTamil": "அவர்கள் இங்கே புதிய பழங்களை விற்கிறார்கள்.",
+  "synonyms": [
+   "market"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "size",
+  "meaning": "How big or small something is.",
+  "tamil": "அளவு",
+  "pos": "noun",
+  "pron": "SYZE",
+  "example": "Do you have this shirt in a bigger size?",
+  "exampleTamil": "இந்தச் சட்டை பெரிய அளவில் உங்களிடம் இருக்கிறதா?",
+  "synonyms": [
+   "measurement"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dress",
+  "meaning": "A piece of clothing that women or girls wear.",
+  "tamil": "பெண்கள் அணியும் ஆடை",
+  "pos": "noun",
+  "pron": "DRES",
+  "example": "She bought a red dress for the party.",
+  "exampleTamil": "அவள் விருந்துக்காக ஒரு சிவப்பு ஆடை வாங்கினாள்.",
+  "synonyms": [
+   "gown",
+   "frock"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shoes",
+  "meaning": "Things you wear on your feet to walk outside.",
+  "tamil": "காலணிகள்",
+  "pos": "noun",
+  "pron": "SHOOZ",
+  "example": "My shoes are too tight.",
+  "exampleTamil": "என் காலணிகள் மிகவும் இறுக்கமாக உள்ளன.",
+  "synonyms": [
+   "footwear"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "vegetables",
+  "meaning": "Plants like carrots and beans that we eat.",
+  "tamil": "காய்கறிகள்",
+  "pos": "noun",
+  "pron": "VEJ-tuh-bulz",
+  "example": "I buy vegetables every morning.",
+  "exampleTamil": "நான் தினமும் காலையில் காய்கறிகள் வாங்குகிறேன்.",
+  "synonyms": [
+   "greens"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "striped",
+  "meaning": "Having lines of different colours.",
+  "tamil": "கோடுகள் உள்ள",
+  "pos": "adjective",
+  "pron": "STRYPT",
+  "example": "He bought a striped shirt for work.",
+  "exampleTamil": "அவன் வேலைக்காக ஒரு கோடு போட்ட சட்டை வாங்கினான்.",
+  "synonyms": [
+   "lined"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quantity",
+  "meaning": "How much or how many of something.",
+  "tamil": "அளவு, எண்ணிக்கை",
+  "pos": "noun",
+  "pron": "KWON-ti-tee",
+  "example": "Please tell me the quantity you need.",
+  "exampleTamil": "உங்களுக்கு தேவையான அளவைச் சொல்லுங்கள்.",
+  "synonyms": [
+   "amount"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "brand",
+  "meaning": "The name of a company that makes a product.",
+  "tamil": "தயாரிப்பு நிறுவனத்தின் பெயர்",
+  "pos": "noun",
+  "pron": "BRAND",
+  "example": "Which brand of soap do you use?",
+  "exampleTamil": "நீங்கள் எந்த பிராண்ட் சோப்பு பயன்படுத்துகிறீர்கள்?",
+  "synonyms": [
+   "make"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fresh",
+  "meaning": "New and not old or stale.",
+  "tamil": "புதிய",
+  "pos": "adjective",
+  "pron": "FRESH",
+  "example": "These vegetables are very fresh.",
+  "exampleTamil": "இந்தக் காய்கறிகள் மிகவும் புதியவை.",
+  "synonyms": [
+   "new",
+   "crisp"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "jeans",
+  "meaning": "Strong blue trousers made of denim.",
+  "tamil": "ஜீன்ஸ் பேண்ட்",
+  "pos": "noun",
+  "pron": "JEENZ",
+  "example": "He wears jeans to college.",
+  "exampleTamil": "அவன் கல்லூரிக்கு ஜீன்ஸ் அணிகிறான்.",
+  "synonyms": [
+   "denims"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "socks",
+  "meaning": "Soft things you wear on your feet inside shoes.",
+  "tamil": "காலுறைகள்",
+  "pos": "noun",
+  "pron": "SOKS",
+  "example": "I need a new pair of socks.",
+  "exampleTamil": "எனக்கு ஒரு புதிய ஜோடி காலுறை வேண்டும்.",
+  "synonyms": [
+   "stockings"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "purse",
+  "meaning": "A small bag for money, mostly used by women.",
+  "tamil": "பணப்பை",
+  "pos": "noun",
+  "pron": "PERS",
+  "example": "She took money out of her purse.",
+  "exampleTamil": "அவள் தன் பணப்பையிலிருந்து பணம் எடுத்தாள்.",
+  "synonyms": [
+   "handbag"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "total",
+  "meaning": "The full amount after adding everything.",
+  "tamil": "மொத்தத் தொகை",
+  "pos": "noun",
+  "pron": "TOH-tul",
+  "example": "What is the total for these items?",
+  "exampleTamil": "இந்தப் பொருட்களுக்கு மொத்தம் எவ்வளவு?",
+  "synonyms": [
+   "sum",
+   "amount"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "plain",
+  "meaning": "Simple, with no pattern or design.",
+  "tamil": "வடிவமில்லாத எளிய",
+  "pos": "adjective",
+  "pron": "PLAYN",
+  "example": "I like plain shirts without any print.",
+  "exampleTamil": "எனக்கு டிசைன் இல்லாத எளிய சட்டைகள் பிடிக்கும்.",
+  "synonyms": [
+   "simple"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "milk",
+  "meaning": "A white drink we get from cows.",
+  "tamil": "பால்",
+  "pos": "noun",
+  "pron": "MILK",
+  "example": "I buy milk from the shop every day.",
+  "exampleTamil": "நான் தினமும் கடையில் பால் வாங்குகிறேன்.",
+  "synonyms": [
+   "dairy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rice",
+  "meaning": "Small white grains we cook and eat.",
+  "tamil": "அரிசி",
+  "pos": "noun",
+  "pron": "RYSE",
+  "example": "We need two kilos of rice.",
+  "exampleTamil": "எங்களுக்கு இரண்டு கிலோ அரிசி வேண்டும்.",
+  "synonyms": [
+   "grain"
+  ],
+  "level": "beginner"
+ }
+]

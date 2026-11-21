@@ -1,0 +1,352 @@
+[
+ {
+  "word": "tall",
+  "meaning": "Having a great height from bottom to top.",
+  "tamil": "உயரமான",
+  "pos": "adjective",
+  "pron": "TAWL",
+  "example": "My brother is very tall for his age.",
+  "exampleTamil": "என் தம்பி தன் வயதுக்கு மிகவும் உயரமாக இருக்கிறான்.",
+  "synonyms": [
+   "high",
+   "lanky"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "short",
+  "meaning": "Not tall or not long.",
+  "tamil": "குட்டையான",
+  "pos": "adjective",
+  "pron": "SHORT",
+  "example": "The queue was short, so we got our tickets quickly.",
+  "exampleTamil": "வரிசை சிறியதாக இருந்ததால் எங்களுக்கு டிக்கெட் விரைவில் கிடைத்தது.",
+  "synonyms": [
+   "brief",
+   "small"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "thin",
+  "meaning": "Not thick; having little width or body fat.",
+  "tamil": "மெல்லிய",
+  "pos": "adjective",
+  "pron": "THIN",
+  "example": "This shirt is too thin for the winter.",
+  "exampleTamil": "இந்த சட்டை குளிர்காலத்துக்கு மிகவும் மெல்லியது.",
+  "synonyms": [
+   "slim",
+   "narrow"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "light",
+  "meaning": "Not heavy; easy to carry.",
+  "tamil": "எடை குறைந்த",
+  "pos": "adjective",
+  "pron": "LYTE",
+  "example": "My new bag is very light.",
+  "exampleTamil": "என் புதிய பை மிகவும் எடை குறைவானது.",
+  "synonyms": [
+   "lightweight",
+   "airy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "clean",
+  "meaning": "Free from dirt.",
+  "tamil": "சுத்தமான",
+  "pos": "adjective",
+  "pron": "KLEEN",
+  "example": "Please keep your room clean.",
+  "exampleTamil": "தயவுசெய்து உங்கள் அறையை சுத்தமாக வையுங்கள்.",
+  "synonyms": [
+   "spotless",
+   "tidy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hot",
+  "meaning": "Having a high temperature.",
+  "tamil": "சூடான",
+  "pos": "adjective",
+  "pron": "HOT",
+  "example": "The tea is too hot to drink now.",
+  "exampleTamil": "தேநீர் இப்போது குடிக்க முடியாத அளவு சூடாக இருக்கிறது.",
+  "synonyms": [
+   "boiling",
+   "burning"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cool",
+  "meaning": "Slightly cold in a pleasant way.",
+  "tamil": "குளிர்ச்சியான",
+  "pos": "adjective",
+  "pron": "KOOL",
+  "example": "It is cool under this big tree.",
+  "exampleTamil": "இந்தப் பெரிய மரத்தின் கீழ் குளிர்ச்சியாக இருக்கிறது.",
+  "synonyms": [
+   "chilly",
+   "fresh"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wet",
+  "meaning": "Covered with or full of water.",
+  "tamil": "ஈரமான",
+  "pos": "adjective",
+  "pron": "WET",
+  "example": "My shoes are wet because of the rain.",
+  "exampleTamil": "மழையால் என் காலணிகள் ஈரமாக இருக்கின்றன.",
+  "synonyms": [
+   "damp",
+   "soaked"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rainy",
+  "meaning": "With a lot of rain.",
+  "tamil": "மழை பெய்யும்",
+  "pos": "adjective",
+  "pron": "RAY-nee",
+  "example": "It is a rainy day, so take an umbrella.",
+  "exampleTamil": "இன்று மழை நாள், அதனால் குடை எடுத்துச் செல்லுங்கள்.",
+  "synonyms": [
+   "wet",
+   "showery"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quickly",
+  "meaning": "In a short time; fast.",
+  "tamil": "விரைவாக",
+  "pos": "adverb",
+  "pron": "KWIK-lee",
+  "example": "Please come quickly, the bus is leaving.",
+  "exampleTamil": "தயவுசெய்து சீக்கிரம் வாருங்கள், பேருந்து கிளம்புகிறது.",
+  "synonyms": [
+   "fast",
+   "rapidly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "carefully",
+  "meaning": "With attention so as to avoid mistakes or harm.",
+  "tamil": "கவனமாக",
+  "pos": "adverb",
+  "pron": "KAIR-fuh-lee",
+  "example": "Drive carefully on the wet road.",
+  "exampleTamil": "ஈரமான சாலையில் கவனமாக ஓட்டுங்கள்.",
+  "synonyms": [
+   "cautiously",
+   "attentively"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gently",
+  "meaning": "In a soft and kind way.",
+  "tamil": "மென்மையாக",
+  "pos": "adverb",
+  "pron": "JENT-lee",
+  "example": "She gently put the baby in the cradle.",
+  "exampleTamil": "அவள் குழந்தையை தொட்டிலில் மென்மையாக வைத்தாள்.",
+  "synonyms": [
+   "softly",
+   "tenderly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "smart",
+  "meaning": "Clever and quick to learn.",
+  "tamil": "புத்திசாலியான",
+  "pos": "adjective",
+  "pron": "SMART",
+  "example": "She is a smart student who always scores well.",
+  "exampleTamil": "அவள் எப்போதும் நல்ல மதிப்பெண் பெறும் புத்திசாலி மாணவி.",
+  "synonyms": [
+   "clever",
+   "intelligent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "famous",
+  "meaning": "Known by many people.",
+  "tamil": "பிரபலமான",
+  "pos": "adjective",
+  "pron": "FAY-mus",
+  "example": "Madurai is famous for its temple.",
+  "exampleTamil": "மதுரை அதன் கோயிலுக்குப் பிரபலமானது.",
+  "synonyms": [
+   "well-known",
+   "renowned"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "popular",
+  "meaning": "Liked by many people.",
+  "tamil": "பலரும் விரும்பும்",
+  "pos": "adjective",
+  "pron": "POP-yuh-ler",
+  "example": "This song is very popular among young people.",
+  "exampleTamil": "இந்தப் பாடல் இளைஞர்களிடையே மிகவும் பிரபலம்.",
+  "synonyms": [
+   "liked",
+   "trendy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wide",
+  "meaning": "Large from one side to the other.",
+  "tamil": "அகலமான",
+  "pos": "adjective",
+  "pron": "WYDE",
+  "example": "The new road is very wide.",
+  "exampleTamil": "புதிய சாலை மிகவும் அகலமாக இருக்கிறது.",
+  "synonyms": [
+   "broad",
+   "spacious"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "deep",
+  "meaning": "Going far down from the top.",
+  "tamil": "ஆழமான",
+  "pos": "adjective",
+  "pron": "DEEP",
+  "example": "The well in our village is very deep.",
+  "exampleTamil": "எங்கள் ஊரின் கிணறு மிகவும் ஆழமானது.",
+  "synonyms": [
+   "bottomless",
+   "profound"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "thick",
+  "meaning": "Large in width from one side to the other; not thin.",
+  "tamil": "தடிமனான",
+  "pos": "adjective",
+  "pron": "THIK",
+  "example": "He wore a thick jacket in the cold.",
+  "exampleTamil": "குளிரில் அவன் தடிமனான ஜாக்கெட் அணிந்தான்.",
+  "synonyms": [
+   "fat",
+   "heavy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hard",
+  "meaning": "Not soft; firm and difficult to bend.",
+  "tamil": "கடினமான",
+  "pos": "adjective",
+  "pron": "HARD",
+  "example": "This bread is too hard to eat.",
+  "exampleTamil": "இந்த ரொட்டி சாப்பிட முடியாத அளவு கடினமாக இருக்கிறது.",
+  "synonyms": [
+   "firm",
+   "solid"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dark",
+  "meaning": "With little or no light.",
+  "tamil": "இருண்ட",
+  "pos": "adjective",
+  "pron": "DARK",
+  "example": "The room was dark when I came home.",
+  "exampleTamil": "நான் வீட்டுக்கு வந்தபோது அறை இருட்டாக இருந்தது.",
+  "synonyms": [
+   "dim",
+   "gloomy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "beautiful",
+  "meaning": "Very pleasing to look at.",
+  "tamil": "அழகான",
+  "pos": "adjective",
+  "pron": "BYOO-tuh-ful",
+  "example": "The sunset at the beach was beautiful.",
+  "exampleTamil": "கடற்கரையில் சூரிய அஸ்தமனம் அழகாக இருந்தது.",
+  "synonyms": [
+   "lovely",
+   "pretty"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ugly",
+  "meaning": "Not pleasant to look at.",
+  "tamil": "அழகற்ற",
+  "pos": "adjective",
+  "pron": "UG-lee",
+  "example": "The old building looked ugly and broken.",
+  "exampleTamil": "பழைய கட்டிடம் அழகற்றதாகவும் உடைந்ததாகவும் தெரிந்தது.",
+  "synonyms": [
+   "unattractive",
+   "hideous"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pretty",
+  "meaning": "Nice and pleasing to look at.",
+  "tamil": "அழகிய",
+  "pos": "adjective",
+  "pron": "PRIT-ee",
+  "example": "She wore a pretty blue saree.",
+  "exampleTamil": "அவள் அழகிய நீல நிற சேலை அணிந்திருந்தாள்.",
+  "synonyms": [
+   "cute",
+   "lovely"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "handsome",
+  "meaning": "Good-looking, usually said of a man.",
+  "tamil": "அழகான (ஆண்)",
+  "pos": "adjective",
+  "pron": "HAN-sum",
+  "example": "He is a tall and handsome young man.",
+  "exampleTamil": "அவன் உயரமான அழகான இளைஞன்.",
+  "synonyms": [
+   "good-looking",
+   "attractive"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "juicy",
+  "meaning": "Full of juice.",
+  "tamil": "சாறு நிறைந்த",
+  "pos": "adjective",
+  "pron": "JOO-see",
+  "example": "The mango was sweet and juicy.",
+  "exampleTamil": "மாம்பழம் இனிப்பாகவும் சாறு நிறைந்ததாகவும் இருந்தது.",
+  "synonyms": [
+   "succulent",
+   "moist"
+  ],
+  "level": "beginner"
+ }
+]

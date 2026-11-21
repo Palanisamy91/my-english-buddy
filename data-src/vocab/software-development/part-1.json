@@ -1,0 +1,873 @@
+[
+ {
+  "word": "code",
+  "tamil": "நிரல் குறியீடு (கோடு)",
+  "pos": "noun",
+  "pron": "KOHD",
+  "example": "I pushed the new code to the repo this morning.",
+  "exampleTamil": "இன்று காலை புதிய கோடை ரெப்போவில் புஷ் செய்தேன்.",
+  "synonyms": [
+   "source code",
+   "script"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "program",
+  "tamil": "கணினி நிரல்",
+  "pos": "noun",
+  "pron": "PROH-gram",
+  "example": "This program reads a file and prints every line.",
+  "exampleTamil": "இந்த நிரல் ஒரு கோப்பைப் படித்து ஒவ்வொரு வரியையும் அச்சிடுகிறது.",
+  "synonyms": [
+   "application",
+   "software"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "software",
+  "tamil": "மென்பொருள்",
+  "pos": "noun",
+  "pron": "SOFT-wair",
+  "example": "Our team builds software for hospitals.",
+  "exampleTamil": "எங்கள் குழு மருத்துவமனைகளுக்கான மென்பொருளை உருவாக்குகிறது.",
+  "synonyms": [
+   "programs",
+   "applications"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "developer",
+  "tamil": "மென்பொருள் உருவாக்குநர்",
+  "pos": "noun",
+  "pron": "dih-VEL-uh-per",
+  "example": "Every developer on the team reviews pull requests.",
+  "exampleTamil": "குழுவில் உள்ள ஒவ்வொரு டெவலப்பரும் புல் ரெக்வெஸ்ட்களை மதிப்பாய்வு செய்கிறார்.",
+  "synonyms": [
+   "programmer",
+   "coder"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "programmer",
+  "tamil": "நிரலாளர்",
+  "pos": "noun",
+  "pron": "PROH-gram-er",
+  "example": "She is a senior programmer with ten years of experience.",
+  "exampleTamil": "அவர் பத்து ஆண்டு அனுபவமுள்ள மூத்த நிரலாளர்.",
+  "synonyms": [
+   "coder",
+   "developer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "engineer",
+  "tamil": "பொறியாளர்",
+  "pos": "noun",
+  "pron": "en-juh-NEER",
+  "example": "The on-call engineer fixed the issue in ten minutes.",
+  "exampleTamil": "அழைப்பில் இருந்த பொறியாளர் பத்து நிமிடங்களில் பிரச்சினையைச் சரிசெய்தார்.",
+  "synonyms": [
+   "developer",
+   "technician"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "language",
+  "tamil": "நிரலாக்க மொழி",
+  "pos": "noun",
+  "pron": "LANG-gwij",
+  "example": "Which language are you using for the backend?",
+  "exampleTamil": "பேக்எண்டுக்கு எந்த மொழியைப் பயன்படுத்துகிறீர்கள்?",
+  "synonyms": [
+   "tongue",
+   "syntax"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "compiler",
+  "tamil": "கம்பைலர் – நிரலை இயந்திர மொழியாக மாற்றும் கருவி",
+  "pos": "noun",
+  "pron": "kum-PY-ler",
+  "example": "The compiler threw an error on line forty.",
+  "exampleTamil": "நாற்பதாவது வரியில் கம்பைலர் பிழை காட்டியது.",
+  "synonyms": [
+   "translator",
+   "builder"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "syntax",
+  "tamil": "தொடரியல் – கோடு எழுதும் விதிகள்",
+  "pos": "noun",
+  "pron": "SIN-taks",
+  "example": "I missed a bracket, so it is a syntax error.",
+  "exampleTamil": "ஒரு பிராக்கெட்டை விட்டுவிட்டேன், அதனால் இது தொடரியல் பிழை.",
+  "synonyms": [
+   "grammar",
+   "structure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "variable",
+  "tamil": "மாறி – மதிப்பைச் சேமிக்கும் பெயர்",
+  "pos": "noun",
+  "pron": "VAIR-ee-uh-bul",
+  "example": "Please rename this variable to something meaningful.",
+  "exampleTamil": "இந்த மாறியை அர்த்தமுள்ள பெயருக்கு மாற்றுங்கள்.",
+  "synonyms": [
+   "identifier",
+   "placeholder"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "constant",
+  "tamil": "மாறிலி – மாறாத மதிப்பு",
+  "pos": "noun",
+  "pron": "KON-stunt",
+  "example": "Store the timeout value as a constant.",
+  "exampleTamil": "காலக்கெடு மதிப்பை மாறிலியாகச் சேமியுங்கள்.",
+  "synonyms": [
+   "fixed value",
+   "literal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "function",
+  "tamil": "செயல்கூறு (ஃபங்ஷன்)",
+  "pos": "noun",
+  "pron": "FUNK-shun",
+  "example": "This function returns the total price of the cart.",
+  "exampleTamil": "இந்த ஃபங்ஷன் கார்ட்டின் மொத்த விலையைத் தருகிறது.",
+  "synonyms": [
+   "method",
+   "routine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "method",
+  "tamil": "முறை (மெத்தட்) – வகுப்பிலுள்ள செயல்பாடு",
+  "pos": "noun",
+  "pron": "METH-ud",
+  "example": "Call the save method after validating the form.",
+  "exampleTamil": "படிவத்தைச் சரிபார்த்த பிறகு சேவ் மெத்தடை அழையுங்கள்.",
+  "synonyms": [
+   "function",
+   "procedure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "parameter",
+  "tamil": "அளவுரு – ஃபங்ஷனுக்குத் தரும் உள்ளீடு",
+  "pos": "noun",
+  "pron": "puh-RAM-uh-ter",
+  "example": "The function takes two parameters, a name and an age.",
+  "exampleTamil": "அந்த ஃபங்ஷன் பெயர், வயது என இரண்டு அளவுருக்களை ஏற்கிறது.",
+  "synonyms": [
+   "argument",
+   "input"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "argument",
+  "tamil": "வாதம் (ஆர்கியுமெண்ட்) – அனுப்பும் மதிப்பு",
+  "pos": "noun",
+  "pron": "AR-gyoo-munt",
+  "example": "You passed the wrong argument to the constructor.",
+  "exampleTamil": "கன்ஸ்ட்ரக்டருக்கு தவறான ஆர்கியுமெண்டை அனுப்பியுள்ளீர்கள்.",
+  "synonyms": [
+   "parameter",
+   "input value"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "class",
+  "tamil": "வகுப்பு (கிளாஸ்) – பொருள்களின் வடிவமைப்பு",
+  "pos": "noun",
+  "pron": "KLAS",
+  "example": "Let's put this logic in a separate class.",
+  "exampleTamil": "இந்த லாஜிக்கை தனி கிளாஸில் வைப்போம்.",
+  "synonyms": [
+   "blueprint",
+   "type"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "object",
+  "tamil": "பொருள் (ஆப்ஜெக்ட்)",
+  "pos": "noun",
+  "pron": "OB-jekt",
+  "example": "Each object keeps its own copy of the data.",
+  "exampleTamil": "ஒவ்வொரு ஆப்ஜெக்டும் தனது சொந்த தரவு நகலை வைத்திருக்கிறது.",
+  "synonyms": [
+   "instance",
+   "entity"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "instance",
+  "tamil": "நிகழ்வு (இன்ஸ்டன்ஸ்) – வகுப்பின் உருவாக்கப்பட்ட பொருள்",
+  "pos": "noun",
+  "pron": "IN-stunts",
+  "example": "Create a new instance of the service for each request.",
+  "exampleTamil": "ஒவ்வொரு கோரிக்கைக்கும் சேவையின் புதிய இன்ஸ்டன்ஸை உருவாக்குங்கள்.",
+  "synonyms": [
+   "copy",
+   "occurrence"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "inheritance",
+  "tamil": "மரபுரிமை – ஒரு வகுப்பு மற்றொன்றிலிருந்து பெறுவது",
+  "pos": "noun",
+  "pron": "in-HAIR-ih-tunts",
+  "example": "Inheritance made this hierarchy too deep to maintain.",
+  "exampleTamil": "மரபுரிமையால் இந்த அடுக்கு பராமரிக்க முடியாத அளவு ஆழமாகிவிட்டது.",
+  "synonyms": [
+   "subclassing",
+   "derivation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "array",
+  "tamil": "வரிசை (அரே) – பல மதிப்புகளின் பட்டியல்",
+  "pos": "noun",
+  "pron": "uh-RAY",
+  "example": "Loop through the array and print each item.",
+  "exampleTamil": "அரேயைச் சுற்றி ஓட்டி ஒவ்வொரு உருப்படியையும் அச்சிடுங்கள்.",
+  "synonyms": [
+   "list",
+   "collection"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "string",
+  "tamil": "சரம் (ஸ்ட்ரிங்) – எழுத்துத் தொடர்",
+  "pos": "noun",
+  "pron": "STRING",
+  "example": "The email field must be a valid string, not a number.",
+  "exampleTamil": "மின்னஞ்சல் புலம் எண் அல்ல, சரியான ஸ்ட்ரிங்காக இருக்க வேண்டும்.",
+  "synonyms": [
+   "text",
+   "characters"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "integer",
+  "tamil": "முழு எண்",
+  "pos": "noun",
+  "pron": "IN-tih-jer",
+  "example": "The age must be a positive integer.",
+  "exampleTamil": "வயது நேர்மறை முழு எண்ணாக இருக்க வேண்டும்.",
+  "synonyms": [
+   "whole number",
+   "int"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "boolean",
+  "tamil": "பூலியன் – உண்மை/பொய் மதிப்பு",
+  "pos": "noun",
+  "pron": "BOO-lee-un",
+  "example": "The flag is a boolean, either true or false.",
+  "exampleTamil": "அந்த ஃபிளாக் ஒரு பூலியன், உண்மை அல்லது பொய்.",
+  "synonyms": [
+   "true-or-false value",
+   "flag"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "loop",
+  "tamil": "சுழற்சி (லூப்) – மீண்டும் இயங்கும் கோடு",
+  "pos": "noun",
+  "pron": "LOOP",
+  "example": "The loop never ends because the counter is not updated.",
+  "exampleTamil": "கவுண்டர் புதுப்பிக்கப்படாததால் லூப் முடிவதே இல்லை.",
+  "synonyms": [
+   "iteration",
+   "cycle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "condition",
+  "tamil": "நிபந்தனை",
+  "pos": "noun",
+  "pron": "kun-DISH-un",
+  "example": "Add a condition to skip empty rows.",
+  "exampleTamil": "காலி வரிசைகளைத் தவிர்க்க ஒரு நிபந்தனை சேர்க்கவும்.",
+  "synonyms": [
+   "check",
+   "criterion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "algorithm",
+  "tamil": "படிமுறைத் தீர்வு (அல்காரிதம்)",
+  "pos": "noun",
+  "pron": "AL-guh-rith-um",
+  "example": "We need a faster algorithm for sorting these records.",
+  "exampleTamil": "இந்த பதிவுகளை வரிசைப்படுத்த வேகமான அல்காரிதம் தேவை.",
+  "synonyms": [
+   "procedure",
+   "formula"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "logic",
+  "tamil": "தர்க்கம் (லாஜிக்)",
+  "pos": "noun",
+  "pron": "LOJ-ik",
+  "example": "The business logic lives in the service layer.",
+  "exampleTamil": "வணிக லாஜிக் சேவை அடுக்கில் உள்ளது.",
+  "synonyms": [
+   "reasoning",
+   "rules"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "script",
+  "tamil": "ஸ்கிரிப்ட் – சிறிய தானியங்கி நிரல்",
+  "pos": "noun",
+  "pron": "SKRIPT",
+  "example": "I wrote a script to rename all the files.",
+  "exampleTamil": "எல்லா கோப்புகளையும் மறுபெயரிட ஒரு ஸ்கிரிப்ட் எழுதினேன்.",
+  "synonyms": [
+   "batch file",
+   "routine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "library",
+  "tamil": "நூலகம் (லைப்ரரி) – பயன்படுத்தத் தயாரான கோடு",
+  "pos": "noun",
+  "pron": "LY-brair-ee",
+  "example": "We added a library for parsing dates.",
+  "exampleTamil": "தேதிகளை பகுப்பாய்வு செய்ய ஒரு லைப்ரரியைச் சேர்த்தோம்.",
+  "synonyms": [
+   "package",
+   "module"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "framework",
+  "tamil": "கட்டமைப்பு (ஃப்ரேம்வொர்க்)",
+  "pos": "noun",
+  "pron": "FRAYM-wurk",
+  "example": "Angular is a framework for building web apps.",
+  "exampleTamil": "ஆங்குலர் என்பது வலைப் பயன்பாடுகளை உருவாக்கும் ஃப்ரேம்வொர்க்.",
+  "synonyms": [
+   "platform",
+   "toolkit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "module",
+  "tamil": "கூறு (மாட்யூல்) – தனிப் பகுதி",
+  "pos": "noun",
+  "pron": "MOJ-ool",
+  "example": "Each module should have a single responsibility.",
+  "exampleTamil": "ஒவ்வொரு மாட்யூலுக்கும் ஒரே பொறுப்பு இருக்க வேண்டும்.",
+  "synonyms": [
+   "component",
+   "package"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "package",
+  "tamil": "தொகுப்பு (பேக்கேஜ்)",
+  "pos": "noun",
+  "pron": "PAK-ij",
+  "example": "Update the package before you rebuild the app.",
+  "exampleTamil": "ஆப்பை மீண்டும் உருவாக்கும் முன் பேக்கேஜை புதுப்பியுங்கள்.",
+  "synonyms": [
+   "bundle",
+   "library"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dependency",
+  "tamil": "சார்பு (டிபென்டன்சி)",
+  "pos": "noun",
+  "pron": "dih-PEN-dun-see",
+  "example": "One outdated dependency broke the whole build.",
+  "exampleTamil": "ஒரு பழைய டிபென்டன்சி முழு பில்டையும் உடைத்தது.",
+  "synonyms": [
+   "requirement",
+   "prerequisite"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "runtime",
+  "tamil": "இயக்க நேரம் (ரன்டைம்)",
+  "pos": "noun",
+  "pron": "RUN-tym",
+  "example": "The error only appears at runtime, not during the build.",
+  "exampleTamil": "இந்தப் பிழை ரன்டைமில் மட்டுமே வருகிறது, பில்டின் போது அல்ல.",
+  "synonyms": [
+   "execution time",
+   "run phase"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "interpreter",
+  "tamil": "இன்டர்ப்ரெட்டர் – வரிவரியாக இயக்கும் கருவி",
+  "pos": "noun",
+  "pron": "in-TUR-prih-ter",
+  "example": "Python uses an interpreter instead of a compiler.",
+  "exampleTamil": "பைதான் கம்பைலருக்குப் பதிலாக இன்டர்ப்ரெட்டரைப் பயன்படுத்துகிறது.",
+  "synonyms": [
+   "executor",
+   "translator"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "comment",
+  "tamil": "குறிப்புரை (கமெண்ட்) – கோடில் விளக்க வரி",
+  "pos": "noun",
+  "pron": "KOM-ent",
+  "example": "Please add a comment explaining this workaround.",
+  "exampleTamil": "இந்த தற்காலிகத் தீர்வை விளக்கும் ஒரு கமெண்ட்டைச் சேர்க்கவும்.",
+  "synonyms": [
+   "annotation",
+   "note"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "snippet",
+  "tamil": "சிறு கோடு துண்டு (ஸ்னிப்பெட்)",
+  "pos": "noun",
+  "pron": "SNIP-it",
+  "example": "Can you share the snippet that fails?",
+  "exampleTamil": "தோல்வியடையும் ஸ்னிப்பெட்டைப் பகிர முடியுமா?",
+  "synonyms": [
+   "code sample",
+   "excerpt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "implement",
+  "tamil": "செயல்படுத்து",
+  "pos": "verb",
+  "pron": "IM-pluh-ment",
+  "example": "I will implement the login feature this sprint.",
+  "exampleTamil": "இந்த ஸ்பிரிண்டில் லாகின் வசதியைச் செயல்படுத்துவேன்.",
+  "synonyms": [
+   "build",
+   "carry out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "refactor",
+  "tamil": "கோடை மறுசீரமைப்பு செய்",
+  "pos": "verb",
+  "pron": "ree-FAK-ter",
+  "example": "We should refactor this class before adding more features.",
+  "exampleTamil": "மேலும் வசதிகள் சேர்க்கும் முன் இந்த கிளாஸை ரீஃபாக்டர் செய்ய வேண்டும்.",
+  "synonyms": [
+   "restructure",
+   "clean up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "optimize",
+  "tamil": "செயல்திறனை மேம்படுத்து",
+  "pos": "verb",
+  "pron": "OP-tuh-myz",
+  "example": "Let's optimize the query before the release.",
+  "exampleTamil": "ரிலீஸுக்கு முன் குவெரியை ஆப்டிமைஸ் செய்வோம்.",
+  "synonyms": [
+   "improve",
+   "tune"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "integrate",
+  "tamil": "ஒருங்கிணை",
+  "pos": "verb",
+  "pron": "IN-tuh-grayt",
+  "example": "We need to integrate the payment gateway by Friday.",
+  "exampleTamil": "வெள்ளிக்குள் பேமெண்ட் கேட்வேயை ஒருங்கிணைக்க வேண்டும்.",
+  "synonyms": [
+   "combine",
+   "connect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "configure",
+  "tamil": "அமைப்புகளை வடிவமை (கான்பிகர்)",
+  "pos": "verb",
+  "pron": "kun-FIG-yer",
+  "example": "Configure the proxy settings before you start the server.",
+  "exampleTamil": "சர்வரைத் தொடங்கும் முன் ப்ராக்ஸி அமைப்புகளைக் கான்பிகர் செய்யுங்கள்.",
+  "synonyms": [
+   "set up",
+   "customize"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "initialize",
+  "tamil": "தொடக்க மதிப்பு அமை (இனிஷியலைஸ்)",
+  "pos": "verb",
+  "pron": "ih-NISH-uh-lyz",
+  "example": "You forgot to initialize the counter before the loop.",
+  "exampleTamil": "லூப்புக்கு முன் கவுண்டரை இனிஷியலைஸ் செய்ய மறந்துவிட்டீர்கள்.",
+  "synonyms": [
+   "set up",
+   "prepare"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "declare",
+  "tamil": "அறிவி (டிக்ளேர் செய்)",
+  "pos": "verb",
+  "pron": "dih-KLAIR",
+  "example": "Declare the variable at the top of the file.",
+  "exampleTamil": "கோப்பின் மேலே மாறியை டிக்ளேர் செய்யுங்கள்.",
+  "synonyms": [
+   "define",
+   "announce"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "execute",
+  "tamil": "இயக்கு (எக்சிக்யூட்)",
+  "pos": "verb",
+  "pron": "EK-suh-kyoot",
+  "example": "The script will execute every night at midnight.",
+  "exampleTamil": "ஸ்கிரிப்ட் ஒவ்வொரு இரவும் நள்ளிரவில் இயங்கும்.",
+  "synonyms": [
+   "run",
+   "perform"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "parse",
+  "tamil": "பகுப்பாய்வு செய்து படி (பார்ஸ்)",
+  "pos": "verb",
+  "pron": "PARS",
+  "example": "The service fails to parse dates in the old format.",
+  "exampleTamil": "பழைய வடிவிலான தேதிகளை சேவை பார்ஸ் செய்யத் தவறுகிறது.",
+  "synonyms": [
+   "analyze",
+   "interpret"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "iterate",
+  "tamil": "மீண்டும் மீண்டும் செய்",
+  "pos": "verb",
+  "pron": "IT-uh-rayt",
+  "example": "We iterate over the list and update each record.",
+  "exampleTamil": "பட்டியலில் மீண்டும் மீண்டும் சென்று ஒவ்வொரு பதிவையும் புதுப்பிக்கிறோம்.",
+  "synonyms": [
+   "loop",
+   "repeat"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "return",
+  "tamil": "திருப்பித் தா (ரிட்டர்ன்)",
+  "pos": "verb",
+  "pron": "rih-TURN",
+  "example": "The function should return null if nothing is found.",
+  "exampleTamil": "எதுவும் கிடைக்காவிட்டால் ஃபங்ஷன் நல் திருப்பித் தர வேண்டும்.",
+  "synonyms": [
+   "give back",
+   "output"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "import",
+  "tamil": "இறக்குமதி செய் (இம்போர்ட்)",
+  "pos": "verb",
+  "pron": "im-PORT",
+  "example": "You have to import the module before you use it.",
+  "exampleTamil": "பயன்படுத்தும் முன் மாட்யூலை இம்போர்ட் செய்ய வேண்டும்.",
+  "synonyms": [
+   "bring in",
+   "load"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "export",
+  "tamil": "ஏற்றுமதி செய் (எக்ஸ்போர்ட்)",
+  "pos": "verb",
+  "pron": "ek-SPORT",
+  "example": "You can export the report as a CSV file.",
+  "exampleTamil": "ரிப்போர்ட்டை CSV கோப்பாக எக்ஸ்போர்ட் செய்யலாம்.",
+  "synonyms": [
+   "save out",
+   "output"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "overload",
+  "tamil": "ஒரே பெயரில் பல வடிவங்கள் தருதல் (ஓவர்லோட்)",
+  "pos": "verb",
+  "pron": "OH-ver-lohd",
+  "example": "You can overload the method with different parameter types.",
+  "exampleTamil": "வெவ்வேறு அளவுரு வகைகளுடன் அந்த மெத்தடை ஓவர்லோட் செய்யலாம்.",
+  "synonyms": [
+   "redefine",
+   "extend"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "override",
+  "tamil": "மேலெழுது (ஓவர்ரைட்)",
+  "pos": "verb",
+  "pron": "OH-ver-ryd",
+  "example": "The child class will override the parent's method.",
+  "exampleTamil": "சைல்டு கிளாஸ் பேரண்ட்டின் மெத்தடை ஓவர்ரைட் செய்யும்.",
+  "synonyms": [
+   "replace",
+   "supersede"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "abstraction",
+  "tamil": "சுருக்க அடுக்கு (அப்ஸ்ட்ராக்ஷன்)",
+  "pos": "noun",
+  "pron": "ab-STRAK-shun",
+  "example": "This abstraction hides the database details from the caller.",
+  "exampleTamil": "இந்த அப்ஸ்ட்ராக்ஷன் டேட்டாபேஸ் விவரங்களை அழைப்பவரிடமிருந்து மறைக்கிறது.",
+  "synonyms": [
+   "simplification",
+   "generalization"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "encapsulation",
+  "tamil": "உள்ளடக்கம் (என்கேப்சுலேஷன்) – தரவை மறைத்தல்",
+  "pos": "noun",
+  "pron": "en-kap-suh-LAY-shun",
+  "example": "Encapsulation keeps the internal state private.",
+  "exampleTamil": "என்கேப்சுலேஷன் உள் நிலையை தனிப்பட்டதாக வைக்கிறது.",
+  "synonyms": [
+   "data hiding",
+   "wrapping"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "polymorphism",
+  "tamil": "பல்லுருவாக்கம் (பாலிமார்பிசம்)",
+  "pos": "noun",
+  "pron": "pol-ee-MOR-fiz-um",
+  "example": "Polymorphism lets us treat different shapes the same way.",
+  "exampleTamil": "பாலிமார்பிசம் வெவ்வேறு வடிவங்களை ஒரே மாதிரி கையாள உதவுகிறது.",
+  "synonyms": [
+   "multiple forms",
+   "dynamic dispatch"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "recursion",
+  "tamil": "சுய அழைப்பு (ரெகர்ஷன்)",
+  "pos": "noun",
+  "pron": "rih-KUR-zhun",
+  "example": "Recursion made the tree traversal easy to write.",
+  "exampleTamil": "ரெகர்ஷன் மரத் தேடலை எழுதுவதை எளிதாக்கியது.",
+  "synonyms": [
+   "self-reference",
+   "repetition"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "asynchronous",
+  "tamil": "ஒத்திசைவற்ற (ஒரே நேரத்தில் காத்திராத)",
+  "pos": "adjective",
+  "pron": "ay-SING-kruh-nus",
+  "example": "Make the call asynchronous so the screen does not freeze.",
+  "exampleTamil": "திரை உறையாமல் இருக்க அழைப்பை அசின்க்ரனஸ் ஆக்குங்கள்.",
+  "synonyms": [
+   "non-blocking",
+   "concurrent"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "concurrency",
+  "tamil": "ஒரே நேரப் பல செயல்பாடு (கன்கரன்சி)",
+  "pos": "noun",
+  "pron": "kun-KUR-un-see",
+  "example": "Concurrency bugs are the hardest to reproduce.",
+  "exampleTamil": "கன்கரன்சி பிழைகளை மீண்டும் உருவாக்குவது மிகக் கடினம்.",
+  "synonyms": [
+   "parallelism",
+   "multitasking"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "thread",
+  "tamil": "இழை (த்ரெட்) – தனி இயக்கப் பாதை",
+  "pos": "noun",
+  "pron": "THRED",
+  "example": "The worker thread crashed while processing the queue.",
+  "exampleTamil": "க்யூவைச் செயலாக்கும்போது வொர்க்கர் த்ரெட் செயலிழந்தது.",
+  "synonyms": [
+   "process",
+   "execution path"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "memory leak",
+  "tamil": "நினைவகக் கசிவு (மெமரி லீக்)",
+  "pos": "noun",
+  "pron": "MEM-uh-ree LEEK",
+  "example": "There is a memory leak in the image viewer.",
+  "exampleTamil": "இமேஜ் வியூவரில் மெமரி லீக் உள்ளது.",
+  "synonyms": [
+   "resource leak",
+   "memory loss"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "immutable",
+  "tamil": "மாற்ற முடியாத (இம்மியூட்டபிள்)",
+  "pos": "adjective",
+  "pron": "ih-MYOO-tuh-bul",
+  "example": "Strings are immutable, so every change creates a new one.",
+  "exampleTamil": "ஸ்ட்ரிங்குகள் இம்மியூட்டபிள், ஒவ்வொரு மாற்றமும் புதியதை உருவாக்கும்.",
+  "synonyms": [
+   "unchangeable",
+   "fixed"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "boilerplate",
+  "tamil": "திரும்பத் திரும்ப எழுதும் வழக்கமான கோடு",
+  "pos": "noun",
+  "pron": "BOY-ler-playt",
+  "example": "There is too much boilerplate in this setup.",
+  "exampleTamil": "இந்த அமைப்பில் பாய்லர்பிளேட் மிக அதிகம்.",
+  "synonyms": [
+   "repetitive code",
+   "template"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hardcode",
+  "tamil": "கோடிலேயே நிலையாக எழுது (ஹார்ட்கோடு)",
+  "pos": "verb",
+  "pron": "HARD-kohd",
+  "example": "Please don't hardcode the password in the file.",
+  "exampleTamil": "கோப்பில் கடவுச்சொல்லை ஹார்ட்கோடு செய்யாதீர்கள்.",
+  "synonyms": [
+   "embed",
+   "fix in code"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "readable",
+  "tamil": "எளிதில் படிக்கக்கூடிய",
+  "pos": "adjective",
+  "pron": "REE-duh-bul",
+  "example": "Short functions keep the code readable.",
+  "exampleTamil": "சிறிய ஃபங்ஷன்கள் கோடை படிக்க எளிதாக வைக்கின்றன.",
+  "synonyms": [
+   "clear",
+   "legible"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "maintainable",
+  "tamil": "எளிதில் பராமரிக்கக்கூடிய",
+  "pos": "adjective",
+  "pron": "mayn-TAY-nuh-bul",
+  "example": "We want a maintainable codebase, not a quick hack.",
+  "exampleTamil": "அவசர ஒட்டுவேலை அல்ல, பராமரிக்கக்கூடிய கோடுபேஸ் வேண்டும்.",
+  "synonyms": [
+   "sustainable",
+   "manageable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "codebase",
+  "tamil": "மொத்த மூலக்கோடு (கோடுபேஸ்)",
+  "pos": "noun",
+  "pron": "KOHD-bays",
+  "example": "I'm still learning this huge codebase.",
+  "exampleTamil": "இந்த பெரிய கோடுபேஸை நான் இன்னும் கற்றுக்கொண்டிருக்கிறேன்.",
+  "synonyms": [
+   "source",
+   "repository"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "keyword",
+  "tamil": "முக்கிய சொல் (கீவேர்ட்)",
+  "pos": "noun",
+  "pron": "KEE-wurd",
+  "example": "You cannot use a reserved keyword as a variable name.",
+  "exampleTamil": "ஒதுக்கப்பட்ட கீவேர்டை மாறிப் பெயராக பயன்படுத்த முடியாது.",
+  "synonyms": [
+   "reserved word",
+   "term"
+  ],
+  "level": "beginner"
+ }
+]

@@ -1,0 +1,327 @@
+[
+ {
+  "word": "jog",
+  "meaning": "To run slowly for exercise.",
+  "tamil": "மெதுவாக ஓடு",
+  "pos": "verb",
+  "pron": "JOG",
+  "example": "I jog in the park every evening.",
+  "exampleTamil": "நான் தினமும் மாலை பூங்காவில் மெதுவாக ஓடுவேன்.",
+  "synonyms": [
+   "run slowly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "workout",
+  "meaning": "A session of physical exercise.",
+  "tamil": "உடற்பயிற்சி",
+  "pos": "noun",
+  "pron": "WERK-owt",
+  "example": "Today's workout was really tough.",
+  "exampleTamil": "இன்றைய உடற்பயிற்சி ரொம்ப கடினமா இருந்தது.",
+  "synonyms": [
+   "training"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gym",
+  "meaning": "A place with equipment for exercise.",
+  "tamil": "உடற்பயிற்சி கூடம்",
+  "pos": "noun",
+  "pron": "JIM",
+  "example": "I go to the gym after office.",
+  "exampleTamil": "நான் அலுவலகம் முடிந்து உடற்பயிற்சி கூடத்துக்குப் போவேன்.",
+  "synonyms": [
+   "fitness centre"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stamina",
+  "meaning": "The strength to keep doing something for a long time.",
+  "tamil": "தாங்கும் சக்தி",
+  "pos": "noun",
+  "pron": "STAM-ih-nuh",
+  "example": "Running daily builds your stamina.",
+  "exampleTamil": "தினமும் ஓடுவது உன் தாங்கும் சக்தியை வளர்க்கும்.",
+  "synonyms": [
+   "endurance"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hip",
+  "meaning": "The side part of the body where your leg joins.",
+  "tamil": "இடுப்பு",
+  "pos": "noun",
+  "pron": "HIP",
+  "example": "She has a pain in her right hip.",
+  "exampleTamil": "அவளுக்கு வலது இடுப்பில் வலி இருக்கு.",
+  "synonyms": [
+   "haunch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thigh",
+  "meaning": "The upper part of your leg above the knee.",
+  "tamil": "தொடை",
+  "pos": "noun",
+  "pron": "THY",
+  "example": "He injured his thigh while playing football.",
+  "exampleTamil": "கால்பந்து விளையாடும்போது அவன் தொடையில் காயம் ஏற்பட்டது.",
+  "synonyms": [
+   "upper leg"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "palm",
+  "meaning": "The inner flat part of your hand.",
+  "tamil": "உள்ளங்கை",
+  "pos": "noun",
+  "pron": "PAHM",
+  "example": "Her palms were sweating before the interview.",
+  "exampleTamil": "நேர்காணலுக்கு முன் அவள் உள்ளங்கைகள் வியர்த்தன.",
+  "synonyms": [
+   "hand surface"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "finger",
+  "meaning": "One of the long parts at the end of your hand.",
+  "tamil": "விரல்",
+  "pos": "noun",
+  "pron": "FING-ger",
+  "example": "I cut my finger while chopping onions.",
+  "exampleTamil": "வெங்காயம் நறுக்கும்போது என் விரல் வெட்டுப்பட்டது.",
+  "synonyms": [
+   "digit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "thumb",
+  "meaning": "The short thick finger of your hand.",
+  "tamil": "கட்டைவிரல்",
+  "pos": "noun",
+  "pron": "THUM",
+  "example": "He hurt his thumb in the door.",
+  "exampleTamil": "கதவில் அவன் கட்டைவிரல் அடிபட்டது.",
+  "synonyms": [
+   "first finger"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "toe",
+  "meaning": "One of the five small parts at the end of your foot.",
+  "tamil": "கால் விரல்",
+  "pos": "noun",
+  "pron": "TOH",
+  "example": "I hit my toe on the table.",
+  "exampleTamil": "நான் மேஜையில் என் கால் விரலை இடித்துக்கொண்டேன்.",
+  "synonyms": [
+   "foot digit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "heel",
+  "meaning": "The back part of your foot.",
+  "tamil": "குதிகால்",
+  "pos": "noun",
+  "pron": "HEEL",
+  "example": "My heel hurts when I walk in these shoes.",
+  "exampleTamil": "இந்த செருப்பில் நடந்தால் என் குதிகால் வலிக்குது.",
+  "synonyms": [
+   "rear foot"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "forehead",
+  "meaning": "The part of your face above your eyes.",
+  "tamil": "நெற்றி",
+  "pos": "noun",
+  "pron": "FOR-hed",
+  "example": "The nurse touched his forehead to check the fever.",
+  "exampleTamil": "காய்ச்சல் பார்க்க செவிலியர் அவன் நெற்றியைத் தொட்டார்.",
+  "synonyms": [
+   "brow"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cheek",
+  "meaning": "The soft part of your face below the eye.",
+  "tamil": "கன்னம்",
+  "pos": "noun",
+  "pron": "CHEEK",
+  "example": "His cheek was swollen after the tooth surgery.",
+  "exampleTamil": "பல் அறுவை சிகிச்சைக்குப் பிறகு அவன் கன்னம் வீங்கியிருந்தது.",
+  "synonyms": [
+   "side of face"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chin",
+  "meaning": "The bottom part of your face below the mouth.",
+  "tamil": "தாடை",
+  "pos": "noun",
+  "pron": "CHIN",
+  "example": "The baby has a small round chin.",
+  "exampleTamil": "குழந்தைக்கு சின்ன வட்டமான தாடை.",
+  "synonyms": [
+   "jaw tip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "vomit",
+  "meaning": "To bring food up from the stomach through the mouth.",
+  "tamil": "வாந்தி எடு",
+  "pos": "verb",
+  "pron": "VOM-it",
+  "example": "The child vomited after the long bus ride.",
+  "exampleTamil": "நீண்ட பேருந்து பயணத்துக்குப் பிறகு குழந்தை வாந்தி எடுத்தது.",
+  "synonyms": [
+   "throw up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nausea",
+  "meaning": "The feeling that you are going to vomit.",
+  "tamil": "குமட்டல்",
+  "pos": "noun",
+  "pron": "NAW-zee-uh",
+  "example": "I feel nausea every morning.",
+  "exampleTamil": "எனக்கு தினமும் காலை குமட்டல் வருது.",
+  "synonyms": [
+   "queasiness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wrist",
+  "meaning": "The joint between your hand and your arm.",
+  "tamil": "மணிக்கட்டு",
+  "pos": "noun",
+  "pron": "RIST",
+  "example": "I twisted my wrist while lifting the bag.",
+  "exampleTamil": "பையைத் தூக்கும்போது என் மணிக்கட்டு சுளுக்கிக்கொண்டது.",
+  "synonyms": [
+   "hand joint"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "surgery",
+  "meaning": "An operation where doctors cut the body to treat it.",
+  "tamil": "அறுவை சிகிச்சை",
+  "pos": "noun",
+  "pron": "SER-juh-ree",
+  "example": "She needs surgery on her knee.",
+  "exampleTamil": "அவளுக்கு முழங்காலில் அறுவை சிகிச்சை தேவை.",
+  "synonyms": [
+   "operation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "immunity",
+  "meaning": "The body's power to fight diseases.",
+  "tamil": "நோய் எதிர்ப்பு சக்தி",
+  "pos": "noun",
+  "pron": "ih-MYOO-nih-tee",
+  "example": "Good food improves your immunity.",
+  "exampleTamil": "நல்ல உணவு உன் நோய் எதிர்ப்பு சக்தியை மேம்படுத்தும்.",
+  "synonyms": [
+   "resistance"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "joint",
+  "meaning": "A place where two bones meet in the body.",
+  "tamil": "மூட்டு",
+  "pos": "noun",
+  "pron": "JOYNT",
+  "example": "I feel pain in my knee joint.",
+  "exampleTamil": "எனக்கு முழங்கால் மூட்டில் வலி இருக்கு.",
+  "synonyms": [
+   "articulation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "asthma",
+  "meaning": "An illness that makes breathing difficult.",
+  "tamil": "ஆஸ்துமா",
+  "pos": "noun",
+  "pron": "AZ-muh",
+  "example": "My brother has asthma and carries an inhaler.",
+  "exampleTamil": "என் தம்பிக்கு ஆஸ்துமா இருக்கு, அதனால் இன்ஹேலர் வைத்திருக்கிறான்.",
+  "synonyms": [
+   "breathing problem"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "migraine",
+  "meaning": "A very bad headache, often on one side.",
+  "tamil": "ஒற்றைத் தலைவலி",
+  "pos": "noun",
+  "pron": "MY-grayn",
+  "example": "She gets a migraine when she skips meals.",
+  "exampleTamil": "அவள் சாப்பாட்டைத் தவிர்த்தால் ஒற்றைத் தலைவலி வருது.",
+  "synonyms": [
+   "severe headache"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bruise",
+  "meaning": "A dark mark on the skin after a hit.",
+  "tamil": "காயத்தழும்பு",
+  "pos": "noun",
+  "pron": "BROOZ",
+  "example": "I have a big bruise on my arm.",
+  "exampleTamil": "என் கையில் பெரிய காயத்தழும்பு இருக்கு.",
+  "synonyms": [
+   "black mark"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pulse",
+  "meaning": "The beat of your heart felt at the wrist.",
+  "tamil": "நாடித்துடிப்பு",
+  "pos": "noun",
+  "pron": "PULS",
+  "example": "The doctor checked my pulse.",
+  "exampleTamil": "மருத்துவர் என் நாடித்துடிப்பைப் பார்த்தார்.",
+  "synonyms": [
+   "heartbeat"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lip",
+  "meaning": "The soft edge of your mouth.",
+  "tamil": "உதடு",
+  "pos": "noun",
+  "pron": "LIP",
+  "example": "My lips feel dry in winter.",
+  "exampleTamil": "குளிர்காலத்தில் என் உதடுகள் வறண்டு போகுது.",
+  "synonyms": [
+   "mouth edge"
+  ],
+  "level": "beginner"
+ }
+]

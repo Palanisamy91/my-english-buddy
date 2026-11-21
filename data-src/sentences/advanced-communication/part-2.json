@@ -1,0 +1,352 @@
+[
+ {
+  "en": "I'm sorry, but that is the best offer we can make at this stage.",
+  "tamil": "மன்னிக்கணும், இந்த நிலைமையில எங்களால கொடுக்கக்கூடிய சிறந்த சலுகை இதுதான்.",
+  "context": "Holding your position politely.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I'm sorry, but' softens a refusal. 'At this stage' leaves a small chance to change later.",
+  "words": [
+   "offer"
+  ],
+  "usage": "Use it to say no to a lower price without sounding rude.",
+  "leelaQ": "How do you say no politely in a negotiation?",
+  "answer": "I say sorry and explain that it is my best offer."
+ },
+ {
+  "en": "Could you put that in writing so we are both clear?",
+  "tamil": "அதை எழுத்துல கொடுக்க முடியுமா, அப்போ ரெண்டு பேருக்கும் தெளிவா இருக்கும்.",
+  "context": "Asking for a verbal promise in writing.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "Asking for something 'in writing' avoids confusion. 'So' gives the reason.",
+  "words": [
+   "in writing"
+  ],
+  "usage": "Use it after a phone call or talk when you need proof of what was agreed.",
+  "leelaQ": "Why is it good to have agreements in writing?",
+  "answer": "It avoids confusion and protects both people later."
+ },
+ {
+  "en": "If you can extend the warranty, we will place a bigger order.",
+  "tamil": "நீங்க உத்தரவாதத்தை நீட்டிச்சா, நாங்க பெரிய ஆர்டர் கொடுப்போம்.",
+  "context": "Trading a bigger order for a benefit.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "First conditional shows a deal: you give this, I give that.",
+  "words": [
+   "warranty"
+  ],
+  "usage": "Use it to bargain with a seller or vendor.",
+  "leelaQ": "What extra benefit would you ask for in a deal?",
+  "answer": "I would ask for a longer warranty or free delivery."
+ },
+ {
+  "en": "What is the minimum quantity you can supply?",
+  "tamil": "நீங்க கொடுக்கக்கூடிய குறைந்தபட்ச அளவு என்ன?",
+  "context": "Asking a supplier about order size.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Minimum' means the smallest amount allowed. 'Supply' means provide goods.",
+  "words": [
+   "quantity"
+  ],
+  "usage": "Use it when you plan to order from a wholesaler or factory.",
+  "leelaQ": "What would you ask a supplier before ordering?",
+  "answer": "I would ask about the price, quantity and delivery time."
+ },
+ {
+  "en": "I need to check with my manager before I can confirm anything.",
+  "tamil": "எதையும் உறுதி பண்றதுக்கு முன்னாடி என் மேனேஜர்கிட்ட கேக்கணும்.",
+  "context": "Buying time in a negotiation.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Check with' means ask for approval. It is a polite way to delay a decision.",
+  "words": [
+   "confirm"
+  ],
+  "usage": "Use it when you are not allowed to decide alone.",
+  "leelaQ": "What do you do when you cannot decide alone?",
+  "answer": "I tell them I need to check with my manager first."
+ },
+ {
+  "en": "We are not in a position to accept those conditions right now.",
+  "tamil": "இப்போதைக்கு அந்த நிபந்தனைகளை ஏத்துக்கிற நிலைமையில நாங்க இல்ல.",
+  "context": "Declining terms formally.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not in a position to' is a formal, polite way to say 'we cannot'.",
+  "words": [
+   "conditions"
+  ],
+  "usage": "Use it in formal business replies when you must refuse.",
+  "leelaQ": "How do you refuse something formally?",
+  "answer": "I say we are not in a position to accept it."
+ },
+ {
+  "en": "I see your point, but I see it a little differently.",
+  "tamil": "உங்க கருத்து புரியுது, ஆனா எனக்கு கொஞ்சம் வேற மாதிரி தோணுது.",
+  "context": "Disagreeing politely in a meeting.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "First accept the other view, then give yours with 'but'. It keeps the talk friendly.",
+  "words": [
+   "differently"
+  ],
+  "usage": "Use it when you disagree with a colleague without causing an argument.",
+  "leelaQ": "How do you disagree politely?",
+  "answer": "I first say I see their point and then share my view."
+ },
+ {
+  "en": "With respect, I am not sure that will work in practice.",
+  "tamil": "மரியாதையோட சொல்றேன், அது நடைமுறையில வேலை செய்யும்னு எனக்கு உறுதியா தெரியல.",
+  "context": "Doubting an idea politely.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'With respect' softens a strong disagreement. 'In practice' means in real life.",
+  "words": [
+   "in practice"
+  ],
+  "usage": "Use it with a senior person when you doubt their plan.",
+  "leelaQ": "What do you say when an idea may not work?",
+  "answer": "I say I am not sure it will work in practice."
+ },
+ {
+  "en": "That's a fair point, though I have one concern.",
+  "tamil": "அது நியாயமான கருத்துதான், ஆனா எனக்கு ஒரு கவலை இருக்கு.",
+  "context": "Raising a concern gently.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Fair point' shows respect. 'Though' adds your different view in a soft way.",
+  "words": [
+   "concern"
+  ],
+  "usage": "Use it in a discussion to add a doubt without rejecting the idea.",
+  "leelaQ": "What concern do you often raise at work?",
+  "answer": "I often worry that we do not have enough time."
+ },
+ {
+  "en": "Have you considered the cost of doing it this way?",
+  "tamil": "இப்படி பண்றதுக்கு ஆகுற செலவை யோசிச்சீங்களா?",
+  "context": "Questioning a plan gently.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "A question like this makes the other person think, instead of telling them they are wrong.",
+  "words": [
+   "considered"
+  ],
+  "usage": "Use it to challenge an idea politely in a meeting.",
+  "leelaQ": "What would you ask before accepting a new plan?",
+  "answer": "I would ask about the cost and the time needed."
+ },
+ {
+  "en": "I'm not sure I agree with that, but I'm open to discussing it.",
+  "tamil": "அதுல எனக்கு உடன்பாடு இருக்கான்னு தெரியல, ஆனா அதை பேச நான் தயாரா இருக்கேன்.",
+  "context": "Disagreeing but staying open.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Open to' means willing to listen. It stops the conversation from becoming a fight.",
+  "words": [
+   "open to"
+  ],
+  "usage": "Use it when you want to disagree but keep a good relationship.",
+  "leelaQ": "Are you open to changing your opinion?",
+  "answer": "Yes, I am open if someone gives me a good reason."
+ },
+ {
+  "en": "Perhaps we could look at it from another angle.",
+  "tamil": "ஒருவேளை நாம இதை வேற கோணத்துல பாக்கலாம்.",
+  "context": "Suggesting a new way to think.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Perhaps we could' is a soft suggestion. 'Angle' means a way of seeing a problem.",
+  "words": [
+   "angle"
+  ],
+  "usage": "Use it when a discussion is stuck.",
+  "leelaQ": "How do you help when a discussion is stuck?",
+  "answer": "I suggest looking at the problem from another angle."
+ },
+ {
+  "en": "I understand why you feel that way, but the data says otherwise.",
+  "tamil": "நீங்க ஏன் அப்படி நினைக்கிறீங்கன்னு புரியுது, ஆனா தரவு வேற மாதிரி சொல்லுது.",
+  "context": "Disagreeing with facts.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Showing understanding first, then facts, makes disagreement polite and strong.",
+  "words": [
+   "otherwise"
+  ],
+  "usage": "Use it in a meeting when numbers do not support someone's belief.",
+  "leelaQ": "Do you trust data or feelings more?",
+  "answer": "I trust data, but I also listen to people's feelings."
+ },
+ {
+  "en": "Could we agree to disagree on this one?",
+  "tamil": "இந்த விஷயத்துல நாம வேறுபட்ட கருத்துலயே இருக்கலாமா?",
+  "context": "Ending a stuck debate politely.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Agree to disagree' means accept that you have different opinions and stop arguing.",
+  "words": [
+   "agree to disagree"
+  ],
+  "usage": "Use it when a long argument is going nowhere.",
+  "leelaQ": "When do you stop arguing about something?",
+  "answer": "I stop when we both understand each other but still disagree."
+ },
+ {
+  "en": "Sorry to interrupt, but may I add something here?",
+  "tamil": "இடையில பேசினதுக்கு மன்னிக்கணும், நான் இங்க ஒண்ணு சேர்க்கலாமா?",
+  "context": "Interrupting politely in a meeting.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Sorry to interrupt' is a polite opening. 'May I' asks for permission.",
+  "words": [
+   "interrupt"
+  ],
+  "usage": "Use it when you want to speak in a busy meeting.",
+  "leelaQ": "How do you join a busy discussion?",
+  "answer": "I say sorry to interrupt and ask if I may add something."
+ },
+ {
+  "en": "I don't think that is quite accurate, if you don't mind me saying so.",
+  "tamil": "நீங்க தப்பா எடுத்துக்காட்டினா, அது சரியா இல்லன்னு நான் நினைக்கிறேன்.",
+  "context": "Correcting someone gently.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not quite' is softer than 'wrong'. 'If you don't mind me saying' asks permission to be honest.",
+  "words": [
+   "accurate"
+  ],
+  "usage": "Use it when you correct a fact said by a senior or a client.",
+  "leelaQ": "How do you correct a mistake politely?",
+  "answer": "I say it is not quite accurate and then give the right fact."
+ },
+ {
+  "en": "We might be better off waiting until next quarter.",
+  "tamil": "அடுத்த காலாண்டு வரைக்கும் காத்திருந்தா நமக்கு நல்லதா இருக்கலாம்.",
+  "context": "Suggesting a delay diplomatically.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Might be better off' is a soft way to advise. It does not sound like an order.",
+  "words": [
+   "better off"
+  ],
+  "usage": "Use it when you want to slow down a plan politely.",
+  "leelaQ": "When is waiting the better choice?",
+  "answer": "Waiting is better when we do not have enough money or time."
+ },
+ {
+  "en": "In short, the project is on track but the budget needs attention.",
+  "tamil": "சுருக்கமா, திட்டம் சரியா போகுது, ஆனா பட்ஜெட்டுல கவனம் தேவை.",
+  "context": "Summarising project status for a boss.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'In short' introduces a brief summary. 'On track' means going as planned.",
+  "words": [
+   "on track"
+  ],
+  "usage": "Use it to give a quick status update.",
+  "leelaQ": "How is your work going this week?",
+  "answer": "It is going well and I am on track to finish on time."
+ },
+ {
+  "en": "So, if I understand correctly, you want the report by Monday.",
+  "tamil": "அப்போ, நான் சரியா புரிஞ்சிக்கிட்டா, உங்களுக்கு ரிப்போர்ட் திங்கள்கிழமைக்குள்ள வேணும்.",
+  "context": "Confirming what you understood.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "This repeats the message in your own words to avoid mistakes.",
+  "words": [
+   "correctly"
+  ],
+  "usage": "Use it after receiving instructions from a manager or client.",
+  "leelaQ": "Why do you repeat instructions after you hear them?",
+  "answer": "I repeat them to make sure I understood correctly."
+ },
+ {
+  "en": "The main point is that we need to reduce delays.",
+  "tamil": "முக்கிய விஷயம் என்னன்னா, நாம தாமதங்களை குறைக்கணும்.",
+  "context": "Stating the key message of a meeting.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'The main point is that' puts the key idea first. It is clear and easy to remember.",
+  "words": [
+   "main point"
+  ],
+  "usage": "Use it at the end of a long discussion to focus everyone.",
+  "leelaQ": "What is the main point of your daily work?",
+  "answer": "The main point is to help customers quickly and correctly."
+ },
+ {
+  "en": "To put it simply, customers want faster delivery and lower prices.",
+  "tamil": "எளிமையா சொன்னா, வாடிக்கையாளர்களுக்கு வேகமான டெலிவரியும் குறைஞ்ச விலையும் வேணும்.",
+  "context": "Explaining a complex issue simply.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'To put it simply' tells the listener you are making a long idea short and easy.",
+  "words": [
+   "simply"
+  ],
+  "usage": "Use it to explain a long report to a non-expert.",
+  "leelaQ": "What do your customers want most?",
+  "answer": "They want good quality at a fair price."
+ },
+ {
+  "en": "Let me recap what we have agreed so far.",
+  "tamil": "இதுவரை நாம ஒத்துக்கிட்டதை நான் திரும்ப சொல்றேன்.",
+  "context": "Ending a meeting with a recap.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Recap' means repeat the main points. It checks that everybody agrees.",
+  "words": [
+   "recap"
+  ],
+  "usage": "Use it at the end of a meeting before people leave.",
+  "leelaQ": "What do you do at the end of a meeting?",
+  "answer": "I recap the decisions and ask who will do what."
+ },
+ {
+  "en": "Can you summarise the main findings in two or three lines?",
+  "tamil": "முக்கிய கண்டுபிடிப்புகளை ரெண்டு மூணு வரியில சுருக்கமா சொல்ல முடியுமா?",
+  "context": "Asking a colleague for a short summary.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Summarise' means give a short version. Giving a number of lines makes the request clear.",
+  "words": [
+   "summarise"
+  ],
+  "usage": "Use it when you have no time to read a long document.",
+  "leelaQ": "Can you summarise your day in two lines?",
+  "answer": "I worked on a report and then attended two meetings."
+ },
+ {
+  "en": "Overall, the feedback was positive, with a few small suggestions.",
+  "tamil": "மொத்தத்துல கருத்துகள் நேர்மறையா இருந்தது, சில சின்ன ஆலோசனைகளோட.",
+  "context": "Summarising feedback.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Overall' gives the big picture. 'A few small suggestions' shows minor points.",
+  "words": [
+   "overall"
+  ],
+  "usage": "Use it to report feedback from customers or a review to your team.",
+  "leelaQ": "What kind of feedback have you received at work?",
+  "answer": "Most of it was positive and some was about small improvements."
+ },
+ {
+  "en": "Basically, we have two options: wait or start now.",
+  "tamil": "அடிப்படையில, நமக்கு ரெண்டு வழி இருக்கு: காத்திருக்கலாம் இல்ல இப்போவே ஆரம்பிக்கலாம்.",
+  "context": "Reducing a discussion to two choices.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Basically' introduces the simple core of a long talk. Naming the options helps a decision.",
+  "words": [
+   "basically"
+  ],
+  "usage": "Use it when a discussion is long and the team must choose.",
+  "leelaQ": "What two options do you have this weekend?",
+  "answer": "I can rest at home or visit my relatives."
+ }
+]

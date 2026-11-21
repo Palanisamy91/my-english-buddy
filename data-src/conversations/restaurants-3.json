@@ -1,0 +1,353 @@
+[
+ {
+  "category": "restaurants",
+  "context": "Ordering at a street stall",
+  "level": "beginner",
+  "en": "Anna, two plates of pani puri, please!",
+  "tamil": "அண்ணா, ரெண்டு பிளேட் பானி பூரி கொடுங்க!",
+  "reply": "Sure! Do you want it spicy or normal?",
+  "replyTamil": "சரி! காரமா வேணுமா, சாதாரணமா வேணுமா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Street vendor asks about chilli",
+  "level": "beginner",
+  "en": "Chilli sauce or sweet sauce on your bhel?",
+  "tamil": "உங்க பேல் பூரில மிளகாய் சாஸா, இனிப்பு சாஸா?",
+  "reply": "A little of both, please. Not too much chilli.",
+  "replyTamil": "ரெண்டுமே கொஞ்சம் போடுங்க. காரம் ரொம்ப வேண்டாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Worried about hygiene at a stall",
+  "level": "intermediate",
+  "en": "The sundal looks tempting, but is the water here safe?",
+  "tamil": "சுண்டல் பார்க்க நல்லா இருக்கு, ஆனா இங்க தண்ணி பாதுகாப்பானதா?",
+  "reply": "They use bottled water, I checked. And it's freshly made, so go ahead.",
+  "replyTamil": "பாட்டில் தண்ணிதான் யூஸ் பண்றாங்க, நான் பார்த்தேன். புதுசா செஞ்சதும் கூட, தைரியமா சாப்பிடலாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Evening snacks at Marina Beach",
+  "level": "beginner",
+  "en": "The mango with chilli powder is only twenty rupees!",
+  "tamil": "மிளகாய்த்தூள் போட்ட மாங்காய் இருபது ரூபாய்தான்!",
+  "reply": "Nice! Let's get one each and eat it by the sea.",
+  "replyTamil": "நல்லது! ஆளுக்கு ஒண்ணு வாங்கி கடற்கரையில உட்கார்ந்து சாப்பிடலாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Late-night roadside dosa",
+  "level": "intermediate",
+  "en": "That dosa man has been here since I was in school. Nobody makes it like him.",
+  "tamil": "அந்த தோசைக்காரர் நான் ஸ்கூல்ல படிக்கும்போதிலிருந்தே இங்க இருக்கார். அவர் மாதிரி யாரும் செய்ய மாட்டாங்க.",
+  "reply": "Then we have to try it. I'm starving, and I love a good tawa dosa at midnight.",
+  "replyTamil": "அப்போ கண்டிப்பா சாப்பிடணும். எனக்கு செம பசி, நடுராத்திரியில நல்ல தவா தோசை பிடிக்கும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Asking a vendor for less oil",
+  "level": "intermediate",
+  "en": "Bro, can you go easy on the oil in the bajji? My stomach is a bit sensitive.",
+  "tamil": "அண்ணே, பஜ்ஜில எண்ணெய் கொஞ்சம் கம்மியா இருக்கட்டும். என் வயிறு கொஞ்சம் சென்சிட்டிவ்.",
+  "reply": "No problem, I'll drain them well. Hot ones are coming out now.",
+  "replyTamil": "பிரச்சனை இல்ல, நல்லா வடிச்சுத் தரேன். சூடான பஜ்ஜி இப்போதான் வருது."
+ },
+ {
+  "category": "restaurants",
+  "context": "Chaat stall crowd",
+  "level": "advanced",
+  "en": "This place is jam-packed every evening. Is it really worth the queue?",
+  "tamil": "இந்த இடம் ஒவ்வொரு சாயங்காலமும் கூட்டமா இருக்கு. உண்மையிலேயே வரிசையில நிக்கற அளவுக்கு நல்லா இருக்கா?",
+  "reply": "Trust me, it's worth every minute. The queue moves faster than it looks.",
+  "replyTamil": "என்னை நம்புங்க, ஒவ்வொரு நிமிஷமும் மதிப்பு. வரிசை பார்க்கறதை விட வேகமா நகரும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Tiffin shop morning rush",
+  "level": "beginner",
+  "en": "Two idlis and one vada, parcel or here?",
+  "tamil": "ரெண்டு இட்லி, ஒரு வடை. பார்சலா, இங்கயா?",
+  "reply": "I'll eat here. And please add a little extra chutney.",
+  "replyTamil": "இங்கயே சாப்பிடறேன். கொஞ்சம் கூடுதலா சட்னியும் போடுங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Burger counter order",
+  "level": "beginner",
+  "en": "Welcome! What can I get for you today?",
+  "tamil": "வாங்க! இன்னிக்கு உங்களுக்கு என்ன வேணும்?",
+  "reply": "One veg burger and a small coke, please.",
+  "replyTamil": "ஒரு வெஜ் பர்கரும் சின்ன கோக்கும் கொடுங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Upsell at a fast food counter",
+  "level": "beginner",
+  "en": "Would you like to make it a combo for just thirty rupees more?",
+  "tamil": "வெறும் முப்பது ரூபாய் கூடுதலா கொடுத்து காம்போவா ஆக்கிக்கறீங்களா?",
+  "reply": "No, thanks. Just the burger is enough for me.",
+  "replyTamil": "வேண்டாம், நன்றி. எனக்கு பர்கர் மட்டும் போதும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Order number at fast food counter",
+  "level": "beginner",
+  "en": "Your order number is forty-two. Please wait at the side.",
+  "tamil": "உங்க ஆர்டர் நம்பர் நாற்பத்திரெண்டு. தயவு செஞ்சு ஓரமா காத்திருங்க.",
+  "reply": "Okay, thank you. How long will it take?",
+  "replyTamil": "சரி, நன்றி. எவ்வளவு நேரம் ஆகும்?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Missing item from a tray",
+  "level": "intermediate",
+  "en": "Hey, I think my fries are missing. There's only the burger on the tray.",
+  "tamil": "ஏங்க, என் ஃப்ரைஸ் காணோம்னு நினைக்கறேன். ட்ரேல பர்கர் மட்டும்தான் இருக்கு.",
+  "reply": "Oh, so sorry about that! Let me bring them right away.",
+  "replyTamil": "ஐயோ, மன்னிக்கணும்! இப்பவே கொண்டு வரேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Kids insist on fast food",
+  "level": "intermediate",
+  "en": "The kids are begging for pizza again. Shall we give in this time?",
+  "tamil": "பசங்க மறுபடியும் பீட்சா வேணும்னு கெஞ்சறாங்க. இந்த முறை சரின்னு சொல்லிடலாமா?",
+  "reply": "Fine, but only once a month. Let's get the one with lots of veggies on it.",
+  "replyTamil": "சரி, ஆனா மாசத்துக்கு ஒரு தடவை மட்டும். நிறைய காய்கறி போட்டதா வாங்கலாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Cold drink refill at fast food",
+  "level": "intermediate",
+  "en": "The cup is free refill, you know. Just scan the code at the machine.",
+  "tamil": "இந்த கப்புக்கு ஃப்ரீ ரீஃபில் உண்டு, தெரியுமா. மெஷின்ல கோடை ஸ்கேன் பண்ணா போதும்.",
+  "reply": "Oh, I didn't know that! Good thing you told me.",
+  "replyTamil": "ஓ, எனக்குத் தெரியாது! நல்லவேளை சொன்னீங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Healthy eating vs fast food",
+  "level": "advanced",
+  "en": "I swore off fast food last month, but that smell is testing my willpower.",
+  "tamil": "போன மாசம் ஃபாஸ்ட் ஃபுட் சாப்பிடவே மாட்டேன்னு சபதம் எடுத்தேன், ஆனா இந்த வாசனை என் மனக்கட்டுப்பாட்டைச் சோதிக்குது.",
+  "reply": "Come on, one cheat meal won't hurt. You've earned it after that week.",
+  "replyTamil": "விடுங்க, ஒரு நாள் சாப்பிட்டா ஒண்ணும் ஆகாது. அந்த வாரத்துக்கு அப்புறம் இது உங்களுக்கு நியாயம்தான்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Ordering food for takeaway",
+  "level": "beginner",
+  "en": "Is this for dine-in or takeaway?",
+  "tamil": "இது இங்க சாப்பிடவா, பார்சலா?",
+  "reply": "Takeaway, please. Can you pack it well?",
+  "replyTamil": "பார்சல் தான். நல்லா பேக் பண்ணிக் கொடுக்க முடியுமா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Calling to place a pickup order",
+  "level": "intermediate",
+  "en": "I'd like to place an order for pickup. How long will it take to get ready?",
+  "tamil": "பிக்கப்புக்கு ஒரு ஆர்டர் பண்ணனும். ரெடியாக எவ்வளவு நேரம் ஆகும்?",
+  "reply": "About fifteen minutes. Can I have your name and number, please?",
+  "replyTamil": "ஒரு பதினைந்து நிமிஷம் ஆகும். உங்க பேரும் நம்பரும் சொல்றீங்களா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Delivery boy at the door",
+  "level": "beginner",
+  "en": "Sir, your food order is here. Please check the packet.",
+  "tamil": "சார், உங்க சாப்பாடு வந்துடுச்சு. பாக்கெட்டைப் பார்த்துக்கோங்க.",
+  "reply": "Thanks, bhai. It's still warm. Have a good day!",
+  "replyTamil": "நன்றி தம்பி. இன்னும் சூடா இருக்கு. நல்ல நாளா அமையட்டும்!"
+ },
+ {
+  "category": "restaurants",
+  "context": "Delivery taking too long",
+  "level": "intermediate",
+  "en": "The app says it's arriving in ten minutes, but it's been forty. Can you call him?",
+  "tamil": "ஆப்ல பத்து நிமிஷத்துல வரும்னு காட்டுது, ஆனா நாற்பது நிமிஷம் ஆகிடுச்சு. அவருக்கு போன் பண்றீங்களா?",
+  "reply": "I just did. He's stuck in traffic near the flyover, and he'll be here soon.",
+  "replyTamil": "இப்பதான் பண்ணினேன். மேம்பாலம் பக்கத்துல ட்ராஃபிக்ல மாட்டிக்கிட்டாராம், சீக்கிரம் வந்துடுவார்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Spilled gravy in the delivery",
+  "level": "intermediate",
+  "en": "The gravy has leaked all over the bag. What should I do?",
+  "tamil": "கிரேவி பை முழுக்க கசிஞ்சு போயிடுச்சு. நான் என்ன பண்ணட்டும்?",
+  "reply": "Take a photo and report it in the app. They usually refund for this.",
+  "replyTamil": "ஒரு போட்டோ எடுத்து ஆப்ல புகார் பண்ணுங்க. இதுக்கு பொதுவா பணம் திருப்பித் தருவாங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Late-night food delivery decision",
+  "level": "beginner",
+  "en": "I'm too tired to cook tonight. Let's just order something.",
+  "tamil": "இன்னிக்கு சமைக்க முடியாத அளவு களைப்பா இருக்கு. எதாவது ஆர்டர் பண்ணிடலாம்.",
+  "reply": "Good idea. How about biryani? There's a new place nearby.",
+  "replyTamil": "நல்ல யோசனை. பிரியாணி எப்படி? பக்கத்துல ஒரு புது கடை இருக்கு."
+ },
+ {
+  "category": "restaurants",
+  "context": "Asking for cutlery with takeaway",
+  "level": "beginner",
+  "en": "Do you want a spoon and tissue with this?",
+  "tamil": "இதோட ஸ்பூனும் டிஷ்யூவும் வேணுமா?",
+  "reply": "Just a spoon, thanks. I'll skip the tissue.",
+  "replyTamil": "ஸ்பூன் மட்டும் போதும், நன்றி. டிஷ்யூ வேண்டாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Delivery fee complaint",
+  "level": "advanced",
+  "en": "By the time you add the delivery fee and taxes, a simple meal costs a fortune.",
+  "tamil": "டெலிவரி கட்டணமும் வரியும் சேர்த்தா, ஒரு சாதாரண சாப்பாடே பெரிய தொகையா ஆயிடுது.",
+  "reply": "Tell me about it. That's why I just walk over and pick it up now.",
+  "replyTamil": "அதை ஏன் கேக்கறீங்க. அதனாலதான் நான் இப்போ நடந்து போய் நானே வாங்கிட்டு வந்துடறேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Booking a table for a birthday",
+  "level": "intermediate",
+  "en": "It's my daughter's birthday on Sunday. Can you keep a table near the window?",
+  "tamil": "ஞாயிற்றுக்கிழமை என் மகளோட பிறந்தநாள். ஜன்னல் பக்கத்துல ஒரு டேபிள் வைக்க முடியுமா?",
+  "reply": "Of course. Would you like us to arrange a small cake as well?",
+  "replyTamil": "கண்டிப்பா. ஒரு சின்ன கேக்கும் ஏற்பாடு பண்ணித் தரட்டுமா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Surprise dinner planning",
+  "level": "intermediate",
+  "en": "I want to surprise my wife with a dinner. Which place has a nice quiet corner?",
+  "tamil": "என் மனைவிக்கு டின்னர் மூலமா சர்ப்ரைஸ் கொடுக்கணும். எந்த இடத்துல நல்ல அமைதியான மூலை இருக்கு?",
+  "reply": "Try the rooftop place near Besant Nagar. It's lovely in the evening, and not too crowded.",
+  "replyTamil": "பெசன்ட் நகர் பக்கத்துல இருக்கற ரூஃப்டாப் இடத்தை முயற்சி பண்ணுங்க. சாயங்காலம் ரொம்ப நல்லா இருக்கும், கூட்டமும் இருக்காது."
+ },
+ {
+  "context": "Waiter surprises a couple on their anniversary",
+  "level": "beginner",
+  "en": "Congratulations on your anniversary! The chef sent you a small dessert.",
+  "tamil": "உங்கள் திருமண நாளுக்கு வாழ்த்துகள்! சமையல்காரர் உங்களுக்கு ஒரு சின்ன டெசர்ட் அனுப்பியிருக்கார்.",
+  "reply": "Really? How thoughtful. Please tell him we love it already.",
+  "replyTamil": "நிஜமாவா? எவ்வளவு அன்பு. அவர்கிட்ட எங்களுக்கு இப்பவே பிடிச்சிருக்குனு சொல்லுங்க.",
+  "category": "restaurants"
+ },
+ {
+  "category": "restaurants",
+  "context": "Cake cutting at the table",
+  "level": "beginner",
+  "en": "We brought our own cake. Is it okay to cut it here?",
+  "tamil": "நாங்களே கேக் கொண்டு வந்திருக்கோம். இங்க வெட்டலாமா?",
+  "reply": "Yes, no problem. We'll bring a knife and plates for you.",
+  "replyTamil": "ஆமாம், பிரச்சனை இல்ல. கத்தியும் தட்டுகளும் கொண்டு வரோம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Treating the team for a promotion",
+  "level": "intermediate",
+  "en": "Congratulations on the promotion! You owe us all a proper dinner now.",
+  "tamil": "பதவி உயர்வுக்கு வாழ்த்துகள்! இப்போ எல்லாருக்கும் ஒரு நல்ல விருந்து தரணும்.",
+  "reply": "Ha ha, fair enough! Let's go this Friday. Dinner's on me.",
+  "replyTamil": "ஹா ஹா, நியாயம்தான்! இந்த வெள்ளிக்கிழமை போலாம். டின்னர் என் செலவு."
+ },
+ {
+  "category": "restaurants",
+  "context": "Farewell lunch for a colleague",
+  "level": "advanced",
+  "en": "We're throwing Karthik a farewell lunch. I hope you can make it.",
+  "tamil": "கார்த்திக்குக்கு பிரியாவிடை மதிய விருந்து வைக்கறோம். நீங்க வருவீங்கன்னு நம்பறேன்.",
+  "reply": "I wouldn't miss it for the world. I'll just reschedule my afternoon call.",
+  "replyTamil": "எதுக்காகவும் தவற விட மாட்டேன். மதியம் இருக்கற கால் மட்டும் மாத்தி வச்சுக்கறேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Planning a family celebration",
+  "level": "advanced",
+  "en": "My parents' fortieth anniversary is coming up. I'd like to book a private room for around twenty people.",
+  "tamil": "என் அம்மா அப்பாவோட நாற்பதாவது திருமண நாள் வருது. இருபது பேர் தங்க தனி அறை புக் பண்ணனும்.",
+  "reply": "That's wonderful. We have a hall for that size, and I can share the set menu options.",
+  "replyTamil": "ரொம்ப அருமை. அந்த அளவுக்கு ஒரு ஹால் இருக்கு, செட் மெனு விருப்பங்களையும் அனுப்பறேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Priya's graduation dinner",
+  "level": "beginner",
+  "en": "Priya passed her exam, so we're celebrating tonight!",
+  "tamil": "பிரியா தேர்வுல பாஸ் பண்ணிட்டா, அதனால இன்னிக்கு ராத்திரி கொண்டாடறோம்!",
+  "reply": "That's great news! Tell her congratulations from me.",
+  "replyTamil": "ரொம்ப நல்ல செய்தி! என் சார்பா அவளுக்கு வாழ்த்து சொல்லுங்க."
+ },
+ {
+  "category": "restaurants",
+  "context": "Buffet entry price",
+  "level": "beginner",
+  "en": "The lunch buffet is four hundred and fifty rupees per person.",
+  "tamil": "மதிய பஃபே நபருக்கு நானூற்று ஐம்பது ரூபாய்.",
+  "reply": "Okay, that's fine. Two adults and one child, please.",
+  "replyTamil": "சரி, பரவாயில்ல. ரெண்டு பெரியவங்க, ஒரு குழந்தை."
+ },
+ {
+  "category": "restaurants",
+  "context": "Child pricing at a buffet",
+  "level": "intermediate",
+  "en": "Is there a discount for children at the buffet? My son is just seven.",
+  "tamil": "பஃபேல குழந்தைகளுக்கு தள்ளுபடி உண்டா? என் மகனுக்கு ஏழு வயசுதான்.",
+  "reply": "Kids under five eat free. For ages five to ten, it's half price.",
+  "replyTamil": "ஐந்து வயசுக்குக் கீழ இலவசம். ஐந்து முதல் பத்து வரைக்கும் பாதி விலை."
+ },
+ {
+  "category": "restaurants",
+  "context": "Starting at the buffet counter",
+  "level": "beginner",
+  "en": "Where should we start? There are so many counters!",
+  "tamil": "எங்க ஆரம்பிக்கறது? இவ்வளவு கவுண்டர் இருக்கே!",
+  "reply": "Let's check the starters first and then go to the main course.",
+  "replyTamil": "முதல்ல ஸ்டார்டர்களைப் பார்த்துட்டு அப்புறம் மெயின் கோர்ஸுக்குப் போலாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Overloaded plate at a buffet",
+  "level": "intermediate",
+  "en": "Your plate is overflowing! You can always go back for more, you know.",
+  "tamil": "உன் தட்டு நிரம்பி வழியுது! வேணும்னா திரும்பப் போய் எடுத்துக்கலாம், தெரியுமா.",
+  "reply": "I know, but I'm scared the biryani will run out. It disappears fast.",
+  "replyTamil": "தெரியும், ஆனா பிரியாணி தீர்ந்துடுமோன்னு பயமா இருக்கு. சீக்கிரம் காலியாகிடும்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Buffet food waste",
+  "level": "advanced",
+  "en": "Take only what you can finish. They charge extra for wasted food here.",
+  "tamil": "சாப்பிட முடியற அளவு மட்டும் எடுத்துக்கோங்க. இங்க வீணாக்கினா கூடுதல் கட்டணம் வாங்குவாங்க.",
+  "reply": "Fair enough. Honestly, wasting food bothers me anyway, so I'll go slow.",
+  "replyTamil": "நியாயம்தான். உண்மையில் சாப்பாட்டை வீணாக்கறதே எனக்குப் பிடிக்காது, மெதுவாவே எடுத்துக்கறேன்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Live counter at a buffet",
+  "level": "beginner",
+  "en": "The live dosa counter is on your right, madam.",
+  "tamil": "லைவ் தோசை கவுண்டர் உங்க வலது பக்கம் இருக்கு, மேடம்.",
+  "reply": "Thank you. Is the masala dosa also available?",
+  "replyTamil": "நன்றி. மசால் தோசையும் கிடைக்குமா?"
+ },
+ {
+  "category": "restaurants",
+  "context": "Waiting for buffet items to be refilled",
+  "level": "intermediate",
+  "en": "The gulab jamun tray is empty. Will they fill it again soon?",
+  "tamil": "குலாப் ஜாமூன் ட்ரே காலியா இருக்கு. சீக்கிரம் மறுபடி நிரப்புவாங்களா?",
+  "reply": "I just asked the server. Fresh ones are coming from the kitchen in five minutes.",
+  "replyTamil": "இப்பதான் சர்வர்கிட்ட கேட்டேன். அஞ்சு நிமிஷத்துல சமையலறையிலிருந்து புதுசா வருதாம்."
+ },
+ {
+  "category": "restaurants",
+  "context": "Weekend buffet rush",
+  "level": "advanced",
+  "en": "I'd steer clear of the Sunday buffet. It's a zoo, and the food runs out by two.",
+  "tamil": "ஞாயிற்றுக்கிழமை பஃபேக்குப் போகாம இருக்கறது நல்லது. செம கூட்டம், ரெண்டு மணிக்குள்ள சாப்பாடு தீர்ந்துடும்.",
+  "reply": "Good tip. Let's go on a weekday instead, when it's calmer and the food's fresh.",
+  "replyTamil": "நல்ல அறிவுரை. அதுக்குப் பதிலா வார நாள்ல போலாம், அமைதியா இருக்கும், சாப்பாடும் புதுசா இருக்கும்."
+ }
+]

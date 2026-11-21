@@ -1,0 +1,666 @@
+[
+ {
+  "word": "receipt",
+  "tamil": "ரசீது",
+  "pos": "noun",
+  "pron": "rih-SEET",
+  "example": "Keep the receipt in case you return it.",
+  "exampleTamil": "திருப்பித் தர வேண்டியிருந்தால் ரசீதை வைத்திருங்கள்.",
+  "synonyms": [
+   "proof of purchase"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "queue",
+  "tamil": "வரிசை",
+  "pos": "noun",
+  "pron": "KYOO",
+  "example": "There was a long queue at the ration shop.",
+  "exampleTamil": "ரேஷன் கடையில் நீண்ட வரிசை இருந்தது.",
+  "synonyms": [
+   "line"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trolley",
+  "tamil": "தள்ளுவண்டி",
+  "pos": "noun",
+  "pron": "TROL-ee",
+  "example": "She pushed the trolley through the supermarket.",
+  "exampleTamil": "அவள் பல்பொருள் அங்காடியில் தள்ளுவண்டியைத் தள்ளிச் சென்றாள்.",
+  "synonyms": [
+   "cart"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bakery",
+  "tamil": "ரொட்டிக் கடை",
+  "pos": "noun",
+  "pron": "BAY-kuh-ree",
+  "example": "The bakery near us sells fresh buns.",
+  "exampleTamil": "எங்கள் அருகிலுள்ள ரொட்டிக் கடையில் புதிய பன் விற்கிறார்கள்.",
+  "synonyms": [
+   "bread shop"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "refund",
+  "tamil": "பணத்தைத் திருப்பிப் பெறுதல்",
+  "pos": "noun",
+  "pron": "REE-fund",
+  "example": "I asked the shop for a refund.",
+  "exampleTamil": "நான் கடையிடம் பணத்தைத் திருப்பிக் கேட்டேன்.",
+  "synonyms": [
+   "reimbursement"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "warranty",
+  "tamil": "உத்தரவாதம்",
+  "pos": "noun",
+  "pron": "WOR-un-tee",
+  "example": "The new fridge has a five-year warranty.",
+  "exampleTamil": "புதிய குளிர்சாதனப் பெட்டிக்கு ஐந்து ஆண்டு உத்தரவாதம் உள்ளது.",
+  "synonyms": [
+   "guarantee"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "savings",
+  "tamil": "சேமிப்பு",
+  "pos": "noun",
+  "pron": "SAY-vingz",
+  "example": "We keep our savings in the post office.",
+  "exampleTamil": "நாங்கள் எங்கள் சேமிப்பை அஞ்சலகத்தில் வைத்திருக்கிறோம்.",
+  "synonyms": [
+   "nest egg",
+   "reserve"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bank",
+  "tamil": "வங்கி",
+  "pos": "noun",
+  "pron": "BANK",
+  "example": "I need to go to the bank today.",
+  "exampleTamil": "நான் இன்று வங்கிக்குப் போக வேண்டும்.",
+  "synonyms": [
+   "lender"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "deposit",
+  "tamil": "வங்கியில் செலுத்து",
+  "pos": "verb",
+  "pron": "dih-POZ-it",
+  "example": "I will deposit the cheque tomorrow morning.",
+  "exampleTamil": "நான் நாளை காலை காசோலையை வங்கியில் செலுத்துவேன்.",
+  "synonyms": [
+   "pay in",
+   "bank"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "withdraw",
+  "tamil": "பணம் எடு",
+  "pos": "verb",
+  "pron": "with-DRAW",
+  "example": "You can withdraw money from the ATM.",
+  "exampleTamil": "ATM-இல் இருந்து நீங்கள் பணம் எடுக்கலாம்.",
+  "synonyms": [
+   "take out",
+   "draw"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "loan",
+  "tamil": "கடன்",
+  "pos": "noun",
+  "pron": "LOHN",
+  "example": "They took a loan to buy the house.",
+  "exampleTamil": "அவர்கள் வீடு வாங்க கடன் வாங்கினார்கள்.",
+  "synonyms": [
+   "credit",
+   "advance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "borrow",
+  "tamil": "கடன் வாங்கு",
+  "pos": "verb",
+  "pron": "BOR-oh",
+  "example": "Can I borrow your umbrella for an hour?",
+  "exampleTamil": "உங்கள் குடையை ஒரு மணி நேரம் கடனாக வாங்கலாமா?",
+  "synonyms": [
+   "take on loan"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lend",
+  "tamil": "கடன் கொடு",
+  "pos": "verb",
+  "pron": "LEND",
+  "example": "Could you lend me fifty rupees?",
+  "exampleTamil": "எனக்கு ஐம்பது ரூபாய் கடனாகக் கொடுக்க முடியுமா?",
+  "synonyms": [
+   "loan"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "owe",
+  "tamil": "கடன்பட்டிரு",
+  "pos": "verb",
+  "pron": "OH",
+  "example": "I owe my brother some money.",
+  "exampleTamil": "நான் என் அண்ணனுக்கு கொஞ்சம் பணம் தர வேண்டியிருக்கிறது.",
+  "synonyms": [
+   "be in debt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "afford",
+  "tamil": "வாங்கும் வசதி இரு",
+  "pos": "verb",
+  "pron": "uh-FORD",
+  "example": "We cannot afford a new car yet.",
+  "exampleTamil": "எங்களால் இன்னும் புதிய கார் வாங்க முடியாது.",
+  "synonyms": [
+   "manage",
+   "have enough for"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rent",
+  "tamil": "வாடகை",
+  "pos": "noun",
+  "pron": "RENT",
+  "example": "The monthly rent is paid on the first.",
+  "exampleTamil": "மாத வாடகை முதல் தேதியில் செலுத்தப்படுகிறது.",
+  "synonyms": [
+   "lease"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "landlord",
+  "tamil": "வீட்டு உரிமையாளர்",
+  "pos": "noun",
+  "pron": "LAND-lord",
+  "example": "The landlord is coming to check the pipes.",
+  "exampleTamil": "வீட்டு உரிமையாளர் குழாய்களைப் பார்க்க வருகிறார்.",
+  "synonyms": [
+   "house owner"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tenant",
+  "tamil": "வாடகைதாரர்",
+  "pos": "noun",
+  "pron": "TEN-unt",
+  "example": "The new tenant moved in yesterday.",
+  "exampleTamil": "புதிய வாடகைதாரர் நேற்று குடிவந்தார்.",
+  "synonyms": [
+   "renter",
+   "lodger"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "electricity",
+  "tamil": "மின்சாரம்",
+  "pos": "noun",
+  "pron": "ih-lek-TRIS-ih-tee",
+  "example": "The electricity went off during the storm.",
+  "exampleTamil": "புயலின்போது மின்சாரம் போய்விட்டது.",
+  "synonyms": [
+   "power"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "headache",
+  "tamil": "தலைவலி",
+  "pos": "noun",
+  "pron": "HED-ayk",
+  "example": "I have a headache since morning.",
+  "exampleTamil": "காலையிலிருந்து எனக்குத் தலைவலி.",
+  "synonyms": [
+   "migraine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stomach",
+  "tamil": "வயிறு",
+  "pos": "noun",
+  "pron": "STUM-uk",
+  "example": "My stomach hurts after eating street food.",
+  "exampleTamil": "தெருவோர உணவு சாப்பிட்டபின் என் வயிறு வலிக்கிறது.",
+  "synonyms": [
+   "belly",
+   "tummy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fever",
+  "tamil": "காய்ச்சல்",
+  "pos": "noun",
+  "pron": "FEE-vur",
+  "example": "The child has a high fever tonight.",
+  "exampleTamil": "குழந்தைக்கு இன்றிரவு அதிகக் காய்ச்சல் இருக்கிறது.",
+  "synonyms": [
+   "temperature"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cough",
+  "tamil": "இருமல்",
+  "pos": "noun",
+  "pron": "KOF",
+  "example": "This cough has not gone away for a week.",
+  "exampleTamil": "இந்த இருமல் ஒரு வாரமாகப் போகவில்லை.",
+  "synonyms": [
+   "hack"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cold",
+  "tamil": "சளி, ஜலதோஷம்",
+  "pos": "noun",
+  "pron": "KOHLD",
+  "example": "I caught a cold in the rain.",
+  "exampleTamil": "நான் மழையில் நனைந்து சளி பிடித்துக்கொண்டேன்.",
+  "synonyms": [
+   "flu",
+   "sniffle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sneeze",
+  "tamil": "தும்மு",
+  "pos": "verb",
+  "pron": "SNEEZ",
+  "example": "Dust makes me sneeze all the time.",
+  "exampleTamil": "தூசி என்னை எப்போதும் தும்ம வைக்கிறது.",
+  "synonyms": [
+   "achoo"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rash",
+  "tamil": "தோல் அரிப்பு, தடிப்பு",
+  "pos": "noun",
+  "pron": "RASH",
+  "example": "He got a rash on his arm.",
+  "exampleTamil": "அவன் கையில் தோல் தடிப்பு வந்தது.",
+  "synonyms": [
+   "skin irritation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cramp",
+  "tamil": "தசைப்பிடிப்பு",
+  "pos": "noun",
+  "pron": "KRAMP",
+  "example": "I got a cramp in my leg while swimming.",
+  "exampleTamil": "நீந்தும்போது என் காலில் தசைப்பிடிப்பு ஏற்பட்டது.",
+  "synonyms": [
+   "spasm"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "allergy",
+  "tamil": "ஒவ்வாமை",
+  "pos": "noun",
+  "pron": "AL-ur-jee",
+  "example": "She has an allergy to peanuts.",
+  "exampleTamil": "அவளுக்கு வேர்க்கடலை ஒவ்வாமை உள்ளது.",
+  "synonyms": [
+   "sensitivity"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "medicine",
+  "tamil": "மருந்து",
+  "pos": "noun",
+  "pron": "MED-ih-sin",
+  "example": "Take this medicine after food.",
+  "exampleTamil": "இந்த மருந்தை சாப்பிட்ட பிறகு எடுத்துக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "drug",
+   "tablet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tablet",
+  "tamil": "மாத்திரை",
+  "pos": "noun",
+  "pron": "TAB-lit",
+  "example": "Take one tablet twice a day.",
+  "exampleTamil": "ஒரு நாளைக்கு இரண்டு முறை ஒரு மாத்திரை சாப்பிடுங்கள்.",
+  "synonyms": [
+   "pill"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "syrup",
+  "tamil": "மருந்துப் பாகு, சிரப்",
+  "pos": "noun",
+  "pron": "SIR-up",
+  "example": "The cough syrup tastes very sweet.",
+  "exampleTamil": "இருமல் சிரப் மிகவும் இனிப்பாக இருக்கிறது.",
+  "synonyms": [
+   "liquid medicine"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ointment",
+  "tamil": "களிம்பு",
+  "pos": "noun",
+  "pron": "OYNT-ment",
+  "example": "Apply the ointment on the burn twice daily.",
+  "exampleTamil": "எரிந்த இடத்தில் தினமும் இரண்டு முறை களிம்பைத் தடவுங்கள்.",
+  "synonyms": [
+   "balm",
+   "cream"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bandage",
+  "tamil": "கட்டுத் துணி",
+  "pos": "noun",
+  "pron": "BAN-dij",
+  "example": "The nurse put a bandage on his knee.",
+  "exampleTamil": "செவிலியர் அவன் முழங்காலில் கட்டுப் போட்டார்.",
+  "synonyms": [
+   "dressing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pharmacy",
+  "tamil": "மருந்துக் கடை",
+  "pos": "noun",
+  "pron": "FAR-muh-see",
+  "example": "The pharmacy is open until midnight.",
+  "exampleTamil": "மருந்துக் கடை நள்ளிரவு வரை திறந்திருக்கும்.",
+  "synonyms": [
+   "chemist"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "prescription",
+  "tamil": "மருந்துச் சீட்டு",
+  "pos": "noun",
+  "pron": "prih-SKRIP-shun",
+  "example": "You need a prescription for this antibiotic.",
+  "exampleTamil": "இந்த நுண்ணுயிர்க் கொல்லிக்கு மருந்துச் சீட்டு வேண்டும்.",
+  "synonyms": [
+   "doctor's note"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dose",
+  "tamil": "மருந்தின் அளவு",
+  "pos": "noun",
+  "pron": "DOHS",
+  "example": "Do not take more than one dose daily.",
+  "exampleTamil": "ஒரு நாளைக்கு ஒரு அளவுக்கு மேல் எடுக்காதீர்கள்.",
+  "synonyms": [
+   "measure",
+   "amount"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nurse",
+  "tamil": "செவிலியர்",
+  "pos": "noun",
+  "pron": "NURS",
+  "example": "The nurse checked my blood pressure.",
+  "exampleTamil": "செவிலியர் என் இரத்த அழுத்தத்தைப் பரிசோதித்தார்.",
+  "synonyms": [
+   "caregiver"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dentist",
+  "tamil": "பல் மருத்துவர்",
+  "pos": "noun",
+  "pron": "DEN-tist",
+  "example": "I have an appointment with the dentist today.",
+  "exampleTamil": "இன்று பல் மருத்துவரிடம் எனக்கு நேரம் வாங்கியிருக்கிறேன்.",
+  "synonyms": [
+   "tooth doctor"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "clinic",
+  "tamil": "கிளினிக், சிறு மருத்துவமனை",
+  "pos": "noun",
+  "pron": "KLIN-ik",
+  "example": "The clinic near my house opens at nine.",
+  "exampleTamil": "என் வீட்டு அருகிலுள்ள கிளினிக் ஒன்பது மணிக்குத் திறக்கும்.",
+  "synonyms": [
+   "medical centre"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "injection",
+  "tamil": "ஊசி",
+  "pos": "noun",
+  "pron": "in-JEK-shun",
+  "example": "The child cried when he got the injection.",
+  "exampleTamil": "ஊசி போட்டபோது குழந்தை அழுதது.",
+  "synonyms": [
+   "shot",
+   "jab"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wound",
+  "tamil": "காயம்",
+  "pos": "noun",
+  "pron": "WOOND",
+  "example": "Wash the wound with clean water.",
+  "exampleTamil": "காயத்தை சுத்தமான தண்ணீரால் கழுவுங்கள்.",
+  "synonyms": [
+   "cut",
+   "injury"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sprain",
+  "tamil": "சுளுக்கு",
+  "pos": "noun",
+  "pron": "SPRAYN",
+  "example": "He has an ankle sprain from football.",
+  "exampleTamil": "கால்பந்து விளையாடியதில் அவனுக்கு கணுக்கால் சுளுக்கு.",
+  "synonyms": [
+   "twist"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "recover",
+  "tamil": "குணமடை",
+  "pos": "verb",
+  "pron": "rih-KUV-ur",
+  "example": "She is recovering well after the surgery.",
+  "exampleTamil": "அறுவை சிகிச்சைக்குப் பிறகு அவள் நன்றாகக் குணமடைந்து வருகிறாள்.",
+  "synonyms": [
+   "heal",
+   "get better"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rest",
+  "tamil": "ஓய்வு",
+  "pos": "noun",
+  "pron": "REST",
+  "example": "The doctor advised him to take complete rest.",
+  "exampleTamil": "மருத்துவர் அவரை முழு ஓய்வு எடுக்கச் சொன்னார்.",
+  "synonyms": [
+   "break",
+   "relaxation"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "exercise",
+  "tamil": "உடற்பயிற்சி",
+  "pos": "noun",
+  "pron": "EK-sur-syz",
+  "example": "Daily exercise keeps you healthy.",
+  "exampleTamil": "தினசரி உடற்பயிற்சி உங்களை ஆரோக்கியமாக வைக்கும்.",
+  "synonyms": [
+   "workout"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "elbow",
+  "tamil": "முழங்கை",
+  "pos": "noun",
+  "pron": "EL-boh",
+  "example": "He hit his elbow on the door.",
+  "exampleTamil": "அவன் முழங்கையை கதவில் இடித்துக்கொண்டான்.",
+  "synonyms": [
+   "joint"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "knee",
+  "tamil": "முழங்கால்",
+  "pos": "noun",
+  "pron": "NEE",
+  "example": "My knee hurts when I climb stairs.",
+  "exampleTamil": "படிகளில் ஏறும்போது என் முழங்கால் வலிக்கிறது.",
+  "synonyms": [
+   "joint"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shoulder",
+  "tamil": "தோள்",
+  "pos": "noun",
+  "pron": "SHOHL-dur",
+  "example": "I have pain in my right shoulder.",
+  "exampleTamil": "எனக்கு வலது தோளில் வலி இருக்கிறது.",
+  "synonyms": [
+   "joint"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ankle",
+  "tamil": "கணுக்கால்",
+  "pos": "noun",
+  "pron": "ANG-kul",
+  "example": "She twisted her ankle on the stairs.",
+  "exampleTamil": "அவள் படிக்கட்டில் கணுக்காலைத் திருகிக்கொண்டாள்.",
+  "synonyms": [
+   "joint"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "throat",
+  "tamil": "தொண்டை",
+  "pos": "noun",
+  "pron": "THROHT",
+  "example": "I have a sore throat this morning.",
+  "exampleTamil": "இன்று காலை எனக்குத் தொண்டை வலிக்கிறது.",
+  "synonyms": [
+   "windpipe"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tongue",
+  "tamil": "நாக்கு",
+  "pos": "noun",
+  "pron": "TUNG",
+  "example": "I burnt my tongue on the hot tea.",
+  "exampleTamil": "சூடான தேநீரில் என் நாக்கை சுட்டுக்கொண்டேன்.",
+  "synonyms": [
+   "taste organ"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "eyebrow",
+  "tamil": "புருவம்",
+  "pos": "noun",
+  "pron": "EYE-brow",
+  "example": "She raised an eyebrow in surprise.",
+  "exampleTamil": "அவள் ஆச்சரியத்தில் புருவத்தை உயர்த்தினாள்.",
+  "synonyms": [
+   "brow"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "drizzle",
+  "tamil": "தூறல்",
+  "pos": "noun",
+  "pron": "DRIZ-ul",
+  "example": "A light drizzle started in the evening.",
+  "exampleTamil": "மாலையில் லேசான தூறல் தொடங்கியது.",
+  "synonyms": [
+   "light rain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "humid",
+  "tamil": "ஈரப்பதமான",
+  "pos": "adjective",
+  "pron": "HYOO-mid",
+  "example": "Chennai is hot and humid in May.",
+  "exampleTamil": "மே மாதத்தில் சென்னை சூடாகவும் ஈரப்பதமாகவும் இருக்கும்.",
+  "synonyms": [
+   "muggy",
+   "damp"
+  ],
+  "level": "intermediate"
+ }
+]

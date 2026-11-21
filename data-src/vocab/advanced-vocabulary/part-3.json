@@ -1,0 +1,362 @@
+[
+ {
+  "word": "adhere",
+  "meaning": "to follow a rule, plan or belief closely",
+  "tamil": "கடைப்பிடி, பின்பற்று",
+  "pos": "verb",
+  "pron": "ad-HEER",
+  "example": "All staff must adhere to the safety rules.",
+  "exampleTamil": "அனைத்து ஊழியர்களும் பாதுகாப்பு விதிகளைக் கடைப்பிடிக்க வேண்டும்.",
+  "synonyms": [
+   "follow",
+   "obey",
+   "comply"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "attribute",
+  "meaning": "to say that something is caused by someone or something",
+  "tamil": "காரணமாகக் கூறு, ஆதாரமாகக் கருது",
+  "pos": "verb",
+  "pron": "uh-TRIB-yoot",
+  "example": "She attributes her success to hard work and good teachers.",
+  "exampleTamil": "தன் வெற்றிக்கு கடின உழைப்பும் நல்ல ஆசிரியர்களும் காரணம் என்று அவள் கூறுகிறாள்.",
+  "synonyms": [
+   "credit",
+   "ascribe",
+   "assign"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "autonomy",
+  "meaning": "the freedom to make your own decisions",
+  "tamil": "சுயாட்சி, சுதந்திரமாக முடிவெடுக்கும் உரிமை",
+  "pos": "noun",
+  "pron": "aw-TON-uh-mee",
+  "example": "Young employees want more autonomy in their work.",
+  "exampleTamil": "இளம் ஊழியர்கள் தங்கள் வேலையில் அதிக சுயாட்சியை விரும்புகிறார்கள்.",
+  "synonyms": [
+   "independence",
+   "freedom",
+   "self-rule"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tenacious",
+  "meaning": "Not giving up easily; very determined.",
+  "tamil": "விடாப்பிடியான, உறுதியுடன் முயல்கிற",
+  "pos": "adjective",
+  "pron": "tuh-NAY-shus",
+  "example": "She is a tenacious worker who never quits.",
+  "exampleTamil": "அவள் ஒருபோதும் விடாத விடாமுயற்சியுள்ள தொழிலாளி.",
+  "synonyms": [
+   "determined",
+   "persistent",
+   "stubborn"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "catalyst",
+  "meaning": "a person or event that causes change",
+  "tamil": "மாற்றத்தைத் தூண்டும் காரணி",
+  "pos": "noun",
+  "pron": "KAT-uh-list",
+  "example": "The lockdown was a catalyst for online learning.",
+  "exampleTamil": "ஊரடங்கு ஆன்லைன் கல்விக்கு ஒரு தூண்டுகோலாக அமைந்தது.",
+  "synonyms": [
+   "trigger",
+   "spark",
+   "stimulus"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "compelling",
+  "meaning": "so strong or interesting that you must pay attention",
+  "tamil": "வலுவான, கவர்ந்திழுக்கும்",
+  "pos": "adjective",
+  "pron": "kum-PEL-ing",
+  "example": "She gave a compelling speech about saving water.",
+  "exampleTamil": "தண்ணீரைச் சேமிப்பது பற்றி அவள் வலுவான, கவர்ச்சிகரமான உரையாற்றினாள்.",
+  "synonyms": [
+   "convincing",
+   "powerful",
+   "gripping"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "compile",
+  "meaning": "to collect information and put it together in one place",
+  "tamil": "தொகுத்து உருவாக்கு",
+  "pos": "verb",
+  "pron": "kum-PYL",
+  "example": "I compiled a list of useful words for the exam.",
+  "exampleTamil": "தேர்வுக்கான பயனுள்ள சொற்களின் பட்டியலை நான் தொகுத்தேன்.",
+  "synonyms": [
+   "collect",
+   "gather",
+   "assemble"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "contemplate",
+  "meaning": "to think seriously about doing something",
+  "tamil": "ஆழ்ந்து சிந்தி, பரிசீலி",
+  "pos": "verb",
+  "pron": "KON-tum-playt",
+  "example": "He is contemplating a move to another city.",
+  "exampleTamil": "அவன் வேறு நகரத்துக்கு மாறுவது பற்றி தீவிரமாக யோசிக்கிறான்.",
+  "synonyms": [
+   "consider",
+   "think about",
+   "weigh"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "contradict",
+  "meaning": "to say the opposite of what someone else said",
+  "tamil": "முரண்படு, மறுத்துப் பேசு",
+  "pos": "verb",
+  "pron": "kon-truh-DIKT",
+  "example": "Your second answer contradicts your first one.",
+  "exampleTamil": "உன் இரண்டாவது பதில் முதல் பதிலுக்கு முரணாக உள்ளது.",
+  "synonyms": [
+   "deny",
+   "oppose",
+   "conflict with"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cumulative",
+  "meaning": "growing bigger as more is added over time",
+  "tamil": "படிப்படியாகக் கூடும், திரள்",
+  "pos": "adjective",
+  "pron": "KYOO-myuh-luh-tiv",
+  "example": "The cumulative effect of small savings can be huge.",
+  "exampleTamil": "சிறு சேமிப்புகளின் ஒட்டுமொத்த விளைவு மிகப் பெரியதாக இருக்கலாம்.",
+  "synonyms": [
+   "increasing",
+   "total",
+   "growing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "curb",
+  "meaning": "to control or limit something harmful",
+  "tamil": "கட்டுப்படுத்து, குறை",
+  "pos": "verb",
+  "pron": "KERB",
+  "example": "We must curb our spending this month.",
+  "exampleTamil": "இந்த மாதம் நம் செலவுகளைக் கட்டுப்படுத்த வேண்டும்.",
+  "synonyms": [
+   "limit",
+   "restrict",
+   "reduce"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dilemma",
+  "meaning": "a difficult choice between two options",
+  "tamil": "இக்கட்டான நிலை, தேர்வுச் சிக்கல்",
+  "pos": "noun",
+  "pron": "dih-LEM-uh",
+  "example": "I am in a dilemma about which offer to accept.",
+  "exampleTamil": "எந்த வாய்ப்பை ஏற்பது என்ற இக்கட்டில் நான் இருக்கிறேன்.",
+  "synonyms": [
+   "predicament",
+   "quandary",
+   "problem"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "diminish",
+  "meaning": "to become smaller or less, or to make something so",
+  "tamil": "குறை, சிறுமைப்படுத்து",
+  "pos": "verb",
+  "pron": "dih-MIN-ish",
+  "example": "Regular practice will diminish your fear of speaking.",
+  "exampleTamil": "தொடர்ந்த பயிற்சி பேசுவதற்கான உன் பயத்தைக் குறைக்கும்.",
+  "synonyms": [
+   "reduce",
+   "decrease",
+   "lessen"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "discern",
+  "meaning": "to notice or recognize something that is hard to see",
+  "tamil": "பகுத்தறி, கண்டறி",
+  "pos": "verb",
+  "pron": "dih-SERN",
+  "example": "It is hard to discern the truth from rumours.",
+  "exampleTamil": "வதந்திகளிலிருந்து உண்மையைப் பகுத்தறிவது கடினம்.",
+  "synonyms": [
+   "detect",
+   "recognize",
+   "notice"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "disparity",
+  "meaning": "a big and unfair difference between things",
+  "tamil": "பெரிய ஏற்றத்தாழ்வு",
+  "pos": "noun",
+  "pron": "dih-SPAR-uh-tee",
+  "example": "There is a big disparity between city and village schools.",
+  "exampleTamil": "நகரப் பள்ளிகளுக்கும் கிராமப் பள்ளிகளுக்கும் இடையே பெரிய ஏற்றத்தாழ்வு உள்ளது.",
+  "synonyms": [
+   "gap",
+   "inequality",
+   "imbalance"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lucid",
+  "meaning": "Clear and easy to understand.",
+  "tamil": "தெளிவான, எளிதில் புரியக்கூடிய",
+  "pos": "adjective",
+  "pron": "LOO-sid",
+  "example": "His lucid explanation made the topic easy for everyone.",
+  "exampleTamil": "அவரது தெளிவான விளக்கம் அந்த தலைப்பை அனைவருக்கும் எளிதாக்கியது.",
+  "synonyms": [
+   "clear",
+   "coherent",
+   "plain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "empirical",
+  "meaning": "based on real experience or tests, not just theory",
+  "tamil": "அனுபவ ஆதாரமுள்ள",
+  "pos": "adjective",
+  "pron": "em-PIR-ih-kul",
+  "example": "We need empirical evidence, not just opinions.",
+  "exampleTamil": "நமக்கு வெறும் கருத்துகள் அல்ல, அனுபவ ஆதாரம் வேண்டும்.",
+  "synonyms": [
+   "observed",
+   "practical",
+   "experimental"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "equivalent",
+  "meaning": "equal in value, meaning or effect",
+  "tamil": "சமமான, இணையான",
+  "pos": "adjective",
+  "pron": "ih-KWIV-uh-lunt",
+  "example": "One kilometre is roughly equivalent to 0.6 miles.",
+  "exampleTamil": "ஒரு கிலோமீட்டர் தோராயமாக 0.6 மைலுக்குச் சமம்.",
+  "synonyms": [
+   "equal",
+   "same",
+   "comparable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "explicit",
+  "meaning": "stated clearly and directly",
+  "tamil": "தெளிவாகக் கூறப்பட்ட, வெளிப்படையான",
+  "pos": "adjective",
+  "pron": "ik-SPLIS-it",
+  "example": "The teacher gave explicit instructions for the project.",
+  "exampleTamil": "ஆசிரியர் திட்டத்திற்கு தெளிவான வழிமுறைகளைக் கொடுத்தார்.",
+  "synonyms": [
+   "clear",
+   "direct",
+   "specific"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "facilitate",
+  "meaning": "to make a process easier or help it happen",
+  "tamil": "எளிதாக்கு, உதவு",
+  "pos": "verb",
+  "pron": "fuh-SIL-uh-tayt",
+  "example": "Good apps can facilitate language learning.",
+  "exampleTamil": "நல்ல செயலிகள் மொழி கற்றலை எளிதாக்க முடியும்.",
+  "synonyms": [
+   "help",
+   "ease",
+   "enable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "formidable",
+  "meaning": "scary or hard to deal with because of great strength",
+  "tamil": "அஞ்சத்தக்க, சமாளிக்கக் கடினமான",
+  "pos": "adjective",
+  "pron": "FOR-mid-uh-bul",
+  "example": "Our team faces a formidable opponent in the final.",
+  "exampleTamil": "இறுதிப் போட்டியில் நம் அணி வலிமையான எதிரியை எதிர்கொள்கிறது.",
+  "synonyms": [
+   "powerful",
+   "daunting",
+   "tough"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "foster",
+  "meaning": "to help something grow or develop",
+  "tamil": "வளர்த்தெடு, ஊக்குவி",
+  "pos": "verb",
+  "pron": "FOS-ter",
+  "example": "Good teachers foster a love of reading in children.",
+  "exampleTamil": "நல்ல ஆசிரியர்கள் குழந்தைகளிடம் படிக்கும் ஆர்வத்தை வளர்க்கிறார்கள்.",
+  "synonyms": [
+   "encourage",
+   "promote",
+   "nurture"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hinder",
+  "meaning": "to make something slow or difficult",
+  "tamil": "தடை செய், தாமதப்படுத்து",
+  "pos": "verb",
+  "pron": "HIN-der",
+  "example": "Heavy rain hindered our travel plans.",
+  "exampleTamil": "கனமழை எங்கள் பயணத் திட்டங்களுக்குத் தடையாக இருந்தது.",
+  "synonyms": [
+   "obstruct",
+   "delay",
+   "hamper"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "imminent",
+  "meaning": "about to happen very soon",
+  "tamil": "உடனடியாக நிகழவிருக்கும்",
+  "pos": "adjective",
+  "pron": "IM-uh-nunt",
+  "example": "The weather office says heavy rain is imminent.",
+  "exampleTamil": "கனமழை விரைவில் வரவிருப்பதாக வானிலை அலுவலகம் கூறுகிறது.",
+  "synonyms": [
+   "impending",
+   "approaching",
+   "near"
+  ],
+  "level": "advanced"
+ }
+]

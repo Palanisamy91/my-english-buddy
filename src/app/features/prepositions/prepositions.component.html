@@ -1,0 +1,78 @@
+    <section class="wrap">
+      <header class="hero">
+        <span class="eyebrow">GRAMMAR PRACTICE</span>
+        <h1>Prepositions</h1>
+        <p>Learn prepositions with Tamil meanings, examples and interactive practice.</p>
+        <div class="stats">
+          <span><b>{{ all().length }}</b> example sentences</span>
+          <span><b>{{ allWords().length }}</b> prepositions / phrases</span>
+          <span><b>{{ score() }}</b> correct answers</span>
+        </div>
+      </header>
+
+      <nav class="tabs" aria-label="Preposition sections">
+        <button type="button" [class.active]="section()==='practice'" (click)="section.set('practice')">Practice</button>
+        <button type="button" [class.active]="section()==='words'" (click)="section.set('words')">Preposition list</button>
+      </nav>
+
+      @if (loading()) { <p class="muted">Loading preposition practice…</p> }
+      @if (error()) { <div class="error">{{ error() }}</div> }
+
+      @if (!loading() && !error() && section()==='practice' && items().length) {
+        <div class="filters">
+          <label for="prep-search">Search or practise a specific preposition</label>
+          <input id="prep-search" [ngModel]="search()" (ngModelChange)="search.set($event); resetQuestion()" placeholder="Search: in, at, because of…" autocomplete="off">
+          <div class="suggestions">
+            @for (word of suggestions(); track word.word) {
+              <button type="button" (click)="chooseWord(word.word)">{{ word.word }} · {{ word.tamil }}</button>
+            }
+          </div>
+        </div>
+
+        <article class="practice-card">
+          <div class="topline"><span class="level">{{ current().level }}</span><span class="counter">Question {{ index()+1 }} / {{ items().length }}</span></div>
+          <p class="instruction">Choose the correct preposition to complete the sentence.</p>
+          <h2>{{ questionText() }}</h2>
+          <div class="choices">
+            @for (choice of choices(); track choice) {
+              <button type="button" [disabled]="answered()" [class.correct]="answered() && choice===current().word" [class.wrong]="answered() && selected()===choice && choice!==current().word" (click)="answer(choice)">{{ choice }}</button>
+            }
+          </div>
+          @if (answered()) {
+            <div class="feedback" [class.good]="selected()===current().word" [class.bad]="selected()!==current().word">
+              <b>{{ selected()===current().word ? 'Correct! நன்று!' : 'Not quite. சரியான பதில்:' }} {{ current().word }}</b>
+              <p>{{ current().tamil }}</p>
+              <p>{{ current().example }}</p>
+              <p class="muted">{{ current().exampleTamil }}</p>
+            </div>
+          }
+          <div class="actions">
+            <button type="button" class="secondary" (click)="showHint.set(!showHint())">{{ showHint() ? 'Hide meaning' : 'Show Tamil meaning' }}</button>
+            <button type="button" class="next" [disabled]="!answered()" (click)="next()">Next question →</button>
+          </div>
+          @if (showHint()) { <p class="hint">Meaning: <b>{{ current().tamil }}</b></p> }
+        </article>
+        <div class="progress-track"><div class="progress-fill" [style.width.%]="progress()"></div></div>
+        <p class="progress-label">{{ answeredCount() }} questions answered in this session</p>
+      }
+
+      @if (!loading() && !error() && section()==='practice' && !items().length) {
+        <div class="error">No matching preposition found. Try another word or Tamil meaning.</div>
+      }
+
+      @if (!loading() && !error() && section()==='words') {
+        <div class="filters">
+          <label for="word-search">Search prepositions</label>
+          <input id="word-search" [ngModel]="search()" (ngModelChange)="search.set($event)" placeholder="Type an English word or Tamil meaning…" autocomplete="off">
+        </div>
+        <div class="word-grid">
+          @for (item of filteredWords(); track item.word) {
+            <button type="button" (click)="chooseWord(item.word); section.set('practice')">
+              <b>{{ item.word }}</b><small>{{ item.tamil }}</small><span>{{ item.group }} · {{ item.level }}</span>
+            </button>
+          }
+        </div>
+        @if (!filteredWords().length) { <p class="muted">No matching prepositions found.</p> }
+      }
+    </section>
+  

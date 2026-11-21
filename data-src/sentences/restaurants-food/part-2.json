@@ -1,0 +1,256 @@
+[
+ {
+  "en": "Is the service charge already included in the bill?",
+  "tamil": "சர்வீஸ் சார்ஜ் பில்லுலயே சேர்ந்திருக்கா?",
+  "context": "Checking the final amount.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Already included' means it is part of the amount. Use 'Is' with a singular noun.",
+  "words": [
+   "service",
+   "included"
+  ]
+ },
+ {
+  "en": "I'll pay by card.",
+  "tamil": "நான் கார்டு மூலமா பணம் கட்டுறேன்.",
+  "context": "Telling the cashier how you will pay.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Pay by' is followed by the method, like card or cash. 'I'll' shows a quick decision.",
+  "words": [
+   "card"
+  ]
+ },
+ {
+  "en": "Please keep the change.",
+  "tamil": "மீதி சில்லறையை வச்சுக்கோங்க.",
+  "context": "Leaving a small tip for the waiter.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Keep the change' is a friendly way to give a tip.",
+  "words": [
+   "change"
+  ]
+ },
+ {
+  "en": "The food was delicious, thank you.",
+  "tamil": "சாப்பாடு ரொம்ப ருசியா இருந்துச்சு, நன்றி.",
+  "context": "Thanking the staff when you leave.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was' is the past of 'is'. Add 'thank you' to be polite.",
+  "words": [
+   "delicious"
+  ],
+  "alt": {
+   "en": "Everything was lovely, thank you.",
+   "tamil": "எல்லாமே நல்லா இருந்துச்சு, நன்றி."
+  }
+ },
+ {
+  "en": "We waited for forty minutes for our food.",
+  "tamil": "எங்க சாப்பாட்டுக்காக நாப்பது நிமிஷம் காத்திருந்தோம்.",
+  "context": "Complaining about slow service.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Waited for' is used with the thing you wait for. 'Waited' is past tense.",
+  "words": [
+   "waited",
+   "minutes"
+  ]
+ },
+ {
+  "en": "I didn't order this dish.",
+  "tamil": "நான் இந்த டிஷ் ஆர்டர் பண்ணல.",
+  "context": "When the wrong item arrives.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Didn't' plus the base verb makes a past negative.",
+  "words": [
+   "order",
+   "dish"
+  ]
+ },
+ {
+  "en": "Could you pack the rest for takeaway?",
+  "tamil": "மீதியை பார்சல் பண்ணி கொடுக்க முடியுமா?",
+  "context": "Taking leftover food home.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Pack' means to put in a box or bag. 'The rest' means the remaining food.",
+  "words": [
+   "pack",
+   "takeaway"
+  ]
+ },
+ {
+  "en": "I'm going to try the chicken curry today.",
+  "tamil": "நான் இன்னைக்கு சிக்கன் கறி சாப்பிட்டு பார்க்கப் போறேன்.",
+  "context": "Deciding what to eat.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' shows a plan you have decided. 'Try' means to taste something new.",
+  "words": [
+   "try",
+   "curry"
+  ]
+ },
+ {
+  "en": "Have you ever eaten at this restaurant?",
+  "tamil": "நீங்க இந்த ரெஸ்டாரன்ட்ல என்னைக்காவது சாப்பிட்டிருக்கீங்களா?",
+  "context": "Asking a friend about their experience.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you ever' asks about experience in your life. 'Eaten' is the past participle of 'eat'.",
+  "words": [
+   "restaurant",
+   "eaten"
+  ]
+ },
+ {
+  "en": "I've already eaten, so I'll just have tea.",
+  "tamil": "நான் ஏற்கனவே சாப்பிட்டுட்டேன், அதனால டீ மட்டும் குடிப்பேன்.",
+  "context": "Joining friends at a restaurant when not hungry.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Already' goes between 'have' and the past participle.",
+  "words": [
+   "already",
+   "tea"
+  ]
+ },
+ {
+  "en": "What time does the kitchen close?",
+  "tamil": "கிச்சன் எத்தனை மணிக்கு மூடுவாங்க?",
+  "context": "Checking if you can still order.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Use 'does' with 'he/she/it' subjects in questions. The verb stays in base form.",
+  "words": [
+   "kitchen",
+   "close"
+  ]
+ },
+ {
+  "en": "I would like to cancel my reservation for tonight.",
+  "tamil": "இன்னைக்கு ராத்திரிக்கான என் ரிசர்வேஷனை கேன்சல் பண்ணணும்.",
+  "context": "Calling the restaurant to cancel.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I would like to' is a polite way to say what you want.",
+  "words": [
+   "cancel",
+   "reservation"
+  ]
+ },
+ {
+  "en": "Can I change my booking to Saturday evening?",
+  "tamil": "என் புக்கிங்கை சனிக்கிழமை சாயங்காலத்துக்கு மாத்தலாமா?",
+  "context": "Calling to move your table.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Change to' tells the new time. 'Can I' asks for permission.",
+  "words": [
+   "change",
+   "booking"
+  ]
+ },
+ {
+  "en": "My mother makes the best sambar.",
+  "tamil": "எங்கம்மா சாம்பார் பிரமாதமா வைப்பாங்க.",
+  "context": "Talking about home cooking with friends.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'The best' is the top level. Use present simple for general facts.",
+  "words": [
+   "mother",
+   "sambar"
+  ]
+ },
+ {
+  "en": "I cook rice and dal almost every day.",
+  "tamil": "நான் கிட்டத்தட்ட தினமும் சாதமும் பருப்பும் சமைப்பேன்.",
+  "context": "Describing your cooking habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Present simple shows habits. 'Almost every day' means very often.",
+  "words": [
+   "cook",
+   "dal"
+  ]
+ },
+ {
+  "en": "I was cooking dinner when you called.",
+  "tamil": "நீங்க கூப்பிட்டப்போ நான் ராத்திரி சாப்பாடு சமைச்சுக்கிட்டு இருந்தேன்.",
+  "context": "Explaining why you missed a call.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Use 'was cooking' for a longer action and 'called' for the short action that interrupted it.",
+  "words": [
+   "cooking",
+   "dinner"
+  ]
+ },
+ {
+  "en": "Add a little salt and stir well.",
+  "tamil": "கொஞ்சம் உப்பு போட்டு நல்லா கிளறுங்க.",
+  "context": "Giving a simple cooking instruction.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Recipes use the base verb for instructions. 'A little' means a small amount.",
+  "words": [
+   "salt",
+   "stir"
+  ]
+ },
+ {
+  "en": "Let the onions turn golden before you add the tomatoes.",
+  "tamil": "தக்காளி போடுறதுக்கு முன்னாடி வெங்காயம் பொன்னிறமா ஆகட்டும்.",
+  "context": "Explaining a cooking step.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let' plus an object and base verb gives an instruction. 'Before' links two steps.",
+  "words": [
+   "onions",
+   "golden",
+   "tomatoes"
+  ]
+ },
+ {
+  "en": "She is making chapatis in the kitchen right now.",
+  "tamil": "அவங்க இப்போ கிச்சன்ல சப்பாத்தி செஞ்சுக்கிட்டு இருக்காங்க.",
+  "context": "Saying what someone is doing at this moment.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is making' shows an action in progress. 'Right now' stresses the moment.",
+  "words": [
+   "making",
+   "chapatis"
+  ]
+ },
+ {
+  "en": "I never put sugar in my coffee.",
+  "tamil": "நான் காபியில சர்க்கரை போடவே மாட்டேன்.",
+  "context": "Telling how you take your drink.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' goes before the main verb and means not at any time.",
+  "words": [
+   "sugar",
+   "coffee"
+  ]
+ },
+ {
+  "en": "We'll cook something simple tonight.",
+  "tamil": "இன்னைக்கு ராத்திரி எளிமையா ஏதாவது சமைப்போம்.",
+  "context": "Planning dinner at home.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'We'll' is short for 'we will'. 'Something simple' means an easy meal.",
+  "words": [
+   "cook",
+   "simple"
+  ]
+ }
+]

@@ -1,0 +1,287 @@
+[
+ {
+  "en": "Are you free this Saturday evening?",
+  "tamil": "இந்த சனிக்கிழமை சாயங்காலம் நீ ஃப்ரீயா?",
+  "context": "Asking a friend if they can meet.",
+  "tense": "present",
+  "type": "question",
+  "explain": "We use 'Are you free' to ask if someone has time. It is a polite, easy way to start making plans.",
+  "words": [
+   "free",
+   "evening"
+  ],
+  "alt": {
+   "en": "Do you have time this Saturday?",
+   "tamil": "இந்த சனிக்கிழமை உனக்கு நேரம் இருக்கா?"
+  }
+ },
+ {
+  "en": "Let's meet at the bus stand at five.",
+  "tamil": "அஞ்சு மணிக்கு பஸ் ஸ்டாண்ட்ல சந்திக்கலாம்.",
+  "context": "Fixing a time and place with a friend.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Let's' + base verb is used to suggest a plan together. Add the place and time after it.",
+  "words": [
+   "meet",
+   "stand"
+  ]
+ },
+ {
+  "en": "I haven't seen you for ages!",
+  "tamil": "உன்னைப் பார்த்து ரொம்ப நாளாச்சு!",
+  "context": "Meeting an old friend after a long time.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Haven't seen' with 'for ages' means a very long time without meeting. It sounds warm and friendly.",
+  "words": [
+   "seen",
+   "ages"
+  ],
+  "alt": {
+   "en": "It's been so long since we met!",
+   "tamil": "நாம சந்திச்சு ரொம்ப நாளாச்சு!"
+  }
+ },
+ {
+  "en": "Can you help me move this table?",
+  "tamil": "இந்த மேசையை நகர்த்த எனக்கு உதவ முடியுமா?",
+  "context": "Asking a neighbour or friend for physical help.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can you' + verb is a simple way to ask for help. Say please to be extra polite.",
+  "words": [
+   "help",
+   "move",
+   "table"
+  ]
+ },
+ {
+  "en": "Thanks for helping me with my project.",
+  "tamil": "என் ப்ராஜெக்ட்ல உதவினதுக்கு நன்றி.",
+  "context": "Thanking a friend after they helped.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "After 'thanks for' we use the -ing form of the verb. It shows you are grateful.",
+  "words": [
+   "thanks",
+   "helping",
+   "project"
+  ]
+ },
+ {
+  "en": "I'm really sorry I forgot your birthday.",
+  "tamil": "உன் பிறந்தநாளை மறந்ததுக்கு நான் உண்மையிலேயே வருந்துறேன்.",
+  "context": "Apologising to a friend for a mistake.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Really sorry' makes the apology stronger. Then say what you did in the past tense.",
+  "words": [
+   "sorry",
+   "forgot",
+   "birthday"
+  ],
+  "alt": {
+   "en": "Sorry, I missed your birthday.",
+   "tamil": "மன்னிச்சிடு, உன் பிறந்தநாளை மறந்துட்டேன்."
+  }
+ },
+ {
+  "en": "I didn't mean to hurt you.",
+  "tamil": "உன்னைக் காயப்படுத்தணும்னு நான் நினைக்கல.",
+  "context": "Apologising after saying something unkind.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Didn't mean to' + verb says it was not on purpose. It is a gentle way to say sorry.",
+  "words": [
+   "mean",
+   "hurt"
+  ]
+ },
+ {
+  "en": "Please forgive me, it was my mistake.",
+  "tamil": "தயவுசெய்து மன்னிச்சிடு, அது என் தப்பு.",
+  "context": "A sincere apology when you are at fault.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please forgive me' is a polite request for pardon. Admitting 'my mistake' shows honesty.",
+  "words": [
+   "forgive",
+   "mistake"
+  ]
+ },
+ {
+  "en": "We're having a small get-together at home tomorrow.",
+  "tamil": "நாளைக்கு வீட்டுல ஒரு சின்ன கெட்-டுகெதர் இருக்கு.",
+  "context": "Inviting friends to a small party.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "We use the present continuous for a fixed plan in the near future. 'Tomorrow' makes the time clear.",
+  "words": [
+   "together",
+   "tomorrow"
+  ]
+ },
+ {
+  "en": "Would you like to join us for lunch?",
+  "tamil": "எங்களோட மதிய சாப்பாட்டுக்கு வர விருப்பமா?",
+  "context": "Inviting a colleague or friend to eat with you.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like to' is a polite way to invite someone. Use it with people you do not know well.",
+  "words": [
+   "join",
+   "lunch"
+  ],
+  "alt": {
+   "en": "Come and have lunch with us.",
+   "tamil": "எங்களோட வந்து சாப்பிடு."
+  }
+ },
+ {
+  "en": "I'll definitely come to your wedding.",
+  "tamil": "உன் கல்யாணத்துக்கு நிச்சயமா வருவேன்.",
+  "context": "Accepting an invitation with enthusiasm.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll' shows a promise or decision. 'Definitely' tells the person you are sure.",
+  "words": [
+   "definitely",
+   "wedding"
+  ]
+ },
+ {
+  "en": "Sorry, I can't make it tonight.",
+  "tamil": "மன்னிச்சிடு, இன்னிக்கு ராத்திரி என்னால வர முடியாது.",
+  "context": "Politely refusing an invitation.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Can't make it' is a common spoken way to say you cannot attend. Say sorry first to stay polite.",
+  "words": [
+   "sorry",
+   "tonight"
+  ]
+ },
+ {
+  "en": "What should I do about my noisy neighbour?",
+  "tamil": "என் சத்தம் போடுற பக்கத்து வீட்டுக்காரரை என்ன பண்றது?",
+  "context": "Asking a friend for advice about a problem.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'What should I do' asks for advice. It is a very natural question between friends.",
+  "words": [
+   "should",
+   "noisy",
+   "neighbour"
+  ]
+ },
+ {
+  "en": "You should talk to him calmly.",
+  "tamil": "நீ அவன்கிட்ட அமைதியா பேசணும்.",
+  "context": "Giving advice to a friend.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' + verb gives friendly advice. 'Calmly' tells how to do it.",
+  "words": [
+   "should",
+   "talk",
+   "calmly"
+  ]
+ },
+ {
+  "en": "Don't stress, everything will be fine.",
+  "tamil": "டென்ஷன் ஆகாதே, எல்லாம் சரியாயிடும்.",
+  "context": "Comforting a friend who is stressed.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Don't worry' is an imperative that comforts. 'Will be' shows hope for the future.",
+  "words": [
+   "stress",
+   "fine"
+  ],
+  "alt": {
+   "en": "Relax, it will all work out.",
+   "tamil": "ரிலாக்ஸ், எல்லாம் நல்லபடியா முடியும்."
+  }
+ },
+ {
+  "en": "If I were you, I would ask her directly.",
+  "tamil": "நான் உன் இடத்துல இருந்தா, அவகிட்ட நேரடியா கேப்பேன்.",
+  "context": "Giving advice in a gentle way.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'If I were you' is a polite pattern for advice. It uses 'would' + base verb.",
+  "words": [
+   "directly",
+   "would"
+  ]
+ },
+ {
+  "en": "My colleague Ravi has become a close friend.",
+  "tamil": "என் கூட வேலை செய்யுற ரவி இப்போ நெருக்கமான நண்பனாயிட்டான்.",
+  "context": "Talking about a coworker who became a friend.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has become' links the past change to now. 'Colleague' means a person you work with.",
+  "words": [
+   "colleague",
+   "become",
+   "close"
+  ]
+ },
+ {
+  "en": "We used to sit together in the canteen.",
+  "tamil": "நாங்க கேண்டீன்ல சேர்ந்து உட்காருவோம்.",
+  "context": "Remembering old office days with a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Used to' + verb talks about a past habit that has stopped. It is common in friendly chats.",
+  "words": [
+   "used",
+   "together",
+   "canteen"
+  ]
+ },
+ {
+  "en": "Do you want to grab a tea after work?",
+  "tamil": "வேலை முடிஞ்சதும் டீ குடிக்கலாமா?",
+  "context": "Inviting a colleague for tea.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Grab a tea' is casual spoken English for 'have a quick tea'. It sounds friendly and relaxed.",
+  "words": [
+   "grab",
+   "tea",
+   "work"
+  ],
+  "alt": {
+   "en": "Shall we have tea after office?",
+   "tamil": "ஆபீஸ் முடிஞ்சதும் டீ குடிக்கலாமா?"
+  }
+ },
+ {
+  "en": "My neighbour always waters our plants when we travel.",
+  "tamil": "நாங்க வெளியூர் போகும்போது எங்க பக்கத்து வீட்டுக்காரர் எப்பவும் செடிகளுக்குத் தண்ணி ஊத்துவார்.",
+  "context": "Describing a helpful neighbour.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "We use the simple present with 'always' for a regular habit. 'When we travel' tells the time.",
+  "words": [
+   "neighbour",
+   "always",
+   "plants"
+  ]
+ },
+ {
+  "en": "Could you keep an eye on my house while I'm away?",
+  "tamil": "நான் ஊர்ல இல்லாதப்ப என் வீட்டைக் கொஞ்சம் கவனிச்சுக்க முடியுமா?",
+  "context": "Asking a neighbour for a small favour.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Keep an eye on' means watch something carefully. 'Could you' is a polite request.",
+  "words": [
+   "keep",
+   "house"
+  ]
+ }
+]

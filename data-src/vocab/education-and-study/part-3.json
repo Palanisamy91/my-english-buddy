@@ -1,0 +1,340 @@
+[
+ {
+  "word": "librarian",
+  "meaning": "A person who works in a library.",
+  "tamil": "நூலகர்",
+  "pos": "noun",
+  "pron": "ly-BRAIR-ee-un",
+  "example": "The librarian helped me find a book on astronomy.",
+  "exampleTamil": "வானியல் பற்றிய ஒரு புத்தகத்தைக் கண்டுபிடிக்க நூலகர் எனக்கு உதவினார்.",
+  "synonyms": [
+   "book keeper"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "encyclopedia",
+  "meaning": "A large book with facts on many subjects.",
+  "tamil": "கலைக்களஞ்சியம்",
+  "pos": "noun",
+  "pron": "en-sy-kluh-PEE-dee-uh",
+  "example": "I found the answer in the school encyclopedia.",
+  "exampleTamil": "பள்ளிக் கலைக்களஞ்சியத்தில் நான் விடையைக் கண்டேன்.",
+  "synonyms": [
+   "reference book"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "atlas",
+  "meaning": "A book of maps.",
+  "tamil": "வரைபடத் தொகுப்பு",
+  "pos": "noun",
+  "pron": "AT-lus",
+  "example": "Use the atlas to locate the Himalayas.",
+  "exampleTamil": "இமயமலையைக் கண்டுபிடிக்க வரைபடத் தொகுப்பைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "map book"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "journal",
+  "meaning": "A magazine with serious articles on a subject, often by experts.",
+  "tamil": "ஆய்விதழ்",
+  "pos": "noun",
+  "pron": "JUR-nul",
+  "example": "Her paper was printed in a medical journal.",
+  "exampleTamil": "அவளுடைய ஆய்வுக் கட்டுரை ஒரு மருத்துவ ஆய்விதழில் வெளியானது.",
+  "synonyms": [
+   "periodical",
+   "magazine"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "publish",
+  "meaning": "To print or release a book or article for the public.",
+  "tamil": "வெளியிடு",
+  "pos": "verb",
+  "pron": "PUB-lish",
+  "example": "The university will publish his research next month.",
+  "exampleTamil": "பல்கலைக்கழகம் அவருடைய ஆராய்ச்சியை அடுத்த மாதம் வெளியிடும்.",
+  "synonyms": [
+   "release",
+   "print"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "memorize",
+  "meaning": "To learn something so well that you can repeat it from memory.",
+  "tamil": "மனப்பாடம் செய்",
+  "pos": "verb",
+  "pron": "MEM-uh-ryz",
+  "example": "I memorized the poem in one hour.",
+  "exampleTamil": "நான் அந்தக் கவிதையை ஒரு மணி நேரத்தில் மனப்பாடம் செய்தேன்.",
+  "synonyms": [
+   "learn by heart"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "comprehension",
+  "meaning": "The ability to understand something you read or hear.",
+  "tamil": "புரிதல் திறன்",
+  "pos": "noun",
+  "pron": "kom-pri-HEN-shun",
+  "example": "The English paper has a reading comprehension section.",
+  "exampleTamil": "ஆங்கிலத் தாளில் வாசிப்புப் புரிதல் பகுதி உள்ளது.",
+  "synonyms": [
+   "understanding"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vocabulary",
+  "meaning": "All the words that a person knows or uses.",
+  "tamil": "சொற்களஞ்சியம்",
+  "pos": "noun",
+  "pron": "voh-KAB-yuh-lair-ee",
+  "example": "Reading daily helps to improve your vocabulary.",
+  "exampleTamil": "தினமும் படிப்பது உங்கள் சொற்களஞ்சியத்தை மேம்படுத்த உதவும்.",
+  "synonyms": [
+   "word power",
+   "lexicon"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grammar",
+  "meaning": "The rules for how words are put together in a language.",
+  "tamil": "இலக்கணம்",
+  "pos": "noun",
+  "pron": "GRAM-ur",
+  "example": "My teacher corrected the grammar in my essay.",
+  "exampleTamil": "என் ஆசிரியர் என் கட்டுரையில் இலக்கணத் தவறுகளைத் திருத்தினார்.",
+  "synonyms": [
+   "language rules",
+   "syntax"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "literacy",
+  "meaning": "The ability to read and write.",
+  "tamil": "எழுத்தறிவு",
+  "pos": "noun",
+  "pron": "LIT-ur-uh-see",
+  "example": "The village has achieved one hundred percent literacy.",
+  "exampleTamil": "அந்தக் கிராமம் நூறு சதவீத எழுத்தறிவு பெற்றுள்ளது.",
+  "synonyms": [
+   "reading skill"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "distinction",
+  "meaning": "A very high grade given for excellent results.",
+  "tamil": "சிறப்புத் தேர்ச்சி",
+  "pos": "noun",
+  "pron": "dis-TINK-shun",
+  "example": "He passed his degree with distinction.",
+  "exampleTamil": "அவர் தனது பட்டப்படிப்பில் சிறப்புத் தேர்ச்சியுடன் வெற்றி பெற்றார்.",
+  "synonyms": [
+   "honours",
+   "excellence"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "merit",
+  "meaning": "Good quality that deserves praise, such as high marks.",
+  "tamil": "தகுதி",
+  "pos": "noun",
+  "pron": "MAIR-it",
+  "example": "He got the seat on merit, not by recommendation.",
+  "exampleTamil": "அவர் பரிந்துரையால் அல்ல, தகுதியின் அடிப்படையில் இடம் பெற்றார்.",
+  "synonyms": [
+   "worth",
+   "quality"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "prospectus",
+  "meaning": "A booklet that gives details about a school or college and its courses",
+  "tamil": "பள்ளி அல்லது கல்லூரி மற்றும் அதன் படிப்புகளைப் பற்றிய விவரங்கள் கொண்ட கையேடு",
+  "pos": "noun",
+  "pron": "pruh-SPEK-tus",
+  "example": "I read the college prospectus before choosing my course.",
+  "exampleTamil": "படிப்பைத் தேர்ந்தெடுக்கும் முன் நான் கல்லூரி விவரக் கையேட்டைப் படித்தேன்.",
+  "synonyms": [
+   "brochure",
+   "handbook"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "enrollment",
+  "meaning": "The act of officially joining a school or course.",
+  "tamil": "சேர்க்கை",
+  "pos": "noun",
+  "pron": "en-ROHL-munt",
+  "example": "Enrollment for the evening course closes on Friday.",
+  "exampleTamil": "மாலை வகுப்புக்கான சேர்க்கை வெள்ளிக்கிழமை முடிகிறது.",
+  "synonyms": [
+   "registration",
+   "joining"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tutorial",
+  "meaning": "A small class where a tutor teaches one topic in detail.",
+  "tamil": "துணை வகுப்பு",
+  "pos": "noun",
+  "pron": "too-TOR-ee-ul",
+  "example": "I watched a video tutorial to learn Excel.",
+  "exampleTamil": "எக்செல் கற்க நான் ஒரு வீடியோ பயிற்சி வகுப்பைப் பார்த்தேன்.",
+  "synonyms": [
+   "guide",
+   "lesson"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "viva",
+  "meaning": "An oral exam where you answer questions aloud.",
+  "tamil": "வாய்மொழித் தேர்வு",
+  "pos": "noun",
+  "pron": "VY-vuh",
+  "example": "The viva for the project is on Thursday.",
+  "exampleTamil": "திட்டப்பணிக்கான வாய்மொழித் தேர்வு வியாழக்கிழமை நடைபெறும்.",
+  "synonyms": [
+   "oral exam"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "graduation",
+  "meaning": "The time when a student completes a degree or course.",
+  "tamil": "பட்டம் பெறுதல்",
+  "pos": "noun",
+  "pron": "graj-oo-AY-shun",
+  "example": "Our whole family came to my graduation.",
+  "exampleTamil": "என் பட்டம் பெறும் நிகழ்வுக்கு எங்கள் குடும்பமே வந்தது.",
+  "synonyms": [
+   "completion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "convocation",
+  "meaning": "A formal ceremony where degrees are given to graduates.",
+  "tamil": "பட்டமளிப்பு விழா",
+  "pos": "noun",
+  "pron": "kon-vuh-KAY-shun",
+  "example": "The governor attended the university convocation.",
+  "exampleTamil": "ஆளுநர் பல்கலைக்கழகப் பட்டமளிப்பு விழாவில் கலந்து கொண்டார்.",
+  "synonyms": [
+   "degree ceremony"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "guidance",
+  "meaning": "Help and advice given by someone with more experience.",
+  "tamil": "வழிகாட்டுதல்",
+  "pos": "noun",
+  "pron": "GY-dns",
+  "example": "With my teacher's guidance, I chose the right course.",
+  "exampleTamil": "என் ஆசிரியரின் வழிகாட்டுதலால் நான் சரியான படிப்பைத் தேர்ந்தெடுத்தேன்.",
+  "synonyms": [
+   "advice",
+   "direction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "freshman",
+  "meaning": "A student in the first year of college or high school.",
+  "tamil": "முதலாம் ஆண்டு மாணவர்",
+  "pos": "noun",
+  "pron": "FRESH-mun",
+  "example": "As a freshman, I found college life very exciting.",
+  "exampleTamil": "முதலாம் ஆண்டு மாணவனாக, கல்லூரி வாழ்க்கை எனக்கு மிகவும் உற்சாகமாக இருந்தது.",
+  "synonyms": [
+   "first-year student"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flashcard",
+  "meaning": "A small card with a question on one side and the answer on the other.",
+  "tamil": "நினைவு அட்டை",
+  "pos": "noun",
+  "pron": "FLASH-kard",
+  "example": "I made flashcards to learn new English words.",
+  "exampleTamil": "புதிய ஆங்கிலச் சொற்களைக் கற்க நான் நினைவு அட்டைகள் செய்தேன்.",
+  "synonyms": [
+   "study card"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scorecard",
+  "meaning": "A paper showing a student's marks in each subject.",
+  "tamil": "மதிப்பெண் அட்டை",
+  "pos": "noun",
+  "pron": "SKOR-kard",
+  "example": "My father signed the scorecard after reading it.",
+  "exampleTamil": "என் அப்பா மதிப்பெண் அட்டையைப் படித்த பிறகு கையெழுத்திட்டார்.",
+  "synonyms": [
+   "report card",
+   "mark sheet"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "headmaster",
+  "meaning": "The man who is in charge of a school.",
+  "tamil": "தலைமை ஆசிரியர்",
+  "pos": "noun",
+  "pron": "hed-MAS-tur",
+  "example": "The headmaster praised the students for their good results.",
+  "exampleTamil": "தலைமை ஆசிரியர் மாணவர்களின் நல்ல முடிவுகளுக்காகப் பாராட்டினார்.",
+  "synonyms": [
+   "principal",
+   "head teacher"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "register",
+  "meaning": "A book where names or attendance are officially written.",
+  "tamil": "பதிவேடு",
+  "pos": "noun",
+  "pron": "REJ-is-tur",
+  "example": "The teacher marks attendance in the register daily.",
+  "exampleTamil": "ஆசிரியர் தினமும் பதிவேட்டில் வருகையைக் குறிக்கிறார்.",
+  "synonyms": [
+   "record",
+   "roll book"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bachelor",
+  "meaning": "A first university degree, as in Bachelor of Science.",
+  "tamil": "இளங்கலைப் பட்டம்",
+  "pos": "noun",
+  "pron": "BACH-uh-lur",
+  "example": "She completed her bachelor's degree in physics.",
+  "exampleTamil": "அவள் இயற்பியலில் இளங்கலைப் பட்டப்படிப்பை முடித்தாள்.",
+  "synonyms": [
+   "first degree"
+  ],
+  "level": "intermediate"
+ }
+]

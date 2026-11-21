@@ -1,0 +1,377 @@
+[
+ {
+  "en": "He has been working here since 2019.",
+  "tamil": "அவர் 2019 ல இருந்து இங்க வேலை பாக்குறார்.",
+  "context": "Introducing a senior colleague to a new joiner.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect continuous with 'since' shows an action that began in the past and continues now.",
+  "words": [
+   "working",
+   "since"
+  ],
+  "usage": "Use it to say how long you have been doing something.",
+  "leelaQ": "How long have you been living in your city?",
+  "answer": "I have been living here for ten years."
+ },
+ {
+  "en": "Have you ever eaten Kerala parotta?",
+  "tamil": "நீ எப்பவாவது கேரளா பரோட்டா சாப்பிட்டிருக்கியா?",
+  "context": "Asking a friend about food experiences.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you ever ...?' asks about experiences at any time in life.",
+  "words": [
+   "ever",
+   "parotta"
+  ],
+  "usage": "Use it to start a friendly talk about food or travel.",
+  "leelaQ": "Have you ever travelled by flight?",
+  "answer": "Yes, I have travelled by flight twice."
+ },
+ {
+  "en": "She hasn't replied to my message yet.",
+  "tamil": "அவங்க என் மெசேஜுக்கு இன்னும் பதில் சொல்லல.",
+  "context": "Complaining mildly about a slow reply.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "Present perfect negative with 'yet' shows something expected has not happened up to now.",
+  "words": [
+   "replied",
+   "yet"
+  ],
+  "usage": "Use it when you wait for an answer and talk about it with a friend.",
+  "leelaQ": "What do you do when someone has not replied to your message?",
+  "answer": "I wait for some time and then I call them."
+ },
+ {
+  "en": "When I reached the station, the train had already left.",
+  "tamil": "நான் ஸ்டேஷனுக்கு போனப்போ ரயில் ஏற்கனவே போயிடுச்சு.",
+  "context": "Telling a friend why you missed your train.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past perfect (had + past participle) shows an earlier action before another past action.",
+  "words": [
+   "reached",
+   "left"
+  ],
+  "usage": "Use it to explain what happened first in a story.",
+  "leelaQ": "Have you ever missed a bus or train? What happened?",
+  "answer": "Yes, when I reached the stop, the bus had already left."
+ },
+ {
+  "en": "While I was cooking, the power went off.",
+  "tamil": "நான் சமைச்சுட்டு இருக்கும்போது கரண்ட் போயிடுச்சு.",
+  "context": "Telling a friend about a small problem at home.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past continuous (was + verb-ing) shows an action in progress when another action interrupted it.",
+  "words": [
+   "cooking",
+   "power"
+  ],
+  "usage": "Use it to tell a story about something that interrupted you.",
+  "leelaQ": "What were you doing when the power last went off?",
+  "answer": "I was watching TV when the power went off."
+ },
+ {
+  "en": "I'm going to start yoga from Monday.",
+  "tamil": "நான் திங்கள்கிழமையில இருந்து யோகா ஆரம்பிக்கப் போறேன்.",
+  "context": "Sharing a new plan with a friend.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' + verb shows a plan or intention you have already decided.",
+  "words": [
+   "yoga",
+   "start"
+  ],
+  "usage": "Use it to share a plan you have made.",
+  "leelaQ": "What are you going to start soon?",
+  "answer": "I am going to start walking every morning."
+ },
+ {
+  "en": "Are they coming to the wedding?",
+  "tamil": "அவங்க கல்யாணத்துக்கு வராங்களா?",
+  "context": "Asking a cousin about guests.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous questions: am/is/are + subject + verb-ing.",
+  "words": [
+   "coming",
+   "wedding"
+  ],
+  "usage": "Use it when you plan an event and want to know who will attend.",
+  "leelaQ": "Who is coming to your next family function?",
+  "answer": "My cousins and uncles are coming."
+ },
+ {
+  "en": "It's getting dark, so let's go home.",
+  "tamil": "இருட்டிட்டு வருது, அதனால வீட்டுக்கு போலாம்.",
+  "context": "Suggesting to leave to a friend in the evening.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with 'get' shows a change that is happening slowly.",
+  "words": [
+   "dark",
+   "home"
+  ],
+  "usage": "Use it when a situation is changing and you suggest an action.",
+  "leelaQ": "What do you do when it is getting dark outside?",
+  "answer": "I switch on the lights and close the windows."
+ },
+ {
+  "en": "Let's have tea before we start.",
+  "tamil": "ஆரம்பிக்கறதுக்கு முன்னாடி டீ குடிக்கலாம்.",
+  "context": "Suggesting a short break before work.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let's' + verb makes a friendly suggestion for both of you.",
+  "words": [
+   "tea",
+   "start"
+  ],
+  "usage": "Use it with friends or teammates to suggest something together.",
+  "leelaQ": "What do you suggest to your friends when you are tired?",
+  "answer": "Let's take a short walk and have some tea."
+ },
+ {
+  "en": "Turn left at the temple and go straight.",
+  "tamil": "கோவில்ல இடதுபக்கம் திரும்பி நேரா போங்க.",
+  "context": "Giving directions to a stranger.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Imperatives are used to give directions and instructions.",
+  "words": [
+   "turn left",
+   "straight"
+  ],
+  "usage": "Use it when someone asks you the way.",
+  "leelaQ": "How do you give directions to your house?",
+  "answer": "Turn right at the signal and go straight for two minutes."
+ },
+ {
+  "en": "Don't forget to take your medicine.",
+  "tamil": "உன் மருந்தை எடுத்துக்க மறக்காதே.",
+  "context": "Reminding an elderly parent.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't' + verb is a negative imperative; it warns or reminds.",
+  "words": [
+   "forget",
+   "medicine"
+  ],
+  "usage": "Use it with family members to remind them kindly.",
+  "leelaQ": "What do you remind your parents about every day?",
+  "answer": "I remind them to take their tablets and drink water."
+ },
+ {
+  "en": "Never touch electric wires with wet hands.",
+  "tamil": "ஈரக் கையோட மின்சார வயர்களை தொடாதே.",
+  "context": "Warning a child about safety.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Never' + verb is a strong negative imperative for warnings.",
+  "words": [
+   "never",
+   "wires"
+  ],
+  "usage": "Use it to warn children or new helpers about danger.",
+  "leelaQ": "What safety rules do you teach children at home?",
+  "answer": "I tell them never to play near the stove."
+ },
+ {
+  "en": "Please be quiet, the baby is sleeping.",
+  "tamil": "தயவு செய்து அமைதியா இருங்க, குழந்தை தூங்குது.",
+  "context": "Asking guests to lower their voice.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Use 'please' with an imperative to be polite.",
+  "words": [
+   "quiet",
+   "baby"
+  ],
+  "usage": "Use it at home when someone is speaking too loudly.",
+  "leelaQ": "What do you say if the room is too noisy?",
+  "answer": "I say, please be quiet, I am studying."
+ },
+ {
+  "en": "Would you like some more rice?",
+  "tamil": "இன்னும் கொஞ்சம் சாதம் வேணுமா?",
+  "context": "Serving a guest at home.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like' is a polite offer.",
+  "words": [
+   "more",
+   "rice"
+  ],
+  "usage": "Use it when you host guests and offer food.",
+  "leelaQ": "What do you say when you serve guests at home?",
+  "answer": "I say, would you like some more rice?"
+ },
+ {
+  "en": "Shall I carry your bag for you?",
+  "tamil": "நான் உங்க பையை தூக்கிட்டு வரட்டுமா?",
+  "context": "Offering help to an elderly woman.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Shall I' offers to do something for another person.",
+  "words": [
+   "carry",
+   "bag"
+  ],
+  "usage": "Use it to offer help to someone who is carrying a load.",
+  "leelaQ": "How do you offer help to an elderly person?",
+  "answer": "I say, shall I carry your bag for you?"
+ },
+ {
+  "en": "I would rather stay at home today.",
+  "tamil": "நான் இன்னைக்கு வீட்டுலயே இருக்கலாம்னு நினைக்கிறேன்.",
+  "context": "Declining an outing politely.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Would rather' + verb shows what you prefer.",
+  "words": [
+   "rather",
+   "stay"
+  ],
+  "usage": "Use it to say what you prefer without sounding rude.",
+  "leelaQ": "Would you rather stay home or go out on holidays?",
+  "answer": "I would rather go out and meet my friends."
+ },
+ {
+  "en": "You might want to check the schedule again.",
+  "tamil": "நீங்க ஷெட்யூலை இன்னொரு தடவை பார்க்கலாம்.",
+  "context": "Giving a soft suggestion to a coworker.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Might want to' is a gentle, polite way to give advice.",
+  "words": [
+   "check",
+   "schedule"
+  ],
+  "usage": "Use it with colleagues when you point out a possible mistake.",
+  "leelaQ": "How do you politely tell someone to check their work?",
+  "answer": "I say, you might want to check this once more."
+ },
+ {
+  "en": "It may rain this evening, so take a jacket.",
+  "tamil": "இன்னைக்கு சாயங்காலம் மழை வரலாம், அதனால ஜாக்கெட் எடுத்துக்கோ.",
+  "context": "Advising a friend before going out.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'May' shows a possibility, not a sure thing.",
+  "words": [
+   "rain",
+   "jacket"
+  ],
+  "usage": "Use it when you give weather advice to a friend or family member.",
+  "leelaQ": "What do you take with you when it may rain?",
+  "answer": "I take an umbrella and a small towel."
+ },
+ {
+  "en": "He must be tired after the long journey.",
+  "tamil": "நீண்ட பயணத்துக்கு அப்புறம் அவன் களைப்பா இருப்பான்.",
+  "context": "Guessing about your uncle's condition.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Must be' is used when you are almost sure something is true.",
+  "words": [
+   "tired",
+   "journey"
+  ],
+  "usage": "Use it when you guess something based on what you see or know.",
+  "leelaQ": "How do you feel after a long journey?",
+  "answer": "I must be very tired, so I sleep early."
+ },
+ {
+  "en": "Can you tell me what time the bank opens?",
+  "tamil": "வங்கி எத்தனை மணிக்கு திறப்பாங்கனு சொல்ல முடியுமா?",
+  "context": "Calling a bank for information.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "Indirect questions with 'Can you tell me' use statement word order after the question word.",
+  "words": [
+   "bank",
+   "opens"
+  ],
+  "usage": "Use it on the phone or at an enquiry counter.",
+  "leelaQ": "What do you ask when you call a bank?",
+  "answer": "I ask what time the bank opens."
+ },
+ {
+  "en": "I'm not sure whether he will come.",
+  "tamil": "அவர் வருவாரான்னு எனக்கு உறுதியா தெரியல.",
+  "context": "Answering about an uncertain guest.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Whether' introduces a doubt or a choice between two possibilities.",
+  "words": [
+   "sure",
+   "whether"
+  ],
+  "usage": "Use it when you are not certain about someone's plan.",
+  "leelaQ": "Are you sure about your plans for next weekend?",
+  "answer": "I am not sure whether I will go out."
+ },
+ {
+  "en": "She told me that she would be late.",
+  "tamil": "தான் தாமதமா வருவேன்னு அவ என்கிட்ட சொன்னா.",
+  "context": "Reporting what a friend said.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Reported speech moves the verb one step back: 'will' becomes 'would'.",
+  "words": [
+   "told",
+   "late"
+  ],
+  "usage": "Use it when you tell someone what another person said.",
+  "leelaQ": "What did your friend tell you the last time you met?",
+  "answer": "She told me that she was starting a new job."
+ },
+ {
+  "en": "He asked me if I wanted some coffee.",
+  "tamil": "எனக்கு காபி வேணுமான்னு அவர் கேட்டார்.",
+  "context": "Repeating a question to a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "In reported questions, use 'if' or 'whether' and no question word order.",
+  "words": [
+   "asked",
+   "coffee"
+  ],
+  "usage": "Use it when you tell someone what a person asked you.",
+  "leelaQ": "What did your colleague ask you today?",
+  "answer": "He asked me if I had finished the report."
+ },
+ {
+  "en": "I'm used to waking up early.",
+  "tamil": "எனக்கு சீக்கிரம் எழுந்திருக்கிற பழக்கம் இருக்கு.",
+  "context": "Talking about a habit with a roommate.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Be used to' + verb-ing means something is normal for you now.",
+  "words": [
+   "used to",
+   "early"
+  ],
+  "usage": "Use it when you explain what is normal and easy for you.",
+  "leelaQ": "What are you used to doing every day?",
+  "answer": "I am used to walking to work every day."
+ },
+ {
+  "en": "We used to play cricket in the street.",
+  "tamil": "நாங்க தெருவுல கிரிக்கெட் விளையாடுவோம்.",
+  "context": "Remembering your childhood with a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Used to' + verb talks about past habits that no longer happen.",
+  "words": [
+   "used to",
+   "street"
+  ],
+  "usage": "Use it when you remember how life was earlier.",
+  "leelaQ": "What did you use to play as a child?",
+  "answer": "I used to play kabaddi with my neighbours."
+ }
+]

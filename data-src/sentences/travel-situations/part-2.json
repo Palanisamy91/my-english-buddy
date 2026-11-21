@@ -1,0 +1,376 @@
+[
+ {
+  "en": "Which platform does the Coimbatore express leave from?",
+  "tamil": "கோயம்புத்தூர் எக்ஸ்பிரஸ் எந்த பிளாட்பாரத்துல இருந்து கிளம்பும்?",
+  "context": "Asking at a railway station enquiry counter.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Which' is used when there are a few choices. Here the choices are platform numbers.",
+  "words": [
+   "platform",
+   "express"
+  ],
+  "usage": "Ask a railway official or a porter when the board does not show a platform.",
+  "leelaQ": "How do you find your platform at a big station?",
+  "answer": "I check the board and ask the enquiry counter."
+ },
+ {
+  "en": "I have a confirmed ticket in the sleeper class.",
+  "tamil": "என்கிட்ட ஸ்லீப்பர் கிளாஸ்ல கன்ஃபர்ம்ட் டிக்கெட் இருக்கு.",
+  "context": "Telling a ticket checker.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Confirmed' means your seat is sure. 'Sleeper class' is the cheaper class with beds.",
+  "words": [
+   "confirmed",
+   "sleeper"
+  ],
+  "usage": "Say it to the ticket checker or to a person sitting on your seat.",
+  "leelaQ": "Do you prefer sleeper or air-conditioned class?",
+  "answer": "I prefer air-conditioned class because it is cleaner."
+ },
+ {
+  "en": "Excuse me, this is my berth. Could you please move?",
+  "tamil": "மன்னிக்கணும், இது என் பெர்த். கொஞ்சம் நகர முடியுமா?",
+  "context": "Speaking to a passenger on your seat.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Berth' is a sleeping seat in a train. 'Could you please' is a polite way to ask someone to move.",
+  "words": [
+   "berth",
+   "move"
+  ],
+  "usage": "Say it calmly when someone is sitting on your reserved seat in a train.",
+  "leelaQ": "What do you do when someone takes your seat?",
+  "answer": "I show my ticket and ask politely."
+ },
+ {
+  "en": "The train is running forty minutes late today.",
+  "tamil": "இன்னைக்கு ரயில் நாற்பது நிமிஷம் லேட்டா ஓடுது.",
+  "context": "Telling a friend who is waiting for you.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is running late' is a common way to say a train is not on time. Add the time before 'late'.",
+  "words": [
+   "running",
+   "late"
+  ],
+  "usage": "Use it on a phone call with a friend or a relative who is coming to pick you up.",
+  "leelaQ": "What do you do if your train is late?",
+  "answer": "I wait on the platform and tell my family."
+ },
+ {
+  "en": "Will this bus stop at Salem bus stand?",
+  "tamil": "இந்த பஸ் சேலம் பஸ் ஸ்டாண்ட்ல நிக்குமா?",
+  "context": "Asking a conductor before you get on.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will' asks about what the bus is going to do. Asking first saves you from a wrong bus.",
+  "words": [
+   "bus stand",
+   "stop"
+  ],
+  "usage": "Ask the conductor or the driver before you board a long-distance bus.",
+  "leelaQ": "How do you check if a bus goes to your place?",
+  "answer": "I read the board and ask the conductor."
+ },
+ {
+  "en": "Please give me a ticket to T. Nagar and keep the change.",
+  "tamil": "டி. நகருக்கு ஒரு டிக்கெட் குடுங்க, மீதிய நீங்களே வச்சிக்கோங்க.",
+  "context": "Speaking to a bus conductor.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Keep the change' means you do not want the extra money back. Do it only with a small amount.",
+  "words": [
+   "ticket",
+   "change"
+  ],
+  "usage": "Say it to a conductor or a driver when you pay and do not want a few coins back.",
+  "leelaQ": "Do you carry small change on a bus?",
+  "answer": "Yes, I always keep ten and twenty rupee notes."
+ },
+ {
+  "en": "I missed my stop because I was talking on the phone.",
+  "tamil": "நான் போன்ல பேசிக்கிட்டிருந்ததால என் ஸ்டாப்பை தவறவிட்டுட்டேன்.",
+  "context": "Explaining why you were late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Because' gives the reason. 'Was talking' is the past continuous for a longer action in the background.",
+  "words": [
+   "missed",
+   "stop"
+  ],
+  "usage": "Use it to explain a delay to your boss or a friend.",
+  "leelaQ": "Have you ever missed your stop?",
+  "answer": "Yes, I once fell asleep and missed my stop."
+ },
+ {
+  "en": "Do you know how to get a metro card?",
+  "tamil": "மெட்ரோ கார்டு எப்படி வாங்குறதுன்னு தெரியுமா?",
+  "context": "Asking a local person at a metro station.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you know how to ...?' is a friendly way to ask for help. The verb after 'to' is in base form.",
+  "words": [
+   "metro",
+   "card"
+  ],
+  "usage": "Ask a local person, or the staff at the ticket window, when you use a new metro.",
+  "leelaQ": "Do you use the metro in your city?",
+  "answer": "Yes, I use it to go to work every day."
+ },
+ {
+  "en": "The next train to Tambaram will arrive in five minutes.",
+  "tamil": "தாம்பரம் போற அடுத்த ரயில் ஐந்து நிமிஷத்துல வரும்.",
+  "context": "A station announcement.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will arrive in five minutes' says the time left. 'In' is used for time from now.",
+  "words": [
+   "arrive",
+   "next train"
+  ],
+  "usage": "You will hear this at stations, and you can tell a friend who stands near you.",
+  "leelaQ": "What do you do while waiting at a station?",
+  "answer": "I listen to music or watch people."
+ },
+ {
+  "en": "I am not going to take the night bus because it is not safe.",
+  "tamil": "நான் ராத்திரி பஸ்ல போக மாட்டேன், ஏன்னா அது பாதுகாப்பு இல்ல.",
+  "context": "Telling your family about your decision.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Am not going to' shows a firm decision. The reason follows with 'because'.",
+  "words": [
+   "night bus",
+   "safe"
+  ],
+  "usage": "Use it with family when you explain why you choose another way to travel.",
+  "leelaQ": "What helps you feel safe on a night journey?",
+  "answer": "I like to travel with a friend and share my location."
+ },
+ {
+  "en": "We have already crossed Vellore, so we will reach Chennai soon.",
+  "tamil": "நாம ஏற்கனவே வேலூர தாண்டிட்டோம், அதனால சீக்கிரம் சென்னை போயிடுவோம்.",
+  "context": "Talking to a co-passenger.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have already crossed' shows that it is done earlier than expected. 'So' joins the result.",
+  "words": [
+   "crossed",
+   "reach"
+  ],
+  "usage": "Say it in a chat with a co-passenger or in a message to a person who will pick you up.",
+  "leelaQ": "How do you know how far you have travelled?",
+  "answer": "I check the map on my phone."
+ },
+ {
+  "en": "Could you tell me when we reach the airport stop?",
+  "tamil": "ஏர்போர்ட் ஸ்டாப் வந்தா சொல்ல முடியுமா?",
+  "context": "Asking the bus conductor.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you tell me when ...?' is a polite request. The conductor knows the stops, so it is a good thing to ask.",
+  "words": [
+   "airport",
+   "stop"
+  ],
+  "usage": "Ask the conductor, or a person sitting next to you, when you are new to a route.",
+  "leelaQ": "Who do you ask for help in a bus?",
+  "answer": "I ask the conductor or a person near me."
+ },
+ {
+  "en": "Excuse me, is the window seat free?",
+  "tamil": "மன்னிக்கணும், ஜன்னல் சீட் காலியா இருக்கா?",
+  "context": "Asking a fellow passenger on a bus.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Free' here means not taken. Starting with 'Excuse me' makes it polite.",
+  "words": [
+   "window seat",
+   "free"
+  ],
+  "usage": "Use it with a co-passenger before you sit down in a bus or train.",
+  "leelaQ": "Do you like a window seat or an aisle seat?",
+  "answer": "I like a window seat because I enjoy the view."
+ },
+ {
+  "en": "The bus conductor gave me a wrong ticket by mistake.",
+  "tamil": "பஸ் கண்டக்டர் தெரியாம எனக்கு தப்பான டிக்கெட் குடுத்துட்டார்.",
+  "context": "Telling a friend about a small problem.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'By mistake' means not on purpose. 'Gave' is the past of 'give'.",
+  "words": [
+   "conductor",
+   "mistake"
+  ],
+  "usage": "Use it when you tell a friend or a person at the bus depot about a ticket problem.",
+  "leelaQ": "What would you do if you got a wrong ticket?",
+  "answer": "I would show it to the conductor and ask him to change it."
+ },
+ {
+  "en": "Please do not lean out of the door while the train is moving.",
+  "tamil": "ரயில் ஓடிக்கிட்டிருக்கும்போது கதவு வெளியே சாயாதீங்க.",
+  "context": "Warning a child or a friend.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Do not' plus a verb is a strong warning. 'While' joins two actions at the same time.",
+  "words": [
+   "lean",
+   "moving"
+  ],
+  "usage": "A safety warning you can give to a child or a friend who stands near the door.",
+  "leelaQ": "What safety rules do you follow in a train?",
+  "answer": "I stay away from the door and hold the handle."
+ },
+ {
+  "en": "I travel by train every Sunday to visit my parents.",
+  "tamil": "நான் ஒவ்வொரு ஞாயிற்றுக்கிழமையும் அம்மா அப்பாவ பாக்க ரயில்ல போவேன்.",
+  "context": "Telling a colleague about your weekend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "The present simple shows a habit. 'Every Sunday' tells how often.",
+  "words": [
+   "travel",
+   "visit"
+  ],
+  "usage": "Use it in small talk at work or when you meet a new person.",
+  "leelaQ": "How often do you visit your family?",
+  "answer": "I visit them once a month."
+ },
+ {
+  "en": "How much is the fare from here to the beach?",
+  "tamil": "இங்க இருந்து பீச்சுக்கு கட்டணம் எவ்வளவு?",
+  "context": "Asking an auto driver.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Fare' is the money you pay for a ride. 'How much' is used for price.",
+  "words": [
+   "fare",
+   "beach"
+  ],
+  "usage": "Ask an auto driver or a taxi driver before you start the ride.",
+  "leelaQ": "How do you check the price before an auto ride?",
+  "answer": "I ask the driver for the fare first."
+ },
+ {
+  "en": "He is checking the tickets in every coach.",
+  "tamil": "அவர் எல்லா பெட்டியிலும் டிக்கெட் செக் பண்ணிக்கிட்டிருக்கார்.",
+  "context": "Telling a friend about a ticket examiner.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is checking' shows an action in progress. 'Coach' means one carriage of a train.",
+  "words": [
+   "tickets",
+   "coach"
+  ],
+  "usage": "Say it to a friend in the train when the ticket examiner comes.",
+  "leelaQ": "Do you keep your ticket ready in a train?",
+  "answer": "Yes, I keep it in my phone and in my pocket."
+ },
+ {
+  "en": "Please stop the bus near the temple.",
+  "tamil": "கோயில் பக்கத்துல பஸ்ஸ நிறுத்துங்க.",
+  "context": "Telling the driver your stop.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "A short imperative with 'please' is fine for the bus driver. 'Near' means close to the place.",
+  "words": [
+   "temple",
+   "stop"
+  ],
+  "usage": "Say it to a bus driver or an auto driver when you reach the place.",
+  "leelaQ": "How do you tell the driver where you want to get down?",
+  "answer": "I say the name of the stop in advance."
+ },
+ {
+  "en": "I have never travelled in an AC sleeper coach.",
+  "tamil": "நான் இதுவரைக்கும் ஏசி ஸ்லீப்பர் பெட்டியில போனதே இல்ல.",
+  "context": "Chatting with a friend about trains.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have never' talks about your whole life up to now. It means not even one time.",
+  "words": [
+   "never",
+   "coach"
+  ],
+  "usage": "Use it in a chat when people talk about trains or travel experiences.",
+  "leelaQ": "Which train journey do you remember most?",
+  "answer": "I remember my first long journey to Delhi."
+ },
+ {
+  "en": "Where can I buy a train ticket without standing in the queue?",
+  "tamil": "வரிசையில நிக்காம ரயில் டிக்கெட் எங்க வாங்கலாம்?",
+  "context": "Asking a friend or a station staff.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Without standing' uses the -ing form after 'without'. The answer can be a machine or an app.",
+  "words": [
+   "ticket",
+   "queue"
+  ],
+  "usage": "Ask a friend or a railway worker when the counter has a very long queue.",
+  "leelaQ": "Do you book tickets online or at the counter?",
+  "answer": "I book them online because it saves time."
+ },
+ {
+  "en": "Hurry up, the train is about to leave!",
+  "tamil": "சீக்கிரம், ரயில் கிளம்பப் போகுது!",
+  "context": "Calling a friend who walks slowly.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Hurry up' is an informal order. 'About to leave' means very soon.",
+  "words": [
+   "hurry",
+   "leave"
+  ],
+  "usage": "Say it to a friend or a family member when you are late for a train.",
+  "leelaQ": "What do you say to a person who is late?",
+  "answer": "I say hurry up and walk fast."
+ },
+ {
+  "en": "I will book the return ticket as soon as I get the leave.",
+  "tamil": "லீவு கிடைச்சதும் வர்றதுக்கான டிக்கெட்டை புக் பண்ணுவேன்.",
+  "context": "Telling a relative about your plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'As soon as' means immediately after. After it, use the present tense, not 'will'.",
+  "words": [
+   "return ticket",
+   "leave"
+  ],
+  "usage": "Use it with a family member when your travel plan is not fixed yet.",
+  "leelaQ": "When do you plan to book your next trip?",
+  "answer": "I plan to book it next month."
+ },
+ {
+  "en": "Is the cab arriving on time or should I take an auto?",
+  "tamil": "கேப் சரியான நேரத்துக்கு வருமா, இல்ல நான் ஆட்டோ எடுக்கணுமா?",
+  "context": "Asking a friend while you wait.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Or' gives two choices in one question. It is a natural way to decide fast.",
+  "words": [
+   "cab",
+   "auto"
+  ],
+  "usage": "Ask a friend or a colleague when you are in a hurry and your cab is late.",
+  "leelaQ": "What do you do when the cab is late?",
+  "answer": "I cancel it and take an auto."
+ },
+ {
+  "en": "Could you please lower the volume of your phone?",
+  "tamil": "உங்க போன் சத்தத்தை கொஞ்சம் குறைக்க முடியுமா?",
+  "context": "Politely asking a passenger on a train.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you please' is very polite. It is good for asking strangers to change something.",
+  "words": [
+   "volume"
+  ],
+  "usage": "Say it to a co-passenger who plays videos loudly in a train or bus.",
+  "leelaQ": "What do you do when someone is loud on a train?",
+  "answer": "I politely ask them to lower the volume."
+ }
+]

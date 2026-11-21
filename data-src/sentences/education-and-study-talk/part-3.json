@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Can I sit next to you in the class?",
+  "tamil": "நான் கிளாஸ்ல உன் பக்கத்துல உட்காரலாமா?",
+  "context": "Asking a new classmate.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can I' asks for permission. 'Next to' means beside.",
+  "words": [
+   "sit",
+   "next to"
+  ],
+  "usage": "Use it on your first day in a new class or college.",
+  "leelaQ": "Where do you like to sit in a class?",
+  "answer": "I like to sit in the middle so I can see and hear well."
+ },
+ {
+  "en": "My daughter goes to tuition after school.",
+  "tamil": "என் பொண்ணு ஸ்கூல் முடிஞ்சு டியூஷனுக்கு போறா.",
+  "context": "A parent chatting with another parent.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Tuition' means private lessons in India. 'Goes' has -es because of 'she'.",
+  "words": [
+   "daughter",
+   "tuition"
+  ],
+  "usage": "Use it with other parents when you talk about your child's routine.",
+  "leelaQ": "Do children need tuition after school?",
+  "answer": "Some do, but good teaching in school is enough for many."
+ },
+ {
+  "en": "I have understood this topic now, thank you.",
+  "tamil": "எனக்கு இப்போ இந்த டாபிக் புரிஞ்சிடுச்சு, நன்றி.",
+  "context": "Thanking a teacher after an explanation.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have understood' shows the result is clear now. 'Thank you' makes it polite.",
+  "words": [
+   "understood",
+   "topic"
+  ],
+  "usage": "Use it with a teacher or friend after they explain a difficult point.",
+  "leelaQ": "What was the last difficult thing you understood?",
+  "answer": "I understood how bank interest is calculated."
+ },
+ {
+  "en": "Where can I get the previous year question papers?",
+  "tamil": "முந்தைய வருஷ கேள்வித்தாள்கள் எங்க கிடைக்கும்?",
+  "context": "Asking a senior student.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Where can I get' asks for a place or source. 'Previous year' means last year.",
+  "words": [
+   "previous",
+   "question papers"
+  ],
+  "usage": "Use it with seniors or the librarian before an exam.",
+  "leelaQ": "Where do you usually find study material?",
+  "answer": "I find it on the college website and in the library."
+ },
+ {
+  "en": "Writing the answers by hand helps me remember them.",
+  "tamil": "விடைகளை கையால எழுதினா அது எனக்கு நினைவுல இருக்கும்.",
+  "context": "Sharing your study method.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Writing' is a gerund used as the subject of the sentence.",
+  "words": [
+   "writing",
+   "remember"
+  ],
+  "usage": "Use it when you discuss study methods with friends.",
+  "leelaQ": "How do you remember new words?",
+  "answer": "I write them in a notebook and use them in sentences."
+ },
+ {
+  "en": "I can't concentrate when the TV is on.",
+  "tamil": "டிவி ஓடிட்டு இருக்கும்போது என்னால கவனம் செலுத்த முடியாது.",
+  "context": "Asking family for silence.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Can't' shows inability. 'When' joins the problem with its cause.",
+  "words": [
+   "concentrate",
+   "when"
+  ],
+  "usage": "Use it at home when you need quiet for your studies.",
+  "leelaQ": "What helps you concentrate on your work?",
+  "answer": "A quiet room and a cup of tea help me."
+ },
+ {
+  "en": "Please give me a little more time to finish this.",
+  "tamil": "இதை முடிக்க எனக்கு இன்னும் கொஞ்சம் நேரம் கொடுங்க.",
+  "context": "Asking a teacher during a test.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'A little more' softens the request. 'To finish' gives the reason.",
+  "words": [
+   "time",
+   "finish"
+  ],
+  "usage": "Use it with a teacher or a lecturer when you are almost done.",
+  "leelaQ": "What do you do when you need more time?",
+  "answer": "I politely ask my manager for a short extension."
+ },
+ {
+  "en": "The seminar was very useful for all the students.",
+  "tamil": "அந்த செமினார் எல்லா மாணவர்களுக்கும் ரொம்ப பயனுள்ளதா இருந்துச்சு.",
+  "context": "Giving feedback after an event.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was' links the seminar with the description. 'Useful for' shows who benefits.",
+  "words": [
+   "seminar",
+   "useful"
+  ],
+  "usage": "Use it in feedback forms or when you speak to a principal about an event.",
+  "leelaQ": "Did you attend any useful programme recently?",
+  "answer": "Yes, I attended a workshop on time management."
+ },
+ {
+  "en": "Have you prepared for the viva?",
+  "tamil": "நீ வைவாவுக்கு தயாராகிட்டியா?",
+  "context": "Asking a lab partner.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Viva' is an oral exam. 'Have you prepared' checks the present state of readiness.",
+  "words": [
+   "prepared",
+   "viva"
+  ],
+  "usage": "Use it with lab partners before the oral exam.",
+  "leelaQ": "Do you feel confident about speaking in an exam?",
+  "answer": "I feel a little nervous, but I know my subject."
+ },
+ {
+  "en": "I am going to apply for a scholarship this year.",
+  "tamil": "நான் இந்த வருஷம் ஒரு ஸ்காலர்ஷிப்புக்கு விண்ணப்பிக்கப் போறேன்.",
+  "context": "Telling a friend about a plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Am going to' shows a plan already decided.",
+  "words": [
+   "apply",
+   "scholarship"
+  ],
+  "usage": "Use it with friends or teachers when you talk about funds for studies.",
+  "leelaQ": "What are your plans for higher studies?",
+  "answer": "I want to do a master's degree after my graduation."
+ },
+ {
+  "en": "Last week I attended a workshop on public speaking.",
+  "tamil": "போன வாரம் நான் பொது பேச்சு பத்தின ஒரு வொர்க்ஷாப்புக்கு போனேன்.",
+  "context": "Telling a colleague about training.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Last week' sets the time at the start. 'Attended' is used for events.",
+  "words": [
+   "attended",
+   "workshop"
+  ],
+  "usage": "Use it at the office or in class when you share a training experience.",
+  "leelaQ": "Are you comfortable speaking in front of people?",
+  "answer": "Not yet, but I am practising every day."
+ },
+ {
+  "en": "What time will the results be published?",
+  "tamil": "ரிசல்ட் எத்தனை மணிக்கு வெளியிடுவாங்க?",
+  "context": "Asking an office or a friend.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will be published' is passive future. 'What time' asks for the clock time.",
+  "words": [
+   "results",
+   "published"
+  ],
+  "usage": "Use it on result day when you check with a friend or a clerk.",
+  "leelaQ": "What will you do after you see your results?",
+  "answer": "I will call my parents first."
+ },
+ {
+  "en": "You can learn almost anything from YouTube these days.",
+  "tamil": "இப்போல்லாம் யூடியூப்ல இருந்து கிட்டத்தட்ட எல்லாத்தையும் கத்துக்கலாம்.",
+  "context": "Encouraging a friend to self-study.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Can' shows it is possible. 'Almost' means nearly.",
+  "words": [
+   "almost",
+   "learn"
+  ],
+  "usage": "Use it when you encourage a friend who cannot afford coaching.",
+  "leelaQ": "What did you learn from the internet recently?",
+  "answer": "I learned how to make a simple website."
+ },
+ {
+  "en": "Could you recommend a good book for learning grammar?",
+  "tamil": "இலக்கணம் கத்துக்க ஒரு நல்ல புத்தகத்தை பரிந்துரைக்க முடியுமா?",
+  "context": "Asking a teacher.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Recommend' means suggest something good. 'Could you' is polite.",
+  "words": [
+   "recommend",
+   "grammar"
+  ],
+  "usage": "Use it with an English teacher or a friend who studies well.",
+  "leelaQ": "What book are you reading these days?",
+  "answer": "I am reading a short story book in English."
+ },
+ {
+  "en": "The results will come out next Friday.",
+  "tamil": "ரிசல்ட் அடுத்த வெள்ளிக்கிழமை வரும்.",
+  "context": "Telling a worried student.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Come out' means to be published. 'Will' is used for a known future fact.",
+  "words": [
+   "results",
+   "come out"
+  ],
+  "usage": "Use it when a student or a parent asks when the marks will arrive.",
+  "leelaQ": "How do you feel before the results come?",
+  "answer": "I feel a little scared, but I hope for the best."
+ },
+ {
+  "en": "He will not join the tuition next year.",
+  "tamil": "அவன் அடுத்த வருஷம் டியூஷன்ல சேர மாட்டான்.",
+  "context": "Telling a neighbour about a decision.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Will not' shows a decision or a refusal about the future.",
+  "words": [
+   "join",
+   "tuition"
+  ],
+  "usage": "Use it when you talk about a student's decision with other parents.",
+  "leelaQ": "Do you think tuition is necessary?",
+  "answer": "Not always, because self-study can also work well."
+ },
+ {
+  "en": "Did you take notes in yesterday's class?",
+  "tamil": "நேத்து கிளாஸ்ல நீ நோட்ஸ் எடுத்தியா?",
+  "context": "Asking a friend who attended.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Yesterday's class' shows the class belongs to yesterday.",
+  "words": [
+   "notes",
+   "yesterday"
+  ],
+  "usage": "Use it when you were absent and need to catch up.",
+  "leelaQ": "How do you catch up when you miss a class?",
+  "answer": "I take my friend's notes and read them at home."
+ },
+ {
+  "en": "He is good at maths but weak in English.",
+  "tamil": "அவன் கணக்குல கெட்டிக்காரன், ஆனா இங்கிலீஷ்ல வீக்.",
+  "context": "Describing a friend's strengths.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Good at' and 'weak in' are fixed phrases. 'But' shows the contrast.",
+  "words": [
+   "good at",
+   "weak"
+  ],
+  "usage": "Use it when you describe a student to a teacher or a parent.",
+  "leelaQ": "What subject are you good at?",
+  "answer": "I am good at science and history."
+ },
+ {
+  "en": "I have been studying since six in the morning.",
+  "tamil": "நான் காலையில ஆறு மணியிலிருந்து படிச்சிட்டு இருக்கேன்.",
+  "context": "Telling a friend why you are tired.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been studying' with 'since' shows an action that started in the past and still continues.",
+  "words": [
+   "studying",
+   "since"
+  ],
+  "usage": "Use it when you explain your tiredness or ask for a break.",
+  "leelaQ": "How long can you study without a break?",
+  "answer": "I can study for about one hour without a break."
+ },
+ {
+  "en": "Which topic is the teacher going to cover next?",
+  "tamil": "டீச்சர் அடுத்து எந்த டாபிக்கை எடுக்கப் போறாங்க?",
+  "context": "Asking a classmate about the plan.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Cover a topic' means to teach it. 'Going to' asks about a plan.",
+  "words": [
+   "topic",
+   "cover"
+  ],
+  "usage": "Use it with classmates to read the next lesson in advance.",
+  "leelaQ": "Do you read the lesson before the class?",
+  "answer": "Sometimes I do, when I have time."
+ },
+ {
+  "en": "Kindly check my answer sheet once again, sir.",
+  "tamil": "சார், என் விடைத்தாளை இன்னொரு முறை தயவுசெஞ்சு பாருங்க.",
+  "context": "Asking a lecturer about marks.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Kindly' is a formal and polite word, common in Indian English.",
+  "words": [
+   "kindly",
+   "answer sheet"
+  ],
+  "usage": "Use it with a lecturer when you think a mark is missing.",
+  "leelaQ": "How do you ask politely for a second look at something?",
+  "answer": "I say please check once more, sir."
+ },
+ {
+  "en": "Our college is organising a technical symposium next week.",
+  "tamil": "எங்க காலேஜ் அடுத்த வாரம் ஒரு டெக்னிக்கல் சிம்போசியம் நடத்துது.",
+  "context": "Inviting a friend to an event.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is organising' with a future time shows a fixed arrangement.",
+  "words": [
+   "organising",
+   "symposium"
+  ],
+  "usage": "Use it to invite friends or juniors to a college event.",
+  "leelaQ": "Do you take part in college events?",
+  "answer": "Yes, I take part in quiz competitions."
+ },
+ {
+  "en": "I always keep my phone away while studying.",
+  "tamil": "நான் படிக்கும்போது எப்பவும் என் போனை தள்ளி வச்சிடுவேன்.",
+  "context": "Sharing a focus tip.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Always' comes before the main verb. 'While studying' shortens 'while I am studying'.",
+  "words": [
+   "always",
+   "phone"
+  ],
+  "usage": "Use it when you give focus tips to friends or your children.",
+  "leelaQ": "What distracts you the most when you study?",
+  "answer": "My phone distracts me the most, so I keep it in another room."
+ },
+ {
+  "en": "How long do you study every day?",
+  "tamil": "நீ தினமும் எவ்வளவு நேரம் படிப்ப?",
+  "context": "Chatting with a classmate.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How long' asks for a length of time. 'Every day' shows habit.",
+  "words": [
+   "study",
+   "every day"
+  ],
+  "usage": "Use it to compare study habits with a friend.",
+  "leelaQ": "What is a good number of study hours for you?",
+  "answer": "Four hours a day is good for me."
+ },
+ {
+  "en": "The students are presenting their projects in the hall.",
+  "tamil": "மாணவர்கள் ஹால்ல தங்களோட ப்ராஜெக்ட்களை சமர்ப்பிச்சிட்டு இருக்காங்க.",
+  "context": "Telling a visitor what is happening.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Are presenting' shows an action in progress. 'Their' belongs to the students.",
+  "words": [
+   "presenting",
+   "projects"
+  ],
+  "usage": "Use it when you show a guest around a college or a school.",
+  "leelaQ": "Have you ever presented something in front of a class?",
+  "answer": "Yes, I once presented my project to the whole class."
+ }
+]

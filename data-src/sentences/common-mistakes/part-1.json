@@ -1,0 +1,266 @@
+[
+ {
+  "en": "I am going to the office now.",
+  "tamil": "நான் இப்போ ஆபீஸ்க்கு போயிட்டு இருக்கேன்.",
+  "context": "Telling someone where you are headed.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Use 'the' before office when you mean your workplace. Do not say 'going to office'.",
+  "words": [
+   "office",
+   "going"
+  ]
+ },
+ {
+  "en": "He knows the answer.",
+  "tamil": "அவனுக்கு பதில் தெரியும்.",
+  "context": "Talking about someone who has the answer.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Do not say 'is knowing'. Know is a state verb, so we use the simple present.",
+  "words": [
+   "knows",
+   "answer"
+  ]
+ },
+ {
+  "en": "We discussed the plan yesterday.",
+  "tamil": "நேத்து நாங்க அந்த திட்டத்தை பத்தி பேசினோம்.",
+  "context": "Reporting a meeting at work.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Do not say 'discuss about'. Discuss already means talk about, so no 'about'.",
+  "words": [
+   "discussed",
+   "plan"
+  ],
+  "alt": {
+   "en": "Let's discuss the budget tomorrow.",
+   "tamil": "நாளைக்கு பட்ஜெட் பத்தி பேசலாம்."
+  }
+ },
+ {
+  "en": "She is trying to cope with the stress.",
+  "tamil": "அவ அந்த மன அழுத்தத்தை சமாளிக்க முயற்சி பண்ணிட்டு இருக்கா.",
+  "context": "Talking about a friend under pressure.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Do not say 'cope up'. The correct phrase is 'cope with'.",
+  "words": [
+   "cope",
+   "stress"
+  ]
+ },
+ {
+  "en": "Can we move the meeting to an earlier time?",
+  "tamil": "மீட்டிங்கை கொஞ்சம் சீக்கிரமா மாத்தலாமா?",
+  "context": "Asking a colleague to reschedule earlier.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Prepone' is not standard English. Say 'move it earlier' or 'bring it forward'.",
+  "words": [
+   "meeting",
+   "earlier"
+  ]
+ },
+ {
+  "en": "I have lived in Chennai for ten years.",
+  "tamil": "நான் பத்து வருஷமா சென்னையில இருக்கேன்.",
+  "context": "Telling someone how long you have lived somewhere.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Use 'for' with a length of time (ten years). Do not say 'since ten years'.",
+  "words": [
+   "lived",
+   "years"
+  ]
+ },
+ {
+  "en": "I have been waiting since morning.",
+  "tamil": "நான் காலையில இருந்து காத்துட்டு இருக்கேன்.",
+  "context": "Complaining politely about a long wait.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Use 'since' with a starting point (morning). Use present perfect, not 'I am waiting since'.",
+  "words": [
+   "waiting",
+   "since"
+  ]
+ },
+ {
+  "en": "Please explain the rules to me.",
+  "tamil": "தயவுசெய்து விதிகளை எனக்கு விளக்குங்க.",
+  "context": "Asking a teacher or manager for help.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Say 'explain something to someone'. Do not say 'explain me'.",
+  "words": [
+   "explain",
+   "rules"
+  ]
+ },
+ {
+  "en": "My friend gave me some good advice.",
+  "tamil": "என் நண்பன் எனக்கு நல்ல அறிவுரை சொன்னான்.",
+  "context": "Thanking or talking about helpful guidance.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Advice is uncountable. Do not say 'advices'; say 'some advice' or 'a piece of advice'.",
+  "words": [
+   "advice",
+   "friend"
+  ]
+ },
+ {
+  "en": "The information you sent is very useful.",
+  "tamil": "நீங்க அனுப்பின தகவல் ரொம்ப பயனுள்ளதா இருக்கு.",
+  "context": "Replying to an email with details.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Information is uncountable, so it takes 'is', never 'informations'.",
+  "words": [
+   "information",
+   "useful"
+  ]
+ },
+ {
+  "en": "She is married to a teacher.",
+  "tamil": "அவ ஒரு டீச்சரை கல்யாணம் பண்ணியிருக்கா.",
+  "context": "Talking about someone's spouse.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "We say 'married to' someone. Do not say 'married with'.",
+  "words": [
+   "married",
+   "teacher"
+  ]
+ },
+ {
+  "en": "I am good at maths.",
+  "tamil": "நான் கணக்குல நல்லா.",
+  "context": "Talking about your strengths in school or interviews.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use 'good at' for a skill. Do not say 'good in maths'.",
+  "words": [
+   "good",
+   "maths"
+  ]
+ },
+ {
+  "en": "My sister is afraid of dogs.",
+  "tamil": "என் தங்கச்சிக்கு நாய்னா பயம்.",
+  "context": "Talking about a fear.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use 'afraid of' something. Do not say 'afraid from'.",
+  "words": [
+   "afraid",
+   "dogs"
+  ]
+ },
+ {
+  "en": "What time does the train leave?",
+  "tamil": "ரயில் எப்போ கிளம்பும்?",
+  "context": "Asking at the station.",
+  "tense": "present",
+  "type": "question",
+  "explain": "In questions use 'does' plus the base verb. Do not say 'what time the train leaves?'.",
+  "words": [
+   "train",
+   "leave"
+  ]
+ },
+ {
+  "en": "I don't have any money with me.",
+  "tamil": "என்கிட்ட காசு எதுவும் இல்ல.",
+  "context": "Telling a friend you cannot pay right now.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "Use 'any' in negative sentences. 'I have no money' also works, but 'any' sounds more natural here.",
+  "words": [
+   "money",
+   "any"
+  ]
+ },
+ {
+  "en": "He told me that he was busy.",
+  "tamil": "அவன் தான் பிஸியா இருக்கேன்னு என்கிட்ட சொன்னான்.",
+  "context": "Reporting what someone said.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Tell' needs a person after it (told me). Use 'said' when there is no person.",
+  "words": [
+   "told",
+   "busy"
+  ],
+  "alt": {
+   "en": "He said that he was busy.",
+   "tamil": "அவன் பிஸியா இருக்கேன்னு சொன்னான்."
+  }
+ },
+ {
+  "en": "I have already finished my lunch.",
+  "tamil": "நான் ஏற்கனவே மதிய சாப்பாடு முடிச்சிட்டேன்.",
+  "context": "Telling a colleague you have eaten.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Use present perfect with 'already'. Do not say 'I already finished' in careful English.",
+  "words": [
+   "already",
+   "finished"
+  ]
+ },
+ {
+  "en": "I am looking forward to meeting you.",
+  "tamil": "உங்களை சந்திக்க ஆவலா இருக்கேன்.",
+  "context": "Ending a polite email or message.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "After 'look forward to' use the -ing form. Do not say 'look forward to meet'.",
+  "words": [
+   "looking",
+   "meeting"
+  ]
+ },
+ {
+  "en": "Everyone is waiting for you.",
+  "tamil": "எல்லாரும் உனக்காக காத்துட்டு இருக்காங்க.",
+  "context": "Calling someone who is late.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Everyone is singular, so use 'is'. Do not say 'everyone are'.",
+  "words": [
+   "everyone",
+   "waiting"
+  ]
+ },
+ {
+  "en": "The news is good today.",
+  "tamil": "இன்னைக்கு செய்தி நல்லா இருக்கு.",
+  "context": "Sharing good updates.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "News is uncountable and singular. Do not say 'the news are' or 'a news'.",
+  "words": [
+   "news",
+   "good"
+  ]
+ },
+ {
+  "en": "I live in Madurai with my parents.",
+  "tamil": "நான் மதுரையில என் அப்பா அம்மா கூட இருக்கேன்.",
+  "context": "Introducing yourself.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use 'live' for your home. 'Stay' usually means a short visit, like in a hotel.",
+  "words": [
+   "live",
+   "parents"
+  ],
+  "alt": {
+   "en": "I am staying in a hotel this week.",
+   "tamil": "நான் இந்த வாரம் ஒரு ஹோட்டல்ல தங்கியிருக்கேன்."
+  }
+ }
+]

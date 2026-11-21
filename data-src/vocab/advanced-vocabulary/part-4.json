@@ -1,0 +1,392 @@
+[
+ {
+  "word": "prudent",
+  "meaning": "Careful and sensible, especially about money or risk.",
+  "tamil": "விவேகமான, எச்சரிக்கையுடன் செயல்படுகிற",
+  "pos": "adjective",
+  "pron": "PROO-dunt",
+  "example": "It is prudent to save some money every month.",
+  "exampleTamil": "ஒவ்வொரு மாதமும் கொஞ்சம் பணம் சேமிப்பது விவேகமானது.",
+  "synonyms": [
+   "wise",
+   "careful",
+   "sensible"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "incorporate",
+  "meaning": "to include something as a part of a whole",
+  "tamil": "உள்ளடக்கு, இணைத்துக்கொள்",
+  "pos": "verb",
+  "pron": "in-KOR-puh-rayt",
+  "example": "We incorporated your ideas into the final plan.",
+  "exampleTamil": "உன் யோசனைகளை இறுதித் திட்டத்தில் இணைத்துக்கொண்டோம்.",
+  "synonyms": [
+   "include",
+   "add",
+   "combine"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "indispensable",
+  "meaning": "so important that you cannot do without it",
+  "tamil": "இன்றியமையாத",
+  "pos": "adjective",
+  "pron": "in-dis-PEN-suh-bul",
+  "example": "A smartphone has become indispensable for most people.",
+  "exampleTamil": "பெரும்பாலானவர்களுக்கு ஸ்மார்ட்போன் இன்றியமையாததாகிவிட்டது.",
+  "synonyms": [
+   "essential",
+   "vital",
+   "necessary"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "infer",
+  "meaning": "to reach a conclusion from clues or facts",
+  "tamil": "ஊகித்து அறி, அனுமானி",
+  "pos": "verb",
+  "pron": "in-FER",
+  "example": "I inferred from her tone that she was upset.",
+  "exampleTamil": "அவளுடைய குரலிலிருந்து அவள் வருத்தமாக இருக்கிறாள் என்று ஊகித்தேன்.",
+  "synonyms": [
+   "conclude",
+   "deduce",
+   "gather"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "intricate",
+  "meaning": "having many small, detailed parts",
+  "tamil": "சிக்கலான, நுணுக்கமான",
+  "pos": "adjective",
+  "pron": "IN-trih-kit",
+  "example": "The temple walls have intricate carvings.",
+  "exampleTamil": "கோயில் சுவர்களில் நுணுக்கமான சிற்பங்கள் உள்ளன.",
+  "synonyms": [
+   "complex",
+   "detailed",
+   "elaborate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "invoke",
+  "meaning": "to mention a rule or idea to support your point",
+  "tamil": "மேற்கோளாகக் காட்டு, துணைக்கழை",
+  "pos": "verb",
+  "pron": "in-VOHK",
+  "example": "He invoked the company policy to refuse the request.",
+  "exampleTamil": "கோரிக்கையை மறுக்க அவன் நிறுவனக் கொள்கையை மேற்கோள் காட்டினான்.",
+  "synonyms": [
+   "cite",
+   "call upon",
+   "appeal to"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "judicious",
+  "meaning": "Showing good judgement; wise and sensible in decisions.",
+  "tamil": "நல்ல தீர்ப்புடன் கூடிய, விவேகமாக முடிவெடுக்கிற",
+  "pos": "adjective",
+  "pron": "joo-DISH-us",
+  "example": "She made a judicious choice and saved the extra money.",
+  "exampleTamil": "அவள் விவேகமான தேர்வு செய்து கூடுதல் பணத்தைச் சேமித்தாள்.",
+  "synonyms": [
+   "wise",
+   "sensible",
+   "shrewd"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "magnitude",
+  "meaning": "the great size or importance of something",
+  "tamil": "அளவு, பெரும் தன்மை",
+  "pos": "noun",
+  "pron": "MAG-nih-tood",
+  "example": "We did not realize the magnitude of the problem.",
+  "exampleTamil": "பிரச்சனையின் அளவை நாங்கள் உணரவில்லை.",
+  "synonyms": [
+   "size",
+   "scale",
+   "extent"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "manifest",
+  "meaning": "to show something clearly",
+  "tamil": "வெளிப்படுத்து, தெளிவாகக் காட்டு",
+  "pos": "verb",
+  "pron": "MAN-uh-fest",
+  "example": "His nervousness manifested itself as a shaky voice.",
+  "exampleTamil": "அவனுடைய பதற்றம் நடுங்கும் குரலாக வெளிப்பட்டது.",
+  "synonyms": [
+   "show",
+   "display",
+   "reveal"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "marginal",
+  "meaning": "very small and not important",
+  "tamil": "மிகச் சிறிய, முக்கியமற்ற",
+  "pos": "adjective",
+  "pron": "MAR-juh-nul",
+  "example": "There was only a marginal improvement in sales.",
+  "exampleTamil": "விற்பனையில் மிகச் சிறிய முன்னேற்றம் மட்டுமே இருந்தது.",
+  "synonyms": [
+   "slight",
+   "minor",
+   "small"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "momentum",
+  "meaning": "the force that keeps something moving or growing",
+  "tamil": "உத்வேகம், முன்னேற்ற வேகம்",
+  "pos": "noun",
+  "pron": "moh-MEN-tum",
+  "example": "Our campaign is gaining momentum every day.",
+  "exampleTamil": "எங்கள் பிரச்சாரம் ஒவ்வொரு நாளும் வேகம் பெற்று வருகிறது.",
+  "synonyms": [
+   "drive",
+   "speed",
+   "impetus"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "paramount",
+  "meaning": "more important than anything else",
+  "tamil": "தலையாய, மிக முக்கியமான",
+  "pos": "adjective",
+  "pron": "PAIR-uh-mount",
+  "example": "The safety of children is of paramount importance.",
+  "exampleTamil": "குழந்தைகளின் பாதுகாப்பு தலையாய முக்கியத்துவம் வாய்ந்தது.",
+  "synonyms": [
+   "supreme",
+   "vital",
+   "top"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "perceive",
+  "meaning": "to see or understand something in a certain way",
+  "tamil": "உணர், கருது",
+  "pos": "verb",
+  "pron": "per-SEEV",
+  "example": "Many people perceive this job as very stressful.",
+  "exampleTamil": "பலர் இந்த வேலையை மிகவும் மன அழுத்தமானதாகக் கருதுகிறார்கள்.",
+  "synonyms": [
+   "see",
+   "view",
+   "sense"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "precedent",
+  "meaning": "an earlier case used as an example for later ones",
+  "tamil": "முன்னுதாரணம்",
+  "pos": "noun",
+  "pron": "PRES-uh-dunt",
+  "example": "This decision may set a precedent for other schools.",
+  "exampleTamil": "இந்த முடிவு மற்ற பள்ளிகளுக்கு ஒரு முன்னுதாரணமாக அமையலாம்.",
+  "synonyms": [
+   "example",
+   "model",
+   "standard"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "predominantly",
+  "meaning": "mostly or mainly",
+  "tamil": "பெரும்பாலும், முக்கியமாக",
+  "pos": "adverb",
+  "pron": "prih-DOM-uh-nunt-lee",
+  "example": "The audience was predominantly young people.",
+  "exampleTamil": "பார்வையாளர்கள் பெரும்பாலும் இளைஞர்களாக இருந்தனர்.",
+  "synonyms": [
+   "mainly",
+   "mostly",
+   "largely"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "prominent",
+  "meaning": "easy to see, or well known and important",
+  "tamil": "முக்கியமான, பிரபலமான",
+  "pos": "adjective",
+  "pron": "PROM-uh-nunt",
+  "example": "He is a prominent doctor in our town.",
+  "exampleTamil": "அவர் எங்கள் ஊரின் பிரபலமான மருத்துவர்.",
+  "synonyms": [
+   "famous",
+   "leading",
+   "noticeable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reconcile",
+  "meaning": "to make two people or ideas agree again",
+  "tamil": "சமரசம் செய், இணக்கமாக்கு",
+  "pos": "verb",
+  "pron": "REK-un-syl",
+  "example": "The two brothers finally reconciled after many years.",
+  "exampleTamil": "பல ஆண்டுகளுக்குப் பிறகு இரண்டு சகோதரர்களும் இறுதியில் சமாதானமானார்கள்.",
+  "synonyms": [
+   "reunite",
+   "settle",
+   "harmonize"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "reinforce",
+  "meaning": "to make something stronger",
+  "tamil": "வலுப்படுத்து",
+  "pos": "verb",
+  "pron": "ree-in-FORS",
+  "example": "Daily revision will reinforce what you learn in class.",
+  "exampleTamil": "தினசரி மறுபார்வை வகுப்பில் கற்றதை வலுப்படுத்தும்.",
+  "synonyms": [
+   "strengthen",
+   "support",
+   "boost"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stagnant",
+  "meaning": "not moving, growing or changing",
+  "tamil": "தேக்கமடைந்த",
+  "pos": "adjective",
+  "pron": "STAG-nunt",
+  "example": "Sales have been stagnant for the last six months.",
+  "exampleTamil": "கடந்த ஆறு மாதங்களாக விற்பனை தேக்கமாகவே உள்ளது.",
+  "synonyms": [
+   "still",
+   "stuck",
+   "inactive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stringent",
+  "meaning": "very strict and hard to follow",
+  "tamil": "கடுமையான, கண்டிப்பான",
+  "pos": "adjective",
+  "pron": "STRIN-junt",
+  "example": "The company has stringent rules about quality.",
+  "exampleTamil": "தரம் குறித்து நிறுவனத்தில் கடுமையான விதிகள் உள்ளன.",
+  "synonyms": [
+   "strict",
+   "tough",
+   "rigid"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "succinct",
+  "meaning": "short and clear, using few words",
+  "tamil": "சுருக்கமான, தெளிவான",
+  "pos": "adjective",
+  "pron": "suk-SINKT",
+  "example": "Please keep your answer succinct and to the point.",
+  "exampleTamil": "உன் பதிலைச் சுருக்கமாகவும் நேரடியாகவும் வை.",
+  "synonyms": [
+   "brief",
+   "concise",
+   "short"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "circumvent",
+  "meaning": "to find a way around a rule or problem",
+  "tamil": "சுற்றி வளைத்துத் தவிர், தவிர்த்துச் செல்",
+  "pos": "verb",
+  "pron": "ser-kum-VENT",
+  "example": "Some drivers take side streets to circumvent the traffic jam.",
+  "exampleTamil": "சில ஓட்டுநர்கள் போக்குவரத்து நெரிசலைத் தவிர்க்க பக்கத் தெருக்களில் செல்கிறார்கள்.",
+  "synonyms": [
+   "avoid",
+   "bypass",
+   "evade"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "astute",
+  "meaning": "clever at understanding people and situations",
+  "tamil": "கூர்மையான அறிவுள்ள, சாமர்த்தியமான",
+  "pos": "adjective",
+  "pron": "uh-STOOT",
+  "example": "She is an astute businesswoman who spots good deals quickly.",
+  "exampleTamil": "அவள் நல்ல ஒப்பந்தங்களை விரைவாகக் கண்டுபிடிக்கும் சாமர்த்தியமான தொழிலதிபர்.",
+  "synonyms": [
+   "shrewd",
+   "sharp",
+   "smart"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bolster",
+  "meaning": "to support something and make it stronger",
+  "tamil": "வலுப்படுத்து, ஆதரவளி",
+  "pos": "verb",
+  "pron": "BOHL-ster",
+  "example": "Good reviews helped bolster our confidence.",
+  "exampleTamil": "நல்ல மதிப்புரைகள் எங்கள் தன்னம்பிக்கையை வலுப்படுத்தின.",
+  "synonyms": [
+   "strengthen",
+   "boost",
+   "support"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "unprecedented",
+  "meaning": "never having happened or existed before",
+  "tamil": "முன்னெப்போதும் இல்லாத",
+  "pos": "adjective",
+  "pron": "un-PRES-uh-den-tid",
+  "example": "The city saw unprecedented rainfall last night.",
+  "exampleTamil": "நேற்று இரவு நகரில் முன்னெப்போதும் இல்லாத அளவு மழை பெய்தது.",
+  "synonyms": [
+   "unheard-of",
+   "record",
+   "exceptional"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vigilant",
+  "meaning": "watching carefully for danger or problems",
+  "tamil": "விழிப்புடன் இருக்கும்",
+  "pos": "adjective",
+  "pron": "VIJ-uh-lunt",
+  "example": "Stay vigilant when you use public Wi-Fi.",
+  "exampleTamil": "பொது வைஃபை பயன்படுத்தும்போது விழிப்புடன் இரு.",
+  "synonyms": [
+   "alert",
+   "watchful",
+   "careful"
+  ],
+  "level": "advanced"
+ }
+]

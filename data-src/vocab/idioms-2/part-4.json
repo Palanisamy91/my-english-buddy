@@ -1,0 +1,335 @@
+[
+ {
+  "word": "in hot water",
+  "meaning": "In trouble, often because of a mistake.",
+  "tamil": "தவறால் சிக்கலில் இருத்தல்",
+  "pos": "phrase",
+  "pron": "in hot WAW-ter",
+  "example": "He is in hot water for coming late again.",
+  "exampleTamil": "மீண்டும் தாமதமாக வந்ததால் அவர் சிக்கலில் மாட்டிக்கொண்டார்.",
+  "synonyms": [
+   "in trouble"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "in a pickle",
+  "meaning": "In a difficult or awkward situation.",
+  "tamil": "கடினமான சங்கடமான நிலையில்",
+  "pos": "phrase",
+  "pron": "in uh PIK-ul",
+  "example": "I am in a pickle because I lost my wallet.",
+  "exampleTamil": "என் பணப்பையை இழந்ததால் நான் சங்கடத்தில் இருக்கிறேன்.",
+  "synonyms": [
+   "in a fix",
+   "in a jam"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bite the bullet",
+  "meaning": "To do something hard that you have been avoiding.",
+  "tamil": "தவிர்த்து வந்த கடினமான செயலைத் துணிந்து செய்தல்",
+  "pos": "phrase",
+  "pron": "byt thuh BUL-it",
+  "example": "I decided to bite the bullet and visit the dentist.",
+  "exampleTamil": "நான் துணிந்து பல் மருத்துவரிடம் செல்ல முடிவு செய்தேன்.",
+  "synonyms": [
+   "face it",
+   "endure"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "face the music",
+  "meaning": "To accept the bad results of your actions.",
+  "tamil": "தன் செயலின் விளைவை ஏற்றுக்கொள்ளுதல்",
+  "pos": "phrase",
+  "pron": "fays thuh MYOO-zik",
+  "example": "He broke the window and had to face the music.",
+  "exampleTamil": "அவன் ஜன்னலை உடைத்ததால் அதன் விளைவை எதிர்கொள்ள வேண்டியிருந்தது.",
+  "synonyms": [
+   "take the blame"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hit a snag",
+  "meaning": "To meet an unexpected small problem.",
+  "tamil": "எதிர்பாராத சிறிய சிக்கலைச் சந்தித்தல்",
+  "pos": "phrase",
+  "pron": "hit uh SNAG",
+  "example": "We hit a snag when the server went down.",
+  "exampleTamil": "சர்வர் நின்றுபோனபோது நாங்கள் ஒரு சிக்கலைச் சந்தித்தோம்.",
+  "synonyms": [
+   "face a problem"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "on thin ice",
+  "meaning": "In a risky situation where a mistake may cause trouble.",
+  "tamil": "தவறு செய்தால் ஆபத்தான நிலையில்",
+  "pos": "phrase",
+  "pron": "on thin EYS",
+  "example": "You are on thin ice with your manager now.",
+  "exampleTamil": "இப்போது உன் மேலாளரிடம் நீ ஆபத்தான நிலையில் இருக்கிறாய்.",
+  "synonyms": [
+   "at risk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "out of hand",
+  "meaning": "Out of control.",
+  "tamil": "கட்டுப்பாட்டை மீறிய",
+  "pos": "phrase",
+  "pron": "owt uv HAND",
+  "example": "The argument got out of hand very quickly.",
+  "exampleTamil": "வாக்குவாதம் மிக விரைவில் கட்டுப்பாட்டை மீறியது.",
+  "synonyms": [
+   "uncontrolled",
+   "wild"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "miss the boat",
+  "meaning": "To lose a chance by being too late.",
+  "tamil": "தாமதத்தால் வாய்ப்பை இழத்தல்",
+  "pos": "phrase",
+  "pron": "mis thuh BOHT",
+  "example": "Apply today or you will miss the boat.",
+  "exampleTamil": "இன்றே விண்ணப்பியுங்கள், இல்லையெனில் வாய்ப்பை இழப்பீர்கள்.",
+  "synonyms": [
+   "lose the chance"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lose your temper",
+  "meaning": "To suddenly become very angry.",
+  "tamil": "திடீரெனக் கடுமையாகக் கோபப்படுதல்",
+  "pos": "phrase",
+  "pron": "looz yor TEM-per",
+  "example": "Please don't lose your temper over a small mistake.",
+  "exampleTamil": "சிறிய தவறுக்காகக் கோபப்படாதீர்கள்.",
+  "synonyms": [
+   "get angry",
+   "blow up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spill the beans",
+  "meaning": "To tell a secret by mistake.",
+  "tamil": "தவறுதலாக ரகசியத்தைச் சொல்லிவிடுதல்",
+  "pos": "phrase",
+  "pron": "spil thuh BEENZ",
+  "example": "Don't spill the beans about her surprise party.",
+  "exampleTamil": "அவளுடைய ஆச்சரிய விருந்து பற்றிய ரகசியத்தை உளறிவிடாதே.",
+  "synonyms": [
+   "tell a secret",
+   "let slip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "the last straw",
+  "meaning": "The final problem that makes you lose patience.",
+  "tamil": "பொறுமையை இழக்கச் செய்யும் கடைசிப் பிரச்சினை",
+  "pos": "phrase",
+  "pron": "thuh LAST STRAW",
+  "example": "Losing my keys again was the last straw.",
+  "exampleTamil": "மீண்டும் சாவியைத் தொலைத்ததுதான் பொறுமையின் எல்லை.",
+  "synonyms": [
+   "final blow"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rock the boat",
+  "meaning": "To cause trouble in a calm situation.",
+  "tamil": "அமைதியான நிலையில் சிக்கல் உண்டாக்குதல்",
+  "pos": "phrase",
+  "pron": "rok thuh BOHT",
+  "example": "Everyone is happy, so please don't rock the boat.",
+  "exampleTamil": "எல்லோரும் மகிழ்ச்சியாக உள்ளனர், எனவே குழப்பம் உண்டாக்காதீர்கள்.",
+  "synonyms": [
+   "stir trouble"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "at a loss",
+  "meaning": "Not knowing what to do or say.",
+  "tamil": "என்ன செய்வது அல்லது சொல்வது எனத் தெரியாமல்",
+  "pos": "phrase",
+  "pron": "at uh LOS",
+  "example": "I was at a loss when the lights went out.",
+  "exampleTamil": "மின்சாரம் போனபோது என்ன செய்வதென்று எனக்குத் தெரியவில்லை.",
+  "synonyms": [
+   "puzzled",
+   "confused"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "in a bind",
+  "meaning": "In a difficult situation with few choices.",
+  "tamil": "குறைந்த வழிகளுடன் கடினமான நிலையில்",
+  "pos": "phrase",
+  "pron": "in uh BYND",
+  "example": "I am in a bind because the rent is due.",
+  "exampleTamil": "வாடகை கட்ட வேண்டியிருப்பதால் நான் சிரமத்தில் இருக்கிறேன்.",
+  "synonyms": [
+   "in a spot",
+   "stuck"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vicious circle",
+  "meaning": "A bad situation that keeps making itself worse.",
+  "tamil": "ஒரு பிரச்சினை மேலும் மோசமாக்கும் தொடர் சுழற்சி",
+  "pos": "phrase",
+  "pron": "VISH-us SUR-kul",
+  "example": "No job means no money, a vicious circle.",
+  "exampleTamil": "வேலை இல்லையெனில் பணம் இல்லை, இது ஒரு தீய சுழற்சி.",
+  "synonyms": [
+   "bad cycle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "red tape",
+  "meaning": "Too many official rules that slow things down.",
+  "tamil": "செயலைத் தாமதப்படுத்தும் அதிகப்படியான அரசு நடைமுறைகள்",
+  "pos": "phrase",
+  "pron": "red TAYP",
+  "example": "Red tape delayed my passport by a month.",
+  "exampleTamil": "அதிகப்படியான நடைமுறைகளால் என் பாஸ்போர்ட் ஒரு மாதம் தாமதமானது.",
+  "synonyms": [
+   "bureaucracy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "uphill battle",
+  "meaning": "A very hard struggle to succeed.",
+  "tamil": "வெற்றி பெற மிகக் கடினமான போராட்டம்",
+  "pos": "phrase",
+  "pron": "UP-hil BAT-ul",
+  "example": "Starting a new business is an uphill battle.",
+  "exampleTamil": "புதிய தொழில் தொடங்குவது மிகக் கடினமான போராட்டம்.",
+  "synonyms": [
+   "tough fight"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "jump the gun",
+  "meaning": "To do something too early.",
+  "tamil": "மிக அவசரமாக முன்கூட்டியே செய்தல்",
+  "pos": "phrase",
+  "pron": "jump thuh GUN",
+  "example": "Don't jump the gun; wait for the results.",
+  "exampleTamil": "அவசரப்படாதே; முடிவுகளுக்காகக் காத்திரு.",
+  "synonyms": [
+   "act too soon"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hit rock bottom",
+  "meaning": "To reach the lowest and worst point.",
+  "tamil": "மிக மோசமான நிலையை அடைதல்",
+  "pos": "phrase",
+  "pron": "hit rok BOT-um",
+  "example": "He hit rock bottom after losing everything.",
+  "exampleTamil": "அனைத்தையும் இழந்த பிறகு அவன் மிக மோசமான நிலையை அடைந்தான்.",
+  "synonyms": [
+   "touch bottom"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "go downhill",
+  "meaning": "To become worse over time.",
+  "tamil": "காலப்போக்கில் மோசமாகுதல்",
+  "pos": "phrase",
+  "pron": "goh down-HIL",
+  "example": "His health started to go downhill last year.",
+  "exampleTamil": "கடந்த ஆண்டு முதல் அவர் உடல்நலம் மோசமடையத் தொடங்கியது.",
+  "synonyms": [
+   "get worse",
+   "decline"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "money talks",
+  "meaning": "People with money have power and get what they want.",
+  "tamil": "பணம் இருப்பவர்களுக்கு செல்வாக்கு கிடைக்கும்",
+  "pron": "MUN-ee TAWKS",
+  "example": "In some offices, money talks and rules do not matter.",
+  "exampleTamil": "சில அலுவலகங்களில் பணமே பேசும், விதிகள் முக்கியமில்லை.",
+  "synonyms": [
+   "power of money"
+  ],
+  "level": "intermediate",
+  "pos": "phrase"
+ },
+ {
+  "word": "blessing in disguise",
+  "meaning": "Something bad that later turns out to be good.",
+  "tamil": "கெடுதல் போல் தோன்றி பின் நன்மையாக மாறும் விஷயம்",
+  "pron": "BLES-ing in dis-GYZ",
+  "example": "Losing that job was a blessing in disguise.",
+  "exampleTamil": "அந்த வேலையை இழந்தது மறைமுகமான வரமாக அமைந்தது.",
+  "synonyms": [
+   "lucky break"
+  ],
+  "level": "advanced",
+  "pos": "phrase"
+ },
+ {
+  "word": "bend over backwards",
+  "meaning": "To try very hard to help someone.",
+  "tamil": "ஒருவருக்கு உதவ மிகவும் முயற்சி செய்தல்",
+  "pron": "BEND OH-ver BAK-werdz",
+  "example": "Our staff will bend over backwards to help you.",
+  "exampleTamil": "எங்கள் ஊழியர்கள் உங்களுக்கு உதவ மிகவும் பாடுபடுவார்கள்.",
+  "synonyms": [
+   "try hard"
+  ],
+  "level": "advanced",
+  "pos": "phrase"
+ },
+ {
+  "word": "no big deal",
+  "meaning": "Not important or not a problem.",
+  "tamil": "பெரிய விஷயம் இல்லை",
+  "pron": "NOH BIG DEEL",
+  "example": "Do not worry, it is no big deal.",
+  "exampleTamil": "கவலைப்படாதே, அது பெரிய விஷயம் இல்லை.",
+  "synonyms": [
+   "unimportant"
+  ],
+  "level": "beginner",
+  "pos": "phrase"
+ },
+ {
+  "word": "white lie",
+  "meaning": "A small lie told to be kind.",
+  "tamil": "அன்புக்காகச் சொல்லும் சிறிய பொய்",
+  "pron": "WYT LY",
+  "example": "She told a white lie about the gift.",
+  "exampleTamil": "பரிசைப் பற்றி அவள் ஒரு சிறிய நல்ல பொய் சொன்னாள்.",
+  "synonyms": [
+   "harmless lie"
+  ],
+  "level": "intermediate",
+  "pos": "phrase"
+ }
+]

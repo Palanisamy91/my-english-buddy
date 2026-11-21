@@ -1,0 +1,336 @@
+[
+ {
+  "word": "train",
+  "meaning": "a long vehicle that runs on rails and carries people",
+  "tamil": "ரயில்",
+  "pos": "noun",
+  "pron": "TRAYN",
+  "example": "The train to Chennai leaves at six.",
+  "exampleTamil": "சென்னைக்கான ரயில் ஆறு மணிக்குப் புறப்படும்.",
+  "synonyms": [
+   "railway"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "station",
+  "meaning": "a place where trains or buses stop for passengers",
+  "tamil": "நிலையம்",
+  "pos": "noun",
+  "pron": "STAY-shun",
+  "example": "We waited at the station for an hour.",
+  "exampleTamil": "நாங்கள் நிலையத்தில் ஒரு மணி நேரம் காத்திருந்தோம்.",
+  "synonyms": [
+   "stop"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bus",
+  "meaning": "a big vehicle that carries many people on roads",
+  "tamil": "பேருந்து",
+  "pos": "noun",
+  "pron": "BUS",
+  "example": "I go to work by bus every day.",
+  "exampleTamil": "நான் தினமும் பேருந்தில் வேலைக்குப் போகிறேன்.",
+  "synonyms": [
+   "coach"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ride",
+  "meaning": "a trip in a vehicle, or to travel on a bike or in a vehicle",
+  "tamil": "பயணம் / சவாரி",
+  "pos": "noun",
+  "pron": "RYD",
+  "example": "It was a long ride from the airport.",
+  "exampleTamil": "விமான நிலையத்திலிருந்து அது நீண்ட பயணமாக இருந்தது.",
+  "synonyms": [
+   "trip",
+   "drive"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "room",
+  "meaning": "a space inside a building with walls, for staying or working",
+  "tamil": "அறை",
+  "pos": "noun",
+  "pron": "ROOM",
+  "example": "Our hotel room has a nice balcony.",
+  "exampleTamil": "எங்கள் ஹோட்டல் அறையில் அழகான பால்கனி உள்ளது.",
+  "synonyms": [
+   "chamber"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "travel",
+  "meaning": "to go from one place to another, usually far away",
+  "tamil": "பயணம் செய்",
+  "pos": "verb",
+  "pron": "TRAV-ul",
+  "example": "I love to travel with my friends.",
+  "exampleTamil": "நண்பர்களுடன் பயணம் செய்வது எனக்குப் பிடிக்கும்.",
+  "synonyms": [
+   "journey",
+   "tour"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "seat",
+  "meaning": "a place where you sit, for example in a bus or plane",
+  "tamil": "இருக்கை",
+  "pos": "noun",
+  "pron": "SEET",
+  "example": "Is this seat free?",
+  "exampleTamil": "இந்த இருக்கை காலியாக உள்ளதா?",
+  "synonyms": [
+   "chair"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "window",
+  "meaning": "an opening in a wall or vehicle with glass",
+  "tamil": "ஜன்னல்",
+  "pos": "noun",
+  "pron": "WIN-doh",
+  "example": "I like a window seat on the train.",
+  "exampleTamil": "ரயிலில் ஜன்னல் ஓர இருக்கை எனக்குப் பிடிக்கும்.",
+  "synonyms": [
+   "pane"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "beach",
+  "meaning": "a sandy place beside the sea",
+  "tamil": "கடற்கரை",
+  "pos": "noun",
+  "pron": "BEECH",
+  "example": "We walked on the beach at sunset.",
+  "exampleTamil": "நாங்கள் சூரிய அஸ்தமனத்தில் கடற்கரையில் நடந்தோம்.",
+  "synonyms": [
+   "shore",
+   "seaside"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "left",
+  "meaning": "on the side opposite to right",
+  "tamil": "இடது",
+  "pos": "adjective",
+  "pron": "LEFT",
+  "example": "Turn left at the next signal.",
+  "exampleTamil": "அடுத்த சிக்னலில் இடதுபுறம் திரும்புங்கள்.",
+  "synonyms": [
+   "leftward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "right",
+  "meaning": "on the side opposite to left",
+  "tamil": "வலது",
+  "pos": "adjective",
+  "pron": "RYT",
+  "example": "The bank is on your right.",
+  "exampleTamil": "வங்கி உங்கள் வலதுபுறம் உள்ளது.",
+  "synonyms": [
+   "rightward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "car",
+  "meaning": "a small vehicle with four wheels and an engine",
+  "tamil": "கார்",
+  "pos": "noun",
+  "pron": "KAR",
+  "example": "We drove there in my uncle's car.",
+  "exampleTamil": "நாங்கள் என் மாமாவின் காரில் அங்கே சென்றோம்.",
+  "synonyms": [
+   "vehicle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bike",
+  "meaning": "a short word for bicycle or motorbike",
+  "tamil": "மிதிவண்டி / பைக்",
+  "pos": "noun",
+  "pron": "BYK",
+  "example": "He goes to college by bike.",
+  "exampleTamil": "அவன் கல்லூரிக்கு பைக்கில் செல்கிறான்.",
+  "synonyms": [
+   "bicycle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bicycle",
+  "meaning": "a vehicle with two wheels that you move with pedals",
+  "tamil": "மிதிவண்டி",
+  "pos": "noun",
+  "pron": "BY-sik-ul",
+  "example": "Rent a bicycle and see the old town.",
+  "exampleTamil": "மிதிவண்டி வாடகைக்கு எடுத்து பழைய நகரத்தைப் பாருங்கள்.",
+  "synonyms": [
+   "cycle",
+   "bike"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "truck",
+  "meaning": "a big vehicle for carrying goods",
+  "tamil": "லாரி",
+  "pos": "noun",
+  "pron": "TRUK",
+  "example": "A truck was blocking the narrow road.",
+  "exampleTamil": "ஒரு லாரி குறுகிய சாலையை அடைத்துக்கொண்டிருந்தது.",
+  "synonyms": [
+   "lorry"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "boat",
+  "meaning": "a small vehicle that moves on water",
+  "tamil": "படகு",
+  "pos": "noun",
+  "pron": "BOHT",
+  "example": "We took a boat to the island.",
+  "exampleTamil": "நாங்கள் தீவுக்குப் படகில் சென்றோம்.",
+  "synonyms": [
+   "ship"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ship",
+  "meaning": "a very large boat that carries people or goods across the sea",
+  "tamil": "கப்பல்",
+  "pos": "noun",
+  "pron": "SHIP",
+  "example": "The ship sails to Singapore every week.",
+  "exampleTamil": "அந்தக் கப்பல் வாரந்தோறும் சிங்கப்பூருக்குப் புறப்படும்.",
+  "synonyms": [
+   "vessel"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "airplane",
+  "meaning": "a vehicle with wings that flies in the sky",
+  "tamil": "விமானம்",
+  "pos": "noun",
+  "pron": "AIR-playn",
+  "example": "The airplane landed on time.",
+  "exampleTamil": "விமானம் சரியான நேரத்தில் தரையிறங்கியது.",
+  "synonyms": [
+   "plane",
+   "aircraft"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "plane",
+  "meaning": "short word for airplane",
+  "tamil": "விமானம்",
+  "pos": "noun",
+  "pron": "PLAYN",
+  "example": "I get sick on a plane.",
+  "exampleTamil": "விமானத்தில் எனக்கு உடல்நிலை சரியில்லாமல் போகிறது.",
+  "synonyms": [
+   "airplane",
+   "jet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "road",
+  "meaning": "a hard path for cars, buses and people",
+  "tamil": "சாலை",
+  "pos": "noun",
+  "pron": "ROHD",
+  "example": "The road to the hills is very narrow.",
+  "exampleTamil": "மலைக்குச் செல்லும் சாலை மிகவும் குறுகலானது.",
+  "synonyms": [
+   "street",
+   "highway"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "path",
+  "meaning": "a narrow way for walking",
+  "tamil": "பாதை",
+  "pos": "noun",
+  "pron": "PATH",
+  "example": "Follow the path to the waterfall.",
+  "exampleTamil": "நீர்வீழ்ச்சிக்குச் செல்லும் பாதையைப் பின்பற்றுங்கள்.",
+  "synonyms": [
+   "trail",
+   "track"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "far",
+  "meaning": "a long distance away",
+  "tamil": "தொலைவில்",
+  "pos": "adverb",
+  "pron": "FAR",
+  "example": "Is the temple far from here?",
+  "exampleTamil": "கோவில் இங்கிருந்து தொலைவில் உள்ளதா?",
+  "synonyms": [
+   "distant"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "near",
+  "meaning": "not far away",
+  "tamil": "அருகில்",
+  "pos": "preposition",
+  "pron": "NEER",
+  "example": "There is a bus stop near my hotel.",
+  "exampleTamil": "என் ஹோட்டலுக்கு அருகில் ஒரு பேருந்து நிறுத்தம் உள்ளது.",
+  "synonyms": [
+   "close to",
+   "by"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "behind",
+  "meaning": "at the back of something",
+  "tamil": "பின்னால்",
+  "pos": "preposition",
+  "pron": "bih-HYND",
+  "example": "The parking area is behind the hotel.",
+  "exampleTamil": "வாகன நிறுத்துமிடம் ஹோட்டலுக்குப் பின்னால் உள்ளது.",
+  "synonyms": [
+   "after"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "beside",
+  "meaning": "at the side of something, next to it",
+  "tamil": "பக்கத்தில்",
+  "pos": "preposition",
+  "pron": "bih-SYD",
+  "example": "The shop is beside the bus stand.",
+  "exampleTamil": "கடை பேருந்து நிலையத்தின் பக்கத்தில் உள்ளது.",
+  "synonyms": [
+   "next to"
+  ],
+  "level": "beginner"
+ }
+]

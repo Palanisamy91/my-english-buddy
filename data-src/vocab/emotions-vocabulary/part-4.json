@@ -1,0 +1,352 @@
+[
+ {
+  "word": "compassion",
+  "meaning": "A deep feeling of sympathy and wish to help.",
+  "tamil": "இரக்கம், கருணை",
+  "pos": "noun",
+  "pron": "kum-PASH-un",
+  "example": "The nurse treated the patients with great compassion.",
+  "exampleTamil": "செவிலியர் நோயாளிகளை மிகுந்த இரக்கத்துடன் கவனித்தார்.",
+  "synonyms": [
+   "sympathy",
+   "kindness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mercy",
+  "meaning": "Kindness shown by not punishing someone.",
+  "tamil": "கருணை, மன்னிப்பு",
+  "pos": "noun",
+  "pron": "MUR-see",
+  "example": "The judge showed mercy to the young offender.",
+  "exampleTamil": "நீதிபதி அந்த இளம் குற்றவாளியிடம் கருணை காட்டினார்.",
+  "synonyms": [
+   "forgiveness",
+   "pity"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fondness",
+  "meaning": "A warm liking for someone or something.",
+  "tamil": "விருப்பம், பிரியம்",
+  "pos": "noun",
+  "pron": "FOND-nus",
+  "example": "He has a special fondness for his old school.",
+  "exampleTamil": "அவனுக்குத் தன் பழைய பள்ளியின் மீது தனிப் பிரியம் உண்டு.",
+  "synonyms": [
+   "affection",
+   "liking"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "contempt",
+  "meaning": "A strong feeling that someone is worthless.",
+  "tamil": "அவமதிப்பு, இகழ்ச்சி",
+  "pos": "noun",
+  "pron": "kun-TEMPT",
+  "example": "She looked at the cheater with contempt.",
+  "exampleTamil": "அவள் ஏமாற்றுக்காரனை அவமதிப்புடன் பார்த்தாள்.",
+  "synonyms": [
+   "scorn",
+   "disdain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fury",
+  "meaning": "Very strong and uncontrolled anger.",
+  "tamil": "கடும் சீற்றம்",
+  "pos": "noun",
+  "pron": "FYOOR-ee",
+  "example": "He shook with fury when he saw the broken window.",
+  "exampleTamil": "உடைந்த ஜன்னலைப் பார்த்ததும் அவன் கடும் சீற்றத்தில் நடுங்கினான்.",
+  "synonyms": [
+   "rage",
+   "anger"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "loathe",
+  "meaning": "To hate someone or something very much.",
+  "tamil": "கடுமையாக வெறு",
+  "pos": "verb",
+  "pron": "LOHTH",
+  "example": "I loathe getting up early on cold mornings.",
+  "exampleTamil": "குளிர்ந்த காலையில் சீக்கிரம் எழுவதை நான் கடுமையாக வெறுக்கிறேன்.",
+  "synonyms": [
+   "detest",
+   "despise"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "detest",
+  "meaning": "To dislike something very strongly.",
+  "tamil": "அறவே வெறு",
+  "pos": "verb",
+  "pron": "dih-TEST",
+  "example": "She detests dishonest people.",
+  "exampleTamil": "அவள் நேர்மையற்றவர்களை அறவே வெறுக்கிறாள்.",
+  "synonyms": [
+   "hate",
+   "loathe"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cling",
+  "meaning": "To hold on tightly to someone or something.",
+  "tamil": "இறுகப் பற்று",
+  "pos": "verb",
+  "pron": "KLING",
+  "example": "The frightened child was clinging to his mother's hand.",
+  "exampleTamil": "பயந்த குழந்தை தன் அம்மாவின் கையை இறுகப் பற்றிக்கொண்டிருந்தது.",
+  "synonyms": [
+   "grip",
+   "hold"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mope",
+  "meaning": "To feel sad and not want to do anything.",
+  "tamil": "சோகமாகச் சுருண்டு கிட",
+  "pos": "verb",
+  "pron": "MOHP",
+  "example": "He moped around the house after failing the test.",
+  "exampleTamil": "தேர்வில் தோற்ற பிறகு அவன் வீட்டில் சோகமாகச் சுற்றிக்கொண்டிருந்தான்.",
+  "synonyms": [
+   "sulk",
+   "brood"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fret",
+  "meaning": "To worry too much about small things.",
+  "tamil": "அதிகமாகக் கவலைப்படு",
+  "pos": "verb",
+  "pron": "FRET",
+  "example": "Do not fret over things you cannot change.",
+  "exampleTamil": "மாற்ற முடியாத விஷயங்களுக்காக அதிகமாகக் கவலைப்படாதே.",
+  "synonyms": [
+   "worry",
+   "stew"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "brood",
+  "meaning": "To think about something sad again and again.",
+  "tamil": "மனதிற்குள் குமுறு",
+  "pos": "verb",
+  "pron": "BROOD",
+  "example": "She kept brooding over the argument all week.",
+  "exampleTamil": "அவள் வாரம் முழுவதும் அந்தச் சண்டையை நினைத்து மனதிற்குள் குமுறினாள்.",
+  "synonyms": [
+   "dwell",
+   "mope"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vent",
+  "meaning": "To let out strong feelings, especially anger.",
+  "tamil": "உணர்ச்சிகளைக் கொட்டு",
+  "pos": "verb",
+  "pron": "VENT",
+  "example": "He vented his anger by going for a long run.",
+  "exampleTamil": "அவன் நீண்ட ஓட்டத்தின் மூலம் தன் கோபத்தை வெளிப்படுத்தினான்.",
+  "synonyms": [
+   "release",
+   "express"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "humiliate",
+  "meaning": "To make someone feel very ashamed in front of others.",
+  "tamil": "அவமானப்படுத்து",
+  "pos": "verb",
+  "pron": "hyoo-MIL-ee-ayt",
+  "example": "The teacher should never humiliate a student in class.",
+  "exampleTamil": "ஆசிரியர் வகுப்பில் எந்த மாணவனையும் அவமானப்படுத்தக் கூடாது.",
+  "synonyms": [
+   "shame",
+   "embarrass"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "horrify",
+  "meaning": "To shock someone very much.",
+  "tamil": "பெரும் அதிர்ச்சியடையச் செய்",
+  "pos": "verb",
+  "pron": "HOR-ih-fy",
+  "example": "The terrible news horrified the whole village.",
+  "exampleTamil": "அந்தக் கொடூரமான செய்தி ஊர் முழுவதையும் பெரும் அதிர்ச்சியடையச் செய்தது.",
+  "synonyms": [
+   "shock",
+   "appal"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "enchant",
+  "meaning": "To fill someone with delight and wonder.",
+  "tamil": "மயக்கு, பெரிதும் மகிழ்விக்கு",
+  "pos": "verb",
+  "pron": "en-CHANT",
+  "example": "The beautiful garden enchanted all the visitors.",
+  "exampleTamil": "அழகிய தோட்டம் வந்த எல்லோரையும் மயக்கியது.",
+  "synonyms": [
+   "charm",
+   "captivate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bewildered",
+  "meaning": "Very confused and not sure what to do.",
+  "tamil": "திகைத்துப்போன",
+  "pos": "adjective",
+  "pron": "bih-WIL-durd",
+  "example": "The bewildered tourist could not find the station.",
+  "exampleTamil": "திகைத்துப்போன சுற்றுலாப் பயணியால் நிலையத்தைக் கண்டுபிடிக்க முடியவில்லை.",
+  "synonyms": [
+   "confused",
+   "perplexed"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "baffled",
+  "meaning": "Unable to understand something at all.",
+  "tamil": "புரியாமல் குழம்பிய",
+  "pos": "adjective",
+  "pron": "BAF-uld",
+  "example": "The doctors were baffled by her strange illness.",
+  "exampleTamil": "அவளின் விசித்திர நோயால் மருத்துவர்கள் புரியாமல் குழம்பினர்.",
+  "synonyms": [
+   "puzzled",
+   "stumped"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "apathetic",
+  "meaning": "Not showing interest or caring about anything.",
+  "tamil": "ஆர்வமற்ற, உணர்ச்சியற்ற",
+  "pos": "adjective",
+  "pron": "ap-uh-THET-ik",
+  "example": "Many young voters feel apathetic about politics.",
+  "exampleTamil": "பல இளம் வாக்காளர்கள் அரசியலில் ஆர்வமற்று இருக்கிறார்கள்.",
+  "synonyms": [
+   "indifferent",
+   "uninterested"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gullible",
+  "meaning": "Too ready to believe what others say.",
+  "tamil": "எளிதில் ஏமாறும்",
+  "pos": "adjective",
+  "pron": "GUL-uh-bul",
+  "example": "Gullible people often fall for online scams.",
+  "exampleTamil": "எளிதில் ஏமாறுபவர்கள் இணைய மோசடிகளில் அடிக்கடி சிக்குகிறார்கள்.",
+  "synonyms": [
+   "naive",
+   "trusting"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rebellious",
+  "meaning": "Refusing to obey rules or authority.",
+  "tamil": "எதிர்ப்புக் குணமுள்ள",
+  "pos": "adjective",
+  "pron": "rih-BEL-yus",
+  "example": "He was a rebellious teenager who hated rules.",
+  "exampleTamil": "அவன் விதிகளை வெறுத்த எதிர்ப்புக் குணமுள்ள இளைஞன்.",
+  "synonyms": [
+   "defiant",
+   "disobedient"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "disciplined",
+  "meaning": "Able to control yourself and follow rules.",
+  "tamil": "ஒழுக்கமுள்ள, கட்டுப்பாடுள்ள",
+  "pos": "adjective",
+  "pron": "DIS-uh-plind",
+  "example": "She is a disciplined student who studies every day.",
+  "exampleTamil": "அவள் தினமும் படிக்கும் ஒழுக்கமுள்ள மாணவி.",
+  "synonyms": [
+   "controlled",
+   "orderly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "determined",
+  "meaning": "Having made a firm decision not to give up.",
+  "tamil": "உறுதியான முடிவுள்ள",
+  "pos": "adjective",
+  "pron": "dih-TUR-mind",
+  "example": "He is determined to pass the exam this year.",
+  "exampleTamil": "அவன் இந்த ஆண்டு தேர்வில் தேர்ச்சி பெற உறுதியாக இருக்கிறான்.",
+  "synonyms": [
+   "resolute",
+   "persistent"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "open-minded",
+  "meaning": "Willing to listen to new ideas.",
+  "tamil": "திறந்த மனமுள்ள",
+  "pos": "adjective",
+  "pron": "OH-pun MYN-did",
+  "example": "A good leader is open-minded and listens to others.",
+  "exampleTamil": "நல்ல தலைவர் திறந்த மனதுடன் மற்றவர்களின் பேச்சைக் கேட்பார்.",
+  "synonyms": [
+   "tolerant",
+   "receptive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "narrow-minded",
+  "meaning": "Not willing to accept different ideas.",
+  "tamil": "குறுகிய மனப்பான்மை கொண்ட",
+  "pos": "adjective",
+  "pron": "NAIR-oh MYN-did",
+  "example": "It is narrow-minded to judge people by their clothes.",
+  "exampleTamil": "ஆடையைப் பார்த்து மக்களை மதிப்பிடுவது குறுகிய மனப்பான்மை.",
+  "synonyms": [
+   "prejudiced",
+   "intolerant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "remorse",
+  "meaning": "Deep sorrow for something wrong you have done.",
+  "tamil": "குற்ற உணர்வுடன் கூடிய வருத்தம்",
+  "pos": "noun",
+  "pron": "rih-MORS",
+  "example": "He felt great remorse for lying to his parents.",
+  "exampleTamil": "பெற்றோரிடம் பொய் சொன்னதற்காக அவன் மிகவும் வருந்தினான்.",
+  "synonyms": [
+   "regret",
+   "guilt"
+  ],
+  "level": "advanced"
+ }
+]

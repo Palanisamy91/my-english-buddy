@@ -1,0 +1,352 @@
+[
+ {
+  "word": "silly",
+  "meaning": "Not serious or sensible; foolish in a funny way",
+  "tamil": "முட்டாள்தனமான, சிறுபிள்ளைத்தனமான",
+  "pos": "adjective",
+  "pron": "SIL-ee",
+  "example": "Stop making silly faces and eat your dinner.",
+  "exampleTamil": "முட்டாள்தனமான முகபாவனை செய்வதை நிறுத்திவிட்டு இரவு உணவை சாப்பிடு.",
+  "synonyms": [
+   "foolish",
+   "goofy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "naughty",
+  "meaning": "Behaving badly, especially a child who does not listen",
+  "tamil": "குறும்புத்தனமான, சேட்டை செய்யும்",
+  "pos": "adjective",
+  "pron": "NAW-tee",
+  "example": "The naughty boy hid his sister's slippers again.",
+  "exampleTamil": "குறும்புக்கார பையன் மீண்டும் தன் தங்கையின் செருப்புகளை ஒளித்து வைத்தான்.",
+  "synonyms": [
+   "mischievous",
+   "badly behaved"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "obedient",
+  "meaning": "Doing what you are told to do",
+  "tamil": "கீழ்ப்படிகிற, சொல்பேச்சு கேட்கும்",
+  "pos": "adjective",
+  "pron": "oh-BEE-dee-ent",
+  "example": "Our dog is very obedient and sits when I ask.",
+  "exampleTamil": "எங்கள் நாய் மிகவும் கீழ்ப்படிவானது, நான் சொன்னால் உட்காரும்.",
+  "synonyms": [
+   "well-behaved",
+   "dutiful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "meek",
+  "meaning": "Quiet, gentle and not willing to argue",
+  "tamil": "அடக்கமான, சாந்தமான",
+  "pos": "adjective",
+  "pron": "MEEK",
+  "example": "The meek boy never raised his voice at anyone.",
+  "exampleTamil": "அடக்கமான சிறுவன் யாரிடமும் ஒருபோதும் குரல் உயர்த்தவில்லை.",
+  "synonyms": [
+   "gentle",
+   "humble"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cheery",
+  "meaning": "Happy and full of good mood",
+  "tamil": "மகிழ்ச்சியான, உற்சாகமான",
+  "pos": "adjective",
+  "pron": "CHEER-ee",
+  "example": "The shopkeeper gave us a cheery smile this morning.",
+  "exampleTamil": "கடைக்காரர் இன்று காலை எங்களுக்கு மகிழ்ச்சியான புன்னகை தந்தார்.",
+  "synonyms": [
+   "cheerful",
+   "bright"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "teary",
+  "meaning": "Having tears in your eyes",
+  "tamil": "கண்ணீர் நிறைந்த",
+  "pos": "adjective",
+  "pron": "TEER-ee",
+  "example": "She felt teary when she saw her old school.",
+  "exampleTamil": "தன் பழைய பள்ளியைப் பார்த்தபோது அவள் கண்கலங்கினாள்.",
+  "synonyms": [
+   "tearful",
+   "weepy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scowl",
+  "meaning": "To look angry by pulling your eyebrows together",
+  "tamil": "முகம் சுளிக்க, கோபமாக முறைக்க",
+  "pos": "verb",
+  "pron": "SKOWL",
+  "example": "He scowled when he saw the dirty floor.",
+  "exampleTamil": "அழுக்கான தரையைப் பார்த்ததும் அவன் முகம் சுளித்தான்.",
+  "synonyms": [
+   "frown",
+   "glower"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "glare",
+  "meaning": "To look at someone with an angry stare",
+  "tamil": "கோபமாக முறைத்துப் பார்க்க",
+  "pos": "verb",
+  "pron": "GLAIR",
+  "example": "The teacher glared at us when the phone rang.",
+  "exampleTamil": "தொலைபேசி அடித்தபோது ஆசிரியர் எங்களை முறைத்துப் பார்த்தார்.",
+  "synonyms": [
+   "glower",
+   "stare"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chuckle",
+  "meaning": "To laugh quietly",
+  "tamil": "மெதுவாக சிரிக்க",
+  "pos": "verb",
+  "pron": "CHUK-ul",
+  "example": "Grandpa chuckled while reading the funny newspaper column.",
+  "exampleTamil": "நகைச்சுவை பத்தியைப் படிக்கும்போது தாத்தா மெதுவாக சிரித்தார்.",
+  "synonyms": [
+   "giggle",
+   "laugh softly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "smirk",
+  "meaning": "To smile in an annoying proud way",
+  "tamil": "ஏளனமாக சிரிக்க",
+  "pos": "verb",
+  "pron": "SMERK",
+  "example": "He smirked when his friend lost the game.",
+  "exampleTamil": "நண்பன் ஆட்டத்தில் தோற்றதும் அவன் ஏளனமாக சிரித்தான்.",
+  "synonyms": [
+   "sneer",
+   "grin"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quarrel",
+  "meaning": "To argue angrily with someone",
+  "tamil": "சண்டை போட, வாக்குவாதம் செய்ய",
+  "pos": "verb",
+  "pron": "KWOR-ul",
+  "example": "My brothers quarrel over the TV remote every evening.",
+  "exampleTamil": "என் சகோதரர்கள் ஒவ்வொரு மாலையும் டிவி ரிமோட்டுக்காக சண்டை போடுகிறார்கள்.",
+  "synonyms": [
+   "argue",
+   "fight"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chum",
+  "meaning": "A close friend, said in an old-fashioned friendly way",
+  "tamil": "நெருங்கிய தோழன்",
+  "pos": "noun",
+  "pron": "CHUM",
+  "example": "He went on a trip with his school chum.",
+  "exampleTamil": "அவன் தன் பள்ளித் தோழனுடன் பயணம் சென்றான்.",
+  "synonyms": [
+   "pal",
+   "buddy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "enemy",
+  "meaning": "A person who hates you or wants to harm you",
+  "tamil": "எதிரி, பகைவர்",
+  "pos": "noun",
+  "pron": "EN-uh-mee",
+  "example": "He has no enemy because he is kind to everyone.",
+  "exampleTamil": "அவன் எல்லோரிடமும் அன்பாக இருப்பதால் அவனுக்கு எதிரி யாரும் இல்லை.",
+  "synonyms": [
+   "foe",
+   "opponent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pal",
+  "meaning": "A close friend, said in a casual way",
+  "tamil": "நெருங்கிய நண்பன்",
+  "pos": "noun",
+  "pron": "PAL",
+  "example": "My old school pal called me from Chennai yesterday.",
+  "exampleTamil": "என் பழைய பள்ளி நண்பன் நேற்று சென்னையிலிருந்து எனக்கு அழைத்தான்.",
+  "synonyms": [
+   "buddy",
+   "friend"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spouse",
+  "meaning": "Your husband or wife",
+  "tamil": "கணவன் அல்லது மனைவி, வாழ்க்கைத் துணை",
+  "pos": "noun",
+  "pron": "SPOWS",
+  "example": "Please bring your spouse to the family function.",
+  "exampleTamil": "தயவுசெய்து உங்கள் வாழ்க்கைத் துணையையும் குடும்ப விழாவிற்கு அழைத்து வாருங்கள்.",
+  "synonyms": [
+   "husband or wife",
+   "partner"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sweetheart",
+  "meaning": "A person you love, or a kind way to call them",
+  "tamil": "காதலன், காதலி, அன்பே",
+  "pos": "noun",
+  "pron": "SWEET-hart",
+  "example": "He wrote a long letter to his sweetheart.",
+  "exampleTamil": "அவன் தன் காதலிக்கு நீண்ட கடிதம் எழுதினான்.",
+  "synonyms": [
+   "beloved",
+   "darling"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "darling",
+  "meaning": "A word for a person you love very much",
+  "tamil": "செல்லமே, அன்பானவர்",
+  "pos": "noun",
+  "pron": "DAR-ling",
+  "example": "Come here, darling, and have some warm milk.",
+  "exampleTamil": "இங்கே வா செல்லமே, சூடான பால் குடி.",
+  "synonyms": [
+   "dear",
+   "sweetheart"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bliss",
+  "meaning": "Great happiness and peace",
+  "tamil": "பேரின்பம், மிகுந்த மகிழ்ச்சி",
+  "pos": "noun",
+  "pron": "BLIS",
+  "example": "A hot cup of tea on a rainy day is pure bliss.",
+  "exampleTamil": "மழை நாளில் சூடான தேநீர் குடிப்பது முழு பேரின்பம்.",
+  "synonyms": [
+   "joy",
+   "happiness"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rejoice",
+  "meaning": "To feel and show great joy",
+  "tamil": "மகிழ்ச்சி அடைய, களிக்க",
+  "pos": "verb",
+  "pron": "rih-JOYS",
+  "example": "The whole village rejoiced when the rains finally came.",
+  "exampleTamil": "மழை இறுதியாக வந்தபோது ஊரே மகிழ்ந்தது.",
+  "synonyms": [
+   "celebrate",
+   "be glad"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "treasure",
+  "meaning": "To love and keep something very carefully",
+  "tamil": "பொக்கிஷமாக போற்ற",
+  "pos": "verb",
+  "pron": "TREZH-er",
+  "example": "I treasure the photos my grandmother gave me.",
+  "exampleTamil": "என் பாட்டி கொடுத்த புகைப்படங்களை நான் பொக்கிஷமாக போற்றுகிறேன்.",
+  "synonyms": [
+   "cherish",
+   "value"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "warmth",
+  "meaning": "A kind and friendly feeling",
+  "tamil": "அன்பான உணர்வு, அரவணைப்பு",
+  "pos": "noun",
+  "pron": "WORMTH",
+  "example": "We felt the warmth of her welcome at once.",
+  "exampleTamil": "அவளுடைய வரவேற்பின் அரவணைப்பை உடனே உணர்ந்தோம்.",
+  "synonyms": [
+   "kindness",
+   "affection"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cuddle",
+  "meaning": "To hold someone close with love",
+  "tamil": "அன்புடன் கட்டிப்பிடிக்க",
+  "pos": "verb",
+  "pron": "KUD-ul",
+  "example": "The little girl cuddled her teddy bear to sleep.",
+  "exampleTamil": "சிறுமி தன் கரடி பொம்மையை அணைத்துக்கொண்டு தூங்கினாள்.",
+  "synonyms": [
+   "hug",
+   "snuggle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "snuggle",
+  "meaning": "To lie or sit close to someone to feel warm and safe",
+  "tamil": "நெருங்கி படுத்துக்கொள்ள",
+  "pos": "verb",
+  "pron": "SNUG-ul",
+  "example": "The kids snuggled under the blanket to hear a story.",
+  "exampleTamil": "குழந்தைகள் கதை கேட்க போர்வைக்குள் நெருங்கிக் கொண்டனர்.",
+  "synonyms": [
+   "cuddle",
+   "nestle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "blush",
+  "meaning": "To turn red in the face from shyness",
+  "tamil": "வெட்கத்தால் முகம் சிவக்க",
+  "pos": "verb",
+  "pron": "BLUSH",
+  "example": "She blushed when everyone sang happy birthday to her.",
+  "exampleTamil": "எல்லோரும் பிறந்தநாள் பாடலைப் பாடியதும் அவள் வெட்கத்தில் முகம் சிவந்தாள்.",
+  "synonyms": [
+   "flush",
+   "redden"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pout",
+  "meaning": "To push out your lips because you are unhappy",
+  "tamil": "உதட்டை பிதுக்க, முகத்தை தூக்கி வைக்க",
+  "pos": "verb",
+  "pron": "POWT",
+  "example": "The child pouted when we said no to ice cream.",
+  "exampleTamil": "ஐஸ்கிரீம் தர மறுத்ததும் குழந்தை உதட்டை பிதுக்கியது.",
+  "synonyms": [
+   "sulk",
+   "frown"
+  ],
+  "level": "beginner"
+ }
+]

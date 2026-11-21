@@ -1,0 +1,376 @@
+[
+ {
+  "en": "I have a reservation under the name Karthik.",
+  "tamil": "கார்த்திக் பேர்ல என்கிட்ட ரிசர்வேஷன் இருக்கு.",
+  "context": "Checking in at a hotel desk.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Under the name' tells the name on the booking. Keep the sentence short at the desk.",
+  "words": [
+   "reservation",
+   "name"
+  ],
+  "usage": "Say it at the hotel reception when you arrive for check-in.",
+  "leelaQ": "What do you say when you reach a hotel?",
+  "answer": "I say that I have a booking and give my name."
+ },
+ {
+  "en": "What time is check-out tomorrow?",
+  "tamil": "நாளைக்கு செக்-அவுட் எத்தனை மணிக்கு?",
+  "context": "Asking the hotel receptionist.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What time' asks for a clock time. Check-out is when you must leave the room.",
+  "words": [
+   "check-out"
+  ],
+  "usage": "Ask at the reception on the day you check in, so there is no surprise later.",
+  "leelaQ": "What time do you like to leave a hotel?",
+  "answer": "I like to leave early in the morning."
+ },
+ {
+  "en": "Could we have a room on a higher floor?",
+  "tamil": "ஒரு உயரமான மாடியில ரூம் கிடைக்குமா?",
+  "context": "Asking at the reception.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could we have ...?' is polite when you ask for a change. Give the reason if they ask.",
+  "words": [
+   "room",
+   "floor"
+  ],
+  "usage": "Ask politely at the hotel desk when the room is noisy or on the ground floor.",
+  "leelaQ": "Which floor do you like in a hotel?",
+  "answer": "I like a high floor because it is quiet."
+ },
+ {
+  "en": "The air conditioner in my room is not working.",
+  "tamil": "என் ரூம்ல ஏசி வேலை செய்யல.",
+  "context": "Calling the hotel reception.",
+  "tense": "present-continuous",
+  "type": "negative",
+  "explain": "'Is not working' is a common way to report a broken machine. 'In my room' tells where.",
+  "words": [
+   "air conditioner",
+   "working"
+  ],
+  "usage": "Say it on the hotel phone or at the reception when something breaks.",
+  "leelaQ": "What do you do when something in your room is broken?",
+  "answer": "I call the reception and ask them to fix it."
+ },
+ {
+  "en": "Please send someone to clean the room in the afternoon.",
+  "tamil": "மத்தியானம் ரூமை சுத்தம் பண்ண யாரையாவது அனுப்புங்க.",
+  "context": "Calling housekeeping.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Send someone' is used when you do not know a name. The time tells when you want it.",
+  "words": [
+   "clean",
+   "afternoon"
+  ],
+  "usage": "Say it to the front desk or to housekeeping when you need service.",
+  "leelaQ": "How do you want your hotel room to be?",
+  "answer": "I want it clean and quiet."
+ },
+ {
+  "en": "Breakfast is included in the price, isn't it?",
+  "tamil": "காலை உணவு விலையிலேயே சேர்ந்தது, இல்லையா?",
+  "context": "Confirming at check-in.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Isn't it?' at the end is a tag question. It checks that what you said is true.",
+  "words": [
+   "breakfast",
+   "included"
+  ],
+  "usage": "Use it at the desk to confirm before you pay or sign.",
+  "leelaQ": "Do you like hotel breakfast?",
+  "answer": "Yes, I like idli and dosa in the buffet."
+ },
+ {
+  "en": "We stayed in a small lodge near the bus stand last night.",
+  "tamil": "நேத்து ராத்திரி பஸ் ஸ்டாண்ட் பக்கத்துல ஒரு சின்ன லாட்ஜ்ல தங்கினோம்.",
+  "context": "Telling a friend about a trip.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Stayed' is the past of 'stay'. 'Last night' shows the time is finished.",
+  "words": [
+   "lodge",
+   "stayed"
+  ],
+  "usage": "Use it when you tell a friend or a colleague where you spent the night on a trip.",
+  "leelaQ": "Where did you stay on your last trip?",
+  "answer": "I stayed in a small hotel near the beach."
+ },
+ {
+  "en": "Could I have a late check-out, as my train is in the evening?",
+  "tamil": "என் ரயில் சாயங்காலம் இருக்கறதால லேட் செக்-அவுட் கிடைக்குமா?",
+  "context": "Asking the receptionist.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "The second sentence gives the reason. Giving a reason helps the staff to say yes.",
+  "words": [
+   "late check-out",
+   "evening"
+  ],
+  "usage": "Ask the reception before check-out when your travel is in the evening.",
+  "leelaQ": "What do you do between check-out and your train?",
+  "answer": "I leave my bag at the reception and walk around."
+ },
+ {
+  "en": "Excuse me, how do I get to the Meenakshi temple from here?",
+  "tamil": "மன்னிக்கணும், இங்க இருந்து மீனாட்சி கோயிலுக்கு எப்படி போறது?",
+  "context": "Asking a passer-by.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Excuse me' gets the person's attention. 'How do I get to' asks for the way.",
+  "words": [
+   "temple",
+   "get to"
+  ],
+  "usage": "Use it on the road when you ask a local person for directions.",
+  "leelaQ": "Whom do you ask when you lose your way?",
+  "answer": "I ask a shopkeeper or a policeman."
+ },
+ {
+  "en": "Go straight for two hundred metres and turn left at the signal.",
+  "tamil": "ரெண்டு நூறு மீட்டர் நேரா போய் சிக்னல்ல இடது பக்கம் திரும்புங்க.",
+  "context": "Giving directions to a stranger.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Directions use the imperative. 'At the signal' tells the place to turn.",
+  "words": [
+   "straight",
+   "signal"
+  ],
+  "usage": "Say it when you help a tourist or a new person find the way.",
+  "leelaQ": "Can you tell me the way to your house?",
+  "answer": "Go straight, take the second right and my house is on the left."
+ },
+ {
+  "en": "The museum is on your right, just after the petrol bunk.",
+  "tamil": "அருங்காட்சியகம் பெட்ரோல் பங்க்கை தாண்டியதும் உங்க வலது பக்கம் இருக்கும்.",
+  "context": "Helping a tourist.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'On your right' and 'just after' are useful for direction. 'Petrol bunk' is common in India.",
+  "words": [
+   "museum",
+   "petrol bunk"
+  ],
+  "usage": "Say it to a tourist or a visitor who asks for a place that is near you.",
+  "leelaQ": "What is the nearest landmark to your home?",
+  "answer": "There is a big temple at the end of my street."
+ },
+ {
+  "en": "I think we are lost. Let me check the map.",
+  "tamil": "நாம வழி தவறிட்டோம்னு நினைக்கிறேன். மேப்பை பாக்கறேன்.",
+  "context": "Talking to a friend while walking.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'We are lost' means you do not know where you are. 'Let me' offers to do something.",
+  "words": [
+   "lost",
+   "map"
+  ],
+  "usage": "Say it to your travel partner when you are not sure about the way.",
+  "leelaQ": "How do you find a place you do not know?",
+  "answer": "I use the map on my phone."
+ },
+ {
+  "en": "Is it far from here, or can we walk?",
+  "tamil": "இங்க இருந்து தூரமா, இல்ல நடந்து போகலாமா?",
+  "context": "Asking a local person.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "The word 'far' is mostly used in questions and negatives. 'Can we walk' is a good second choice.",
+  "words": [
+   "far",
+   "walk"
+  ],
+  "usage": "Ask a local person, a shopkeeper or a hotel staff member about a nearby place.",
+  "leelaQ": "Do you like to walk in a new city?",
+  "answer": "Yes, walking helps me see small streets and shops."
+ },
+ {
+  "en": "Where can I get a good guide for this fort?",
+  "tamil": "இந்த கோட்டைக்கு நல்ல கைடு எங்க கிடைப்பார்?",
+  "context": "Asking at the ticket counter.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Where can I get' asks about a place to find something. 'Guide' is a person who explains history.",
+  "words": [
+   "guide",
+   "fort"
+  ],
+  "usage": "Ask at the ticket counter of a famous place, or ask your hotel staff.",
+  "leelaQ": "Do you like to visit forts and old temples?",
+  "answer": "Yes, I like to learn about history there."
+ },
+ {
+  "en": "The entry ticket for foreigners is higher than for Indians.",
+  "tamil": "வெளிநாட்டவர்களுக்கு நுழைவு டிக்கெட் இந்தியர்களை விட அதிகம்.",
+  "context": "Talking about prices at a tourist spot.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Higher than' compares two things. 'Entry ticket' is the money to enter a place.",
+  "words": [
+   "entry ticket",
+   "higher"
+  ],
+  "usage": "Use it to explain the price at a tourist place to a visitor or a friend.",
+  "leelaQ": "How much did you pay for your last entry ticket?",
+  "answer": "I paid fifty rupees for a museum ticket."
+ },
+ {
+  "en": "Could you take a photo of us in front of the monument?",
+  "tamil": "நினைவுச்சின்னத்துக்கு முன்னாடி எங்கள ஒரு போட்டோ எடுத்து தர முடியுமா?",
+  "context": "Asking another tourist.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you' is the polite way to ask for a small favour. 'In front of' tells the background.",
+  "words": [
+   "photo",
+   "monument"
+  ],
+  "usage": "Ask a stranger at a tourist place when you are in a group and want one photo of all.",
+  "leelaQ": "Do you take many photos on trips?",
+  "answer": "Yes, I take a lot of photos of food and places."
+ },
+ {
+  "en": "We are going to see the sunrise from the hilltop tomorrow.",
+  "tamil": "நாளைக்கு மலை உச்சியில இருந்து சூரிய உதயத்தை பாக்கப் போறோம்.",
+  "context": "Telling the hotel staff your plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Are going to see' is a plan. 'From the hilltop' tells where.",
+  "words": [
+   "sunrise",
+   "hilltop"
+  ],
+  "usage": "Say it to hotel staff so they can arrange a cab or an early breakfast.",
+  "leelaQ": "What is the best view you have seen?",
+  "answer": "The best view was a sunrise at the beach."
+ },
+ {
+  "en": "Please do not touch the paintings in the museum.",
+  "tamil": "மியூசியத்துல ஓவியங்கள தொடாதீங்க.",
+  "context": "A guard speaks to the visitors.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Please do not touch' is a polite rule. Guards use it often in museums.",
+  "words": [
+   "touch",
+   "paintings"
+  ],
+  "usage": "Say it as a rule to children or visitors in a museum or a temple.",
+  "leelaQ": "What rules do you know for visitors in a temple?",
+  "answer": "We remove our shoes and stay quiet."
+ },
+ {
+  "en": "I loved the boat ride, but the water was a little rough.",
+  "tamil": "எனக்கு படகு சவாரி பிடிச்சது, ஆனா தண்ணி கொஞ்சம் கரடு முரடா இருந்தது.",
+  "context": "Telling a friend about a trip.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'But' shows a small difference in the same sentence. 'Rough' means not calm.",
+  "words": [
+   "boat ride",
+   "rough"
+  ],
+  "usage": "Use it when you share trip stories with friends or colleagues.",
+  "leelaQ": "Did you ever go on a boat ride?",
+  "answer": "Yes, I went on a boat ride in Kerala."
+ },
+ {
+  "en": "How far is the nearest bus stop from this hotel?",
+  "tamil": "இந்த ஹோட்டல்ல இருந்து பக்கத்துல இருக்கிற பஸ் ஸ்டாப் எவ்வளவு தூரம்?",
+  "context": "Asking the receptionist.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How far' asks for the distance. 'Nearest' is the superlative of 'near'.",
+  "words": [
+   "nearest",
+   "bus stop"
+  ],
+  "usage": "Ask hotel staff or a shopkeeper when you plan to go around by bus.",
+  "leelaQ": "How far is your office from your home?",
+  "answer": "It is about ten kilometres."
+ },
+ {
+  "en": "We have visited five places since morning, and I am very tired.",
+  "tamil": "நாங்க காலையில இருந்து ஐந்து இடம் பாத்துட்டோம், நான் ரொம்ப களைப்பா இருக்கேன்.",
+  "context": "Talking to your tour group.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Since morning' goes with 'have visited'. It shows the action that began in the past and goes on.",
+  "words": [
+   "visited",
+   "tired"
+  ],
+  "usage": "Say it to your tour partners when you want to take a rest.",
+  "leelaQ": "How do you rest after a long day of walking?",
+  "answer": "I sit down and drink some cold water."
+ },
+ {
+  "en": "I will show you the best street food in this city.",
+  "tamil": "இந்த ஊர்ல பெஸ்ட் ஸ்டிரீட் ஃபுட்ட நான் உங்களுக்கு காட்டுறேன்.",
+  "context": "Offering to a guest.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will show' is a friendly offer. 'Best' is the highest form of 'good'.",
+  "words": [
+   "street food",
+   "show"
+  ],
+  "usage": "Use it when a friend or a guest visits your city.",
+  "leelaQ": "What food should a visitor try in your city?",
+  "answer": "They should try biryani and filter coffee."
+ },
+ {
+  "en": "Can you recommend a quiet place for a family trip?",
+  "tamil": "குடும்பத்தோட போக அமைதியான இடத்தை பரிந்துரைக்க முடியுமா?",
+  "context": "Asking a travel agent.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you recommend' asks for suggestions. 'Quiet' shows what kind of place you want.",
+  "words": [
+   "recommend",
+   "quiet"
+  ],
+  "usage": "Ask a travel agent, a friend or a colleague when you plan a holiday.",
+  "leelaQ": "What kind of place do you like for a holiday?",
+  "answer": "I like hills with a cool climate."
+ },
+ {
+  "en": "There is no network here, so I cannot open the map.",
+  "tamil": "இங்க நெட்வொர்க் இல்ல, அதனால என்னால மேப்ப திறக்க முடியல.",
+  "context": "Telling a friend on a hill road.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'There is no' says that something does not exist. 'So' gives the result.",
+  "words": [
+   "network",
+   "map"
+  ],
+  "usage": "Say it when your phone does not work in a remote area.",
+  "leelaQ": "What do you do when your phone has no network?",
+  "answer": "I ask the people around and follow the road signs."
+ },
+ {
+  "en": "We reached the hotel late, so we skipped dinner.",
+  "tamil": "நாங்க ஹோட்டலுக்கு லேட்டா வந்ததால டின்னர் சாப்பிடல.",
+  "context": "Telling a friend about the first night of a trip.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'So' joins a reason and its result. Both verbs are in the simple past.",
+  "words": [
+   "skipped",
+   "reached"
+  ],
+  "usage": "Use it when you tell family or friends how a trip went.",
+  "leelaQ": "How was your last trip?",
+  "answer": "It was nice, but we reached the hotel very late."
+ }
+]

@@ -1,0 +1,381 @@
+[
+ {
+  "en": "Excuse me, how do I get to the railway station?",
+  "tamil": "மன்னிக்கவும், ரயில் நிலையத்துக்கு எப்படிப் போவது?",
+  "context": "Asking a stranger for directions",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Where is the railway station?",
+   "tamil": "ரயில் நிலையம் எங்கே இருக்கிறது?"
+  }
+ },
+ {
+  "en": "Could you tell me the way to the bus stand?",
+  "tamil": "பேருந்து நிலையத்துக்கு வழி சொல்ல முடியுமா?",
+  "context": "Asking directions on the street",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Is this the right way to the airport?",
+  "tamil": "விமான நிலையத்துக்குப் போக இதுதான் சரியான வழியா?",
+  "context": "Checking directions with a local",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "I'm lost. Could you help me, please?",
+  "tamil": "நான் வழி தவறிவிட்டேன். தயவுசெய்து உதவ முடியுமா?",
+  "context": "Asking a passer-by for help",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Could you point me to the nearest pharmacy?",
+  "tamil": "அருகிலுள்ள மருந்துக்கடை எங்கே என்று காட்ட முடியுமா?",
+  "context": "Looking for a pharmacy",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Where is the nearest pharmacy?",
+   "tamil": "பக்கத்தில் மருந்துக்கடை எங்கே?"
+  }
+ },
+ {
+  "en": "I'd like to book two tickets to Chennai.",
+  "tamil": "சென்னைக்கு இரண்டு டிக்கெட் முன்பதிவு செய்ய விரும்புகிறேன்.",
+  "context": "Booking tickets at a counter",
+  "tense": "modal",
+  "type": "request",
+  "alt": {
+   "en": "Two tickets to Chennai, please.",
+   "tamil": "சென்னைக்கு இரண்டு டிக்கெட் கொடுங்கள்."
+  }
+ },
+ {
+  "en": "Do you have any seats left for tonight?",
+  "tamil": "இன்றிரவுக்கு இருக்கைகள் ஏதாவது மீதமிருக்கிறதா?",
+  "context": "Asking at a ticket counter",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "Any seats for tonight?",
+   "tamil": "இன்றிரவுக்கு இருக்கை இருக்கா?"
+  }
+ },
+ {
+  "en": "Can I change my ticket to a later train?",
+  "tamil": "என் டிக்கெட்டை தாமதமான ரயிலுக்கு மாற்ற முடியுமா?",
+  "context": "Changing a booking",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "I missed my flight because of the traffic.",
+  "tamil": "போக்குவரத்து நெரிசலால் என் விமானத்தைத் தவறவிட்டேன்.",
+  "context": "Explaining a missed flight to staff",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "The agent helped me rebook my flight.",
+  "tamil": "முகவர் என் விமானத்தை மீண்டும் முன்பதிவு செய்ய உதவினார்.",
+  "context": "Telling a friend how it got fixed",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "Where can I find the check-in counter?",
+  "tamil": "செக்-இன் கவுண்டர் எங்கே இருக்கிறது?",
+  "context": "Asking at the airport",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Could you help me with my luggage?",
+  "tamil": "என் பெட்டிகளைத் தூக்க உதவ முடியுமா?",
+  "context": "Asking a porter or staff for help",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "My bag didn't arrive at the baggage claim.",
+  "tamil": "என் பை பெட்டி வரும் இடத்துக்கு வரவில்லை.",
+  "context": "Reporting lost luggage",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "I need to speak to someone about my lost bag.",
+  "tamil": "தொலைந்த என் பையைப் பற்றி யாரிடமாவது பேச வேண்டும்.",
+  "context": "At the airline help desk",
+  "tense": "present",
+  "type": "request"
+ },
+ {
+  "en": "I'd like to open a savings account.",
+  "tamil": "நான் ஒரு சேமிப்புக் கணக்கு தொடங்க விரும்புகிறேன்.",
+  "context": "Speaking to a bank clerk",
+  "tense": "modal",
+  "type": "request",
+  "alt": {
+   "en": "I want to open a savings account.",
+   "tamil": "எனக்கு ஒரு சேமிப்புக் கணக்கு தொடங்க வேண்டும்."
+  }
+ },
+ {
+  "en": "Could you tell me how to fill out this form?",
+  "tamil": "இந்தப் படிவத்தை எப்படி நிரப்புவது என்று சொல்ல முடியுமா?",
+  "context": "Asking a clerk at the bank",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "I don't have my ID with me today.",
+  "tamil": "இன்று என்னிடம் அடையாள அட்டை இல்லை.",
+  "context": "Explaining at a counter",
+  "tense": "present",
+  "type": "negative"
+ },
+ {
+  "en": "Would you help me transfer some money?",
+  "tamil": "பணம் மாற்றுவதற்கு எனக்கு உதவ முடியுமா?",
+  "context": "Asking bank staff for help",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Can you help me send money?",
+   "tamil": "பணம் அனுப்ப உதவ முடியுமா?"
+  }
+ },
+ {
+  "en": "I have a reservation under the name Kumar.",
+  "tamil": "குமார் என்ற பெயரில் எனக்கு முன்பதிவு இருக்கிறது.",
+  "context": "Checking in at a hotel",
+  "tense": "present",
+  "type": "statement"
+ },
+ {
+  "en": "Could I have a late checkout, please?",
+  "tamil": "தாமதமாக அறையைக் காலி செய்யலாமா?",
+  "context": "Asking the hotel reception",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "The air conditioner in my room isn't working.",
+  "tamil": "என் அறையில் ஏர் கண்டிஷனர் வேலை செய்யவில்லை.",
+  "context": "Calling hotel reception",
+  "tense": "present-continuous",
+  "type": "negative"
+ },
+ {
+  "en": "Could someone bring extra towels to my room?",
+  "tamil": "என் அறைக்கு யாராவது கூடுதல் துண்டுகள் கொண்டுவர முடியுமா?",
+  "context": "Calling housekeeping",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "I need a doctor right now.",
+  "tamil": "எனக்கு இப்போதே ஒரு மருத்துவர் தேவை.",
+  "context": "Urgent help at a hospital",
+  "tense": "present",
+  "type": "request"
+ },
+ {
+  "en": "I've had a fever since last night.",
+  "tamil": "நேற்றிரவு முதல் எனக்குக் காய்ச்சல் இருக்கிறது.",
+  "context": "Describing symptoms to a nurse",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "Where is the emergency room?",
+  "tamil": "அவசர சிகிச்சைப் பிரிவு எங்கே இருக்கிறது?",
+  "context": "Asking at a hospital",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Please call an ambulance right now!",
+  "tamil": "தயவுசெய்து இப்போதே ஆம்புலன்ஸை அழையுங்கள்!",
+  "context": "Urgent emergency request",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "My father is feeling very dizzy.",
+  "tamil": "என் அப்பாவுக்கு மிகவும் தலைசுற்றுகிறது.",
+  "context": "Explaining an emergency",
+  "tense": "present-continuous",
+  "type": "statement"
+ },
+ {
+  "en": "Can you recommend a good doctor nearby?",
+  "tamil": "அருகில் ஒரு நல்ல மருத்துவரைப் பரிந்துரைக்க முடியுமா?",
+  "context": "Asking a hotel receptionist",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "How much does this cost?",
+  "tamil": "இதன் விலை என்ன?",
+  "context": "Asking in a shop",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Could you give me a discount on this?",
+  "tamil": "இதில் தள்ளுபடி தர முடியுமா?",
+  "context": "Bargaining politely at a shop",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Can you lower the price?",
+   "tamil": "விலையைக் குறைக்க முடியுமா?"
+  }
+ },
+ {
+  "en": "Do you have this shirt in a larger size?",
+  "tamil": "இந்தச் சட்டை பெரிய அளவில் கிடைக்குமா?",
+  "context": "Asking a shop assistant",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "I'll come back after I check with my wife.",
+  "tamil": "என் மனைவியிடம் கேட்டுவிட்டு திரும்ப வருகிறேன்.",
+  "context": "Politely leaving a shop",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "Could you hold this seat for me for a minute?",
+  "tamil": "இந்த இருக்கையை ஒரு நிமிடம் எனக்காகப் பிடித்து வைக்க முடியுமா?",
+  "context": "Asking a fellow passenger",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Would you mind switching seats with me?",
+  "tamil": "என்னுடன் இருக்கையை மாற்றிக்கொள்ள முடியுமா?",
+  "context": "Asking a passenger on a flight",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Can we swap seats?",
+   "tamil": "இருக்கையை மாற்றிக்கொள்ளலாமா?"
+  }
+ },
+ {
+  "en": "I'm going to ask the guard for directions.",
+  "tamil": "நான் காவலரிடம் வழி கேட்கப் போகிறேன்.",
+  "context": "Deciding what to do when lost",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "A stranger helped me find my hotel last week.",
+  "tamil": "கடந்த வாரம் ஒரு அந்நியர் என் ஹோட்டலைக் கண்டுபிடிக்க உதவினார்.",
+  "context": "Telling a story about kindness",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I didn't know where to go, so I asked a shopkeeper.",
+  "tamil": "எங்கே போவது என்று தெரியாததால் கடைக்காரரிடம் கேட்டேன்.",
+  "context": "Telling how you found the way",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "They've already refunded my money.",
+  "tamil": "அவர்கள் ஏற்கனவே என் பணத்தைத் திருப்பித் தந்துவிட்டார்கள்.",
+  "context": "Updating a friend after a complaint",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "I haven't been given a receipt yet.",
+  "tamil": "எனக்கு இன்னும் ரசீது தரப்படவில்லை.",
+  "context": "Asking at a billing counter",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "We'll need a taxi to the hotel.",
+  "tamil": "ஹோட்டலுக்குப் போக நமக்கு ஒரு டாக்சி தேவைப்படும்.",
+  "context": "Asking at the airport desk",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I won't be able to carry all of this alone.",
+  "tamil": "இதையெல்லாம் தனியாக என்னால் தூக்க முடியாது.",
+  "context": "Asking someone to help carry",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "Is there anyone here who speaks Tamil?",
+  "tamil": "இங்கே தமிழ் பேசுபவர் யாராவது இருக்கிறார்களா?",
+  "context": "Asking for a language helper",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Would you please keep my place in the queue?",
+  "tamil": "வரிசையில் என் இடத்தைப் பிடித்து வைப்பீர்களா?",
+  "context": "Asking the person behind you",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "I'm sorry, I don't speak much Hindi.",
+  "tamil": "மன்னிக்கவும், எனக்கு அதிகமாக இந்தி பேசத் தெரியாது.",
+  "context": "Explaining a language barrier",
+  "tense": "present",
+  "type": "negative"
+ },
+ {
+  "en": "Please show me where to sign.",
+  "tamil": "எங்கே கையொப்பமிட வேண்டும் என்று காட்டுங்கள்.",
+  "context": "At a bank or office counter",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "Please tell me where the washroom is.",
+  "tamil": "கழிவறை எங்கே இருக்கிறது என்று சொல்லுங்கள்.",
+  "context": "Asking in a public place",
+  "tense": "imperative",
+  "type": "request",
+  "alt": {
+   "en": "Where's the washroom?",
+   "tamil": "கழிவறை எங்கே?"
+  }
+ },
+ {
+  "en": "Can I pay by card instead of cash?",
+  "tamil": "பணத்துக்குப் பதிலாக கார்டில் செலுத்தலாமா?",
+  "context": "Asking at a shop counter",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "I was waiting at the counter for an hour.",
+  "tamil": "நான் கவுண்டரில் ஒரு மணி நேரம் காத்திருந்தேன்.",
+  "context": "Complaining politely about waiting",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I'll be right back, thank you!",
+  "tamil": "நான் உடனே திரும்ப வருகிறேன், நன்றி!",
+  "context": "Stepping away after getting help",
+  "tense": "future",
+  "type": "statement"
+ }
+]

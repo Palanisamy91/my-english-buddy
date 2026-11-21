@@ -1,0 +1,352 @@
+[
+ {
+  "word": "pest control",
+  "meaning": "Getting rid of insects and animals that harm a home.",
+  "tamil": "பூச்சி ஒழிப்பு",
+  "pos": "noun",
+  "pron": "PEST kun-TROHL",
+  "example": "We booked pest control for next Sunday.",
+  "exampleTamil": "அடுத்த ஞாயிற்றுக்கிழமைக்குப் பூச்சி ஒழிப்புக்குப் பதிவு செய்தோம்.",
+  "synonyms": [
+   "fumigation",
+   "extermination"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "parent",
+  "meaning": "A mother or father.",
+  "tamil": "பெற்றோரில் ஒருவர்",
+  "pos": "noun",
+  "pron": "PAIR-unt",
+  "example": "Each parent must sign the school form.",
+  "exampleTamil": "ஒவ்வொரு பெற்றோரும் பள்ளிப் படிவத்தில் கையெழுத்திட வேண்டும்.",
+  "synonyms": [
+   "mother or father",
+   "guardian"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mother",
+  "meaning": "A woman who has a child.",
+  "tamil": "தாய்",
+  "pos": "noun",
+  "pron": "MUH-thur",
+  "example": "My mother wakes up at five every morning.",
+  "exampleTamil": "என் தாய் ஒவ்வொரு காலையும் ஐந்து மணிக்கு எழுகிறார்.",
+  "synonyms": [
+   "mom",
+   "mum"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "father",
+  "meaning": "A man who has a child.",
+  "tamil": "தந்தை",
+  "pos": "noun",
+  "pron": "FAH-thur",
+  "example": "My father works in a bank.",
+  "exampleTamil": "என் தந்தை வங்கியில் வேலை செய்கிறார்.",
+  "synonyms": [
+   "dad",
+   "papa"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mom",
+  "meaning": "A child's word for mother, used in casual speech.",
+  "tamil": "அம்மா",
+  "pos": "noun",
+  "pron": "MOM",
+  "example": "Mom is cooking my favourite sambar today.",
+  "exampleTamil": "இன்று அம்மா எனக்குப் பிடித்த சாம்பார் சமைக்கிறார்.",
+  "synonyms": [
+   "mum",
+   "mother"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dad",
+  "meaning": "A child's word for father, used in casual speech.",
+  "tamil": "அப்பா",
+  "pos": "noun",
+  "pron": "DAD",
+  "example": "Dad dropped me at school on his way to work.",
+  "exampleTamil": "வேலைக்குப் போகும் வழியில் அப்பா என்னைப் பள்ளியில் இறக்கிவிட்டார்.",
+  "synonyms": [
+   "papa",
+   "father"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mother-in-law",
+  "meaning": "The mother of your husband or wife.",
+  "tamil": "மாமியார்",
+  "pos": "noun",
+  "pron": "MUH-thur in law",
+  "example": "My mother-in-law makes the best filter coffee.",
+  "exampleTamil": "என் மாமியார் மிகச் சிறந்த ஃபில்டர் காபி போடுவார்.",
+  "synonyms": [
+   "husband's mother",
+   "wife's mother"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "father-in-law",
+  "meaning": "The father of your husband or wife.",
+  "tamil": "மாமனார்",
+  "pos": "noun",
+  "pron": "FAH-thur in law",
+  "example": "His father-in-law retired from the railways last year.",
+  "exampleTamil": "அவனுடைய மாமனார் கடந்த ஆண்டு ரயில்வேயிலிருந்து ஓய்வு பெற்றார்.",
+  "synonyms": [
+   "husband's father",
+   "wife's father"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "brother-in-law",
+  "meaning": "The brother of your husband or wife, or your sister's husband.",
+  "tamil": "மைத்துனர் / அத்தான்",
+  "pos": "noun",
+  "pron": "BRUH-thur in law",
+  "example": "My brother-in-law is visiting us from Chennai.",
+  "exampleTamil": "என் மைத்துனர் சென்னையிலிருந்து எங்களைப் பார்க்க வருகிறார்.",
+  "synonyms": [
+   "spouse's brother",
+   "sister's husband"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sister-in-law",
+  "meaning": "The sister of your husband or wife, or your brother's wife.",
+  "tamil": "நாத்தனார் / அண்ணி",
+  "pos": "noun",
+  "pron": "SIS-ter in law",
+  "example": "She and her sister-in-law go shopping together.",
+  "exampleTamil": "அவளும் அவளுடைய நாத்தனாரும் சேர்ந்து கடைக்குச் செல்கிறார்கள்.",
+  "synonyms": [
+   "spouse's sister",
+   "brother's wife"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grandson",
+  "meaning": "The son of your son or daughter.",
+  "tamil": "பேரன்",
+  "pos": "noun",
+  "pron": "GRAND-sun",
+  "example": "Her grandson visits her every weekend.",
+  "exampleTamil": "அவளுடைய பேரன் ஒவ்வொரு வார இறுதியும் அவளைப் பார்க்க வருகிறான்.",
+  "synonyms": [
+   "child's son",
+   "grandchild"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "granddaughter",
+  "meaning": "The daughter of your son or daughter.",
+  "tamil": "பேத்தி",
+  "pos": "noun",
+  "pron": "GRAND-daw-ter",
+  "example": "My granddaughter is learning to dance.",
+  "exampleTamil": "என் பேத்தி நடனம் கற்றுக்கொள்கிறாள்.",
+  "synonyms": [
+   "child's daughter",
+   "grandchild"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grandparents",
+  "meaning": "The parents of your mother or father.",
+  "tamil": "தாத்தா பாட்டி",
+  "pos": "noun",
+  "pron": "GRAND-pair-unts",
+  "example": "We spend every summer holiday with my grandparents.",
+  "exampleTamil": "ஒவ்வொரு கோடை விடுமுறையையும் நாங்கள் தாத்தா பாட்டியுடன் கழிக்கிறோம்.",
+  "synonyms": [
+   "elders",
+   "forebears"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "twin",
+  "meaning": "One of two children born at the same time to the same mother.",
+  "tamil": "இரட்டையர்",
+  "pos": "noun",
+  "pron": "TWIN",
+  "example": "My sister has a twin who lives in Madurai.",
+  "exampleTamil": "என் சகோதரிக்கு மதுரையில் வசிக்கும் ஓர் இரட்டையர் இருக்கிறார்.",
+  "synonyms": [
+   "double",
+   "sibling"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "relatives",
+  "meaning": "People who belong to the same family as you.",
+  "tamil": "உறவினர்கள்",
+  "pos": "noun",
+  "pron": "REL-uh-tivz",
+  "example": "Many relatives came to the temple function.",
+  "exampleTamil": "கோயில் விழாவுக்கு நிறைய உறவினர்கள் வந்தார்கள்.",
+  "synonyms": [
+   "kin",
+   "family members"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "guardian",
+  "meaning": "A person who legally takes care of a child.",
+  "tamil": "பாதுகாவலர்",
+  "pos": "noun",
+  "pron": "GAR-dee-un",
+  "example": "The school needs a guardian's signature on this form.",
+  "exampleTamil": "இந்தப் படிவத்தில் பள்ளிக்குப் பாதுகாவலரின் கையெழுத்து தேவை.",
+  "synonyms": [
+   "caretaker",
+   "custodian"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "newborn",
+  "meaning": "A baby who has just been born.",
+  "tamil": "புதிதாகப் பிறந்த குழந்தை",
+  "pos": "noun",
+  "pron": "NOO-born",
+  "example": "The newborn sleeps for most of the day.",
+  "exampleTamil": "புதிதாகப் பிறந்த குழந்தை நாளின் பெரும்பகுதி தூங்குகிறது.",
+  "synonyms": [
+   "infant",
+   "baby"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "baby",
+  "meaning": "A very young child who cannot walk or talk yet.",
+  "tamil": "குழந்தை",
+  "pos": "noun",
+  "pron": "BAY-bee",
+  "example": "The baby smiled when she saw her mother.",
+  "exampleTamil": "தாயைப் பார்த்ததும் குழந்தை சிரித்தது.",
+  "synonyms": [
+   "infant",
+   "little one"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "eldest",
+  "meaning": "The oldest child among brothers and sisters.",
+  "tamil": "மூத்த",
+  "pos": "adjective",
+  "pron": "EL-dist",
+  "example": "My eldest brother lives and works in Bengaluru.",
+  "exampleTamil": "என் மூத்த அண்ணன் பெங்களூருவில் வசித்து வேலை செய்கிறார்.",
+  "synonyms": [
+   "oldest",
+   "firstborn"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "youngest",
+  "meaning": "The smallest in age among brothers and sisters.",
+  "tamil": "இளைய",
+  "pos": "adjective",
+  "pron": "YUNG-ist",
+  "example": "She is the youngest child in our family.",
+  "exampleTamil": "அவள் எங்கள் குடும்பத்தின் இளைய குழந்தை.",
+  "synonyms": [
+   "last-born",
+   "smallest"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "only child",
+  "meaning": "A child who has no brothers or sisters.",
+  "tamil": "ஒரே குழந்தை",
+  "pos": "noun",
+  "pron": "OHN-lee CHYLD",
+  "example": "I am an only child, so I played alone a lot.",
+  "exampleTamil": "நான் ஒரே குழந்தை, அதனால் தனியாக நிறைய விளையாடினேன்.",
+  "synonyms": [
+   "single child",
+   "lone child"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "extended family",
+  "meaning": "A family that includes uncles, aunts and cousins too.",
+  "tamil": "பெரிய உறவுக் குடும்பம்",
+  "pos": "noun",
+  "pron": "ik-STEN-did FAM-lee",
+  "example": "Our extended family meets every Diwali.",
+  "exampleTamil": "எங்கள் பெரிய உறவுக் குடும்பம் ஒவ்வொரு தீபாவளிக்கும் சந்திக்கிறது.",
+  "synonyms": [
+   "relatives",
+   "kin"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "joint family",
+  "meaning": "A family where several generations live together in one house.",
+  "tamil": "கூட்டுக் குடும்பம்",
+  "pos": "noun",
+  "pron": "JOYNT FAM-lee",
+  "example": "He grew up in a joint family with twelve people.",
+  "exampleTamil": "அவன் பன்னிரண்டு பேர் கொண்ட கூட்டுக் குடும்பத்தில் வளர்ந்தான்.",
+  "synonyms": [
+   "combined household",
+   "big family"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bride",
+  "meaning": "A woman who is getting married.",
+  "tamil": "மணமகள்",
+  "pos": "noun",
+  "pron": "BRYD",
+  "example": "The bride looked beautiful in her red saree.",
+  "exampleTamil": "மணமகள் சிவப்புப் புடவையில் அழகாக இருந்தாள்.",
+  "synonyms": [
+   "newlywed",
+   "wife-to-be"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "groom",
+  "meaning": "A man who is getting married.",
+  "tamil": "மணமகன்",
+  "pos": "noun",
+  "pron": "GROOM",
+  "example": "The groom arrived at the hall on a decorated car.",
+  "exampleTamil": "மணமகன் அலங்கரிக்கப்பட்ட காரில் மண்டபத்துக்கு வந்தார்.",
+  "synonyms": [
+   "husband-to-be",
+   "newlywed"
+  ],
+  "level": "beginner"
+ }
+]

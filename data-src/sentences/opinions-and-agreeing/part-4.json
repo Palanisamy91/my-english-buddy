@@ -1,0 +1,369 @@
+[
+ {
+  "en": "I will support your idea in tomorrow's meeting.",
+  "tamil": "நாளைக்கு மீட்டிங்ல நான் உங்க ஐடியாவை ஆதரிப்பேன்.",
+  "context": "Promising support to a colleague.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' is used for a promise or a decision made while speaking.",
+  "words": [
+   "support"
+  ],
+  "usage": "Say it to a colleague who is nervous about sharing an idea.",
+  "leelaQ": "How do you support a friend who has a new idea?",
+  "answer": "I listen carefully and tell others why I think the idea is good."
+ },
+ {
+  "en": "What is better for your health, running or yoga?",
+  "tamil": "உடம்புக்கு ஓட்டமா, யோகாவா எது நல்லது?",
+  "context": "Asking for health advice.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What is better...?' with two choices asks for a comparison.",
+  "words": [
+   "health",
+   "yoga"
+  ],
+  "usage": "Ask a friend or a trainer who knows about fitness.",
+  "leelaQ": "How do you keep yourself fit and healthy?",
+  "answer": "I keep fit by walking every evening and doing some yoga."
+ },
+ {
+  "en": "To be honest, I enjoyed the book more than the movie.",
+  "tamil": "உண்மைய சொல்லணும்னா, எனக்கு படத்தை விட புத்தகம் தான் அதிகமா பிடிச்சுது.",
+  "context": "Comparing a book and its film.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'To be honest' introduces a frank opinion. 'More than' compares the two.",
+  "words": [
+   "to be honest",
+   "enjoyed"
+  ],
+  "usage": "Use it in a chat with friends about a book that became a film.",
+  "leelaQ": "Do you enjoy books or movies more?",
+  "answer": "I enjoy movies more because I can relax and watch with my family."
+ },
+ {
+  "en": "Can we please talk about this calmly?",
+  "tamil": "நாம இதை அமைதியா பேசலாமா?",
+  "context": "Cooling down a heated talk.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can we please...?' is a soft way to ask for a calm talk.",
+  "words": [
+   "calmly"
+  ],
+  "usage": "Use it at home or work when a discussion becomes loud or tense.",
+  "leelaQ": "How do you stay calm in an argument?",
+  "answer": "I take a deep breath and speak slowly to stay calm."
+ },
+ {
+  "en": "You make a fair point about the traffic.",
+  "tamil": "டிராஃபிக் பத்தி நீங்க சொன்னது நியாயமான கருத்து.",
+  "context": "Accepting a point in a discussion.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Make a fair point' is a polite way to say the other person is right.",
+  "words": [
+   "fair point",
+   "traffic"
+  ],
+  "usage": "Use it when someone mentions a problem you had not considered.",
+  "leelaQ": "What is the biggest traffic problem in your area?",
+  "answer": "The biggest problem is too many two-wheelers near the main signal."
+ },
+ {
+  "en": "I believe honesty matters more than marks.",
+  "tamil": "மதிப்பெண்களை விட நேர்மை தான் முக்கியம்னு நான் நம்புறேன்.",
+  "context": "Sharing a belief about values.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'I believe' shows a deeper opinion. 'Matters more than' compares two values.",
+  "words": [
+   "honesty",
+   "matters"
+  ],
+  "usage": "Use it in a talk about values with students or colleagues.",
+  "leelaQ": "What matters more to you, marks or honesty?",
+  "answer": "Honesty matters more to me because people trust honest people."
+ },
+ {
+  "en": "Are you sure this is the best option?",
+  "tamil": "இதுதான் சிறந்த ஆப்ஷன்னு உங்களுக்கு உறுதியா தெரியுமா?",
+  "context": "Politely doubting a choice.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Are you sure...?' lets you doubt something in a polite way.",
+  "words": [
+   "sure",
+   "best option"
+  ],
+  "usage": "Use it when a friend is about to pay for something and you have doubts.",
+  "leelaQ": "When do you ask 'Are you sure?' to someone?",
+  "answer": "I ask it when a friend is about to make a big decision."
+ },
+ {
+  "en": "I have decided that the red shirt suits you better.",
+  "tamil": "சிவப்பு சட்டை தான் உங்களுக்கு நல்லா இருக்கும்னு நான் முடிவு பண்ணிட்டேன்.",
+  "context": "Helping a friend choose clothes.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Suits you' means it looks good on you. 'Better' compares two shirts.",
+  "words": [
+   "suits",
+   "red shirt"
+  ],
+  "usage": "Say it in a clothes shop when a friend cannot choose.",
+  "leelaQ": "What colour suits you best?",
+  "answer": "Blue suits me best because it looks good with my skin colour."
+ },
+ {
+  "en": "We cannot say that one is always better than the other.",
+  "tamil": "ஒண்ணு எப்பவும் இன்னொண்ணை விட நல்லதுன்னு நாம சொல்ல முடியாது.",
+  "context": "Giving a balanced opinion.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Cannot say' is useful when the answer is not simple. 'Always' is the key word.",
+  "words": [
+   "always better"
+  ],
+  "usage": "Use it in a debate when both sides have good points.",
+  "leelaQ": "Is one kind of food or travel always better than another?",
+  "answer": "No, it always depends on the place, the time and the person."
+ },
+ {
+  "en": "Is anyone here against the new timing?",
+  "tamil": "புது நேரத்தை யாராவது எதிர்க்கிறீங்களா?",
+  "context": "Checking for disagreement in a group.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Against' means you do not support something. This question invites honest views.",
+  "words": [
+   "against",
+   "timing"
+  ],
+  "usage": "Use it in a team meeting before you finalise a schedule.",
+  "leelaQ": "How do you feel about the timing of your work or classes?",
+  "answer": "I feel it is good, but a little earlier start would be better."
+ },
+ {
+  "en": "Suggest a good book for me to read this weekend.",
+  "tamil": "இந்த வார இறுதியில் படிக்க ஒரு நல்ல புத்தகம் சொல்லுங்க.",
+  "context": "Asking a friend for a book idea.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Suggest' is a verb for giving a recommendation. 'For me to read' shows the purpose.",
+  "words": [
+   "suggest",
+   "weekend"
+  ],
+  "usage": "Use it with a friend who reads a lot.",
+  "leelaQ": "What book would you suggest to a beginner reader?",
+  "answer": "I would suggest a short story book because it is easy to finish."
+ },
+ {
+  "en": "Who do you think will win the match tomorrow?",
+  "tamil": "நாளைக்கு மேட்ச்ல யார் ஜெயிப்பாங்கன்னு நினைக்கிறீங்க?",
+  "context": "Guessing a match result with friends.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Who do you think will...?' asks for a prediction about the future.",
+  "words": [
+   "match",
+   "win"
+  ],
+  "usage": "Use it in a friendly chat before a cricket or football match.",
+  "leelaQ": "Which team do you think will win the next big match?",
+  "answer": "I think our home team will win because the players are in good form."
+ },
+ {
+  "en": "Help me choose between these two sarees.",
+  "tamil": "இந்த ரெண்டு புடவையில எதை எடுக்கறதுன்னு எனக்கு உதவுங்க.",
+  "context": "Asking for help in a shop.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Choose between' is used when you have exactly two things.",
+  "words": [
+   "choose",
+   "sarees"
+  ],
+  "usage": "Use it with a friend, a sister or a shop assistant when you cannot decide.",
+  "leelaQ": "Who helps you when you cannot decide what to buy?",
+  "answer": "My sister helps me because she knows my taste well."
+ },
+ {
+  "en": "Do you mind if I share a different idea?",
+  "tamil": "நான் வேற ஒரு ஐடியா சொல்லலாமா, உங்களுக்கு ஓகேவா?",
+  "context": "Politely disagreeing in a meeting.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you mind if I...?' asks for permission politely before you disagree.",
+  "words": [
+   "different idea"
+  ],
+  "usage": "Use it in a meeting when you want to give another view politely.",
+  "leelaQ": "How do you share a different opinion politely?",
+  "answer": "I say that I see their point, but I ask if I may share another idea."
+ },
+ {
+  "en": "I don't mind waiting, it is fine.",
+  "tamil": "நான் காத்திருக்க தயார், பரவாயில்ல.",
+  "context": "Showing that you are flexible.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'I don't mind' means 'it is okay for me'. It is a friendly, flexible phrase.",
+  "words": [
+   "mind",
+   "waiting"
+  ],
+  "usage": "Say it when a friend is late or when a host asks you to wait for a while.",
+  "leelaQ": "How long can you wait for a friend without feeling upset?",
+  "answer": "I can wait for fifteen minutes, but not more than that."
+ },
+ {
+  "en": "Could you tell me why you prefer village life?",
+  "tamil": "கிராம வாழ்க்கை ஏன் உங்களுக்கு பிடிக்கும்னு சொல்ல முடியுமா?",
+  "context": "Asking for someone's reason.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could you tell me why...?' is a polite way to ask for a reason.",
+  "words": [
+   "village life"
+  ],
+  "usage": "Use it when you are curious about a friend's lifestyle choice.",
+  "leelaQ": "What do you like most about village life?",
+  "answer": "I like the fresh air and the friendly neighbours in a village."
+ },
+ {
+  "en": "Could you let me know if you like this design?",
+  "tamil": "இந்த டிசைன் உங்களுக்கு பிடிச்சிருக்கான்னு சொல்ல முடியுமா?",
+  "context": "Asking a client for a reaction.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Let me know' asks someone to tell you later. 'If' here means 'whether'.",
+  "words": [
+   "let me know",
+   "design"
+  ],
+  "usage": "Use it with a client or a colleague after sharing your work.",
+  "leelaQ": "What do you say when you need quick feedback from someone?",
+  "answer": "I ask them to give me feedback by evening."
+ },
+ {
+  "en": "The second option is not as good as the first.",
+  "tamil": "முதல் ஆப்ஷனை விட ரெண்டாவது அவ்வளவு நல்லா இல்ல.",
+  "context": "Comparing two options with a negative.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not as good as' says one thing is weaker than another.",
+  "words": [
+   "option"
+  ],
+  "usage": "Use it when you rank two choices, like two plans or two products.",
+  "leelaQ": "What do you do when one option is not as good as the other?",
+  "answer": "I choose the better one and keep the other as a backup."
+ },
+ {
+  "en": "Are you enjoying the new job more than the old one?",
+  "tamil": "பழைய வேலையை விட புது வேலை உங்களுக்கு அதிகம் பிடிச்சிருக்கா?",
+  "context": "Asking a friend about a job change.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Are you enjoying...?' asks about a feeling in these days.",
+  "words": [
+   "enjoying",
+   "new job"
+  ],
+  "usage": "Ask it when you meet a friend who changed jobs recently.",
+  "leelaQ": "What do you enjoy most about your work?",
+  "answer": "I enjoy working with friendly people and learning new things."
+ },
+ {
+  "en": "What makes you say that this place is expensive?",
+  "tamil": "இந்த இடம் விலை அதிகம்னு நீங்க ஏன் சொல்றீங்க?",
+  "context": "Asking for a reason behind a comment.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What makes you say...?' politely asks why someone holds an opinion.",
+  "words": [
+   "expensive"
+  ],
+  "usage": "Use it when you want to understand a friend's complaint without arguing.",
+  "leelaQ": "What makes a place expensive in your opinion?",
+  "answer": "A place is expensive when the food and rent cost more than normal."
+ },
+ {
+  "en": "Shall we ask the others what they think?",
+  "tamil": "மத்தவங்க என்ன நினைக்கிறாங்கன்னு கேட்கலாமா?",
+  "context": "Suggesting to include everyone.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Shall we...?' is a friendly suggestion that includes the listener.",
+  "words": [
+   "others"
+  ],
+  "usage": "Use it in a group when only a few people have spoken.",
+  "leelaQ": "Why is it good to ask everyone's opinion in a group?",
+  "answer": "It is good because everyone feels important and we get better ideas."
+ },
+ {
+  "en": "Should we wait for the others or start now?",
+  "tamil": "மத்தவங்களுக்காக காத்திருக்கலாமா, இல்ல இப்பவே ஆரம்பிக்கலாமா?",
+  "context": "Asking the group for a decision.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Should we...?' asks for advice from the group. 'Or' gives two choices.",
+  "words": [
+   "wait",
+   "start"
+  ],
+  "usage": "Use it when a meeting or a lunch is late and some people are missing.",
+  "leelaQ": "Do you usually wait for friends or start without them?",
+  "answer": "I usually wait for a few minutes, and then I start."
+ },
+ {
+  "en": "I did not enjoy the game because it was too loud.",
+  "tamil": "சத்தம் ரொம்ப அதிகமா இருந்ததால எனக்கு அந்த ஆட்டம் பிடிக்கல.",
+  "context": "Giving a reason for disliking an event.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not' + base verb makes a past negative. 'Because' gives the reason.",
+  "words": [
+   "enjoy",
+   "loud"
+  ],
+  "usage": "Use it when friends ask why you left a match or a party early.",
+  "leelaQ": "What kind of place do you not enjoy, and why?",
+  "answer": "I don't enjoy crowded places because I feel tired very fast."
+ },
+ {
+  "en": "Please say it again, I want to understand your point.",
+  "tamil": "மறுபடியும் சொல்லுங்க, உங்க கருத்தை நான் புரிஞ்சுக்கணும்.",
+  "context": "Asking someone to repeat politely.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "This shows you are interested, not annoyed. It is a polite way to ask for repetition.",
+  "words": [
+   "understand",
+   "point"
+  ],
+  "usage": "Use it in a meeting or a class when you did not catch someone's idea.",
+  "leelaQ": "What do you do when you do not understand someone's point?",
+  "answer": "I ask them to repeat it slowly and give one example."
+ },
+ {
+  "en": "How was your trip compared to last year's?",
+  "tamil": "போன வருஷ டிரிப்போட ஒப்பிட்டா இந்த டிரிப் எப்படி இருந்துச்சு?",
+  "context": "Asking a friend to compare two trips.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Compared to...' asks for a comparison. 'Last year's' means last year's trip.",
+  "words": [
+   "compared to",
+   "trip"
+  ],
+  "usage": "Ask it when a friend returns from a holiday they take every year.",
+  "leelaQ": "How was your last holiday compared to the one before?",
+  "answer": "It was better because the weather was nice and the hotel was good."
+ }
+]

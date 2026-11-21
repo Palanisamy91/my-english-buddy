@@ -1,0 +1,352 @@
+[
+ {
+  "word": "invest",
+  "meaning": "to put money into something to earn more later",
+  "tamil": "முதலீடு செய்",
+  "pos": "verb",
+  "pron": "in-VEST",
+  "example": "She invests a little money every month.",
+  "exampleTamil": "அவள் ஒவ்வொரு மாதமும் கொஞ்சம் பணம் முதலீடு செய்கிறாள்.",
+  "synonyms": [
+   "put in",
+   "fund"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "put up with",
+  "meaning": "to accept something annoying without complaining",
+  "tamil": "பொறுத்துக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "poot UP with",
+  "example": "I cannot put up with this noise any longer.",
+  "exampleTamil": "இந்தச் சத்தத்தை இனியும் என்னால் பொறுத்துக்கொள்ள முடியாது.",
+  "synonyms": [
+   "tolerate",
+   "bear"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fall apart",
+  "meaning": "to break into pieces or fail completely",
+  "tamil": "சிதைந்து போ",
+  "pos": "phrasal verb",
+  "pron": "fawl uh-PART",
+  "example": "Do not let your plan fall apart.",
+  "exampleTamil": "உன் திட்டம் சிதைந்து போக விடாதே.",
+  "synonyms": [
+   "collapse",
+   "break down"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "make out",
+  "meaning": "to see or understand something with difficulty",
+  "tamil": "புரிந்துகொள்; அரைகுறையாகப் பார்",
+  "pos": "phrasal verb",
+  "pron": "mayk OWT",
+  "example": "I could not make out what he was saying.",
+  "exampleTamil": "அவன் என்ன சொல்கிறான் என்பதை என்னால் புரிந்துகொள்ள முடியவில்லை.",
+  "synonyms": [
+   "understand",
+   "spot"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "take up",
+  "meaning": "to start a new hobby or activity",
+  "tamil": "புதிதாகத் தொடங்கு",
+  "pos": "phrasal verb",
+  "pron": "tayk UP",
+  "example": "I want to take up painting this year.",
+  "exampleTamil": "இந்த ஆண்டு நான் ஓவியம் வரையத் தொடங்க விரும்புகிறேன்.",
+  "synonyms": [
+   "start",
+   "begin"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "think over",
+  "meaning": "to consider something carefully before deciding",
+  "tamil": "நன்கு யோசி",
+  "pos": "phrasal verb",
+  "pron": "think OH-vur",
+  "example": "Let me think over your offer tonight.",
+  "exampleTamil": "உங்கள் வாய்ப்பை இன்று இரவு நன்கு யோசிக்கிறேன்.",
+  "synonyms": [
+   "consider",
+   "ponder"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wear out",
+  "meaning": "to become useless after much use, or to make very tired",
+  "tamil": "தேய்ந்து போ; களைப்படை",
+  "pos": "phrasal verb",
+  "pron": "wair OWT",
+  "example": "Cheap sandals wear out very quickly.",
+  "exampleTamil": "மலிவான செருப்புகள் மிக விரைவாகத் தேய்ந்து போகும்.",
+  "synonyms": [
+   "exhaust",
+   "fray"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dodge",
+  "meaning": "to move quickly to avoid something",
+  "tamil": "தவிர்த்து விலகு",
+  "pos": "verb",
+  "pron": "DOJ",
+  "example": "He dodged the question like a politician.",
+  "exampleTamil": "அவன் அந்தக் கேள்வியை ஒரு அரசியல்வாதியைப் போல் தவிர்த்தான்.",
+  "synonyms": [
+   "avoid",
+   "evade"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "skim",
+  "meaning": "to read quickly to get the main idea",
+  "tamil": "மேலோட்டமாகப் படி",
+  "pos": "verb",
+  "pron": "SKIM",
+  "example": "I only skimmed the report before the meeting.",
+  "exampleTamil": "கூட்டத்துக்கு முன் நான் அறிக்கையை மேலோட்டமாக மட்டுமே படித்தேன்.",
+  "synonyms": [
+   "scan",
+   "glance at"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "monitor",
+  "meaning": "to watch something carefully over time",
+  "tamil": "கண்காணி",
+  "pos": "verb",
+  "pron": "MON-i-tur",
+  "example": "Doctors monitor his blood pressure every day.",
+  "exampleTamil": "மருத்துவர்கள் அவரது இரத்த அழுத்தத்தை தினமும் கண்காணிக்கிறார்கள்.",
+  "synonyms": [
+   "watch",
+   "track"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "swap",
+  "meaning": "to give one thing and take another in return",
+  "tamil": "மாற்றிக்கொள்",
+  "pos": "verb",
+  "pron": "SWOP",
+  "example": "Can we swap seats? I want the window.",
+  "exampleTamil": "நாம் இருக்கைகளை மாற்றிக்கொள்ளலாமா? எனக்கு ஜன்னல் வேண்டும்.",
+  "synonyms": [
+   "exchange",
+   "trade"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tweak",
+  "meaning": "to make a small change to improve something",
+  "tamil": "சிறிய மாற்றம் செய்",
+  "pos": "verb",
+  "pron": "TWEEK",
+  "example": "I tweaked the design a little before sending it.",
+  "exampleTamil": "அனுப்பும் முன் நான் வடிவமைப்பில் சிறிய மாற்றம் செய்தேன்.",
+  "synonyms": [
+   "adjust",
+   "modify"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wind down",
+  "meaning": "to relax, or to slowly come to an end",
+  "tamil": "மெல்ல முடிவுக்கு வா; ஓய்வெடு",
+  "pos": "phrasal verb",
+  "pron": "wynd DOWN",
+  "example": "I listen to music to wind down after work.",
+  "exampleTamil": "வேலை முடிந்தபின் ஓய்வெடுக்க நான் இசை கேட்பேன்.",
+  "synonyms": [
+   "relax",
+   "unwind"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "brush up",
+  "meaning": "to improve a skill you had before",
+  "tamil": "திறனைப் புதுப்பி",
+  "pos": "phrasal verb",
+  "pron": "brush UP",
+  "example": "I need to brush up my English before the interview.",
+  "exampleTamil": "நேர்காணலுக்கு முன் நான் என் ஆங்கிலத்தைப் புதுப்பிக்க வேண்டும்.",
+  "synonyms": [
+   "refresh",
+   "improve"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ramp up",
+  "meaning": "to increase something quickly",
+  "tamil": "விரைவாக அதிகரி",
+  "pos": "phrasal verb",
+  "pron": "ramp UP",
+  "example": "The factory will ramp up production before the festival.",
+  "exampleTamil": "பண்டிகைக்கு முன் தொழிற்சாலை உற்பத்தியை விரைவாக அதிகரிக்கும்.",
+  "synonyms": [
+   "increase",
+   "boost"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scale up",
+  "meaning": "to make something bigger in size or amount",
+  "tamil": "விரிவுபடுத்து",
+  "pos": "phrasal verb",
+  "pron": "skayl UP",
+  "example": "They plan to scale up the business next year.",
+  "exampleTamil": "அவர்கள் அடுத்த ஆண்டு தொழிலை விரிவுபடுத்தத் திட்டமிடுகிறார்கள்.",
+  "synonyms": [
+   "expand",
+   "grow"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "roll out",
+  "meaning": "to start offering a new product or plan to people",
+  "tamil": "அறிமுகப்படுத்து",
+  "pos": "phrasal verb",
+  "pron": "rohl OWT",
+  "example": "The bank will roll out the new app next month.",
+  "exampleTamil": "வங்கி அடுத்த மாதம் புதிய செயலியை அறிமுகப்படுத்தும்.",
+  "synonyms": [
+   "launch",
+   "introduce"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "kick off",
+  "meaning": "to start a meeting, event or project",
+  "tamil": "தொடங்கி வை",
+  "pos": "phrasal verb",
+  "pron": "kik OFF",
+  "example": "We will kick off the project on Monday.",
+  "exampleTamil": "நாங்கள் திங்கட்கிழமை திட்டத்தைத் தொடங்கி வைப்போம்.",
+  "synonyms": [
+   "start",
+   "begin"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "opt out",
+  "meaning": "to choose not to take part in something",
+  "tamil": "விலகிக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "opt OWT",
+  "example": "You can opt out of the email list anytime.",
+  "exampleTamil": "நீங்கள் எப்போது வேண்டுமானாலும் மின்னஞ்சல் பட்டியலிலிருந்து விலகிக்கொள்ளலாம்.",
+  "synonyms": [
+   "withdraw",
+   "back out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fine-tune",
+  "meaning": "to make small changes to get the best result",
+  "tamil": "நுணுக்கமாகச் சீரமை",
+  "pos": "verb",
+  "pron": "fyne TOON",
+  "example": "The coach fine-tuned the team before the final.",
+  "exampleTamil": "இறுதிப் போட்டிக்கு முன் பயிற்சியாளர் அணியை நுணுக்கமாகச் சீரமைத்தார்.",
+  "synonyms": [
+   "refine",
+   "adjust"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "double-check",
+  "meaning": "to check something a second time to be sure",
+  "tamil": "மீண்டும் சரிபார்",
+  "pos": "verb",
+  "pron": "DUB-ul chek",
+  "example": "Please double-check the address before you send it.",
+  "exampleTamil": "அனுப்பும் முன் தயவுசெய்து முகவரியை மீண்டும் சரிபாருங்கள்.",
+  "synonyms": [
+   "verify",
+   "recheck"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "subscribe",
+  "meaning": "to pay or sign up to receive a service regularly",
+  "tamil": "சந்தா செலுத்து",
+  "pos": "verb",
+  "pron": "sub-SKRYBE",
+  "example": "I subscribed to a music app last month.",
+  "exampleTamil": "நான் கடந்த மாதம் ஒரு இசைச் செயலிக்குச் சந்தா செலுத்தினேன்.",
+  "synonyms": [
+   "sign up",
+   "enrol"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "refresh",
+  "meaning": "to reload a web page, or to make someone feel fresh",
+  "tamil": "மீண்டும் புதுப்பி",
+  "pos": "verb",
+  "pron": "ri-FRESH",
+  "example": "Refresh the page if the video does not load.",
+  "exampleTamil": "வீடியோ ஏறவில்லை என்றால் பக்கத்தை மீண்டும் புதுப்பியுங்கள்.",
+  "synonyms": [
+   "reload",
+   "renew"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "harvest",
+  "meaning": "to cut and collect crops when they are ready",
+  "tamil": "அறுவடை செய்",
+  "pos": "verb",
+  "pron": "HAR-vist",
+  "example": "Farmers harvest rice in January after Pongal.",
+  "exampleTamil": "விவசாயிகள் பொங்கலுக்குப் பிறகு ஜனவரியில் நெல்லை அறுவடை செய்கிறார்கள்.",
+  "synonyms": [
+   "reap",
+   "gather"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stumble",
+  "meaning": "to trip and almost fall while walking",
+  "tamil": "தடுமாறு",
+  "pos": "verb",
+  "pron": "STUM-bul",
+  "example": "She stumbled on the stairs but caught the rail.",
+  "exampleTamil": "அவள் படிகளில் தடுமாறினாள், ஆனால் கைப்பிடியைப் பிடித்துக்கொண்டாள்.",
+  "synonyms": [
+   "trip",
+   "totter"
+  ],
+  "level": "advanced"
+ }
+]

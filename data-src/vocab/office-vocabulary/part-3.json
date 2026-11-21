@@ -1,0 +1,349 @@
+[
+ {
+  "word": "participate",
+  "meaning": "To take part in an activity.",
+  "tamil": "பங்கேற்று",
+  "pos": "verb",
+  "pron": "par-TIS-ih-payt",
+  "example": "Everyone should participate in the discussion.",
+  "exampleTamil": "அனைவரும் விவாதத்தில் பங்கேற்க வேண்டும்.",
+  "synonyms": [
+   "join",
+   "take part"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "subsidy",
+  "meaning": "Money given by the government to help a business.",
+  "tamil": "மானியம்",
+  "pos": "noun",
+  "pron": "SUB-sih-dee",
+  "example": "The farm got a subsidy from the government.",
+  "exampleTamil": "அந்த பண்ணைக்கு அரசிடமிருந்து மானியம் கிடைத்தது.",
+  "synonyms": [
+   "grant",
+   "aid"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "competent",
+  "meaning": "Having the skill to do a job well.",
+  "tamil": "திறமையான",
+  "pos": "adjective",
+  "pron": "KOM-pih-tent",
+  "example": "She is a competent and calm leader.",
+  "exampleTamil": "அவள் திறமையான, அமைதியான தலைவர்.",
+  "synonyms": [
+   "skilled",
+   "able"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "capable",
+  "meaning": "Able to do something well.",
+  "tamil": "திறன் வாய்ந்த",
+  "pos": "adjective",
+  "pron": "KAY-puh-bul",
+  "example": "He is capable of handling big projects.",
+  "exampleTamil": "அவர் பெரிய திட்டங்களைக் கையாளும் திறன் வாய்ந்தவர்.",
+  "synonyms": [
+   "able",
+   "skilled"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "organized",
+  "meaning": "Planned well and keeping things in order.",
+  "tamil": "ஒழுங்கான",
+  "pos": "adjective",
+  "pron": "OR-guh-nyzd",
+  "example": "An organized desk saves time.",
+  "exampleTamil": "ஒழுங்கான மேசை நேரத்தை மிச்சப்படுத்தும்.",
+  "synonyms": [
+   "orderly",
+   "tidy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mentoring",
+  "meaning": "Guiding a less experienced person at work.",
+  "tamil": "வழிகாட்டுதல்",
+  "pos": "noun",
+  "pron": "MEN-tor-ing",
+  "example": "Mentoring helps new employees learn quickly.",
+  "exampleTamil": "வழிகாட்டுதல் புதிய ஊழியர்கள் விரைவாகக் கற்க உதவுகிறது.",
+  "synonyms": [
+   "guidance",
+   "coaching"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "morale",
+  "meaning": "The confidence and happiness of a group.",
+  "tamil": "மன உற்சாகம்",
+  "pos": "noun",
+  "pron": "muh-RAL",
+  "example": "Team morale was low after the bad news.",
+  "exampleTamil": "கெட்ட செய்திக்குப் பிறகு குழுவின் மன உற்சாகம் குறைந்தது.",
+  "synonyms": [
+   "spirit",
+   "confidence"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "harmony",
+  "meaning": "Peaceful and friendly agreement among people.",
+  "tamil": "இணக்கம்",
+  "pos": "noun",
+  "pron": "HAR-muh-nee",
+  "example": "The staff work in harmony.",
+  "exampleTamil": "ஊழியர்கள் இணக்கத்துடன் வேலை செய்கிறார்கள்.",
+  "synonyms": [
+   "peace",
+   "unity"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "friction",
+  "meaning": "Disagreement or bad feeling between people.",
+  "tamil": "உரசல்",
+  "pos": "noun",
+  "pron": "FRIK-shun",
+  "example": "There was some friction between the two teams.",
+  "exampleTamil": "இரு குழுக்களுக்கிடையே சிறு உரசல் இருந்தது.",
+  "synonyms": [
+   "conflict",
+   "tension"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grudge",
+  "meaning": "A long-lasting angry feeling about something unfair.",
+  "tamil": "மனக்கசப்பு",
+  "pos": "noun",
+  "pron": "GRUJ",
+  "example": "Don't hold a grudge against your colleague.",
+  "exampleTamil": "உங்கள் சக ஊழியர் மீது மனக்கசப்பு வைத்திருக்காதீர்கள்.",
+  "synonyms": [
+   "resentment",
+   "ill will"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "diversity",
+  "meaning": "Having many different kinds of people together.",
+  "tamil": "பன்முகத்தன்மை",
+  "pos": "noun",
+  "pron": "dy-VER-sih-tee",
+  "example": "Our company values diversity in hiring.",
+  "exampleTamil": "எங்கள் நிறுவனம் ஆட்சேர்ப்பில் பன்முகத்தன்மைக்கு மதிப்பளிக்கிறது.",
+  "synonyms": [
+   "variety",
+   "mix"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "equality",
+  "meaning": "Equal rights and chances for everyone.",
+  "tamil": "சமத்துவம்",
+  "pos": "noun",
+  "pron": "ih-KWOL-ih-tee",
+  "example": "We support equality for men and women at work.",
+  "exampleTamil": "பணியிடத்தில் ஆண்களுக்கும் பெண்களுக்கும் சமத்துவத்தை ஆதரிக்கிறோம்.",
+  "synonyms": [
+   "fairness",
+   "parity"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ethics",
+  "meaning": "Moral rules about what is right at work.",
+  "tamil": "நெறிமுறைகள்",
+  "pos": "noun",
+  "pron": "ETH-iks",
+  "example": "Business ethics matter as much as profit.",
+  "exampleTamil": "வணிக நெறிமுறைகள் லாபத்தைப் போலவே முக்கியம்.",
+  "synonyms": [
+   "morals",
+   "principles"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trademark",
+  "meaning": "A name or sign that only one company may use.",
+  "tamil": "வணிக முத்திரை",
+  "pos": "noun",
+  "pron": "TRAYD-mark",
+  "example": "This logo is our registered trademark.",
+  "exampleTamil": "இந்த சின்னம் எங்கள் பதிவு செய்யப்பட்ட வணிக முத்திரை.",
+  "synonyms": [
+   "brand mark",
+   "logo"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "copyright",
+  "meaning": "The legal right to control who copies a work.",
+  "tamil": "பதிப்புரிமை",
+  "pos": "noun",
+  "pron": "KOP-ee-ryt",
+  "example": "Do not copy the photo; it has copyright.",
+  "exampleTamil": "புகைப்படத்தை நகலெடுக்காதீர்கள்; அதற்கு பதிப்புரிமை உண்டு.",
+  "synonyms": [
+   "author's right"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "patent",
+  "meaning": "A legal right to be the only maker of an invention.",
+  "tamil": "காப்புரிமை",
+  "pos": "noun",
+  "pron": "PAT-ent",
+  "example": "The engineer applied for a patent.",
+  "exampleTamil": "பொறியாளர் காப்புரிமைக்கு விண்ணப்பித்தார்.",
+  "synonyms": [
+   "invention right"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clause",
+  "meaning": "One part of a written contract or law.",
+  "tamil": "உட்பிரிவு",
+  "pos": "noun",
+  "pron": "KLAWZ",
+  "example": "Please read the payment clause carefully.",
+  "exampleTamil": "பணம் செலுத்தும் உட்பிரிவை கவனமாகப் படியுங்கள்.",
+  "synonyms": [
+   "section",
+   "provision"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "placement",
+  "meaning": "Finding a job for a student or worker.",
+  "tamil": "வேலை வாய்ப்பு அமர்த்தல்",
+  "pos": "noun",
+  "pron": "PLAYS-ment",
+  "example": "The college offers good placement help.",
+  "exampleTamil": "கல்லூரி நல்ல வேலை வாய்ப்பு உதவி வழங்குகிறது.",
+  "synonyms": [
+   "posting",
+   "job help"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "campus",
+  "meaning": "The grounds and buildings of a college or company.",
+  "tamil": "வளாகம்",
+  "pos": "noun",
+  "pron": "KAM-pus",
+  "example": "Many firms visit our campus to hire.",
+  "exampleTamil": "பல நிறுவனங்கள் ஆட்களைத் தேர்ந்தெடுக்க எங்கள் வளாகத்துக்கு வருகின்றன.",
+  "synonyms": [
+   "grounds"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tact",
+  "meaning": "Skill in saying hard things without upsetting people.",
+  "tamil": "சாமர்த்தியம்",
+  "pos": "noun",
+  "pron": "TAKT",
+  "example": "She told him the bad news with tact.",
+  "exampleTamil": "அவள் கெட்ட செய்தியை சாமர்த்தியமாக அவனிடம் சொன்னாள்.",
+  "synonyms": [
+   "diplomacy",
+   "sensitivity"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "composed",
+  "meaning": "Calm and in control of your feelings.",
+  "tamil": "அமைதியான",
+  "pos": "adjective",
+  "pron": "kum-POHZD",
+  "example": "He stayed composed during the interview.",
+  "exampleTamil": "நேர்காணலின் போது அவர் அமைதியாக இருந்தார்.",
+  "synonyms": [
+   "calm",
+   "poised"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "committed",
+  "meaning": "Fully giving your time and effort to something.",
+  "tamil": "அர்ப்பணிப்புள்ள",
+  "pos": "adjective",
+  "pron": "kuh-MIT-id",
+  "example": "She is committed to her work.",
+  "exampleTamil": "அவள் தன் வேலையில் அர்ப்பணிப்புடன் இருக்கிறாள்.",
+  "synonyms": [
+   "dedicated",
+   "loyal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dedicated",
+  "meaning": "Giving a lot of time and effort to a task.",
+  "tamil": "உறுதியுடன் உழைக்கும்",
+  "pos": "adjective",
+  "pron": "DED-ih-kay-tid",
+  "example": "He is a dedicated and honest worker.",
+  "exampleTamil": "அவர் உறுதியுடன் உழைக்கும் நேர்மையான ஊழியர்.",
+  "synonyms": [
+   "devoted",
+   "hardworking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bias",
+  "meaning": "An unfair liking for one side over another.",
+  "tamil": "ஒருதலைப்பட்சம்",
+  "pos": "noun",
+  "pron": "BY-us",
+  "example": "The manager showed no bias while hiring.",
+  "exampleTamil": "ஆட்சேர்ப்பின் போது மேலாளர் ஒருதலைப்பட்சம் காட்டவில்லை.",
+  "synonyms": [
+   "prejudice",
+   "favouritism"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "term",
+  "meaning": "A fixed period of time or a condition in a contract.",
+  "tamil": "காலம் / நிபந்தனை",
+  "pos": "noun",
+  "pron": "TERM",
+  "example": "The contract has a term of two years.",
+  "exampleTamil": "ஒப்பந்தத்தின் காலம் இரண்டு ஆண்டுகள்.",
+  "synonyms": [
+   "period",
+   "condition"
+  ],
+  "level": "intermediate"
+ }
+]

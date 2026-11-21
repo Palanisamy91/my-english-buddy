@@ -1,0 +1,377 @@
+[
+ {
+  "en": "I walk for thirty minutes every morning before work.",
+  "tamil": "நான் தினமும் காலையில வேலைக்கு முன்னாடி முப்பது நிமிஷம் நடப்பேன்.",
+  "context": "Talking about your fitness habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Simple present shows a daily habit. 'For thirty minutes' gives the length of time.",
+  "words": [
+   "walk",
+   "before work"
+  ],
+  "usage": "Use it when friends or colleagues ask about your routine.",
+  "leelaQ": "Do you exercise in the morning? What do you do?",
+  "answer": "Yes, I walk near my house for thirty minutes every day."
+ },
+ {
+  "en": "What time do you normally switch off the lights at night?",
+  "tamil": "நீங்க பொதுவா ராத்திரி எத்தனை மணிக்கு லைட் அணைப்பீங்க?",
+  "context": "Asking a friend about their sleep habit.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Normally' sits before the main verb. 'Switch off' means to turn something off.",
+  "words": [
+   "normally",
+   "switch off"
+  ],
+  "usage": "Use it in a casual talk with a friend or a family member.",
+  "leelaQ": "When do you switch off your phone at night?",
+  "answer": "I switch off my phone around ten thirty every night."
+ },
+ {
+  "en": "I have started going to the gym near my office.",
+  "tamil": "நான் என் ஆபீஸ் பக்கத்துல இருக்கிற ஜிம்முக்கு போக ஆரம்பிச்சிருக்கேன்.",
+  "context": "Telling a colleague about a new habit.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have started' tells something new that is still continuing. 'Going' follows 'started'.",
+  "words": [
+   "gym",
+   "started"
+  ],
+  "usage": "Say it when someone notices you look fit or asks about your day.",
+  "leelaQ": "Do you want to join a gym? Why or why not?",
+  "answer": "Yes, I want to, because I sit all day at my desk."
+ },
+ {
+  "en": "I never drink coffee after six in the evening.",
+  "tamil": "நான் சாயங்காலம் ஆறு மணிக்கு மேல காபி குடிக்கவே மாட்டேன்.",
+  "context": "Explaining your habit to a friend.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' is placed before the main verb. It means not at any time.",
+  "words": [
+   "never",
+   "coffee"
+  ],
+  "usage": "Use it when someone offers you coffee late and you want to refuse.",
+  "leelaQ": "Which drink do you avoid at night?",
+  "answer": "I avoid tea and coffee at night because I cannot sleep."
+ },
+ {
+  "en": "Drinking enough water keeps you fresh all day.",
+  "tamil": "தேவையான தண்ணி குடிச்சா நாள் முழுக்க ஃப்ரெஷ்ஷா இருக்கலாம்.",
+  "context": "Giving a friend a simple health tip.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Drinking' works like a noun at the start of the sentence. 'Keeps you fresh' is the result.",
+  "words": [
+   "enough",
+   "fresh"
+  ],
+  "usage": "Use it as friendly advice with colleagues or family.",
+  "leelaQ": "How many glasses of water do you drink in a day?",
+  "answer": "I drink around eight glasses, but sometimes I forget."
+ },
+ {
+  "en": "Please remind me to take my tablet at night.",
+  "tamil": "ராத்திரி என் மாத்திரையை சாப்பிட ஞாபகப்படுத்துங்க, ப்ளீஸ்.",
+  "context": "Asking a family member for a reminder.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Remind me to ...' asks someone to help you remember. 'Please' keeps it polite.",
+  "words": [
+   "remind",
+   "tablet"
+  ],
+  "usage": "Say it to your spouse, parents or a roommate.",
+  "leelaQ": "Who reminds you when you forget something important?",
+  "answer": "My wife reminds me, and sometimes my phone alarm also helps."
+ },
+ {
+  "en": "I lost three kilos in two months by eating less rice.",
+  "tamil": "நான் சாதம் குறைவா சாப்பிட்டு ரெண்டு மாசத்துல மூணு கிலோ குறைஞ்சேன்.",
+  "context": "Sharing your weight loss story.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'By eating' tells the method used. 'Lost' is the past form of 'lose'.",
+  "words": [
+   "lost",
+   "rice"
+  ],
+  "usage": "Use it when friends ask how you became slim.",
+  "leelaQ": "What small change in food can help a person stay healthy?",
+  "answer": "Eating less oily food and more vegetables can help a lot."
+ },
+ {
+  "en": "How many hours of sleep do you get on weekdays?",
+  "tamil": "வாரநாட்கள்ல நீங்க எத்தனை மணி நேரம் தூங்குவீங்க?",
+  "context": "Asking a colleague about sleep.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How many hours' asks for a number. 'Get' here means to receive or have.",
+  "words": [
+   "hours",
+   "weekdays"
+  ],
+  "usage": "Use it in a normal chat about work and health.",
+  "leelaQ": "How many hours do you sleep on Sundays?",
+  "answer": "I sleep for about nine hours on Sundays, because I wake up late."
+ },
+ {
+  "en": "I will start jogging from next Monday.",
+  "tamil": "நான் அடுத்த திங்கள்கிழமையிலிருந்து ஜாகிங் போகப் போறேன்.",
+  "context": "Telling a friend your fitness plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will start' shows a decision. 'From next Monday' gives the starting day.",
+  "words": [
+   "jogging",
+   "start"
+  ],
+  "usage": "Say it when you decide to begin a new healthy habit.",
+  "leelaQ": "What new healthy habit do you want to start soon?",
+  "answer": "I want to start doing yoga every morning from next month."
+ },
+ {
+  "en": "My doctor told me to cut down on sugar and oil.",
+  "tamil": "என் டாக்டர் சர்க்கரையையும் எண்ணெயையும் குறைக்கச் சொன்னாரு.",
+  "context": "Explaining a diet change to a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Told me to ...' reports a doctor's advice. 'Cut down on' means to reduce.",
+  "words": [
+   "cut down",
+   "sugar"
+  ],
+  "usage": "Use it when you refuse sweets or fried food politely.",
+  "leelaQ": "What food do you want to eat less of?",
+  "answer": "I want to eat fewer sweets, because I like them too much."
+ },
+ {
+  "en": "We are doing yoga in the park every Sunday.",
+  "tamil": "நாங்க ஒவ்வொரு ஞாயிற்றுக்கிழமையும் பார்க்குல யோகா பண்றோம்.",
+  "context": "Inviting a friend to a group activity.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous can talk about a regular plan that is going on these days. 'We' means a group.",
+  "words": [
+   "yoga",
+   "park"
+  ],
+  "usage": "Use it to tell neighbours or friends about a group activity.",
+  "leelaQ": "Where can people do exercise near your home?",
+  "answer": "People walk or do yoga in the park near my house."
+ },
+ {
+  "en": "Could you suggest a simple exercise for back pain?",
+  "tamil": "முதுகு வலிக்கு ஒரு எளிமையான உடற்பயிற்சி சொல்ல முடியுமா?",
+  "context": "Asking a doctor or trainer for advice.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you suggest ...?' is a polite way to ask for ideas. 'Simple' means easy.",
+  "words": [
+   "suggest",
+   "exercise"
+  ],
+  "usage": "Ask this to a doctor, a gym trainer or a physiotherapist.",
+  "leelaQ": "Do you sit for a long time? How do you relax your back?",
+  "answer": "Yes, I sit a lot, so I stand up and walk every hour."
+ },
+ {
+  "en": "Fruits and vegetables are good for your eyes and skin.",
+  "tamil": "பழங்களும் காய்கறிகளும் கண்ணுக்கும் தோலுக்கும் நல்லது.",
+  "context": "Giving a general health fact.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Good for' tells the benefit of something. Simple present is used for general facts.",
+  "words": [
+   "vegetables",
+   "skin"
+  ],
+  "usage": "Use it when you encourage children or friends to eat healthy.",
+  "leelaQ": "Which fruit do you like the most?",
+  "answer": "I like mango the most, especially in summer."
+ },
+ {
+  "en": "I did not have any breakfast today, so I feel weak.",
+  "tamil": "நான் இன்னைக்கு காலை சாப்பாடே சாப்பிடல, அதனால சோர்வா இருக்கு.",
+  "context": "Explaining why you feel tired.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not have' is a past negative. 'So' shows the result.",
+  "words": [
+   "breakfast",
+   "weak"
+  ],
+  "usage": "Say it to a colleague or a friend when you feel low in energy.",
+  "leelaQ": "What do you eat when you feel weak?",
+  "answer": "I eat a banana or drink some milk to get energy."
+ },
+ {
+  "en": "Are you trying to lose weight or build muscle?",
+  "tamil": "நீங்க எடை குறைக்க பாக்குறீங்களா இல்ல மசில் ஏத்தப் பாக்குறீங்களா?",
+  "context": "A gym trainer asking about your goal.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Are you trying to ...?' asks about a goal. 'Or' gives two choices.",
+  "words": [
+   "lose weight",
+   "muscle"
+  ],
+  "usage": "A trainer or friend asks this when you start exercising.",
+  "leelaQ": "What is your main health goal this year?",
+  "answer": "My goal is to stay fit and walk every day."
+ },
+ {
+  "en": "I have been feeling tired since I changed to the night shift.",
+  "tamil": "நைட் ஷிஃப்டுக்கு மாறினதிலிருந்து எனக்கு சோர்வா இருக்கு.",
+  "context": "Telling a doctor about tiredness.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been feeling' shows a feeling that started in the past and is still going on. 'Since' gives the start.",
+  "words": [
+   "tired",
+   "night shift"
+  ],
+  "usage": "Use it with a doctor or a manager when work affects your health.",
+  "leelaQ": "Is it hard to work at night? Why?",
+  "answer": "Yes, because my body wants to sleep and I feel tired."
+ },
+ {
+  "en": "She should eat more protein, like dal, eggs and paneer.",
+  "tamil": "அவ பருப்பு, முட்டை, பனீர் மாதிரி இன்னும் அதிகம் புரதம் சாப்பிடணும்.",
+  "context": "Giving diet advice about someone.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' gives advice. 'Like' introduces examples.",
+  "words": [
+   "protein",
+   "eggs"
+  ],
+  "usage": "Use it when you talk about a healthy diet with family.",
+  "leelaQ": "What protein food do you eat at home?",
+  "answer": "We eat dal every day and eggs two or three times a week."
+ },
+ {
+  "en": "Let's take the stairs instead of the lift today.",
+  "tamil": "இன்னைக்கு லிஃப்ட் வேண்டாம், படிக்கட்டுல போகலாம்.",
+  "context": "Suggesting a small exercise to a colleague.",
+  "tense": "imperative",
+  "type": "statement",
+  "explain": "'Let's' suggests something to do together. 'Instead of' means in place of.",
+  "words": [
+   "stairs",
+   "instead of"
+  ],
+  "usage": "Say it to a friend or colleague in an office building.",
+  "leelaQ": "Do you like to use the stairs or the lift?",
+  "answer": "I use the stairs when it is only two floors."
+ },
+ {
+  "en": "Can I eat sweets if I have diabetes?",
+  "tamil": "எனக்கு சர்க்கரை நோய் இருந்தா நான் இனிப்பு சாப்பிடலாமா?",
+  "context": "Asking a doctor about diet rules.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can I ...?' asks for permission. 'If' makes the condition clear.",
+  "words": [
+   "sweets",
+   "diabetes"
+  ],
+  "usage": "Ask this to a doctor or a dietitian.",
+  "leelaQ": "What food should a person with diabetes avoid?",
+  "answer": "They should avoid sugar, sweets and too much white rice."
+ },
+ {
+  "en": "I sleep better when I switch off my phone early.",
+  "tamil": "நான் போனை சீக்கிரம் ஆஃப் பண்ணா நல்லா தூங்குவேன்.",
+  "context": "Sharing a sleep tip with a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'When' joins a habit and its result. 'Switch off' means to turn off.",
+  "words": [
+   "sleep",
+   "switch off"
+  ],
+  "usage": "Use it when friends say they cannot sleep well.",
+  "leelaQ": "Do you use your phone before sleeping?",
+  "answer": "Yes, I watch videos for some time, but I want to stop."
+ },
+ {
+  "en": "Can you tell me a good diet for weight loss?",
+  "tamil": "எடை குறைக்க ஒரு நல்ல டயட் சொல்ல முடியுமா?",
+  "context": "Asking a dietitian or a friend for a plan.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you tell me ...?' is a common polite request. 'Diet' means the food plan.",
+  "words": [
+   "diet",
+   "weight loss"
+  ],
+  "usage": "Ask this to a dietitian, a doctor or a fit friend.",
+  "leelaQ": "What is a healthy dinner for you?",
+  "answer": "A healthy dinner for me is chapati with vegetable curry."
+ },
+ {
+  "en": "He ran five kilometres without stopping yesterday.",
+  "tamil": "அவன் நேத்து நிக்காம அஞ்சு கிலோமீட்டர் ஓடினான்.",
+  "context": "Telling a friend about someone's achievement.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Ran' is the past of 'run'. 'Without stopping' means non-stop.",
+  "words": [
+   "kilometres",
+   "without"
+  ],
+  "usage": "Use it when you praise a friend's fitness.",
+  "leelaQ": "What is the longest distance you have walked?",
+  "answer": "I once walked ten kilometres during a temple trip."
+ },
+ {
+  "en": "You must not eat too much junk food, it spoils your stomach.",
+  "tamil": "நீ ரொம்ப ஜங்க் ஃபுட் சாப்பிடக்கூடாது, அது வயித்தை கெடுக்கும்.",
+  "context": "Advising a child or a friend.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Must not' is a strong rule or advice. 'Spoils' means makes something bad.",
+  "words": [
+   "junk food",
+   "stomach"
+  ],
+  "usage": "Use it with children, younger siblings or friends.",
+  "leelaQ": "Do you eat junk food? How often?",
+  "answer": "I eat it once a month, mostly when I go out with friends."
+ },
+ {
+  "en": "I feel very fresh after a good night's sleep.",
+  "tamil": "நல்லா தூங்கினா நான் ரொம்ப ஃப்ரெஷ்ஷா உணர்வேன்.",
+  "context": "Telling a colleague about your energy.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Feel fresh' means to feel full of energy. 'Good night's sleep' is a fixed phrase.",
+  "words": [
+   "fresh",
+   "sleep"
+  ],
+  "usage": "Say it in a morning chat with friends or colleagues.",
+  "leelaQ": "How do you feel in the morning after a good sleep?",
+  "answer": "I feel happy and full of energy, and I start my work early."
+ },
+ {
+  "en": "I am going to cook less oily food from now on.",
+  "tamil": "நான் இனிமே எண்ணெய் குறைவா சமைக்கப் போறேன்.",
+  "context": "Telling your family about a diet decision.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Am going to' shows a firm plan. 'From now on' means starting today.",
+  "words": [
+   "oily",
+   "from now on"
+  ],
+  "usage": "Use it when you decide to change your food habits.",
+  "leelaQ": "What change will you make in your food habits?",
+  "answer": "I will cook with less oil and add more vegetables."
+ }
+]

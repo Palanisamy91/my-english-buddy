@@ -1,0 +1,377 @@
+[
+ {
+  "en": "I forgot to bring my ID card today.",
+  "tamil": "நான் இன்னைக்கு ஐடி கார்டு கொண்டு வர மறந்துட்டேன்.",
+  "context": "Telling the security guard at the office gate.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Forgot to' + verb means you did not do something you should have done.",
+  "words": [
+   "forgot",
+   "id card"
+  ],
+  "usage": "Use it politely at an office or college gate.",
+  "leelaQ": "What did you forget to bring recently?",
+  "answer": "I forgot to bring my lunch box."
+ },
+ {
+  "en": "Thank you for helping me with this.",
+  "tamil": "இதுல எனக்கு உதவினதுக்கு நன்றி.",
+  "context": "Thanking a teammate after finishing a task.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Thank you for' is followed by verb-ing.",
+  "words": [
+   "thank",
+   "helping"
+  ],
+  "usage": "Use it at work or home to show you appreciate someone's help.",
+  "leelaQ": "Who helped you recently, and how do you thank them?",
+  "answer": "My friend helped me move, and I thanked him with lunch."
+ },
+ {
+  "en": "I'm looking forward to meeting your family.",
+  "tamil": "உங்க குடும்பத்தை சந்திக்க ஆவலா இருக்கேன்.",
+  "context": "Saying something warm to a future in-law.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Look forward to' is followed by verb-ing, not a base verb.",
+  "words": [
+   "looking forward",
+   "family"
+  ],
+  "usage": "Use it to show you are happy about a coming event.",
+  "leelaQ": "What are you looking forward to this month?",
+  "answer": "I am looking forward to my sister's wedding."
+ },
+ {
+  "en": "Sorry, I'm late because the bus broke down.",
+  "tamil": "மன்னிக்கணும், பஸ் ரிப்பேர் ஆயிடுச்சு, அதான் தாமதம்.",
+  "context": "Apologising to your manager for being late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Because' gives a reason; 'broke down' is a phrasal verb in past simple.",
+  "words": [
+   "late",
+   "broke down"
+  ],
+  "usage": "Use it when you apologise and explain a delay.",
+  "leelaQ": "What do you say when you reach late?",
+  "answer": "I say sorry and tell the reason for being late."
+ },
+ {
+  "en": "Although it was raining, we went for a walk.",
+  "tamil": "மழை பெய்துட்டு இருந்தாலும் நாங்க வாக்கிங் போனோம்.",
+  "context": "Telling a friend about a rainy evening.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Although' joins two opposite ideas in one sentence.",
+  "words": [
+   "although",
+   "walk"
+  ],
+  "usage": "Use it when you tell a story with a surprise or contrast.",
+  "leelaQ": "What did you do even though the weather was bad?",
+  "answer": "Although it was cold, I went out for tea."
+ },
+ {
+  "en": "I was tired, but I finished my work anyway.",
+  "tamil": "நான் களைப்பா இருந்தேன், ஆனாலும் என் வேலையை முடிச்சேன்.",
+  "context": "Telling your manager you completed the task.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'But' joins two ideas that contrast; 'anyway' means in spite of that.",
+  "words": [
+   "tired",
+   "anyway"
+  ],
+  "usage": "Use it to show you stayed committed to a task.",
+  "leelaQ": "When did you finish something even though you were tired?",
+  "answer": "I finished my project late at night, but I was happy."
+ },
+ {
+  "en": "Neither of my parents drinks coffee.",
+  "tamil": "என் அப்பா அம்மா ரெண்டு பேருமே காபி குடிக்க மாட்டாங்க.",
+  "context": "Chatting about family habits.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Neither of' takes a singular verb and has a negative meaning.",
+  "words": [
+   "neither",
+   "parents"
+  ],
+  "usage": "Use it when something is true for none of two people.",
+  "leelaQ": "Do both your parents drink coffee or tea?",
+  "answer": "My mother drinks tea, but my father drinks coffee."
+ },
+ {
+  "en": "There isn't any sugar left in the kitchen.",
+  "tamil": "சமையலறையில சர்க்கரை எதுவும் மிச்சம் இல்ல.",
+  "context": "Telling your mother before shopping.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Isn't any' is used with uncountable nouns in negative sentences.",
+  "words": [
+   "sugar",
+   "left"
+  ],
+  "usage": "Use it at home before you make a shopping list.",
+  "leelaQ": "What is finished in your kitchen right now?",
+  "answer": "There is no milk left in the kitchen."
+ },
+ {
+  "en": "How much rice do we need for ten people?",
+  "tamil": "பத்து பேருக்கு நமக்கு எவ்வளவு அரிசி வேணும்?",
+  "context": "Planning food for a function.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How much' is used with uncountable nouns such as rice.",
+  "words": [
+   "how much",
+   "rice"
+  ],
+  "usage": "Use it when you plan food or shopping for a group.",
+  "leelaQ": "How much tea do you drink every day?",
+  "answer": "I drink about three cups of tea every day."
+ },
+ {
+  "en": "How many chairs are there in the hall?",
+  "tamil": "ஹால்ல எத்தனை நாற்காலிகள் இருக்கு?",
+  "context": "Setting up for a meeting.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How many' is used with countable nouns such as chairs.",
+  "words": [
+   "how many",
+   "chairs"
+  ],
+  "usage": "Use it when you count things before an event.",
+  "leelaQ": "How many people live in your house?",
+  "answer": "Five people live in my house."
+ },
+ {
+  "en": "There are a few mangoes in the basket.",
+  "tamil": "கூடையில கொஞ்சம் மாம்பழங்கள் இருக்கு.",
+  "context": "Telling your sister what is available.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'A few' is used with countable nouns and means a small number.",
+  "words": [
+   "few",
+   "mangoes"
+  ],
+  "usage": "Use it to tell someone how much of something is available.",
+  "leelaQ": "What do you have a few of at home?",
+  "answer": "I have a few books on my table."
+ },
+ {
+  "en": "I have little time today, so please be quick.",
+  "tamil": "எனக்கு இன்னைக்கு நேரம் ரொம்ப கம்மி, அதனால சீக்கிரம் பண்ணுங்க.",
+  "context": "Asking a service person to be quick.",
+  "tense": "present",
+  "type": "request",
+  "explain": "'Little' (without 'a') means almost none and is used with uncountable nouns.",
+  "words": [
+   "little",
+   "quick"
+  ],
+  "usage": "Use it when you are in a hurry and need to be polite.",
+  "leelaQ": "What do you do when you have very little time?",
+  "answer": "I make a list and finish the important work first."
+ },
+ {
+  "en": "The meeting has been postponed until Friday.",
+  "tamil": "மீட்டிங் வெள்ளிக்கிழமை வரை ஒத்தி வைக்கப்பட்டிருக்கு.",
+  "context": "Updating a team about a change.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect passive (has been + past participle) tells a result that matters now.",
+  "words": [
+   "meeting",
+   "postponed"
+  ],
+  "usage": "Use it when you announce a change of plans at work.",
+  "leelaQ": "What was recently postponed in your life?",
+  "answer": "My trip was postponed until next month."
+ },
+ {
+  "en": "My phone was stolen in the bus yesterday.",
+  "tamil": "என் போன் நேத்து பஸ்ல திருடு போயிடுச்சு.",
+  "context": "Reporting a theft at a police station.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past passive (was + past participle) is used when the doer is unknown.",
+  "words": [
+   "stolen",
+   "yesterday"
+  ],
+  "usage": "Use it when you report a problem and do not know who did it.",
+  "leelaQ": "What do you do if your phone is stolen?",
+  "answer": "I report it to the police and block my SIM."
+ },
+ {
+  "en": "Was this food prepared without onion?",
+  "tamil": "இந்த சாப்பாடு வெங்காயம் இல்லாம செஞ்சதா?",
+  "context": "Asking at a restaurant during a fasting day.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Passive questions put 'was/were' before the subject.",
+  "words": [
+   "prepared",
+   "onion"
+  ],
+  "usage": "Use it at a restaurant when you have a food restriction.",
+  "leelaQ": "How do you ask about the ingredients in a dish?",
+  "answer": "I ask, is this prepared without garlic?"
+ },
+ {
+  "en": "I'd like to book a table for four, please.",
+  "tamil": "நாலு பேருக்கு ஒரு டேபிள் புக் பண்ணணும்.",
+  "context": "Calling a restaurant to reserve a table.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'I'd like to' is a polite way to say what you want.",
+  "words": [
+   "book",
+   "table"
+  ],
+  "usage": "Use it on the phone when you make a booking.",
+  "leelaQ": "What do you say when you book a table?",
+  "answer": "I say, I'd like to book a table for four, please."
+ },
+ {
+  "en": "Why don't we take a taxi instead?",
+  "tamil": "நாம டாக்ஸில போனா என்ன?",
+  "context": "Making a suggestion to a friend when you are late.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Why don't we' is a friendly way to make a suggestion.",
+  "words": [
+   "taxi",
+   "instead"
+  ],
+  "usage": "Use it with friends or family when you suggest a better plan.",
+  "leelaQ": "What do you suggest when it rains heavily?",
+  "answer": "Why don't we stay at home and watch a movie?"
+ },
+ {
+  "en": "How about trying the new restaurant on Anna Nagar road?",
+  "tamil": "அண்ணா நகர் ரோட்டுல இருக்குற புது ஹோட்டலுக்கு போய் பாக்கலாமா?",
+  "context": "Suggesting a lunch place to colleagues.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How about' + verb-ing is a casual way to suggest something.",
+  "words": [
+   "trying",
+   "restaurant"
+  ],
+  "usage": "Use it to suggest food, plans or ideas to a group.",
+  "leelaQ": "Where do you suggest for a family dinner?",
+  "answer": "How about trying the new restaurant near our house?"
+ },
+ {
+  "en": "It's too noisy to study here.",
+  "tamil": "படிக்கறதுக்கு இங்க ரொம்ப சத்தமா இருக்கு.",
+  "context": "Complaining about a noisy place.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Too + adjective + to + verb' shows something is more than you can accept.",
+  "words": [
+   "noisy",
+   "study"
+  ],
+  "usage": "Use it to explain why a place does not suit you.",
+  "leelaQ": "Where is it too noisy for you to study?",
+  "answer": "It is too noisy near the main road."
+ },
+ {
+  "en": "The soup is not hot enough.",
+  "tamil": "சூப் போதுமான அளவு சூடா இல்ல.",
+  "context": "Telling a waiter politely.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Enough' comes after the adjective: 'hot enough'.",
+  "words": [
+   "soup",
+   "enough"
+  ],
+  "usage": "Use it politely at a restaurant when food is not right.",
+  "leelaQ": "How do you tell a waiter that the food is cold?",
+  "answer": "I say, the soup is not hot enough, please change it."
+ },
+ {
+  "en": "He drives carefully on the highway.",
+  "tamil": "அவர் ஹைவேல கவனமா ஓட்டுவார்.",
+  "context": "Telling someone about a safe driver.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Add -ly to many adjectives to make adverbs, such as careful to carefully.",
+  "words": [
+   "carefully",
+   "highway"
+  ],
+  "usage": "Use it to describe how someone does something.",
+  "leelaQ": "How do you drive or walk on a busy road?",
+  "answer": "I walk carefully and look at both sides."
+ },
+ {
+  "en": "Would you pass me the salt, please?",
+  "tamil": "உப்பை கொஞ்சம் கொடுக்கறீங்களா?",
+  "context": "Asking someone at the dinner table.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Would you' + please is a polite request.",
+  "words": [
+   "pass",
+   "salt"
+  ],
+  "usage": "Use it at the table with family or guests.",
+  "leelaQ": "What do you ask for at the dinner table?",
+  "answer": "I ask, would you pass me the water, please?"
+ },
+ {
+  "en": "Please don't park your bike in front of the gate.",
+  "tamil": "தயவு செய்து கேட்டுக்கு முன்னாடி பைக்கை நிறுத்தாதீங்க.",
+  "context": "Asking a neighbour politely.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Please don't' + verb is a polite negative request.",
+  "words": [
+   "park",
+   "gate"
+  ],
+  "usage": "Use it with neighbours to correct something politely.",
+  "leelaQ": "How do you ask a neighbour not to make noise?",
+  "answer": "I say, please don't play loud music at night."
+ },
+ {
+  "en": "I wish I could speak English more confidently.",
+  "tamil": "நான் இன்னும் தன்னம்பிக்கையா ஆங்கிலம் பேச முடிஞ்சா நல்லா இருக்கும்.",
+  "context": "Sharing a learning goal with a friend.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I wish' + could/past form expresses a wish about the present.",
+  "words": [
+   "wish",
+   "confidently"
+  ],
+  "usage": "Use it when you talk about something you want to change.",
+  "leelaQ": "What do you wish you could do better in English?",
+  "answer": "I wish I could speak with more confidence."
+ },
+ {
+  "en": "If you had told me, I would have helped you.",
+  "tamil": "நீ சொல்லியிருந்தா நான் உனக்கு உதவியிருப்பேன்.",
+  "context": "Gently telling a friend you could have helped.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "Third conditional: if + past perfect, would have + past participle, for an unreal past.",
+  "words": [
+   "told",
+   "helped"
+  ],
+  "usage": "Use it when you talk about what could have happened in the past.",
+  "leelaQ": "What would you have done differently last year?",
+  "answer": "I would have studied more if I had known."
+ }
+]

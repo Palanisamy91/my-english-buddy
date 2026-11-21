@@ -1,0 +1,1352 @@
+[
+ {
+  "word": "hungry",
+  "say": "Oh, you're hungry!",
+  "sayTamil": "ஓ, உங்களுக்குப் பசிக்கிறதா!",
+  "sentence": "I am feeling hungry.",
+  "sentenceTamil": "எனக்குப் பசிக்கிறது.",
+  "ask": "What would you like to eat?",
+  "askTamil": "நீங்கள் என்ன சாப்பிட விரும்புகிறீர்கள்?"
+ },
+ {
+  "word": "thirsty",
+  "say": "You must be thirsty!",
+  "sayTamil": "உங்களுக்குத் தாகமாக இருக்கும்!",
+  "sentence": "I am very thirsty.",
+  "sentenceTamil": "எனக்கு மிகவும் தாகமாக இருக்கிறது.",
+  "ask": "Do you want water or juice?",
+  "askTamil": "உங்களுக்குத் தண்ணீர் வேண்டுமா, ஜூஸ் வேண்டுமா?"
+ },
+ {
+  "word": "happy",
+  "say": "That's wonderful!",
+  "sayTamil": "அது அருமை!",
+  "sentence": "I am feeling happy today.",
+  "sentenceTamil": "நான் இன்று மகிழ்ச்சியாக இருக்கிறேன்.",
+  "ask": "What made you happy?",
+  "askTamil": "உங்களை மகிழ்ச்சியாக்கியது எது?"
+ },
+ {
+  "word": "sad",
+  "say": "Oh no, I'm sorry to hear that.",
+  "sayTamil": "அடடா, அதைக் கேட்க வருத்தமாக இருக்கிறது.",
+  "sentence": "I am feeling sad today.",
+  "sentenceTamil": "நான் இன்று வருத்தமாக இருக்கிறேன்.",
+  "ask": "Do you want to tell me why?",
+  "askTamil": "ஏன் என்று என்னிடம் சொல்ல விரும்புகிறீர்களா?"
+ },
+ {
+  "word": "tired",
+  "say": "You sound tired. Take care!",
+  "sayTamil": "நீங்கள் களைப்பாக இருக்கிறீர்கள். கவனமாக இருங்கள்!",
+  "sentence": "I am very tired today.",
+  "sentenceTamil": "நான் இன்று மிகவும் களைப்பாக இருக்கிறேன்.",
+  "ask": "Did you work a lot today?",
+  "askTamil": "இன்று நிறைய வேலை செய்தீர்களா?"
+ },
+ {
+  "word": "sleepy",
+  "say": "Aww, you're sleepy!",
+  "sayTamil": "அட, உங்களுக்குத் தூக்கம் வருகிறதா!",
+  "sentence": "I am feeling sleepy.",
+  "sentenceTamil": "எனக்குத் தூக்கம் வருகிறது.",
+  "ask": "What time did you sleep last night?",
+  "askTamil": "நேற்று இரவு எத்தனை மணிக்குத் தூங்கினீர்கள்?"
+ },
+ {
+  "word": "angry",
+  "say": "Hmm, that sounds serious.",
+  "sayTamil": "ம்ம், அது தீவிரமாகத் தெரிகிறது.",
+  "sentence": "I am angry about the delay.",
+  "sentenceTamil": "தாமதத்தால் எனக்குக் கோபம் வருகிறது.",
+  "ask": "What happened to make you angry?",
+  "askTamil": "உங்களுக்குக் கோபம் வர என்ன நடந்தது?"
+ },
+ {
+  "word": "bored",
+  "say": "Oh, let's fix that boredom!",
+  "sayTamil": "ஓ, அந்த அலுப்பைப் போக்கலாம்!",
+  "sentence": "I am bored at home.",
+  "sentenceTamil": "நான் வீட்டில் சலிப்பாக இருக்கிறேன்.",
+  "ask": "What do you enjoy doing in free time?",
+  "askTamil": "ஓய்வு நேரத்தில் நீங்கள் என்ன செய்ய விரும்புவீர்கள்?"
+ },
+ {
+  "word": "excited",
+  "say": "How lovely, you're excited!",
+  "sayTamil": "எவ்வளவு அருமை, உங்களுக்கு உற்சாகம்!",
+  "sentence": "I am excited about my trip.",
+  "sentenceTamil": "என் பயணத்தை நினைத்து நான் உற்சாகமாக இருக்கிறேன்.",
+  "ask": "What are you looking forward to?",
+  "askTamil": "நீங்கள் எதை எதிர்பார்க்கிறீர்கள்?"
+ },
+ {
+  "word": "nervous",
+  "say": "It's okay to feel nervous.",
+  "sayTamil": "பதற்றமாக இருப்பது சரிதான்.",
+  "sentence": "I am nervous before the interview.",
+  "sentenceTamil": "நேர்காணலுக்கு முன் எனக்குப் பதற்றமாக இருக்கிறது.",
+  "ask": "What is making you feel nervous?",
+  "askTamil": "உங்களை எது பதற்றப்படுத்துகிறது?"
+ },
+ {
+  "word": "worried",
+  "say": "Don't worry, I'm here with you.",
+  "sayTamil": "கவலைப்படாதீர்கள், நான் உங்களுடன் இருக்கிறேன்.",
+  "sentence": "I am worried about my exam.",
+  "sentenceTamil": "என் தேர்வைப் பற்றி நான் கவலைப்படுகிறேன்.",
+  "ask": "What is on your mind?",
+  "askTamil": "உங்கள் மனதில் என்ன இருக்கிறது?"
+ },
+ {
+  "word": "sick",
+  "say": "Oh dear, get well soon!",
+  "sayTamil": "ஐயோ, சீக்கிரம் குணமாகுங்கள்!",
+  "sentence": "I am sick and need rest.",
+  "sentenceTamil": "நான் உடல்நிலை சரியில்லாமல் ஓய்வு எடுக்க வேண்டும்.",
+  "ask": "Have you taken any medicine?",
+  "askTamil": "நீங்கள் ஏதாவது மருந்து சாப்பிட்டீர்களா?"
+ },
+ {
+  "word": "busy",
+  "say": "You seem very busy!",
+  "sayTamil": "நீங்கள் மிகவும் பிஸியாக இருக்கிறீர்கள் போல!",
+  "sentence": "I am busy this week.",
+  "sentenceTamil": "நான் இந்த வாரம் பிஸியாக இருக்கிறேன்.",
+  "ask": "When do you get some free time?",
+  "askTamil": "உங்களுக்கு எப்போது ஓய்வு நேரம் கிடைக்கும்?"
+ },
+ {
+  "word": "lazy",
+  "say": "Ha ha, we all feel lazy sometimes!",
+  "sayTamil": "ஹா ஹா, நாம் எல்லோரும் சில நேரம் சோம்பலாக உணர்வோம்!",
+  "sentence": "I feel lazy on Sundays.",
+  "sentenceTamil": "ஞாயிற்றுக்கிழமைகளில் எனக்குச் சோம்பலாக இருக்கும்.",
+  "ask": "What do you do on a lazy day?",
+  "askTamil": "சோம்பலான நாளில் நீங்கள் என்ன செய்வீர்கள்?"
+ },
+ {
+  "word": "lonely",
+  "say": "I'm here to talk with you.",
+  "sayTamil": "நான் உங்களுடன் பேச இருக்கிறேன்.",
+  "sentence": "I feel lonely sometimes.",
+  "sentenceTamil": "எனக்குச் சில நேரம் தனிமையாக இருக்கும்.",
+  "ask": "Who do you like to talk to?",
+  "askTamil": "நீங்கள் யாருடன் பேச விரும்புவீர்கள்?"
+ },
+ {
+  "word": "hot",
+  "say": "Yes, it can be so hot!",
+  "sayTamil": "ஆமாம், ரொம்ப சூடாக இருக்கலாம்!",
+  "sentence": "It is very hot today.",
+  "sentenceTamil": "இன்று மிகவும் வெப்பமாக இருக்கிறது.",
+  "ask": "How do you stay cool in summer?",
+  "askTamil": "கோடையில் எப்படிக் குளிர்ச்சியாக இருப்பீர்கள்?"
+ },
+ {
+  "word": "cold",
+  "say": "Brrr, stay warm!",
+  "sayTamil": "பிர்ர், கதகதப்பாக இருங்கள்!",
+  "sentence": "I feel cold in the morning.",
+  "sentenceTamil": "காலையில் எனக்குக் குளிராக இருக்கிறது.",
+  "ask": "Do you like cold weather?",
+  "askTamil": "உங்களுக்குக் குளிர்ந்த வானிலை பிடிக்குமா?"
+ },
+ {
+  "word": "free",
+  "say": "Oh nice, you have free time!",
+  "sayTamil": "ஓ நல்லது, உங்களுக்கு ஓய்வு நேரம் இருக்கிறது!",
+  "sentence": "I am free after five o'clock.",
+  "sentenceTamil": "நான் ஐந்து மணிக்குப் பிறகு ஃப்ரீயாக இருக்கிறேன்.",
+  "ask": "What will you do when you are free?",
+  "askTamil": "நீங்கள் ஃப்ரீயாக இருக்கும்போது என்ன செய்வீர்கள்?"
+ },
+ {
+  "word": "scared",
+  "say": "Oh, don't be scared.",
+  "sayTamil": "ஓ, பயப்படாதீர்கள்.",
+  "sentence": "I am scared of the dark.",
+  "sentenceTamil": "எனக்கு இருட்டைப் பார்த்தால் பயம்.",
+  "ask": "What are you most scared of?",
+  "askTamil": "உங்களுக்கு எதைப் பார்த்தால் மிகவும் பயம்?"
+ },
+ {
+  "word": "proud",
+  "say": "You should be proud!",
+  "sayTamil": "நீங்கள் பெருமைப்பட வேண்டும்!",
+  "sentence": "I am proud of my family.",
+  "sentenceTamil": "என் குடும்பத்தை நினைத்து நான் பெருமைப்படுகிறேன்.",
+  "ask": "What are you proud of?",
+  "askTamil": "நீங்கள் எதைப் பற்றிப் பெருமைப்படுகிறீர்கள்?"
+ },
+ {
+  "word": "office",
+  "say": "Are you going to the office?",
+  "sayTamil": "நீங்கள் அலுவலகத்துக்குப் போகிறீர்களா?",
+  "sentence": "I am going to the office.",
+  "sentenceTamil": "நான் அலுவலகத்துக்குப் போகிறேன்.",
+  "ask": "What time do you usually start work?",
+  "askTamil": "நீங்கள் வழக்கமாக எத்தனை மணிக்கு வேலை தொடங்குவீர்கள்?"
+ },
+ {
+  "word": "home",
+  "say": "Ah, home sweet home!",
+  "sayTamil": "ஆஹா, சொந்த வீடு தனி சுகம்!",
+  "sentence": "I am going home now.",
+  "sentenceTamil": "நான் இப்போது வீட்டுக்குப் போகிறேன்.",
+  "ask": "Who is at home with you?",
+  "askTamil": "வீட்டில் உங்களுடன் யார் இருக்கிறார்கள்?"
+ },
+ {
+  "word": "school",
+  "say": "School days are special!",
+  "sayTamil": "பள்ளி நாட்கள் தனிச்சிறப்பானவை!",
+  "sentence": "I go to school by bus.",
+  "sentenceTamil": "நான் பேருந்தில் பள்ளிக்குப் போகிறேன்.",
+  "ask": "What was your favourite subject in school?",
+  "askTamil": "பள்ளியில் உங்களுக்குப் பிடித்த பாடம் எது?"
+ },
+ {
+  "word": "college",
+  "say": "Oh, you're in college?",
+  "sayTamil": "ஓ, நீங்கள் கல்லூரியில் படிக்கிறீர்களா?",
+  "sentence": "I study in a college.",
+  "sentenceTamil": "நான் ஒரு கல்லூரியில் படிக்கிறேன்.",
+  "ask": "Which course are you studying?",
+  "askTamil": "நீங்கள் எந்தப் படிப்பைப் படிக்கிறீர்கள்?"
+ },
+ {
+  "word": "market",
+  "say": "The market is always lively!",
+  "sayTamil": "சந்தை எப்போதும் கலகலப்பாக இருக்கும்!",
+  "sentence": "I am going to the market.",
+  "sentenceTamil": "நான் சந்தைக்குப் போகிறேன்.",
+  "ask": "What do you buy from the market?",
+  "askTamil": "சந்தையில் நீங்கள் என்ன வாங்குவீர்கள்?"
+ },
+ {
+  "word": "hospital",
+  "say": "I hope everyone is okay.",
+  "sayTamil": "எல்லோரும் நலமாக இருக்கிறார்கள் என்று நம்புகிறேன்.",
+  "sentence": "I am going to the hospital.",
+  "sentenceTamil": "நான் மருத்துவமனைக்குப் போகிறேன்.",
+  "ask": "Is someone not feeling well?",
+  "askTamil": "யாருக்காவது உடம்பு சரியில்லையா?"
+ },
+ {
+  "word": "bank",
+  "say": "A trip to the bank, is it?",
+  "sayTamil": "வங்கிக்குப் போகிறீர்களா?",
+  "sentence": "I need to go to the bank.",
+  "sentenceTamil": "நான் வங்கிக்குப் போக வேண்டும்.",
+  "ask": "What work do you have at the bank?",
+  "askTamil": "வங்கியில் உங்களுக்கு என்ன வேலை?"
+ },
+ {
+  "word": "temple",
+  "say": "Temples feel so peaceful.",
+  "sayTamil": "கோயில்கள் மிகவும் அமைதியாக இருக்கும்.",
+  "sentence": "I go to the temple on Fridays.",
+  "sentenceTamil": "நான் வெள்ளிக்கிழமைகளில் கோயிலுக்குப் போவேன்.",
+  "ask": "Which temple do you like the most?",
+  "askTamil": "உங்களுக்கு எந்தக் கோயில் மிகவும் பிடிக்கும்?"
+ },
+ {
+  "word": "station",
+  "say": "Are you at the station?",
+  "sayTamil": "நீங்கள் ரயில் நிலையத்தில் இருக்கிறீர்களா?",
+  "sentence": "I am waiting at the station.",
+  "sentenceTamil": "நான் நிலையத்தில் காத்திருக்கிறேன்.",
+  "ask": "Where are you travelling to?",
+  "askTamil": "நீங்கள் எங்கே பயணம் செய்கிறீர்கள்?"
+ },
+ {
+  "word": "airport",
+  "say": "Wow, the airport!",
+  "sayTamil": "வாவ், விமான நிலையம்!",
+  "sentence": "I am at the airport now.",
+  "sentenceTamil": "நான் இப்போது விமான நிலையத்தில் இருக்கிறேன்.",
+  "ask": "Are you flying somewhere new?",
+  "askTamil": "நீங்கள் புதிய இடத்துக்குப் பறக்கிறீர்களா?"
+ },
+ {
+  "word": "mall",
+  "say": "Fun! Malls are nice for a day out.",
+  "sayTamil": "ஜாலி! மால் வெளியே போக நல்ல இடம்.",
+  "sentence": "I go to the mall with friends.",
+  "sentenceTamil": "நான் நண்பர்களுடன் மாலுக்குப் போவேன்.",
+  "ask": "What do you like to do at the mall?",
+  "askTamil": "மாலில் நீங்கள் என்ன செய்ய விரும்புவீர்கள்?"
+ },
+ {
+  "word": "park",
+  "say": "A park is great for fresh air!",
+  "sayTamil": "பூங்கா சுத்தமான காற்றுக்கு அருமை!",
+  "sentence": "I walk in the park daily.",
+  "sentenceTamil": "நான் தினமும் பூங்காவில் நடக்கிறேன்.",
+  "ask": "Do you go to the park alone or with family?",
+  "askTamil": "நீங்கள் தனியாகவா, குடும்பத்துடனா பூங்காவுக்குப் போவீர்கள்?"
+ },
+ {
+  "word": "beach",
+  "say": "I love the beach too!",
+  "sayTamil": "எனக்கும் கடற்கரை பிடிக்கும்!",
+  "sentence": "I like the beach in the evening.",
+  "sentenceTamil": "மாலையில் கடற்கரை எனக்குப் பிடிக்கும்.",
+  "ask": "Which beach have you visited?",
+  "askTamil": "நீங்கள் எந்தக் கடற்கரைக்குப் போயிருக்கிறீர்கள்?"
+ },
+ {
+  "word": "gym",
+  "say": "Great, you care about fitness!",
+  "sayTamil": "அருமை, நீங்கள் உடற்பயிற்சியில் அக்கறை காட்டுகிறீர்கள்!",
+  "sentence": "I go to the gym every morning.",
+  "sentenceTamil": "நான் தினமும் காலை உடற்பயிற்சிக் கூடத்துக்குப் போகிறேன்.",
+  "ask": "How many days a week do you exercise?",
+  "askTamil": "வாரத்தில் எத்தனை நாள் உடற்பயிற்சி செய்வீர்கள்?"
+ },
+ {
+  "word": "library",
+  "say": "A library, how peaceful!",
+  "sayTamil": "நூலகம், எவ்வளவு அமைதி!",
+  "sentence": "I read books in the library.",
+  "sentenceTamil": "நான் நூலகத்தில் புத்தகங்கள் படிக்கிறேன்.",
+  "ask": "What kind of books do you enjoy?",
+  "askTamil": "நீங்கள் எந்த மாதிரி புத்தகங்களை விரும்புவீர்கள்?"
+ },
+ {
+  "word": "restaurant",
+  "say": "Mmm, going out to eat?",
+  "sayTamil": "ம்ம், வெளியே சாப்பிடப் போகிறீர்களா?",
+  "sentence": "I want to try a new restaurant.",
+  "sentenceTamil": "நான் ஒரு புதிய உணவகத்தை முயற்சி செய்ய விரும்புகிறேன்.",
+  "ask": "What is your favourite restaurant?",
+  "askTamil": "உங்களுக்குப் பிடித்த உணவகம் எது?"
+ },
+ {
+  "word": "village",
+  "say": "Village life is lovely!",
+  "sayTamil": "கிராம வாழ்க்கை அழகானது!",
+  "sentence": "My village is very quiet.",
+  "sentenceTamil": "என் கிராமம் மிகவும் அமைதியானது.",
+  "ask": "What do you miss about your village?",
+  "askTamil": "உங்கள் கிராமத்தில் எதை மிஸ் பண்ணுகிறீர்கள்?"
+ },
+ {
+  "word": "city",
+  "say": "Is the city busy where you live?",
+  "sayTamil": "நீங்கள் இருக்கும் நகரம் பரபரப்பாக இருக்குமா?",
+  "sentence": "I live in a big city.",
+  "sentenceTamil": "நான் ஒரு பெரிய நகரத்தில் வாழ்கிறேன்.",
+  "ask": "Which city do you like the most?",
+  "askTamil": "உங்களுக்கு எந்த நகரம் மிகவும் பிடிக்கும்?"
+ },
+ {
+  "word": "hotel",
+  "say": "Staying in a hotel?",
+  "sayTamil": "ஹோட்டலில் தங்குகிறீர்களா?",
+  "sentence": "I am staying in a hotel.",
+  "sentenceTamil": "நான் ஒரு ஹோட்டலில் தங்கியிருக்கிறேன்.",
+  "ask": "Is the hotel food good?",
+  "askTamil": "ஹோட்டல் சாப்பாடு நன்றாக இருக்கிறதா?"
+ },
+ {
+  "word": "shop",
+  "say": "Do you have a shop?",
+  "sayTamil": "உங்களிடம் கடை இருக்கிறதா?",
+  "sentence": "I am going to the shop.",
+  "sentenceTamil": "நான் கடைக்குப் போகிறேன்.",
+  "ask": "What do you want to buy there?",
+  "askTamil": "அங்கே நீங்கள் என்ன வாங்க விரும்புகிறீர்கள்?"
+ },
+ {
+  "word": "garden",
+  "say": "Gardens make the heart happy!",
+  "sayTamil": "தோட்டம் மனதுக்கு மகிழ்ச்சி தரும்!",
+  "sentence": "I water the garden daily.",
+  "sentenceTamil": "நான் தினமும் தோட்டத்துக்குத் தண்ணீர் ஊற்றுகிறேன்.",
+  "ask": "What plants do you grow in your garden?",
+  "askTamil": "உங்கள் தோட்டத்தில் என்ன செடிகள் வளர்க்கிறீர்கள்?"
+ },
+ {
+  "word": "kitchen",
+  "say": "The kitchen is the heart of a home!",
+  "sayTamil": "சமையலறை வீட்டின் இதயம்!",
+  "sentence": "I am in the kitchen now.",
+  "sentenceTamil": "நான் இப்போது சமையலறையில் இருக்கிறேன்.",
+  "ask": "What is cooking in your kitchen today?",
+  "askTamil": "இன்று உங்கள் சமையலறையில் என்ன சமையல்?"
+ },
+ {
+  "word": "tea",
+  "say": "Tea time, lovely!",
+  "sayTamil": "தேநீர் நேரம், அருமை!",
+  "sentence": "I drink tea every morning.",
+  "sentenceTamil": "நான் தினமும் காலை தேநீர் குடிப்பேன்.",
+  "ask": "Do you like tea with sugar or without?",
+  "askTamil": "உங்களுக்குச் சர்க்கரையுடன் தேநீர் பிடிக்குமா, இல்லாமலா?"
+ },
+ {
+  "word": "coffee",
+  "say": "Ah, a coffee lover!",
+  "sayTamil": "ஆஹா, காபி பிரியரா!",
+  "sentence": "I need a coffee now.",
+  "sentenceTamil": "எனக்கு இப்போது ஒரு காபி வேண்டும்.",
+  "ask": "How many cups of coffee do you drink a day?",
+  "askTamil": "ஒரு நாளைக்கு எத்தனை கப் காபி குடிப்பீர்கள்?"
+ },
+ {
+  "word": "rice",
+  "say": "Rice is our favourite!",
+  "sayTamil": "சாதம் நம் எல்லோருக்கும் பிடித்தது!",
+  "sentence": "I eat rice for lunch.",
+  "sentenceTamil": "நான் மதியம் சாதம் சாப்பிடுவேன்.",
+  "ask": "What do you eat with rice?",
+  "askTamil": "சாதத்துடன் நீங்கள் என்ன சாப்பிடுவீர்கள்?"
+ },
+ {
+  "word": "biryani",
+  "say": "Yum, biryani!",
+  "sayTamil": "ம்ம், பிரியாணி!",
+  "sentence": "I love chicken biryani.",
+  "sentenceTamil": "எனக்குச் சிக்கன் பிரியாணி மிகவும் பிடிக்கும்.",
+  "ask": "Who makes the best biryani you know?",
+  "askTamil": "உங்களுக்குத் தெரிந்த சிறந்த பிரியாணியை யார் செய்வார்கள்?"
+ },
+ {
+  "word": "dosa",
+  "say": "Hot crispy dosa, nice!",
+  "sayTamil": "சூடான மொறுமொறு தோசை, சூப்பர்!",
+  "sentence": "I had dosa for breakfast.",
+  "sentenceTamil": "நான் காலை உணவுக்குத் தோசை சாப்பிட்டேன்.",
+  "ask": "Which chutney do you like with dosa?",
+  "askTamil": "தோசைக்கு உங்களுக்கு எந்தச் சட்னி பிடிக்கும்?"
+ },
+ {
+  "word": "water",
+  "say": "Good to stay hydrated!",
+  "sayTamil": "தண்ணீர் குடிப்பது நல்லது!",
+  "sentence": "I drink water every hour.",
+  "sentenceTamil": "நான் ஒவ்வொரு மணி நேரமும் தண்ணீர் குடிக்கிறேன்.",
+  "ask": "How much water do you drink in a day?",
+  "askTamil": "ஒரு நாளைக்கு எவ்வளவு தண்ணீர் குடிப்பீர்கள்?"
+ },
+ {
+  "word": "juice",
+  "say": "Fresh juice, nice choice!",
+  "sayTamil": "புதிய ஜூஸ், நல்ல தேர்வு!",
+  "sentence": "I like orange juice.",
+  "sentenceTamil": "எனக்கு ஆரஞ்சு ஜூஸ் பிடிக்கும்.",
+  "ask": "Which fruit juice is your favourite?",
+  "askTamil": "உங்களுக்குப் பிடித்த பழச்சாறு எது?"
+ },
+ {
+  "word": "lunch",
+  "say": "Is it lunch time already?",
+  "sayTamil": "மதிய உணவு நேரம் வந்துவிட்டதா?",
+  "sentence": "I have lunch at one o'clock.",
+  "sentenceTamil": "நான் ஒரு மணிக்கு மதிய உணவு சாப்பிடுவேன்.",
+  "ask": "Do you carry lunch from home?",
+  "askTamil": "நீங்கள் வீட்டிலிருந்து மதிய உணவு எடுத்து வருவீர்களா?"
+ },
+ {
+  "word": "dinner",
+  "say": "Dinner time already?",
+  "sayTamil": "ஏற்கனவே இரவு உணவு நேரமா?",
+  "sentence": "We have dinner together.",
+  "sentenceTamil": "நாங்கள் ஒன்றாக இரவு உணவு சாப்பிடுவோம்.",
+  "ask": "What is for dinner tonight?",
+  "askTamil": "இன்று இரவு உணவுக்கு என்ன?"
+ },
+ {
+  "word": "breakfast",
+  "say": "Breakfast is the best meal!",
+  "sayTamil": "காலை உணவு மிகச் சிறந்த உணவு!",
+  "sentence": "I eat breakfast at eight.",
+  "sentenceTamil": "நான் எட்டு மணிக்குக் காலை உணவு சாப்பிடுவேன்.",
+  "ask": "What did you have for breakfast today?",
+  "askTamil": "இன்று காலை உணவுக்கு என்ன சாப்பிட்டீர்கள்?"
+ },
+ {
+  "word": "fruit",
+  "say": "Fruits are so healthy!",
+  "sayTamil": "பழங்கள் மிகவும் ஆரோக்கியமானவை!",
+  "sentence": "I eat fruit every day.",
+  "sentenceTamil": "நான் தினமும் பழம் சாப்பிடுவேன்.",
+  "ask": "Which fruit do you like the most?",
+  "askTamil": "உங்களுக்கு எந்தப் பழம் மிகவும் பிடிக்கும்?"
+ },
+ {
+  "word": "idli",
+  "say": "Soft idli, my favourite too!",
+  "sayTamil": "மென்மையான இட்லி, எனக்கும் பிடிக்கும்!",
+  "sentence": "I like idli with sambar.",
+  "sentenceTamil": "எனக்குச் சாம்பாருடன் இட்லி பிடிக்கும்.",
+  "ask": "How many idlis can you eat?",
+  "askTamil": "நீங்கள் எத்தனை இட்லி சாப்பிடுவீர்கள்?"
+ },
+ {
+  "word": "chocolate",
+  "say": "Oh, a sweet tooth!",
+  "sayTamil": "ஓ, இனிப்புப் பிரியரா!",
+  "sentence": "I love chocolate a lot.",
+  "sentenceTamil": "எனக்குச் சாக்லேட் மிகவும் பிடிக்கும்.",
+  "ask": "Do you like dark or milk chocolate?",
+  "askTamil": "உங்களுக்கு டார்க் சாக்லேட் பிடிக்குமா, மில்க் சாக்லேட்டா?"
+ },
+ {
+  "word": "milk",
+  "say": "Milk is good for health.",
+  "sayTamil": "பால் உடலுக்கு நல்லது.",
+  "sentence": "I drink milk at night.",
+  "sentenceTamil": "நான் இரவில் பால் குடிப்பேன்.",
+  "ask": "Do you drink milk hot or cold?",
+  "askTamil": "நீங்கள் பாலைச் சூடாகக் குடிப்பீர்களா, குளிராகவா?"
+ },
+ {
+  "word": "banana",
+  "say": "Bananas are tasty and healthy!",
+  "sayTamil": "வாழைப்பழம் சுவையானது, ஆரோக்கியமானது!",
+  "sentence": "I eat a banana daily.",
+  "sentenceTamil": "நான் தினமும் ஒரு வாழைப்பழம் சாப்பிடுவேன்.",
+  "ask": "Do you like banana chips too?",
+  "askTamil": "உங்களுக்கு வாழைக்காய் சிப்ஸும் பிடிக்குமா?"
+ },
+ {
+  "word": "mango",
+  "say": "Mango, the king of fruits!",
+  "sayTamil": "மாம்பழம், பழங்களின் அரசன்!",
+  "sentence": "I love mango in summer.",
+  "sentenceTamil": "கோடையில் எனக்கு மாம்பழம் மிகவும் பிடிக்கும்.",
+  "ask": "Which mango variety do you like best?",
+  "askTamil": "உங்களுக்கு எந்த மாம்பழ வகை மிகவும் பிடிக்கும்?"
+ },
+ {
+  "word": "pizza",
+  "say": "Pizza, nice!",
+  "sayTamil": "பீட்சா, சூப்பர்!",
+  "sentence": "I like pizza on weekends.",
+  "sentenceTamil": "வார இறுதியில் எனக்குப் பீட்சா பிடிக்கும்.",
+  "ask": "What topping do you like on pizza?",
+  "askTamil": "பீட்சாவில் உங்களுக்கு என்ன டாப்பிங் பிடிக்கும்?"
+ },
+ {
+  "word": "snacks",
+  "say": "Snack time, yay!",
+  "sayTamil": "ஸ்நாக்ஸ் நேரம், ஹை!",
+  "sentence": "I eat snacks in the evening.",
+  "sentenceTamil": "நான் மாலையில் சிற்றுண்டி சாப்பிடுவேன்.",
+  "ask": "What snacks do you like with tea?",
+  "askTamil": "தேநீருடன் நீங்கள் என்ன சிற்றுண்டி விரும்புவீர்கள்?"
+ },
+ {
+  "word": "sweet",
+  "say": "Ooh, something sweet!",
+  "sayTamil": "ஓ, இனிப்பு!",
+  "sentence": "I like a sweet after lunch.",
+  "sentenceTamil": "மதிய உணவுக்குப் பிறகு எனக்கு ஒரு இனிப்பு பிடிக்கும்.",
+  "ask": "Which sweet do you like the most?",
+  "askTamil": "உங்களுக்கு எந்த இனிப்பு மிகவும் பிடிக்கும்?"
+ },
+ {
+  "word": "chicken",
+  "say": "Chicken, tasty!",
+  "sayTamil": "கோழிக்கறி, சுவையானது!",
+  "sentence": "I like chicken curry.",
+  "sentenceTamil": "எனக்குச் சிக்கன் குழம்பு பிடிக்கும்.",
+  "ask": "How do you like your chicken cooked?",
+  "askTamil": "உங்களுக்குச் சிக்கன் எப்படிச் சமைத்தால் பிடிக்கும்?"
+ },
+ {
+  "word": "vegetables",
+  "say": "Good, vegetables are healthy!",
+  "sayTamil": "நல்லது, காய்கறிகள் ஆரோக்கியமானவை!",
+  "sentence": "I buy vegetables every week.",
+  "sentenceTamil": "நான் ஒவ்வொரு வாரமும் காய்கறிகள் வாங்குவேன்.",
+  "ask": "Which vegetable do you like the least?",
+  "askTamil": "உங்களுக்கு எந்தக் காய்கறி மிகக் குறைவாகப் பிடிக்கும்?"
+ },
+ {
+  "word": "mother",
+  "say": "Mothers are special!",
+  "sayTamil": "அம்மாக்கள் மிகவும் சிறப்பானவர்கள்!",
+  "sentence": "My mother cooks very well.",
+  "sentenceTamil": "என் அம்மா மிகவும் நன்றாகச் சமைப்பார்.",
+  "ask": "What is your mother's best dish?",
+  "askTamil": "உங்கள் அம்மா செய்யும் சிறந்த உணவு எது?"
+ },
+ {
+  "word": "father",
+  "say": "Tell me about your father.",
+  "sayTamil": "உங்கள் அப்பாவைப் பற்றிச் சொல்லுங்கள்.",
+  "sentence": "My father works hard.",
+  "sentenceTamil": "என் அப்பா கடினமாக உழைக்கிறார்.",
+  "ask": "What does your father do?",
+  "askTamil": "உங்கள் அப்பா என்ன வேலை செய்கிறார்?"
+ },
+ {
+  "word": "friend",
+  "say": "Friends are precious!",
+  "sayTamil": "நண்பர்கள் விலைமதிப்பற்றவர்கள்!",
+  "sentence": "My best friend lives nearby.",
+  "sentenceTamil": "என் நெருங்கிய நண்பர் அருகில் வசிக்கிறார்.",
+  "ask": "How did you meet your best friend?",
+  "askTamil": "உங்கள் நெருங்கிய நண்பரை எப்படிச் சந்தித்தீர்கள்?"
+ },
+ {
+  "word": "brother",
+  "say": "Do you have a brother?",
+  "sayTamil": "உங்களுக்கு அண்ணன் அல்லது தம்பி இருக்கிறாரா?",
+  "sentence": "My brother is younger than me.",
+  "sentenceTamil": "என் தம்பி என்னை விட இளையவன்.",
+  "ask": "What does your brother like to do?",
+  "askTamil": "உங்கள் சகோதரர் என்ன செய்ய விரும்புவார்?"
+ },
+ {
+  "word": "sister",
+  "say": "Sisters are so caring!",
+  "sayTamil": "சகோதரிகள் மிகவும் அன்பானவர்கள்!",
+  "sentence": "My sister lives in Chennai.",
+  "sentenceTamil": "என் சகோதரி சென்னையில் வசிக்கிறார்.",
+  "ask": "How often do you talk to your sister?",
+  "askTamil": "உங்கள் சகோதரியிடம் எவ்வளவு அடிக்கடி பேசுவீர்கள்?"
+ },
+ {
+  "word": "wife",
+  "say": "Ah, tell me about your wife!",
+  "sayTamil": "ஆஹா, உங்கள் மனைவியைப் பற்றிச் சொல்லுங்கள்!",
+  "sentence": "My wife is a teacher.",
+  "sentenceTamil": "என் மனைவி ஓர் ஆசிரியை.",
+  "ask": "What does your wife enjoy doing?",
+  "askTamil": "உங்கள் மனைவி என்ன செய்ய விரும்புவார்?"
+ },
+ {
+  "word": "husband",
+  "say": "Ah, your husband!",
+  "sayTamil": "ஆஹா, உங்கள் கணவர்!",
+  "sentence": "My husband helps me at home.",
+  "sentenceTamil": "என் கணவர் வீட்டில் எனக்கு உதவுவார்.",
+  "ask": "What does your husband do for work?",
+  "askTamil": "உங்கள் கணவர் என்ன வேலை செய்கிறார்?"
+ },
+ {
+  "word": "boss",
+  "say": "Is your boss friendly?",
+  "sayTamil": "உங்கள் மேலதிகாரி நட்பாக இருப்பாரா?",
+  "sentence": "My boss is very kind.",
+  "sentenceTamil": "என் மேலதிகாரி மிகவும் அன்பானவர்.",
+  "ask": "What is your boss like to work with?",
+  "askTamil": "உங்கள் மேலதிகாரியுடன் வேலை செய்வது எப்படி இருக்கும்?"
+ },
+ {
+  "word": "teacher",
+  "say": "A good teacher changes lives!",
+  "sayTamil": "நல்ல ஆசிரியர் வாழ்க்கையை மாற்றுவார்!",
+  "sentence": "My teacher taught me English.",
+  "sentenceTamil": "என் ஆசிரியர் எனக்கு ஆங்கிலம் கற்றுக் கொடுத்தார்.",
+  "ask": "Who was your favourite teacher?",
+  "askTamil": "உங்களுக்குப் பிடித்த ஆசிரியர் யார்?"
+ },
+ {
+  "word": "doctor",
+  "say": "I hope all is well.",
+  "sayTamil": "எல்லாம் நலமாக இருக்கும் என்று நம்புகிறேன்.",
+  "sentence": "I need to see a doctor.",
+  "sentenceTamil": "நான் ஒரு மருத்துவரைப் பார்க்க வேண்டும்.",
+  "ask": "Are you having any health problem?",
+  "askTamil": "உங்களுக்கு ஏதாவது உடல்நலப் பிரச்சினை இருக்கிறதா?"
+ },
+ {
+  "word": "baby",
+  "say": "Aww, a baby!",
+  "sayTamil": "அட, குழந்தை!",
+  "sentence": "The baby is sleeping now.",
+  "sentenceTamil": "குழந்தை இப்போது தூங்குகிறது.",
+  "ask": "How old is the baby?",
+  "askTamil": "குழந்தைக்கு எத்தனை வயது?"
+ },
+ {
+  "word": "son",
+  "say": "Tell me about your son!",
+  "sayTamil": "உங்கள் மகனைப் பற்றிச் சொல்லுங்கள்!",
+  "sentence": "My son goes to school.",
+  "sentenceTamil": "என் மகன் பள்ளிக்குப் போகிறான்.",
+  "ask": "What is your son studying these days?",
+  "askTamil": "உங்கள் மகன் இப்போது என்ன படிக்கிறான்?"
+ },
+ {
+  "word": "daughter",
+  "say": "Your daughter must be lovely!",
+  "sayTamil": "உங்கள் மகள் அழகாக இருப்பாள்!",
+  "sentence": "My daughter loves to draw.",
+  "sentenceTamil": "என் மகளுக்கு ஓவியம் வரைவது பிடிக்கும்.",
+  "ask": "What is your daughter's dream?",
+  "askTamil": "உங்கள் மகளின் கனவு என்ன?"
+ },
+ {
+  "word": "neighbour",
+  "say": "Good neighbours are a blessing!",
+  "sayTamil": "நல்ல அண்டை வீட்டார் ஒரு வரம்!",
+  "sentence": "My neighbour is very helpful.",
+  "sentenceTamil": "என் அண்டை வீட்டார் மிகவும் உதவியாக இருப்பார்.",
+  "ask": "Do you talk to your neighbour often?",
+  "askTamil": "உங்கள் அண்டை வீட்டாரிடம் அடிக்கடி பேசுவீர்களா?"
+ },
+ {
+  "word": "work",
+  "say": "Work keeps us busy!",
+  "sayTamil": "வேலை நம்மை பிஸியாக வைத்திருக்கும்!",
+  "sentence": "I work from nine to six.",
+  "sentenceTamil": "நான் ஒன்பது முதல் ஆறு மணி வரை வேலை செய்கிறேன்.",
+  "ask": "Do you enjoy your work?",
+  "askTamil": "உங்கள் வேலை உங்களுக்குப் பிடிக்குமா?"
+ },
+ {
+  "word": "meeting",
+  "say": "A meeting, is it important?",
+  "sayTamil": "மீட்டிங்கா, முக்கியமானதா?",
+  "sentence": "I have a meeting at three.",
+  "sentenceTamil": "எனக்கு மூன்று மணிக்கு ஒரு மீட்டிங் இருக்கிறது.",
+  "ask": "What is the meeting about?",
+  "askTamil": "அந்த மீட்டிங் எதைப் பற்றியது?"
+ },
+ {
+  "word": "cricket",
+  "say": "Cricket, the national favourite!",
+  "sayTamil": "கிரிக்கெட், நாட்டின் விருப்ப விளையாட்டு!",
+  "sentence": "I watch cricket on weekends.",
+  "sentenceTamil": "நான் வார இறுதியில் கிரிக்கெட் பார்ப்பேன்.",
+  "ask": "Who is your favourite cricket player?",
+  "askTamil": "உங்களுக்குப் பிடித்த கிரிக்கெட் வீரர் யார்?"
+ },
+ {
+  "word": "movie",
+  "say": "Movie time, nice!",
+  "sayTamil": "சினிமா நேரம், சூப்பர்!",
+  "sentence": "I watched a movie yesterday.",
+  "sentenceTamil": "நான் நேற்று ஒரு படம் பார்த்தேன்.",
+  "ask": "What was the movie about?",
+  "askTamil": "அந்தப் படம் எதைப் பற்றியது?"
+ },
+ {
+  "word": "music",
+  "say": "Music is good for the soul!",
+  "sayTamil": "இசை ஆன்மாவுக்கு நல்லது!",
+  "sentence": "I listen to music while travelling.",
+  "sentenceTamil": "நான் பயணம் செய்யும்போது இசை கேட்பேன்.",
+  "ask": "What kind of music do you enjoy?",
+  "askTamil": "நீங்கள் எந்த வகை இசையை ரசிப்பீர்கள்?"
+ },
+ {
+  "word": "travel",
+  "say": "I love hearing about travel!",
+  "sayTamil": "பயணங்களைப் பற்றிக் கேட்க எனக்குப் பிடிக்கும்!",
+  "sentence": "I love to travel.",
+  "sentenceTamil": "எனக்குப் பயணம் செய்வது பிடிக்கும்.",
+  "ask": "Which place would you like to visit next?",
+  "askTamil": "அடுத்து எந்த இடத்துக்குப் போக விரும்புகிறீர்கள்?"
+ },
+ {
+  "word": "shopping",
+  "say": "Shopping, how fun!",
+  "sayTamil": "ஷாப்பிங், எவ்வளவு ஜாலி!",
+  "sentence": "I am going shopping today.",
+  "sentenceTamil": "நான் இன்று ஷாப்பிங் போகிறேன்.",
+  "ask": "What are you planning to buy?",
+  "askTamil": "நீங்கள் என்ன வாங்கத் திட்டமிட்டிருக்கிறீர்கள்?"
+ },
+ {
+  "word": "cooking",
+  "say": "Cooking is a lovely hobby!",
+  "sayTamil": "சமையல் ஓர் அழகான பொழுதுபோக்கு!",
+  "sentence": "I enjoy cooking for my family.",
+  "sentenceTamil": "நான் என் குடும்பத்துக்குச் சமைப்பதை விரும்புகிறேன்.",
+  "ask": "What dish do you cook best?",
+  "askTamil": "நீங்கள் எந்த உணவை நன்றாகச் சமைப்பீர்கள்?"
+ },
+ {
+  "word": "studying",
+  "say": "Studying hard, great!",
+  "sayTamil": "கடினமாகப் படிக்கிறீர்கள், அருமை!",
+  "sentence": "I am studying for my exam.",
+  "sentenceTamil": "நான் என் தேர்வுக்காகப் படிக்கிறேன்.",
+  "ask": "Which subject is the hardest for you?",
+  "askTamil": "உங்களுக்கு எந்தப் பாடம் மிகக் கடினம்?"
+ },
+ {
+  "word": "driving",
+  "say": "Do you like driving?",
+  "sayTamil": "உங்களுக்கு வண்டி ஓட்டுவது பிடிக்குமா?",
+  "sentence": "I enjoy driving in the evening.",
+  "sentenceTamil": "மாலையில் வண்டி ஓட்டுவது எனக்குப் பிடிக்கும்.",
+  "ask": "Do you drive a car or a bike?",
+  "askTamil": "நீங்கள் கார் ஓட்டுவீர்களா, பைக் ஓட்டுவீர்களா?"
+ },
+ {
+  "word": "weekend",
+  "say": "Weekend, finally!",
+  "sayTamil": "வார இறுதி, கடைசியாக!",
+  "sentence": "I rest on the weekend.",
+  "sentenceTamil": "நான் வார இறுதியில் ஓய்வெடுப்பேன்.",
+  "ask": "What are your weekend plans?",
+  "askTamil": "உங்கள் வார இறுதித் திட்டம் என்ன?"
+ },
+ {
+  "word": "holiday",
+  "say": "A holiday, how nice!",
+  "sayTamil": "விடுமுறை, எவ்வளவு நல்லது!",
+  "sentence": "I am on holiday this week.",
+  "sentenceTamil": "நான் இந்த வாரம் விடுமுறையில் இருக்கிறேன்.",
+  "ask": "Where would you like to go on holiday?",
+  "askTamil": "விடுமுறையில் நீங்கள் எங்கே போக விரும்புகிறீர்கள்?"
+ },
+ {
+  "word": "birthday",
+  "say": "Oh, is it someone's birthday?",
+  "sayTamil": "ஓ, யாருக்காவது பிறந்தநாளா?",
+  "sentence": "My birthday is next month.",
+  "sentenceTamil": "என் பிறந்தநாள் அடுத்த மாதம்.",
+  "ask": "How do you like to celebrate your birthday?",
+  "askTamil": "உங்கள் பிறந்தநாளை எப்படிக் கொண்டாட விரும்புவீர்கள்?"
+ },
+ {
+  "word": "exam",
+  "say": "Best of luck for the exam!",
+  "sayTamil": "தேர்வுக்கு வாழ்த்துகள்!",
+  "sentence": "I have an exam tomorrow.",
+  "sentenceTamil": "எனக்கு நாளை ஒரு தேர்வு இருக்கிறது.",
+  "ask": "Have you prepared well for it?",
+  "askTamil": "அதற்கு நன்றாகத் தயாராகிவிட்டீர்களா?"
+ },
+ {
+  "word": "salary",
+  "say": "Ah, salary day!",
+  "sayTamil": "ஆஹா, சம்பள நாள்!",
+  "sentence": "I get my salary on the first.",
+  "sentenceTamil": "நான் முதல் தேதியில் சம்பளம் வாங்குவேன்.",
+  "ask": "What will you do with your salary?",
+  "askTamil": "உங்கள் சம்பளத்தில் என்ன செய்வீர்கள்?"
+ },
+ {
+  "word": "laptop",
+  "say": "A laptop, handy!",
+  "sayTamil": "லேப்டாப், பயனுள்ளது!",
+  "sentence": "I work on my laptop.",
+  "sentenceTamil": "நான் என் லேப்டாப்பில் வேலை செய்கிறேன்.",
+  "ask": "What do you mostly use your laptop for?",
+  "askTamil": "உங்கள் லேப்டாப்பை பெரும்பாலும் எதற்குப் பயன்படுத்துவீர்கள்?"
+ },
+ {
+  "word": "phone",
+  "say": "Is your phone with you?",
+  "sayTamil": "உங்கள் போன் உங்களிடம் இருக்கிறதா?",
+  "sentence": "I forgot my phone at home.",
+  "sentenceTamil": "நான் என் போனை வீட்டில் மறந்துவிட்டேன்.",
+  "ask": "How much time do you spend on your phone?",
+  "askTamil": "நீங்கள் போனில் எவ்வளவு நேரம் செலவிடுவீர்கள்?"
+ },
+ {
+  "word": "bus",
+  "say": "Travelling by bus?",
+  "sayTamil": "பேருந்தில் பயணமா?",
+  "sentence": "I take the bus to work.",
+  "sentenceTamil": "நான் வேலைக்குப் பேருந்தில் போகிறேன்.",
+  "ask": "Is the bus crowded in the morning?",
+  "askTamil": "காலையில் பேருந்தில் கூட்டம் அதிகமா?"
+ },
+ {
+  "word": "train",
+  "say": "Train journeys are fun!",
+  "sayTamil": "ரயில் பயணங்கள் ஜாலியானவை!",
+  "sentence": "I like to travel by train.",
+  "sentenceTamil": "நான் ரயிலில் பயணம் செய்ய விரும்புவேன்.",
+  "ask": "Where was your last train journey?",
+  "askTamil": "உங்கள் கடைசி ரயில் பயணம் எங்கே?"
+ },
+ {
+  "word": "rain",
+  "say": "I love the sound of rain!",
+  "sayTamil": "மழையின் சத்தம் எனக்குப் பிடிக்கும்!",
+  "sentence": "I like to sit and watch the rain.",
+  "sentenceTamil": "நான் உட்கார்ந்து மழையைப் பார்க்க விரும்புவேன்.",
+  "ask": "Do you enjoy getting wet in the rain?",
+  "askTamil": "மழையில் நனைவது உங்களுக்குப் பிடிக்குமா?"
+ },
+ {
+  "word": "weather",
+  "say": "Talking about the weather!",
+  "sayTamil": "வானிலையைப் பற்றிப் பேசுகிறோம்!",
+  "sentence": "The weather is lovely today.",
+  "sentenceTamil": "இன்று வானிலை அருமையாக இருக்கிறது.",
+  "ask": "What kind of weather do you like?",
+  "askTamil": "உங்களுக்கு எந்த வகை வானிலை பிடிக்கும்?"
+ },
+ {
+  "word": "football",
+  "say": "Football fan, are you?",
+  "sayTamil": "நீங்கள் கால்பந்து ரசிகரா?",
+  "sentence": "I play football with friends.",
+  "sentenceTamil": "நான் நண்பர்களுடன் கால்பந்து விளையாடுவேன்.",
+  "ask": "Which football team do you support?",
+  "askTamil": "நீங்கள் எந்தக் கால்பந்து அணியை ஆதரிக்கிறீர்கள்?"
+ },
+ {
+  "word": "dancing",
+  "say": "Dancing is so joyful!",
+  "sayTamil": "நடனம் மிகவும் மகிழ்ச்சியானது!",
+  "sentence": "I enjoy dancing at weddings.",
+  "sentenceTamil": "திருமணங்களில் நடனமாடுவது எனக்குப் பிடிக்கும்.",
+  "ask": "What type of dancing do you like?",
+  "askTamil": "நீங்கள் எந்த வகை நடனத்தை விரும்புவீர்கள்?"
+ },
+ {
+  "word": "singing",
+  "say": "Oh, you like singing!",
+  "sayTamil": "ஓ, உங்களுக்குப் பாடுவது பிடிக்குமா!",
+  "sentence": "I like singing in the bathroom.",
+  "sentenceTamil": "எனக்குக் குளியலறையில் பாடுவது பிடிக்கும்.",
+  "ask": "Which song do you sing the most?",
+  "askTamil": "நீங்கள் எந்தப் பாட்டை அதிகம் பாடுவீர்கள்?"
+ },
+ {
+  "word": "reading",
+  "say": "Reading is a great habit!",
+  "sayTamil": "படிப்பது ஒரு நல்ல பழக்கம்!",
+  "sentence": "I enjoy reading before bed.",
+  "sentenceTamil": "நான் தூங்கும் முன் படிப்பதை விரும்புகிறேன்.",
+  "ask": "What are you reading these days?",
+  "askTamil": "நீங்கள் இப்போது என்ன படிக்கிறீர்கள்?"
+ },
+ {
+  "word": "walking",
+  "say": "Walking is good for health!",
+  "sayTamil": "நடப்பது உடலுக்கு நல்லது!",
+  "sentence": "I enjoy walking in the morning.",
+  "sentenceTamil": "நான் காலையில் நடப்பதை விரும்புகிறேன்.",
+  "ask": "How long do you walk every day?",
+  "askTamil": "தினமும் எவ்வளவு நேரம் நடப்பீர்கள்?"
+ },
+ {
+  "word": "swimming",
+  "say": "Swimming, that's great exercise!",
+  "sayTamil": "நீச்சல், அது அருமையான உடற்பயிற்சி!",
+  "sentence": "I am learning swimming.",
+  "sentenceTamil": "நான் நீச்சல் கற்றுக்கொள்கிறேன்.",
+  "ask": "Where do you go for swimming?",
+  "askTamil": "நீச்சலுக்கு நீங்கள் எங்கே போவீர்கள்?"
+ },
+ {
+  "word": "wedding",
+  "say": "A wedding, how exciting!",
+  "sayTamil": "கல்யாணம், எவ்வளவு உற்சாகம்!",
+  "sentence": "I am going to a wedding.",
+  "sentenceTamil": "நான் ஒரு திருமணத்துக்குப் போகிறேன்.",
+  "ask": "Whose wedding is it?",
+  "askTamil": "அது யாருடைய திருமணம்?"
+ },
+ {
+  "word": "festival",
+  "say": "Festivals are full of joy!",
+  "sayTamil": "திருவிழாக்கள் மகிழ்ச்சி நிறைந்தவை!",
+  "sentence": "My favourite festival is Pongal.",
+  "sentenceTamil": "எனக்குப் பிடித்த பண்டிகை பொங்கல்.",
+  "ask": "How does your family celebrate the festival?",
+  "askTamil": "உங்கள் குடும்பம் அந்தப் பண்டிகையை எப்படிக் கொண்டாடும்?"
+ },
+ {
+  "word": "interview",
+  "say": "Good luck with the interview!",
+  "sayTamil": "நேர்காணலுக்கு வாழ்த்துகள்!",
+  "sentence": "I have an interview on Monday.",
+  "sentenceTamil": "எனக்குத் திங்கட்கிழமை ஒரு நேர்காணல் இருக்கிறது.",
+  "ask": "Which job is the interview for?",
+  "askTamil": "அந்த நேர்காணல் எந்த வேலைக்கு?"
+ },
+ {
+  "word": "job",
+  "say": "Tell me about your job!",
+  "sayTamil": "உங்கள் வேலையைப் பற்றிச் சொல்லுங்கள்!",
+  "sentence": "I am looking for a new job.",
+  "sentenceTamil": "நான் ஒரு புதிய வேலை தேடுகிறேன்.",
+  "ask": "What kind of job do you want?",
+  "askTamil": "நீங்கள் எந்த மாதிரி வேலை விரும்புகிறீர்கள்?"
+ },
+ {
+  "word": "money",
+  "say": "Money matters, yes!",
+  "sayTamil": "பணம் முக்கியம்தான்!",
+  "sentence": "I save some money every month.",
+  "sentenceTamil": "நான் ஒவ்வொரு மாதமும் கொஞ்சம் பணம் சேமிக்கிறேன்.",
+  "ask": "What are you saving money for?",
+  "askTamil": "நீங்கள் எதற்காகப் பணம் சேமிக்கிறீர்கள்?"
+ },
+ {
+  "word": "car",
+  "say": "Do you have a car?",
+  "sayTamil": "உங்களிடம் கார் இருக்கிறதா?",
+  "sentence": "I want to buy a car.",
+  "sentenceTamil": "நான் ஒரு கார் வாங்க விரும்புகிறேன்.",
+  "ask": "Which car do you like the most?",
+  "askTamil": "உங்களுக்கு எந்தக் கார் மிகவும் பிடிக்கும்?"
+ },
+ {
+  "word": "bike",
+  "say": "Riding a bike, nice!",
+  "sayTamil": "பைக் ஓட்டுகிறீர்களா, நல்லது!",
+  "sentence": "I ride my bike to work.",
+  "sentenceTamil": "நான் பைக்கில் வேலைக்குப் போகிறேன்.",
+  "ask": "Which bike do you have?",
+  "askTamil": "உங்களிடம் எந்த பைக் இருக்கிறது?"
+ },
+ {
+  "word": "internet",
+  "say": "The internet is everywhere now!",
+  "sayTamil": "இப்போது இன்டர்நெட் எங்கும் இருக்கிறது!",
+  "sentence": "I use the internet every day.",
+  "sentenceTamil": "நான் தினமும் இன்டர்நெட் பயன்படுத்துகிறேன்.",
+  "ask": "What do you like to do on the internet?",
+  "askTamil": "இன்டர்நெட்டில் நீங்கள் என்ன செய்ய விரும்புவீர்கள்?"
+ },
+ {
+  "word": "game",
+  "say": "Games are fun!",
+  "sayTamil": "விளையாட்டுகள் ஜாலியானவை!",
+  "sentence": "I play a game on my phone.",
+  "sentenceTamil": "நான் என் போனில் ஒரு விளையாட்டு விளையாடுகிறேன்.",
+  "ask": "What is your favourite game?",
+  "askTamil": "உங்களுக்குப் பிடித்த விளையாட்டு எது?"
+ },
+ {
+  "word": "book",
+  "say": "A book lover, nice!",
+  "sayTamil": "புத்தகப் பிரியரா, நல்லது!",
+  "sentence": "I am reading a good book.",
+  "sentenceTamil": "நான் ஒரு நல்ல புத்தகம் படிக்கிறேன்.",
+  "ask": "Who is your favourite author?",
+  "askTamil": "உங்களுக்குப் பிடித்த எழுத்தாளர் யார்?"
+ },
+ {
+  "word": "english",
+  "say": "English practice, wonderful!",
+  "sayTamil": "ஆங்கிலப் பயிற்சி, அருமை!",
+  "sentence": "I want to speak English well.",
+  "sentenceTamil": "நான் ஆங்கிலத்தை நன்றாகப் பேச விரும்புகிறேன்.",
+  "ask": "Why do you want to learn English?",
+  "askTamil": "நீங்கள் ஏன் ஆங்கிலம் கற்க விரும்புகிறீர்கள்?"
+ },
+ {
+  "word": "homework",
+  "say": "Homework time, is it?",
+  "sayTamil": "வீட்டுப்பாட நேரமா?",
+  "sentence": "I finish my homework early.",
+  "sentenceTamil": "நான் என் வீட்டுப்பாடத்தை சீக்கிரம் முடிப்பேன்.",
+  "ask": "Which homework is hard for you?",
+  "askTamil": "உங்களுக்கு எந்த வீட்டுப்பாடம் கடினமாக இருக்கிறது?"
+ },
+ {
+  "word": "class",
+  "say": "Is your class starting?",
+  "sayTamil": "உங்கள் வகுப்பு தொடங்கப் போகிறதா?",
+  "sentence": "I have a class at ten.",
+  "sentenceTamil": "எனக்குப் பத்து மணிக்கு வகுப்பு இருக்கிறது.",
+  "ask": "Do you enjoy going to class?",
+  "askTamil": "வகுப்புக்குப் போவது உங்களுக்குப் பிடிக்குமா?"
+ },
+ {
+  "word": "morning",
+  "say": "Good to start the morning with you!",
+  "sayTamil": "உங்களுடன் காலையைத் தொடங்குவது நல்லது!",
+  "sentence": "I wake up early in the morning.",
+  "sentenceTamil": "நான் காலையில் சீக்கிரம் எழுவேன்.",
+  "ask": "What do you do first in the morning?",
+  "askTamil": "காலையில் முதலில் என்ன செய்வீர்கள்?"
+ },
+ {
+  "word": "evening",
+  "say": "Evenings are peaceful.",
+  "sayTamil": "மாலை நேரங்கள் அமைதியானவை.",
+  "sentence": "I go for a walk in the evening.",
+  "sentenceTamil": "நான் மாலையில் நடைப்பயிற்சி போவேன்.",
+  "ask": "How do you spend your evenings?",
+  "askTamil": "உங்கள் மாலை நேரங்களை எப்படிச் செலவிடுவீர்கள்?"
+ },
+ {
+  "word": "night",
+  "say": "Night time, how calm.",
+  "sayTamil": "இரவு நேரம், எவ்வளவு அமைதி.",
+  "sentence": "I sleep early at night.",
+  "sentenceTamil": "நான் இரவில் சீக்கிரம் தூங்குவேன்.",
+  "ask": "What do you do before you sleep at night?",
+  "askTamil": "இரவு தூங்குவதற்கு முன் என்ன செய்வீர்கள்?"
+ },
+ {
+  "word": "today",
+  "say": "So, what about today?",
+  "sayTamil": "அப்படியென்றால், இன்று எப்படி?",
+  "sentence": "Today is a nice day.",
+  "sentenceTamil": "இன்று ஒரு நல்ல நாள்.",
+  "ask": "What are your plans for today?",
+  "askTamil": "இன்றைக்கு உங்கள் திட்டம் என்ன?"
+ },
+ {
+  "word": "tomorrow",
+  "say": "Tomorrow, got plans?",
+  "sayTamil": "நாளை, ஏதாவது திட்டம் இருக்கிறதா?",
+  "sentence": "I will go there tomorrow.",
+  "sentenceTamil": "நான் நாளை அங்கே போவேன்.",
+  "ask": "What will you do tomorrow?",
+  "askTamil": "நாளை நீங்கள் என்ன செய்வீர்கள்?"
+ },
+ {
+  "word": "yesterday",
+  "say": "Let's talk about yesterday!",
+  "sayTamil": "நேற்றைப் பற்றிப் பேசலாம்!",
+  "sentence": "I was at home yesterday.",
+  "sentenceTamil": "நான் நேற்று வீட்டில் இருந்தேன்.",
+  "ask": "What did you do yesterday?",
+  "askTamil": "நேற்று நீங்கள் என்ன செய்தீர்கள்?"
+ },
+ {
+  "word": "afternoon",
+  "say": "Afternoons can be sleepy!",
+  "sayTamil": "மதிய நேரம் தூக்கம் வரும்!",
+  "sentence": "I rest in the afternoon.",
+  "sentenceTamil": "நான் மதியம் ஓய்வெடுப்பேன்.",
+  "ask": "Do you take a nap in the afternoon?",
+  "askTamil": "நீங்கள் மதியம் ஒரு குட்டித் தூக்கம் போடுவீர்களா?"
+ },
+ {
+  "word": "sunday",
+  "say": "Sunday, the best day!",
+  "sayTamil": "ஞாயிற்றுக்கிழமை, சிறந்த நாள்!",
+  "sentence": "I relax on Sunday.",
+  "sentenceTamil": "நான் ஞாயிற்றுக்கிழமை ஓய்வெடுப்பேன்.",
+  "ask": "How do you spend your Sunday?",
+  "askTamil": "உங்கள் ஞாயிற்றுக்கிழமையை எப்படிக் கழிப்பீர்கள்?"
+ },
+ {
+  "word": "now",
+  "say": "Right now? Tell me more!",
+  "sayTamil": "இப்போதா? இன்னும் சொல்லுங்கள்!",
+  "sentence": "I am studying English now.",
+  "sentenceTamil": "நான் இப்போது ஆங்கிலம் படிக்கிறேன்.",
+  "ask": "What are you doing right now?",
+  "askTamil": "நீங்கள் இப்போது என்ன செய்து கொண்டிருக்கிறீர்கள்?"
+ },
+ {
+  "word": "tonight",
+  "say": "Tonight, sounds interesting!",
+  "sayTamil": "இன்று இரவு, சுவாரஸ்யமாக இருக்கிறது!",
+  "sentence": "I will cook rice tonight.",
+  "sentenceTamil": "நான் இன்று இரவு சாதம் சமைப்பேன்.",
+  "ask": "What do you plan to do tonight?",
+  "askTamil": "இன்று இரவு என்ன செய்ய நினைத்திருக்கிறீர்கள்?"
+ },
+ {
+  "word": "love",
+  "say": "Love is a beautiful word.",
+  "sayTamil": "அன்பு ஒரு அழகான வார்த்தை.",
+  "sentence": "I love my family.",
+  "sentenceTamil": "நான் என் குடும்பத்தை நேசிக்கிறேன்.",
+  "ask": "Who do you love the most?",
+  "askTamil": "நீங்கள் யாரை அதிகம் நேசிக்கிறீர்கள்?"
+ },
+ {
+  "word": "family",
+  "say": "Family is everything!",
+  "sayTamil": "குடும்பம் தான் எல்லாம்!",
+  "sentence": "I live with my family.",
+  "sentenceTamil": "நான் என் குடும்பத்துடன் வசிக்கிறேன்.",
+  "ask": "How many people are in your family?",
+  "askTamil": "உங்கள் குடும்பத்தில் எத்தனை பேர் இருக்கிறார்கள்?"
+ },
+ {
+  "word": "health",
+  "say": "Health is wealth!",
+  "sayTamil": "ஆரோக்கியமே செல்வம்!",
+  "sentence": "I take care of my health.",
+  "sentenceTamil": "நான் என் ஆரோக்கியத்தைக் கவனித்துக் கொள்கிறேன்.",
+  "ask": "What do you do to stay healthy?",
+  "askTamil": "ஆரோக்கியமாக இருக்க நீங்கள் என்ன செய்கிறீர்கள்?"
+ },
+ {
+  "word": "medicine",
+  "say": "I hope you feel better soon.",
+  "sayTamil": "நீங்கள் சீக்கிரம் குணமாக வேண்டும்.",
+  "sentence": "I take medicine after food.",
+  "sentenceTamil": "நான் சாப்பிட்ட பிறகு மருந்து சாப்பிடுவேன்.",
+  "ask": "How long have you been taking medicine?",
+  "askTamil": "நீங்கள் எவ்வளவு நாளாக மருந்து சாப்பிடுகிறீர்கள்?"
+ },
+ {
+  "word": "sleep",
+  "say": "Good sleep is so important!",
+  "sayTamil": "நல்ல தூக்கம் மிக முக்கியம்!",
+  "sentence": "I need eight hours of sleep.",
+  "sentenceTamil": "எனக்கு எட்டு மணி நேரத் தூக்கம் வேண்டும்.",
+  "ask": "How many hours do you sleep daily?",
+  "askTamil": "தினமும் எத்தனை மணி நேரம் தூங்குவீர்கள்?"
+ },
+ {
+  "word": "hobby",
+  "say": "A hobby makes life fun!",
+  "sayTamil": "பொழுதுபோக்கு வாழ்க்கையை ரசனையாக்கும்!",
+  "sentence": "My hobby is painting.",
+  "sentenceTamil": "என் பொழுதுபோக்கு ஓவியம் வரைவது.",
+  "ask": "How did you start your hobby?",
+  "askTamil": "உங்கள் பொழுதுபோக்கை எப்படித் தொடங்கினீர்கள்?"
+ },
+ {
+  "word": "traffic",
+  "say": "Ugh, traffic is tiring!",
+  "sayTamil": "ஐயோ, டிராஃபிக் சோர்வாக்கும்!",
+  "sentence": "I was stuck in traffic.",
+  "sentenceTamil": "நான் டிராஃபிக்கில் மாட்டிக்கொண்டேன்.",
+  "ask": "How long does your travel take every day?",
+  "askTamil": "தினமும் உங்கள் பயணத்துக்கு எவ்வளவு நேரம் ஆகும்?"
+ },
+ {
+  "word": "summer",
+  "say": "Summer is so hot here!",
+  "sayTamil": "இங்கே கோடை மிகவும் வெப்பம்!",
+  "sentence": "I drink more water in summer.",
+  "sentenceTamil": "கோடையில் நான் அதிகம் தண்ணீர் குடிப்பேன்.",
+  "ask": "What do you like to eat in summer?",
+  "askTamil": "கோடையில் நீங்கள் என்ன சாப்பிட விரும்புவீர்கள்?"
+ },
+ {
+  "word": "winter",
+  "say": "Winter is cosy!",
+  "sayTamil": "குளிர்காலம் கதகதப்பானது!",
+  "sentence": "I wear a sweater in winter.",
+  "sentenceTamil": "நான் குளிர்காலத்தில் ஸ்வெட்டர் அணிவேன்.",
+  "ask": "Do you like winter or summer more?",
+  "askTamil": "உங்களுக்குக் குளிர்காலம் பிடிக்குமா, கோடையா?"
+ },
+ {
+  "word": "flower",
+  "say": "Flowers are so pretty!",
+  "sayTamil": "பூக்கள் மிகவும் அழகானவை!",
+  "sentence": "I like the smell of a flower.",
+  "sentenceTamil": "எனக்குப் பூவின் வாசனை பிடிக்கும்.",
+  "ask": "Which flower do you like the most?",
+  "askTamil": "உங்களுக்கு எந்தப் பூ மிகவும் பிடிக்கும்?"
+ },
+ {
+  "word": "dog",
+  "say": "Aww, a dog!",
+  "sayTamil": "அட, நாய்க்குட்டி!",
+  "sentence": "I have a small dog.",
+  "sentenceTamil": "என்னிடம் ஒரு சிறிய நாய் இருக்கிறது.",
+  "ask": "What is your dog's name?",
+  "askTamil": "உங்கள் நாயின் பெயர் என்ன?"
+ },
+ {
+  "word": "cat",
+  "say": "Cats are so cute!",
+  "sayTamil": "பூனைகள் மிகவும் அழகு!",
+  "sentence": "My cat sleeps all day.",
+  "sentenceTamil": "என் பூனை நாள் முழுவதும் தூங்கும்.",
+  "ask": "What does your cat like to play with?",
+  "askTamil": "உங்கள் பூனைக்கு எதனுடன் விளையாடப் பிடிக்கும்?"
+ },
+ {
+  "word": "photo",
+  "say": "Show me a nice photo!",
+  "sayTamil": "ஒரு நல்ல புகைப்படத்தைக் காட்டுங்கள்!",
+  "sentence": "I took a photo of the sunset.",
+  "sentenceTamil": "நான் சூரிய அஸ்தமனத்தைப் படம் எடுத்தேன்.",
+  "ask": "Where was your favourite photo taken?",
+  "askTamil": "உங்களுக்குப் பிடித்த புகைப்படம் எங்கே எடுக்கப்பட்டது?"
+ },
+ {
+  "word": "gift",
+  "say": "A gift, how sweet!",
+  "sayTamil": "பரிசா, எவ்வளவு இனிமை!",
+  "sentence": "I bought a gift for my mother.",
+  "sentenceTamil": "நான் என் அம்மாவுக்கு ஒரு பரிசு வாங்கினேன்.",
+  "ask": "What was the best gift you ever got?",
+  "askTamil": "நீங்கள் பெற்ற சிறந்த பரிசு எது?"
+ },
+ {
+  "word": "story",
+  "say": "I love a good story!",
+  "sayTamil": "நல்ல கதை எனக்குப் பிடிக்கும்!",
+  "sentence": "My grandmother told me a story.",
+  "sentenceTamil": "என் பாட்டி எனக்கு ஒரு கதை சொன்னார்.",
+  "ask": "Which story do you remember from childhood?",
+  "askTamil": "சிறு வயதில் எந்தக் கதை உங்களுக்கு நினைவிருக்கிறது?"
+ },
+ {
+  "word": "saree",
+  "say": "A saree is so graceful!",
+  "sayTamil": "சேலை மிகவும் அழகானது!",
+  "sentence": "I wear a saree for festivals.",
+  "sentenceTamil": "நான் பண்டிகைகளுக்குச் சேலை அணிவேன்.",
+  "ask": "What colour saree do you like?",
+  "askTamil": "உங்களுக்கு என்ன நிறச் சேலை பிடிக்கும்?"
+ },
+ {
+  "word": "shoes",
+  "say": "New shoes, nice!",
+  "sayTamil": "புதிய காலணிகள், நல்லது!",
+  "sentence": "I need new shoes.",
+  "sentenceTamil": "எனக்குப் புதிய காலணிகள் வேண்டும்.",
+  "ask": "Do you like sports shoes or sandals?",
+  "askTamil": "உங்களுக்கு ஸ்போர்ட்ஸ் ஷூ பிடிக்குமா, செருப்பா?"
+ },
+ {
+  "word": "headache",
+  "say": "Oh no, a headache!",
+  "sayTamil": "ஐயோ, தலைவலியா!",
+  "sentence": "I have a headache today.",
+  "sentenceTamil": "எனக்கு இன்று தலைவலி இருக்கிறது.",
+  "ask": "Did you drink enough water today?",
+  "askTamil": "இன்று போதுமான தண்ணீர் குடித்தீர்களா?"
+ },
+ {
+  "word": "dream",
+  "say": "Dreams are wonderful!",
+  "sayTamil": "கனவுகள் அற்புதமானவை!",
+  "sentence": "My dream is to travel the world.",
+  "sentenceTamil": "உலகம் சுற்றிப் பார்ப்பது என் கனவு.",
+  "ask": "What is your biggest dream?",
+  "askTamil": "உங்கள் மிகப்பெரிய கனவு என்ன?"
+ },
+ {
+  "word": "plan",
+  "say": "Making a plan, good!",
+  "sayTamil": "திட்டம் போடுகிறீர்கள், நல்லது!",
+  "sentence": "I have a plan for tomorrow.",
+  "sentenceTamil": "எனக்கு நாளைக்கு ஒரு திட்டம் இருக்கிறது.",
+  "ask": "Can you tell me your plan?",
+  "askTamil": "உங்கள் திட்டத்தை எனக்குச் சொல்ல முடியுமா?"
+ },
+ {
+  "word": "cough",
+  "say": "Oh dear, take care of that cough.",
+  "sayTamil": "அடடா, அந்த இருமலைக் கவனித்துக் கொள்ளுங்கள்.",
+  "sentence": "I have a cough since morning.",
+  "sentenceTamil": "எனக்குக் காலையிலிருந்து இருமல் இருக்கிறது.",
+  "ask": "Have you tried warm water with honey?",
+  "askTamil": "தேனுடன் வெந்நீர் குடித்துப் பார்த்தீர்களா?"
+ },
+ {
+  "word": "pain",
+  "say": "I'm sorry you have pain.",
+  "sayTamil": "உங்களுக்கு வலி இருக்கிறது என்று வருந்துகிறேன்.",
+  "sentence": "I have pain in my leg.",
+  "sentenceTamil": "எனக்குக் காலில் வலி இருக்கிறது.",
+  "ask": "Where exactly is the pain?",
+  "askTamil": "வலி சரியாக எங்கே இருக்கிறது?"
+ },
+ {
+  "word": "tiffin",
+  "say": "Tiffin time, lovely!",
+  "sayTamil": "டிபன் நேரம், அருமை!",
+  "sentence": "I eat tiffin in the evening.",
+  "sentenceTamil": "நான் மாலையில் டிபன் சாப்பிடுவேன்.",
+  "ask": "What is your favourite tiffin item?",
+  "askTamil": "உங்களுக்குப் பிடித்த டிபன் எது?"
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "word": "homeless",
+  "meaning": "Having no place to live.",
+  "tamil": "வீடற்ற",
+  "pos": "adjective",
+  "pron": "HOHM-lus",
+  "example": "Many homeless people sleep near the railway station.",
+  "exampleTamil": "பல வீடற்ற மக்கள் ரயில் நிலையம் அருகே உறங்குகிறார்கள்.",
+  "synonyms": [
+   "houseless"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "refugee",
+  "meaning": "A person who leaves their country to escape war or danger.",
+  "tamil": "அகதி",
+  "pos": "noun",
+  "pron": "ref-yuh-JEE",
+  "example": "The camp gave food and shelter to refugees.",
+  "exampleTamil": "அந்த முகாம் அகதிகளுக்கு உணவும் தங்குமிடமும் அளித்தது.",
+  "synonyms": [
+   "displaced person"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "migrant",
+  "meaning": "A person who moves to another place to find work.",
+  "tamil": "புலம்பெயர் தொழிலாளி",
+  "pos": "noun",
+  "pron": "MY-grunt",
+  "example": "Many migrants from the north work in construction here.",
+  "exampleTamil": "வடக்கிலிருந்து வந்த பல புலம்பெயர் தொழிலாளர்கள் இங்கே கட்டுமானத்தில் வேலை செய்கிறார்கள்.",
+  "synonyms": [
+   "settler",
+   "newcomer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "census",
+  "meaning": "An official count of all the people in a country.",
+  "tamil": "மக்கள் தொகை கணக்கெடுப்பு",
+  "pos": "noun",
+  "pron": "SEN-sus",
+  "example": "The census takes place once in ten years.",
+  "exampleTamil": "மக்கள் தொகை கணக்கெடுப்பு பத்து ஆண்டுகளுக்கு ஒருமுறை நடக்கும்.",
+  "synonyms": [
+   "headcount",
+   "survey"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ration",
+  "meaning": "A fixed amount of food or supplies given by the government.",
+  "tamil": "ரேஷன்",
+  "pos": "noun",
+  "pron": "RASH-un",
+  "example": "We collect rice and sugar from the ration shop.",
+  "exampleTamil": "நாங்கள் ரேஷன் கடையில் அரிசியும் சர்க்கரையும் வாங்குகிறோம்.",
+  "synonyms": [
+   "allowance",
+   "share"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reform",
+  "meaning": "A change made to improve a system or law.",
+  "tamil": "சீர்திருத்தம்",
+  "pos": "noun",
+  "pron": "rih-FORM",
+  "example": "The government promised reform in the school system.",
+  "exampleTamil": "பள்ளி முறையில் சீர்திருத்தம் கொண்டுவருவதாக அரசு உறுதியளித்தது.",
+  "synonyms": [
+   "improvement",
+   "change"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "constitution",
+  "meaning": "The basic written laws that govern a country.",
+  "tamil": "அரசியலமைப்பு",
+  "pos": "noun",
+  "pron": "kon-stih-TOO-shun",
+  "example": "The constitution gives every citizen equal rights.",
+  "exampleTamil": "அரசியலமைப்பு ஒவ்வொரு குடிமகனுக்கும் சம உரிமைகளை வழங்குகிறது.",
+  "synonyms": [
+   "charter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "democracy",
+  "meaning": "A system where people choose their leaders by voting.",
+  "tamil": "ஜனநாயகம்",
+  "pos": "noun",
+  "pron": "dih-MOK-ruh-see",
+  "example": "India is the largest democracy in the world.",
+  "exampleTamil": "இந்தியா உலகின் மிகப்பெரிய ஜனநாயக நாடு.",
+  "synonyms": [
+   "self-government"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "riot",
+  "meaning": "A violent protest by a crowd in a public place.",
+  "tamil": "கலவரம்",
+  "pos": "noun",
+  "pron": "RY-ut",
+  "example": "Police used tear gas to stop the riot.",
+  "exampleTamil": "கலவரத்தை நிறுத்த காவல்துறை கண்ணீர்ப்புகை பயன்படுத்தியது.",
+  "synonyms": [
+   "unrest",
+   "disorder"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "voter",
+  "meaning": "A person who votes or is allowed to vote.",
+  "tamil": "வாக்காளர்",
+  "pos": "noun",
+  "pron": "VOH-ter",
+  "example": "Every voter must carry an identity card to the booth.",
+  "exampleTamil": "ஒவ்வொரு வாக்காளரும் வாக்குச்சாவடிக்கு அடையாள அட்டை எடுத்துச் செல்ல வேண்டும்.",
+  "synonyms": [
+   "elector"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "media",
+  "meaning": "Newspapers, television and websites that give news.",
+  "tamil": "ஊடகம்",
+  "pos": "noun",
+  "pron": "MEE-dee-uh",
+  "example": "The media covered the event live.",
+  "exampleTamil": "ஊடகங்கள் அந்த நிகழ்வை நேரலையாக ஒளிபரப்பின.",
+  "synonyms": [
+   "press",
+   "news outlets"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "article",
+  "meaning": "A piece of writing in a newspaper or magazine.",
+  "tamil": "கட்டுரை",
+  "pos": "noun",
+  "pron": "AR-tih-kul",
+  "example": "I read an interesting article about solar power.",
+  "exampleTamil": "சூரிய சக்தி பற்றிய ஒரு சுவாரசியமான கட்டுரையைப் படித்தேன்.",
+  "synonyms": [
+   "story",
+   "feature"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cyclone",
+  "meaning": "A very strong storm with fast circling winds.",
+  "tamil": "புயல்",
+  "pos": "noun",
+  "pron": "SY-klohn",
+  "example": "The cyclone is expected to reach the coast tonight.",
+  "exampleTamil": "புயல் இன்று இரவு கடற்கரையை அடையும் என எதிர்பார்க்கப்படுகிறது.",
+  "synonyms": [
+   "storm",
+   "hurricane"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tsunami",
+  "meaning": "A huge sea wave caused by an earthquake under the sea.",
+  "tamil": "சுனாமி",
+  "pos": "noun",
+  "pron": "tsoo-NAH-mee",
+  "example": "The tsunami of 2004 hit many coastal villages.",
+  "exampleTamil": "2004 ஆம் ஆண்டு சுனாமி பல கடலோர கிராமங்களைத் தாக்கியது.",
+  "synonyms": [
+   "tidal wave"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "landslide",
+  "meaning": "A sudden fall of earth and rocks down a hill.",
+  "tamil": "நிலச்சரிவு",
+  "pos": "noun",
+  "pron": "LAND-slyde",
+  "example": "A landslide blocked the road to the hill station.",
+  "exampleTamil": "நிலச்சரிவு மலைவாசஸ்தலத்திற்குச் செல்லும் சாலையை அடைத்தது.",
+  "synonyms": [
+   "rockfall"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "conservation",
+  "meaning": "Careful protection of nature and natural resources.",
+  "tamil": "பாதுகாப்பு",
+  "pos": "noun",
+  "pron": "kon-ser-VAY-shun",
+  "example": "Water conservation is important during summer.",
+  "exampleTamil": "கோடையில் நீர் பாதுகாப்பு மிகவும் முக்கியம்.",
+  "synonyms": [
+   "preservation",
+   "protection"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "emission",
+  "meaning": "Gas or smoke sent out into the air, for example by vehicles.",
+  "tamil": "வெளியேற்றம்",
+  "pos": "noun",
+  "pron": "ih-MISH-un",
+  "example": "New rules will reduce vehicle emissions in the city.",
+  "exampleTamil": "புதிய விதிகள் நகரில் வாகனப் புகை வெளியேற்றத்தைக் குறைக்கும்.",
+  "synonyms": [
+   "discharge",
+   "fumes"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "renewable",
+  "meaning": "Able to be used again naturally, like sun and wind energy.",
+  "tamil": "புதுப்பிக்கத்தக்க",
+  "pos": "adjective",
+  "pron": "rih-NOO-uh-bul",
+  "example": "Tamil Nadu produces a lot of renewable energy.",
+  "exampleTamil": "தமிழ்நாடு நிறைய புதுப்பிக்கத்தக்க ஆற்றலை உற்பத்தி செய்கிறது.",
+  "synonyms": [
+   "sustainable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sanitation",
+  "meaning": "Systems that keep places clean, like toilets and drains.",
+  "tamil": "சுகாதார வசதி",
+  "pos": "noun",
+  "pron": "san-ih-TAY-shun",
+  "example": "Good sanitation prevents many diseases.",
+  "exampleTamil": "நல்ல சுகாதார வசதி பல நோய்களைத் தடுக்கிறது.",
+  "synonyms": [
+   "hygiene",
+   "cleanliness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vaccine",
+  "meaning": "A medicine given to protect people from a disease.",
+  "tamil": "தடுப்பூசி",
+  "pos": "noun",
+  "pron": "vak-SEEN",
+  "example": "Children get a free vaccine at the health centre.",
+  "exampleTamil": "குழந்தைகளுக்கு சுகாதார நிலையத்தில் இலவச தடுப்பூசி போடப்படுகிறது.",
+  "synonyms": [
+   "jab",
+   "immunisation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "activist",
+  "meaning": "A person who works actively for social or political change.",
+  "tamil": "சமூக ஆர்வலர்",
+  "pos": "noun",
+  "pron": "AK-tih-vist",
+  "example": "The activist is fighting for clean drinking water.",
+  "exampleTamil": "அந்த ஆர்வலர் சுத்தமான குடிநீருக்காகப் போராடுகிறார்.",
+  "synonyms": [
+   "campaigner",
+   "reformer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boycott",
+  "meaning": "To refuse to buy or take part in something as a protest.",
+  "tamil": "புறக்கணிப்பு செய்தல்",
+  "pos": "verb",
+  "pron": "BOY-kot",
+  "example": "Many people decided to boycott the unfair company.",
+  "exampleTamil": "பலர் அந்த நியாயமற்ற நிறுவனத்தைப் புறக்கணிக்க முடிவு செய்தனர்.",
+  "synonyms": [
+   "shun",
+   "avoid"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lockdown",
+  "meaning": "A rule that keeps people at home during an emergency.",
+  "tamil": "ஊரடங்கு",
+  "pos": "noun",
+  "pron": "LOK-down",
+  "example": "Shops stayed closed during the lockdown.",
+  "exampleTamil": "ஊரடங்கின் போது கடைகள் மூடப்பட்டிருந்தன.",
+  "synonyms": [
+   "shutdown",
+   "restriction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "censorship",
+  "meaning": "Stopping people from seeing or publishing certain news, books or films.",
+  "tamil": "தணிக்கை",
+  "pos": "noun",
+  "pron": "SEN-sur-ship",
+  "example": "Many writers criticised the censorship of the news.",
+  "exampleTamil": "பல எழுத்தாளர்கள் செய்தித் தணிக்கையை விமர்சித்தனர்.",
+  "synonyms": [
+   "suppression"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "coalition",
+  "meaning": "A group of parties that join together to form a government.",
+  "tamil": "கூட்டணி",
+  "pos": "noun",
+  "pron": "koh-uh-LISH-un",
+  "example": "The coalition government has support from five parties.",
+  "exampleTamil": "கூட்டணி அரசுக்கு ஐந்து கட்சிகளின் ஆதரவு உள்ளது.",
+  "synonyms": [
+   "alliance",
+   "union"
+  ],
+  "level": "advanced"
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "category": "office",
+  "context": "Website is down",
+  "level": "beginner",
+  "en": "The website is down!",
+  "tamil": "வெப்சைட் வேலை செய்யல!",
+  "reply": "Oh no. Let me check the server right now.",
+  "replyTamil": "அடடா. இப்பவே சர்வரை பார்க்கறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Choosing the urgent bug",
+  "level": "beginner",
+  "en": "Which bug is the most urgent?",
+  "tamil": "எந்த பக் ரொம்ப அவசரம்?",
+  "reply": "The one in checkout. Customers can't pay at all.",
+  "replyTamil": "செக்அவுட்ல இருக்கற பக். கஸ்டமர்ஸ் பணமே கட்ட முடியல."
+ },
+ {
+  "category": "office",
+  "context": "Cause of a crash",
+  "level": "beginner",
+  "en": "Did you find the reason for the crash?",
+  "tamil": "கிராஷ் ஆனதுக்கு காரணத்தை கண்டுபிடிச்சீங்களா?",
+  "reply": "Yes, a null value was coming from the API. I've added a check.",
+  "replyTamil": "ஆமா, ஏபிஐ-ல இருந்து ஒரு நல் வேல்யூ வந்துச்சு. அதுக்கு ஒரு செக் சேர்த்துட்டேன்."
+ },
+ {
+  "category": "office",
+  "context": "Bug cannot be reproduced",
+  "level": "beginner",
+  "en": "I can't reproduce this bug on my laptop.",
+  "tamil": "இந்த பக்கை என் லேப்டாப்ல மறுபடி உருவாக்க முடியல.",
+  "reply": "Try the same steps on the staging site. It only happens there.",
+  "replyTamil": "அதே படிகளை ஸ்டேஜிங் சைட்ல செஞ்சு பாருங்க. அங்க மட்டும் தான் வருது."
+ },
+ {
+  "category": "office",
+  "context": "On-call duty planning",
+  "level": "intermediate",
+  "en": "Who's on call this weekend in case something breaks?",
+  "tamil": "ஏதாவது உடைஞ்சா இந்த வீக்எண்ட் ஆன்-கால்ல யார் இருக்காங்க?",
+  "reply": "I am, along with Divya. We swapped shifts so I'm covering Saturday night.",
+  "replyTamil": "நானும் திவ்யாவும் தான். ஷிஃப்ட் மாத்திக்கிட்டோம், அதனால சனிக்கிழமை ராத்திரி நான் பார்த்துக்கறேன்."
+ },
+ {
+  "category": "office",
+  "context": "OTP not arriving for customers",
+  "level": "intermediate",
+  "en": "Customers are complaining that their OTP is not arriving.",
+  "tamil": "கஸ்டமர்ஸ் அவங்களுக்கு ஓடிபி வரலைன்னு புகார் சொல்றாங்க.",
+  "reply": "I'll check with the SMS provider. It might be a delay on their side, not ours.",
+  "replyTamil": "எஸ்எம்எஸ் புரொவைடர்கிட்ட கேக்கறேன். நம்ம பக்கம் இல்லாம, அவங்க பக்கம் தாமதமா இருக்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Blaming a deployment",
+  "level": "intermediate",
+  "en": "Was this issue caused by yesterday's deployment?",
+  "tamil": "நேத்து பண்ண டிப்ளாய்மென்ட் தான் இந்த பிரச்சனைக்கு காரணமா?",
+  "reply": "Looks like it. I'll roll back the change first and then find the root cause.",
+  "replyTamil": "அப்படித் தான் தெரியுது. முதல்ல மாற்றத்தை ரோல்பேக் பண்ணிட்டு, அப்புறம் மூல காரணத்தை தேடறேன்."
+ },
+ {
+  "category": "office",
+  "context": "A bug that returned",
+  "level": "intermediate",
+  "en": "The same bug has come back even after we fixed it last month.",
+  "tamil": "போன மாசம் சரி பண்ணியும் அதே பக் திரும்ப வந்துடுச்சு.",
+  "reply": "That's strange. Let me check whether the fix got lost in the last merge.",
+  "replyTamil": "விசித்திரமா இருக்கே. போன மெர்ஜ்ல அந்த ஃபிக்ஸ் காணாம போயிடுச்சான்னு பார்க்கறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Proposing a postmortem",
+  "level": "advanced",
+  "en": "Shall we write up a short postmortem so this doesn't bite us again?",
+  "tamil": "இது மறுபடி நம்மளை பாதிக்காம இருக்க ஒரு சின்ன போஸ்ட்மார்ட்டம் ரிப்போர்ட் எழுதலாமா?",
+  "reply": "Definitely. I'll draft the timeline tonight and we can go over the action items tomorrow.",
+  "replyTamil": "கண்டிப்பா. இன்னைக்கு ராத்திரி நடந்த வரிசையை எழுதி வைக்கிறேன், நாளைக்கு செய்ய வேண்டியதை பேசலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Production emergency with a client",
+  "level": "advanced",
+  "en": "Production's on fire, and the client is breathing down our necks.",
+  "tamil": "புரொடக்ஷன்ல பெரிய பிரச்சனை, கிளையன்ட் வேற நம்மளை விடாம நெருக்கறாங்க.",
+  "reply": "Let's stay calm. I'll hotfix the critical path first and update the client every thirty minutes.",
+  "replyTamil": "பதட்டப்படாம இருப்போம். முதல்ல முக்கியமான பகுதிக்கு ஹாட்ஃபிக்ஸ் போடறேன், கிளையன்ட்டுக்கு முப்பது நிமிஷத்துக்கு ஒருமுறை அப்டேட் சொல்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Asking about the deadline",
+  "level": "beginner",
+  "en": "When is the deadline?",
+  "tamil": "டெட்லைன் எப்போ?",
+  "reply": "It's next Friday, but we should finish by Wednesday.",
+  "replyTamil": "அடுத்த வெள்ளிக்கிழமை, ஆனா நாம புதன்கிழமைக்குள்ள முடிக்கணும்."
+ },
+ {
+  "category": "office",
+  "context": "Needing more time",
+  "level": "beginner",
+  "en": "I need one more day to finish this.",
+  "tamil": "இதை முடிக்க எனக்கு இன்னும் ஒரு நாள் வேணும்.",
+  "reply": "Okay, no problem. Please tell the manager today.",
+  "replyTamil": "சரி, பரவாயில்ல. இன்னைக்கே மேனேஜர்கிட்ட சொல்லிடுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Finishing by tonight",
+  "level": "beginner",
+  "en": "Will you be able to finish it by tonight?",
+  "tamil": "இன்னைக்கு ராத்திரிக்குள்ள முடிச்சிடுவீங்களா?",
+  "reply": "I think so. Only the testing is left.",
+  "replyTamil": "முடிச்சிடுவேன்னு நினைக்கிறேன். டெஸ்ட்டிங் மட்டும் தான் பாக்கி."
+ },
+ {
+  "category": "office",
+  "context": "Project is behind schedule",
+  "level": "beginner",
+  "en": "We are running late with this project.",
+  "tamil": "இந்த புராஜெக்ட்ல நாம தாமதமாகிட்டு இருக்கோம்.",
+  "reply": "I know. Let's focus on the main features first.",
+  "replyTamil": "எனக்கு தெரியும். முதல்ல முக்கியமான வசதிகள்ல கவனம் செலுத்துவோம்."
+ },
+ {
+  "category": "office",
+  "context": "Risk of missing a deadline",
+  "level": "intermediate",
+  "en": "Are we going to miss the deadline, or can we still make it?",
+  "tamil": "டெட்லைனை தவறவிடப் போறோமா, இல்ல இன்னும் முடிக்க முடியுமா?",
+  "reply": "If nothing else breaks, we can make it. But there's no buffer left.",
+  "replyTamil": "வேற எதுவும் உடையலைன்னா முடிக்கலாம். ஆனா கூடுதல் நேரம் எதுவும் இல்ல."
+ },
+ {
+  "category": "office",
+  "context": "Client moves deadline earlier",
+  "level": "intermediate",
+  "en": "The client has moved the deadline up by two days.",
+  "tamil": "கிளையன்ட் டெட்லைனை ரெண்டு நாள் முன்னாடி கொண்டு வந்துட்டாங்க.",
+  "reply": "That's tough. We'll need to drop a couple of small features to make it.",
+  "replyTamil": "கஷ்டம் தான். முடிக்கணும்னா ரெண்டு சின்ன வசதிகளை விட்டுடணும்."
+ },
+ {
+  "category": "office",
+  "context": "A task pending for long",
+  "level": "intermediate",
+  "en": "Why has this task been pending for so long?",
+  "tamil": "இந்த வேலை ஏன் இவ்வளவு நாளா நிலுவையில இருக்கு?",
+  "reply": "I got pulled into another urgent issue. I'll close this one by tomorrow noon.",
+  "replyTamil": "வேற ஒரு அவசர பிரச்சனைக்கு இழுத்துட்டாங்க. இதை நாளைக்கு மதியத்துக்குள்ள முடிச்சிடுறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Testing delay news",
+  "level": "intermediate",
+  "en": "I'm afraid the testing took longer than we expected.",
+  "tamil": "டெஸ்ட்டிங் நாம எதிர்பார்த்ததை விட அதிக நேரம் எடுத்துடுச்சு, பயமா இருக்கு.",
+  "reply": "Thanks for the heads-up. Let's see what we can cut and talk to the client.",
+  "replyTamil": "முன்கூட்டியே சொன்னதுக்கு நன்றி. எதை குறைக்கலாம்னு பார்த்துட்டு கிளையன்ட்கிட்ட பேசலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Recovering lost time",
+  "level": "advanced",
+  "en": "How do we recover the lost time without burning everyone out?",
+  "tamil": "எல்லாரும் சோர்ந்து போகாம, இழந்த நேரத்தை எப்படி ஈடு கட்டறது?",
+  "reply": "We could trim the scope a little and push the nice-to-haves to the next sprint.",
+  "replyTamil": "வேலையோட அளவை கொஞ்சம் குறைச்சு, இருந்தா நல்லா இருக்கும் வசதிகளை அடுத்த ஸ்பிரிண்ட்டுக்கு தள்ளிடலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Setting a hard cutoff",
+  "level": "advanced",
+  "en": "We've been dragging our feet on this, and it's time to wrap it up.",
+  "tamil": "இதை இவ்வளவு நாளா இழுத்துட்டோம், இப்ப முடிச்சே ஆகணும்.",
+  "reply": "Agreed. Let's set a hard cutoff for Thursday and stop adding new requests.",
+  "replyTamil": "சரிதான். வியாழக்கிழமையை கடைசி நாளா வெச்சு, புது கோரிக்கைகளை ஏத்துக்கறதை நிறுத்திடலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Asking the meeting time",
+  "level": "beginner",
+  "en": "What time is the meeting?",
+  "tamil": "மீட்டிங் எத்தனை மணிக்கு?",
+  "reply": "It's at three o'clock in the small conference room.",
+  "replyTamil": "மூணு மணிக்கு, சின்ன கான்ஃபரன்ஸ் ரூம்ல."
+ },
+ {
+  "category": "office",
+  "context": "Joining a meeting late",
+  "level": "beginner",
+  "en": "Sorry, I'm late for the meeting.",
+  "tamil": "மீட்டிங்குக்கு லேட்டா வந்ததுக்கு மன்னிச்சுக்கோங்க.",
+  "reply": "No problem. We just started. Please join us.",
+  "replyTamil": "பரவாயில்ல. இப்பதான் ஆரம்பிச்சோம். வந்து உட்காருங்க."
+ },
+ {
+  "category": "office",
+  "context": "Who will take the notes",
+  "level": "beginner",
+  "en": "Who is taking the notes today?",
+  "tamil": "இன்னைக்கு நோட்ஸ் யார் எடுக்கப் போறாங்க?",
+  "reply": "I'll do it. I'll send the summary after the meeting.",
+  "replyTamil": "நான் எடுக்கறேன். மீட்டிங் முடிஞ்சதும் சுருக்கத்தை அனுப்பறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Muted microphone in an online call",
+  "level": "beginner",
+  "en": "I can't hear you. Your mic is muted.",
+  "tamil": "உங்க குரல் கேக்கல. உங்க மைக் மியூட்ல இருக்கு.",
+  "reply": "Oh, sorry! Is it better now?",
+  "replyTamil": "ஐயோ, மன்னிச்சுக்கோங்க! இப்ப நல்லா கேக்குதா?"
+ },
+ {
+  "category": "office",
+  "context": "Scheduling a quick sync",
+  "level": "intermediate",
+  "en": "Would four o'clock work for a quick sync?",
+  "tamil": "ஒரு சின்ன சிங்க்-க்கு நாலு மணி சரியா இருக்குமா?",
+  "reply": "Four is a bit tight for me. How about four thirty?",
+  "replyTamil": "நாலு மணி எனக்கு கொஞ்சம் நெருக்கடி. நாலரை மணிக்கு வெச்சுக்கலாமா?"
+ },
+ {
+  "category": "office",
+  "context": "Rescheduling a clash",
+  "level": "intermediate",
+  "en": "I have a clash at two. Could we move the meeting a little later?",
+  "tamil": "ரெண்டு மணிக்கு எனக்கு வேற ஒரு மீட்டிங் இருக்கு. இதை கொஞ்சம் தள்ளி வெச்சுக்க முடியுமா?",
+  "reply": "Sure, let's make it three. I'll update the invite.",
+  "replyTamil": "சரி, மூணு மணிக்கு வெச்சுக்கலாம். இன்வைட்டை அப்டேட் பண்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Agenda for a review",
+  "level": "intermediate",
+  "en": "Did anyone share the agenda for tomorrow's review?",
+  "tamil": "நாளைக்கு ரிவ்யூக்கான அஜெண்டாவை யாராவது அனுப்பினாங்களா?",
+  "reply": "Not yet, but I'll send it tonight so everyone can come prepared.",
+  "replyTamil": "இன்னும் இல்ல, ஆனா இன்னைக்கு ராத்திரி அனுப்பறேன், எல்லாரும் தயாரா வரலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Catching up after joining late",
+  "level": "intermediate",
+  "en": "Sorry, I joined late. Could somebody quickly fill me in?",
+  "tamil": "லேட்டா சேர்ந்ததுக்கு மன்னிக்கணும். யாராவது சுருக்கமா சொல்ல முடியுமா?",
+  "reply": "Sure. We agreed to freeze the design today, and testing starts on Monday.",
+  "replyTamil": "சரி. இன்னைக்கு டிசைனை முடிவு பண்ணிடலாம்னு ஒத்துக்கிட்டோம், திங்கட்கிழமை டெஸ்ட்டிங் ஆரம்பம்."
+ },
+ {
+  "category": "office",
+  "context": "Wrapping up with action items",
+  "level": "advanced",
+  "en": "Are there any action items we should capture before we wrap up?",
+  "tamil": "முடிக்கறதுக்கு முன்னாடி குறிச்சு வெச்சுக்க வேண்டிய செய்ய வேண்டிய வேலைகள் ஏதாவது இருக்கா?",
+  "reply": "Yes, three. I'll list them in the minutes and tag the owners with deadlines.",
+  "replyTamil": "ஆமா, மூணு இருக்கு. அதை மீட்டிங் குறிப்புல எழுதி, பொறுப்பாளர்களையும் டெட்லைனையும் குறிப்பிடறேன்."
+ },
+ {
+  "category": "office",
+  "context": "A meeting that should have been an email",
+  "level": "advanced",
+  "en": "This meeting could have been an email, honestly.",
+  "tamil": "உண்மையைச் சொன்னா, இந்த மீட்டிங்கை ஒரு ஈமெயிலே முடிச்சிருக்கலாம்.",
+  "reply": "I know, right? Next time let's circulate a short note and keep calls for real decisions.",
+  "replyTamil": "அதேதான்! அடுத்த தடவை ஒரு சின்ன குறிப்பை அனுப்பிட்டு, உண்மையான முடிவுகளுக்கு மட்டும் கால் வெச்சுக்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Checking whether an email was seen",
+  "level": "beginner",
+  "en": "I mailed the invoice details this morning. Have you seen them?",
+  "tamil": "இன்று காலை இன்வாய்ஸ் விவரங்களை மெயில் செய்தேன். பார்த்தீர்களா?",
+  "reply": "Not yet, I've been in meetings since nine. I'll check my inbox right now.",
+  "replyTamil": "இன்னும் இல்லை, ஒன்பது மணியிலிருந்து மீட்டிங்கில் இருந்தேன். இப்போதே இன்பாக்ஸைப் பார்க்கிறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Asking to be added in copy",
+  "level": "beginner",
+  "en": "Please don't forget to add me in copy.",
+  "tamil": "என்னையும் காப்பில சேர்க்க மறந்துடாதீங்க.",
+  "reply": "Sure, I'll add you from now on.",
+  "replyTamil": "சரி, இனிமே உங்களையும் சேர்த்துடறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Chat or email choice",
+  "level": "beginner",
+  "en": "Should I reply on chat or by email?",
+  "tamil": "நான் சாட்ல பதில் சொல்லணுமா, இல்ல ஈமெயில்லயா?",
+  "reply": "Email is better. Then we have a record.",
+  "replyTamil": "ஈமெயில் தான் நல்லது. அப்ப நமக்கு ஒரு பதிவு இருக்கும்."
+ },
+ {
+  "category": "office",
+  "context": "Unanswered chat message",
+  "level": "beginner",
+  "en": "I sent you a message on Teams, but you didn't reply.",
+  "tamil": "டீம்ஸ்ல உங்களுக்கு மெசேஜ் அனுப்பினேன், நீங்க பதில் சொல்லல.",
+  "reply": "Sorry, I was in a meeting. I'll check it now.",
+  "replyTamil": "மன்னிச்சுக்கோங்க, மீட்டிங்ல இருந்தேன். இப்பவே பார்க்கறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Adding the manager to an email",
+  "level": "intermediate",
+  "en": "Please mark the manager in the email, so he's aware of the issue.",
+  "tamil": "இந்த பிரச்சனை பத்தி மேனேஜருக்கும் தெரிய, ஈமெயில்ல அவரையும் சேர்த்துடுங்க.",
+  "reply": "Good idea. I'll add him to the thread and summarise the issue at the top.",
+  "replyTamil": "நல்ல யோசனை. அவரை அந்த த்ரெட்ல சேர்த்து, பிரச்சனையை மேல சுருக்கமா எழுதறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Direct message or group",
+  "level": "intermediate",
+  "en": "Is it okay to ping you directly, or would you rather I raise it in the group?",
+  "tamil": "உங்களுக்கு நேரடியா மெசேஜ் பண்ணலாமா, இல்ல குரூப்ல போடணுமா?",
+  "reply": "Group is better. That way, others can also help and see the answer.",
+  "replyTamil": "குரூப் தான் நல்லது. அப்படி இருந்தா மத்தவங்களும் உதவலாம், பதிலையும் பார்க்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Keeping emails short",
+  "level": "intermediate",
+  "en": "Try to keep emails short. People hardly read beyond three lines.",
+  "tamil": "ஈமெயிலை சுருக்கமா வெச்சுக்கோங்க. மூணு வரிக்கு மேல யாரும் படிக்கறதே இல்ல.",
+  "reply": "True. I'll put the key point first and share the details as bullets.",
+  "replyTamil": "உண்மைதான். முக்கியமான விஷயத்தை முதல்ல போட்டு, விவரங்களை புள்ளிகளா கொடுக்கறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Replied to all by mistake",
+  "level": "intermediate",
+  "en": "I accidentally replied to everyone. What should I do now?",
+  "tamil": "தெரியாம எல்லாருக்கும் ரிப்ளை பண்ணிட்டேன். இப்ப என்ன பண்றது?",
+  "reply": "Don't panic. Send a short apology note, or just ignore it if it's harmless.",
+  "replyTamil": "பதட்டப்படாதீங்க. ஒரு சின்ன மன்னிப்பு குறிப்பு அனுப்புங்க, பிரச்சனை இல்லாதது தான்னா விட்டுடுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Gentle email reminder",
+  "level": "advanced",
+  "en": "Just a gentle reminder on my earlier email. I know you must be swamped.",
+  "tamil": "என் முந்தைய ஈமெயில் பத்தி ஒரு சின்ன நினைவூட்டல். நீங்க ரொம்ப வேலையில இருப்பீங்கன்னு தெரியும்.",
+  "reply": "Thanks for the nudge. I'll get back to you with the details by end of day today.",
+  "replyTamil": "நினைவூட்டினதுக்கு நன்றி. இன்னைக்கு நாள் முடிவுக்குள்ள விவரங்களோட பதில் அனுப்பறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Politely refusing a request in writing",
+  "level": "advanced",
+  "en": "How do I phrase this so it doesn't sound rude? I need to say no to the request.",
+  "tamil": "முரட்டுத்தனமா தெரியாத மாதிரி இதை எப்படி சொல்றது? இந்த கோரிக்கைக்கு நான் முடியாதுன்னு சொல்லணும்.",
+  "reply": "Try, \"Thanks for thinking of me, but I'm tied up this week.\" It's polite and clear.",
+  "replyTamil": "\"என்னை நினைச்சதுக்கு நன்றி, ஆனா இந்த வாரம் நான் ரொம்ப பிஸி\"ன்னு சொல்லிப் பாருங்க. அது நாகரிகமாவும் தெளிவாவும் இருக்கும்."
+ }
+]

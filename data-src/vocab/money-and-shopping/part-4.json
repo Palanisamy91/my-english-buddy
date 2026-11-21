@@ -1,0 +1,351 @@
+[
+ {
+  "word": "frugality",
+  "meaning": "Careful use of money, avoiding waste.",
+  "tamil": "சிக்கனம்",
+  "pos": "noun",
+  "pron": "froo-GAL-uh-tee",
+  "example": "Her frugality helped the family buy a small house.",
+  "exampleTamil": "அவளுடைய சிக்கனம் குடும்பம் ஒரு சிறிய வீடு வாங்க உதவியது.",
+  "synonyms": [
+   "thrift",
+   "economy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "extortionate",
+  "meaning": "Much too high in price, unfair and greedy.",
+  "tamil": "அநியாயமாக அதிகமான",
+  "pos": "adjective",
+  "pron": "ik-STOR-shun-ut",
+  "example": "The hotel charged an extortionate price for water.",
+  "exampleTamil": "ஹோட்டல் தண்ணீருக்கு அநியாய விலை வசூலித்தது.",
+  "synonyms": [
+   "exorbitant",
+   "outrageous"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "affordability",
+  "meaning": "How easy it is for people to pay for something.",
+  "tamil": "வாங்கும் திறன் அளவு",
+  "pos": "noun",
+  "pron": "uh-for-duh-BIL-uh-tee",
+  "example": "Affordability is the biggest worry for young home buyers.",
+  "exampleTamil": "வீடு வாங்கும் இளைஞர்களுக்கு வாங்கும் திறனே பெரிய கவலை.",
+  "synonyms": [
+   "cost level",
+   "reasonableness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overdrawn",
+  "meaning": "Having taken more money from a bank account than it holds.",
+  "tamil": "கணக்கில் உள்ளதை விட அதிகம் எடுத்த",
+  "pos": "adjective",
+  "pron": "oh-ver-DRAWN",
+  "example": "My account is overdrawn by two hundred rupees.",
+  "exampleTamil": "என் கணக்கு இருநூறு ரூபாய் அதிகம் எடுக்கப்பட்ட நிலையில் உள்ளது.",
+  "synonyms": [
+   "in the red"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "recoup",
+  "meaning": "To get back money that you lost or spent.",
+  "tamil": "இழந்த பணத்தை மீட்டெடு",
+  "pos": "verb",
+  "pron": "rih-KOOP",
+  "example": "He hopes to recoup his losses within a year.",
+  "exampleTamil": "தன் இழப்பை ஓராண்டுக்குள் மீட்டெடுக்க அவன் நம்புகிறான்.",
+  "synonyms": [
+   "recover",
+   "regain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "depreciation",
+  "meaning": "The drop in value of something as it gets older.",
+  "tamil": "மதிப்புக் குறைவு",
+  "pos": "noun",
+  "pron": "dih-PREE-shee-AY-shun",
+  "example": "A new car faces fast depreciation in the first year.",
+  "exampleTamil": "புதிய கார் முதல் ஆண்டிலேயே வேகமாக மதிப்புக் குறைவைச் சந்திக்கிறது.",
+  "synonyms": [
+   "decline",
+   "devaluation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "disbursement",
+  "meaning": "The act of paying out money from a fund or account.",
+  "tamil": "நிதியிலிருந்து பணம் வழங்குதல்",
+  "pos": "noun",
+  "pron": "dis-BURSS-ment",
+  "example": "The disbursement of the loan took two weeks.",
+  "exampleTamil": "கடன் தொகை வழங்கப்படுவதற்கு இரண்டு வாரங்கள் ஆயின.",
+  "synonyms": [
+   "payout",
+   "payment"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "destitute",
+  "meaning": "Having no money, food or home; extremely poor.",
+  "tamil": "ஆதரவற்ற ஏழ்மை நிலையிலுள்ள",
+  "pos": "adjective",
+  "pron": "DES-tih-toot",
+  "example": "The flood left many families destitute.",
+  "exampleTamil": "வெள்ளம் பல குடும்பங்களை ஆதரவற்ற ஏழ்மை நிலைக்குத் தள்ளியது.",
+  "synonyms": [
+   "penniless",
+   "impoverished"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "barter",
+  "meaning": "To exchange goods for other goods without using money.",
+  "tamil": "பண்டமாற்று செய்",
+  "pos": "verb",
+  "pron": "BAR-ter",
+  "example": "In old times, farmers would barter rice for cloth.",
+  "exampleTamil": "பழங்காலத்தில் விவசாயிகள் அரிசியைத் துணிக்குப் பண்டமாற்று செய்வார்கள்.",
+  "synonyms": [
+   "swap",
+   "trade"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "excise",
+  "meaning": "A tax on goods made or sold inside a country, like fuel or liquor.",
+  "tamil": "உற்பத்தி வரி",
+  "pos": "noun",
+  "pron": "EK-syz",
+  "example": "Excise on petrol raises the price at the pump.",
+  "exampleTamil": "பெட்ரோல் மீதான உற்பத்தி வரி பங்கில் விலையை உயர்த்துகிறது.",
+  "synonyms": [
+   "duty",
+   "tax"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "profiteer",
+  "meaning": "A person who makes unfair profit by charging too much.",
+  "tamil": "அநியாய இலாபம் அடிப்பவர்",
+  "pos": "noun",
+  "pron": "prof-ih-TEER",
+  "example": "Profiteers raised the price of masks during the crisis.",
+  "exampleTamil": "நெருக்கடியின்போது அநியாய இலாபம் அடிப்பவர்கள் முகக்கவசங்களின் விலையை உயர்த்தினர்.",
+  "synonyms": [
+   "racketeer",
+   "exploiter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "monetary",
+  "meaning": "Related to money, especially the money of a country.",
+  "tamil": "பணம் சார்ந்த",
+  "pos": "adjective",
+  "pron": "MON-ih-ter-ee",
+  "example": "The bank helps the country with monetary policy.",
+  "exampleTamil": "நாட்டின் பணக் கொள்கைக்கு வங்கி உதவுகிறது.",
+  "synonyms": [
+   "financial",
+   "economic"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "indebted",
+  "meaning": "Owing money to someone, or feeling thankful for their help.",
+  "tamil": "கடன்பட்ட",
+  "pos": "adjective",
+  "pron": "in-DET-id",
+  "example": "I am deeply indebted to my friend for helping me.",
+  "exampleTamil": "எனக்கு உதவிய நண்பனுக்கு நான் மிகவும் கடன்பட்டிருக்கிறேன்.",
+  "synonyms": [
+   "obliged",
+   "in debt"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "penury",
+  "meaning": "The state of being extremely poor.",
+  "tamil": "கடும் வறுமை",
+  "pos": "noun",
+  "pron": "PEN-yuh-ree",
+  "example": "The family lived in penury after the factory closed.",
+  "exampleTamil": "தொழிற்சாலை மூடப்பட்ட பிறகு அந்தக் குடும்பம் கடும் வறுமையில் வாழ்ந்தது.",
+  "synonyms": [
+   "poverty",
+   "destitution"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "thrift",
+  "meaning": "The habit of saving money and not wasting it.",
+  "tamil": "சிக்கனப் பழக்கம்",
+  "pos": "noun",
+  "pron": "THRIFT",
+  "example": "Thrift is a good habit for young people.",
+  "exampleTamil": "சிக்கனப் பழக்கம் இளைஞர்களுக்கு நல்ல பழக்கம்.",
+  "synonyms": [
+   "frugality",
+   "economy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "miser",
+  "meaning": "A person who loves money and hates to spend it.",
+  "tamil": "கஞ்சன்",
+  "pos": "noun",
+  "pron": "MY-zer",
+  "example": "The old miser counted his coins every night.",
+  "exampleTamil": "அந்தக் கிழட்டுக் கஞ்சன் ஒவ்வொரு இரவும் தன் காசுகளை எண்ணினான்.",
+  "synonyms": [
+   "skinflint",
+   "penny-pincher"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "spendthrift",
+  "meaning": "A person who spends money carelessly and wastes it.",
+  "tamil": "கண்மூடித்தனமாகச் செலவு செய்பவர்",
+  "pos": "noun",
+  "pron": "SPEND-thrift",
+  "example": "Her brother is a spendthrift and never saves anything.",
+  "exampleTamil": "அவளுடைய அண்ணன் கண்மூடித்தனமாகச் செலவு செய்பவன், எதையும் சேமிப்பதில்லை.",
+  "synonyms": [
+   "wastrel",
+   "squanderer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "opulent",
+  "meaning": "Looking very rich and expensive.",
+  "tamil": "மிகவும் ஆடம்பரமான",
+  "pos": "adjective",
+  "pron": "OP-yuh-lunt",
+  "example": "They stayed in an opulent hotel by the sea.",
+  "exampleTamil": "அவர்கள் கடற்கரையோரம் உள்ள ஆடம்பரமான ஹோட்டலில் தங்கினர்.",
+  "synonyms": [
+   "luxurious",
+   "lavish"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pittance",
+  "meaning": "A very small amount of money that is not fair pay.",
+  "tamil": "மிகக் குறைந்த கூலி",
+  "pos": "noun",
+  "pron": "PIT-uns",
+  "example": "They worked all day for a pittance.",
+  "exampleTamil": "அவர்கள் நாள் முழுவதும் மிகக் குறைந்த கூலிக்கு வேலை செய்தனர்.",
+  "synonyms": [
+   "peanuts",
+   "trifle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "squander",
+  "meaning": "To waste money or time in a foolish way.",
+  "tamil": "வீணாகச் செலவழி",
+  "pos": "verb",
+  "pron": "SKWON-der",
+  "example": "Do not squander your first salary on useless things.",
+  "exampleTamil": "உன் முதல் சம்பளத்தைப் பயனற்ற பொருட்களுக்கு வீணாகச் செலவழிக்காதே.",
+  "synonyms": [
+   "waste",
+   "fritter away"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hoard",
+  "meaning": "To collect and keep a large amount of money or things in secret.",
+  "tamil": "பதுக்கி வை",
+  "pos": "verb",
+  "pron": "HORD",
+  "example": "Some traders hoard rice to sell it later at a high price.",
+  "exampleTamil": "சில வியாபாரிகள் பின்னர் அதிக விலைக்கு விற்க அரிசியைப் பதுக்கி வைக்கிறார்கள்.",
+  "synonyms": [
+   "stash",
+   "stockpile"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scrimp",
+  "meaning": "To spend very little money so you can save more.",
+  "tamil": "மிகக் கஞ்சத்தனமாகச் செலவிடு",
+  "pos": "verb",
+  "pron": "SKRIMP",
+  "example": "They scrimp on food to pay for their daughter's college fees.",
+  "exampleTamil": "மகளின் கல்லூரிக் கட்டணத்துக்காக அவர்கள் உணவுச் செலவைக் குறைத்துக் கொள்கிறார்கள்.",
+  "synonyms": [
+   "skimp",
+   "economise"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exorbitant",
+  "meaning": "Much too high, especially a price or fee.",
+  "tamil": "அநியாயமாக அதிகமான",
+  "pos": "adjective",
+  "pron": "ig-ZOR-bih-tunt",
+  "example": "The taxi driver asked for an exorbitant fare.",
+  "exampleTamil": "டாக்ஸி ஓட்டுநர் அநியாயமாக அதிகக் கட்டணம் கேட்டார்.",
+  "synonyms": [
+   "excessive",
+   "overpriced"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stockpile",
+  "meaning": "A large store of goods kept for future use.",
+  "tamil": "சேமித்து வைத்த பெரும் இருப்பு",
+  "pos": "noun",
+  "pron": "STOK-pyl",
+  "example": "People built a stockpile of groceries before the cyclone.",
+  "exampleTamil": "புயலுக்கு முன் மக்கள் மளிகைப் பொருட்களைப் பெருமளவில் சேமித்து வைத்தனர்.",
+  "synonyms": [
+   "reserve",
+   "store"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bankroll",
+  "meaning": "To provide the money needed for a project or person.",
+  "tamil": "செலவுக்கான பணம் வழங்கு",
+  "pos": "verb",
+  "pron": "BANK-rohl",
+  "example": "A rich uncle agreed to bankroll her new shop.",
+  "exampleTamil": "ஒரு பணக்கார மாமா அவளுடைய புதிய கடைக்குத் தேவையான பணம் வழங்க ஒப்புக்கொண்டார்.",
+  "synonyms": [
+   "fund",
+   "finance"
+  ],
+  "level": "advanced"
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "word": "rejection",
+  "meaning": "A refusal to accept someone or something.",
+  "tamil": "நிராகரிப்பு",
+  "pos": "noun",
+  "pron": "ri-JEK-shun",
+  "example": "Do not lose hope after one job rejection.",
+  "exampleTamil": "ஒரு வேலை நிராகரிப்புக்குப் பிறகு நம்பிக்கையை இழக்காதீர்கள்.",
+  "synonyms": [
+   "refusal",
+   "denial"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lunch hour",
+  "meaning": "The time at work when people stop to eat lunch.",
+  "tamil": "மதிய உணவு நேரம்",
+  "pos": "noun",
+  "pron": "LUNCH OW-ur",
+  "example": "We cannot hold meetings during the lunch hour.",
+  "exampleTamil": "மதிய உணவு நேரத்தில் எங்களால் கூட்டங்கள் நடத்த முடியாது.",
+  "synonyms": [
+   "lunch break"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "coffee break",
+  "meaning": "A short rest in the day for tea or coffee.",
+  "tamil": "தேநீர் இடைவேளை",
+  "pos": "noun",
+  "pron": "KAW-fee brayk",
+  "example": "Let us talk about this during the coffee break.",
+  "exampleTamil": "இதைப் பற்றி தேநீர் இடைவேளையின் போது பேசுவோம்.",
+  "synonyms": [
+   "tea break",
+   "pause"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "night shift",
+  "meaning": "Work hours that run through the night.",
+  "tamil": "இரவுப் பணி",
+  "pos": "noun",
+  "pron": "NYT shift",
+  "example": "My brother works the night shift at a hospital.",
+  "exampleTamil": "என் சகோதரர் ஒரு மருத்துவமனையில் இரவுப் பணி செய்கிறார்.",
+  "synonyms": [
+   "late shift"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "unfinished",
+  "meaning": "Not completed yet.",
+  "tamil": "முடிக்கப்படாத",
+  "pos": "adjective",
+  "pron": "un-FIN-isht",
+  "example": "I still have some unfinished work on my desk.",
+  "exampleTamil": "என் மேசையில் இன்னும் முடிக்கப்படாத சில வேலைகள் உள்ளன.",
+  "synonyms": [
+   "incomplete",
+   "pending"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tied up",
+  "meaning": "Very busy and not free to do anything else.",
+  "tamil": "வேலையில் மூழ்கியிருக்கும் (நேரமில்லாத)",
+  "pos": "adjective",
+  "pron": "TYD UP",
+  "example": "Sorry, I am tied up in a meeting right now.",
+  "exampleTamil": "மன்னிக்கவும், நான் இப்போது ஒரு கூட்டத்தில் மும்முரமாக இருக்கிறேன்.",
+  "synonyms": [
+   "busy",
+   "occupied"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "overworked",
+  "meaning": "Made to work too much and feeling very tired.",
+  "tamil": "அதிக வேலைச் சுமையால் சோர்ந்த",
+  "pos": "adjective",
+  "pron": "oh-vur-WURKT",
+  "example": "Our team feels overworked because of the new project.",
+  "exampleTamil": "புதிய திட்டத்தால் எங்கள் குழு அதிக வேலைச் சுமையை உணர்கிறது.",
+  "synonyms": [
+   "exhausted",
+   "tired"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "underpaid",
+  "meaning": "Getting less money than the work deserves.",
+  "tamil": "குறைந்த ஊதியம் பெறும்",
+  "pos": "adjective",
+  "pron": "un-dur-PAYD",
+  "example": "Many nurses feel underpaid for their hard work.",
+  "exampleTamil": "பல செவிலியர்கள் தங்கள் கடின உழைப்புக்குக் குறைந்த ஊதியம் பெறுவதாக உணர்கிறார்கள்.",
+  "synonyms": [
+   "poorly paid"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fairness",
+  "meaning": "Treating everyone in an equal and honest way.",
+  "tamil": "நியாயம்",
+  "pos": "noun",
+  "pron": "FAIR-nus",
+  "example": "A good manager shows fairness to every employee.",
+  "exampleTamil": "ஒரு நல்ல மேலாளர் ஒவ்வொரு ஊழியரிடமும் நியாயமாக நடந்து கொள்வார்.",
+  "synonyms": [
+   "justice",
+   "equality"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "concentrate",
+  "meaning": "To give all your attention to one thing.",
+  "tamil": "கவனத்தைக் குவிக்கவும்",
+  "pos": "verb",
+  "pron": "KON-sun-trayt",
+  "example": "It is hard to concentrate when the office is noisy.",
+  "exampleTamil": "அலுவலகம் சத்தமாக இருக்கும்போது கவனம் செலுத்துவது கடினம்.",
+  "synonyms": [
+   "focus",
+   "pay attention"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "contractor",
+  "meaning": "A person hired for a fixed job, not a regular employee.",
+  "tamil": "ஒப்பந்தப் பணியாளர்",
+  "pos": "noun",
+  "pron": "KON-trak-tur",
+  "example": "The company hired a contractor to design the website.",
+  "exampleTamil": "இணையதளத்தை வடிவமைக்க நிறுவனம் ஒரு ஒப்பந்தப் பணியாளரை நியமித்தது.",
+  "synonyms": [
+   "freelancer",
+   "vendor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "associate",
+  "meaning": "A junior or middle-level employee in a company.",
+  "tamil": "இணைப் பணியாளர் (உதவி நிலை ஊழியர்)",
+  "pos": "noun",
+  "pron": "uh-SOH-see-ut",
+  "example": "She started as a sales associate three years ago.",
+  "exampleTamil": "அவள் மூன்று ஆண்டுகளுக்கு முன் விற்பனை இணைப் பணியாளராகத் தொடங்கினாள்.",
+  "synonyms": [
+   "staff member",
+   "assistant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "apprentice",
+  "meaning": "A young person learning a skill while working.",
+  "tamil": "பயிற்சிப் பணியாளர்",
+  "pos": "noun",
+  "pron": "uh-PREN-tis",
+  "example": "My cousin is an apprentice in a car workshop.",
+  "exampleTamil": "என் உறவினர் ஒரு கார் பட்டறையில் பயிற்சிப் பணியாளராக இருக்கிறார்.",
+  "synonyms": [
+   "trainee",
+   "learner"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recess",
+  "meaning": "A short break in the middle of a meeting.",
+  "tamil": "கூட்டத்தின் இடையே சிறு இடைவேளை",
+  "pos": "noun",
+  "pron": "REE-ses",
+  "example": "The chairman called a recess for ten minutes.",
+  "exampleTamil": "தலைவர் பத்து நிமிடங்களுக்கு ஒரு இடைவேளை அறிவித்தார்.",
+  "synonyms": [
+   "break",
+   "pause"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "maternity",
+  "meaning": "Related to a woman having a baby.",
+  "tamil": "மகப்பேறு தொடர்பான",
+  "pos": "adjective",
+  "pron": "muh-TUR-nuh-tee",
+  "example": "She is on maternity leave for six months.",
+  "exampleTamil": "அவள் ஆறு மாதங்களுக்கு மகப்பேறு விடுப்பில் இருக்கிறாள்.",
+  "synonyms": [
+   "pregnancy-related"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "paternity",
+  "meaning": "Related to a man becoming a father.",
+  "tamil": "தந்தைமை தொடர்பான",
+  "pos": "adjective",
+  "pron": "puh-TUR-nuh-tee",
+  "example": "He took paternity leave after his son was born.",
+  "exampleTamil": "மகன் பிறந்த பிறகு அவர் தந்தைமை விடுப்பு எடுத்தார்.",
+  "synonyms": [
+   "fatherhood-related"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "kudos",
+  "meaning": "Praise given for doing good work.",
+  "tamil": "பாராட்டு",
+  "pos": "noun",
+  "pron": "KOO-dohz",
+  "example": "Kudos to the team for finishing the project early!",
+  "exampleTamil": "திட்டத்தை முன்கூட்டியே முடித்த குழுவுக்குப் பாராட்டுகள்!",
+  "synonyms": [
+   "praise",
+   "credit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "send-off",
+  "meaning": "A farewell party for someone who is leaving.",
+  "tamil": "பிரியாவிடை நிகழ்ச்சி",
+  "pos": "noun",
+  "pron": "SEND-of",
+  "example": "We gave our manager a warm send-off on Friday.",
+  "exampleTamil": "வெள்ளிக்கிழமை எங்கள் மேலாளருக்கு அன்புடன் பிரியாவிடை அளித்தோம்.",
+  "synonyms": [
+   "farewell"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "handing over",
+  "meaning": "Giving your work and duties to another person.",
+  "tamil": "பொறுப்புகளை ஒப்படைத்தல்",
+  "pos": "noun",
+  "pron": "HAN-ding OH-vur",
+  "example": "The handing over of tasks will take two days.",
+  "exampleTamil": "பணிகளை ஒப்படைக்க இரண்டு நாட்கள் ஆகும்.",
+  "synonyms": [
+   "transfer",
+   "handover"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lateness",
+  "meaning": "The habit of arriving after the proper time.",
+  "tamil": "தாமதமாக வருதல்",
+  "pos": "noun",
+  "pron": "LAYT-nus",
+  "example": "Repeated lateness can affect your performance review.",
+  "exampleTamil": "தொடர்ந்து தாமதமாக வருவது உங்கள் செயல்திறன் மதிப்பீட்டைப் பாதிக்கலாம்.",
+  "synonyms": [
+   "delay",
+   "tardiness"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "juggle",
+  "meaning": "To manage several tasks or duties at the same time.",
+  "tamil": "பல வேலைகளை ஒரே நேரத்தில் சமாளிக்க",
+  "pos": "verb",
+  "pron": "JUG-ul",
+  "example": "I juggle my job and my studies every day.",
+  "exampleTamil": "நான் தினமும் என் வேலையையும் படிப்பையும் ஒரே நேரத்தில் சமாளிக்கிறேன்.",
+  "synonyms": [
+   "balance",
+   "manage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "multitasking",
+  "meaning": "Doing more than one task at the same time.",
+  "tamil": "ஒரே நேரத்தில் பல வேலைகள் செய்தல்",
+  "pos": "noun",
+  "pron": "mul-tee-TAS-king",
+  "example": "Multitasking can reduce the quality of your work.",
+  "exampleTamil": "ஒரே நேரத்தில் பல வேலைகள் செய்வது உங்கள் வேலையின் தரத்தைக் குறைக்கலாம்.",
+  "synonyms": [
+   "juggling"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unrealistic",
+  "meaning": "Not sensible or possible to achieve.",
+  "tamil": "நடைமுறைக்கு ஒவ்வாத",
+  "pos": "adjective",
+  "pron": "un-ree-uh-LIS-tik",
+  "example": "That deadline is unrealistic for such a big task.",
+  "exampleTamil": "இவ்வளவு பெரிய வேலைக்கு அந்தக் கெடு நடைமுறைக்கு ஒவ்வாதது.",
+  "synonyms": [
+   "impossible",
+   "impractical"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crunch time",
+  "meaning": "The last stressful period before an important deadline.",
+  "tamil": "கெடுவுக்கு முந்தைய நெருக்கடி நேரம்",
+  "pos": "noun",
+  "pron": "KRUNCH tym",
+  "example": "It is crunch time, so we are all working late.",
+  "exampleTamil": "இது நெருக்கடி நேரம், அதனால் நாங்கள் எல்லோரும் தாமதமாக வரை வேலை செய்கிறோம்.",
+  "synonyms": [
+   "rush period"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flextime",
+  "meaning": "A system where you choose your own start and end times.",
+  "tamil": "நெகிழ்வான வேலை நேர முறை",
+  "pos": "noun",
+  "pron": "FLEKS-tym",
+  "example": "Our company offers flextime so I can avoid heavy traffic.",
+  "exampleTamil": "எங்கள் நிறுவனம் நெகிழ்வான வேலை நேரம் தருவதால் நான் போக்குவரத்து நெரிசலைத் தவிர்க்கலாம்.",
+  "synonyms": [
+   "flexible hours"
+  ],
+  "level": "intermediate"
+ }
+]

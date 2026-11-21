@@ -1,0 +1,352 @@
+[
+ {
+  "en": "Good morning everyone, today I will walk you through our quarterly results.",
+  "tamil": "அனைவருக்கும் காலை வணக்கம், இன்னைக்கு நம்ம காலாண்டு முடிவுகளை உங்களுக்கு விளக்கப் போறேன்.",
+  "context": "Opening a team presentation.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Walk you through' means explain step by step. 'I will' announces what you are going to do.",
+  "words": [
+   "walk you through"
+  ],
+  "usage": "Use it to start a presentation to colleagues or a manager.",
+  "leelaQ": "How do you usually start a presentation at work?",
+  "answer": "I usually greet everyone and tell them what I will cover."
+ },
+ {
+  "en": "Let me start with a quick overview before we go into the details.",
+  "tamil": "விவரங்களுக்கு போறதுக்கு முன்னாடி ஒரு சின்ன மேலோட்டத்தோட ஆரம்பிக்கிறேன்.",
+  "context": "Structuring the start of a talk.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Let me' politely says what you will do next. It helps the audience follow your talk.",
+  "words": [
+   "overview"
+  ],
+  "usage": "Use it in a meeting or presentation to introduce the outline.",
+  "leelaQ": "How do you organise a short talk for your team?",
+  "answer": "I give a quick overview first and then explain the details."
+ },
+ {
+  "en": "As you can see on this slide, sales have grown by twenty percent.",
+  "tamil": "இந்த ஸ்லைடுல பார்க்கிற மாதிரி, விற்பனை இருபது சதவீதம் அதிகரிச்சிருக்கு.",
+  "context": "Pointing to a chart during a presentation.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'As you can see' draws attention to a visual. 'Have grown' links past growth to now.",
+  "words": [
+   "grown"
+  ],
+  "usage": "Use it when you show a chart or figure to an audience.",
+  "leelaQ": "What good news did you share at your last meeting?",
+  "answer": "I shared that our sales have grown this year."
+ },
+ {
+  "en": "That brings me to my next point, which is the budget.",
+  "tamil": "அது என்னை அடுத்த விஷயத்துக்கு கொண்டு வருது, அது பட்ஜெட்.",
+  "context": "Moving to the next topic in a talk.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'That brings me to' is a smooth link between two topics in a presentation.",
+  "words": [
+   "brings me to"
+  ],
+  "usage": "Use it to move from one topic to the next while presenting.",
+  "leelaQ": "How do you move from one topic to another when you speak?",
+  "answer": "I say that brings me to my next point."
+ },
+ {
+  "en": "To sum up, we need more time, more people and a clearer plan.",
+  "tamil": "சுருக்கமா சொன்னா, நமக்கு அதிக நேரம், அதிக ஆட்கள், தெளிவான திட்டம் வேணும்.",
+  "context": "Ending a presentation with a summary.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'To sum up' signals the final summary. Three items in a list sound strong and clear.",
+  "words": [
+   "to sum up"
+  ],
+  "usage": "Use it at the end of a talk or report to repeat the main message.",
+  "leelaQ": "How do you end a presentation?",
+  "answer": "I end by saying to sum up and repeating the main points."
+ },
+ {
+  "en": "Does anyone have any questions before I move on?",
+  "tamil": "நான் அடுத்ததுக்கு போறதுக்கு முன்னாடி யாருக்காவது கேள்வி இருக்கா?",
+  "context": "Checking with the audience during a talk.",
+  "tense": "present",
+  "type": "question",
+  "explain": "This question gives the audience a chance to speak. 'Move on' means go to the next part.",
+  "words": [
+   "move on"
+  ],
+  "usage": "Use it in the middle of a presentation or training session.",
+  "leelaQ": "When do you ask your audience for questions?",
+  "answer": "I ask after each main part so nobody feels lost."
+ },
+ {
+  "en": "I would like to thank you all for your time and attention.",
+  "tamil": "உங்க எல்லாரோட நேரத்துக்கும் கவனத்துக்கும் நன்றி சொல்ல விரும்பறேன்.",
+  "context": "Closing a presentation politely.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I would like to' is a polite, formal way to say what you want to do.",
+  "words": [
+   "attention"
+  ],
+  "usage": "Use it as the last line of a formal presentation or speech.",
+  "leelaQ": "What do you say at the end of a speech?",
+  "answer": "I thank everyone for their time and attention."
+ },
+ {
+  "en": "Could you please speak a little louder? We cannot hear you at the back.",
+  "tamil": "கொஞ்சம் சத்தமா பேச முடியுமா? பின்னாடி எங்களுக்கு கேக்கல.",
+  "context": "Asking a speaker to be louder.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you please' is very polite. Giving a reason makes the request easier to accept.",
+  "words": [
+   "louder"
+  ],
+  "usage": "Use it in a hall or online meeting when the speaker is hard to hear.",
+  "leelaQ": "What would you say if you could not hear a speaker?",
+  "answer": "I would politely ask the speaker to speak a little louder."
+ },
+ {
+  "en": "I'm afraid I haven't finished the slides yet, but I'll share them tomorrow.",
+  "tamil": "மன்னிக்கணும், நான் இன்னும் ஸ்லைடுகளை முடிக்கல, ஆனா நாளைக்கு அனுப்பறேன்.",
+  "context": "Admitting that work is not ready.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'I'm afraid' softens bad news. 'Haven't finished yet' shows something is still in progress.",
+  "words": [
+   "slides"
+  ],
+  "usage": "Use it with a manager when your work is not ready on time.",
+  "leelaQ": "What do you say when your work is not ready?",
+  "answer": "I say I am sorry and promise to send it tomorrow."
+ },
+ {
+  "en": "Let's take a five-minute break and come back at eleven.",
+  "tamil": "அஞ்சு நிமிஷம் இடைவேளை எடுத்துட்டு பதினொரு மணிக்கு திரும்ப வரலாம்.",
+  "context": "Suggesting a break in a long session.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Let's' makes a suggestion for the whole group. It sounds friendly, not bossy.",
+  "words": [
+   "break"
+  ],
+  "usage": "Use it when you lead a long meeting or workshop.",
+  "leelaQ": "When do you take a break in a long meeting?",
+  "answer": "I suggest a short break after an hour so everyone feels fresh."
+ },
+ {
+  "en": "I truly believe this new system will save us a lot of time.",
+  "tamil": "இந்த புது சிஸ்டம் நமக்கு நிறைய நேரத்தை மிச்சப்படுத்தும்னு நான் உண்மையா நம்பறேன்.",
+  "context": "Persuading your team to try a new tool.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I truly believe' adds strong feeling. 'Will save' gives a clear promise about the future.",
+  "words": [
+   "believe"
+  ],
+  "usage": "Use it when you try to convince colleagues or a boss about an idea.",
+  "leelaQ": "What idea would you like to convince your team about?",
+  "answer": "I want to convince them to use a simpler system."
+ },
+ {
+  "en": "If we start now, we will finish before the festival rush.",
+  "tamil": "இப்போ ஆரம்பிச்சா, பண்டிகை கூட்டத்துக்கு முன்னாடி முடிச்சிடலாம்.",
+  "context": "Convincing a partner to start early.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "This is a first conditional: if + present, will + verb. It shows a likely result.",
+  "words": [
+   "rush"
+  ],
+  "usage": "Use it to show the benefit of acting early.",
+  "leelaQ": "Why is it good to start a task early?",
+  "answer": "If I start early, I will finish without stress."
+ },
+ {
+  "en": "Think about how much money we could save every month.",
+  "tamil": "மாசா மாசம் எவ்வளவு பணம் மிச்சப்படுத்தலாம்னு யோசிச்சு பாருங்க.",
+  "context": "Persuading someone with a benefit.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Think about' invites the listener to imagine a benefit. 'Could' shows a possibility.",
+  "words": [
+   "save"
+  ],
+  "usage": "Use it to persuade a family member or a customer.",
+  "leelaQ": "How do you convince someone to save money?",
+  "answer": "I ask them to think about how much they could save every month."
+ },
+ {
+  "en": "Why don't we try it for one month and then decide?",
+  "tamil": "ஒரு மாசம் முயற்சி பண்ணிட்டு அப்புறம் முடிவு பண்ணலாமே?",
+  "context": "Suggesting a small trial to a hesitant person.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Why don't we' is a friendly suggestion. A trial period lowers the other person's fear.",
+  "words": [
+   "decide"
+  ],
+  "usage": "Use it when someone is unsure and you want them to agree to a small step.",
+  "leelaQ": "What would you say to someone who is unsure about a new idea?",
+  "answer": "I would ask why we don't try it for one month first."
+ },
+ {
+  "en": "I'm confident that our product will meet your needs.",
+  "tamil": "எங்க தயாரிப்பு உங்க தேவைகளை பூர்த்தி செய்யும்னு நான் நம்பிக்கையா இருக்கேன்.",
+  "context": "Talking to a customer about a product.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'm confident that' shows strong belief. It builds trust with a customer.",
+  "words": [
+   "confident"
+  ],
+  "usage": "Use it when selling or recommending something to a client.",
+  "leelaQ": "How do you build trust with a customer?",
+  "answer": "I speak honestly and say I am confident about my product."
+ },
+ {
+  "en": "Many of our customers have told us that it makes their work easier.",
+  "tamil": "எங்க நிறைய வாடிக்கையாளர்கள் இது அவங்க வேலையை எளிதாக்குதுன்னு சொல்லியிருக்காங்க.",
+  "context": "Using customer feedback to persuade.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Quoting other people is a strong way to persuade. 'Have told' shows past feedback that still matters.",
+  "words": [
+   "customers"
+  ],
+  "usage": "Use it in a sales talk to show that others are already happy.",
+  "leelaQ": "What do customers say about your favourite shop?",
+  "answer": "They say the staff are helpful and the prices are fair."
+ },
+ {
+  "en": "Wouldn't it be better to fix this problem now than to pay more later?",
+  "tamil": "இப்போவே இந்த பிரச்சனையை சரி பண்றது, அப்புறம் அதிகம் செலவு பண்றதை விட நல்லதில்லையா?",
+  "context": "Arguing for fixing a problem early.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "A 'wouldn't it' question makes the listener agree. 'Than' compares two choices.",
+  "words": [
+   "better"
+  ],
+  "usage": "Use it to convince a manager or family member to act early.",
+  "leelaQ": "Do you agree that fixing problems early is better?",
+  "answer": "Yes, I agree because small problems become big if we wait."
+ },
+ {
+  "en": "You may not like the idea at first, but please hear me out.",
+  "tamil": "முதல்ல இந்த யோசனை உங்களுக்கு பிடிக்காம இருக்கலாம், ஆனா தயவுசெஞ்சு நான் சொல்றதை கேளுங்க.",
+  "context": "Asking a doubtful listener to be patient.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Hear me out' means listen to everything I say before you judge.",
+  "words": [
+   "hear me out"
+  ],
+  "usage": "Use it when you know someone will resist your idea.",
+  "leelaQ": "What do you say when you want someone to listen fully?",
+  "answer": "I say please hear me out before you decide."
+ },
+ {
+  "en": "Our offer is only valid until Friday, so I would suggest deciding soon.",
+  "tamil": "எங்க சலுகை வெள்ளிக்கிழமை வரைக்கும்தான், அதனால சீக்கிரம் முடிவு பண்ணுங்கன்னு சொல்வேன்.",
+  "context": "Gently creating urgency with a customer.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I would suggest' is a polite way to push. 'Valid until' tells the end date of an offer.",
+  "words": [
+   "valid"
+  ],
+  "usage": "Use it with a client when an offer or price will end soon.",
+  "leelaQ": "What would you say if an offer is ending soon?",
+  "answer": "I would tell the customer the offer is valid only until Friday."
+ },
+ {
+  "en": "Let me give you three good reasons why this plan works.",
+  "tamil": "இந்த திட்டம் ஏன் வேலை செய்யும்னு மூணு நல்ல காரணங்கள் சொல்றேன்.",
+  "context": "Introducing arguments in a discussion.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "Saying the number of reasons first helps listeners follow your argument.",
+  "words": [
+   "reasons"
+  ],
+  "usage": "Use it in a meeting when you present your case.",
+  "leelaQ": "Can you give me one reason to exercise daily?",
+  "answer": "It keeps me healthy and gives me more energy."
+ },
+ {
+  "en": "Is there any room to lower the price a little?",
+  "tamil": "விலையை கொஞ்சம் குறைக்க வாய்ப்பு இருக்கா?",
+  "context": "Negotiating with a supplier.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Room' here means possibility. It is a soft way to ask for a discount.",
+  "words": [
+   "room"
+  ],
+  "usage": "Use it when you bargain with a vendor or supplier.",
+  "leelaQ": "How do you ask for a better price politely?",
+  "answer": "I ask if there is any room to lower the price."
+ },
+ {
+  "en": "We can agree to this price if you deliver by the fifth.",
+  "tamil": "ஐந்தாம் தேதிக்குள்ள டெலிவரி பண்ணா இந்த விலைக்கு ஒத்துக்கலாம்.",
+  "context": "Making a conditional offer.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'If' sets a condition. Negotiation often exchanges one benefit for another.",
+  "words": [
+   "deliver"
+  ],
+  "usage": "Use it when you agree to a deal only with a condition.",
+  "leelaQ": "What condition would you put in a deal?",
+  "answer": "I would agree if they deliver on time."
+ },
+ {
+  "en": "That is a bit higher than we expected, to be honest.",
+  "tamil": "உண்மையா சொன்னா, இது நாங்க எதிர்பார்த்ததை விட கொஞ்சம் அதிகம்.",
+  "context": "Reacting to a price that seems high.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'A bit' and 'to be honest' soften your disagreement but keep the message clear.",
+  "words": [
+   "expected"
+  ],
+  "usage": "Use it when a quotation is more than your budget.",
+  "leelaQ": "How do you react when a price is too high?",
+  "answer": "I politely say it is higher than I expected."
+ },
+ {
+  "en": "Let's meet in the middle and settle at fifty thousand.",
+  "tamil": "நடுவுல சந்திச்சு ஐம்பதாயிரத்துல முடிச்சிக்கலாம்.",
+  "context": "Suggesting a compromise on price.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Meet in the middle' means each side gives a little. 'Settle' means reach a final deal.",
+  "words": [
+   "settle"
+  ],
+  "usage": "Use it when both sides are close but not yet agreed.",
+  "leelaQ": "When is a compromise a good idea?",
+  "answer": "It is good when both sides want the deal to happen."
+ },
+ {
+  "en": "We would be happy to continue if the terms are fair for both sides.",
+  "tamil": "நிபந்தனைகள் இரண்டு பக்கத்துக்கும் நியாயமா இருந்தா தொடர்றதுல எங்களுக்கு சந்தோஷம்.",
+  "context": "Showing interest but stating a condition.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Would be happy to' is polite and formal. 'Terms' means the conditions of a deal.",
+  "words": [
+   "terms"
+  ],
+  "usage": "Use it in business talks to keep the door open.",
+  "leelaQ": "What makes a deal fair for both people?",
+  "answer": "Both people should gain something and feel respected."
+ }
+]

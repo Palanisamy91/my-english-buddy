@@ -1,0 +1,369 @@
+[
+ {
+  "en": "Are you free for a quick chat?",
+  "tamil": "ஒரு சின்ன பேச்சுக்கு ஃப்ரீயா இருக்கியா?",
+  "context": "Asking for a few minutes.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Quick' means short. This is a polite way to ask for someone's time.",
+  "words": [
+   "free",
+   "quick chat"
+  ],
+  "usage": "Use it with a friend or colleague before starting a talk.",
+  "leelaQ": "When do you like to have a quick chat?",
+  "answer": "I like a quick chat with my friends after lunch."
+ },
+ {
+  "en": "Honestly, that is just what I was thinking!",
+  "tamil": "உண்மையா, நான் நினைச்சதும் அதேதான்!",
+  "context": "Agreeing in a lively chat.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Just what I was thinking' shows you share the other person's idea.",
+  "words": [
+   "honestly",
+   "thinking"
+  ],
+  "usage": "Say it when a friend says what you were also thinking.",
+  "leelaQ": "What opinion do you share with your friends?",
+  "answer": "I think the new road is very useful for everyone."
+ },
+ {
+  "en": "Come in and sit down, please.",
+  "tamil": "உள்ள வாங்க, உட்காருங்க.",
+  "context": "Welcoming a guest.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Two short commands joined by 'and' sound warm when you add 'please'.",
+  "words": [
+   "come in",
+   "sit down"
+  ],
+  "usage": "Use it when a guest or neighbour visits your home.",
+  "leelaQ": "What do you say when a guest arrives?",
+  "answer": "I say welcome and ask the guest to sit down."
+ },
+ {
+  "en": "Thanks for waiting, I really appreciate it.",
+  "tamil": "காத்திருந்ததுக்கு நன்றி, ரொம்ப மதிக்கிறேன்.",
+  "context": "Thanking someone who waited for you.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Appreciate' is a polite word for being thankful.",
+  "words": [
+   "waiting",
+   "appreciate"
+  ],
+  "usage": "Use it when you reach late or finish a task after making someone wait.",
+  "leelaQ": "When do you thank people for waiting?",
+  "answer": "I thank them when I reach late for a meeting."
+ },
+ {
+  "en": "I don't mind, you can choose.",
+  "tamil": "எனக்கு பரவாயில்ல, நீ தேர்ந்தெடு.",
+  "context": "Letting a friend decide.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Don't mind' means you are happy with any choice. It is polite and relaxed.",
+  "words": [
+   "mind",
+   "choose"
+  ],
+  "usage": "Use it when friends ask where to eat or what film to watch.",
+  "leelaQ": "Do you let your friends choose the place?",
+  "answer": "Yes, I do not mind and let them choose."
+ },
+ {
+  "en": "Why do you look so worried?",
+  "tamil": "நீ ஏன் இவ்வளவு கவலையா தெரியுற?",
+  "context": "Noticing a friend's mood.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Look' + adjective describes how a person seems. Ask it gently.",
+  "words": [
+   "worried"
+  ],
+  "usage": "Use it when a close friend looks upset or tense.",
+  "leelaQ": "What makes you worried sometimes?",
+  "answer": "I get worried before an important meeting."
+ },
+ {
+  "en": "Lovely chatting with you, let us talk again soon.",
+  "tamil": "உங்கக்கூட பேசினது சந்தோஷம், மறுபடியும் சீக்கிரம் பேசலாம்.",
+  "context": "Closing a friendly chat.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Lovely chatting' is a warm way to end a talk. 'Let us' suggests meeting again.",
+  "words": [
+   "chatting",
+   "soon"
+  ],
+  "usage": "Say it at the end of a chat with a relative or a new friend.",
+  "leelaQ": "Who did you enjoy chatting with recently?",
+  "answer": "I enjoyed chatting with my aunt on the phone."
+ },
+ {
+  "en": "I am going to head home now.",
+  "tamil": "நான் இப்போ வீட்டுக்குக் கிளம்பப் போறேன்.",
+  "context": "Leaving a gathering politely.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Head home' means start going home. 'Going to' shows your plan.",
+  "words": [
+   "head home"
+  ],
+  "usage": "Use it when you want to leave a party or the office.",
+  "leelaQ": "What time do you head home from work?",
+  "answer": "I head home around six in the evening."
+ },
+ {
+  "en": "Have you eaten anything yet?",
+  "tamil": "நீ இன்னும் ஏதாவது சாப்பிட்டியா?",
+  "context": "Asking someone about food.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Yet' is used in questions about something expected by now.",
+  "words": [
+   "eaten",
+   "yet"
+  ],
+  "usage": "Use it with family or friends who may be hungry.",
+  "leelaQ": "Have you eaten anything today?",
+  "answer": "Yes, I had idli and chutney for breakfast."
+ },
+ {
+  "en": "Okay, I will catch you later, bye!",
+  "tamil": "சரி, அப்புறம் பார்க்கலாம், பை!",
+  "context": "Ending a short chat with a friend.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Catch you later' is a casual goodbye. It is used with friends, not with seniors.",
+  "words": [
+   "catch",
+   "later"
+  ],
+  "usage": "Use it when you leave a friend after a short meeting or call.",
+  "leelaQ": "How do you say goodbye to your friends?",
+  "answer": "I say see you soon and take care."
+ },
+ {
+  "en": "Call me when you reach home.",
+  "tamil": "வீட்டுக்குப் போனதும் எனக்கு கூப்பிடு.",
+  "context": "Asking a friend to inform you.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'When you reach' uses the present for a future time. It shows care.",
+  "words": [
+   "reach home"
+  ],
+  "usage": "Use it with a friend or family member who is travelling at night.",
+  "leelaQ": "Do you call your family when you reach home?",
+  "answer": "Yes, I always call my mother when I reach home."
+ },
+ {
+  "en": "Wow, you look different today!",
+  "tamil": "வாவ், நீ இன்னைக்கு வித்தியாசமா தெரியுற!",
+  "context": "Noticing a friend's new look.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Look different' describes how someone appears. Say it with a smile.",
+  "words": [
+   "different"
+  ],
+  "usage": "Use it when a friend has a new haircut or new clothes.",
+  "leelaQ": "What new thing did you try recently?",
+  "answer": "I tried a new hairstyle last week."
+ },
+ {
+  "en": "No problem at all, it is not a big deal.",
+  "tamil": "எந்தப் பிரச்சனையும் இல்ல, அது பெரிய விஷயம் இல்ல.",
+  "context": "Replying to an apology.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not a big deal' means it is not serious. It makes the other person relax.",
+  "words": [
+   "problem",
+   "big deal"
+  ],
+  "usage": "Use it when someone says sorry for a small mistake.",
+  "leelaQ": "What do you say when someone says sorry?",
+  "answer": "I say no problem, it is not a big deal."
+ },
+ {
+  "en": "Are you coming to the function on Saturday?",
+  "tamil": "சனிக்கிழமை விழாவுக்கு வர்றியா?",
+  "context": "Asking about a family event.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous is often used for planned future events. 'Function' means a family event.",
+  "words": [
+   "function",
+   "coming"
+  ],
+  "usage": "Use it when checking if friends or relatives will attend an event.",
+  "leelaQ": "Do you go to family functions often?",
+  "answer": "Yes, I go to most of them with my parents."
+ },
+ {
+  "en": "I have just finished my lunch.",
+  "tamil": "நான் இப்பதான் சாப்பாடு முடிச்சேன்.",
+  "context": "Telling someone you ate a moment ago.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have just' + a past form shows something finished a moment ago.",
+  "words": [
+   "finished",
+   "lunch"
+  ],
+  "usage": "Say it when someone offers you food right after you have eaten.",
+  "leelaQ": "What did you have for lunch today?",
+  "answer": "I had rice, sambar and a little curd."
+ },
+ {
+  "en": "I am so excited about the festival this year.",
+  "tamil": "இந்த வருஷ திருவிழாவை நினைச்சா எனக்கு ரொம்ப உற்சாகமா இருக்கு.",
+  "context": "Sharing excitement about a festival.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'So' makes 'excited' stronger. Use 'about' before the thing you are excited for.",
+  "words": [
+   "excited",
+   "festival"
+  ],
+  "usage": "Use it with friends or family before Pongal, Diwali or a local festival.",
+  "leelaQ": "Which festival do you enjoy the most?",
+  "answer": "I enjoy Pongal the most because the whole family is together."
+ },
+ {
+  "en": "Really? When did this happen?",
+  "tamil": "நெஜமாவா? இது எப்போ நடந்தது?",
+  "context": "Showing surprise at news.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Start with a short reaction. Then ask a follow-up question to keep the chat going.",
+  "words": [
+   "happen"
+  ],
+  "usage": "Use it when someone tells you surprising news.",
+  "leelaQ": "What surprising news did you hear lately?",
+  "answer": "I heard that my neighbour moved to a new city."
+ },
+ {
+  "en": "We went to the beach last Sunday.",
+  "tamil": "நாங்க போன ஞாயிற்றுக்கிழமை பீச்சுக்குப் போனோம்.",
+  "context": "Telling a friend about your weekend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Went' is the past form of 'go'. 'Last Sunday' shows when it happened.",
+  "words": [
+   "beach"
+  ],
+  "usage": "Use it when friends ask what you did over the weekend.",
+  "leelaQ": "Where did you go last weekend?",
+  "answer": "I went to a temple with my parents last weekend."
+ },
+ {
+  "en": "Can you speak a little slowly?",
+  "tamil": "கொஞ்சம் மெதுவா பேச முடியுமா?",
+  "context": "Asking someone to slow down.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Slowly' is an adverb that tells how someone speaks. 'A little' softens it.",
+  "words": [
+   "slowly"
+  ],
+  "usage": "Use it when someone speaks too fast in English or on the phone.",
+  "leelaQ": "Who speaks very fast around you?",
+  "answer": "My uncle speaks very fast when he is excited."
+ },
+ {
+  "en": "My phone is almost dead, so I will message you later.",
+  "tamil": "என் போன்ல சார்ஜ் கிட்டத்தட்ட இல்ல, அதனால அப்புறம் மெசேஜ் பண்றேன்.",
+  "context": "Ending a call because of low battery.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'So' joins a reason and a result. 'Almost dead' means the battery is nearly empty.",
+  "words": [
+   "almost",
+   "message"
+  ],
+  "usage": "Use it when your battery is low and you must stop talking.",
+  "leelaQ": "What do you do when your phone battery is low?",
+  "answer": "I charge it quickly and tell my friends I will message later."
+ },
+ {
+  "en": "I did not get your message earlier.",
+  "tamil": "உன் மெசேஜ் எனக்கு முன்னாடி வரல.",
+  "context": "Explaining a missed message.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not' + base verb makes a negative in the past. 'Earlier' means before now.",
+  "words": [
+   "message",
+   "earlier"
+  ],
+  "usage": "Use it when a friend asks why you did not reply.",
+  "leelaQ": "Do you reply to messages quickly?",
+  "answer": "Yes, I reply within a few minutes."
+ },
+ {
+  "en": "Who is calling you so many times?",
+  "tamil": "உன்னை யாரு இவ்வளவு தடவை கூப்பிடுறாங்க?",
+  "context": "Noticing a ringing phone.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'So many times' shows the number is big. Use it casually with close people.",
+  "words": [
+   "calling"
+  ],
+  "usage": "Use it with a friend or family member whose phone keeps ringing.",
+  "leelaQ": "Who calls you the most?",
+  "answer": "My mother calls me the most every day."
+ },
+ {
+  "en": "That joke was really funny.",
+  "tamil": "அந்த ஜோக் உண்மையிலேயே சிரிப்பா இருந்தது.",
+  "context": "Reacting to a joke.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Funny' means it makes you laugh. 'Really' makes it stronger.",
+  "words": [
+   "joke",
+   "funny"
+  ],
+  "usage": "Say it when a friend or colleague tells a good joke.",
+  "leelaQ": "What is the funniest thing you heard this week?",
+  "answer": "My nephew told a funny joke at dinner."
+ },
+ {
+  "en": "I have been waiting for this movie for months.",
+  "tamil": "நான் இந்தப் படத்துக்காக மாசக்கணக்கா காத்துக்கிட்டு இருக்கேன்.",
+  "context": "Talking about a long-awaited movie.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been waiting' + 'for months' shows a long wait that continues till now.",
+  "words": [
+   "waiting",
+   "movie"
+  ],
+  "usage": "Use it with friends when a big film is about to release.",
+  "leelaQ": "Which movie are you waiting for?",
+  "answer": "I am waiting for the new film of my favourite actor."
+ },
+ {
+  "en": "Do you want to grab some tea?",
+  "tamil": "கொஞ்சம் டீ குடிக்கலாமா?",
+  "context": "Inviting a colleague for a break.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Grab' means quickly have something. It is very casual and friendly.",
+  "words": [
+   "grab",
+   "tea"
+  ],
+  "usage": "Use it with a colleague or friend during a break.",
+  "leelaQ": "Do you prefer tea or coffee?",
+  "answer": "I prefer tea because it helps me relax."
+ }
+]

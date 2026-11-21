@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Do you have this medicine in stock?",
+  "tamil": "இந்த மருந்து உங்க கிட்ட ஸ்டாக்ல இருக்கா?",
+  "context": "Asking at a medical shop.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'In stock' means available in the shop. 'Do you have ...?' is a simple shop question.",
+  "words": [
+   "medicine",
+   "stock"
+  ],
+  "usage": "Use it at a pharmacy when you look for a particular tablet.",
+  "leelaQ": "What do you ask when a medicine is not available?",
+  "answer": "I ask if they can order it or tell me a similar medicine."
+ },
+ {
+  "en": "Which doctor should I see for skin problems?",
+  "tamil": "தோல் பிரச்சனைக்கு நான் எந்த டாக்டரைப் பாக்கணும்?",
+  "context": "Asking a hospital receptionist.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Which ... should I see?' asks for the right choice. 'Skin problems' is a common phrase.",
+  "words": [
+   "doctor",
+   "skin"
+  ],
+  "usage": "Ask this at the reception of a hospital with many departments.",
+  "leelaQ": "Which doctor did you see last, and why?",
+  "answer": "I saw a dentist last month because I had tooth pain."
+ },
+ {
+  "en": "What are the side effects of this tablet?",
+  "tamil": "இந்த மாத்திரையோட பக்க விளைவுகள் என்ன?",
+  "context": "Asking a doctor or pharmacist about a medicine.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Side effects' are unwanted results of a medicine. 'What are ...?' is used for plural nouns.",
+  "words": [
+   "side effects",
+   "tablet"
+  ],
+  "usage": "Ask this before you start a new medicine.",
+  "leelaQ": "Do you read the paper that comes with a medicine?",
+  "answer": "No, I usually do not read it, but I should."
+ },
+ {
+  "en": "Is the doctor available this afternoon?",
+  "tamil": "இன்னைக்கு மதியம் டாக்டர் இருப்பாரா?",
+  "context": "Calling a clinic to ask about the doctor.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Available' means free and present. 'This afternoon' means today after noon.",
+  "words": [
+   "available",
+   "afternoon"
+  ],
+  "usage": "Use it on a phone call to a clinic or at the reception.",
+  "leelaQ": "How do you check if a doctor is free?",
+  "answer": "I call the clinic and ask the receptionist."
+ },
+ {
+  "en": "How much will the full check-up cost?",
+  "tamil": "முழு செக்-அப்புக்கு எவ்வளவு செலவாகும்?",
+  "context": "Asking about hospital charges.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'How much will ... cost?' asks about price. 'Full' means complete.",
+  "words": [
+   "check-up",
+   "cost"
+  ],
+  "usage": "Ask this at a hospital counter before you book a test.",
+  "leelaQ": "Do you think hospital bills are high? Why?",
+  "answer": "Yes, they are high because tests and medicines are costly."
+ },
+ {
+  "en": "Can I take this tablet on an empty stomach?",
+  "tamil": "நான் இந்த மாத்திரையை வெறும் வயித்துல சாப்பிடலாமா?",
+  "context": "Asking a pharmacist.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'On an empty stomach' means without eating food before. 'Can I ...?' asks for permission.",
+  "words": [
+   "tablet",
+   "empty stomach"
+  ],
+  "usage": "Ask this at a pharmacy when the tablet has no clear instruction.",
+  "leelaQ": "What do you eat before taking a tablet?",
+  "answer": "I eat a biscuit or a banana before I take it."
+ },
+ {
+  "en": "Have you taken your flu vaccine this year?",
+  "tamil": "இந்த வருஷம் நீங்க ஃப்ளூ தடுப்பூசி போட்டுட்டீங்களா?",
+  "context": "Asking a colleague or a relative.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you taken ...?' asks if something is done up to now. 'Vaccine' is the injection that protects.",
+  "words": [
+   "vaccine",
+   "flu"
+  ],
+  "usage": "Use it in an office or family chat during the flu season.",
+  "leelaQ": "Which vaccines did you take as a child?",
+  "answer": "I took the polio drops and some injections, my mother says."
+ },
+ {
+  "en": "Shall we go to the hospital together?",
+  "tamil": "நாம ரெண்டு பேரும் சேர்ந்து ஆஸ்பத்திரிக்கு போகலாமா?",
+  "context": "Offering company to a sick friend.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Shall we ...?' is a polite way to suggest. 'Together' means with each other.",
+  "words": [
+   "hospital",
+   "together"
+  ],
+  "usage": "Say it to a friend or relative who is not well.",
+  "leelaQ": "Who goes with you to the hospital when you are sick?",
+  "answer": "My brother goes with me, and he waits outside."
+ },
+ {
+  "en": "Please give me a strip of paracetamol.",
+  "tamil": "எனக்கு ஒரு ஸ்ட்ரிப் பாராசிட்டமால் குடுங்க.",
+  "context": "Buying a common tablet at a shop.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'A strip of' is a common way to ask for tablets in India. 'Please' keeps it polite.",
+  "words": [
+   "strip",
+   "paracetamol"
+  ],
+  "usage": "Say it at any medical shop.",
+  "leelaQ": "What medicines do you keep at home?",
+  "answer": "I keep paracetamol and a cough syrup in my house."
+ },
+ {
+  "en": "Could you reschedule my appointment to Friday?",
+  "tamil": "என் அப்பாயின்ட்மென்ட்டை வெள்ளிக்கிழமைக்கு மாத்த முடியுமா?",
+  "context": "Calling a clinic to change a booking.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Reschedule' means to change the time. 'Could you ...?' is polite and formal.",
+  "words": [
+   "reschedule",
+   "appointment"
+  ],
+  "usage": "Use it on a call or at the desk when your plan changes.",
+  "leelaQ": "What will you say if you cannot go to an appointment?",
+  "answer": "I will call and ask them to change it to another day."
+ },
+ {
+  "en": "Please show your report to the doctor tomorrow.",
+  "tamil": "நாளைக்கு உங்க ரிப்போர்ட்டை டாக்டர் கிட்ட காட்டுங்க.",
+  "context": "A lab staff giving an instruction.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Show ... to ...' is the correct pattern. 'Please' makes the order soft.",
+  "words": [
+   "report",
+   "show"
+  ],
+  "usage": "Lab staff or family may say this after a test.",
+  "leelaQ": "Where do you keep your medical reports?",
+  "answer": "I keep them in a file at home in a cupboard."
+ },
+ {
+  "en": "Can you give me a cough syrup for children?",
+  "tamil": "குழந்தைகளுக்கான இருமல் சிரப் குடுக்க முடியுமா?",
+  "context": "Asking at a pharmacy.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'For children' tells who will use it. 'Can you give me ...?' is a simple polite request.",
+  "words": [
+   "cough syrup",
+   "children"
+  ],
+  "usage": "Use it at a pharmacy when you buy medicine for kids.",
+  "leelaQ": "What do you do when a child has a cough?",
+  "answer": "I give warm water and take the child to a doctor."
+ },
+ {
+  "en": "This tablet is not available in our shop right now.",
+  "tamil": "இந்த மாத்திரை இப்போ எங்க கடையில இல்ல.",
+  "context": "A pharmacist giving news to a customer.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not available' means we do not have it. 'Right now' means at this moment.",
+  "words": [
+   "available",
+   "shop"
+  ],
+  "usage": "A shopkeeper or a pharmacist says this to a customer.",
+  "leelaQ": "What will you do if a shop does not have what you need?",
+  "answer": "I will try another shop or order it online."
+ },
+ {
+  "en": "You should not stop the antibiotics in the middle.",
+  "tamil": "நீங்க ஆன்டிபயாடிக்கை நடுவுல நிறுத்தக்கூடாது.",
+  "context": "A doctor or pharmacist warning a patient.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Should not' gives a strong warning. 'In the middle' means before the course is finished.",
+  "words": [
+   "antibiotics",
+   "middle"
+  ],
+  "usage": "Doctors and pharmacists say this to avoid problems later.",
+  "leelaQ": "Why is it important to finish a medicine course?",
+  "answer": "It is important because the sickness may come back."
+ },
+ {
+  "en": "I want to book an appointment with a dentist.",
+  "tamil": "நான் ஒரு பல் டாக்டர் கிட்ட அப்பாயின்ட்மென்ட் புக் பண்ணணும்.",
+  "context": "Calling a dental clinic.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Want to book' is a clear way to say your need. 'Dentist' is a tooth doctor.",
+  "words": [
+   "book",
+   "dentist"
+  ],
+  "usage": "Use it on a call or at the reception of a clinic.",
+  "leelaQ": "Do you go to the dentist often?",
+  "answer": "No, I go only when I have tooth pain."
+ },
+ {
+  "en": "The doctor has asked me to come for a follow-up next week.",
+  "tamil": "டாக்டர் அடுத்த வாரம் ஃபாலோ-அப்புக்கு வரச் சொல்லியிருக்காரு.",
+  "context": "Telling your boss why you need leave.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has asked me to come' reports the doctor's instruction. 'Follow-up' is a repeat visit.",
+  "words": [
+   "follow-up",
+   "asked"
+  ],
+  "usage": "Say it to a manager or family when you plan the next week.",
+  "leelaQ": "When will you visit the doctor next?",
+  "answer": "I will visit the doctor next Saturday morning."
+ },
+ {
+  "en": "My appointment is at half past four this evening.",
+  "tamil": "என் அப்பாயின்ட்மென்ட் இன்னைக்கு சாயங்காலம் நாலரை மணிக்கு.",
+  "context": "Telling a colleague when you will leave.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Half past four' means 4:30. 'Is at' gives the fixed time.",
+  "words": [
+   "appointment",
+   "half past"
+  ],
+  "usage": "Use it when you need to leave work early.",
+  "leelaQ": "What time is your next important meeting or appointment?",
+  "answer": "It is at ten tomorrow morning at my office."
+ },
+ {
+  "en": "I have lost my prescription, so I need a copy.",
+  "tamil": "என் பிரிஸ்கிரிப்ஷன் தொலைஞ்சிடுச்சு, அதனால ஒரு காப்பி வேணும்.",
+  "context": "Asking a clinic or a hospital for a new copy.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have lost' shows the result now: you do not have it. 'So' gives the reason.",
+  "words": [
+   "lost",
+   "prescription"
+  ],
+  "usage": "Use it at a clinic or a medical shop when you lose papers.",
+  "leelaQ": "What will you do if you lose an important paper?",
+  "answer": "I will look at home first and then ask for a new copy."
+ },
+ {
+  "en": "You will feel better in two or three days.",
+  "tamil": "ரெண்டு மூணு நாள்ல உங்களுக்கு நல்லா இருக்கும்.",
+  "context": "A doctor giving hope to a patient.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will feel' predicts the future. 'Two or three days' is a common loose number.",
+  "words": [
+   "better",
+   "days"
+  ],
+  "usage": "Doctors or elders say this to comfort a sick person.",
+  "leelaQ": "How can you cheer up a friend who is sick?",
+  "answer": "I can visit him, bring fruits and talk to him for some time."
+ },
+ {
+  "en": "I got my eyes tested and I need new glasses now.",
+  "tamil": "நான் கண் பரிசோதனை பண்ணினேன், இப்போ புது கண்ணாடி வேணும்.",
+  "context": "Telling a friend about an eye check.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Got my eyes tested' means someone else did the test for you. 'Need' shows a present need.",
+  "words": [
+   "eyes",
+   "glasses"
+  ],
+  "usage": "Use it when you talk about your eyesight or a new spectacle.",
+  "leelaQ": "Do you wear glasses? Since when?",
+  "answer": "Yes, I have worn glasses since I was in school."
+ },
+ {
+  "en": "The doctor is seeing another patient right now.",
+  "tamil": "டாக்டர் இப்போ இன்னொரு பேஷண்டைப் பாத்துட்டு இருக்காரு.",
+  "context": "A nurse telling you to wait.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is seeing' shows what is happening now. 'See a patient' means to treat a patient.",
+  "words": [
+   "patient",
+   "right now"
+  ],
+  "usage": "Nurses and receptionists say this in a waiting hall.",
+  "leelaQ": "What do you do while you wait in a clinic?",
+  "answer": "I sit quietly and read a magazine or use my phone."
+ },
+ {
+  "en": "My grandfather is in the hospital, but he is recovering well.",
+  "tamil": "எங்க தாத்தா ஆஸ்பத்திரில இருக்காரு, ஆனா நல்லா குணமாகிட்டு வராரு.",
+  "context": "Giving news about a family member.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'But' joins two opposite ideas. 'Is recovering' shows slow improvement.",
+  "words": [
+   "hospital",
+   "recovering"
+  ],
+  "usage": "Use it when friends or colleagues ask about your family.",
+  "leelaQ": "How do you take care of an elder person at home?",
+  "answer": "I give him food on time and sit with him in the evening."
+ },
+ {
+  "en": "I always keep a first-aid box at home.",
+  "tamil": "நான் எப்பவும் வீட்டுல ஒரு முதலுதவி பெட்டி வச்சிருப்பேன்.",
+  "context": "Talking about being ready for small injuries.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Always' comes before the main verb. A first-aid box has bandages and basic medicine.",
+  "words": [
+   "always",
+   "first-aid"
+  ],
+  "usage": "Use it in a talk about safety at home.",
+  "leelaQ": "What things are in your first-aid box?",
+  "answer": "There are a bandage, cotton, an ointment and a few tablets."
+ },
+ {
+  "en": "The report will be ready by tomorrow afternoon.",
+  "tamil": "ரிப்போர்ட் நாளைக்கு மதியத்துக்குள்ள ரெடியாகிடும்.",
+  "context": "A lab staff giving the delivery time.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'By' means not later than. 'Will be ready' gives the future state.",
+  "words": [
+   "report",
+   "ready"
+  ],
+  "usage": "Lab and hospital staff use this sentence with patients.",
+  "leelaQ": "How do you collect your test reports?",
+  "answer": "I collect them at the counter or get them by email."
+ },
+ {
+  "en": "I twisted my ankle while playing cricket yesterday.",
+  "tamil": "நான் நேத்து கிரிக்கெட் விளையாடும்போது கணுக்கால் சுளுக்கிடுச்சு.",
+  "context": "Explaining an injury to a doctor.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'While playing' tells what you were doing. 'Twisted' is the past of 'twist'.",
+  "words": [
+   "twisted",
+   "ankle"
+  ],
+  "usage": "Use it with a doctor or friends when you have a sports injury.",
+  "leelaQ": "Have you ever hurt yourself while playing?",
+  "answer": "Yes, I fell down and hurt my knee while playing football."
+ }
+]

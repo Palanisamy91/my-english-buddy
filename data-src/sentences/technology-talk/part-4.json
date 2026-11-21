@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Could you please resend the invoice in PDF?",
+  "tamil": "இன்வாய்ஸை PDF-ல திருப்பி அனுப்ப முடியுமா?",
+  "context": "Asking a vendor by email.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Resend' means send again. 'In PDF' means in that file format.",
+  "words": [
+   "resend",
+   "invoice"
+  ],
+  "usage": "Use it in formal emails with clients and vendors.",
+  "leelaQ": "What file formats do you know?",
+  "answer": "I know PDF, Word and Excel."
+ },
+ {
+  "en": "Please keep your phone away from the exam hall.",
+  "tamil": "தயவுசெஞ்சு உங்க போனை தேர்வு அறைக்கு வெளியில வெச்சிடுங்க.",
+  "context": "A supervisor's instruction.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Keep away from' means do not bring near.",
+  "words": [
+   "phone",
+   "exam hall"
+  ],
+  "usage": "A rule said in schools, colleges and offices.",
+  "leelaQ": "Where do you keep your phone while studying?",
+  "answer": "I keep it in another room."
+ },
+ {
+  "en": "Excuse me, how do I connect to this printer?",
+  "tamil": "மன்னிக்கணும், இந்த பிரிண்டர்ல எப்படி கனெக்ட் பண்றது?",
+  "context": "Asking office staff.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Excuse me' starts a polite question.",
+  "words": [
+   "connect",
+   "printer"
+  ],
+  "usage": "Use it in a new office or a shop.",
+  "leelaQ": "What do you print at work?",
+  "answer": "I print reports and tickets."
+ },
+ {
+  "en": "I do not understand how this app works.",
+  "tamil": "இந்த ஆப் எப்படி வேலை செய்யுதுன்னு எனக்கு புரியல.",
+  "context": "Asking for help.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'How this app works' is a noun clause: the word order is like a statement.",
+  "words": [
+   "understand",
+   "app"
+  ],
+  "usage": "Say it to a helper or in a review when an app is confusing.",
+  "leelaQ": "What do you do when you cannot use a new app?",
+  "answer": "I watch a short video or ask a friend."
+ },
+ {
+  "en": "He never turns off his notifications, so his phone keeps buzzing.",
+  "tamil": "அவன் நோட்டிபிகேஷன்களை ஆஃப் பண்ணவே மாட்டான், அதனால அவன் போன் அடிச்சுக்கிட்டே இருக்கும்.",
+  "context": "Talking about a friend.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' is a frequency word with a negative meaning.",
+  "words": [
+   "notifications",
+   "buzzing"
+  ],
+  "usage": "Use it jokingly about a friend who is always on the phone.",
+  "leelaQ": "Do you get many notifications?",
+  "answer": "Yes, I get too many, so I turned off some."
+ },
+ {
+  "en": "I did not know that you can mute a chat group.",
+  "tamil": "க்ரூப் சாட்டை மியூட் பண்ணலாம்னு எனக்குத் தெரியாது.",
+  "context": "Learning a tip from a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Did not know' is the past negative.",
+  "words": [
+   "mute",
+   "chat group"
+  ],
+  "usage": "Say it when someone teaches you a new phone tip.",
+  "leelaQ": "What new phone tip did you learn recently?",
+  "answer": "I learned how to scan documents with my phone."
+ },
+ {
+  "en": "My phone does not turn on after the update.",
+  "tamil": "அப்டேட் பண்ணின பிறகு என் போன் ஆன் ஆகல.",
+  "context": "Reporting a problem at a service centre.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Does not' is used with he, she and it.",
+  "words": [
+   "update",
+   "turn on"
+  ],
+  "usage": "Say it at a service centre when a phone stops working.",
+  "leelaQ": "What would you do if your phone does not turn on?",
+  "answer": "I would charge it and then take it to a service centre."
+ },
+ {
+  "en": "I can't log in because the system says my password is wrong.",
+  "tamil": "நான் லாக் இன் பண்ண முடியல, ஏன்னா என் பாஸ்வேர்டு தப்புன்னு சிஸ்டம் சொல்லுது.",
+  "context": "Telling IT support.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Can't' is the short form of 'cannot'.",
+  "words": [
+   "log in",
+   "wrong"
+  ],
+  "usage": "Say it to the IT team in an office.",
+  "leelaQ": "Do you use the same password everywhere?",
+  "answer": "No, I use different passwords for different sites."
+ },
+ {
+  "en": "No, I have not downloaded that app.",
+  "tamil": "இல்ல, நான் அந்த ஆப்பை டவுன்லோட் பண்ணல.",
+  "context": "Answering a friend's question.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "A short negative answer can start with 'No'.",
+  "words": [
+   "downloaded",
+   "app"
+  ],
+  "usage": "Use it as a clear, polite answer in a conversation.",
+  "leelaQ": "Which apps have you not tried yet?",
+  "answer": "I have not tried any food delivery app yet."
+ },
+ {
+  "en": "The meeting will not start until everyone joins.",
+  "tamil": "எல்லாரும் வர்ற வரைக்கும் மீட்டிங் தொடங்காது.",
+  "context": "Informing participants.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Until' means up to the time that something happens.",
+  "words": [
+   "meeting",
+   "joins"
+  ],
+  "usage": "A host says it when people are still waiting.",
+  "leelaQ": "What do you do while waiting for a meeting?",
+  "answer": "I check my emails or talk to colleagues."
+ },
+ {
+  "en": "I will not use my phone while driving.",
+  "tamil": "நான் வண்டி ஓட்டும்போது போன் யூஸ் பண்ண மாட்டேன்.",
+  "context": "Making a promise about safety.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Will not' makes a firm promise. 'While driving' shows two actions together.",
+  "words": [
+   "driving",
+   "phone"
+  ],
+  "usage": "Say it to family to show you follow road safety.",
+  "leelaQ": "Why should we not use phones while driving?",
+  "answer": "It is dangerous and can cause accidents."
+ },
+ {
+  "en": "Our website is not secure, so we are fixing it now.",
+  "tamil": "எங்க வெப்சைட் பாதுகாப்பா இல்ல, அதனால இப்போ சரி பண்றோம்.",
+  "context": "IT staff explaining to a manager.",
+  "tense": "present-continuous",
+  "type": "negative",
+  "explain": "'Secure' means safe from danger.",
+  "words": [
+   "website",
+   "secure"
+  ],
+  "usage": "Use it at work in IT updates and reports.",
+  "leelaQ": "Why is a secure website important?",
+  "answer": "It keeps people's information safe."
+ },
+ {
+  "en": "I have not checked my social media today.",
+  "tamil": "நான் இன்னைக்கு என் சோஷியல் மீடியாவை பாக்கல.",
+  "context": "Telling a friend about your day.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Today' shows the day is not finished, so use present perfect.",
+  "words": [
+   "social media",
+   "checked"
+  ],
+  "usage": "Use it in casual talk about screen time.",
+  "leelaQ": "How often do you check social media?",
+  "answer": "I check it a few times a day."
+ },
+ {
+  "en": "Do you think it is a good idea to buy a second-hand phone?",
+  "tamil": "செகண்ட்-ஹேண்ட் போன் வாங்குறது நல்ல யோசனைன்னு நினைக்கிறியா?",
+  "context": "Asking a friend for advice.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you think...?' asks for an opinion.",
+  "words": [
+   "second-hand",
+   "idea"
+  ],
+  "usage": "Ask a friend or a seller before you buy a used device.",
+  "leelaQ": "What are the good points of a second-hand phone?",
+  "answer": "It is cheaper, but the battery may be weak."
+ },
+ {
+  "en": "Where did you buy this laptop bag?",
+  "tamil": "இந்த லேப்டாப் பேக்கை எங்க வாங்கின?",
+  "context": "Asking a friend.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Where did you buy...?' asks about a place in the past.",
+  "words": [
+   "laptop",
+   "bag"
+  ],
+  "usage": "Ask in casual talk about gadgets.",
+  "leelaQ": "Where do you keep your laptop?",
+  "answer": "I keep it in a bag on my study table."
+ },
+ {
+  "en": "Is there any shop nearby that repairs phones?",
+  "tamil": "பக்கத்துல போன் ரிப்பேர் பண்ற கடை ஏதாவது இருக்கா?",
+  "context": "Asking a local person.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there any...?' asks if something exists nearby.",
+  "words": [
+   "shop",
+   "repairs"
+  ],
+  "usage": "Ask a local person or a security guard when your phone breaks in a new place.",
+  "leelaQ": "How do you find a good repair shop?",
+  "answer": "I ask my friends and read reviews online."
+ },
+ {
+  "en": "I just bought a new smart watch, and it tracks my steps.",
+  "tamil": "நான் இப்போதான் ஒரு புது ஸ்மார்ட் வாட்ச் வாங்கினேன், அது என் நடையை கணக்கு வெக்குது.",
+  "context": "Showing a friend a new gadget.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Just' shows something happened a moment ago. 'Tracks' means keeps a record.",
+  "words": [
+   "smart watch",
+   "steps"
+  ],
+  "usage": "Say it when you show off or explain a gadget.",
+  "leelaQ": "Would you like to wear a smart watch?",
+  "answer": "Yes, I would like one to count my steps."
+ },
+ {
+  "en": "The hotel Wi-Fi works well, but the signal is weak in the corridor.",
+  "tamil": "ஹோட்டல் வைஃபை நல்லா வேலை செய்யுது, ஆனா காரிடார்ல சிக்னல் வீக்கா இருக்கு.",
+  "context": "Giving feedback at a hotel desk.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'But' joins two opposite ideas.",
+  "words": [
+   "signal",
+   "corridor"
+  ],
+  "usage": "Say it at a hotel reception when giving feedback.",
+  "leelaQ": "Do you check the Wi-Fi when you stay in a hotel?",
+  "answer": "Yes, I always ask about the Wi-Fi before booking."
+ },
+ {
+  "en": "My brother is playing a game on the tablet right now.",
+  "tamil": "என் தம்பி இப்போ டேப்லெட்ல கேம் விளையாடிட்டு இருக்கான்.",
+  "context": "Telling a guest why the tablet is busy.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Right now' stresses that it is happening at this moment.",
+  "words": [
+   "game",
+   "tablet"
+  ],
+  "usage": "Use it in casual talk at home.",
+  "leelaQ": "What games do you play on your phone?",
+  "answer": "I play puzzle games when I have free time."
+ },
+ {
+  "en": "We got a new router yesterday, and the speed is much better.",
+  "tamil": "நாங்க நேத்து புது ரூட்டர் வாங்கினோம், இப்போ ஸ்பீடு ரொம்ப நல்லா இருக்கு.",
+  "context": "Sharing good news about the internet at home.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Much better' is a comparison that shows a big change.",
+  "words": [
+   "router",
+   "speed"
+  ],
+  "usage": "Say it to neighbours or relatives who ask about internet.",
+  "leelaQ": "How fast is your internet?",
+  "answer": "It is quite fast, so I can watch videos without waiting."
+ },
+ {
+  "en": "I will update my phone tonight when I get home.",
+  "tamil": "நான் இன்னைக்கு ராத்திரி வீட்டுக்கு போனதும் என் போனை அப்டேட் பண்ணுவேன்.",
+  "context": "Planning a phone update.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "After 'when', use present simple even for the future.",
+  "words": [
+   "update",
+   "tonight"
+  ],
+  "usage": "Say it when you decide to do a task later.",
+  "leelaQ": "What will you do on your phone tonight?",
+  "answer": "I will talk to my friends and watch a movie."
+ },
+ {
+  "en": "She has saved all my contact numbers on her new phone.",
+  "tamil": "அவ என் எல்லா காண்டாக்ட் நம்பர்களையும் தன் புது போன்ல சேவ் பண்ணி வெச்சிருக்கா.",
+  "context": "Talking about a sister or friend.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has saved' shows a finished action with a result now.",
+  "words": [
+   "saved",
+   "contact"
+  ],
+  "usage": "Use it when you tell someone that your number is already with a person.",
+  "leelaQ": "Do you remember phone numbers or save them?",
+  "answer": "I save them because I cannot remember many numbers."
+ },
+ {
+  "en": "The speaker in this room has a loud echo.",
+  "tamil": "இந்த ரூம்ல ஸ்பீக்கர்ல பெரிய எக்கோ வருது.",
+  "context": "Telling the organiser about audio trouble.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Echo' is the sound that repeats.",
+  "words": [
+   "speaker",
+   "echo"
+  ],
+  "usage": "Say it at a meeting room or a hall with sound problems.",
+  "leelaQ": "Where have you heard a loud echo?",
+  "answer": "I heard one in a big empty hall."
+ },
+ {
+  "en": "I usually pay my electricity bill through an app.",
+  "tamil": "நான் பொதுவா என் கரண்ட் பில்லை ஆப் மூலமா கட்டுவேன்.",
+  "context": "Telling a friend how you pay bills.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Through' means by using something.",
+  "words": [
+   "electricity bill",
+   "app"
+  ],
+  "usage": "Use it when you talk about easy online payments.",
+  "leelaQ": "How do you pay your bills?",
+  "answer": "I pay them on my phone using UPI."
+ },
+ {
+  "en": "I am waiting for the page to load.",
+  "tamil": "நான் பேஜ் லோட் ஆகுறதுக்காக காத்துட்டு இருக்கேன்.",
+  "context": "Telling someone why you are slow to respond.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Waiting for' plus a noun and 'to' shows what you expect.",
+  "words": [
+   "page",
+   "load"
+  ],
+  "usage": "Say it on a call or at a counter when a system is slow.",
+  "leelaQ": "What do you do when a page loads slowly?",
+  "answer": "I wait for a minute and then refresh it."
+ }
+]

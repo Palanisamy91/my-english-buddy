@@ -1,0 +1,376 @@
+[
+  {
+    "en": "Where is the trial room, please?",
+    "tamil": "ட்ரயல் ரூம் எங்க இருக்கு, please?",
+    "context": "Asking a mall staff member for the changing room.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Where is' asks for a place. 'Please' at the end keeps it polite.",
+    "words": [
+      "trial room"
+    ],
+    "usage": "Use it in a clothes shop or mall when you want to try on clothes.",
+    "leelaQ": "Do you always try clothes before buying?",
+    "answer": "Yes, I always try them on so that the size is right."
+  },
+  {
+    "en": "Do you have this shirt in a medium size?",
+    "tamil": "இந்த சட்டை மீடியம் சைஸ்ல இருக்கா?",
+    "context": "Asking about the size of a shirt.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Do you have' asks if a shop has something. 'In a medium size' names the size.",
+    "words": [
+      "shirt",
+      "medium"
+    ],
+    "usage": "Use it in a clothes shop when the size on display is not yours.",
+    "leelaQ": "What size do you usually wear?",
+    "answer": "I usually wear a medium size shirt."
+  },
+  {
+    "en": "This size is too tight around the shoulders.",
+    "tamil": "இந்த சைஸ் தோள்பட்டையில ரொம்ப இறுக்கமா இருக்கு.",
+    "context": "Telling the salesman the fit is wrong.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Too tight' means tighter than is comfortable. 'Around the shoulders' says where.",
+    "words": [
+      "tight",
+      "shoulders"
+    ],
+    "usage": "Use it in the trial room when you ask for a bigger size.",
+    "leelaQ": "How should a shirt fit you?",
+    "answer": "It should be comfortable and not too tight."
+  },
+  {
+    "en": "I would like to try a larger size.",
+    "tamil": "நான் ஒரு பெரிய சைஸ் போட்டு பார்க்கணும்.",
+    "context": "Asking to try the next size.",
+    "tense": "modal",
+    "type": "statement",
+    "explain": "'I would like to' is a polite way to say what you want.",
+    "words": [
+      "larger",
+      "size"
+    ],
+    "usage": "Use it with a salesperson when the first size does not fit.",
+    "leelaQ": "What do you do when a dress does not fit?",
+    "answer": "I ask the salesman for a different size."
+  },
+  {
+    "en": "Please bring the same shirt in blue.",
+    "tamil": "இதே சட்டையை நீல நிறத்துல கொண்டு வாங்க.",
+    "context": "Asking the salesman for another colour.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Bring' is a short command made polite with 'please'. 'The same' means identical.",
+    "words": [
+      "bring",
+      "blue"
+    ],
+    "usage": "Use it in a cloth shop when you like the style but want another colour.",
+    "leelaQ": "Which colour looks good on you?",
+    "answer": "Blue looks good on me, so I buy blue often."
+  },
+  {
+    "en": "The mall is very crowded on Sundays.",
+    "tamil": "ஞாயிற்றுக்கிழமை மால்ல ரொம்ப கூட்டமா இருக்கும்.",
+    "context": "Talking about weekend crowds.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'On Sundays' shows something that happens every Sunday. 'Crowded' means full of people.",
+    "words": [
+      "mall",
+      "crowded"
+    ],
+    "usage": "Use it when you plan a shopping trip with friends or family.",
+    "leelaQ": "When do you like to go to the mall?",
+    "answer": "I like going on weekday evenings when it is not crowded."
+  },
+  {
+    "en": "We spent the whole afternoon at the mall.",
+    "tamil": "நாங்க மதியம் முழுக்க மால்லயே செலவு பண்ணோம்.",
+    "context": "Telling a friend about your day out.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Spent' is the past of 'spend'. 'The whole afternoon' means all of the afternoon.",
+    "words": [
+      "spent",
+      "afternoon"
+    ],
+    "usage": "Use it when you tell someone what you did over the weekend.",
+    "leelaQ": "What did you do last weekend?",
+    "answer": "We went to a mall and watched a movie."
+  },
+  {
+    "en": "This dress doesn't fit me properly.",
+    "tamil": "இந்த டிரஸ் எனக்கு சரியா பொருந்தல.",
+    "context": "Explaining why you want to return a dress.",
+    "tense": "present",
+    "type": "negative",
+    "explain": "'Doesn't fit' is the negative of 'fits'. 'Properly' means in the right way.",
+    "words": [
+      "dress",
+      "fit"
+    ],
+    "usage": "Use it at the exchange counter or in the trial room.",
+    "leelaQ": "What will you do if a new dress does not fit?",
+    "answer": "I will go back to the shop and exchange it."
+  },
+  {
+    "en": "Is there any offer on this brand now?",
+    "tamil": "இந்த பிராண்டுக்கு இப்ப ஏதாவது ஆஃபர் இருக்கா?",
+    "context": "Asking about discounts in a store.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Is there any' asks if something exists. 'Offer' means a discount or a deal.",
+    "words": [
+      "offer",
+      "brand"
+    ],
+    "usage": "Use it before paying, to see if you can save some money.",
+    "leelaQ": "Do you buy things only when there is an offer?",
+    "answer": "Yes, I wait for an offer to buy costly things."
+  },
+  {
+    "en": "Buy one get one free is going on until Sunday.",
+    "tamil": "ஒண்ணு வாங்குனா ஒண்ணு ஃப்ரீ ஆஃபர் ஞாயிற்றுக்கிழமை வரைக்கும் நடக்குது.",
+    "context": "Telling a friend about a sale.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "'Is going on' means something is happening now. 'Until Sunday' gives the end time.",
+    "words": [
+      "free",
+      "until"
+    ],
+    "usage": "Use it when you tell someone about an offer in a shop.",
+    "leelaQ": "What kind of sale do you like?",
+    "answer": "I like sales where you get one more item for free."
+  },
+  {
+    "en": "Could you check if it is available in my size?",
+    "tamil": "என் சைஸ்ல இருக்கான்னு பார்க்க முடியுமா?",
+    "context": "Asking staff to check the stock.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Could you check' is a polite request. 'If' here means 'whether'.",
+    "words": [
+      "available",
+      "check"
+    ],
+    "usage": "Use it when the size you want is not on the shelf.",
+    "leelaQ": "How do you ask for help in a big store?",
+    "answer": "I go to the staff and ask politely for help."
+  },
+  {
+    "en": "I will pay in cash, so please give me a small discount.",
+    "tamil": "நான் காசாவே கொடுக்கிறேன், அதனால கொஞ்சம் தள்ளுபடி கொடுங்க.",
+    "context": "Offering cash to the shopkeeper in return for a discount.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "'Will' shows a decision made now. 'So' joins the reason and the request.",
+    "words": [
+      "discount",
+      "cash"
+    ],
+    "usage": "Use it at a small shop when you want to bargain a little.",
+    "leelaQ": "Do you like to pay by cash or by card?",
+    "answer": "I like to pay by card because it is quick and safe."
+  },
+  {
+    "en": "Can I get a bill with GST, please?",
+    "tamil": "GST போட்டு பில் கிடைக்குமா, please?",
+    "context": "Asking for a proper tax bill.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Can I get' is a polite way to ask for something. GST is the tax added to a bill.",
+    "words": [
+      "bill",
+      "gst"
+    ],
+    "usage": "Use it when you need an official bill for office or warranty.",
+    "leelaQ": "Why do people ask for a proper bill?",
+    "answer": "They need it for warranty or to return the product."
+  },
+  {
+    "en": "The billing counter is on the first floor.",
+    "tamil": "பில்லிங் கவுண்டர் முதல் மாடியில இருக்கு.",
+    "context": "Giving directions inside a store.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Is on the first floor' tells the location of a place.",
+    "words": [
+      "billing",
+      "floor"
+    ],
+    "usage": "Use it when you help someone find where to pay in a big shop.",
+    "leelaQ": "How do you give directions inside a shop?",
+    "answer": "I tell them which floor and which side it is on."
+  },
+  {
+    "en": "I have already tried this one on.",
+    "tamil": "இதை நான் ஏற்கனவே போட்டு பார்த்துட்டேன்.",
+    "context": "Telling the salesman you tried it already.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Have already tried' shows the action is finished before now. 'Try on' means to wear clothes to check them.",
+    "words": [
+      "already",
+      "tried"
+    ],
+    "usage": "Use it when the salesman offers you the same item again.",
+    "leelaQ": "Which clothes did you try on last time?",
+    "answer": "I tried on a jacket and two shirts."
+  },
+  {
+    "en": "Don't remove the price tag, I may exchange it.",
+    "tamil": "விலை டேக்கை எடுக்காதீங்க, நான் மாத்த வாய்ப்பிருக்கு.",
+    "context": "Telling someone to keep the tag on a gift.",
+    "tense": "imperative",
+    "type": "negative",
+    "explain": "'Don't remove' is a negative command. 'I may' shows a possible plan.",
+    "words": [
+      "tag",
+      "exchange"
+    ],
+    "usage": "Use it when you buy a gift or something you may return.",
+    "leelaQ": "What do you do if a gift does not fit?",
+    "answer": "I exchange it for a different size."
+  },
+  {
+    "en": "Which floor has the men's section?",
+    "tamil": "ஆண்கள் செக்ஷன் எந்த மாடியில இருக்கு?",
+    "context": "Asking where a section is in a shop.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Which floor' is used when there are many floors. 'Has' is used for what is on a floor.",
+    "words": [
+      "floor",
+      "section"
+    ],
+    "usage": "Use it in a big mall or department store when you are lost.",
+    "leelaQ": "How do you find a shop inside a big mall?",
+    "answer": "I read the board near the lift or ask the staff."
+  },
+  {
+    "en": "My sister is trying on a few kurtas now.",
+    "tamil": "என் தங்கச்சி இப்ப சில குர்தாக்களை போட்டு பார்த்துட்டு இருக்கா.",
+    "context": "Telling a friend where your sister is.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "'Is trying on' shows an action happening now. 'A few' means some.",
+    "words": [
+      "trying on",
+      "kurtas"
+    ],
+    "usage": "Use it on the phone when someone asks where your family member is.",
+    "leelaQ": "What are you doing right now?",
+    "answer": "I am sitting at home and talking to you."
+  },
+  {
+    "en": "Hold these two shirts for me, I will be back in ten minutes.",
+    "tamil": "இந்த ரெண்டு சட்டையையும் எனக்காக வெச்சிருங்க, பத்து நிமிஷத்துல வர்றேன்.",
+    "context": "Asking staff to keep items for a short time.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Hold these for me' asks someone to keep things aside. The second part tells how long.",
+    "words": [
+      "hold",
+      "minutes"
+    ],
+    "usage": "Use it when you need to go to the ATM or call someone before paying.",
+    "leelaQ": "How long do you spend in a shop?",
+    "answer": "I usually spend about half an hour."
+  },
+  {
+    "en": "That colour really suits you.",
+    "tamil": "அந்த கலர் உனக்கு நல்லா பொருந்துது.",
+    "context": "Complimenting a friend in a shop.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Suits you' means it looks good on you. 'Really' makes the compliment stronger.",
+    "words": [
+      "colour",
+      "suits"
+    ],
+    "usage": "Use it when you help a friend choose clothes.",
+    "leelaQ": "What do you say to a friend who looks nice?",
+    "answer": "I say that the colour really suits them."
+  },
+  {
+    "en": "I never buy clothes without trying them first.",
+    "tamil": "நான் போட்டு பார்க்காம துணி வாங்கவே மாட்டேன்.",
+    "context": "Explaining your shopping habit.",
+    "tense": "present",
+    "type": "negative",
+    "explain": "'Never' makes it negative. 'Without trying' is used with -ing after 'without'.",
+    "words": [
+      "never",
+      "without"
+    ],
+    "usage": "Use it when someone asks why you spend so much time in a shop.",
+    "leelaQ": "Why do you try clothes before buying?",
+    "answer": "I try them to check the size and the comfort."
+  },
+  {
+    "en": "Will this shrink after the first wash?",
+    "tamil": "முதல் தடவை துவைச்சதும் இது சுருங்குமா?",
+    "context": "Asking about cloth quality.",
+    "tense": "future",
+    "type": "question",
+    "explain": "'Will' is used to ask about the future. 'Shrink' means to become smaller.",
+    "words": [
+      "shrink",
+      "wash"
+    ],
+    "usage": "Use it when you buy cotton clothes and want to be sure of the size.",
+    "leelaQ": "How do you wash your new clothes?",
+    "answer": "I wash them in cold water the first time."
+  },
+  {
+    "en": "The sale ends tomorrow, so we should hurry.",
+    "tamil": "சேல் நாளைக்கு முடியுது, அதனால நாம சீக்கிரம் போகணும்.",
+    "context": "Urging a friend to go shopping soon.",
+    "tense": "modal",
+    "type": "statement",
+    "explain": "'Should' gives advice. 'So' joins the reason with the action.",
+    "words": [
+      "sale",
+      "hurry"
+    ],
+    "usage": "Use it when you want your friends or family to shop before an offer ends.",
+    "leelaQ": "Do you shop in a hurry or slowly?",
+    "answer": "I like to shop slowly so that I do not make mistakes."
+  },
+  {
+    "en": "He bought a new pair of shoes yesterday.",
+    "tamil": "அவன் நேத்து புது ஷூ வாங்கினான்.",
+    "context": "Telling someone about a friend's purchase.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'A pair of' is used for things that come in twos, like shoes. 'Bought' is the past.",
+    "words": [
+      "pair",
+      "shoes"
+    ],
+    "usage": "Use it in casual talk about what someone recently bought.",
+    "leelaQ": "What was the last thing you bought for yourself?",
+    "answer": "I bought a new pair of sandals last week."
+  },
+  {
+    "en": "I forgot my wallet, so I paid through UPI.",
+    "tamil": "பர்ஸ் மறந்துட்டேன், அதனால UPI-ல பணம் கட்டினேன்.",
+    "context": "Explaining how you paid.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Forgot' and 'paid' are past forms. 'So' shows the result of forgetting.",
+    "words": [
+      "forgot",
+      "wallet"
+    ],
+    "usage": "Use it when a friend asks how you managed without cash.",
+    "leelaQ": "What do you do if you forget your wallet?",
+    "answer": "I pay with my phone using UPI."
+  }
+]

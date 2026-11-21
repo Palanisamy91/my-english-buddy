@@ -1,0 +1,351 @@
+[
+ {
+  "word": "come in",
+  "meaning": "to enter a room or place",
+  "tamil": "உள்ளே வா",
+  "pos": "phrasal verb",
+  "pron": "kum IN",
+  "example": "Please come in and sit down.",
+  "exampleTamil": "தயவுசெய்து உள்ளே வந்து உட்காருங்கள்.",
+  "synonyms": [
+   "enter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "break in",
+  "meaning": "to enter a place by force to steal",
+  "tamil": "உள்ளே புகுந்து திருடு",
+  "pos": "phrasal verb",
+  "pron": "brayk IN",
+  "example": "Thieves may break in if you leave the window open.",
+  "exampleTamil": "திறந்த ஜன்னலை விட்டால் திருடர்கள் உள்ளே புகுந்துவிடலாம்.",
+  "synonyms": [
+   "burgle",
+   "intrude"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bounce back",
+  "meaning": "to recover quickly after a problem",
+  "tamil": "விரைவில் மீண்டு வா",
+  "pos": "phrasal verb",
+  "pron": "bowns BAK",
+  "example": "The company bounced back after a tough year.",
+  "exampleTamil": "கடினமான ஒரு ஆண்டிற்குப் பிறகு நிறுவனம் விரைவில் மீண்டு வந்தது.",
+  "synonyms": [
+   "recover",
+   "rebound"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "put down",
+  "meaning": "to place something on a surface",
+  "tamil": "கீழே வை",
+  "pos": "phrasal verb",
+  "pron": "put DOWN",
+  "example": "Put down your phone and listen to me.",
+  "exampleTamil": "உன் போனைக் கீழே வைத்துவிட்டு நான் சொல்வதைக் கேள்.",
+  "synonyms": [
+   "place",
+   "set down"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "give out",
+  "meaning": "to share something among many people",
+  "tamil": "பலருக்குப் பகிர்ந்து கொடு",
+  "pos": "phrasal verb",
+  "pron": "giv OWT",
+  "example": "They give out sweets to everyone at the party.",
+  "exampleTamil": "அவர்கள் விருந்தில் எல்லோருக்கும் இனிப்புகளை வழங்குகிறார்கள்.",
+  "synonyms": [
+   "distribute",
+   "hand out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "snap up",
+  "meaning": "to buy something quickly because it is a bargain",
+  "tamil": "விரைவாக வாங்கிக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "snap UP",
+  "example": "People snapped up the discounted phones in minutes.",
+  "exampleTamil": "தள்ளுபடி போன்களை மக்கள் நிமிடங்களில் வாங்கிக்கொண்டார்கள்.",
+  "synonyms": [
+   "grab",
+   "buy up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dress up",
+  "meaning": "to wear nice or special clothes",
+  "tamil": "அலங்காரமாக உடை அணி",
+  "pos": "phrasal verb",
+  "pron": "dres UP",
+  "example": "The kids dressed up for the school function.",
+  "exampleTamil": "பள்ளி விழாவுக்காக குழந்தைகள் அலங்கார உடை அணிந்தார்கள்.",
+  "synonyms": [
+   "get ready",
+   "deck out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pass out",
+  "meaning": "to faint suddenly",
+  "tamil": "மயங்கி விழு",
+  "pos": "phrasal verb",
+  "pron": "pas OWT",
+  "example": "She passed out because of the heat.",
+  "exampleTamil": "வெப்பத்தினால் அவள் மயங்கி விழுந்தாள்.",
+  "synonyms": [
+   "faint",
+   "collapse"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shoot down",
+  "meaning": "to reject an idea quickly",
+  "tamil": "(யோசனையை) உடனே நிராகரி",
+  "pos": "phrasal verb",
+  "pron": "shoot DOWN",
+  "example": "My boss likes to shoot down new ideas quickly.",
+  "exampleTamil": "என் முதலாளி புதிய யோசனைகளை உடனே நிராகரிக்க விரும்புகிறார்.",
+  "synonyms": [
+   "reject",
+   "dismiss"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sleep in",
+  "meaning": "to sleep later than usual in the morning",
+  "tamil": "வழக்கத்தை விட தாமதமாக தூங்கு",
+  "pos": "phrasal verb",
+  "pron": "sleep IN",
+  "example": "I like to sleep in on Sundays.",
+  "exampleTamil": "நான் ஞாயிற்றுக்கிழமைகளில் தாமதமாக எழ விரும்புவேன்.",
+  "synonyms": [
+   "lie in",
+   "oversleep"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trade in",
+  "meaning": "to give an old item when buying a new one",
+  "tamil": "பழையதைக் கொடுத்து புதியது வாங்கு",
+  "pos": "phrasal verb",
+  "pron": "trayd IN",
+  "example": "He traded in his old bike for a new one.",
+  "exampleTamil": "அவன் தன் பழைய பைக்கைக் கொடுத்து புதியது வாங்கினான்.",
+  "synonyms": [
+   "exchange",
+   "swap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "get up",
+  "meaning": "to leave your bed or stand from a seat",
+  "tamil": "எழுந்திரு",
+  "pos": "phrasal verb",
+  "pron": "get UP",
+  "example": "I get up at six every morning.",
+  "exampleTamil": "நான் தினமும் காலை ஆறு மணிக்கு எழுந்திருப்பேன்.",
+  "synonyms": [
+   "rise",
+   "wake"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "drop in",
+  "meaning": "to visit someone without telling them first",
+  "tamil": "சொல்லாமல் சந்திக்கச் செல்",
+  "pos": "phrasal verb",
+  "pron": "drop IN",
+  "example": "Please drop in whenever you are near our house.",
+  "exampleTamil": "எங்கள் வீட்டுப் பக்கம் வரும்போது எப்போது வேண்டுமானாலும் வந்துவிட்டுப் போங்கள்.",
+  "synonyms": [
+   "visit",
+   "stop by"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fork out",
+  "meaning": "to pay money, usually unwillingly",
+  "tamil": "மனமில்லாமல் பணம் செலுத்து",
+  "pos": "phrasal verb",
+  "pron": "fork OWT",
+  "example": "I had to fork out five thousand rupees for repairs.",
+  "exampleTamil": "பழுதுபார்ப்புக்காக நான் ஐயாயிரம் ரூபாய் செலவழிக்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "pay up",
+   "shell out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hurry up",
+  "meaning": "to do something faster because time is short",
+  "tamil": "சீக்கிரம் செய்",
+  "pos": "phrasal verb",
+  "pron": "HUR-ee up",
+  "example": "Hurry up, the movie starts in ten minutes.",
+  "exampleTamil": "சீக்கிரம், படம் பத்து நிமிடத்தில் தொடங்கிவிடும்.",
+  "synonyms": [
+   "rush",
+   "speed up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "let out",
+  "meaning": "to allow someone or something to leave",
+  "tamil": "வெளியே விடு",
+  "pos": "phrasal verb",
+  "pron": "let OWT",
+  "example": "Please let the dog out into the garden.",
+  "exampleTamil": "தயவுசெய்து நாயைத் தோட்டத்துக்கு வெளியே விடுங்கள்.",
+  "synonyms": [
+   "release",
+   "free"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bog down",
+  "meaning": "to make progress slow because of difficulties",
+  "tamil": "முன்னேற்றத்தை மெதுவாக்கு",
+  "pos": "phrasal verb",
+  "pron": "bog DOWN",
+  "example": "The project got bogged down in paperwork.",
+  "exampleTamil": "அந்தத் திட்டம் காகித வேலைகளில் சிக்கி மெதுவாகிவிட்டது.",
+  "synonyms": [
+   "hinder",
+   "stall"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "switch on",
+  "meaning": "to start an electric device",
+  "tamil": "(மின் சாதனத்தை) இயக்கு",
+  "pos": "phrasal verb",
+  "pron": "swich ON",
+  "example": "Please switch on the fan, it is very hot.",
+  "exampleTamil": "தயவுசெய்து மின்விசிறியை இயக்குங்கள், மிகவும் வெப்பமாக இருக்கிறது.",
+  "synonyms": [
+   "turn on",
+   "start"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shake off",
+  "meaning": "to get rid of an illness or a bad feeling",
+  "tamil": "நோயிலிருந்து மீள்; உதறித்தள்ளு",
+  "pos": "phrasal verb",
+  "pron": "shayk OFF",
+  "example": "I cannot shake off this cold for a week.",
+  "exampleTamil": "ஒரு வாரமாக என்னால் இந்த சளியிலிருந்து மீள முடியவில்லை.",
+  "synonyms": [
+   "get rid of",
+   "overcome"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "go out",
+  "meaning": "to leave home to meet people or enjoy yourself",
+  "tamil": "வெளியே செல்",
+  "pos": "phrasal verb",
+  "pron": "goh OWT",
+  "example": "We go out for dinner every Sunday.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு ஞாயிறும் இரவு உணவுக்கு வெளியே செல்கிறோம்.",
+  "synonyms": [
+   "leave",
+   "step out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "burn out",
+  "meaning": "to become very tired from too much work",
+  "tamil": "அதிக வேலையால் சோர்வடை",
+  "pos": "phrasal verb",
+  "pron": "burn OWT",
+  "example": "She burned out after working long hours for months.",
+  "exampleTamil": "மாதக்கணக்கில் நீண்ட நேரம் வேலை செய்து அவள் சோர்ந்துவிட்டாள்.",
+  "synonyms": [
+   "exhaust",
+   "wear out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clam up",
+  "meaning": "to suddenly stop talking, often from nervousness",
+  "tamil": "திடீரென பேசாமல் அமைதியாகிவிடு",
+  "pos": "phrasal verb",
+  "pron": "klam UP",
+  "example": "He clammed up when the teacher asked him.",
+  "exampleTamil": "ஆசிரியர் கேட்டபோது அவன் திடீரென வாயடைத்துப் போனான்.",
+  "synonyms": [
+   "go quiet",
+   "freeze"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "take out",
+  "meaning": "to remove something from inside a place",
+  "tamil": "வெளியே எடு",
+  "pos": "phrasal verb",
+  "pron": "tayk OWT",
+  "example": "Please take out your books and open page ten.",
+  "exampleTamil": "தயவுசெய்து உங்கள் புத்தகங்களை வெளியே எடுத்து பத்தாம் பக்கத்தைத் திறங்கள்.",
+  "synonyms": [
+   "remove",
+   "pull out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "kick out",
+  "meaning": "to force someone to leave a place",
+  "tamil": "வெளியேற்று",
+  "pos": "phrasal verb",
+  "pron": "kik OWT",
+  "example": "The owner kicked them out for making noise.",
+  "exampleTamil": "சத்தம் போட்டதால் உரிமையாளர் அவர்களை வெளியேற்றினார்.",
+  "synonyms": [
+   "expel",
+   "throw out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "water down",
+  "meaning": "to make something weaker or less strong",
+  "tamil": "நீர்த்துப்போகச் செய்",
+  "pos": "phrasal verb",
+  "pron": "WAW-ter down",
+  "example": "They watered down the rules to please everyone.",
+  "exampleTamil": "எல்லோரையும் திருப்திப்படுத்த அவர்கள் விதிகளை நீர்த்துப்போகச் செய்தார்கள்.",
+  "synonyms": [
+   "dilute",
+   "weaken"
+  ],
+  "level": "advanced"
+ }
+]

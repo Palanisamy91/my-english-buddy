@@ -1,0 +1,346 @@
+[
+ {
+  "word": "funnel",
+  "meaning": "A tool shaped like a cone for pouring liquid into a small opening.",
+  "tamil": "புனல்",
+  "pos": "noun",
+  "pron": "FUN-ul",
+  "example": "Use a funnel to pour the oil into the bottle.",
+  "exampleTamil": "எண்ணெயைப் பாட்டிலில் ஊற்ற ஒரு புனலைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "cone",
+   "pouring tool"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ladder",
+  "meaning": "A set of steps you climb to reach high places.",
+  "tamil": "ஏணி",
+  "pos": "noun",
+  "pron": "LAD-er",
+  "example": "Hold the ladder while I change the bulb.",
+  "exampleTamil": "நான் பல்பை மாற்றும் வரை ஏணியைப் பிடித்துக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "steps",
+   "stepladder"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "torch",
+  "meaning": "A small hand light that works on batteries.",
+  "tamil": "டார்ச் விளக்கு",
+  "pos": "noun",
+  "pron": "TORCH",
+  "example": "The power is gone, so bring the torch.",
+  "exampleTamil": "கரண்ட் போய்விட்டது, அதனால் டார்ச் எடுத்து வா.",
+  "synonyms": [
+   "flashlight",
+   "hand light"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lighter",
+  "meaning": "A small device that makes a flame to light a gas stove or candle.",
+  "tamil": "லைட்டர்",
+  "pos": "noun",
+  "pron": "LY-ter",
+  "example": "Where is the lighter for the gas stove?",
+  "exampleTamil": "கேஸ் அடுப்புக்கான லைட்டர் எங்கே?",
+  "synonyms": [
+   "igniter",
+   "flame maker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "matchbox",
+  "meaning": "A small box with sticks that make fire when rubbed.",
+  "tamil": "தீப்பெட்டி",
+  "pos": "noun",
+  "pron": "MATCH-boks",
+  "example": "We keep a matchbox near the lamp in the puja room.",
+  "exampleTamil": "பூஜை அறையில் விளக்கு அருகே ஒரு தீப்பெட்டி வைத்திருக்கிறோம்.",
+  "synonyms": [
+   "box of matches",
+   "matches"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "padlock",
+  "meaning": "A lock with a curved bar that you hang on a door or bag.",
+  "tamil": "பூட்டு",
+  "pos": "noun",
+  "pron": "PAD-lok",
+  "example": "He put a padlock on the gate before leaving.",
+  "exampleTamil": "அவர் புறப்படுவதற்கு முன் கேட்டில் பூட்டு போட்டார்.",
+  "synonyms": [
+   "lock",
+   "hanging lock"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lunchbox",
+  "meaning": "A box with a lid for carrying food to school or work.",
+  "tamil": "மதிய உணவுப் பெட்டி",
+  "pos": "noun",
+  "pron": "LUNCH-boks",
+  "example": "She packs rice and sambar in my lunchbox every day.",
+  "exampleTamil": "அவள் தினமும் என் மதிய உணவுப் பெட்டியில் சாதமும் சாம்பாரும் வைப்பாள்.",
+  "synonyms": [
+   "tiffin box",
+   "food box"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "comb",
+  "meaning": "A thin tool with teeth for tidying your hair.",
+  "tamil": "சீப்பு",
+  "pos": "noun",
+  "pron": "KOHM",
+  "example": "I cannot find my comb anywhere.",
+  "exampleTamil": "என் சீப்பு எங்கும் கிடைக்கவில்லை.",
+  "synonyms": [
+   "hair brush"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "soap",
+  "meaning": "A block or liquid you use with water to wash your body.",
+  "tamil": "சோப்பு",
+  "pos": "noun",
+  "pron": "SOHP",
+  "example": "Please buy a new soap for the bathroom.",
+  "exampleTamil": "குளியலறைக்கு ஒரு புது சோப்பு வாங்குங்கள்.",
+  "synonyms": [
+   "cleanser",
+   "bar"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shampoo",
+  "meaning": "A liquid soap for washing your hair.",
+  "tamil": "ஷாம்பு",
+  "pos": "noun",
+  "pron": "sham-POO",
+  "example": "This shampoo smells really nice.",
+  "exampleTamil": "இந்த ஷாம்பு மிகவும் நல்ல வாசனையாக இருக்கிறது.",
+  "synonyms": [
+   "hair wash"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "toothbrush",
+  "meaning": "A small brush for cleaning your teeth.",
+  "tamil": "பல் துலக்கும் பிரஷ்",
+  "pos": "noun",
+  "pron": "TOOTH-brush",
+  "example": "Change your toothbrush every three months.",
+  "exampleTamil": "மூன்று மாதத்துக்கு ஒரு முறை உங்கள் பிரஷ்ஷை மாற்றுங்கள்.",
+  "synonyms": [
+   "brush"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "toothpaste",
+  "meaning": "A soft paste you put on a brush to clean your teeth.",
+  "tamil": "பற்பசை",
+  "pos": "noun",
+  "pron": "TOOTH-payst",
+  "example": "The toothpaste tube is almost empty.",
+  "exampleTamil": "பற்பசை டியூப் கிட்டத்தட்ட காலியாகிவிட்டது.",
+  "synonyms": [
+   "dental paste"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "razor",
+  "meaning": "A sharp tool for shaving hair from the face or body.",
+  "tamil": "சவரக் கத்தி",
+  "pos": "noun",
+  "pron": "RAY-zer",
+  "example": "He bought a new razor for his daily shave.",
+  "exampleTamil": "அவர் தினசரி சவரத்துக்காக ஒரு புது சவரக் கத்தி வாங்கினார்.",
+  "synonyms": [
+   "shaver",
+   "blade"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clock",
+  "meaning": "A device on the wall or table that shows the time.",
+  "tamil": "சுவர் கடிகாரம்",
+  "pos": "noun",
+  "pron": "KLOK",
+  "example": "The clock in our hall is five minutes fast.",
+  "exampleTamil": "எங்கள் ஹாலில் உள்ள கடிகாரம் ஐந்து நிமிடம் வேகமாக ஓடுகிறது.",
+  "synonyms": [
+   "timepiece",
+   "wall clock"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scissors",
+  "meaning": "A tool with two blades for cutting paper or cloth.",
+  "tamil": "கத்தரிக்கோல்",
+  "pos": "noun",
+  "pron": "SIZ-erz",
+  "example": "Can you pass me the scissors, please?",
+  "exampleTamil": "தயவுசெய்து கத்தரிக்கோலை எடுத்துக் கொடுக்கிறீர்களா?",
+  "synonyms": [
+   "shears",
+   "cutters"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "eraser",
+  "meaning": "A small rubber piece that removes pencil marks.",
+  "tamil": "அழிப்பான்",
+  "pos": "noun",
+  "pron": "ih-RAY-ser",
+  "example": "I need an eraser to fix this drawing.",
+  "exampleTamil": "இந்த ஓவியத்தைச் சரிசெய்ய எனக்கு ஒரு அழிப்பான் வேண்டும்.",
+  "synonyms": [
+   "rubber"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sharpener",
+  "meaning": "A small tool that makes a pencil tip pointed.",
+  "tamil": "பென்சில் சீவும் கருவி",
+  "pos": "noun",
+  "pron": "SHAR-puh-ner",
+  "example": "My pencil broke, so I need a sharpener.",
+  "exampleTamil": "என் பென்சில் உடைந்துவிட்டது, அதனால் எனக்கு சீவும் கருவி வேண்டும்.",
+  "synonyms": [
+   "pencil sharpener"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ruler",
+  "meaning": "A flat straight tool for drawing lines and measuring.",
+  "tamil": "அளவுகோல்",
+  "pos": "noun",
+  "pron": "ROO-ler",
+  "example": "Use a ruler to draw a straight line.",
+  "exampleTamil": "நேர்கோடு வரைய ஒரு அளவுகோலைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "measuring stick",
+   "scale"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "heater",
+  "meaning": "A machine that makes a room or water warm.",
+  "tamil": "ஹீட்டர்",
+  "pos": "noun",
+  "pron": "HEE-ter",
+  "example": "Switch on the water heater before you bathe.",
+  "exampleTamil": "குளிக்கும் முன் வாட்டர் ஹீட்டரை ஆன் செய்யுங்கள்.",
+  "synonyms": [
+   "warmer",
+   "geyser"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "whistle",
+  "meaning": "A small tool that makes a loud sharp sound when you blow it.",
+  "tamil": "விசில்",
+  "pos": "noun",
+  "pron": "WIS-ul",
+  "example": "The referee blew the whistle to stop the game.",
+  "exampleTamil": "நடுவர் ஆட்டத்தை நிறுத்த விசில் ஊதினார்.",
+  "synonyms": [
+   "pipe",
+   "signal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bowl",
+  "meaning": "A deep round dish for food or liquid.",
+  "tamil": "கிண்ணம்",
+  "pos": "noun",
+  "pron": "BOHL",
+  "example": "Put the curd in a small bowl.",
+  "exampleTamil": "தயிரை ஒரு சிறிய கிண்ணத்தில் போடுங்கள்.",
+  "synonyms": [
+   "dish",
+   "basin"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "toothpick",
+  "meaning": "A small thin stick for removing food from between teeth.",
+  "tamil": "பல் குச்சி",
+  "pos": "noun",
+  "pron": "TOOTH-pik",
+  "example": "He took a toothpick after the heavy lunch.",
+  "exampleTamil": "அவர் கனமான மதிய உணவுக்குப் பிறகு ஒரு பல் குச்சி எடுத்தார்.",
+  "synonyms": [
+   "pick",
+   "small stick"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tweezers",
+  "meaning": "A small tool with two arms for picking up tiny things.",
+  "tamil": "சாமணம்",
+  "pos": "noun",
+  "pron": "TWEE-zerz",
+  "example": "Use tweezers to remove the thorn from your finger.",
+  "exampleTamil": "உங்கள் விரலிலிருந்து முள்ளை எடுக்க சாமணத்தைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "pincers",
+   "tongs"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mug",
+  "meaning": "A big cup with a handle for tea or coffee.",
+  "tamil": "குவளை",
+  "pos": "noun",
+  "pron": "MUG",
+  "example": "I always drink my coffee from this blue mug.",
+  "exampleTamil": "நான் எப்போதும் இந்த நீல நிறக் குவளையில்தான் காபி குடிப்பேன்.",
+  "synonyms": [
+   "cup",
+   "tankard"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pan",
+  "meaning": "A flat metal vessel for frying food.",
+  "tamil": "வாணலி",
+  "pos": "noun",
+  "pron": "PAN",
+  "example": "Heat the pan before you add the oil.",
+  "exampleTamil": "எண்ணெய் ஊற்றுவதற்கு முன் வாணலியைச் சூடாக்குங்கள்.",
+  "synonyms": [
+   "frying pan",
+   "skillet"
+  ],
+  "level": "beginner"
+ }
+]

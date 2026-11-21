@@ -1,0 +1,352 @@
+[
+ {
+  "word": "anyway",
+  "meaning": "used to change the topic or return to the main point",
+  "tamil": "எப்படியோ, சரி விடுங்க",
+  "pos": "adverb",
+  "pron": "EN-ee-way",
+  "example": "Anyway, let us start the meeting now.",
+  "exampleTamil": "சரி, இப்போ மீட்டிங்கை தொடங்கலாம்.",
+  "synonyms": [
+   "anyhow",
+   "in any case"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "to be honest",
+  "meaning": "used before saying what you really think",
+  "tamil": "உண்மையைச் சொன்னா",
+  "pos": "phrase",
+  "pron": "tuh bee ON-ist",
+  "example": "To be honest, I did not like the movie much.",
+  "exampleTamil": "உண்மையைச் சொன்னா, எனக்கு அந்தப் படம் அவ்வளவு பிடிக்கல.",
+  "synonyms": [
+   "frankly",
+   "truthfully"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "you know",
+  "meaning": "a filler used while you think or to check the listener follows",
+  "tamil": "உங்களுக்குத் தெரியும்ல",
+  "pos": "phrase",
+  "pron": "yoo NOH",
+  "example": "It was, you know, a bit too expensive for me.",
+  "exampleTamil": "அது, உங்களுக்குத் தெரியும்ல, எனக்கு கொஞ்சம் விலை அதிகம்.",
+  "synonyms": [
+   "right",
+   "see"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "i mean",
+  "meaning": "used to explain or correct what you just said",
+  "tamil": "அதாவது நான் சொல்ல வந்தது",
+  "pos": "phrase",
+  "pron": "eye MEEN",
+  "example": "It is nice, I mean, it is really very nice.",
+  "exampleTamil": "அது நல்லா இருக்கு, அதாவது ரொம்பவே நல்லா இருக்கு.",
+  "synonyms": [
+   "that is",
+   "what i mean is"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "of course",
+  "meaning": "used to say yes strongly or when something is obvious",
+  "tamil": "கண்டிப்பா",
+  "pos": "phrase",
+  "pron": "uv KORS",
+  "example": "Of course, you can borrow my pen.",
+  "exampleTamil": "கண்டிப்பா, என் பேனாவை நீங்க வாங்கிக்கலாம்.",
+  "synonyms": [
+   "certainly",
+   "sure"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "however",
+  "meaning": "used to add a contrast to what was said before",
+  "tamil": "இருந்தாலும், ஆனால்",
+  "pos": "adverb",
+  "pron": "how-EV-er",
+  "example": "The plan is good. However, it needs more time.",
+  "exampleTamil": "திட்டம் நல்லா இருக்கு. ஆனா அதுக்கு இன்னும் நேரம் வேணும்.",
+  "synonyms": [
+   "but",
+   "still"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "for example",
+  "meaning": "used to introduce an example",
+  "tamil": "உதாரணத்துக்கு",
+  "pos": "phrase",
+  "pron": "fur ig-ZAM-pul",
+  "example": "I like fruits, for example, mangoes and bananas.",
+  "exampleTamil": "எனக்கு பழங்கள் பிடிக்கும், உதாரணத்துக்கு மாம்பழம், வாழைப்பழம்.",
+  "synonyms": [
+   "such as",
+   "e.g."
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "as well",
+  "meaning": "also, in addition",
+  "tamil": "அதோடு, கூடவே",
+  "pos": "phrase",
+  "pron": "az WEL",
+  "example": "Can I bring my friend as well?",
+  "exampleTamil": "என் நண்பனையும் கூட்டிட்டு வரலாமா?",
+  "synonyms": [
+   "too",
+   "also"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sort of",
+  "meaning": "a little, or in a way; used to soften a statement",
+  "tamil": "ஒரு மாதிரி, கொஞ்சம்",
+  "pos": "phrase",
+  "pron": "SORT uv",
+  "example": "I am sort of tired after the long trip.",
+  "exampleTamil": "நீண்ட பயணத்துக்கு அப்புறம் எனக்கு ஒரு மாதிரி களைப்பா இருக்கு.",
+  "synonyms": [
+   "kind of",
+   "somewhat"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "kind of",
+  "meaning": "a little; used to make a statement less strong",
+  "tamil": "கொஞ்சம், ஒருவிதமா",
+  "pos": "phrase",
+  "pron": "KINE uv",
+  "example": "The food was kind of spicy for me.",
+  "exampleTamil": "சாப்பாடு எனக்கு கொஞ்சம் காரமா இருந்துச்சு.",
+  "synonyms": [
+   "sort of",
+   "rather"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "no worries",
+  "meaning": "a friendly way to say it is fine or not a problem",
+  "tamil": "கவலைப்படாதீங்க",
+  "pos": "phrase",
+  "pron": "noh WUR-eez",
+  "example": "No worries, I will wait for you here.",
+  "exampleTamil": "கவலைப்படாதீங்க, நான் இங்கேயே காத்திருக்கேன்.",
+  "synonyms": [
+   "no problem",
+   "it is fine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fair enough",
+  "meaning": "used to accept what someone said as reasonable",
+  "tamil": "சரிதான், நியாயம்தான்",
+  "pos": "phrase",
+  "pron": "FAIR ee-NUF",
+  "example": "Fair enough, let us do it your way.",
+  "exampleTamil": "சரிதான், உங்க வழியிலேயே செய்யலாம்.",
+  "synonyms": [
+   "that is fine",
+   "okay"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sounds good",
+  "meaning": "used to agree with a plan or an idea",
+  "tamil": "நல்லா இருக்கு",
+  "pos": "phrase",
+  "pron": "SOWNDZ good",
+  "example": "Dinner at eight sounds good to me.",
+  "exampleTamil": "எட்டு மணிக்கு இரவு சாப்பாடு எனக்கு சரின்னு படுது.",
+  "synonyms": [
+   "that works",
+   "great"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "in short",
+  "meaning": "used to give the main point quickly",
+  "tamil": "சுருக்கமா சொன்னா",
+  "pos": "phrase",
+  "pron": "in SHORT",
+  "example": "In short, we need more people on this project.",
+  "exampleTamil": "சுருக்கமா சொன்னா, இந்த ப்ராஜெக்ட்டுக்கு இன்னும் ஆட்கள் வேணும்.",
+  "synonyms": [
+   "briefly",
+   "in brief"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "just in case",
+  "meaning": "to be ready for something that may happen",
+  "tamil": "எதுக்கும் இருக்கட்டும்னு",
+  "pos": "phrase",
+  "pron": "just in KAYS",
+  "example": "Take an umbrella just in case it rains.",
+  "exampleTamil": "மழை பெய்தா என்னன்னு ஒரு குடை எடுத்துக்கோங்க.",
+  "synonyms": [
+   "to be safe",
+   "as a precaution"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "no problem",
+  "meaning": "used to say you are happy to help or it is okay",
+  "tamil": "பிரச்சனை இல்ல",
+  "pos": "phrase",
+  "pron": "noh PROB-lum",
+  "example": "No problem, I can drop you at the station.",
+  "exampleTamil": "பிரச்சனை இல்ல, நான் உங்களை ஸ்டேஷன்ல விடுறேன்.",
+  "synonyms": [
+   "sure",
+   "no trouble"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "i guess",
+  "meaning": "used when you are not fully sure",
+  "tamil": "எனக்கு தோணுது",
+  "pos": "phrase",
+  "pron": "eye GES",
+  "example": "I guess we should leave early today.",
+  "exampleTamil": "இன்னைக்கு சீக்கிரம் கிளம்பணும்னு எனக்கு தோணுது.",
+  "synonyms": [
+   "i suppose",
+   "i think"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "well",
+  "meaning": "a filler used to start an answer or to think",
+  "tamil": "சரி, அது வந்து",
+  "pos": "interjection",
+  "pron": "WEL",
+  "example": "Well, I have not decided yet.",
+  "exampleTamil": "அது வந்து, நான் இன்னும் முடிவு பண்ணல.",
+  "synonyms": [
+   "so",
+   "um"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "luckily",
+  "meaning": "used to say something good happened by chance",
+  "tamil": "நல்ல வேளையா",
+  "pos": "adverb",
+  "pron": "LUK-ih-lee",
+  "example": "Luckily, I caught the last bus home.",
+  "exampleTamil": "நல்ல வேளையா, வீட்டுக்கு கடைசி பஸ்ஸை பிடிச்சுட்டேன்.",
+  "synonyms": [
+   "fortunately",
+   "thankfully"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "seriously",
+  "meaning": "used to ask if someone is truly not joking",
+  "tamil": "உண்மையாவா",
+  "pos": "adverb",
+  "pron": "SEER-ee-us-lee",
+  "example": "Seriously? You finished the whole report already?",
+  "exampleTamil": "உண்மையாவா? முழு ரிப்போர்ட்டையும் முடிச்சுட்டீங்களா?",
+  "synonyms": [
+   "really",
+   "no kidding"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "exactly",
+  "meaning": "used to say someone is completely right",
+  "tamil": "சரியா சொன்னீங்க",
+  "pos": "adverb",
+  "pron": "ig-ZAKT-lee",
+  "example": "Exactly, that is what I wanted to say.",
+  "exampleTamil": "சரியா சொன்னீங்க, நான் சொல்ல நினைச்சதும் அதுதான்.",
+  "synonyms": [
+   "precisely",
+   "right"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "absolutely",
+  "meaning": "used to agree strongly",
+  "tamil": "நிச்சயமா, முழுக்க",
+  "pos": "adverb",
+  "pron": "AB-suh-loot-lee",
+  "example": "Absolutely, I agree with every word you said.",
+  "exampleTamil": "நிச்சயமா, நீங்க சொன்ன ஒவ்வொரு வார்த்தையையும் நான் ஒத்துக்கறேன்.",
+  "synonyms": [
+   "totally",
+   "completely"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "probably",
+  "meaning": "used when something is likely but not certain",
+  "tamil": "பெரும்பாலும்",
+  "pos": "adverb",
+  "pron": "PROB-uh-blee",
+  "example": "I will probably reach home by nine.",
+  "exampleTamil": "நான் பெரும்பாலும் ஒன்பது மணிக்குள்ள வீட்டுக்கு வந்துடுவேன்.",
+  "synonyms": [
+   "likely",
+   "most likely"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "perhaps",
+  "meaning": "used to say something may be true",
+  "tamil": "ஒருவேளை",
+  "pos": "adverb",
+  "pron": "per-HAPS",
+  "example": "Perhaps we can meet next week instead.",
+  "exampleTamil": "ஒருவேளை அடுத்த வாரம் சந்திக்கலாம்.",
+  "synonyms": [
+   "maybe",
+   "possibly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "needless to say",
+  "meaning": "used when the thing you say is very obvious",
+  "tamil": "சொல்லவே வேண்டாம்",
+  "pos": "phrase",
+  "pron": "NEED-lis tuh SAY",
+  "example": "Needless to say, we were all very happy.",
+  "exampleTamil": "சொல்லவே வேண்டாம், நாங்க எல்லாரும் ரொம்ப சந்தோஷமா இருந்தோம்.",
+  "synonyms": [
+   "obviously",
+   "of course"
+  ],
+  "level": "advanced"
+ }
+]

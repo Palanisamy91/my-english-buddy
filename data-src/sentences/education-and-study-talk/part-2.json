@@ -1,0 +1,377 @@
+[
+ {
+  "en": "I have not started my project yet.",
+  "tamil": "நான் இன்னும் என் ப்ராஜெக்ட்டை ஆரம்பிக்கவே இல்ல.",
+  "context": "Telling a friend honestly.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have not ... yet' means something is still undone. It is common in spoken English.",
+  "words": [
+   "started",
+   "project"
+  ],
+  "usage": "Use it when someone asks about the progress of your work.",
+  "leelaQ": "What task do you want to start today?",
+  "answer": "I want to start my English practice today."
+ },
+ {
+  "en": "How many chapters are there in the syllabus?",
+  "tamil": "சிலபஸ்ல எத்தனை பாடங்கள் இருக்கு?",
+  "context": "Planning your study schedule.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How many' is for countable things. 'There are' shows the existence.",
+  "words": [
+   "chapters",
+   "syllabus"
+  ],
+  "usage": "Use it when you plan your time with a friend or a teacher.",
+  "leelaQ": "How many hours do you need for each chapter?",
+  "answer": "I need about two hours for one chapter."
+ },
+ {
+  "en": "I will ask my teacher about this doubt tomorrow.",
+  "tamil": "இந்த சந்தேகத்தை நாளைக்கு என் டீச்சர்கிட்ட கேப்பேன்.",
+  "context": "Telling a classmate you will clear a doubt.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Doubt' in Indian English means a question about a lesson. 'Will ask' shows a plan.",
+  "words": [
+   "doubt",
+   "ask"
+  ],
+  "usage": "Use it with classmates when neither of you can solve a problem.",
+  "leelaQ": "What do you do when you have a doubt in a lesson?",
+  "answer": "I ask my teacher or search on the internet."
+ },
+ {
+  "en": "Group study helps me understand difficult topics.",
+  "tamil": "குரூப் ஸ்டடி கஷ்டமான டாபிக்குகளை புரிஞ்சுக்க எனக்கு உதவுது.",
+  "context": "Explaining why you study with friends.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Helps me understand' is a common pattern: help + person + verb.",
+  "words": [
+   "group",
+   "understand"
+  ],
+  "usage": "Use it when someone asks why you study with friends.",
+  "leelaQ": "Do you like studying alone or with friends?",
+  "answer": "I like studying with friends because we share ideas."
+ },
+ {
+  "en": "Are you studying for the test tonight?",
+  "tamil": "நீ இன்னைக்கு ராத்திரி டெஸ்டுக்கு படிக்கப் போறியா?",
+  "context": "Asking a hostel mate.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Are you studying' with 'tonight' asks about a plan for the near future.",
+  "words": [
+   "studying",
+   "tonight"
+  ],
+  "usage": "Use it with a roommate when you want to study together.",
+  "leelaQ": "What time do you usually go to bed during exams?",
+  "answer": "I go to bed around eleven during exams."
+ },
+ {
+  "en": "Could you please send me the assignment details?",
+  "tamil": "அசைன்மென்ட் விவரங்களை எனக்கு அனுப்ப முடியுமா, தயவுசெஞ்சு?",
+  "context": "Messaging a classmate or a teacher.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you please' is very polite. Good for emails and messages.",
+  "words": [
+   "send",
+   "details"
+  ],
+  "usage": "Use it in a message to a teacher or a friend who has the information.",
+  "leelaQ": "How do you share notes with your friends?",
+  "answer": "We share them in a WhatsApp group."
+ },
+ {
+  "en": "He scored ninety percent in the maths test.",
+  "tamil": "அவன் கணக்கு டெஸ்ட்ல தொண்ணூறு சதவீதம் வாங்கினான்.",
+  "context": "Telling parents about a friend's marks.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Scored' is used for marks or points. 'Percent' needs a number before it.",
+  "words": [
+   "scored",
+   "percent"
+  ],
+  "usage": "Use it when you talk about a classmate's or a child's result.",
+  "leelaQ": "What was your best score in school?",
+  "answer": "I got ninety five in my science exam."
+ },
+ {
+  "en": "The practical exam is going to be tough this time.",
+  "tamil": "இந்த தடவை ப்ராக்டிகல் எக்ஸாம் கஷ்டமா இருக்கப் போகுது.",
+  "context": "Warning a friend before an exam.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Is going to be' is used when you expect something from what you already know.",
+  "words": [
+   "practical",
+   "tough"
+  ],
+  "usage": "Use it with batch mates when the lab exam is near.",
+  "leelaQ": "Which is tougher for you, theory or practical?",
+  "answer": "Theory is tougher for me because there is too much to read."
+ },
+ {
+  "en": "What is the easiest way to improve my spoken English?",
+  "tamil": "என் பேச்சு இங்கிலீஷை மேம்படுத்த சுலபமான வழி என்ன?",
+  "context": "Asking a teacher for advice.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'The best way to + verb' is a useful pattern to ask for advice.",
+  "words": [
+   "easiest",
+   "improve"
+  ],
+  "usage": "Use it with a teacher or a friend who speaks good English.",
+  "leelaQ": "What do you do every day to improve your English?",
+  "answer": "I speak for ten minutes with my friend every day."
+ },
+ {
+  "en": "I am learning Angular from online videos.",
+  "tamil": "நான் ஆன்லைன் வீடியோக்கள்ல இருந்து ஆங்குலர் கத்துக்கிட்டு இருக்கேன்.",
+  "context": "Telling a colleague how you study a new skill.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'From' shows the source of learning. 'Am learning' shows a task still in progress.",
+  "words": [
+   "learning",
+   "videos"
+  ],
+  "usage": "Use it in an office chat when you talk about upskilling yourself.",
+  "leelaQ": "What new skill are you learning now?",
+  "answer": "I am learning to code in Angular."
+ },
+ {
+  "en": "We don't have any class tomorrow.",
+  "tamil": "நமக்கு நாளைக்கு கிளாஸ் எதுவும் இல்ல.",
+  "context": "Giving a friend good news.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Don't have any' means none. Simple present is used for a fixed schedule.",
+  "words": [
+   "class",
+   "tomorrow"
+  ],
+  "usage": "Use it when a holiday is announced or a teacher is absent.",
+  "leelaQ": "What will you do if you have a free day?",
+  "answer": "I will sleep late and meet my friends."
+ },
+ {
+  "en": "Please submit your records by Friday.",
+  "tamil": "உங்க ரெக்கார்டு நோட்டை வெள்ளிக்கிழமைக்குள்ள சமர்ப்பிங்க.",
+  "context": "A lab teacher giving a deadline.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'By Friday' means on or before Friday. 'Records' are lab notebooks.",
+  "words": [
+   "submit",
+   "records"
+  ],
+  "usage": "Teachers use it to give clear deadlines to a class.",
+  "leelaQ": "Do you always meet your deadlines?",
+  "answer": "Yes, I always try to finish before the last day."
+ },
+ {
+  "en": "We must finish the syllabus before the model exams.",
+  "tamil": "மாடல் எக்ஸாமுக்கு முன்னாடி நாம சிலபஸை முடிச்சே ஆகணும்.",
+  "context": "A teacher or leader reminding the class.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Must' shows a strong duty. 'Before' sets the deadline.",
+  "words": [
+   "syllabus",
+   "model"
+  ],
+  "usage": "Use it when you remind classmates or students about a deadline.",
+  "leelaQ": "How do you plan to complete your syllabus on time?",
+  "answer": "I divide the chapters and finish a few each day."
+ },
+ {
+  "en": "Who is taking the class after lunch?",
+  "tamil": "லஞ்சுக்கு அப்புறம் யாரு கிளாஸ் எடுக்கப் போறாங்க?",
+  "context": "Asking a classmate about the timetable.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Who' is the subject here, so no 'do' or 'does' is needed.",
+  "words": [
+   "class",
+   "lunch"
+  ],
+  "usage": "Use it in school or college to know the next teacher.",
+  "leelaQ": "Which period do you like the most?",
+  "answer": "I like the computer period the most."
+ },
+ {
+  "en": "She has been selected for the science exhibition.",
+  "tamil": "அவ சயின்ஸ் எக்ஸிபிஷனுக்கு தேர்வு செய்யப்பட்டிருக்கா.",
+  "context": "Sharing good news about a student.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has been selected' is passive: the action happens to her. The result is true now.",
+  "words": [
+   "selected",
+   "exhibition"
+  ],
+  "usage": "Use it to share a classmate's or a daughter's good news.",
+  "leelaQ": "Have you ever won a prize in school?",
+  "answer": "Yes, I won a prize in a drawing competition."
+ },
+ {
+  "en": "I made a study timetable for the whole week.",
+  "tamil": "நான் முழு வாரத்துக்கும் ஒரு படிப்பு டைம் டேபிள் போட்டேன்.",
+  "context": "Showing a friend your plan.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Made a timetable' is the usual collocation. 'The whole week' means all seven days.",
+  "words": [
+   "timetable",
+   "whole week"
+  ],
+  "usage": "Use it when you share your study plan with a friend or a parent.",
+  "leelaQ": "Do you follow a timetable every day?",
+  "answer": "Yes, I follow it, but sometimes I change the timings."
+ },
+ {
+  "en": "Do we have homework for tomorrow?",
+  "tamil": "நமக்கு நாளைக்கு ஹோம்வொர்க் இருக்கா?",
+  "context": "Asking a friend after class.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do we have' asks if something exists. It is very common among students.",
+  "words": [
+   "homework",
+   "tomorrow"
+  ],
+  "usage": "Use it with a classmate when you missed the teacher's instruction.",
+  "leelaQ": "What homework is the hardest for you?",
+  "answer": "Writing long essays is the hardest for me."
+ },
+ {
+  "en": "The library is quiet, so I study there.",
+  "tamil": "லைப்ரரி அமைதியா இருக்கு, அதனால நான் அங்க படிக்கிறேன்.",
+  "context": "Explaining where you prefer to study.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'So' gives the result of the reason before it. Simple present shows a habit.",
+  "words": [
+   "library",
+   "quiet"
+  ],
+  "usage": "Use it when someone asks why you go to the library.",
+  "leelaQ": "Where do you like to study or work?",
+  "answer": "I like to work at a table near the window."
+ },
+ {
+  "en": "Please read the instructions carefully before you start.",
+  "tamil": "தொடங்குறதுக்கு முன்னாடி வழிமுறைகளை கவனமா படிங்க.",
+  "context": "An invigilator before an exam.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Before you start' gives the order of the actions. 'Carefully' is an adverb.",
+  "words": [
+   "instructions",
+   "carefully"
+  ],
+  "usage": "Invigilators and teachers say it before tests begin.",
+  "leelaQ": "Why is it important to read instructions?",
+  "answer": "It is important because wrong steps give wrong answers."
+ },
+ {
+  "en": "Our final year project is about a billing software.",
+  "tamil": "எங்க ஃபைனல் இயர் ப்ராஜெக்ட் ஒரு பில்லிங் சாஃப்ட்வேர் பத்தினது.",
+  "context": "Telling an interviewer about your project.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Is about' tells the topic of something. Useful in interviews.",
+  "words": [
+   "project",
+   "software"
+  ],
+  "usage": "Use it in a job interview or a college viva when asked about your project.",
+  "leelaQ": "Can you tell me about your project?",
+  "answer": "My project is a billing software for small restaurants."
+ },
+ {
+  "en": "Please don't make noise in the library.",
+  "tamil": "லைப்ரரியில சத்தம் போடாதீங்க, தயவுசெஞ்சு.",
+  "context": "Telling someone politely.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Please don't' is a polite way to stop an action. 'Make noise' means be loud.",
+  "words": [
+   "noise",
+   "library"
+  ],
+  "usage": "Use it politely with a person who talks loudly where others study.",
+  "leelaQ": "How do you ask people politely to be quiet?",
+  "answer": "I say please keep your voice low."
+ },
+ {
+  "en": "How did your interview at the college go?",
+  "tamil": "காலேஜ்ல உன் இன்டர்வியூ எப்படி போச்சு?",
+  "context": "Asking a cousin after the interview.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'How did ... go?' asks about the result of an event. 'Go' is in base form after 'did'.",
+  "words": [
+   "interview",
+   "college"
+  ],
+  "usage": "Use it with a friend or relative who has just faced an interview.",
+  "leelaQ": "How do you prepare for an interview?",
+  "answer": "I practise common questions in front of a mirror."
+ },
+ {
+  "en": "I will take notes during the lecture.",
+  "tamil": "நான் லெக்சர் நேரத்துல நோட்ஸ் எடுப்பேன்.",
+  "context": "Telling a friend who missed class.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'During' is followed by an event. 'Take notes' means write the key points.",
+  "words": [
+   "notes",
+   "lecture"
+  ],
+  "usage": "Use it when a friend asks you to help with class notes.",
+  "leelaQ": "Do you write notes in class?",
+  "answer": "Yes, I write short points in my notebook."
+ },
+ {
+  "en": "The teacher is checking our answer papers now.",
+  "tamil": "டீச்சர் இப்போ நம்ம விடைத்தாள்களை திருத்திட்டு இருக்காங்க.",
+  "context": "Telling a friend waiting for results.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is checking' shows the action is happening at this moment.",
+  "words": [
+   "checking",
+   "answer papers"
+  ],
+  "usage": "Use it with classmates when everyone is waiting for marks.",
+  "leelaQ": "How do you feel while waiting for results?",
+  "answer": "I feel nervous, but I try to stay calm."
+ },
+ {
+  "en": "Can you explain this sum to me once more?",
+  "tamil": "இந்த கணக்கை இன்னொரு தடவை எனக்கு விளக்க முடியுமா?",
+  "context": "Asking a friend for help.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can you ...?' is a polite way to ask for help. 'Once more' means one more time.",
+  "words": [
+   "explain",
+   "once more"
+  ],
+  "usage": "Use it with a friend or a teacher when you did not follow a step.",
+  "leelaQ": "Who explains things best to you?",
+  "answer": "My elder brother explains things best to me."
+ }
+]

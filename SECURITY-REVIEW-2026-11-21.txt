@@ -1,0 +1,25 @@
+LELA PROJECT - STATIC SECURITY REVIEW
+Date: 2026-11-21
+Source archive: Lela-Complete-Project-With-App-Guide.zip
+
+RESULTS
+- ZIP archive integrity test: PASS (all entries readable; no CRC errors).
+- Archive entries: 726.
+- No packaged Windows executable, installer, Android APK, Java archive, native shared library, keystore, PEM/private-key, or .env file was found by filename/extension inspection.
+- Static source search found no use of eval(), new Function(), child_process, execSync, or spawn() in the scanned app source.
+- Network requests found in the source were to the public dictionaryapi.dev and MyMemory translation API; service-worker fetch calls load/cache the app's own resources and handle normal network requests.
+- Android setup script adds RECORD_AUDIO and INTERNET permissions and speech/TTS service visibility queries. RECORD_AUDIO is consistent with the app's speech practice feature.
+- Automated data tests: PASS, 9 tests.
+- Data validation command `node scripts/build-data.mjs --check`: PASS; reported 8,019 vocabulary entries and 3,640 sentence entries (plus grammar, roleplays and expressions).
+
+LIMITATIONS
+- This is a static source/archive review, not a full antivirus scan and not a malware-free certification.
+- VirusTotal and Microsoft Defender were not run against this ZIP by this review.
+- npm dependency vulnerability audit was not run; dependency packages were not installed as part of this review.
+- An Android APK was not built from this archive in this review.
+- Static analysis cannot rule out unknown, obfuscated, or runtime-only malicious behavior.
+
+SAFE HANDLING
+- Keep Microsoft Defender, Chrome Safe Browsing, and Google Play Protect enabled.
+- Do not include signing keystores or passwords in the source ZIP or public Git repository.
+- Review any future Defender/Chrome detection by its exact threat name and file path before deciding whether it is a false positive.

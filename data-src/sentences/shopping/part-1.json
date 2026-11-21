@@ -1,0 +1,269 @@
+[
+ {
+  "en": "Can you give me a little discount on this?",
+  "tamil": "இதுல கொஞ்சம் தள்ளுபடி தர முடியுமா?",
+  "context": "Asking a shopkeeper for a lower price.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "Can you ...? is a polite way to ask. 'A little' makes the request softer.",
+  "words": [
+   "discount"
+  ],
+  "alt": {
+   "en": "Could you reduce the price a bit?",
+   "tamil": "விலையை கொஞ்சம் குறைக்க முடியுமா?"
+  }
+ },
+ {
+  "en": "This is too expensive, I will not pay that much.",
+  "tamil": "இது ரொம்ப விலை அதிகம், அவ்வளவு கொடுக்க மாட்டேன்.",
+  "context": "Refusing a high price while bargaining.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Too' means more than is good. 'Will not' shows a firm decision.",
+  "words": [
+   "expensive",
+   "pay"
+  ]
+ },
+ {
+  "en": "What is your last price for two shirts?",
+  "tamil": "ரெண்டு சட்டைக்கு உங்க கடைசி விலை என்ன?",
+  "context": "Final bargaining question in a market.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Last price' is common Indian English for the lowest price. It is a natural thing to say while bargaining.",
+  "words": [
+   "price",
+   "shirts"
+  ]
+ },
+ {
+  "en": "If you give it for four hundred, I will take both.",
+  "tamil": "நானூறுக்கு குடுத்தா ரெண்டையும் எடுத்துக்கறேன்.",
+  "context": "Making an offer to the seller.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "This is an if-sentence. After 'if' we use the present tense, and the result uses 'will'.",
+  "words": [
+   "both",
+   "take"
+  ],
+  "alt": {
+   "en": "I will take both if you make it four hundred.",
+   "tamil": "நானூறு ஆக்கினா ரெண்டையும் எடுத்துக்கறேன்."
+  }
+ },
+ {
+  "en": "Please show me the same shirt in medium size.",
+  "tamil": "இதே சட்டையை மீடியம் சைஸ்ல காட்டுங்க.",
+  "context": "Asking a salesperson for another size.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' plus a base verb makes a polite request. 'In medium size' tells the size you want.",
+  "words": [
+   "show",
+   "medium"
+  ]
+ },
+ {
+  "en": "Do you have this in a bigger size?",
+  "tamil": "இது பெரிய சைஸ்ல இருக்கா?",
+  "context": "Looking for a larger size in a clothes shop.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you have...?' is the usual way to ask if a shop has something. 'Bigger' compares two sizes.",
+  "words": [
+   "bigger",
+   "size"
+  ],
+  "alt": {
+   "en": "Is this available in large?",
+   "tamil": "இது லார்ஜ்ல கிடைக்குமா?"
+  }
+ },
+ {
+  "en": "The trial room is on the second floor.",
+  "tamil": "டிரயல் ரூம் ரெண்டாவது மாடில இருக்கு.",
+  "context": "Telling someone where to try clothes.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Trial room' is what Indians usually call the changing room. We use 'on' with floors.",
+  "words": [
+   "trial",
+   "floor"
+  ]
+ },
+ {
+  "en": "This kurta is a little tight around the shoulders.",
+  "tamil": "இந்த குர்தா தோள்ல கொஞ்சம் இறுக்கமா இருக்கு.",
+  "context": "Telling the seller that the fit is not right.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'A little' makes the complaint gentle. 'Tight' is the opposite of loose.",
+  "words": [
+   "kurta",
+   "tight"
+  ]
+ },
+ {
+  "en": "I have been looking for a good pair of sandals all day.",
+  "tamil": "நாள் முழுக்க நல்ல செருப்பு ஒரு ஜோடி தேடிக்கிட்டு இருக்கேன்.",
+  "context": "Complaining after a long day of shopping.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been looking' shows an action that started earlier and is still going on. 'A pair of' is used for sandals and shoes.",
+  "words": [
+   "sandals",
+   "looking"
+  ]
+ },
+ {
+  "en": "We went to the mall yesterday, but nothing was on sale.",
+  "tamil": "நேத்து மால் போனோம், ஆனா எதுவும் தள்ளுபடியில இல்ல.",
+  "context": "Telling a friend about a shopping trip.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Went' and 'was' are past tense. 'On sale' means sold at a lower price.",
+  "words": [
+   "mall",
+   "sale"
+  ]
+ },
+ {
+  "en": "Is there a food court in this mall?",
+  "tamil": "இந்த மால்ல ஃபுட் கோர்ட் இருக்கா?",
+  "context": "Asking about eating places inside a mall.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there...?' asks if something exists in a place. 'In this mall' tells the place.",
+  "words": [
+   "food",
+   "court"
+  ]
+ },
+ {
+  "en": "Let us meet near the parking lot at six.",
+  "tamil": "ஆறு மணிக்கு பார்க்கிங் பக்கத்துல சந்திக்கலாம்.",
+  "context": "Fixing a meeting point at the mall.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let us' is used to suggest a plan together. 'Near' means close to a place.",
+  "words": [
+   "meet",
+   "parking"
+  ]
+ },
+ {
+  "en": "The vegetable seller always gives me extra coriander.",
+  "tamil": "காய்கறிக்காரர் எப்பவும் எனக்கு கூடுதலா கொத்தமல்லி தருவார்.",
+  "context": "Talking about a friendly market seller.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Always' with a present verb shows a habit. 'Extra' means more than normal.",
+  "words": [
+   "vegetable",
+   "coriander"
+  ]
+ },
+ {
+  "en": "Tomatoes are costing sixty rupees a kilo these days.",
+  "tamil": "இப்போ தக்காளி கிலோ அறுபது ரூபாய் ஆகுது.",
+  "context": "Complaining about rising vegetable prices.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'These days' goes with the present continuous for a changing situation. 'A kilo' means for each kilo.",
+  "words": [
+   "tomatoes",
+   "kilo"
+  ]
+ },
+ {
+  "en": "Please weigh it again, I think it is less.",
+  "tamil": "தயவுசெஞ்சு மறுபடி எடை போடுங்க, குறைவா இருக்குன்னு நினைக்கிறேன்.",
+  "context": "Doubting the weight of what you bought.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Again' means one more time. 'I think' makes the doubt polite.",
+  "words": [
+   "weigh",
+   "less"
+  ]
+ },
+ {
+  "en": "I do not need a bag, I brought my own.",
+  "tamil": "எனக்கு பை வேண்டாம், நானே கொண்டு வந்திருக்கேன்.",
+  "context": "Refusing a plastic bag at the counter.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Do not need' refuses politely. 'Brought' is the past of 'bring'.",
+  "words": [
+   "bag",
+   "brought"
+  ]
+ },
+ {
+  "en": "Will you please keep the change for the next time?",
+  "tamil": "அடுத்த தடவைக்கு மீதி சில்லறையை வச்சுக்குங்களேன்?",
+  "context": "Asking a shopkeeper to adjust a small balance later.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will you please' is a very polite request. Here 'change' means the money returned to you.",
+  "words": [
+   "keep",
+   "change"
+  ]
+ },
+ {
+  "en": "I will pay by UPI, is that fine?",
+  "tamil": "நான் யூபிஐ-ல பணம் கட்டுறேன், பரவாயில்லையா?",
+  "context": "Asking whether digital payment is accepted.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'By UPI' tells the method of payment. We say 'pay by' card, cash or UPI.",
+  "words": [
+   "pay",
+   "fine"
+  ],
+  "alt": {
+   "en": "Do you take UPI?",
+   "tamil": "நீங்க யூபிஐ ஏத்துக்குவீங்களா?"
+  }
+ },
+ {
+  "en": "The payment failed, but my money got deducted.",
+  "tamil": "பேமென்ட் தோல்வியாச்சு, ஆனா பணம் கழிஞ்சிடுச்சு.",
+  "context": "Complaining about a failed online payment.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Got deducted' is a common spoken way to say money was taken from your account.",
+  "words": [
+   "payment",
+   "deducted"
+  ]
+ },
+ {
+  "en": "Don't share your OTP with anyone.",
+  "tamil": "உங்க ஓடிபியை யாருகிட்டயும் சொல்லாதீங்க.",
+  "context": "Warning a friend about safe online payment.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't' plus a base verb gives a warning or an order. 'Anyone' means any person at all.",
+  "words": [
+   "share",
+   "anyone"
+  ]
+ },
+ {
+  "en": "Can I get a bill for this, please?",
+  "tamil": "இதுக்கு ஒரு பில் கிடைக்குமா?",
+  "context": "Asking for a bill at the counter.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can I get...?' is a simple polite request. A bill is the written proof of your purchase.",
+  "words": [
+   "bill",
+   "please"
+  ]
+ }
+]

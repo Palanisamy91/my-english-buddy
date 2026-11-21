@@ -1,0 +1,376 @@
+[
+ {
+  "en": "My father reads the newspaper slowly while he drinks his tea.",
+  "tamil": "எங்க அப்பா டீ குடிச்சுக்கிட்டே மெதுவா பேப்பர் படிப்பார்.",
+  "context": "Describing your father's morning habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Reads' has -s because 'my father' is one person. 'With his tea' shows the time.",
+  "words": [
+   "reads",
+   "tea"
+  ],
+  "usage": "Use it when you describe your family to a new friend.",
+  "leelaQ": "What does your father or mother do in the morning?",
+  "answer": "My mother makes tea and my father reads the news."
+ },
+ {
+  "en": "Is there any hot water in the bathroom?",
+  "tamil": "பாத்ரூம்ல வெந்நீர் இருக்கா?",
+  "context": "Asking at home before a bath.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there any ...?' asks if something is available. Use it for things you cannot count.",
+  "words": [
+   "hot water",
+   "bathroom"
+  ],
+  "usage": "Use it at home on a cold morning or in a lodge.",
+  "leelaQ": "Do you take a hot bath or a cold bath?",
+  "answer": "I take a hot bath in winter and cold in summer."
+ },
+ {
+  "en": "I didn't sleep well last night.",
+  "tamil": "நேத்து ராத்திரி எனக்கு சரியா தூக்கம் வரல.",
+  "context": "Telling a colleague why you look tired.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Didn't' + base verb is the negative past. 'Well' is an adverb here.",
+  "words": [
+   "sleep",
+   "last night"
+  ],
+  "usage": "Use it at work when someone says you look tired.",
+  "leelaQ": "How do you feel when you do not sleep well?",
+  "answer": "I feel tired and cannot focus on my work."
+ },
+ {
+  "en": "The cook comes at ten and leaves by twelve.",
+  "tamil": "சமையல்காரம்மா பத்து மணிக்கு வந்து பன்னிரண்டுக்குள்ள போய்டுவாங்க.",
+  "context": "Explaining the house help's timings to a relative.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Two verbs joined with 'and' share the same subject. Present simple shows a fixed routine.",
+  "words": [
+   "cook",
+   "leaves"
+  ],
+  "usage": "Use it when you tell someone your home schedule.",
+  "leelaQ": "Does someone help you with the work at home?",
+  "answer": "Yes, a helper comes every morning to clean."
+ },
+ {
+  "en": "Put your dirty clothes in the basket, not on the floor.",
+  "tamil": "அழுக்கு துணிகளை தரையில போடாம கூடையில போடு.",
+  "context": "A mother correcting a child.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Not on the floor' corrects the habit. Use a comma before the 'not' part.",
+  "words": [
+   "dirty clothes",
+   "basket"
+  ],
+  "usage": "Use it at home to teach children to keep the room clean.",
+  "leelaQ": "Do you keep your room clean and tidy?",
+  "answer": "Yes, I clean my room every Saturday."
+ },
+ {
+  "en": "Are you coming home for lunch today?",
+  "tamil": "இன்னைக்கு மதியம் சாப்பாட்டுக்கு வீட்டுக்கு வர்றியா?",
+  "context": "A wife asking her husband on the phone.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Are you coming' asks about a near plan. It sounds natural on a phone call.",
+  "words": [
+   "lunch"
+  ],
+  "usage": "Use it on a phone call to plan the day's meals.",
+  "leelaQ": "Where do you have lunch on workdays?",
+  "answer": "I have lunch in the office canteen."
+ },
+ {
+  "en": "I usually reach home by half past six.",
+  "tamil": "நான் பொதுவா ஆறரை மணிக்குள்ள வீட்டுக்கு வந்துடுவேன்.",
+  "context": "Telling a friend your regular return time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Half past six' means 6:30. 'By' means not later than that time.",
+  "words": [
+   "reach",
+   "half past six"
+  ],
+  "usage": "Use it when you plan a visit or phone call after work.",
+  "leelaQ": "What time do you reach home after work?",
+  "answer": "I reach home around seven in the evening."
+ },
+ {
+  "en": "We had a power cut, so we ate dinner outside.",
+  "tamil": "கரண்ட் கட் ஆனதால நாங்க வெளியே சாப்பிட்டோம்.",
+  "context": "Telling a friend about an evening at home.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'So' joins a reason and its result. 'Had' is the past of 'have'.",
+  "words": [
+   "power cut",
+   "outside"
+  ],
+  "usage": "Use it to explain a change in your normal routine.",
+  "leelaQ": "What did you do the last time the power went off?",
+  "answer": "We sat outside and talked until the power came back."
+ },
+ {
+  "en": "Remember to set the alarm for five thirty.",
+  "tamil": "அலாரத்தை அஞ்சரை மணிக்கு செட் பண்ண ஞாபகம் வெச்சுக்கோ.",
+  "context": "Reminding a family member at night.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Remember to' + verb reminds someone to do a future task.",
+  "words": [
+   "alarm",
+   "remember"
+  ],
+  "usage": "Use it at night before an early morning.",
+  "leelaQ": "Do you set more than one alarm in the morning?",
+  "answer": "Yes, I set two alarms so I do not oversleep."
+ },
+ {
+  "en": "Mondays are always the busiest day for me.",
+  "tamil": "திங்கள்கிழமை எனக்கு எப்பவுமே ரொம்ப பிஸியா இருக்கும்.",
+  "context": "Talking about your weekly routine to a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'The busiest' is the superlative form. It compares one day with all the others.",
+  "words": [
+   "busiest",
+   "always"
+  ],
+  "usage": "Use it when you explain why you have little free time.",
+  "leelaQ": "Which day of the week is the busiest for you?",
+  "answer": "Mondays are busy because of the weekly meeting."
+ },
+ {
+  "en": "Why don't you take the metro instead of driving?",
+  "tamil": "நீ கார் ஓட்டுறதுக்கு பதிலா மெட்ரோவுல போகலாமே?",
+  "context": "Suggesting a better way to travel to a friend.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Why don't you ...?' is a friendly suggestion. 'Instead of' + -ing shows another choice.",
+  "words": [
+   "metro",
+   "instead of"
+  ],
+  "usage": "Use it with a friend who complains about traffic and parking.",
+  "leelaQ": "Do you prefer the metro or the bus?",
+  "answer": "I prefer the metro because it is on time."
+ },
+ {
+  "en": "I will call you after I reach the bus stop.",
+  "tamil": "நான் பஸ் ஸ்டாப்புக்கு போய் சேர்ந்ததும் உனக்கு கால் பண்றேன்.",
+  "context": "Telling your wife you will phone on the way.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "After 'after', use present simple (reach), not 'will reach'. The main sentence uses 'will'.",
+  "words": [
+   "reach",
+   "bus stop"
+  ],
+  "usage": "Use it on a call when you are leaving home.",
+  "leelaQ": "What do you do while waiting at the bus stop?",
+  "answer": "I listen to songs on my phone."
+ },
+ {
+  "en": "He doesn't like waking up early on holidays.",
+  "tamil": "விடுமுறை நாள்ல சீக்கிரம் எழுந்திருக்க அவனுக்கு பிடிக்காது.",
+  "context": "Talking about your brother's habit.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Doesn't' goes with 'he'. After 'like', use the -ing form.",
+  "words": [
+   "holidays",
+   "waking up"
+  ],
+  "usage": "Use it when you talk about someone who sleeps late on holidays.",
+  "leelaQ": "What do you do on a holiday morning?",
+  "answer": "I sleep late, then have a slow breakfast."
+ },
+ {
+  "en": "Could you share your auto with me till the signal?",
+  "tamil": "சிக்னல் வரைக்கும் உங்க ஆட்டோவுல வரலாமா?",
+  "context": "Asking a stranger politely for a shared ride.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you ...?' is polite. 'Till the signal' says how far you go.",
+  "words": [
+   "share",
+   "signal"
+  ],
+  "usage": "Use it when you need a shared ride in a busy city.",
+  "leelaQ": "Have you ever shared an auto with a stranger?",
+  "answer": "Yes, I did it once when it was raining heavily."
+ },
+ {
+  "en": "I'm folding the clothes now.",
+  "tamil": "நான் இப்போ துணிகளை மடிச்சுட்டு இருக்கேன்.",
+  "context": "Telling someone you are busy at the moment.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'I'm folding' shows an action happening now. Use it to explain you are busy.",
+  "words": [
+   "folding",
+   "clothes"
+  ],
+  "usage": "Use it on a call when someone asks what you are doing.",
+  "leelaQ": "What are you doing right now?",
+  "answer": "I am answering your question and drinking tea."
+ },
+ {
+  "en": "Have you taken your tablets after food?",
+  "tamil": "சாப்பாட்டுக்கு அப்புறம் மாத்திரை போட்டியா?",
+  "context": "Asking an elderly parent about medicine.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you taken' asks if it is done. 'After food' is common Indian English.",
+  "words": [
+   "tablets",
+   "after food"
+  ],
+  "usage": "Use it with an elder at home to take care of their health.",
+  "leelaQ": "Do you take any medicine every day?",
+  "answer": "I take a vitamin tablet after breakfast."
+ },
+ {
+  "en": "Our lift is not working, so we use the stairs.",
+  "tamil": "எங்க லிஃப்ட் வேலை செய்யல, அதனால படியில ஏறுறோம்.",
+  "context": "Explaining an apartment problem to a visitor.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Is not working' says it is out of order. 'Stairs' are the steps.",
+  "words": [
+   "lift",
+   "stairs"
+  ],
+  "usage": "Use it in an apartment when a guest asks about the lift.",
+  "leelaQ": "Do you live in a house or an apartment?",
+  "answer": "I live in an apartment on the third floor."
+ },
+ {
+  "en": "I like to relax with a cup of tea in the evening.",
+  "tamil": "சாயங்காலம் ஒரு கப் டீயோட ரிலாக்ஸ் பண்ண எனக்கு பிடிக்கும்.",
+  "context": "Telling a friend about your evening habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Like to' + verb talks about something you enjoy. 'With a cup of tea' is a common phrase.",
+  "words": [
+   "relax",
+   "evening"
+  ],
+  "usage": "Use it when someone asks what you do after work.",
+  "leelaQ": "How do you relax after a long day?",
+  "answer": "I listen to old Tamil songs with a cup of tea."
+ },
+ {
+  "en": "Where did you keep the iron box?",
+  "tamil": "அயர்ன் பாக்ஸை எங்க வெச்ச?",
+  "context": "Looking for something at home.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Where did you ...?' asks about a past action and a place. Use 'keep' without -ed after 'did'.",
+  "words": [
+   "iron box",
+   "keep"
+  ],
+  "usage": "Use it at home when you cannot find something.",
+  "leelaQ": "Can you find things easily in your house?",
+  "answer": "Yes, because everything has a fixed place."
+ },
+ {
+  "en": "Tomorrow I'll wake up early and go for a run.",
+  "tamil": "நாளைக்கு நான் சீக்கிரம் எழுந்து ஓடப் போறேன்.",
+  "context": "Making a personal promise to a friend.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll' shows a promise or decision made now. 'Go for a run' is a common phrase.",
+  "words": [
+   "wake up",
+   "run"
+  ],
+  "usage": "Use it when you decide to start a healthy habit.",
+  "leelaQ": "Do you exercise in the morning?",
+  "answer": "No, but I plan to start next week."
+ },
+ {
+  "en": "Please do not wait for me, start eating.",
+  "tamil": "எனக்காக காத்திருக்காதீங்க, சாப்பிட ஆரம்பிங்க.",
+  "context": "Telling the family to eat without you.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "A polite negative command and a positive command. 'Start eating' means begin the meal.",
+  "words": [
+   "wait",
+   "start"
+  ],
+  "usage": "Use it on a call when you will reach home late.",
+  "leelaQ": "Do you wait for everyone before you eat?",
+  "answer": "Yes, we like to eat together as a family."
+ },
+ {
+  "en": "The tiffin box is in your bag.",
+  "tamil": "டிபன் பாக்ஸ் உன் பேக்குல இருக்கு.",
+  "context": "A mother telling her child at the school gate.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Is in' tells the place of something. 'Tiffin' is a popular Indian word for light food.",
+  "words": [
+   "tiffin",
+   "bag"
+  ],
+  "usage": "Use it when you remind a child about the food they carry.",
+  "leelaQ": "What does your child carry for lunch?",
+  "answer": "My child carries rice and vegetables."
+ },
+ {
+  "en": "It is raining, so I'm taking an umbrella.",
+  "tamil": "மழை பெய்யுது, அதனால குடை எடுத்துட்டு போறேன்.",
+  "context": "Getting ready to leave for work in the rain.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Two simple sentences joined with 'so'. 'I'm taking' shows a plan right now.",
+  "words": [
+   "raining",
+   "umbrella"
+  ],
+  "usage": "Use it at the door when you see rain outside.",
+  "leelaQ": "What do you take with you when it rains?",
+  "answer": "I take an umbrella and wear a raincoat."
+ },
+ {
+  "en": "Do you want me to drop you at the bus stand?",
+  "tamil": "உன்னை பஸ் ஸ்டாண்டுல விடணுமா?",
+  "context": "Offering a lift to a relative.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you want me to ...?' offers help politely. 'Bus stand' is common Indian English.",
+  "words": [
+   "drop",
+   "bus stand"
+  ],
+  "usage": "Use it with a guest or relative who is leaving.",
+  "leelaQ": "Do you often help others by giving them a lift?",
+  "answer": "Yes, I give my neighbour a lift to the station."
+ },
+ {
+  "en": "He had not finished his bath, so we waited.",
+  "tamil": "அவன் குளிச்சு முடிக்கல, அதனால நாங்க காத்திருந்தோம்.",
+  "context": "Explaining why you left late with your family.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Had not finished' shows one past action was not complete before another one.",
+  "words": [
+   "finished",
+   "waited"
+  ],
+  "usage": "Use it to explain a delay caused by someone at home.",
+  "leelaQ": "Do you wait for family members when you go out?",
+  "answer": "Yes, we always leave together."
+ }
+]

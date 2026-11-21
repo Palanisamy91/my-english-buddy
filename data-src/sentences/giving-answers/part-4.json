@@ -1,0 +1,374 @@
+[
+ {
+  "en": "No, I have never tried that dish.",
+  "tamil": "இல்ல, நான் அந்த உணவை இதுவரை சாப்பிட்டதே இல்ல.",
+  "context": "Answering about food you have not tasted.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Never' with present perfect means not even once in your life.",
+  "words": [
+   "never",
+   "dish"
+  ],
+  "usage": "Use it when a host or friend asks if you have eaten a special dish.",
+  "leelaQ": "Have you ever tasted Chettinad chicken?",
+  "answer": "No, I have never tried it, but I want to."
+ },
+ {
+  "en": "The movie starts at seven, so we should leave by six.",
+  "tamil": "படம் ஏழு மணிக்கு ஆரம்பிக்கும், அதனால நாம ஆறு மணிக்கு கிளம்பணும்.",
+  "context": "Giving the time and the advice together.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Should' gives advice. 'So' joins the reason and the advice.",
+  "words": [
+   "starts",
+   "leave"
+  ],
+  "usage": "Use it with friends when they ask about the movie time.",
+  "leelaQ": "What time should we leave for the movie?",
+  "answer": "We should leave by six to reach on time."
+ },
+ {
+  "en": "Sorry, what was the last part of your question?",
+  "tamil": "மன்னிக்கணும், உங்க கேள்வியோட கடைசி பகுதி என்ன?",
+  "context": "Asking someone to repeat part of a question.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Say sorry and ask about only the part you missed.",
+  "words": [
+   "sorry",
+   "last part"
+  ],
+  "usage": "Use it in an interview or meeting when you missed a few words.",
+  "leelaQ": "What do you say if you miss part of a question?",
+  "answer": "I say, sorry, can you repeat the last part?"
+ },
+ {
+  "en": "Yes, my sister is getting married next month.",
+  "tamil": "ஆமா, என் தங்கச்சிக்கு அடுத்த மாசம் கல்யாணம்.",
+  "context": "Sharing good family news.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous can talk about a fixed future plan, like a wedding.",
+  "words": [
+   "sister",
+   "married"
+  ],
+  "usage": "Use it when a friend asks if there is any news at your home.",
+  "leelaQ": "Is there any good news in your family?",
+  "answer": "Yes, my sister is getting married next month."
+ },
+ {
+  "en": "I enjoy cooking, especially on Sunday afternoons.",
+  "tamil": "எனக்கு சமைக்க பிடிக்கும், முக்கியமா ஞாயிற்றுக்கிழமை மதியம்.",
+  "context": "Answering about your hobby.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Especially' adds a special detail to a general answer.",
+  "words": [
+   "enjoy",
+   "especially"
+  ],
+  "usage": "Use it when someone asks about your hobbies.",
+  "leelaQ": "What do you enjoy doing in your free time?",
+  "answer": "I enjoy reading, especially story books."
+ },
+ {
+  "en": "I reached home at nine, and then I had dinner.",
+  "tamil": "நான் ஒன்பது மணிக்கு வீட்டுக்கு வந்தேன், அப்புறம் சாப்பிட்டேன்.",
+  "context": "Describing last night in order.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'And then' joins two past actions in the order they happened.",
+  "words": [
+   "reached",
+   "dinner"
+  ],
+  "usage": "Use it when someone asks what you did after work.",
+  "leelaQ": "What did you do after work yesterday?",
+  "answer": "I reached home, and then I watched a movie."
+ },
+ {
+  "en": "Will that be enough for you?",
+  "tamil": "அது உங்களுக்கு போதுமா இருக்குமா?",
+  "context": "Checking if your answer or amount is enough.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will that be enough' checks if the other person needs more.",
+  "words": [
+   "enough"
+  ],
+  "usage": "Use it after giving a short answer, an amount or a time.",
+  "leelaQ": "What do you ask after you give someone a short answer?",
+  "answer": "I ask, will that be enough for you?"
+ },
+ {
+  "en": "It is a long story, but I will tell you later.",
+  "tamil": "அது ஒரு பெரிய கதை, ஆனா அப்புறம் சொல்றேன்.",
+  "context": "Postponing a long answer.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Long story' is a common way to say the answer needs time.",
+  "words": [
+   "story",
+   "later"
+  ],
+  "usage": "Use it when a friend asks a big question while you are busy.",
+  "leelaQ": "How do you reply if a long story needs time?",
+  "answer": "It is a long story, but I will tell you later."
+ },
+ {
+  "en": "Can you give me some time to answer?",
+  "tamil": "நான் பதில் சொல்ல கொஞ்சம் டைம் தர முடியுமா?",
+  "context": "Asking for time to answer.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Some time' is a small, polite request for more time.",
+  "words": [
+   "time",
+   "answer"
+  ],
+  "usage": "Use it with a manager or interviewer when you need more time.",
+  "leelaQ": "What do you ask when you need more time to answer?",
+  "answer": "Can you give me some time to answer?"
+ },
+ {
+  "en": "No, thanks, I am not hungry right now.",
+  "tamil": "வேண்டாம், நன்றி, எனக்கு இப்போ பசிக்கல.",
+  "context": "Politely refusing food.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'No, thanks' plus a reason is a polite way to refuse.",
+  "words": [
+   "thanks",
+   "hungry"
+  ],
+  "usage": "Use it when a host offers you more food or a snack.",
+  "leelaQ": "Would you like some snacks with your tea?",
+  "answer": "No, thanks, I am not hungry right now."
+ },
+ {
+  "en": "How much detail do you need?",
+  "tamil": "உங்களுக்கு எவ்வளவு விவரம் வேணும்?",
+  "context": "Asking how long your answer should be.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How much' with an uncountable noun like detail asks about the amount.",
+  "words": [
+   "detail",
+   "need"
+  ],
+  "usage": "Use it when a manager or client asks for a report or an update.",
+  "leelaQ": "What do you ask a manager before preparing a report?",
+  "answer": "I ask, how much detail do you need?"
+ },
+ {
+  "en": "Could you ask me that again, please?",
+  "tamil": "அதை நீங்க மறுபடியும் கேட்க முடியுமா?",
+  "context": "Politely asking for the question again.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could you ... again, please?' is a polite way to ask someone to repeat.",
+  "words": [
+   "again",
+   "please"
+  ],
+  "usage": "Use it when you did not hear or understand the question properly.",
+  "leelaQ": "What do you say if you did not hear a question?",
+  "answer": "I say, could you ask me that again, please?"
+ },
+ {
+  "en": "Please do not mind if I answer late.",
+  "tamil": "நான் லேட்டா பதில் சொன்னா தப்பா எடுத்துக்காதீங்க.",
+  "context": "Asking for understanding about a delay.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Do not mind' is common in India for 'please do not feel bad'.",
+  "words": [
+   "mind",
+   "late"
+  ],
+  "usage": "Use it with a friend or a client when you are very busy.",
+  "leelaQ": "What do you say if you will reply late to a message?",
+  "answer": "Please do not mind if I reply late."
+ },
+ {
+  "en": "I haven't seen him since this morning.",
+  "tamil": "இன்னைக்கு காலையில இருந்து நான் அவரைப் பார்க்கல.",
+  "context": "Answering when someone asks where a person is.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Since' gives the starting point of the time you did not see him.",
+  "words": [
+   "seen",
+   "since"
+  ],
+  "usage": "Use it when a colleague asks if you know where another person is.",
+  "leelaQ": "Have you seen Ramesh anywhere today?",
+  "answer": "No, I haven't seen him since this morning."
+ },
+ {
+  "en": "Is this what you wanted?",
+  "tamil": "நீங்க கேட்டது இதுதானா?",
+  "context": "Checking if your answer or work is right.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'What you wanted' is a noun clause. It checks if the result is right.",
+  "words": [
+   "wanted"
+  ],
+  "usage": "Use it when you give someone a document, a dish or an answer.",
+  "leelaQ": "What do you ask after you give a customer what they ordered?",
+  "answer": "I ask, is this what you wanted?"
+ },
+ {
+  "en": "Do you want the short version?",
+  "tamil": "உங்களுக்கு சுருக்கமா சொல்லணுமா?",
+  "context": "Offering a quick answer.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Short version' means a quick summary. It is a friendly phrase.",
+  "words": [
+   "short",
+   "version"
+  ],
+  "usage": "Use it when a busy person asks about a long story.",
+  "leelaQ": "What do you say when a story is long and a friend is busy?",
+  "answer": "I ask, do you want the short version?"
+ },
+ {
+  "en": "Kindly reply to my email by Friday.",
+  "tamil": "தயவு செஞ்சு வெள்ளிக்கிழமைக்குள்ள என் இமெயிலுக்கு பதில் சொல்லுங்க.",
+  "context": "Asking for an answer by a deadline.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Kindly' is a very polite word for formal emails in India.",
+  "words": [
+   "kindly",
+   "reply"
+  ],
+  "usage": "Use it in a work email or message to ask for a reply.",
+  "leelaQ": "How do you ask a client to reply by a certain day?",
+  "answer": "Kindly reply to my email by Friday."
+ },
+ {
+  "en": "Am I answering your question properly?",
+  "tamil": "நான் உங்க கேள்விக்கு சரியா பதில் சொல்றேனா?",
+  "context": "Checking during a long answer.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous checks what you are doing right now.",
+  "words": [
+   "answering",
+   "properly"
+  ],
+  "usage": "Use it in the middle of a long answer at an interview or class.",
+  "leelaQ": "What do you ask in the middle of a long answer?",
+  "answer": "I ask, am I answering your question properly?"
+ },
+ {
+  "en": "Who told you that?",
+  "tamil": "அதை உங்களுக்கு யார் சொன்னாங்க?",
+  "context": "Asking a friend about the source.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Who told you' asks the source of a news or rumour.",
+  "words": [
+   "told"
+  ],
+  "usage": "Use it when a friend repeats news that surprises you.",
+  "leelaQ": "What do you ask when you hear a surprising news?",
+  "answer": "I ask, who told you that?"
+ },
+ {
+  "en": "Just say yes or no, please.",
+  "tamil": "தயவு செஞ்சு ஆமா இல்ல இல்லன்னு மட்டும் சொல்லுங்க.",
+  "context": "Asking for a short answer.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Just' makes the request light and friendly. It asks for a short answer.",
+  "words": [
+   "yes",
+   "no"
+  ],
+  "usage": "Use it when someone gives a long answer and you need a quick decision.",
+  "leelaQ": "What do you say if you need a quick answer?",
+  "answer": "Please just say yes or no."
+ },
+ {
+  "en": "Are you going to ask me more questions?",
+  "tamil": "நீங்க இன்னும் கேள்வி கேட்கப் போறீங்களா?",
+  "context": "Checking if the questioning will go on.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Going to' asks about the plan of the other person.",
+  "words": [
+   "going",
+   "questions"
+  ],
+  "usage": "Use it in a friendly way when a person asks many questions in a row.",
+  "leelaQ": "How do you ask if a friend has more questions?",
+  "answer": "I ask, are you going to ask me more questions?"
+ },
+ {
+  "en": "What do you think about my answer?",
+  "tamil": "என் பதிலைப் பத்தி நீங்க என்ன நினைக்கிறீங்க?",
+  "context": "Asking for feedback.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What do you think about' asks for an opinion.",
+  "words": [
+   "think",
+   "answer"
+  ],
+  "usage": "Use it with a teacher, friend or senior after you answer.",
+  "leelaQ": "What do you ask a teacher after your English answer?",
+  "answer": "I ask, what do you think about my answer?"
+ },
+ {
+  "en": "Please be honest and tell me what you think.",
+  "tamil": "தயவு செஞ்சு உண்மையா சொல்லுங்க, உங்க கருத்து என்ன?",
+  "context": "Asking for an honest opinion.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Two imperatives joined by 'and' ask for an honest answer.",
+  "words": [
+   "honest",
+   "think"
+  ],
+  "usage": "Use it with a friend when you want real feedback.",
+  "leelaQ": "How do you ask a friend for honest feedback?",
+  "answer": "Please be honest and tell me what you think."
+ },
+ {
+  "en": "Please give me a quick yes or no answer.",
+  "tamil": "தயவு செஞ்சு சீக்கிரம் ஆமா இல்ல இல்லன்னு பதில் சொல்லுங்க.",
+  "context": "Asking for a fast answer politely.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Quick' tells the other person you need the answer soon.",
+  "words": [
+   "quick",
+   "answer"
+  ],
+  "usage": "Use it at work when a decision is needed urgently.",
+  "leelaQ": "What do you say to a manager when you need a decision now?",
+  "answer": "Please give me a quick answer."
+ },
+ {
+  "en": "Could you answer in a few words, please?",
+  "tamil": "கொஞ்சம் வார்த்தையில பதில் சொல்ல முடியுமா?",
+  "context": "Asking for a brief answer.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'In a few words' means briefly.",
+  "words": [
+   "few words",
+   "answer"
+  ],
+  "usage": "Use it as a teacher or interviewer when time is short.",
+  "leelaQ": "What do you say when time is short and you need a brief answer?",
+  "answer": "Could you answer in a few words, please?"
+ }
+]

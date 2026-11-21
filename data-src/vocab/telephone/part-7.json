@@ -1,0 +1,431 @@
+[
+ {
+  "word": "unlock",
+  "tamil": "திற, பூட்டு நீக்கு",
+  "pos": "verb",
+  "pron": "un-LOK",
+  "example": "I forgot the pattern and cannot unlock my phone.",
+  "exampleTamil": "நான் பேட்டர்னை மறந்துவிட்டேன், போனைத் திறக்க முடியவில்லை.",
+  "synonyms": [
+   "open"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "porting",
+  "tamil": "எண் மாற்றம் (நிறுவனம் மாறி)",
+  "pos": "noun",
+  "pron": "POR-ting",
+  "example": "Porting my number to another network took two days.",
+  "exampleTamil": "என் எண்ணை வேறு நெட்வொர்க்குக்கு மாற்ற இரண்டு நாட்கள் ஆனது.",
+  "synonyms": [
+   "number transfer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "credit",
+  "tamil": "கணக்கில் வரவு",
+  "pos": "noun",
+  "pron": "KRED-it",
+  "example": "The credit will appear on your next bill.",
+  "exampleTamil": "அந்த வரவு உங்கள் அடுத்த பில்லில் தெரியும்.",
+  "synonyms": [
+   "balance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "autopay",
+  "tamil": "தானியங்கிக் கட்டணம்",
+  "pos": "noun",
+  "pron": "AW-toh-pay",
+  "example": "I set up autopay so I never miss a due date.",
+  "exampleTamil": "கெடு தேதியை தவறவிடாமல் இருக்க தானியங்கிக் கட்டணம் அமைத்தேன்.",
+  "synonyms": [
+   "auto-debit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fault",
+  "tamil": "கோளாறு",
+  "pos": "noun",
+  "pron": "FAWLT",
+  "example": "We have logged a fault on your broadband line.",
+  "exampleTamil": "உங்கள் பிராட்பேண்ட் இணைப்பில் கோளாறு என பதிவு செய்துள்ளோம்.",
+  "synonyms": [
+   "defect",
+   "malfunction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "press",
+  "tamil": "அழுத்து",
+  "pos": "verb",
+  "pron": "PRES",
+  "example": "Press one for English and two for Tamil.",
+  "exampleTamil": "ஆங்கிலத்துக்கு ஒன்றையும் தமிழுக்கு இரண்டையும் அழுத்துங்கள்.",
+  "synonyms": [
+   "push",
+   "tap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "prompt",
+  "tamil": "குரல் வழிகாட்டி",
+  "pos": "noun",
+  "pron": "PROMPT",
+  "example": "Follow the voice prompt to check your balance.",
+  "exampleTamil": "இருப்பைப் பார்க்க குரல் வழிகாட்டியைப் பின்பற்றுங்கள்.",
+  "synonyms": [
+   "instruction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "automated",
+  "tamil": "தானியங்கி",
+  "pos": "adjective",
+  "pron": "AW-tuh-may-tid",
+  "example": "This is an automated message, so please do not reply.",
+  "exampleTamil": "இது தானியங்கி செய்தி, பதில் அனுப்ப வேண்டாம்.",
+  "synonyms": [
+   "computerised"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recorded",
+  "tamil": "பதிவு செய்யப்பட்ட",
+  "pos": "adjective",
+  "pron": "rih-KOR-did",
+  "example": "A recorded voice asked me to wait for an agent.",
+  "exampleTamil": "பதிவு செய்யப்பட்ட குரல் ஒரு பிரதிநிதிக்காகக் காத்திருக்கச் சொன்னது.",
+  "synonyms": [
+   "taped"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "abrupt",
+  "tamil": "திடீரென்ற",
+  "pos": "adjective",
+  "pron": "uh-BRUPT",
+  "example": "His abrupt ending to the call surprised me.",
+  "exampleTamil": "அவர் அழைப்பை திடீரென முடித்தது என்னை ஆச்சரியப்படுத்தியது.",
+  "synonyms": [
+   "sudden",
+   "curt"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "curt",
+  "tamil": "கடுமையாக, சுருக்கமாக",
+  "pos": "adjective",
+  "pron": "KURT",
+  "example": "She sounded curt because she was in a hurry.",
+  "exampleTamil": "அவசரத்தில் இருந்ததால் அவள் கடுமையாகப் பேசினாள்.",
+  "synonyms": [
+   "brusque"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cordial",
+  "tamil": "நட்புடனான",
+  "pos": "adjective",
+  "pron": "KOR-jul",
+  "example": "We had a cordial chat before discussing the price.",
+  "exampleTamil": "விலையைப் பேசும் முன் நட்புடன் உரையாடினோம்.",
+  "synonyms": [
+   "friendly",
+   "warm"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "identify",
+  "tamil": "அடையாளம் காண்",
+  "pos": "verb",
+  "pron": "eye-DEN-tih-fy",
+  "example": "Please identify yourself before you ask for details.",
+  "exampleTamil": "விவரங்கள் கேட்கும் முன் உங்களை அடையாளப்படுத்துங்கள்.",
+  "synonyms": [
+   "recognise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "consent",
+  "tamil": "ஒப்புதல்",
+  "pos": "noun",
+  "pron": "kun-SENT",
+  "example": "Do I have your consent to record this call?",
+  "exampleTamil": "இந்த அழைப்பைப் பதிவு செய்ய உங்கள் ஒப்புதல் உண்டா?",
+  "synonyms": [
+   "permission"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "uppercase",
+  "tamil": "பெரிய எழுத்து",
+  "pos": "noun",
+  "pron": "UP-ur-kays",
+  "example": "The password starts with an uppercase letter.",
+  "exampleTamil": "கடவுச்சொல் பெரிய எழுத்தில் தொடங்குகிறது.",
+  "synonyms": [
+   "capital letters"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hundred",
+  "tamil": "நூறு",
+  "pos": "noun",
+  "pron": "HUN-drud",
+  "example": "The room number is two hundred and five.",
+  "exampleTamil": "அறை எண் இருநூற்று ஐந்து.",
+  "synonyms": [
+   "100"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "thousand",
+  "tamil": "ஆயிரம்",
+  "pos": "noun",
+  "pron": "THOW-zund",
+  "example": "My plan costs one thousand rupees per year.",
+  "exampleTamil": "என் திட்டத்தின் விலை ஆண்டுக்கு ஆயிரம் ரூபாய்.",
+  "synonyms": [
+   "1000"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ampersand",
+  "tamil": "& குறியீடு",
+  "pos": "noun",
+  "pron": "AM-pur-sand",
+  "example": "The email address has an ampersand in it.",
+  "exampleTamil": "அந்த மின்னஞ்சல் முகவரியில் ஒரு & குறியீடு உள்ளது.",
+  "synonyms": [
+   "and sign"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bracket",
+  "tamil": "அடைப்புக்குறி",
+  "pos": "noun",
+  "pron": "BRAK-it",
+  "example": "Put the area code inside a bracket.",
+  "exampleTamil": "பகுதிக் குறியீட்டை அடைப்புக்குறிக்குள் வையுங்கள்.",
+  "synonyms": [
+   "parenthesis"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "comma",
+  "tamil": "காற்புள்ளி",
+  "pos": "noun",
+  "pron": "KOM-uh",
+  "example": "Type a comma between the two phone numbers.",
+  "exampleTamil": "இரண்டு தொலைபேசி எண்களுக்கு இடையே காற்புள்ளி இடுங்கள்.",
+  "synonyms": [
+   "punctuation mark"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "colon",
+  "tamil": "முக்காற்புள்ளி",
+  "pos": "noun",
+  "pron": "KOH-lun",
+  "example": "Write the time with a colon, like ten thirty.",
+  "exampleTamil": "நேரத்தை முக்காற்புள்ளியுடன் எழுதுங்கள்.",
+  "synonyms": [
+   "punctuation mark"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "apostrophe",
+  "tamil": "மேற்கோள் புள்ளி",
+  "pos": "noun",
+  "pron": "uh-POS-truh-fee",
+  "example": "His surname has an apostrophe after the first letter.",
+  "exampleTamil": "அவரது குடும்பப் பெயரில் முதல் எழுத்துக்குப் பிறகு ஒரு மேற்கோள் புள்ளி உள்ளது.",
+  "synonyms": [
+   "punctuation mark"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "space",
+  "tamil": "இடைவெளி",
+  "pos": "noun",
+  "pron": "SPAYS",
+  "example": "There is a space between the first and last name.",
+  "exampleTamil": "முதல் பெயருக்கும் கடைசி பெயருக்கும் இடையே ஒரு இடைவெளி உள்ளது.",
+  "synonyms": [
+   "gap"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "numeral",
+  "tamil": "எண் குறி",
+  "pos": "noun",
+  "pron": "NOO-mur-ul",
+  "example": "Write the numeral, not the word, on the form.",
+  "exampleTamil": "படிவத்தில் சொல்லை அல்ல, எண்ணை எழுதுங்கள்.",
+  "synonyms": [
+   "number"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mnemonic",
+  "tamil": "நினைவு உத்தி",
+  "pos": "noun",
+  "pron": "nih-MON-ik",
+  "example": "Use a mnemonic to remember the long account number.",
+  "exampleTamil": "நீண்ட கணக்கு எண்ணை நினைவில் வைக்க நினைவு உத்தியைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "memory aid"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ring up",
+  "tamil": "அழை (தொலைபேசியில்)",
+  "pos": "phrasal verb",
+  "pron": "RING-up",
+  "example": "I will ring up the hotel and book a room.",
+  "exampleTamil": "நான் ஹோட்டலை அழைத்து அறை பதிவு செய்கிறேன்.",
+  "synonyms": [
+   "phone",
+   "call"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hold the line",
+  "tamil": "இணைப்பில் காத்திருங்கள்",
+  "pos": "phrase",
+  "pron": "HOHLD-thuh-LYN",
+  "example": "Please hold the line while I check with my manager.",
+  "exampleTamil": "நான் மேலாளரிடம் கேட்கும் வரை இணைப்பில் காத்திருங்கள்.",
+  "synonyms": [
+   "stay on",
+   "wait"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "put on hold",
+  "tamil": "காத்திருப்பில் வை",
+  "pos": "phrase",
+  "pron": "PUT-on-HOHLD",
+  "example": "Sorry, I have to put you on hold for a moment.",
+  "exampleTamil": "மன்னிக்கவும், ஒரு கணம் உங்களைக் காத்திருப்பில் வைக்க வேண்டும்.",
+  "synonyms": [
+   "make wait"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "key in",
+  "tamil": "உள்ளிடு",
+  "pos": "phrasal verb",
+  "pron": "KEE-in",
+  "example": "Key in your account number and press hash.",
+  "exampleTamil": "உங்கள் கணக்கு எண்ணை உள்ளிட்டு ஹாஷ் அழுத்துங்கள்.",
+  "synonyms": [
+   "enter",
+   "type in"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dial out",
+  "tamil": "வெளியே அழை",
+  "pos": "phrasal verb",
+  "pron": "DY-ul-out",
+  "example": "Press nine first if you want to dial out from the office.",
+  "exampleTamil": "அலுவலகத்தில் இருந்து வெளியே அழைக்க முதலில் ஒன்பதை அழுத்துங்கள்.",
+  "synonyms": [
+   "call outside"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pass on",
+  "tamil": "தெரிவித்துவிடு",
+  "pos": "phrasal verb",
+  "pron": "PAS-on",
+  "example": "I will pass on your message to him as soon as he returns.",
+  "exampleTamil": "அவர் திரும்பியவுடன் உங்கள் செய்தியை அவருக்குத் தெரிவிப்பேன்.",
+  "synonyms": [
+   "relay",
+   "forward"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "speak soon",
+  "tamil": "விரைவில் பேசுவோம்",
+  "pos": "phrase",
+  "pron": "SPEEK-SOON",
+  "example": "Thanks for your time, and speak soon.",
+  "exampleTamil": "உங்கள் நேரத்துக்கு நன்றி, விரைவில் பேசுவோம்.",
+  "synonyms": [
+   "talk soon"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "text back",
+  "tamil": "பதில் குறுஞ்செய்தி அனுப்பு",
+  "pos": "phrasal verb",
+  "pron": "TEKST-bak",
+  "example": "I will text back once I leave the meeting.",
+  "exampleTamil": "கூட்டம் முடிந்ததும் பதில் குறுஞ்செய்தி அனுப்புவேன்.",
+  "synonyms": [
+   "reply",
+   "message back"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cut in",
+  "tamil": "இடையில் புகுந்து பேசு",
+  "pos": "phrasal verb",
+  "pron": "KUT-in",
+  "example": "Sorry to cut in, but I have a quick question.",
+  "exampleTamil": "இடையில் பேசுவதற்கு மன்னிக்கவும், ஒரு சிறிய கேள்வி உண்டு.",
+  "synonyms": [
+   "interrupt"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "go ahead",
+  "tamil": "தொடருங்கள், சொல்லுங்கள்",
+  "pos": "phrase",
+  "pron": "GOH-uh-HED",
+  "example": "Yes, I can hear you, so please go ahead.",
+  "exampleTamil": "ஆம், உங்கள் குரல் கேட்கிறது, சொல்லுங்கள்.",
+  "synonyms": [
+   "proceed"
+  ],
+  "level": "beginner"
+ }
+]

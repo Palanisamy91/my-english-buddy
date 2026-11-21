@@ -1,0 +1,350 @@
+[
+ {
+  "word": "exaggerate",
+  "meaning": "to say something is bigger or worse than it really is",
+  "tamil": "மிகைப்படுத்து",
+  "pos": "verb",
+  "pron": "ig-ZAJ-uh-rayt",
+  "example": "Please do not exaggerate when you tell the story.",
+  "exampleTamil": "கதை சொல்லும்போது தயவுசெய்து மிகைப்படுத்தாதே.",
+  "synonyms": [
+   "overstate",
+   "inflate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "recount",
+  "meaning": "to tell what happened, step by step",
+  "tamil": "நடந்ததை விவரி",
+  "pos": "verb",
+  "pron": "ri-KOWNT",
+  "example": "She recounted the whole event to the police.",
+  "exampleTamil": "நடந்த நிகழ்வு முழுவதையும் அவள் காவலரிடம் விவரித்தாள்.",
+  "synonyms": [
+   "narrate",
+   "relate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "impolite",
+  "meaning": "not showing good manners",
+  "tamil": "நாகரிகமற்ற",
+  "pos": "adjective",
+  "pron": "im-puh-LYT",
+  "example": "It is impolite to talk with food in your mouth.",
+  "exampleTamil": "வாயில் உணவுடன் பேசுவது நாகரிகமற்றது.",
+  "synonyms": [
+   "rude",
+   "discourteous"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "condolence",
+  "meaning": "words that show sympathy when someone has lost a loved one",
+  "tamil": "இரங்கல்",
+  "pos": "noun",
+  "pron": "kun-DOH-lunss",
+  "example": "Please accept my condolences on your loss.",
+  "exampleTamil": "உன் இழப்புக்கு என் இரங்கலை ஏற்றுக்கொள்.",
+  "synonyms": [
+   "sympathy",
+   "comfort"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pledge",
+  "meaning": "to promise seriously and formally",
+  "tamil": "உறுதிமொழி எடு",
+  "pos": "verb",
+  "pron": "PLEJ",
+  "example": "They pledged to answer every email within a day.",
+  "exampleTamil": "ஒரு நாளுக்குள் ஒவ்வொரு மின்னஞ்சலுக்கும் பதிலளிப்போம் என்று அவர்கள் உறுதிமொழி எடுத்தனர்.",
+  "synonyms": [
+   "promise",
+   "vow"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "settlement",
+  "meaning": "an agreement that ends an argument",
+  "tamil": "ஒப்பந்தத் தீர்வு",
+  "pos": "noun",
+  "pron": "SET-ul-munt",
+  "example": "After long talks, both sides reached a settlement.",
+  "exampleTamil": "நீண்ட பேச்சுவார்த்தைக்குப் பிறகு இரு தரப்பும் ஒரு தீர்வுக்கு வந்தன.",
+  "synonyms": [
+   "agreement",
+   "deal"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "thanks",
+  "meaning": "a word you say to show you are grateful",
+  "tamil": "நன்றி",
+  "pos": "interjection",
+  "pron": "THANKS",
+  "example": "Thanks for calling me back so quickly.",
+  "exampleTamil": "உடனே திருப்பி அழைத்ததற்கு நன்றி.",
+  "synonyms": [
+   "thank you",
+   "cheers"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "riddle",
+  "meaning": "a tricky question you ask for fun that needs a clever answer",
+  "tamil": "விடுகதை",
+  "pos": "noun",
+  "pron": "RID-ul",
+  "example": "My grandfather loves to ask us a riddle.",
+  "exampleTamil": "என் தாத்தா எங்களிடம் விடுகதை கேட்க விரும்புவார்.",
+  "synonyms": [
+   "puzzle",
+   "brainteaser"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rhyme",
+  "meaning": "words that end with the same sound",
+  "tamil": "எதுகை, ஒத்த ஒலிச் சொற்கள்",
+  "pos": "noun",
+  "pron": "RYM",
+  "example": "Cat and hat make a simple rhyme.",
+  "exampleTamil": "கேட் மற்றும் ஹேட் ஒரு எளிய எதுகை.",
+  "synonyms": [
+   "verse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "note",
+  "meaning": "a short message written for someone",
+  "tamil": "சிறு குறிப்பு, சீட்டு",
+  "pos": "noun",
+  "pron": "NOHT",
+  "example": "I left a note on your desk.",
+  "exampleTamil": "உன் மேசையில் ஒரு சிறு குறிப்பு வைத்திருக்கிறேன்.",
+  "synonyms": [
+   "message",
+   "memo"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "slogan",
+  "meaning": "a short catchy phrase used to promote something",
+  "tamil": "முழக்கம், விளம்பர வாசகம்",
+  "pos": "noun",
+  "pron": "SLOH-gun",
+  "example": "The shop has a simple and catchy slogan.",
+  "exampleTamil": "அந்தக் கடைக்கு எளிய, கவர்ச்சியான விளம்பர வாசகம் உள்ளது.",
+  "synonyms": [
+   "motto",
+   "catchphrase"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "headline",
+  "meaning": "the title of a news story in big letters",
+  "tamil": "செய்தித் தலைப்பு",
+  "pos": "noun",
+  "pron": "HED-lyn",
+  "example": "The headline in the paper caught my eye.",
+  "exampleTamil": "செய்தித்தாளில் இருந்த தலைப்பு என் கவனத்தை ஈர்த்தது.",
+  "synonyms": [
+   "title",
+   "heading"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "scold",
+  "meaning": "to speak angrily to someone about a mistake",
+  "tamil": "திட்டு",
+  "pos": "verb",
+  "pron": "SKOHLD",
+  "example": "My mother scolded me for coming home late.",
+  "exampleTamil": "தாமதமாக வீட்டுக்கு வந்ததற்காக அம்மா என்னைத் திட்டினாள்.",
+  "synonyms": [
+   "reprimand",
+   "tell off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cheer",
+  "meaning": "to shout happily to support someone",
+  "tamil": "உற்சாகக் குரல் எழுப்பு",
+  "pos": "verb",
+  "pron": "CHEER",
+  "example": "The crowd cheered when she finished her speech.",
+  "exampleTamil": "அவள் உரையை முடித்ததும் கூட்டம் உற்சாகமாகக் குரல் எழுப்பியது.",
+  "synonyms": [
+   "applaud",
+   "shout"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "applaud",
+  "meaning": "to clap hands to show you liked something",
+  "tamil": "கைதட்டிப் பாராட்டு",
+  "pos": "verb",
+  "pron": "uh-PLAWD",
+  "example": "Everyone applauded at the end of her talk.",
+  "exampleTamil": "அவள் பேச்சின் முடிவில் எல்லோரும் கைதட்டிப் பாராட்டினர்.",
+  "synonyms": [
+   "clap",
+   "praise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grumble",
+  "meaning": "to complain in a low, unhappy voice",
+  "tamil": "முணுமுணுத்துப் புலம்பு",
+  "pos": "verb",
+  "pron": "GRUM-bul",
+  "example": "He grumbled about the long meeting all day.",
+  "exampleTamil": "நீண்ட கூட்டத்தைப் பற்றி அவன் நாள் முழுவதும் புலம்பினான்.",
+  "synonyms": [
+   "complain",
+   "mutter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "whine",
+  "meaning": "to complain in an annoying, childish voice",
+  "tamil": "சிணுங்கிப் புலம்பு",
+  "pos": "verb",
+  "pron": "WYN",
+  "example": "Please stop whining and tell me what is wrong.",
+  "exampleTamil": "சிணுங்குவதை நிறுத்திவிட்டு என்ன பிரச்சினை என்று சொல்.",
+  "synonyms": [
+   "moan",
+   "complain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "gasp",
+  "meaning": "to take a quick breath because of surprise",
+  "tamil": "திடுக்கிட்டு மூச்சிழு",
+  "pos": "verb",
+  "pron": "GASP",
+  "example": "The audience gasped at the sudden news.",
+  "exampleTamil": "திடீர்ச் செய்தியைக் கேட்டு பார்வையாளர்கள் திடுக்கிட்டனர்.",
+  "synonyms": [
+   "gulp"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rant",
+  "meaning": "to talk angrily for a long time",
+  "tamil": "ஆவேசமாக நீண்ட நேரம் பேசு",
+  "pos": "verb",
+  "pron": "RANT",
+  "example": "He ranted about the bad service for ten minutes.",
+  "exampleTamil": "மோசமான சேவையைப் பற்றி அவன் பத்து நிமிடம் ஆவேசமாகப் பேசினான்.",
+  "synonyms": [
+   "rave",
+   "storm"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "idiom",
+  "meaning": "a group of words whose meaning is different from the single words",
+  "tamil": "மரபுத்தொடர்",
+  "pos": "noun",
+  "pron": "ID-ee-um",
+  "example": "Break a leg is a common English idiom.",
+  "exampleTamil": "பிரேக் எ லெக் என்பது பொதுவான ஆங்கில மரபுத்தொடர்.",
+  "synonyms": [
+   "expression",
+   "phrase"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "proverb",
+  "meaning": "a short wise saying that many people know",
+  "tamil": "பழமொழி",
+  "pos": "noun",
+  "pron": "PROV-urb",
+  "example": "There is a Tamil proverb for every situation.",
+  "exampleTamil": "ஒவ்வொரு சூழ்நிலைக்கும் ஒரு தமிழ்ப் பழமொழி உண்டு.",
+  "synonyms": [
+   "saying",
+   "adage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "persuasive",
+  "meaning": "good at making people agree or do something",
+  "tamil": "நம்பவைக்கும் திறனுள்ள",
+  "pos": "adjective",
+  "pron": "per-SWAY-siv",
+  "example": "She gave a persuasive talk and won their support.",
+  "exampleTamil": "அவள் நம்பவைக்கும் உரை ஆற்றி அவர்களின் ஆதரவைப் பெற்றாள்.",
+  "synonyms": [
+   "convincing",
+   "compelling"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "introduction",
+  "meaning": "the act of telling people who someone is, or the start of a talk",
+  "tamil": "அறிமுகம்",
+  "pos": "noun",
+  "pron": "in-truh-DUK-shun",
+  "example": "Let me make a quick introduction before we begin.",
+  "exampleTamil": "தொடங்குவதற்கு முன் ஒரு சிறிய அறிமுகம் செய்கிறேன்.",
+  "synonyms": [
+   "opening",
+   "intro"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rebuke",
+  "meaning": "to speak sharply to someone for doing wrong",
+  "tamil": "கடுமையாகக் கண்டி",
+  "pos": "verb",
+  "pron": "ri-BYOOK",
+  "example": "The principal rebuked the students for being rude.",
+  "exampleTamil": "நாகரிகமின்றி நடந்ததற்காக தலைமை ஆசிரியர் மாணவர்களைக் கடுமையாகக் கண்டித்தார்.",
+  "synonyms": [
+   "reprimand",
+   "scold"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scoff",
+  "meaning": "to speak about something in a mocking way",
+  "tamil": "ஏளனம் செய்",
+  "pos": "verb",
+  "pron": "SKOF",
+  "example": "Some people scoff at new ideas without listening.",
+  "exampleTamil": "சிலர் கேட்காமலேயே புதிய யோசனைகளை ஏளனம் செய்கிறார்கள்.",
+  "synonyms": [
+   "mock",
+   "jeer"
+  ],
+  "level": "advanced"
+ }
+]

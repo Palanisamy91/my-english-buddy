@@ -1,0 +1,362 @@
+[
+ {
+  "en": "Let me think; I would choose the blue one.",
+  "tamil": "கொஞ்சம் யோசிக்கிறேன்; நான் நீல நிறத்தை தான் எடுப்பேன்.",
+  "context": "Choosing a colour in a shop.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Would choose' gives a polite choice. It sounds softer than 'I choose'.",
+  "words": [
+   "choose"
+  ],
+  "usage": "Say it in a shop or at home when someone asks you to pick one thing.",
+  "leelaQ": "Which colour would you choose for a new bag?",
+  "answer": "I would choose a black bag because it goes with everything."
+ },
+ {
+  "en": "Do you think it is too late to start now?",
+  "tamil": "இப்போ ஆரம்பிக்கிறது ரொம்ப லேட்னு நினைக்கிறீங்களா?",
+  "context": "Asking if there is still time.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Too late' means there is no more time. 'Do you think' asks for an opinion.",
+  "words": [
+   "too late"
+  ],
+  "usage": "Use it when you plan a task or a journey and time is short.",
+  "leelaQ": "Is it ever too late to learn something new?",
+  "answer": "No, I think we can learn new things at any age."
+ },
+ {
+  "en": "She is going to say yes because the offer is good.",
+  "tamil": "ஆபர் நல்லா இருக்கறதால அவ ஆமான்னு தான் சொல்லுவா.",
+  "context": "Predicting a friend's answer.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' is used to predict something you feel sure about.",
+  "words": [
+   "offer"
+  ],
+  "usage": "Use it when you guess what someone will decide, based on what you know.",
+  "leelaQ": "What do you think your friend is going to do this weekend?",
+  "answer": "I think my friend is going to visit his village this weekend."
+ },
+ {
+  "en": "Please give me a reason for your choice.",
+  "tamil": "உங்க தேர்வுக்கு ஒரு காரணம் சொல்லுங்க.",
+  "context": "Asking someone to justify a choice.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Give me a reason' asks for an explanation in a polite, short way.",
+  "words": [
+   "reason",
+   "choice"
+  ],
+  "usage": "Use it in a class, a meeting or at home when a choice seems strange.",
+  "leelaQ": "What reason do you give when you choose something?",
+  "answer": "I say the reason clearly, like it is cheaper or more comfortable."
+ },
+ {
+  "en": "I am thinking that we should change the plan.",
+  "tamil": "நாம திட்டத்தை மாத்தணும்னு நான் யோசிச்சுட்டு இருக்கேன்.",
+  "context": "Gently suggesting a change of plan.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'I am thinking that...' opens a suggestion slowly and politely.",
+  "words": [
+   "change the plan"
+  ],
+  "usage": "Use it with a team or family when you want to suggest something new without sounding pushy.",
+  "leelaQ": "Have you ever changed a plan at the last minute?",
+  "answer": "Yes, I changed my trip plan at the last minute because of rain."
+ },
+ {
+  "en": "For me, mornings are the best time to study.",
+  "tamil": "என்னைப் பொறுத்தவரை படிக்க காலை நேரம் தான் ரொம்ப நல்லது.",
+  "context": "Telling your best study time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'For me' shows this is your own view, not a rule for everyone.",
+  "words": [
+   "mornings",
+   "study"
+  ],
+  "usage": "Use it when friends talk about study or work habits.",
+  "leelaQ": "What is the best time for you to study or work?",
+  "answer": "For me, early morning is the best time because the house is quiet."
+ },
+ {
+  "en": "How do you feel about working on Saturdays?",
+  "tamil": "சனிக்கிழமையும் வேலை செய்றதை பத்தி உங்களுக்கு எப்படி இருக்கு?",
+  "context": "Asking about a work change.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How do you feel about...?' asks for a feeling or opinion about a topic.",
+  "words": [
+   "working"
+  ],
+  "usage": "Use it when a manager or a colleague talks about a new schedule.",
+  "leelaQ": "How do you feel about waking up early?",
+  "answer": "I feel fine about it because I love the quiet morning time."
+ },
+ {
+  "en": "I have seen both films, and the second one is better.",
+  "tamil": "நான் ரெண்டு படமும் பார்த்துட்டேன், ரெண்டாவது தான் நல்லா இருக்கு.",
+  "context": "Comparing two films you watched.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have seen' means you did it before now. 'Better' is the comparative of 'good'.",
+  "words": [
+   "films",
+   "better"
+  ],
+  "usage": "Use it when friends ask you which movie to watch.",
+  "leelaQ": "Which film have you seen recently, and was it good?",
+  "answer": "I have seen a Tamil film recently, and it was really good."
+ },
+ {
+  "en": "I don't think the film was worth the money.",
+  "tamil": "அந்த படம் கொடுத்த காசுக்கு தகுதியானதுன்னு நான் நினைக்கல.",
+  "context": "Giving a negative opinion on a film.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "In English we say 'I don't think it is...' instead of 'I think it is not...'.",
+  "words": [
+   "worth"
+  ],
+  "usage": "Use it when friends ask if a film or a product was good.",
+  "leelaQ": "What was the last thing you felt was not worth the money?",
+  "answer": "A very costly coffee was not worth the money for me."
+ },
+ {
+  "en": "It depends on the budget, but I would go by train.",
+  "tamil": "அது பட்ஜெட்டை பொறுத்தது, ஆனா நான் ட்ரெயின்ல தான் போவேன்.",
+  "context": "Giving a conditional opinion.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'It depends on' means the answer changes with the situation.",
+  "words": [
+   "depends",
+   "budget"
+  ],
+  "usage": "Use it when someone asks for advice and the best choice is not clear.",
+  "leelaQ": "What does your travel choice depend on?",
+  "answer": "My travel choice depends on the time and the ticket price."
+ },
+ {
+  "en": "Would you like to go by metro or by auto?",
+  "tamil": "நீங்க மெட்ரோலயா, இல்ல ஆட்டோலயா போக விரும்புறீங்க?",
+  "context": "Offering travel choices to a friend.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like...?' is a polite way to offer a choice.",
+  "words": [
+   "metro"
+  ],
+  "usage": "Ask it when you plan a trip with a friend or a guest.",
+  "leelaQ": "What do you like to take for short trips in your city?",
+  "answer": "I like to take an auto because it is quick and easy."
+ },
+ {
+  "en": "My father believes that saving early is very important.",
+  "tamil": "சீக்கிரமே சேமிக்கிறது ரொம்ப முக்கியம்னு என் அப்பா நம்புறாரு.",
+  "context": "Sharing your father's view on saving.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Believes that...' reports another person's opinion.",
+  "words": [
+   "believes",
+   "saving"
+  ],
+  "usage": "Use it when you talk about what elders at home advise.",
+  "leelaQ": "What advice about money do your parents give?",
+  "answer": "My parents say I should save some money every month."
+ },
+ {
+  "en": "Can you suggest a good restaurant for dinner?",
+  "tamil": "டின்னருக்கு ஒரு நல்ல ஹோட்டல் சொல்ல முடியுமா?",
+  "context": "Asking a local for a recommendation.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you suggest...?' is a simple request for a recommendation.",
+  "words": [
+   "suggest"
+  ],
+  "usage": "Ask a colleague or a hotel receptionist when you are new to a city.",
+  "leelaQ": "Can you suggest a good place to eat in your town?",
+  "answer": "Yes, I can suggest a small hotel near the bus stand for tasty meals."
+ },
+ {
+  "en": "That idea sounds interesting, let us try it.",
+  "tamil": "அந்த ஐடியா சுவாரஸ்யமா இருக்கு, முயற்சி பண்ணலாம்.",
+  "context": "Accepting a new suggestion.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Sounds + adjective' tells your reaction to what you hear.",
+  "words": [
+   "sounds interesting"
+  ],
+  "usage": "Use it at work or with friends when you like someone's suggestion.",
+  "leelaQ": "What new idea would you like to try this year?",
+  "answer": "I would like to try learning the guitar this year."
+ },
+ {
+  "en": "The old phone was slow, so I bought a new one.",
+  "tamil": "பழைய போன் மெதுவா இருந்துச்சு, அதனால புதுசு வாங்கினேன்.",
+  "context": "Giving a reason for buying a phone.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'So' shows a result: the phone was slow, so I bought a new one.",
+  "words": [
+   "slow",
+   "bought"
+  ],
+  "usage": "Use it when someone asks why you changed something.",
+  "leelaQ": "Why did you buy your current phone?",
+  "answer": "I bought it because my old phone was slow and the camera was bad."
+ },
+ {
+  "en": "I agree with most of what you said.",
+  "tamil": "நீங்க சொன்னதுல பெரும்பாலானதை நான் ஒத்துக்கிறேன்.",
+  "context": "Agreeing partly with a speaker.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Most of' means almost all. It lets you agree without agreeing to everything.",
+  "words": [
+   "most of"
+  ],
+  "usage": "Use it in a meeting when you accept the main idea but have small doubts.",
+  "leelaQ": "What was the last thing you agreed with someone about?",
+  "answer": "I agreed with my brother that we should visit our grandmother."
+ },
+ {
+  "en": "In my view, small shops give better service.",
+  "tamil": "என் பார்வையில சின்ன கடைகள் தான் நல்ல சேவை தராங்க.",
+  "context": "Giving a view about shops.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'In my view' is another way to say 'in my opinion'. 'Better' compares with big shops.",
+  "words": [
+   "service"
+  ],
+  "usage": "Use it when friends discuss shopping in a mall or in a local shop.",
+  "leelaQ": "Do you prefer small shops or big malls?",
+  "answer": "I prefer small shops because the owner knows me well."
+ },
+ {
+  "en": "What is your opinion on online shopping?",
+  "tamil": "ஆன்லைன் ஷாப்பிங் பத்தி உங்க கருத்து என்ன?",
+  "context": "Asking for someone's view.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Your opinion on...' is a polite and formal way to ask what someone thinks.",
+  "words": [
+   "opinion",
+   "online shopping"
+  ],
+  "usage": "Use it in a discussion, an interview or a class.",
+  "leelaQ": "How often do you shop online?",
+  "answer": "I shop online two or three times a month for small things."
+ },
+ {
+  "en": "Let us compare both offers before we decide.",
+  "tamil": "முடிவு பண்றதுக்கு முன்னாடி ரெண்டு ஆபரையும் ஒப்பிட்டு பார்ப்போம்.",
+  "context": "Suggesting a careful comparison.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let us' makes a suggestion that includes both speaker and listener.",
+  "words": [
+   "compare",
+   "offers"
+  ],
+  "usage": "Use it with family or colleagues when you must choose between two deals.",
+  "leelaQ": "How do you compare two offers before you buy?",
+  "answer": "I check the price, the quality and the reviews of both offers."
+ },
+ {
+  "en": "We are discussing which restaurant is best for dinner.",
+  "tamil": "இன்னைக்கு டின்னருக்கு எந்த ஹோட்டல் நல்லதுன்னு நாங்க பேசிட்டு இருக்கோம்.",
+  "context": "Telling someone what you are talking about.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Are discussing' shows the talk is happening right now.",
+  "words": [
+   "discussing",
+   "restaurant"
+  ],
+  "usage": "Say it on the phone when someone asks what you and your friends are doing.",
+  "leelaQ": "What are you and your friends discussing these days?",
+  "answer": "We are discussing a trip to Ooty for the long weekend."
+ },
+ {
+  "en": "I am sure you will like this place.",
+  "tamil": "இந்த இடம் உங்களுக்கு கண்டிப்பா பிடிக்கும்னு நான் உறுதியா சொல்றேன்.",
+  "context": "Recommending a place to a friend.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I am sure' shows strong belief. 'Will like' talks about the future.",
+  "words": [
+   "sure"
+  ],
+  "usage": "Use it when you take a friend to a favourite cafe or tourist spot.",
+  "leelaQ": "Which place would you take a new friend to?",
+  "answer": "I would take my friend to the beach because it is calm in the evening."
+ },
+ {
+  "en": "Are you going to choose the cheaper phone?",
+  "tamil": "நீங்க விலை குறைவான போனை தான் எடுக்கப் போறீங்களா?",
+  "context": "Asking about a buying decision.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Are you going to...?' asks about a plan or a decision.",
+  "words": [
+   "cheaper"
+  ],
+  "usage": "Ask it when a friend is choosing between two phones.",
+  "leelaQ": "What do you look at first when you buy a phone?",
+  "answer": "I look at the battery and the camera before the price."
+ },
+ {
+  "en": "Rice is my favourite because it fills me up.",
+  "tamil": "சாதம் தான் என் பிடிச்சது, ஏன்னா வயிறு நிறையும்.",
+  "context": "Giving a reason for liking a food.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Because' gives the reason for a feeling or choice.",
+  "words": [
+   "favourite",
+   "fills"
+  ],
+  "usage": "Use it when someone asks why you love a certain food.",
+  "leelaQ": "What is your favourite food, and why?",
+  "answer": "My favourite food is dosa because it is tasty and light."
+ },
+ {
+  "en": "That is not what I meant.",
+  "tamil": "நான் சொன்னது அந்த அர்த்தத்துல இல்ல.",
+  "context": "Correcting a misunderstanding.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Not what I meant' clears a misunderstanding without blaming the other person.",
+  "words": [
+   "meant"
+  ],
+  "usage": "Use it when someone takes your words the wrong way.",
+  "leelaQ": "How do you clear a misunderstanding with a friend?",
+  "answer": "I explain again slowly and say sorry if my words were confusing."
+ },
+ {
+  "en": "I think the exam was easier than last time.",
+  "tamil": "போன தடவையை விட இந்த தடவை பரீட்சை ஈசியா இருந்துச்சுன்னு நினைக்கிறேன்.",
+  "context": "Talking about an exam with a classmate.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Easier than' compares two things. 'Last time' means the previous exam.",
+  "words": [
+   "easier"
+  ],
+  "usage": "Use it with classmates right after coming out of an exam hall.",
+  "leelaQ": "How did your last exam or interview go?",
+  "answer": "My last interview went well, and the questions were easy."
+ }
+]

@@ -1,0 +1,377 @@
+[
+ {
+  "en": "I met my school friend by chance at the railway station yesterday.",
+  "tamil": "நேத்து ரயில்வே ஸ்டேஷன்ல என் ஸ்கூல் ஃப்ரெண்டை தற்செயலா பார்த்தேன்.",
+  "context": "Telling a family member about a surprise meeting.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'By chance' means it was not planned. 'Met' is the past of 'meet'.",
+  "words": [
+   "chance",
+   "station"
+  ],
+  "usage": "Use it to share a pleasant surprise with family or colleagues.",
+  "leelaQ": "Have you met an old friend suddenly somewhere?",
+  "answer": "Yes, I met my classmate in a supermarket after ten years."
+ },
+ {
+  "en": "Let me finish my story first.",
+  "tamil": "முதல்ல என் கதையை முடிக்க விடுங்க.",
+  "context": "Politely stopping an interruption.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me' asks for permission or space to do something.",
+  "words": [
+   "finish",
+   "story"
+  ],
+  "usage": "Use it politely when someone keeps interrupting you.",
+  "leelaQ": "What do you do when someone interrupts you?",
+  "answer": "I politely ask them to let me finish."
+ },
+ {
+  "en": "The train was late, so we reached the function after the muhurtham.",
+  "tamil": "ரயில் லேட்டா வந்ததால முகூர்த்தம் முடிஞ்சப்புறம்தான் விழாவுக்கு போனோம்.",
+  "context": "Explaining why you missed part of a wedding.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was late' describes the train. 'So' shows the result of that delay.",
+  "words": [
+   "late",
+   "function"
+  ],
+  "usage": "Use it to explain to relatives why you came late to an event.",
+  "leelaQ": "Have you ever reached an event very late?",
+  "answer": "Yes, I reached a friend's party after the cake cutting."
+ },
+ {
+  "en": "She didn't call me back after the interview.",
+  "tamil": "இன்டர்வியூக்கு அப்புறம் அவங்க என்னை திரும்ப கூப்பிடல.",
+  "context": "Telling a friend about a job application.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Call back' means to phone again. 'Didn't' is the short form of 'did not'.",
+  "words": [
+   "call back",
+   "interview"
+  ],
+  "usage": "Use it to share disappointment about no reply.",
+  "leelaQ": "What do you do if no one replies to your message?",
+  "answer": "I wait one day and then call them again."
+ },
+ {
+  "en": "I have learnt to ride a bicycle, and now I ride it daily.",
+  "tamil": "நான் சைக்கிள் ஓட்ட கத்துக்கிட்டேன், இப்போ தினமும் ஓட்டுறேன்.",
+  "context": "Telling a friend about a new skill.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect shows a result that matters now. The result here is daily riding.",
+  "words": [
+   "learnt",
+   "bicycle"
+  ],
+  "usage": "Use it to talk proudly about a skill you picked up.",
+  "leelaQ": "What new skill have you learnt recently?",
+  "answer": "I have learnt to cook rice and sambar."
+ },
+ {
+  "en": "What did your mother say when she saw the marks?",
+  "tamil": "மார்க்கை பார்த்ததும் உங்க அம்மா என்ன சொன்னாங்க?",
+  "context": "Asking a friend about a school result story.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'When' joins two past events in a question.",
+  "words": [
+   "marks",
+   "mother"
+  ],
+  "usage": "Use it to ask a friend about their family's reaction.",
+  "leelaQ": "What did your parents say when you passed an exam?",
+  "answer": "They were very happy and gave me sweets."
+ },
+ {
+  "en": "My father gave me a watch on my tenth birthday.",
+  "tamil": "எனக்கு பத்தாவது பிறந்தநாளுக்கு அப்பா ஒரு கடிகாரம் கொடுத்தார்.",
+  "context": "Sharing a memory about a gift.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Gave' is the past of 'give'. 'On my tenth birthday' tells the exact time.",
+  "words": [
+   "watch",
+   "birthday"
+  ],
+  "usage": "Use it to tell a happy memory about your family.",
+  "leelaQ": "What was the best gift you got as a child?",
+  "answer": "I got a new cycle on my birthday."
+ },
+ {
+  "en": "Have you ever missed a flight?",
+  "tamil": "நீங்க எப்பவாவது ஃபிளைட்டை மிஸ் பண்ணிருக்கீங்களா?",
+  "context": "Chatting with a friend about travel problems.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "Use 'Have you ever' and the past participle 'missed' to ask about a life experience.",
+  "words": [
+   "missed",
+   "flight"
+  ],
+  "usage": "Use it to start a talk about travel stories.",
+  "leelaQ": "Have you ever missed a train or bus? What did you do?",
+  "answer": "Yes, I missed a train and took the next one."
+ },
+ {
+  "en": "We waited in the queue for two hours, but the counter closed.",
+  "tamil": "ரெண்டு மணி நேரம் வரிசையில நின்னோம், ஆனா கவுண்ட்டர் மூடிட்டாங்க.",
+  "context": "Complaining to a friend about a bad experience.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'But' shows a bad surprise after a long effort.",
+  "words": [
+   "queue",
+   "counter"
+  ],
+  "usage": "Use it to tell a frustrating experience at a bank or office.",
+  "leelaQ": "What do you do when you wait too long in a queue?",
+  "answer": "I read news on my phone and wait patiently."
+ },
+ {
+  "en": "Please don't stop, tell me the rest of the story.",
+  "tamil": "நிறுத்தாதீங்க, மீதி கதையை சொல்லுங்க.",
+  "context": "Encouraging a friend to continue.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Don't stop' is a negative imperative. 'The rest' means the remaining part.",
+  "words": [
+   "stop",
+   "rest"
+  ],
+  "usage": "Use it while a story is getting interesting.",
+  "leelaQ": "Do you like listening to stories? Why?",
+  "answer": "Yes, I like them because they are interesting."
+ },
+ {
+  "en": "The little boy hid behind the door and scared his sister.",
+  "tamil": "அந்த சின்ன பையன் கதவுக்கு பின்னாடி ஒளிஞ்சுக்கிட்டு தன் தங்கச்சியை பயமுறுத்தினான்.",
+  "context": "Telling a funny story about children.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Hid' is the past of 'hide'. 'Scared' means made someone afraid.",
+  "words": [
+   "hid",
+   "scared"
+  ],
+  "usage": "Use it to tell a funny family story about kids.",
+  "leelaQ": "Did you play tricks on your brother or sister?",
+  "answer": "Yes, I hid her slippers and she kept searching."
+ },
+ {
+  "en": "We didn't go out yesterday because of the heavy rain.",
+  "tamil": "பெருமழை காரணமா நேத்து நாங்க வெளியே போகல.",
+  "context": "Telling a friend why you stayed at home.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Didn't go' is the negative past. Use 'because of' with a noun.",
+  "words": [
+   "heavy",
+   "rain"
+  ],
+  "usage": "Use it to explain why you cancelled a plan.",
+  "leelaQ": "What do you do at home on a rainy day?",
+  "answer": "I watch movies and drink hot tea."
+ },
+ {
+  "en": "It was raining heavily, so we stood under a tree for some time.",
+  "tamil": "பலமா மழை பெய்துக்கிட்டு இருந்துச்சு, அதனால கொஞ்ச நேரம் மரத்துக்கு கீழ நின்னோம்.",
+  "context": "Describing a rainy day to a friend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Past continuous (was raining) sets the background of a story.",
+  "words": [
+   "raining",
+   "tree"
+  ],
+  "usage": "Use it to describe the weather at the time of an event.",
+  "leelaQ": "What do you do when it suddenly rains outside?",
+  "answer": "I stand in a shop and wait till it stops."
+ },
+ {
+  "en": "Did the train leave on time?",
+  "tamil": "ரயில் சரியான நேரத்துக்கு கிளம்புச்சா?",
+  "context": "Asking a family member who went to the station.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'On time' means at the right time. 'Leave' stays in base form after 'did'.",
+  "words": [
+   "train",
+   "on time"
+  ],
+  "usage": "Use it to ask about arrival or departure of any transport.",
+  "leelaQ": "Does the bus in your area come on time?",
+  "answer": "No, it is usually ten minutes late."
+ },
+ {
+  "en": "I got my first salary in 2019 and bought a gift for my mother.",
+  "tamil": "நான் 2019ல முதல் சம்பளம் வாங்கி அம்மாவுக்கு ஒரு பரிசு வாங்கினேன்.",
+  "context": "Talking about your first job.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Use 'in' with a year. Two past actions are joined with 'and'.",
+  "words": [
+   "salary",
+   "gift"
+  ],
+  "usage": "Use it to share a proud memory at work or with family.",
+  "leelaQ": "What did you do with your first salary?",
+  "answer": "I gave it to my parents and bought sweets."
+ },
+ {
+  "en": "Where were you born, and where did you grow up?",
+  "tamil": "நீங்க எங்க பிறந்தீங்க, எங்க வளர்ந்தீங்க?",
+  "context": "Getting to know a new colleague.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Were you born' uses 'be' in the past. 'Did you grow up' uses 'did' plus a base verb.",
+  "words": [
+   "born",
+   "grow up"
+  ],
+  "usage": "Use it politely to learn about someone's hometown.",
+  "leelaQ": "Where were you born and where did you grow up?",
+  "answer": "I was born in Trichy and grew up in Chennai."
+ },
+ {
+  "en": "She has changed her job twice since she moved to Bangalore.",
+  "tamil": "அவ பெங்களூர் போனதுல இருந்து ரெண்டு தடவை வேலை மாத்தியிருக்கா.",
+  "context": "Telling a friend about a relative's career.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Since' plus a past event shows the starting point of the time period.",
+  "words": [
+   "changed",
+   "moved"
+  ],
+  "usage": "Use it to give news about someone's life.",
+  "leelaQ": "Has any of your friends moved to another city?",
+  "answer": "Yes, my friend has moved to Hyderabad for work."
+ },
+ {
+  "en": "Can you share your trip photos with me?",
+  "tamil": "உங்க டிரிப் போட்டோக்களை எனக்கு ஷேர் பண்ண முடியுமா?",
+  "context": "Asking a friend after a group trip.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Share with me' means send to me. 'Can you' is a casual request.",
+  "words": [
+   "share",
+   "photos"
+  ],
+  "usage": "Use it after a trip or a function to ask for pictures.",
+  "leelaQ": "Do you take many photos on your trips?",
+  "answer": "Yes, I take lots of photos of places and food."
+ },
+ {
+  "en": "The teacher scolded the whole class because somebody broke the window.",
+  "tamil": "யாரோ ஜன்னலை உடைச்சதால டீச்சர் முழு கிளாஸையும் திட்டினாங்க.",
+  "context": "Remembering a school incident.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Because' gives the reason for something that happened.",
+  "words": [
+   "scolded",
+   "window"
+  ],
+  "usage": "Use it to tell school stories to friends or children.",
+  "leelaQ": "Do you remember any funny moment from school?",
+  "answer": "Yes, our teacher fell asleep in the class once."
+ },
+ {
+  "en": "I have never been so embarrassed in my life.",
+  "tamil": "என் வாழ்க்கையில இவ்ளோ அவமானப்பட்டதே இல்ல.",
+  "context": "Telling a friend about a very awkward moment.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Have never been' talks about the whole life up to now.",
+  "words": [
+   "never",
+   "embarrassed"
+  ],
+  "usage": "Use it to describe a really awkward moment you went through.",
+  "leelaQ": "Can you tell me about an embarrassing moment?",
+  "answer": "I once called my teacher 'mom' in front of the class."
+ },
+ {
+  "en": "I woke up late, had a quick bath, and ran to the bus stop.",
+  "tamil": "லேட்டா எந்திரிச்சேன், அவசரமா குளிச்சுட்டு பஸ் ஸ்டாப்புக்கு ஓடினேன்.",
+  "context": "Describing a rushed morning.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Several past actions in a row are separated with commas and 'and'.",
+  "words": [
+   "woke up",
+   "quick"
+  ],
+  "usage": "Use it to describe your morning to a friend or colleague.",
+  "leelaQ": "How was your morning today?",
+  "answer": "I woke up early, did yoga, and had breakfast."
+ },
+ {
+  "en": "What was the funniest thing that happened in your school?",
+  "tamil": "உங்க ஸ்கூல்ல நடந்த காமெடியான விஷயம் என்ன?",
+  "context": "Asking a friend for a funny story.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'The funniest thing that happened' uses the superlative and past tense together.",
+  "words": [
+   "funniest",
+   "school"
+  ],
+  "usage": "Use it to start a fun chat with friends.",
+  "leelaQ": "Can you share a funny incident from your school days?",
+  "answer": "Our teacher once came to class with two different shoes."
+ },
+ {
+  "en": "My neighbour has helped us a lot since we moved here.",
+  "tamil": "நாங்க இங்க வந்ததுல இருந்து எங்க பக்கத்து வீட்டுக்காரர் நிறைய உதவி பண்ணியிருக்கார்.",
+  "context": "Thanking or praising a neighbour to others.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Present perfect shows help that started in the past and still matters.",
+  "words": [
+   "neighbour",
+   "helped"
+  ],
+  "usage": "Use it to speak kindly about someone who supported you.",
+  "leelaQ": "Who has helped you the most in your life?",
+  "answer": "My elder sister has helped me a lot in my studies."
+ },
+ {
+  "en": "And then what happened?",
+  "tamil": "அப்புறம் என்ன ஆச்சு?",
+  "context": "Encouraging a friend to continue a story.",
+  "tense": "past",
+  "type": "question",
+  "explain": "A short question that shows you are interested in the story.",
+  "words": [
+   "then",
+   "happened"
+  ],
+  "usage": "Use it while someone is telling you a story to keep them going.",
+  "leelaQ": "When your friend tells a story, what do you ask?",
+  "answer": "I ask, then what happened?"
+ },
+ {
+  "en": "When the bell rang, all the children ran out of the class.",
+  "tamil": "மணி அடிச்சதும் எல்லா குழந்தைகளும் கிளாஸை விட்டு ஓடினாங்க.",
+  "context": "Describing a school scene.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'When' joins two events that happened one after another.",
+  "words": [
+   "bell",
+   "children"
+  ],
+  "usage": "Use it to describe a scene or event in a story.",
+  "leelaQ": "What did you do when the school bell rang?",
+  "answer": "I ran to the ground to play with my friends."
+ }
+]

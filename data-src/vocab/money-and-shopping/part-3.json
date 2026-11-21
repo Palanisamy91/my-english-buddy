@@ -1,0 +1,345 @@
+[
+ {
+  "word": "credit limit",
+  "meaning": "The most money a bank lets you spend on your card.",
+  "tamil": "கடன் அட்டை வரம்பு",
+  "pos": "noun",
+  "pron": "KRED-it LIM-it",
+  "example": "I crossed my credit limit while shopping for the wedding.",
+  "exampleTamil": "திருமணத்துக்குப் பொருட்கள் வாங்கும்போது என் கடன் அட்டை வரம்பைத் தாண்டிவிட்டேன்.",
+  "synonyms": [
+   "spending limit",
+   "card limit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "penniless",
+  "meaning": "Having no money at all.",
+  "tamil": "கையில் ஒரு காசும் இல்லாத",
+  "pos": "adjective",
+  "pron": "PEN-ee-less",
+  "example": "The traveller was penniless after his wallet was stolen.",
+  "exampleTamil": "பணப்பை திருடப்பட்ட பிறகு அந்தப் பயணி கையில் ஒரு காசும் இல்லாமல் இருந்தார்.",
+  "synonyms": [
+   "broke",
+   "poor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "well-off",
+  "meaning": "Having enough money to live comfortably.",
+  "tamil": "வசதியான",
+  "pos": "adjective",
+  "pron": "wel-OFF",
+  "example": "His family is well-off and owns two houses.",
+  "exampleTamil": "அவனுடைய குடும்பம் வசதியானது, இரண்டு வீடுகள் உள்ளன.",
+  "synonyms": [
+   "comfortable",
+   "prosperous"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "affluent",
+  "meaning": "Having a lot of money and a comfortable life.",
+  "tamil": "செழிப்பான",
+  "pos": "adjective",
+  "pron": "AF-loo-ent",
+  "example": "They live in an affluent part of the city.",
+  "exampleTamil": "அவர்கள் நகரின் செழிப்பான பகுதியில் வசிக்கிறார்கள்.",
+  "synonyms": [
+   "wealthy",
+   "rich"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "miserly",
+  "meaning": "Not wanting to spend money, even when you can.",
+  "tamil": "கஞ்சத்தனமான",
+  "pos": "adjective",
+  "pron": "MY-zer-lee",
+  "example": "My miserly uncle never buys anyone a gift.",
+  "exampleTamil": "என் கஞ்சத்தனமான மாமா யாருக்கும் பரிசு வாங்கித் தருவதில்லை.",
+  "synonyms": [
+   "stingy",
+   "tight-fisted"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "extravagant",
+  "meaning": "Spending too much money on things you do not need.",
+  "tamil": "ஆடம்பரமாகச் செலவு செய்கிற",
+  "pos": "adjective",
+  "pron": "ik-STRAV-uh-gunt",
+  "example": "It was extravagant to spend so much on one dress.",
+  "exampleTamil": "ஒரே உடைக்கு இவ்வளவு செலவு செய்தது ஆடம்பரம்.",
+  "synonyms": [
+   "wasteful",
+   "lavish"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "best price",
+  "meaning": "The lowest price a seller is willing to accept.",
+  "tamil": "குறைந்தபட்ச விலை",
+  "pos": "noun",
+  "pron": "BEST PRYSS",
+  "example": "Please tell me your best price for two pieces.",
+  "exampleTamil": "இரண்டு பொருட்களுக்கு உங்கள் குறைந்தபட்ச விலையைச் சொல்லுங்கள்.",
+  "synonyms": [
+   "lowest price",
+   "last price"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fixed price",
+  "meaning": "A price that cannot be changed or bargained.",
+  "tamil": "நிலையான விலை",
+  "pos": "noun",
+  "pron": "FIKST PRYSS",
+  "example": "This is a fixed price shop, so we cannot bargain.",
+  "exampleTamil": "இது நிலையான விலைக் கடை, அதனால் பேரம் பேச முடியாது.",
+  "synonyms": [
+   "set price"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "delivery charge",
+  "meaning": "The extra money you pay to have things brought to your home.",
+  "tamil": "டெலிவரி கட்டணம்",
+  "pos": "noun",
+  "pron": "dih-LIV-uh-ree CHARJ",
+  "example": "The delivery charge is fifty rupees for small orders.",
+  "exampleTamil": "சிறிய ஆர்டர்களுக்கு டெலிவரி கட்டணம் ஐம்பது ரூபாய்.",
+  "synonyms": [
+   "shipping fee"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "service charge",
+  "meaning": "An extra amount added to a bill for the service given.",
+  "tamil": "சேவைக் கட்டணம்",
+  "pos": "noun",
+  "pron": "SUR-viss CHARJ",
+  "example": "The restaurant added a service charge to our bill.",
+  "exampleTamil": "உணவகம் எங்கள் பில்லில் சேவைக் கட்டணத்தைச் சேர்த்திருந்தது.",
+  "synonyms": [
+   "fee",
+   "surcharge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "income tax",
+  "meaning": "Tax that people pay on the money they earn.",
+  "tamil": "வருமான வரி",
+  "pos": "noun",
+  "pron": "IN-kum TAKS",
+  "example": "My company cuts income tax from my salary every month.",
+  "exampleTamil": "என் நிறுவனம் ஒவ்வொரு மாதமும் என் சம்பளத்திலிருந்து வருமான வரியைப் பிடிக்கிறது.",
+  "synonyms": [
+   "tax on earnings"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tax refund",
+  "meaning": "Money the government gives back when you paid too much tax.",
+  "tamil": "வரித் திருப்பிச் செலுத்துதல்",
+  "pos": "noun",
+  "pron": "TAKS REE-fund",
+  "example": "I received a tax refund of three thousand rupees.",
+  "exampleTamil": "எனக்கு மூவாயிரம் ரூபாய் வரித் திருப்பிச் செலுத்தல் கிடைத்தது.",
+  "synonyms": [
+   "tax return",
+   "rebate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "earnings",
+  "meaning": "The money a person or business makes from work.",
+  "tamil": "ஈட்டிய வருமானம்",
+  "pos": "noun",
+  "pron": "UR-ningz",
+  "example": "His earnings from the small shop are quite steady.",
+  "exampleTamil": "அந்தச் சிறிய கடையிலிருந்து அவனுக்குக் கிடைக்கும் வருமானம் நிலையாக உள்ளது.",
+  "synonyms": [
+   "income",
+   "pay"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cost-effective",
+  "meaning": "Giving good results without costing too much money.",
+  "tamil": "செலவுக்கேற்ற பலன் தரும்",
+  "pos": "adjective",
+  "pron": "kost-ih-FEK-tiv",
+  "example": "Buying in bulk is more cost-effective for a big family.",
+  "exampleTamil": "பெரிய குடும்பத்துக்கு மொத்தமாக வாங்குவது செலவுக்கேற்ற பலன் தரும்.",
+  "synonyms": [
+   "economical",
+   "affordable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "value for money",
+  "meaning": "Good quality for the price you pay.",
+  "tamil": "கொடுத்த பணத்துக்கு ஏற்ற மதிப்பு",
+  "pos": "phrase",
+  "pron": "VAL-yoo for MUN-ee",
+  "example": "This phone is real value for money.",
+  "exampleTamil": "இந்தத் தொலைபேசி கொடுத்த பணத்துக்கு உண்மையிலேயே ஏற்ற மதிப்பு.",
+  "synonyms": [
+   "good deal",
+   "worthwhile"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shopaholic",
+  "meaning": "A person who loves shopping and buys too much.",
+  "tamil": "அதிகம் பொருட்கள் வாங்கும் பழக்கமுள்ளவர்",
+  "pos": "noun",
+  "pron": "shop-uh-HOL-ik",
+  "example": "My sister is a shopaholic and has too many sarees.",
+  "exampleTamil": "என் தங்கை அதிகம் வாங்கும் பழக்கமுள்ளவள், அவளிடம் ஏராளமான புடவைகள் உள்ளன.",
+  "synonyms": [
+   "spendthrift"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "window-shopping",
+  "meaning": "Looking at things in shop windows without buying anything.",
+  "tamil": "வாங்காமல் கடைகளைச் சுற்றிப் பார்த்தல்",
+  "pos": "noun",
+  "pron": "WIN-doh-SHOP-ing",
+  "example": "We spent the evening window-shopping at the mall.",
+  "exampleTamil": "நாங்கள் மாலை நேரத்தை வணிக வளாகத்தில் கடைகளைச் சுற்றிப் பார்த்துக் கழித்தோம்.",
+  "synonyms": [
+   "browsing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pre-owned",
+  "meaning": "Used before by someone else, and now sold again.",
+  "tamil": "ஏற்கனவே பயன்படுத்தப்பட்ட",
+  "pos": "adjective",
+  "pron": "pree-OHND",
+  "example": "He bought a pre-owned car in very good condition.",
+  "exampleTamil": "அவர் மிக நல்ல நிலையில் உள்ள பயன்படுத்தப்பட்ட காரை வாங்கினார்.",
+  "synonyms": [
+   "used",
+   "second-hand"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "refurbished",
+  "meaning": "Repaired and cleaned so it looks and works like new.",
+  "tamil": "புதுப்பிக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "ree-FUR-bisht",
+  "example": "I bought a refurbished laptop at half the price.",
+  "exampleTamil": "நான் பாதி விலையில் புதுப்பிக்கப்பட்ட மடிக்கணினி வாங்கினேன்.",
+  "synonyms": [
+   "renovated",
+   "restored"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "knockoff",
+  "meaning": "A cheap copy of a famous brand product.",
+  "tamil": "பிரபல பிராண்டின் மலிவான போலி",
+  "pos": "noun",
+  "pron": "NOK-off",
+  "example": "The bag looked real, but it was only a knockoff.",
+  "exampleTamil": "அந்தப் பை உண்மையானது போலத் தெரிந்தது, ஆனால் அது வெறும் போலி.",
+  "synonyms": [
+   "copy",
+   "imitation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "return policy",
+  "meaning": "The shop rules about taking back things you bought.",
+  "tamil": "பொருள் திருப்பி அளிக்கும் கொள்கை",
+  "pos": "noun",
+  "pron": "rih-TURN POL-uh-see",
+  "example": "Please check the return policy before you buy shoes online.",
+  "exampleTamil": "இணையத்தில் காலணி வாங்கும் முன் திருப்பி அளிக்கும் கொள்கையைப் பாருங்கள்.",
+  "synonyms": [
+   "refund rules"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cash on delivery",
+  "meaning": "Paying in cash when your order arrives at your door.",
+  "tamil": "பொருள் வந்ததும் பணம் செலுத்துதல்",
+  "pos": "phrase",
+  "pron": "KASH on dih-LIV-uh-ree",
+  "example": "My mother likes cash on delivery for online orders.",
+  "exampleTamil": "என் அம்மா இணைய ஆர்டர்களுக்குப் பொருள் வந்ததும் பணம் செலுத்துவதை விரும்புகிறார்.",
+  "synonyms": [
+   "pay on arrival"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "price hike",
+  "meaning": "A sudden rise in the price of something.",
+  "tamil": "விலை உயர்வு",
+  "pos": "noun",
+  "pron": "PRYSS HYK",
+  "example": "The price hike in onions upset every family.",
+  "exampleTamil": "வெங்காய விலை உயர்வு ஒவ்வொரு குடும்பத்தையும் வருத்தப்படுத்தியது.",
+  "synonyms": [
+   "price rise",
+   "increase"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flash sale",
+  "meaning": "A sale with big discounts that lasts only a short time.",
+  "tamil": "குறுகிய நேர சிறப்புத் தள்ளுபடி",
+  "pos": "noun",
+  "pron": "FLASH SAYL",
+  "example": "The flash sale ends at midnight, so hurry.",
+  "exampleTamil": "சிறப்புத் தள்ளுபடி நள்ளிரவில் முடிகிறது, அதனால் விரைந்து செல்லுங்கள்.",
+  "synonyms": [
+   "quick sale",
+   "offer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "split the bill",
+  "meaning": "To share the cost of a meal or payment equally.",
+  "tamil": "கட்டணத்தைப் பகிர்ந்து செலுத்து",
+  "pos": "phrase",
+  "pron": "SPLIT the BIL",
+  "example": "Let us split the bill between the four of us.",
+  "exampleTamil": "நம் நால்வரிடையே கட்டணத்தைப் பகிர்ந்து செலுத்துவோம்.",
+  "synonyms": [
+   "share the cost",
+   "go halves"
+  ],
+  "level": "intermediate"
+ }
+]

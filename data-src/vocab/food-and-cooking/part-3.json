@@ -1,0 +1,352 @@
+[
+ {
+  "word": "baste",
+  "meaning": "To pour melted fat or juices over meat while it cooks.",
+  "tamil": "சமைக்கும்போது இறைச்சியின் மேல் உருகிய கொழுப்பு அல்லது சாற்றை ஊற்றுதல்.",
+  "pos": "verb",
+  "pron": "BAYST",
+  "example": "Please baste the chicken with butter every ten minutes.",
+  "exampleTamil": "ஒவ்வொரு பத்து நிமிடத்திற்கும் கோழிக்கறியின் மேல் வெண்ணெயைத் தடவுங்கள்.",
+  "synonyms": [
+   "brush",
+   "coat"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "garnish",
+  "meaning": "To decorate food with a small extra item like leaves.",
+  "tamil": "உணவை இலைகள் போன்றவற்றால் அழகுபடுத்துதல்.",
+  "pos": "verb",
+  "pron": "GAR-nish",
+  "example": "She garnished the soup with fresh coriander.",
+  "exampleTamil": "அவள் சூப்பை புதிய கொத்தமல்லியால் அலங்கரித்தாள்.",
+  "synonyms": [
+   "decorate",
+   "top"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "savoury",
+  "meaning": "Salty or spicy in taste, not sweet.",
+  "tamil": "இனிப்பு அல்லாத, உப்பு அல்லது காரச்சுவை கொண்ட.",
+  "pos": "adjective",
+  "pron": "SAY-vuh-ree",
+  "example": "I prefer savoury snacks to sweet ones.",
+  "exampleTamil": "எனக்கு இனிப்பு தின்பண்டங்களை விட காரமான தின்பண்டங்கள் பிடிக்கும்.",
+  "synonyms": [
+   "salty",
+   "spicy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "zesty",
+  "meaning": "Having a fresh, sharp and exciting taste.",
+  "tamil": "புத்துணர்ச்சி தரும் கூர்மையான சுவை கொண்ட.",
+  "pos": "adjective",
+  "pron": "ZES-tee",
+  "example": "The zesty lime dressing made the salad taste great.",
+  "exampleTamil": "எலுமிச்சை சாஸ் சாலட்டை மிகவும் சுவையாக்கியது.",
+  "synonyms": [
+   "tangy",
+   "sharp"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "famished",
+  "meaning": "Extremely hungry.",
+  "tamil": "மிகவும் பசியோடு இருக்கும்.",
+  "pos": "adjective",
+  "pron": "FAM-isht",
+  "example": "I skipped lunch and now I am famished.",
+  "exampleTamil": "மதிய உணவை தவிர்த்தேன், இப்போது பயங்கரமாகப் பசிக்கிறது.",
+  "synonyms": [
+   "starving",
+   "ravenous"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cleaver",
+  "meaning": "A big heavy knife for cutting meat and bones.",
+  "tamil": "இறைச்சி, எலும்பை வெட்டப் பயன்படும் பெரிய கனமான கத்தி.",
+  "pos": "noun",
+  "pron": "KLEE-vur",
+  "example": "The butcher cut the bones with a sharp cleaver.",
+  "exampleTamil": "கசாப்புக்கடைக்காரர் கூர்மையான பெரிய கத்தியால் எலும்புகளை வெட்டினார்.",
+  "synonyms": [
+   "chopper",
+   "knife"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stir-fry",
+  "meaning": "To cook food quickly in a little hot oil while moving it around.",
+  "tamil": "சிறிது சூடான எண்ணெயில் உணவை கிளறிக்கொண்டே விரைவாக வதக்குதல்.",
+  "pos": "verb",
+  "pron": "STUR-fry",
+  "example": "I stir-fry vegetables with a little oil for dinner.",
+  "exampleTamil": "நான் இரவு உணவுக்கு சிறிது எண்ணெயில் காய்கறிகளை வதக்குவேன்.",
+  "synonyms": [
+   "sear",
+   "saute"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "devour",
+  "meaning": "To eat something very quickly because you are very hungry.",
+  "tamil": "மிகுந்த பசியால் அவசரமாக விழுங்கி சாப்பிடுதல்.",
+  "pos": "verb",
+  "pron": "dih-VOWR",
+  "example": "The kids devoured the pizza in five minutes.",
+  "exampleTamil": "குழந்தைகள் ஐந்து நிமிடத்தில் பீட்சாவை விழுங்கித் தீர்த்தனர்.",
+  "synonyms": [
+   "gobble",
+   "gulp"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mince",
+  "meaning": "To cut food into very small pieces.",
+  "tamil": "உணவை மிக நுண்ணிய துண்டுகளாக நறுக்குதல்.",
+  "pos": "verb",
+  "pron": "MINSS",
+  "example": "Mince the onions finely before adding them to the pan.",
+  "exampleTamil": "வாணலியில் சேர்ப்பதற்கு முன் வெங்காயத்தை நுண்ணியதாக நறுக்குங்கள்.",
+  "synonyms": [
+   "chop",
+   "grind"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ferment",
+  "meaning": "To change slowly with tiny living things, like dosa batter or curd becoming sour.",
+  "tamil": "நுண்ணுயிர்களால் மெதுவாக மாறி புளித்தல், உதாரணம் தோசை மாவு.",
+  "pos": "verb",
+  "pron": "fur-MENT",
+  "example": "The idli batter needs eight hours to ferment.",
+  "exampleTamil": "இட்லி மாவு புளிக்க எட்டு மணி நேரம் தேவை.",
+  "synonyms": [
+   "sour",
+   "brew"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "platter",
+  "meaning": "A large flat plate for serving food.",
+  "tamil": "உணவு பரிமாறப் பயன்படும் பெரிய தட்டையான தட்டு.",
+  "pos": "noun",
+  "pron": "PLAT-ur",
+  "example": "They brought a platter of fried fish to the table.",
+  "exampleTamil": "அவர்கள் மேசைக்கு பொரித்த மீன் தட்டு கொண்டுவந்தனர்.",
+  "synonyms": [
+   "tray",
+   "dish"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nibble",
+  "meaning": "To eat small bites of food slowly.",
+  "tamil": "உணவை சிறு சிறு கடியாகக் கொறித்தல்.",
+  "pos": "verb",
+  "pron": "NIB-ul",
+  "example": "She nibbled a biscuit while reading the news.",
+  "exampleTamil": "அவள் செய்தி படிக்கும்போது பிஸ்கட்டைக் கொறித்தாள்.",
+  "synonyms": [
+   "munch",
+   "snack"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ravenous",
+  "meaning": "Extremely hungry.",
+  "tamil": "கடுமையான பசியுடன் இருக்கும்.",
+  "pos": "adjective",
+  "pron": "RAV-uh-nus",
+  "example": "After the long trek, we were ravenous.",
+  "exampleTamil": "நீண்ட மலையேற்றத்துக்குப் பின் நாங்கள் கடும் பசியுடன் இருந்தோம்.",
+  "synonyms": [
+   "famished",
+   "starving"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scrumptious",
+  "meaning": "Very tasty and delicious.",
+  "tamil": "மிகவும் சுவையான.",
+  "pos": "adjective",
+  "pron": "SKRUMP-shus",
+  "example": "Her scrumptious cake disappeared in minutes.",
+  "exampleTamil": "அவளுடைய சுவையான கேக் நிமிடங்களில் தீர்ந்துவிட்டது.",
+  "synonyms": [
+   "yummy",
+   "tasty"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "succulent",
+  "meaning": "Juicy and tender, and tasty to eat.",
+  "tamil": "சாறு நிறைந்த, மென்மையான, சுவையான.",
+  "pos": "adjective",
+  "pron": "SUK-yuh-lunt",
+  "example": "The succulent mutton melted in my mouth.",
+  "exampleTamil": "சாறு நிறைந்த மட்டன் வாயில் கரைந்தது.",
+  "synonyms": [
+   "juicy",
+   "tender"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gourmet",
+  "meaning": "Describing food of very high quality and fine taste.",
+  "tamil": "மிகத் தரமான, உயர்தர சுவையுடைய (உணவு).",
+  "pos": "adjective",
+  "pron": "GOOR-may",
+  "example": "They opened a gourmet restaurant near the beach.",
+  "exampleTamil": "அவர்கள் கடற்கரைக்கு அருகில் உயர்தர உணவகம் திறந்தனர்.",
+  "synonyms": [
+   "fine",
+   "premium"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "delectable",
+  "meaning": "Very pleasing to taste.",
+  "tamil": "சுவைக்க மிகவும் இனிய, ருசியான.",
+  "pos": "adjective",
+  "pron": "dih-LEK-tuh-bul",
+  "example": "The wedding feast had many delectable dishes.",
+  "exampleTamil": "திருமண விருந்தில் பல சுவையான உணவுகள் இருந்தன.",
+  "synonyms": [
+   "tasty",
+   "scrumptious"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pungent",
+  "meaning": "Having a strong sharp smell or taste.",
+  "tamil": "கடுமையான காரமான வாசனை அல்லது சுவையுடைய.",
+  "pos": "adjective",
+  "pron": "PUN-junt",
+  "example": "The pungent smell of fried onions filled the kitchen.",
+  "exampleTamil": "வதக்கிய வெங்காயத்தின் கடுமையான மணம் சமையலறையை நிரப்பியது.",
+  "synonyms": [
+   "sharp",
+   "strong"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "caramelize",
+  "meaning": "To cook sugar or onions until they turn brown and sweet.",
+  "tamil": "சர்க்கரை அல்லது வெங்காயத்தை பழுப்பு நிறமாகி இனிக்கும்வரை சமைத்தல்.",
+  "pos": "verb",
+  "pron": "KAR-uh-muh-lyz",
+  "example": "Let the onions caramelize slowly on low heat.",
+  "exampleTamil": "வெங்காயம் குறைந்த தீயில் மெதுவாக பழுப்பாகும்படி விடுங்கள்.",
+  "synonyms": [
+   "brown",
+   "glaze"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sear",
+  "meaning": "To cook the outside of meat quickly at very high heat.",
+  "tamil": "இறைச்சியின் வெளிப்புறத்தை அதிக சூட்டில் விரைவாக வாட்டுதல்.",
+  "pos": "verb",
+  "pron": "SEER",
+  "example": "Sear the fish for one minute on each side.",
+  "exampleTamil": "மீனை ஒவ்வொரு பக்கமும் ஒரு நிமிடம் அதிக சூட்டில் வாட்டுங்கள்.",
+  "synonyms": [
+   "brown",
+   "scorch"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "braise",
+  "meaning": "To cook meat slowly in a little liquid in a covered pot.",
+  "tamil": "மூடிய பாத்திரத்தில் சிறிது திரவத்துடன் இறைச்சியை மெதுவாக வேகவைத்தல்.",
+  "pos": "verb",
+  "pron": "BRAYZ",
+  "example": "My mother braises the lamb for three hours.",
+  "exampleTamil": "என் அம்மா ஆட்டிறைச்சியை மூன்று மணி நேரம் மெதுவாக வேகவைப்பார்.",
+  "synonyms": [
+   "stew",
+   "simmer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "blanch",
+  "meaning": "To put vegetables in boiling water for a short time, then cool them.",
+  "tamil": "காய்கறிகளை கொதிநீரில் சிறிது நேரம் போட்டு பின் குளிர்வித்தல்.",
+  "pos": "verb",
+  "pron": "BLANCH",
+  "example": "Blanch the beans for two minutes, then put them in cold water.",
+  "exampleTamil": "பீன்ஸை இரண்டு நிமிடம் கொதிநீரில் போட்டு, பின் குளிர்ந்த நீரில் போடுங்கள்.",
+  "synonyms": [
+   "parboil",
+   "scald"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "poach",
+  "meaning": "To cook food gently in hot water or milk.",
+  "tamil": "சூடான நீர் அல்லது பாலில் உணவை மெதுவாக வேகவைத்தல்.",
+  "pos": "verb",
+  "pron": "POHCH",
+  "example": "He likes to poach eggs for breakfast.",
+  "exampleTamil": "அவன் காலை உணவுக்கு முட்டையை நீரில் வேகவைக்க விரும்புவான்.",
+  "synonyms": [
+   "simmer",
+   "boil"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "culinary",
+  "meaning": "Related to cooking or kitchens.",
+  "tamil": "சமையல் சார்ந்த.",
+  "pos": "adjective",
+  "pron": "KUL-ih-nair-ee",
+  "example": "She is taking a culinary course in Chennai.",
+  "exampleTamil": "அவள் சென்னையில் சமையல் கலை படிப்பு படிக்கிறாள்.",
+  "synonyms": [
+   "cooking",
+   "kitchen"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "palatable",
+  "meaning": "Pleasant enough to eat or drink.",
+  "tamil": "சாப்பிடக்கூடிய அளவு நன்றாக இருக்கும் சுவையுள்ள.",
+  "pos": "adjective",
+  "pron": "PAL-uh-tuh-bul",
+  "example": "A little salt made the plain soup more palatable.",
+  "exampleTamil": "சிறிது உப்பு சாதாரண சூப்பை சாப்பிட ஏற்றதாக்கியது.",
+  "synonyms": [
+   "tasty",
+   "edible"
+  ],
+  "level": "advanced"
+ }
+]

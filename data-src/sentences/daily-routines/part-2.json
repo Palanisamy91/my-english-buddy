@@ -1,0 +1,376 @@
+[
+ {
+  "en": "I need to iron my shirt before I leave.",
+  "tamil": "நான் கிளம்புறதுக்கு முன்னாடி சட்டையை அயர்ன் பண்ணனும்.",
+  "context": "Getting ready for work in the morning.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Need to' shows something necessary. 'Before I leave' gives the time limit.",
+  "words": [
+   "iron",
+   "shirt"
+  ],
+  "usage": "Use it at home when you are getting ready for office.",
+  "leelaQ": "What do you do to get ready in the morning?",
+  "answer": "I take a bath, iron my clothes and eat breakfast."
+ },
+ {
+  "en": "He never skips his morning walk.",
+  "tamil": "அவர் காலை நடைப்பயிற்சியை எப்பவுமே விட மாட்டார்.",
+  "context": "Talking about your father's healthy habit.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' makes the sentence negative without 'not'. 'Skips' means does not do something.",
+  "words": [
+   "skips",
+   "walk"
+  ],
+  "usage": "Use it to praise someone's regular habit.",
+  "leelaQ": "Do you go for a walk in the morning or evening?",
+  "answer": "I go for a walk in the evening near the park."
+ },
+ {
+  "en": "Leave the plates in the sink, I will wash them later.",
+  "tamil": "தட்டுகளை சிங்க்ல போடு, நான் அப்புறம் கழுவிக்கிறேன்.",
+  "context": "Telling a family member not to worry about dishes.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "A command and a plan joined with a comma. 'Later' means after some time.",
+  "words": [
+   "plates",
+   "wash"
+  ],
+  "usage": "Use it at home after a meal when you offer to clean up.",
+  "leelaQ": "Do you wash the dishes right after eating?",
+  "answer": "Yes, I wash them immediately so the kitchen stays clean."
+ },
+ {
+  "en": "What time does your school bus come?",
+  "tamil": "உன் ஸ்கூல் பஸ் எத்தனை மணிக்கு வரும்?",
+  "context": "Asking a neighbour's child about the school bus.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Does' is used with 'your school bus' because it is singular.",
+  "words": [
+   "school bus"
+  ],
+  "usage": "Use it with a child or parent to plan the morning.",
+  "leelaQ": "What time does your bus or train leave in the morning?",
+  "answer": "My bus leaves at a quarter past eight."
+ },
+ {
+  "en": "I am running late, so I will skip breakfast.",
+  "tamil": "எனக்கு நேரமாச்சு, அதனால டிபன் சாப்பிடல.",
+  "context": "Rushing out of the house in the morning.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Running late' means you will not reach on time. 'So' shows the result.",
+  "words": [
+   "running late",
+   "skip"
+  ],
+  "usage": "Use it at home when you are in a hurry.",
+  "leelaQ": "Do you ever skip breakfast?",
+  "answer": "Sometimes I skip it when I am late for work."
+ },
+ {
+  "en": "Can you pick up some vegetables on your way home?",
+  "tamil": "வீட்டுக்கு வர்ற வழியில கொஞ்சம் காய்கறி வாங்கிட்டு வர முடியுமா?",
+  "context": "Asking your husband to shop on the way back.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Pick up' means to buy or collect something. 'On your way home' means during the trip.",
+  "words": [
+   "pick up",
+   "vegetables"
+  ],
+  "usage": "Use it on a call when your family member is returning from work.",
+  "leelaQ": "What do you buy on your way home from work?",
+  "answer": "I buy vegetables and fruits from the roadside shop."
+ },
+ {
+  "en": "We usually have dinner at nine o'clock.",
+  "tamil": "நாங்க பொதுவா ஒன்பது மணிக்கு ராத்திரி சாப்பாடு சாப்பிடுவோம்.",
+  "context": "Telling a guest your family's dinner time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Usually' shows what normally happens. Time with 'at' is a fixed clock time.",
+  "words": [
+   "usually",
+   "dinner"
+  ],
+  "usage": "Use it when you invite a guest or talk about family timings.",
+  "leelaQ": "What time does your family have dinner?",
+  "answer": "We have dinner around eight thirty."
+ },
+ {
+  "en": "My train was cancelled, so I came by bus.",
+  "tamil": "என் ட்ரெயின் கேன்சல் ஆயிடுச்சு, அதனால பஸ்ல வந்தேன்.",
+  "context": "Explaining to your manager why you reached late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was cancelled' is a passive form. 'So' explains the result.",
+  "words": [
+   "cancelled",
+   "came"
+  ],
+  "usage": "Use it at office to explain a delay on the way.",
+  "leelaQ": "What do you do when your train or bus is late?",
+  "answer": "I take an auto or ask a friend for a lift."
+ },
+ {
+  "en": "Please don't make noise, the baby is sleeping.",
+  "tamil": "சத்தம் போடாதீங்க, குழந்தை தூங்குது.",
+  "context": "Asking people to be quiet at home.",
+  "tense": "present-continuous",
+  "type": "negative",
+  "explain": "'Don't' + base verb gives a polite negative request. 'Is sleeping' shows it is happening now.",
+  "words": [
+   "noise",
+   "sleeping"
+  ],
+  "usage": "Use it at home when someone is resting or a baby is asleep.",
+  "leelaQ": "How do you keep the house quiet when someone is sleeping?",
+  "answer": "I lower the TV volume and talk softly."
+ },
+ {
+  "en": "How long does it take you to reach office?",
+  "tamil": "ஆபீஸ் போய் சேர உனக்கு எவ்வளவு நேரம் ஆகும்?",
+  "context": "Asking a colleague about their travel time.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How long does it take' asks about the time needed for a journey.",
+  "words": [
+   "reach",
+   "take"
+  ],
+  "usage": "Use it with a coworker to talk about commuting.",
+  "leelaQ": "How long does it take you to reach your office or college?",
+  "answer": "It takes me about forty minutes by bus."
+ },
+ {
+  "en": "I have been cooking since morning.",
+  "tamil": "நான் காலைல இருந்து சமைச்சுட்டே இருக்கேன்.",
+  "context": "Complaining gently about a long day in the kitchen.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been cooking since' shows an action that started in the past and is still going on.",
+  "words": [
+   "cooking",
+   "since"
+  ],
+  "usage": "Use it when you are tired and want family help.",
+  "leelaQ": "What is the longest time you have spent cooking?",
+  "answer": "I once cooked for the whole day for a festival."
+ },
+ {
+  "en": "Shall we go for a walk after dinner?",
+  "tamil": "சாப்பிட்டதுக்கு அப்புறம் வாக்கிங் போலாமா?",
+  "context": "Inviting your spouse for an evening walk.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Shall we ...?' is a friendly suggestion. 'Go for a walk' is a fixed phrase.",
+  "words": [
+   "walk",
+   "dinner"
+  ],
+  "usage": "Use it at home to suggest a short family walk.",
+  "leelaQ": "Do you like to walk after dinner?",
+  "answer": "Yes, a short walk helps me digest my food."
+ },
+ {
+  "en": "I take a bath and pray before leaving for work.",
+  "tamil": "நான் குளிச்சுட்டு சாமி கும்பிட்டுட்டு தான் வேலைக்கு கிளம்புவேன்.",
+  "context": "Describing a morning routine.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Before leaving' uses -ing after 'before'. 'Pray' means to talk to God.",
+  "words": [
+   "bath",
+   "pray"
+  ],
+  "usage": "Use it when you talk about your morning habits.",
+  "leelaQ": "What is the first thing you do after waking up?",
+  "answer": "I wash my face and drink a glass of water."
+ },
+ {
+  "en": "The newspaper has not come yet.",
+  "tamil": "பேப்பர் இன்னும் வரல.",
+  "context": "Noticing the paper boy is late.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Has not come yet' means it is expected but not here. 'Yet' goes at the end.",
+  "words": [
+   "newspaper",
+   "yet"
+  ],
+  "usage": "Use it at home in the morning when the paper is late.",
+  "leelaQ": "Do you read the newspaper every day?",
+  "answer": "Yes, I read the headlines with my morning tea."
+ },
+ {
+  "en": "Turn off the fan when you leave the room.",
+  "tamil": "நீ ரூம்ல இருந்து போகும்போது ஃபேனை ஆஃப் பண்ணு.",
+  "context": "A parent teaching a child to save electricity.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "A command with 'when' tells the exact time to do it. 'Leave' means to go out.",
+  "words": [
+   "turn off",
+   "leave"
+  ],
+  "usage": "Use it at home to build good habits in children.",
+  "leelaQ": "How do you save electricity at home?",
+  "answer": "I switch off lights and fans when I leave the room."
+ },
+ {
+  "en": "We are waiting for the gas cylinder.",
+  "tamil": "நாங்க கேஸ் சிலிண்டருக்காக காத்துட்டு இருக்கோம்.",
+  "context": "Telling a relative why cooking is delayed.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Are waiting for' shows we are waiting right now. 'Cylinder' is the gas tank at home.",
+  "words": [
+   "waiting",
+   "cylinder"
+  ],
+  "usage": "Use it when you explain a small problem in the kitchen.",
+  "leelaQ": "What do you do when the gas finishes while cooking?",
+  "answer": "I use an induction stove until the new cylinder comes."
+ },
+ {
+  "en": "I wash my hair twice a week.",
+  "tamil": "நான் வாரத்துக்கு ரெண்டு தடவை தலைக்கு குளிப்பேன்.",
+  "context": "Talking about personal care with a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Twice a week' tells how often. The verb stays in the simple present.",
+  "words": [
+   "wash",
+   "twice a week"
+  ],
+  "usage": "Use it in a casual chat about habits and health.",
+  "leelaQ": "How often do you wash your hair?",
+  "answer": "I wash my hair three times a week."
+ },
+ {
+  "en": "Did you lock the door before you left?",
+  "tamil": "கிளம்புறதுக்கு முன்னாடி கதவை பூட்டினியா?",
+  "context": "Asking someone who is already on the way.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did you ...?' asks about a finished action. 'Before you left' gives the order of events.",
+  "words": [
+   "lock",
+   "door"
+  ],
+  "usage": "Use it on a call when you are worried about the house.",
+  "leelaQ": "Do you ever forget to lock the door?",
+  "answer": "Sometimes I forget, so I always check twice."
+ },
+ {
+  "en": "The kids will come home from tuition by seven.",
+  "tamil": "குழந்தைகள் ட்யூஷன்ல இருந்து ஏழு மணிக்குள்ள வீட்டுக்கு வந்துடுவாங்க.",
+  "context": "Telling a guest when the children will return.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'By seven' means not later than seven. 'Tuition' means extra classes after school.",
+  "words": [
+   "tuition",
+   "by seven"
+  ],
+  "usage": "Use it when a guest or relative asks about the children.",
+  "leelaQ": "Do your children go to tuition or other classes?",
+  "answer": "Yes, they go to a maths class every evening."
+ },
+ {
+  "en": "I don't have time to cook in the morning.",
+  "tamil": "எனக்கு காலைல சமைக்க நேரம் இல்ல.",
+  "context": "Explaining why you eat outside on workdays.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Don't have time to' + verb says you are too busy. It is a common reason in daily life.",
+  "words": [
+   "time",
+   "cook"
+  ],
+  "usage": "Use it with friends when they ask why you eat out.",
+  "leelaQ": "Why is the morning time so busy for many people?",
+  "answer": "There is a lot to do before leaving for work."
+ },
+ {
+  "en": "Please bring my phone charger from the bedroom.",
+  "tamil": "என் ஃபோன் சார்ஜரை பெட்ரூம்ல இருந்து எடுத்துட்டு வாங்க.",
+  "context": "Asking a family member to fetch something.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Bring' means to take something to the speaker. 'From the bedroom' shows the place.",
+  "words": [
+   "charger",
+   "bring"
+  ],
+  "usage": "Use it at home when your phone battery is low.",
+  "leelaQ": "Where do you usually charge your phone?",
+  "answer": "I charge it near my bed at night."
+ },
+ {
+  "en": "She has already left for office.",
+  "tamil": "அவ ஏற்கனவே ஆபீஸுக்கு கிளம்பிட்டா.",
+  "context": "Telling someone on the phone that your wife is not at home.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has left' shows the action is finished. 'For office' shows the place she went to.",
+  "words": [
+   "left",
+   "already"
+  ],
+  "usage": "Use it when someone calls and asks for a family member.",
+  "leelaQ": "Who leaves home first in your family?",
+  "answer": "My father leaves first because his office is far."
+ },
+ {
+  "en": "What time do you usually go to bed?",
+  "tamil": "நீ பொதுவா எத்தனை மணிக்கு படுக்க போவ?",
+  "context": "Asking a friend about sleeping habits.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What time' asks for a clock time. 'Go to bed' means start sleeping.",
+  "words": [
+   "usually",
+   "bed"
+  ],
+  "usage": "Use it in a friendly chat about routines and health.",
+  "leelaQ": "What time do you go to bed on weekdays?",
+  "answer": "I go to bed around ten thirty."
+ },
+ {
+  "en": "I'm going to wash the car this Sunday.",
+  "tamil": "இந்த ஞாயிற்றுக்கிழமை நான் கார் கழுவப் போறேன்.",
+  "context": "Sharing a weekend plan with your family.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' shows a plan. Sunday is a common day for chores in India.",
+  "words": [
+   "wash",
+   "sunday"
+  ],
+  "usage": "Use it at home when you plan weekend work.",
+  "leelaQ": "What chores do you do on Sundays?",
+  "answer": "I clean the house and wash my clothes."
+ },
+ {
+  "en": "Can we eat dinner a little early today?",
+  "tamil": "இன்னைக்கு கொஞ்சம் சீக்கிரம் சாப்பிடலாமா?",
+  "context": "Asking your mother because of an early plan.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can we ...?' asks permission. 'A little early' softens the request.",
+  "words": [
+   "early",
+   "dinner"
+  ],
+  "usage": "Use it at home when you have to go out or wake early.",
+  "leelaQ": "Do you like eating dinner early or late?",
+  "answer": "I like to eat early and sleep early."
+ }
+]

@@ -1,0 +1,350 @@
+[
+ {
+  "word": "painter",
+  "meaning": "A person whose job is to paint walls and houses.",
+  "tamil": "வண்ணம் பூசுபவர்",
+  "pos": "noun",
+  "pron": "PAYN-ter",
+  "example": "The painter will start on the living room tomorrow.",
+  "exampleTamil": "வண்ணம் பூசுபவர் நாளை வரவேற்பறையில் தொடங்குவார்.",
+  "synonyms": [
+   "decorator",
+   "house painter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "handyman",
+  "meaning": "A person who does small repair jobs around a house.",
+  "tamil": "சிறு பழுது பார்ப்பவர்",
+  "pos": "noun",
+  "pron": "HAN-dee-man",
+  "example": "Our handyman fixed the loose door handle in minutes.",
+  "exampleTamil": "எங்கள் சிறு பழுது பார்ப்பவர் தளர்ந்த கைப்பிடியை சில நிமிடங்களில் சரிசெய்தார்.",
+  "synonyms": [
+   "repairman",
+   "fixer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wiring",
+  "meaning": "The system of electric wires inside a building.",
+  "tamil": "மின் வயரிங்",
+  "pos": "noun",
+  "pron": "WIYR-ing",
+  "example": "The old wiring in this house is not safe.",
+  "exampleTamil": "இந்த வீட்டில் உள்ள பழைய வயரிங் பாதுகாப்பானது அல்ல.",
+  "synonyms": [
+   "cables",
+   "electrics"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fuse",
+  "meaning": "A small safety part that stops electricity when there is too much.",
+  "tamil": "உருகி",
+  "pos": "noun",
+  "pron": "FYOOZ",
+  "example": "The fuse blew when I switched on the iron.",
+  "exampleTamil": "நான் இஸ்திரி பெட்டியைப் போட்டதும் உருகி போய்விட்டது.",
+  "synonyms": [
+   "breaker",
+   "safety switch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "power cut",
+  "meaning": "A time when the electricity supply stops.",
+  "tamil": "மின்வெட்டு",
+  "pos": "noun",
+  "pron": "POW-er KUT",
+  "example": "We had a long power cut during dinner.",
+  "exampleTamil": "இரவு உணவின்போது நீண்ட மின்வெட்டு ஏற்பட்டது.",
+  "synonyms": [
+   "blackout",
+   "outage"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "inverter",
+  "meaning": "A machine that gives backup electricity during a power cut.",
+  "tamil": "இன்வெர்ட்டர்",
+  "pos": "noun",
+  "pron": "in-VUR-ter",
+  "example": "The inverter keeps our fans running during power cuts.",
+  "exampleTamil": "மின்வெட்டின்போது இன்வெர்ட்டர் எங்கள் மின்விசிறிகளை ஓட வைக்கிறது.",
+  "synonyms": [
+   "backup power",
+   "UPS"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "generator",
+  "meaning": "A machine that makes electricity.",
+  "tamil": "மின்னாக்கி",
+  "pos": "noun",
+  "pron": "JEN-uh-ray-ter",
+  "example": "The shop switched on a generator during the blackout.",
+  "exampleTamil": "மின்தடையின்போது கடை ஒரு மின்னாக்கியை இயக்கியது.",
+  "synonyms": [
+   "power unit",
+   "dynamo"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stepmother",
+  "meaning": "The woman who is married to your father but is not your birth mother.",
+  "tamil": "தந்தையின் இரண்டாம் மனைவி; சிற்றன்னை",
+  "pos": "noun",
+  "pron": "STEP-muth-ur",
+  "example": "Her stepmother treats her like her own daughter.",
+  "exampleTamil": "அவளுடைய சிற்றன்னை அவளைத் தன் சொந்த மகளைப் போல நடத்துகிறார்.",
+  "synonyms": [
+   "father's wife"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sponge",
+  "meaning": "A soft pad used for washing things.",
+  "tamil": "கடற்பாசி / துடைப்பான்",
+  "pos": "noun",
+  "pron": "SPUNJ",
+  "example": "Use a sponge to wipe the kitchen counter.",
+  "exampleTamil": "சமையலறை மேடையைத் துடைக்க ஒரு பஞ்சைப் பயன்படுத்து.",
+  "synonyms": [
+   "scrubber",
+   "pad"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bleach",
+  "meaning": "A strong liquid used to whiten and disinfect things.",
+  "tamil": "வெளுப்புத் திரவம்",
+  "pos": "noun",
+  "pron": "BLEECH",
+  "example": "Add a little bleach to clean the bathroom floor.",
+  "exampleTamil": "குளியலறைத் தரையைச் சுத்தம் செய்ய கொஞ்சம் வெளுப்புத் திரவம் சேர்.",
+  "synonyms": [
+   "disinfectant",
+   "whitener"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "garbage",
+  "meaning": "Waste things you throw away.",
+  "tamil": "குப்பை",
+  "pos": "noun",
+  "pron": "GAR-bij",
+  "example": "Please take the garbage out before you leave.",
+  "exampleTamil": "போகும் முன் குப்பையை வெளியே எடுத்துச் செல்.",
+  "synonyms": [
+   "trash",
+   "rubbish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stepfather",
+  "meaning": "The man who is married to your mother but is not your birth father.",
+  "tamil": "தாயின் இரண்டாம் கணவர்; வளர்ப்புத் தந்தை",
+  "pos": "noun",
+  "pron": "STEP-fah-thur",
+  "example": "His stepfather taught him how to ride a bicycle.",
+  "exampleTamil": "அவனுடைய வளர்ப்புத் தந்தை அவனுக்கு சைக்கிள் ஓட்டக் கற்றுக்கொடுத்தார்.",
+  "synonyms": [
+   "mother's husband"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "compost",
+  "meaning": "Natural fertilizer made from rotting kitchen waste.",
+  "tamil": "இயற்கை உரம்",
+  "pos": "noun",
+  "pron": "KOM-post",
+  "example": "We make compost from vegetable peels for the garden.",
+  "exampleTamil": "காய்கறித் தோல்களிலிருந்து தோட்டத்துக்கு இயற்கை உரம் தயாரிக்கிறோம்.",
+  "synonyms": [
+   "manure",
+   "fertilizer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "weeding",
+  "meaning": "Removing unwanted plants from a garden.",
+  "tamil": "களை எடுத்தல்",
+  "pos": "noun",
+  "pron": "WEE-ding",
+  "example": "Weeding the garden took me two hours today.",
+  "exampleTamil": "இன்று தோட்டத்தில் களை எடுக்க எனக்கு இரண்டு மணி நேரம் ஆனது.",
+  "synonyms": [
+   "clearing",
+   "hoeing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "whitewash",
+  "meaning": "A white liquid used to paint walls, especially before festivals.",
+  "tamil": "சுண்ணாம்பு அடித்தல்",
+  "pos": "noun",
+  "pron": "WYT-wosh",
+  "example": "We gave the walls a fresh whitewash before Pongal.",
+  "exampleTamil": "பொங்கலுக்கு முன் சுவர்களுக்குப் புதிதாகச் சுண்ணாம்பு அடித்தோம்.",
+  "synonyms": [
+   "limewash",
+   "paint"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "leaking",
+  "meaning": "Letting liquid or gas escape through a hole.",
+  "tamil": "ஒழுகுகிற",
+  "pos": "adjective",
+  "pron": "LEE-king",
+  "example": "The leaking tap is wasting a lot of water.",
+  "exampleTamil": "ஒழுகும் குழாய் நிறையத் தண்ணீரை வீணாக்குகிறது.",
+  "synonyms": [
+   "dripping",
+   "seeping"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clogged",
+  "meaning": "Blocked so that nothing can pass through.",
+  "tamil": "அடைபட்ட",
+  "pos": "adjective",
+  "pron": "KLOGD",
+  "example": "The sink is clogged with food waste.",
+  "exampleTamil": "சிங்க் உணவுக் கழிவால் அடைபட்டுள்ளது.",
+  "synonyms": [
+   "blocked",
+   "jammed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "babysit",
+  "meaning": "To look after a small child while the parents are away.",
+  "tamil": "பெற்றோர் இல்லாதபோது குழந்தையைக் கவனித்துக்கொள்",
+  "pos": "verb",
+  "pron": "BAY-bee-sit",
+  "example": "I will babysit my neighbour's son this evening.",
+  "exampleTamil": "நான் இன்று மாலை என் பக்கத்து வீட்டுப் பையனைக் கவனித்துக்கொள்வேன்.",
+  "synonyms": [
+   "child-mind",
+   "watch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crack",
+  "meaning": "A thin line where something has split but not broken fully.",
+  "tamil": "விரிசல்",
+  "pos": "noun",
+  "pron": "KRAK",
+  "example": "There is a long crack in the bedroom wall.",
+  "exampleTamil": "படுக்கையறைச் சுவரில் ஒரு நீண்ட விரிசல் உள்ளது.",
+  "synonyms": [
+   "split",
+   "fracture"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dent",
+  "meaning": "A small hollow in a surface caused by a hit.",
+  "tamil": "குழி / நசுக்கம்",
+  "pos": "noun",
+  "pron": "DENT",
+  "example": "The steel vessel has a dent on one side.",
+  "exampleTamil": "எவர்சில்வர் பாத்திரத்தின் ஒரு பக்கம் நசுங்கியுள்ளது.",
+  "synonyms": [
+   "hollow",
+   "dimple"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "peeling",
+  "meaning": "Coming off in thin pieces, like old paint.",
+  "tamil": "உரிந்து வருகிற",
+  "pos": "adjective",
+  "pron": "PEE-ling",
+  "example": "The paint on the ceiling is peeling off.",
+  "exampleTamil": "கூரையில் உள்ள பெயிண்ட் உரிந்து வருகிறது.",
+  "synonyms": [
+   "flaking",
+   "scaling"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "termite",
+  "meaning": "A small insect that eats wood.",
+  "tamil": "கரையான்",
+  "pos": "noun",
+  "pron": "TUR-mite",
+  "example": "Termites have damaged the wooden door frame.",
+  "exampleTamil": "கரையான்கள் மரக் கதவுச் சட்டத்தைச் சேதப்படுத்தியுள்ளன.",
+  "synonyms": [
+   "white ant",
+   "wood eater"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cockroach",
+  "meaning": "A brown insect that lives in dirty, dark places.",
+  "tamil": "கரப்பான் பூச்சி",
+  "pos": "noun",
+  "pron": "KOK-rohch",
+  "example": "There is a cockroach under the kitchen sink.",
+  "exampleTamil": "சமையலறை சிங்க் அடியில் ஒரு கரப்பான் பூச்சி இருக்கிறது.",
+  "synonyms": [
+   "roach",
+   "pest"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mosquito",
+  "meaning": "A small flying insect that bites and sucks blood.",
+  "tamil": "கொசு",
+  "pos": "noun",
+  "pron": "muh-SKEE-toh",
+  "example": "Mosquitoes bite a lot in the evening.",
+  "exampleTamil": "மாலை நேரத்தில் கொசுக்கள் நிறையக் கடிக்கின்றன.",
+  "synonyms": [
+   "gnat",
+   "biter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lizard",
+  "meaning": "A small reptile with four legs that often lives on walls.",
+  "tamil": "பல்லி",
+  "pos": "noun",
+  "pron": "LIZ-urd",
+  "example": "A lizard is sitting on the wall near the lamp.",
+  "exampleTamil": "விளக்கின் அருகே சுவரில் ஒரு பல்லி உட்கார்ந்திருக்கிறது.",
+  "synonyms": [
+   "gecko",
+   "reptile"
+  ],
+  "level": "beginner"
+ }
+]

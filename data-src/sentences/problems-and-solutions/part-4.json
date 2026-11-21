@@ -1,0 +1,377 @@
+[
+  {
+    "en": "Kindly keep my complaint number for reference.",
+    "tamil": "என் புகார் எண்ணை குறிப்புக்காக வச்சுக்கோங்க.",
+    "context": "Asking a helpdesk to note the case.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Kindly' is formal Indian English for 'please'. 'For reference' means for later use.",
+    "words": [
+      "complaint",
+      "reference"
+    ],
+    "usage": "Use it in emails to customer care.",
+    "leelaQ": "Do you note down complaint numbers?",
+    "answer": "Yes, I save them on my phone."
+  },
+  {
+    "en": "Can you help me move this heavy box?",
+    "tamil": "இந்த கனமான பெட்டியை நகர்த்த எனக்கு உதவி பண்ண முடியுமா?",
+    "context": "Asking a neighbour for help.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Help me' plus a base verb is simple. 'Heavy' describes the box.",
+    "words": [
+      "heavy",
+      "move"
+    ],
+    "usage": "Ask this to a friend, neighbour or colleague for small physical help.",
+    "leelaQ": "Who helps you at home with heavy work?",
+    "answer": "My brother helps me with it."
+  },
+  {
+    "en": "Please switch off the fan before you leave.",
+    "tamil": "போறதுக்கு முன்னாடி ஃபேனை அணைச்சிடுங்க.",
+    "context": "Reminding a family member.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "A short polite instruction. 'Before you leave' sets the time.",
+    "words": [
+      "switch off",
+      "leave"
+    ],
+    "usage": "Use it at home or office to remind someone about a small duty.",
+    "leelaQ": "What do you remind people to do before leaving?",
+    "answer": "I remind them to lock the door."
+  },
+  {
+    "en": "Let me know if you need any help with this.",
+    "tamil": "இதுல உங்களுக்கு எதாவது உதவி வேணும்னா சொல்லுங்க.",
+    "context": "Offering support to a teammate.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Let me know' invites the person to ask. 'If' makes it a gentle offer.",
+    "words": [
+      "let me know",
+      "help"
+    ],
+    "usage": "A friendly line to offer help to a colleague without pushing.",
+    "leelaQ": "How do you offer help to a busy friend?",
+    "answer": "I tell them to call me if they need anything."
+  },
+  {
+    "en": "Could you speak a bit slowly? The line is not clear.",
+    "tamil": "கொஞ்சம் மெதுவா பேச முடியுமா? லைன் தெளிவா இல்ல.",
+    "context": "On a bad phone call.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'A bit' softens the request. The second sentence gives a reason.",
+    "words": [
+      "slowly",
+      "line"
+    ],
+    "usage": "Use it on a phone call with poor signal or fast talkers.",
+    "leelaQ": "What do you do when the signal is weak?",
+    "answer": "I move near a window or call again."
+  },
+  {
+    "en": "Please do not close the ticket until it is solved.",
+    "tamil": "இது தீருற வரைக்கும் டிக்கெட்டை க்ளோஸ் பண்ணாதீங்க.",
+    "context": "Asking IT support to keep a case open.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Do not' makes a polite negative instruction. 'Until' sets the limit.",
+    "words": [
+      "ticket",
+      "until"
+    ],
+    "usage": "Use it with an IT or customer care team when cases get closed too soon.",
+    "leelaQ": "Why is it bad to close a case too early?",
+    "answer": "The problem may come back and no one will check."
+  },
+  {
+    "en": "Can I have a written confirmation of this refund?",
+    "tamil": "இந்த ரீஃபண்டுக்கு எழுத்து மூலமா உறுதிப்படுத்தல் கிடைக்குமா?",
+    "context": "Asking a store for proof in writing.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Written confirmation' is proof. 'Can I have' is a common polite request.",
+    "words": [
+      "written",
+      "confirmation"
+    ],
+    "usage": "Say this when a shop promises money back and you want proof.",
+    "leelaQ": "Why is a written proof useful?",
+    "answer": "It protects me if there is a dispute later."
+  },
+  {
+    "en": "Please hold on, I will check it right now.",
+    "tamil": "ஒரு நிமிஷம் இருங்க, இப்போவே பாக்கறேன்.",
+    "context": "On a call with a customer.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Hold on' means wait on the phone. 'Right now' shows you act at once.",
+    "words": [
+      "hold on",
+      "check"
+    ],
+    "usage": "A common line on phone calls when you need a moment to look something up.",
+    "leelaQ": "How do you ask a caller to wait?",
+    "answer": "I say hold on please and check quickly."
+  },
+  {
+    "en": "Could you share your order number with me?",
+    "tamil": "உங்க ஆர்டர் நம்பரை என்கிட்ட பகிர முடியுமா?",
+    "context": "Support agent asking for details.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Share with me' means give me. Support agents need this number first.",
+    "words": [
+      "order number",
+      "share"
+    ],
+    "usage": "Support agents ask this at the start of every complaint.",
+    "leelaQ": "Do you save your order numbers?",
+    "answer": "I keep the email so I can find them."
+  },
+  {
+    "en": "Please sit down, and I will take a look at it.",
+    "tamil": "உட்காருங்க, நான் அதை பாக்கறேன்.",
+    "context": "Welcoming an upset customer.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "A calm, polite offer. 'Take a look' means to check it.",
+    "words": [
+      "sit down",
+      "take a look"
+    ],
+    "usage": "Shop or clinic staff say this to calm someone.",
+    "leelaQ": "What makes a customer feel welcome?",
+    "answer": "A smile and a quick reply."
+  },
+  {
+    "en": "Can you move your car? It is blocking our gate.",
+    "tamil": "உங்க காரை நகர்த்த முடியுமா? அது எங்க கேட்டை அடைக்குது.",
+    "context": "Asking a neighbour politely.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "State the problem after the request. 'Blocking' means stopping the way.",
+    "words": [
+      "blocking",
+      "gate"
+    ],
+    "usage": "Use it with a neighbour when someone parks in the wrong place.",
+    "leelaQ": "How do you talk to a neighbour about a parking problem?",
+    "answer": "I ask politely and explain why."
+  },
+  {
+    "en": "I cannot open the link you sent me.",
+    "tamil": "நீங்க அனுப்பின லிங்கை என்னால திறக்க முடியல.",
+    "context": "Telling a colleague a link fails.",
+    "tense": "modal",
+    "type": "negative",
+    "explain": "'Cannot' shows you are unable. State what you tried for a faster answer.",
+    "words": [
+      "link",
+      "open"
+    ],
+    "usage": "Say this in chat when a shared link is broken.",
+    "leelaQ": "What do you do if a link does not work?",
+    "answer": "I ask the person to send it again."
+  },
+  {
+    "en": "I do not understand why the fee is so high.",
+    "tamil": "கட்டணம் ஏன் இவ்வளவு அதிகம்னு எனக்கு புரியல.",
+    "context": "Questioning a bank charge.",
+    "tense": "present",
+    "type": "negative",
+    "explain": "'Do not understand why' is polite but clear. It asks for an explanation.",
+    "words": [
+      "understand",
+      "fee"
+    ],
+    "usage": "Say this at a bank or office when a charge looks wrong.",
+    "leelaQ": "Have you seen charges that you did not expect?",
+    "answer": "Yes, my bank added a small fee."
+  },
+  {
+    "en": "Nobody has replied to my email for three days.",
+    "tamil": "மூணு நாளா என் ஈமெயிலுக்கு யாரும் பதில் சொல்லல.",
+    "context": "Complaining to a manager.",
+    "tense": "present-perfect",
+    "type": "negative",
+    "explain": "'Nobody' already makes a sentence negative. 'For three days' shows duration.",
+    "words": [
+      "nobody",
+      "replied"
+    ],
+    "usage": "Use it when you escalate an unanswered email.",
+    "leelaQ": "How long do you wait for a reply?",
+    "answer": "I wait two days and then I remind them."
+  },
+  {
+    "en": "The fan is not working, and it is too hot here.",
+    "tamil": "ஃபேன் வேலை செய்யல, இங்க ரொம்ப சூடா இருக்கு.",
+    "context": "Complaining in a hostel or guest house.",
+    "tense": "present-continuous",
+    "type": "negative",
+    "explain": "Two facts joined by 'and'. 'Too hot' means more than is comfortable.",
+    "words": [
+      "fan",
+      "hot"
+    ],
+    "usage": "Say this to the hostel or hotel staff about a room problem.",
+    "leelaQ": "How do you stay cool in summer?",
+    "answer": "I use a fan and drink cold water."
+  },
+  {
+    "en": "I did not receive any confirmation message.",
+    "tamil": "எனக்கு எந்த உறுதிப்படுத்தல் மெசேஜும் வரல.",
+    "context": "Reporting a missing SMS or email.",
+    "tense": "past",
+    "type": "negative",
+    "explain": "'Did not receive' with 'any' makes a strong negative. Common with bookings.",
+    "words": [
+      "receive",
+      "confirmation"
+    ],
+    "usage": "Use it after booking tickets or paying a bill online.",
+    "leelaQ": "What messages do you get after you pay?",
+    "answer": "I get an SMS and an email."
+  },
+  {
+    "en": "Please do not worry, we will solve it today.",
+    "tamil": "கவலைப்படாதீங்க, இன்னைக்கே நாங்க இதை தீர்த்து வைப்போம்.",
+    "context": "Calming a worried customer.",
+    "tense": "future",
+    "type": "negative",
+    "explain": "'Do not worry' comforts people. Add a clear promise to make it real.",
+    "words": [
+      "worry",
+      "solve"
+    ],
+    "usage": "Say this to a customer or a friend who is anxious.",
+    "leelaQ": "What do you say to calm a worried person?",
+    "answer": "I say do not worry and I offer help."
+  },
+  {
+    "en": "I have never had such a bad experience here.",
+    "tamil": "இங்க இவ்வளவு மோசமான அனுபவம் எனக்கு எப்பவும் ஆனதில்ல.",
+    "context": "Giving strong feedback to a restaurant.",
+    "tense": "present-perfect",
+    "type": "negative",
+    "explain": "'Never' with the present perfect speaks about your whole life up to now.",
+    "words": [
+      "never",
+      "experience"
+    ],
+    "usage": "Use it in a formal complaint or a review.",
+    "leelaQ": "What was your best service experience?",
+    "answer": "A hotel upgraded my room for free."
+  },
+  {
+    "en": "There is no hot water in the bathroom.",
+    "tamil": "பாத்ரூம்ல வெந்நீர் வரல.",
+    "context": "Telling hotel reception.",
+    "tense": "present",
+    "type": "negative",
+    "explain": "'There is no' states something is missing. Short and clear for staff.",
+    "words": [
+      "hot water",
+      "bathroom"
+    ],
+    "usage": "Say this at reception when a room facility is missing.",
+    "leelaQ": "Do you prefer hot or cold water for a bath?",
+    "answer": "I prefer hot water in the morning."
+  },
+  {
+    "en": "We could not finish the repair because the part was missing.",
+    "tamil": "பார்ட் இல்லாததால எங்களால ரிப்பேரை முடிக்க முடியல.",
+    "context": "A technician explaining a delay.",
+    "tense": "past",
+    "type": "negative",
+    "explain": "'Because' gives the reason. Explain the missing part so people do not blame you.",
+    "words": [
+      "repair",
+      "missing"
+    ],
+    "usage": "Technicians use this when they must return another day.",
+    "leelaQ": "Why do repairs sometimes take many days?",
+    "answer": "Because some parts are not available quickly."
+  },
+  {
+    "en": "I am not able to attend the meeting due to a power cut.",
+    "tamil": "கரண்ட் கட் காரணமா என்னால மீட்டிங்ல கலந்துக்க முடியாது.",
+    "context": "Informing your team of an absence.",
+    "tense": "present",
+    "type": "negative",
+    "explain": "'Not able to' is a polite form of 'cannot'. 'Due to' gives a reason.",
+    "words": [
+      "attend",
+      "due to"
+    ],
+    "usage": "Send this in a team chat when something stops you from joining.",
+    "leelaQ": "What would you do if the power goes off during a call?",
+    "answer": "I would join from my phone."
+  },
+  {
+    "en": "My card got blocked after the third wrong PIN.",
+    "tamil": "மூணாவது தடவை PIN தப்பா போட்டதுக்கு அப்புறம் என் card block ஆயிடுச்சு.",
+    "context": "Explaining a blocked card to a bank officer.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Got blocked' shows something happened to the card, not by your choice.",
+    "words": [
+      "blocked",
+      "pin"
+    ],
+    "usage": "Say it at a bank counter or on a helpline when your card stops working.",
+    "leelaQ": "What would you tell the bank about a blocked card?",
+    "answer": "I would say my card got blocked after wrong PIN attempts."
+  },
+  {
+    "en": "Could you give me a discount for the trouble?",
+    "tamil": "இந்த சிரமத்துக்கு ஒரு discount கொடுக்க முடியுமா?",
+    "context": "Asking a shopkeeper for compensation after a problem.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Could you' makes the request polite, even when you are unhappy.",
+    "words": [
+      "discount",
+      "trouble"
+    ],
+    "usage": "Use it politely in a shop or hotel after poor service.",
+    "leelaQ": "What would you ask for after bad service?",
+    "answer": "I would politely ask for a small discount."
+  },
+  {
+    "en": "Don't worry, I will fix it before you come back.",
+    "tamil": "கவலைப்படாதீங்க, நீங்க திரும்ப வர்றதுக்குள்ள நான் இத சரி பண்ணிடுவேன்.",
+    "context": "Reassuring a family member about a broken lamp.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "'Will' shows a promise to solve the problem soon.",
+    "words": [
+      "fix",
+      "worry"
+    ],
+    "usage": "Say it to family or a friend when you promise to repair something.",
+    "leelaQ": "How do you calm someone when something breaks?",
+    "answer": "I tell them not to worry and that I will fix it."
+  },
+  {
+    "en": "The seller never answered my calls about the return.",
+    "tamil": "return பத்தி நான் பண்ண calls-க்கு seller எப்பவும் பதில் சொல்லல.",
+    "context": "Complaining about an online seller to customer care.",
+    "tense": "past",
+    "type": "negative",
+    "explain": "'Never' makes the negative strong, showing a repeated problem.",
+    "words": [
+      "seller",
+      "return"
+    ],
+    "usage": "Use it when you complain to customer care about a seller who ignores you.",
+    "leelaQ": "What would you say about a seller who ignores you?",
+    "answer": "I would say the seller never answered my calls."
+  }
+]

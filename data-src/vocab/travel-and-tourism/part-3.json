@@ -1,0 +1,343 @@
+[
+ {
+  "word": "monorail",
+  "meaning": "a train that runs on a single raised track",
+  "tamil": "ஒரே தண்டவாளத்தில் செல்லும் ரயில்",
+  "pos": "noun",
+  "pron": "MON-oh-rayl",
+  "example": "The monorail in Mumbai gives a nice view of the city.",
+  "exampleTamil": "மும்பையின் மோனோ ரயில் நகரின் அழகான காட்சியைத் தருகிறது.",
+  "synonyms": [
+   "elevated train"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "houseboat",
+  "meaning": "a boat with rooms where people can live or stay",
+  "tamil": "தங்கும் அறைகளுடன் கூடிய படகு வீடு",
+  "pos": "noun",
+  "pron": "HOWS-boht",
+  "example": "We spent a night on a houseboat in Alleppey.",
+  "exampleTamil": "நாங்கள் ஆலப்புழாவில் ஒரு இரவை படகு வீட்டில் கழித்தோம்.",
+  "synonyms": [
+   "floating home"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "backwaters",
+  "meaning": "calm waterways near a coast, with land and plants around them",
+  "tamil": "கடலோரக் காயல் நீர்வழிகள்",
+  "pos": "noun",
+  "pron": "BAK-waw-terz",
+  "example": "The Kerala backwaters are peaceful and very green.",
+  "exampleTamil": "கேரளக் காயல்கள் அமைதியாகவும் மிகவும் பசுமையாகவும் உள்ளன.",
+  "synonyms": [
+   "lagoons",
+   "waterways"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lagoon",
+  "meaning": "a shallow area of calm sea water cut off from the open sea",
+  "tamil": "கடலிலிருந்து பிரிந்த ஆழம் குறைந்த அமைதியான நீர்ப்பகுதி",
+  "pos": "noun",
+  "pron": "luh-GOON",
+  "example": "The water in the lagoon was clear and warm.",
+  "exampleTamil": "கடற்காயல் நீர் தெளிவாகவும் வெதுவெதுப்பாகவும் இருந்தது.",
+  "synonyms": [
+   "lake",
+   "bay"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "peninsula",
+  "meaning": "a piece of land with water on three sides",
+  "tamil": "மூன்று பக்கமும் நீர் சூழ்ந்த நிலப்பகுதி",
+  "pos": "noun",
+  "pron": "puh-NIN-syuh-luh",
+  "example": "South India is part of a large peninsula.",
+  "exampleTamil": "தென்னிந்தியா ஒரு பெரிய தீபகற்பத்தின் பகுதியாகும்.",
+  "synonyms": [
+   "cape",
+   "headland"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reef",
+  "meaning": "a line of rock or coral just under the sea surface",
+  "tamil": "கடலுக்கடியில் உள்ள பவளப்பாறை அல்லது பாறைத் தொடர்",
+  "pos": "noun",
+  "pron": "REEF",
+  "example": "We went snorkelling to see the colourful fish near the reef.",
+  "exampleTamil": "பவளப்பாறைக்கு அருகில் வண்ண மீன்களைப் பார்க்க நாங்கள் கடலுக்குள் மூழ்கிச் சென்றோம்.",
+  "synonyms": [
+   "coral reef",
+   "shoal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dune",
+  "meaning": "a hill of sand made by the wind",
+  "tamil": "காற்றினால் உருவான மணல் குன்று",
+  "pos": "noun",
+  "pron": "DOON",
+  "example": "The children slid down the sand dune again and again.",
+  "exampleTamil": "குழந்தைகள் மணல் குன்றிலிருந்து மீண்டும் மீண்டும் சறுக்கி விளையாடினர்.",
+  "synonyms": [
+   "sand hill",
+   "sandbank"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ridge",
+  "meaning": "a long narrow raised line at the top of hills",
+  "tamil": "மலையின் நீண்ட குறுகிய உச்சிப் பகுதி",
+  "pos": "noun",
+  "pron": "RIJ",
+  "example": "We walked along the ridge and enjoyed the cool wind.",
+  "exampleTamil": "நாங்கள் மலைமுகட்டில் நடந்து குளிர்ந்த காற்றை அனுபவித்தோம்.",
+  "synonyms": [
+   "crest",
+   "hilltop"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "canal",
+  "meaning": "a long man-made channel filled with water for boats",
+  "tamil": "படகுகள் செல்லும் மனிதனால் உருவாக்கிய கால்வாய்",
+  "pos": "noun",
+  "pron": "kuh-NAL",
+  "example": "A boat ride along the canal costs only fifty rupees.",
+  "exampleTamil": "கால்வாயில் படகுச் சவாரி செய்ய ஐம்பது ரூபாய் மட்டுமே ஆகும்.",
+  "synonyms": [
+   "waterway",
+   "channel"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "marina",
+  "meaning": "a harbour where small boats and yachts are kept",
+  "tamil": "சிறிய படகுகள் நிறுத்தும் துறைமுகம்",
+  "pos": "noun",
+  "pron": "muh-REE-nuh",
+  "example": "Many yachts were parked at the marina.",
+  "exampleTamil": "மெரினா துறைமுகத்தில் பல சொகுசுப் படகுகள் நிறுத்தப்பட்டிருந்தன.",
+  "synonyms": [
+   "boat harbour",
+   "dock"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "e-visa",
+  "meaning": "a visa you apply for and receive online",
+  "tamil": "இணையத்தில் விண்ணப்பித்துப் பெறும் விசா",
+  "pos": "noun",
+  "pron": "EE-vee-zuh",
+  "example": "I got my e-visa within two days of applying.",
+  "exampleTamil": "விண்ணப்பித்த இரண்டு நாட்களுக்குள் எனக்கு மின்னணு விசா கிடைத்தது.",
+  "synonyms": [
+   "online visa"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "e-ticket",
+  "meaning": "a ticket stored on your phone or email instead of paper",
+  "tamil": "தொலைபேசி அல்லது மின்னஞ்சலில் உள்ள மின்னணு பயணச்சீட்டு",
+  "pos": "noun",
+  "pron": "EE-tik-it",
+  "example": "Show your e-ticket on your phone at the entrance.",
+  "exampleTamil": "நுழைவாயிலில் உங்கள் தொலைபேசியில் மின்னணு டிக்கெட்டைக் காட்டுங்கள்.",
+  "synonyms": [
+   "digital ticket",
+   "online ticket"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "luggage tag",
+  "meaning": "a label tied to a bag showing the owner's name and address",
+  "tamil": "பெட்டியின் உரிமையாளர் பெயர் குறிக்கும் அட்டை",
+  "pos": "noun",
+  "pron": "LUG-ij TAG",
+  "example": "Write your phone number on the luggage tag.",
+  "exampleTamil": "பெட்டி அட்டையில் உங்கள் தொலைபேசி எண்ணை எழுதுங்கள்.",
+  "synonyms": [
+   "bag label",
+   "name tag"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "money belt",
+  "meaning": "a belt worn under clothes to carry money safely",
+  "tamil": "பணத்தைப் பாதுகாப்பாக வைக்க உடைக்குள் அணியும் பெல்ட்",
+  "pos": "noun",
+  "pron": "MUN-ee BELT",
+  "example": "Keep your cash in a money belt in crowded places.",
+  "exampleTamil": "கூட்டமான இடங்களில் உங்கள் பணத்தை பண பெல்ட்டில் வைத்திருங்கள்.",
+  "synonyms": [
+   "waist pouch"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "neck pillow",
+  "meaning": "a curved cushion that supports your neck while you sleep travelling",
+  "tamil": "பயணத்தில் கழுத்துக்கு ஆதரவு தரும் தலையணை",
+  "pos": "noun",
+  "pron": "NEK PIL-oh",
+  "example": "A neck pillow helped me sleep on the long flight.",
+  "exampleTamil": "நீண்ட விமானப் பயணத்தில் தூங்க கழுத்துத் தலையணை எனக்கு உதவியது.",
+  "synonyms": [
+   "travel pillow"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sleeping bag",
+  "meaning": "a warm bag you sleep in when camping",
+  "tamil": "முகாமில் தூங்கப் பயன்படும் கதகதப்பான பை",
+  "pos": "noun",
+  "pron": "SLEE-ping BAG",
+  "example": "It was freezing at night, so I zipped up my sleeping bag.",
+  "exampleTamil": "இரவில் மிகவும் குளிராக இருந்ததால் நான் தூங்கும் பையின் ஜிப்பை மூடினேன்.",
+  "synonyms": [
+   "bedroll"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mosquito net",
+  "meaning": "a thin net hung over a bed to keep mosquitoes away",
+  "tamil": "கொசுக்களிடமிருந்து காக்கும் கொசு வலை",
+  "pos": "noun",
+  "pron": "muh-SKEE-toh NET",
+  "example": "The jungle lodge gave us a mosquito net for each bed.",
+  "exampleTamil": "காட்டு விடுதி ஒவ்வொரு படுக்கைக்கும் ஒரு கொசு வலை கொடுத்தது.",
+  "synonyms": [
+   "bed net"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "repellent",
+  "meaning": "a liquid or cream that keeps insects away from your skin",
+  "tamil": "பூச்சிகளை விரட்டும் திரவம் அல்லது கிரீம்",
+  "pos": "noun",
+  "pron": "rih-PEL-unt",
+  "example": "Apply mosquito repellent before you walk in the forest.",
+  "exampleTamil": "காட்டில் நடப்பதற்கு முன் கொசு விரட்டியைத் தடவிக்கொள்ளுங்கள்.",
+  "synonyms": [
+   "bug spray",
+   "insect cream"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "poncho",
+  "meaning": "a loose waterproof cover with a hole for your head",
+  "tamil": "தலை நுழைக்க துளையுள்ள தளர்வான மழை உடை",
+  "pos": "noun",
+  "pron": "PON-choh",
+  "example": "We bought cheap ponchos when the rain suddenly started.",
+  "exampleTamil": "திடீரென மழை தொடங்கியபோது நாங்கள் மலிவான மழை ஆடைகளை வாங்கினோம்.",
+  "synonyms": [
+   "rain cape",
+   "waterproof"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "altitude",
+  "meaning": "the height of a place above sea level",
+  "tamil": "கடல் மட்டத்திலிருந்து உயரம்",
+  "pos": "noun",
+  "pron": "AL-tih-tood",
+  "example": "Some people feel dizzy at high altitude.",
+  "exampleTamil": "சிலருக்கு அதிக உயரத்தில் தலைசுற்றல் ஏற்படும்.",
+  "synonyms": [
+   "height",
+   "elevation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "co-pilot",
+  "meaning": "the second pilot who helps the main pilot fly a plane",
+  "tamil": "விமானியின் உதவி விமானி",
+  "pos": "noun",
+  "pron": "KOH-py-lut",
+  "example": "The co-pilot announced that we would land in ten minutes.",
+  "exampleTamil": "பத்து நிமிடங்களில் தரையிறங்குவோம் என்று உதவி விமானி அறிவித்தார்.",
+  "synonyms": [
+   "first officer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hangar",
+  "meaning": "a very large building where aircraft are kept",
+  "tamil": "விமானங்களை நிறுத்தி வைக்கும் பெரிய கட்டடம்",
+  "pos": "noun",
+  "pron": "HANG-er",
+  "example": "The old plane is kept inside the hangar for repairs.",
+  "exampleTamil": "பழைய விமானம் பழுதுபார்ப்பதற்காக விமானக் கொட்டகையில் வைக்கப்பட்டுள்ளது.",
+  "synonyms": [
+   "aircraft shed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pavilion",
+  "meaning": "a large open building used for rest or events in a park or palace",
+  "tamil": "பூங்கா அல்லது அரண்மனையில் உள்ள திறந்த மண்டபம்",
+  "pos": "noun",
+  "pron": "puh-VIL-yun",
+  "example": "We rested in the stone pavilion near the lake.",
+  "exampleTamil": "நாங்கள் ஏரிக்கு அருகிலுள்ள கல் மண்டபத்தில் ஓய்வெடுத்தோம்.",
+  "synonyms": [
+   "hall",
+   "gazebo"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shrine",
+  "meaning": "a holy place where people pray, often small",
+  "tamil": "வழிபாட்டுக்குரிய புனிதத் தலம்",
+  "pos": "noun",
+  "pron": "SHRYN",
+  "example": "Pilgrims visit the small shrine at the top of the hill.",
+  "exampleTamil": "யாத்ரீகர்கள் மலை உச்சியில் உள்ள சிறிய புனிதத் தலத்திற்குச் செல்கிறார்கள்.",
+  "synonyms": [
+   "sanctuary",
+   "holy place"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "monastery",
+  "meaning": "a building where monks live, work and pray",
+  "tamil": "துறவிகள் வாழும் மடாலயம்",
+  "pos": "noun",
+  "pron": "MON-uh-stree",
+  "example": "We visited a quiet monastery in the Himalayas.",
+  "exampleTamil": "நாங்கள் இமயமலையில் உள்ள ஒரு அமைதியான மடாலயத்திற்குச் சென்றோம்.",
+  "synonyms": [
+   "abbey",
+   "temple"
+  ],
+  "level": "intermediate"
+ }
+]

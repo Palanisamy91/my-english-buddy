@@ -1,0 +1,378 @@
+[
+ {
+  "en": "Did you read my email?",
+  "tamil": "என் மின்னஞ்சலை படிச்சீங்களா?",
+  "context": "Checking if a colleague saw your mail.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did' starts a past question, and the main verb stays in the base form.",
+  "words": [
+   "read",
+   "email"
+  ],
+  "usage": "Use it politely with a teammate who has not responded to your mail.",
+  "leelaQ": "How often do you check your emails?",
+  "answer": "I check them in the morning, after lunch and in the evening."
+ },
+ {
+  "en": "Kindly review the document and share your comments.",
+  "tamil": "டாக்குமென்ட்டை பார்த்துட்டு உங்க கருத்துக்களை சொல்லுங்க.",
+  "context": "Asking a colleague to check a document.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "Two actions joined with 'and'. 'Review' means to check carefully.",
+  "words": [
+   "review",
+   "comments"
+  ],
+  "usage": "Use it in an email when you want someone to check your document.",
+  "leelaQ": "What do you do before you send a document?",
+  "answer": "I read it twice and ask a friend to check it."
+ },
+ {
+  "en": "I am sharing my screen now.",
+  "tamil": "நான் இப்போ என் ஸ்கிரீனை ஷேர் பண்றேன்.",
+  "context": "Starting a screen share in an online meeting.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Am sharing' tells what you are doing at this moment.",
+  "words": [
+   "sharing",
+   "screen"
+  ],
+  "usage": "Use it in an online meeting before you show a presentation or file.",
+  "leelaQ": "Do you attend online meetings?",
+  "answer": "Yes, I attend two or three online meetings every week."
+ },
+ {
+  "en": "How is the work going?",
+  "tamil": "வேலை எப்படி போயிட்டு இருக்கு?",
+  "context": "Checking on a colleague's progress in a friendly way.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'How is ... going' is a casual way to ask for an update.",
+  "words": [
+   "work",
+   "going"
+  ],
+  "usage": "Use it as a friendly check-in with a teammate or junior.",
+  "leelaQ": "How is your work going these days?",
+  "answer": "It is going well, but I am a bit busy."
+ },
+ {
+  "en": "I can take this task if nobody is free.",
+  "tamil": "யாரும் ஃப்ரீயா இல்லன்னா இந்த வேலையை நான் எடுத்துக்குறேன்.",
+  "context": "Offering to help the team with extra work.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Can' shows that you are ready and able. 'If' gives the condition.",
+  "words": [
+   "task",
+   "free"
+  ],
+  "usage": "Use it when your team is short of people and you want to help.",
+  "leelaQ": "When do you offer to help your teammates?",
+  "answer": "I offer help when they have too much work."
+ },
+ {
+  "en": "Can we move the review to Thursday afternoon?",
+  "tamil": "ரிவியூவை வியாழக்கிழமை மதியத்துக்கு மாத்தலாமா?",
+  "context": "Asking to change the time of a review.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can we move' is a friendly way to ask for a new time.",
+  "words": [
+   "move",
+   "review",
+   "thursday"
+  ],
+  "usage": "Use it when you have another urgent task on the planned day.",
+  "leelaQ": "What do you do if you cannot attend a review on time?",
+  "answer": "I tell my manager early and ask for another time."
+ },
+ {
+  "en": "What is your opinion on this plan?",
+  "tamil": "இந்த பிளானைப் பத்தி உங்க கருத்து என்ன?",
+  "context": "Asking a teammate to share a view in a discussion.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Opinion' means what you personally think about something.",
+  "words": [
+   "opinion",
+   "plan"
+  ],
+  "usage": "Use it in a meeting when you want everyone to share their views.",
+  "leelaQ": "Do you like to share your ideas in team meetings?",
+  "answer": "Yes, I share my ideas, but I listen to others first."
+ },
+ {
+  "en": "I have worked with this client for two years.",
+  "tamil": "நான் இந்த கிளையன்ட்டோட ரெண்டு வருஷமா வேலை பண்றேன்.",
+  "context": "Saying how long you know the client.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'For two years' with 'have worked' means it started in the past and is still going.",
+  "words": [
+   "worked",
+   "client"
+  ],
+  "usage": "Use it in an interview or meeting to show your experience.",
+  "leelaQ": "How long have you worked in your company?",
+  "answer": "I have worked here for three years."
+ },
+ {
+  "en": "Please find the details in the attached file.",
+  "tamil": "விவரங்களை இணைக்கப்பட்ட ஃபைல்ல பாருங்க.",
+  "context": "Writing a formal email with an attachment.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please find' is a common formal phrase in business emails.",
+  "words": [
+   "details",
+   "attached"
+  ],
+  "usage": "Use it in a formal email when you send details as an attachment.",
+  "leelaQ": "How do you start an email with details?",
+  "answer": "I write a short greeting and then I mention the attached file."
+ },
+ {
+  "en": "I respectfully disagree with that point.",
+  "tamil": "அந்த கருத்தோட நான் மரியாதையா மாறுபடுறேன்.",
+  "context": "Disagreeing politely with a senior in a meeting.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Respectfully' makes a disagreement sound polite and professional.",
+  "words": [
+   "disagree",
+   "respectfully"
+  ],
+  "usage": "Use it in a meeting when you do not accept someone's idea but want to be polite.",
+  "leelaQ": "How do you disagree with someone at work?",
+  "answer": "I stay calm and say I respectfully disagree, and then I give my reason."
+ },
+ {
+  "en": "We have a team lunch on Friday.",
+  "tamil": "வெள்ளிக்கிழமை எங்களுக்கு டீம் லஞ்ச் இருக்கு.",
+  "context": "Inviting a new colleague to join the group.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "The simple present can talk about fixed future events like a plan.",
+  "words": [
+   "team lunch",
+   "friday"
+  ],
+  "usage": "Use it to inform or invite a colleague about a group event.",
+  "leelaQ": "Does your team go out for lunch together?",
+  "answer": "Yes, we go out once a month to a nearby restaurant."
+ },
+ {
+  "en": "I have already informed the whole team.",
+  "tamil": "நான் ஏற்கனவே டீம் முழுக்க சொல்லிட்டேன்.",
+  "context": "Telling your manager the team knows about the change.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have informed' with 'already' shows the work is done before now.",
+  "words": [
+   "informed",
+   "already"
+  ],
+  "usage": "Use it when your manager asks if everyone knows about an announcement.",
+  "leelaQ": "How do you tell your team about a change?",
+  "answer": "I send a short message to the group and also tell them in person."
+ },
+ {
+  "en": "I will join the call in five minutes.",
+  "tamil": "நான் அஞ்சு நிமிஷத்துல காலுக்கு வர்றேன்.",
+  "context": "Messaging the team when you are a little late.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'In five minutes' means five minutes from now.",
+  "words": [
+   "join",
+   "minutes"
+  ],
+  "usage": "Use it in a chat when you are not able to join an online call on time.",
+  "leelaQ": "What do you say if you are late for a call?",
+  "answer": "I say I will join in a few minutes and say sorry."
+ },
+ {
+  "en": "Did we miss anything important?",
+  "tamil": "நாம முக்கியமான ஏதாவது விட்டுட்டோமா?",
+  "context": "Checking at the end of a meeting.",
+  "tense": "past",
+  "type": "question",
+  "explain": "A good closing question. It shows that you care about the details.",
+  "words": [
+   "miss",
+   "important"
+  ],
+  "usage": "Use it at the end of a meeting or when you check a list before sending.",
+  "leelaQ": "What do you check before you end a meeting?",
+  "answer": "I check the action points and who will do them."
+ },
+ {
+  "en": "Are you facing any problem with this task?",
+  "tamil": "இந்த வேலையில உங்களுக்கு ஏதாவது பிரச்சனை இருக்கா?",
+  "context": "Asking a junior colleague if they need help.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Facing a problem' is a common phrase in Indian English for 'having a problem'.",
+  "words": [
+   "facing",
+   "problem"
+  ],
+  "usage": "Use it as a senior when a teammate looks stuck.",
+  "leelaQ": "What problem did you face at work recently?",
+  "answer": "I could not find a file, and my colleague helped me."
+ },
+ {
+  "en": "Who will write the minutes of this meeting?",
+  "tamil": "இந்த மீட்டிங்கோட நிமிட்ஸை யார் எழுதுவாங்க?",
+  "context": "Asking at the start of a team meeting.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Minutes' are the written record of a meeting.",
+  "words": [
+   "minutes",
+   "meeting"
+  ],
+  "usage": "Use it at the start of a meeting so that someone takes the responsibility.",
+  "leelaQ": "Do you ever write the minutes for your team?",
+  "answer": "Yes, I write them sometimes when my turn comes."
+ },
+ {
+  "en": "Don't blame anyone, just fix the issue.",
+  "tamil": "யாரையும் குத்தம் சொல்லாதீங்க, பிரச்சனையை சரி பண்ணுங்க.",
+  "context": "Calming a team during a work problem.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't' plus a verb is a negative order. The second part gives the right action.",
+  "words": [
+   "blame",
+   "issue"
+  ],
+  "usage": "Use it as a team lead when people are arguing about whose mistake it was.",
+  "leelaQ": "Why is it better to solve a problem than blame someone?",
+  "answer": "Because blaming wastes time and the problem remains."
+ },
+ {
+  "en": "Will you be at the team meeting tomorrow?",
+  "tamil": "நாளைக்கு டீம் மீட்டிங்குக்கு நீங்க வருவீங்களா?",
+  "context": "Checking a colleague's presence.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will you be at' asks about presence at a future event.",
+  "words": [
+   "team meeting",
+   "tomorrow"
+  ],
+  "usage": "Use it when you plan a discussion and need someone to attend.",
+  "leelaQ": "Will you attend any meeting tomorrow?",
+  "answer": "Yes, I have a review meeting at eleven."
+ },
+ {
+  "en": "Where did you save the final file?",
+  "tamil": "இறுதி ஃபைலை எங்க சேவ் பண்ணீங்க?",
+  "context": "Looking for a document in a shared folder.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Where did you' asks about a place in the past. 'Save' stays in the base form.",
+  "words": [
+   "save",
+   "final"
+  ],
+  "usage": "Use it when a teammate shares a file and you cannot find it.",
+  "leelaQ": "Where do you keep your office files?",
+  "answer": "I keep them in a shared folder and also on my laptop."
+ },
+ {
+  "en": "Can you help me with this report?",
+  "tamil": "இந்த ரிப்போர்ட்ல எனக்கு உதவ முடியுமா?",
+  "context": "Asking a senior colleague for help.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Help me with' is followed by the task.",
+  "words": [
+   "help",
+   "report"
+  ],
+  "usage": "Use it with a senior colleague when you are stuck on your work.",
+  "leelaQ": "Who do you ask for help at work?",
+  "answer": "I ask my senior colleague because he is kind and knows a lot."
+ },
+ {
+  "en": "I will send the report by tomorrow evening.",
+  "tamil": "நாளைக்கு சாயந்திரத்துக்குள்ள ரிப்போர்ட்டை அனுப்புறேன்.",
+  "context": "Promising a manager when the report will come.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' makes a promise. 'By' gives the last time for the work.",
+  "words": [
+   "report",
+   "evening"
+  ],
+  "usage": "Use it with a manager or client when you promise a time for your work.",
+  "leelaQ": "When will you send your next report?",
+  "answer": "I will send my next report by Friday afternoon."
+ },
+ {
+  "en": "She is preparing the presentation for the review.",
+  "tamil": "அவங்க ரிவியூக்கான பிரசன்டேஷனை தயார் பண்ணிட்டு இருக்காங்க.",
+  "context": "Explaining where a colleague is right now.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is preparing' shows work in progress.",
+  "words": [
+   "preparing",
+   "presentation"
+  ],
+  "usage": "Use it when someone asks about a colleague who is busy with a task.",
+  "leelaQ": "Have you made a presentation at work?",
+  "answer": "Yes, I made one last month for our project review."
+ },
+ {
+  "en": "He never comes late to meetings.",
+  "tamil": "அவர் மீட்டிங்குக்கு ஒருநாளும் லேட்டா வர மாட்டாரு.",
+  "context": "Praising a punctual colleague.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' already makes the sentence negative, so do not add 'not'.",
+  "words": [
+   "never",
+   "late"
+  ],
+  "usage": "Use it to talk about a colleague who is always on time.",
+  "leelaQ": "Who is always on time in your office?",
+  "answer": "My team lead is always on time for every meeting."
+ },
+ {
+  "en": "How long will the meeting take?",
+  "tamil": "மீட்டிங் எவ்வளவு நேரம் ஆகும்?",
+  "context": "Asking the organiser about the time you need to keep free.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'How long' asks about the amount of time.",
+  "words": [
+   "long",
+   "take"
+  ],
+  "usage": "Use it before a meeting when you need to plan your other work.",
+  "leelaQ": "How long are your meetings usually?",
+  "answer": "Most of them are thirty minutes to one hour."
+ },
+ {
+  "en": "Do you have five minutes to talk?",
+  "tamil": "பேசறதுக்கு உங்களுக்கு அஞ்சு நிமிஷம் இருக்குமா?",
+  "context": "Asking a colleague for a short chat.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Mentioning the time tells the person the talk will be short.",
+  "words": [
+   "minutes",
+   "talk"
+  ],
+  "usage": "Use it before you speak to a busy teammate so you do not disturb them.",
+  "leelaQ": "How do you talk to a busy colleague?",
+  "answer": "I ask politely if they have a few minutes first."
+ }
+]

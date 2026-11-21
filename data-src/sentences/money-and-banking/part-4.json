@@ -1,0 +1,368 @@
+[
+ {
+  "en": "I transferred the rent to the landlord this morning.",
+  "tamil": "இன்னைக்கு காலையில வீட்டு உரிமையாளருக்கு வாடகை அனுப்பிட்டேன்.",
+  "context": "Telling your flatmate the rent is done.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'This morning' with past tense is used when the morning is over.",
+  "words": [
+   "transferred",
+   "landlord"
+  ],
+  "usage": "Use it with a flatmate or family member to confirm rent payment.",
+  "leelaQ": "Do you rent a house or live in your own house?",
+  "answer": "I live in my own house."
+ },
+ {
+  "en": "Is the interest rate fixed or floating?",
+  "tamil": "வட்டி விகிதம் நிலையானதா, மாறக்கூடியதா?",
+  "context": "Asking a loan officer.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Fixed' means it does not change. 'Floating' means it can change.",
+  "words": [
+   "interest rate",
+   "fixed"
+  ],
+  "usage": "Ask it before you sign any loan paper.",
+  "leelaQ": "Why do some people like a fixed rate?",
+  "answer": "They like it because the payment stays the same."
+ },
+ {
+  "en": "May I see your ID proof, please?",
+  "tamil": "உங்க அடையாள அட்டையை பார்க்கலாமா?",
+  "context": "A bank staff member asking a customer.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'May I ...?' is a formal, polite request used in offices.",
+  "words": [
+   "proof"
+  ],
+  "usage": "Bank and office staff say this before they process a request.",
+  "leelaQ": "What ID proofs do you carry with you?",
+  "answer": "I carry my Aadhaar card and driving licence."
+ },
+ {
+  "en": "Many people in my village use UPI for small payments.",
+  "tamil": "எங்க ஊர்ல நிறைய பேர் சின்ன பேமெண்டுக்கு UPI பயன்படுத்தறாங்க.",
+  "context": "Telling a friend about digital payment use.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Many people' takes a plural verb: use, not uses.",
+  "words": [
+   "village",
+   "payments"
+  ],
+  "usage": "Use it when you talk about how people pay in your area.",
+  "leelaQ": "How has UPI changed life in small towns?",
+  "answer": "Now even tea shops take payments on the phone."
+ },
+ {
+  "en": "If I save every month, I will buy a laptop soon.",
+  "tamil": "ஒவ்வொரு மாசமும் சேமிச்சா சீக்கிரம் லேப்டாப் வாங்கிடுவேன்.",
+  "context": "Telling a friend about a goal.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'If' + present, then 'will' shows a real possibility.",
+  "words": [
+   "save",
+   "laptop"
+  ],
+  "usage": "Use it when you talk about a goal you are saving for.",
+  "leelaQ": "What are you saving money for?",
+  "answer": "I am saving money for a laptop."
+ },
+ {
+  "en": "I don't use credit cards because I spend too much.",
+  "tamil": "நான் அதிகமா செலவு பண்ணுவேன்னு கிரெடிட் கார்டு பயன்படுத்தறதில்ல.",
+  "context": "Explaining your money habit.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Because' gives the reason. 'Don't use' is the negative present.",
+  "words": [
+   "spend"
+  ],
+  "usage": "Use it when someone asks why you do not have a credit card.",
+  "leelaQ": "Do you spend more when you shop online?",
+  "answer": "Yes, I sometimes buy things I do not need."
+ },
+ {
+  "en": "How much did you pay for this?",
+  "tamil": "இதுக்கு நீங்க எவ்வளவு கொடுத்தீங்க?",
+  "context": "Asking a friend about a new thing.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'How much did you pay' asks the price of something bought.",
+  "words": [
+   "pay"
+  ],
+  "usage": "Ask it with friends when you admire something new they bought.",
+  "leelaQ": "What was the last thing you bought and how much was it?",
+  "answer": "I bought a bag and it cost five hundred rupees."
+ },
+ {
+  "en": "The bank is giving a good rate on fixed deposits.",
+  "tamil": "வங்கி ஃபிக்ஸட் டெபாசிட்டுக்கு நல்ல வட்டி தருது.",
+  "context": "Telling your uncle about an offer.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous shows an offer that is available now.",
+  "words": [
+   "fixed deposits"
+  ],
+  "usage": "Use it with family when you share news about a savings offer.",
+  "leelaQ": "What do older people in your family do with their savings?",
+  "answer": "They keep it in fixed deposits."
+ },
+ {
+  "en": "Wait here while I withdraw some cash.",
+  "tamil": "நான் கொஞ்சம் பணம் எடுக்கற வரை இங்க இருங்க.",
+  "context": "Asking a friend to wait outside an ATM.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'While' connects two actions at the same time.",
+  "words": [
+   "withdraw"
+  ],
+  "usage": "Say it to a friend or driver when you go to an ATM.",
+  "leelaQ": "Do you feel safe using an ATM at night?",
+  "answer": "No, I prefer to go in the daytime."
+ },
+ {
+  "en": "My account got blocked after three wrong PIN attempts.",
+  "tamil": "மூணு தடவை தப்பான பின் போட்டதுனால என் கணக்கு பிளாக் ஆயிடுச்சு.",
+  "context": "Reporting a problem at the bank.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Got blocked' is a common spoken passive form.",
+  "words": [
+   "blocked",
+   "attempts"
+  ],
+  "usage": "Use it at the bank or on a helpline when a card or account stops working.",
+  "leelaQ": "What would you do if your account is blocked?",
+  "answer": "I would go to the bank with my ID."
+ },
+ {
+  "en": "We have cleared all our credit card dues.",
+  "tamil": "எங்க கிரெடிட் கார்டு பாக்கி எல்லாம் அடைச்சிட்டோம்.",
+  "context": "Sharing good news with a friend.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have cleared' shows the work is complete now.",
+  "words": [
+   "cleared",
+   "dues"
+  ],
+  "usage": "Use it when you tell friends or family you are free of debt.",
+  "leelaQ": "How does it feel when you finish paying a loan?",
+  "answer": "It feels like a big weight is gone."
+ },
+ {
+  "en": "Can I pay the school fee in instalments?",
+  "tamil": "பள்ளிக் கட்டணத்தை தவணையில கட்டலாமா?",
+  "context": "Asking the school office.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'In instalments' means in smaller parts over time.",
+  "words": [
+   "fee",
+   "instalments"
+  ],
+  "usage": "Ask it at a school or college office when the full fee is hard to pay.",
+  "leelaQ": "Why do people like paying in instalments?",
+  "answer": "Because it is easier to pay small amounts."
+ },
+ {
+  "en": "A good budget helps you avoid debt.",
+  "tamil": "நல்ல பட்ஜெட் கடன் வராம தவிர்க்க உதவும்.",
+  "context": "Giving a friend money advice.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Helps you avoid' is a useful pattern: help + person + verb.",
+  "words": [
+   "budget",
+   "debt"
+  ],
+  "usage": "Use it when you give simple money advice to younger people.",
+  "leelaQ": "What is one tip you can give a new college student about money?",
+  "answer": "Write down every expense and spend carefully."
+ },
+ {
+  "en": "You can check your balance on the mobile app.",
+  "tamil": "மொபைல் ஆப்ல உங்க இருப்பை பார்க்கலாம்.",
+  "context": "Helping an elderly person with banking.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Can' shows that something is possible.",
+  "words": [
+   "balance",
+   "app"
+  ],
+  "usage": "Use it when you teach an elder a simple banking step.",
+  "leelaQ": "Have you taught anyone to use a banking app?",
+  "answer": "Yes, I taught my mother to use it."
+ },
+ {
+  "en": "Gold is not cheap anymore.",
+  "tamil": "தங்கம் இப்போ மலிவு இல்ல.",
+  "context": "Talking about jewellery prices.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not ... anymore' shows something was true before but is not true now.",
+  "words": [
+   "gold",
+   "cheap"
+  ],
+  "usage": "Use it when you talk about prices with family before a purchase.",
+  "leelaQ": "What was cheap in the past but is costly now?",
+  "answer": "Tea and bus tickets were cheap in the past."
+ },
+ {
+  "en": "Why is the electricity bill so high this month?",
+  "tamil": "இந்த மாசம் கரண்ட் பில் ஏன் இவ்வளவு அதிகம்?",
+  "context": "Asking your family at home.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'So high' stresses that the amount is surprising.",
+  "words": [
+   "electricity",
+   "bill"
+  ],
+  "usage": "Use it at home, or with the electricity office, when a bill looks wrong.",
+  "leelaQ": "How can a family reduce its electricity use?",
+  "answer": "We can switch off fans and lights when we leave a room."
+ },
+ {
+  "en": "He paid the vegetable seller by scanning a QR code.",
+  "tamil": "அவர் QR கோடை ஸ்கேன் பண்ணி காய்கறிக்காரருக்கு பணம் கொடுத்தார்.",
+  "context": "Describing how people pay in a market.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'By scanning' shows the way something was done.",
+  "words": [
+   "vegetable seller",
+   "scanning"
+  ],
+  "usage": "Use it when you tell a story about digital payments in daily life.",
+  "leelaQ": "Do vegetable sellers near you accept phone payments?",
+  "answer": "Yes, many of them have a QR code board."
+ },
+ {
+  "en": "Could you lower the interest a little?",
+  "tamil": "வட்டியை கொஞ்சம் குறைக்க முடியுமா?",
+  "context": "Negotiating with a loan agent.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'A little' makes the request softer and more polite.",
+  "words": [
+   "lower",
+   "interest"
+  ],
+  "usage": "Use it politely when you talk to a loan agent or a lender.",
+  "leelaQ": "Do you think it is okay to negotiate with a bank?",
+  "answer": "Yes, it is okay to ask for a better rate."
+ },
+ {
+  "en": "I'll check my bank statement tonight.",
+  "tamil": "இன்னைக்கு ராத்திரி என் வங்கி அறிக்கையை பார்ப்பேன்.",
+  "context": "Promising to look into a payment.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'I'll' is the short form of 'I will'. It is common in speech.",
+  "words": [
+   "statement"
+  ],
+  "usage": "Say it when someone asks about a payment you need to verify.",
+  "leelaQ": "How often do you go through your bank statement?",
+  "answer": "I go through it once a month."
+ },
+ {
+  "en": "My mother keeps a small savings box at home.",
+  "tamil": "என் அம்மா வீட்டுல ஒரு சின்ன உண்டியல் வச்சிருக்காங்க.",
+  "context": "Telling a friend about a family habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Simple present with 'keeps' shows a regular habit.",
+  "words": [
+   "savings box"
+  ],
+  "usage": "Use it when you talk about saving habits in your family.",
+  "leelaQ": "Did you save coins in a box when you were a child?",
+  "answer": "Yes, I saved coins in a small box."
+ },
+ {
+  "en": "I can't afford a new phone right now.",
+  "tamil": "இப்போ புது போன் வாங்க என்னால முடியாது.",
+  "context": "Explaining to a friend why you will not buy.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Can't afford' means you do not have enough money for something.",
+  "words": [
+   "afford"
+  ],
+  "usage": "Use it honestly with friends or sellers when something is beyond your budget.",
+  "leelaQ": "What would you like to buy if money was not a problem?",
+  "answer": "I would buy a new phone and a laptop."
+ },
+ {
+  "en": "Is the bank open on the second Saturday of the month?",
+  "tamil": "மாசத்தோட இரண்டாவது சனிக்கிழமை வங்கி திறந்திருக்குமா?",
+  "context": "Asking a bank clerk about weekend working days.",
+  "tense": "present",
+  "type": "question",
+  "explain": "Many banks in India are closed on the second Saturday, so people check first.",
+  "words": [
+   "open",
+   "saturday"
+  ],
+  "usage": "Ask it at the bank gate or on a helpline to plan your visit.",
+  "leelaQ": "When do you find time to visit the bank?",
+  "answer": "I go on Saturday mornings."
+ },
+ {
+  "en": "I have set a monthly limit for my spending.",
+  "tamil": "என் செலவுக்கு ஒரு மாசாந்திர வரம்பு வச்சிருக்கேன்.",
+  "context": "Telling a friend about your money control.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have set' shows a rule you made that still applies.",
+  "words": [
+   "monthly limit"
+  ],
+  "usage": "Use it when you discuss money habits with friends.",
+  "leelaQ": "How do you control your spending?",
+  "answer": "I set a limit and track it in a notebook."
+ },
+ {
+  "en": "Prices are rising, so we are cutting small expenses.",
+  "tamil": "விலை ஏறிட்டே போகுது, அதனால சின்ன செலவுகளை குறைக்கிறோம்.",
+  "context": "Explaining a family decision.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'So' connects a cause and its result.",
+  "words": [
+   "rising",
+   "expenses"
+  ],
+  "usage": "Use it when you explain why a family is spending less.",
+  "leelaQ": "Which small expenses can you cut easily?",
+  "answer": "I can cut eating outside and online orders."
+ },
+ {
+  "en": "I paid the full amount and got a discount.",
+  "tamil": "நான் முழு தொகையை கட்டினேன், தள்ளுபடி கிடைச்சுது.",
+  "context": "Telling a friend about a good deal.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Two past actions joined by 'and'.",
+  "words": [
+   "amount",
+   "discount"
+  ],
+  "usage": "Use it when you share a money-saving experience.",
+  "leelaQ": "Have you ever got a discount for paying early?",
+  "answer": "Yes, I got a small discount on my insurance."
+ }
+]

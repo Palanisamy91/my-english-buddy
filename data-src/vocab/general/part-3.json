@@ -1,0 +1,911 @@
+[
+ {
+  "word": "always",
+  "tamil": "எப்போதும்",
+  "pos": "adverb",
+  "pron": "AWL-wayz",
+  "example": "She always arrives early for class.",
+  "exampleTamil": "அவள் வகுப்புக்கு எப்போதும் சீக்கிரம் வருவாள்.",
+  "synonyms": [
+   "every time",
+   "constantly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sometimes",
+  "tamil": "சில சமயங்களில்",
+  "pos": "adverb",
+  "pron": "SUM-tymz",
+  "example": "Sometimes I walk to work instead of taking the bus.",
+  "exampleTamil": "சில சமயங்களில் பேருந்துக்குப் பதிலாக நடந்தே வேலைக்குச் செல்கிறேன்.",
+  "synonyms": [
+   "occasionally",
+   "at times"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "often",
+  "tamil": "அடிக்கடி",
+  "pos": "adverb",
+  "pron": "OF-un",
+  "example": "We often eat dinner together on Sundays.",
+  "exampleTamil": "நாங்கள் ஞாயிற்றுக்கிழமைகளில் அடிக்கடி சேர்ந்து இரவு உணவு சாப்பிடுவோம்.",
+  "synonyms": [
+   "frequently",
+   "regularly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "usually",
+  "tamil": "வழக்கமாக",
+  "pos": "adverb",
+  "pron": "YOO-zhoo-uh-lee",
+  "example": "He usually drinks tea in the morning.",
+  "exampleTamil": "அவன் வழக்கமாகக் காலையில் தேநீர் குடிப்பான்.",
+  "synonyms": [
+   "normally",
+   "typically"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rarely",
+  "tamil": "அரிதாக",
+  "pos": "adverb",
+  "pron": "RAIR-lee",
+  "example": "My father rarely watches television.",
+  "exampleTamil": "என் அப்பா அரிதாகவே தொலைக்காட்சி பார்ப்பார்.",
+  "synonyms": [
+   "seldom",
+   "hardly ever"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "never",
+  "tamil": "ஒருபோதும் இல்லை",
+  "pos": "adverb",
+  "pron": "NEV-er",
+  "example": "I have never seen snow in my life.",
+  "exampleTamil": "என் வாழ்க்கையில் நான் பனியை ஒருபோதும் பார்த்ததில்லை.",
+  "synonyms": [
+   "not once",
+   "at no time"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "because",
+  "tamil": "ஏனென்றால்",
+  "pos": "conjunction",
+  "pron": "bi-KUZ",
+  "example": "I stayed home because it was raining heavily.",
+  "exampleTamil": "பலத்த மழை பெய்ததால் நான் வீட்டிலேயே இருந்தேன்.",
+  "synonyms": [
+   "since",
+   "as"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "but",
+  "tamil": "ஆனால்",
+  "pos": "conjunction",
+  "pron": "BUT",
+  "example": "The food was cheap, but it tasted wonderful.",
+  "exampleTamil": "உணவு மலிவாக இருந்தது, ஆனால் சுவை அருமையாக இருந்தது.",
+  "synonyms": [
+   "yet",
+   "however"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "also",
+  "tamil": "மேலும், கூட",
+  "pos": "adverb",
+  "pron": "AWL-soh",
+  "example": "She speaks Tamil and also knows Hindi.",
+  "exampleTamil": "அவள் தமிழ் பேசுவாள், மேலும் ஹிந்தியும் தெரியும்.",
+  "synonyms": [
+   "too",
+   "as well"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "too",
+  "tamil": "மிகவும் / கூட",
+  "pos": "adverb",
+  "pron": "TOO",
+  "example": "This tea is too hot to drink.",
+  "exampleTamil": "இந்தத் தேநீர் குடிக்க முடியாத அளவு சூடாக இருக்கிறது.",
+  "synonyms": [
+   "excessively",
+   "also"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "very",
+  "tamil": "மிகவும்",
+  "pos": "adverb",
+  "pron": "VER-ee",
+  "example": "The view from the hill is very beautiful.",
+  "exampleTamil": "மலையிலிருந்து தெரியும் காட்சி மிகவும் அழகாக இருக்கிறது.",
+  "synonyms": [
+   "extremely",
+   "really"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quite",
+  "tamil": "கொஞ்சம் அதிகமாக",
+  "pos": "adverb",
+  "pron": "KWYT",
+  "example": "The exam was quite difficult for most students.",
+  "exampleTamil": "பெரும்பாலான மாணவர்களுக்குத் தேர்வு கொஞ்சம் கடினமாக இருந்தது.",
+  "synonyms": [
+   "fairly",
+   "rather"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "enough",
+  "tamil": "போதுமான",
+  "pos": "adjective",
+  "pron": "i-NUF",
+  "example": "Do we have enough chairs for everyone?",
+  "exampleTamil": "எல்லோருக்கும் போதுமான நாற்காலிகள் நம்மிடம் உள்ளனவா?",
+  "synonyms": [
+   "sufficient",
+   "adequate"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "almost",
+  "tamil": "கிட்டத்தட்ட",
+  "pos": "adverb",
+  "pron": "AWL-mohst",
+  "example": "We are almost at the station now.",
+  "exampleTamil": "நாம் இப்போது கிட்டத்தட்ட நிலையத்தை அடைந்துவிட்டோம்.",
+  "synonyms": [
+   "nearly",
+   "practically"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "already",
+  "tamil": "ஏற்கனவே",
+  "pos": "adverb",
+  "pron": "awl-RED-ee",
+  "example": "I have already finished my homework.",
+  "exampleTamil": "நான் ஏற்கனவே என் வீட்டுப்பாடத்தை முடித்துவிட்டேன்.",
+  "synonyms": [
+   "previously",
+   "before now"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "still",
+  "tamil": "இன்னும்",
+  "pos": "adverb",
+  "pron": "STIL",
+  "example": "He is still sleeping at ten o'clock.",
+  "exampleTamil": "பத்து மணிக்கும் அவன் இன்னும் தூங்கிக் கொண்டிருக்கிறான்.",
+  "synonyms": [
+   "even now",
+   "yet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "yet",
+  "tamil": "இன்னும் (இல்லை)",
+  "pos": "adverb",
+  "pron": "YET",
+  "example": "The bus has not arrived yet.",
+  "exampleTamil": "பேருந்து இன்னும் வரவில்லை.",
+  "synonyms": [
+   "so far",
+   "until now"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "soon",
+  "tamil": "விரைவில்",
+  "pos": "adverb",
+  "pron": "SOON",
+  "example": "The movie will start soon.",
+  "exampleTamil": "திரைப்படம் விரைவில் தொடங்கும்.",
+  "synonyms": [
+   "shortly",
+   "before long"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ever",
+  "tamil": "எப்போதாவது",
+  "pos": "adverb",
+  "pron": "EV-er",
+  "example": "Have you ever eaten Japanese food?",
+  "exampleTamil": "நீங்கள் எப்போதாவது ஜப்பானிய உணவு சாப்பிட்டிருக்கிறீர்களா?",
+  "synonyms": [
+   "at any time",
+   "on any occasion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "again",
+  "tamil": "மீண்டும்",
+  "pos": "adverb",
+  "pron": "uh-GEN",
+  "example": "Please say that again more slowly.",
+  "exampleTamil": "தயவுசெய்து அதை மீண்டும் மெதுவாகச் சொல்லுங்கள்.",
+  "synonyms": [
+   "once more",
+   "anew"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "together",
+  "tamil": "ஒன்றாக",
+  "pos": "adverb",
+  "pron": "tuh-GETH-er",
+  "example": "The two families travelled together to Madurai.",
+  "exampleTamil": "இரு குடும்பங்களும் ஒன்றாக மதுரைக்குப் பயணம் செய்தன.",
+  "synonyms": [
+   "jointly",
+   "side by side"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "maybe",
+  "tamil": "ஒருவேளை",
+  "pos": "adverb",
+  "pron": "MAY-bee",
+  "example": "Maybe we can meet on Saturday.",
+  "exampleTamil": "ஒருவேளை நாம் சனிக்கிழமை சந்திக்கலாம்.",
+  "synonyms": [
+   "perhaps",
+   "possibly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "between",
+  "tamil": "இடையே",
+  "pos": "preposition",
+  "pron": "bi-TWEEN",
+  "example": "The bakery is between the bank and the school.",
+  "exampleTamil": "பேக்கரி வங்கிக்கும் பள்ளிக்கும் இடையே உள்ளது.",
+  "synonyms": [
+   "in the middle of",
+   "amid"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "among",
+  "tamil": "பலரிடையே",
+  "pos": "preposition",
+  "pron": "uh-MUNG",
+  "example": "She is the tallest among all her friends.",
+  "exampleTamil": "அவள் தன் நண்பர்கள் அனைவரிலும் உயரமானவள்.",
+  "synonyms": [
+   "amid",
+   "surrounded by"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "during",
+  "tamil": "போது",
+  "pos": "preposition",
+  "pron": "DYOOR-ing",
+  "example": "Please keep quiet during the exam.",
+  "exampleTamil": "தேர்வின் போது தயவுசெய்து அமைதியாக இருங்கள்.",
+  "synonyms": [
+   "throughout",
+   "in the course of"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "until",
+  "tamil": "வரை",
+  "pos": "conjunction",
+  "pron": "un-TIL",
+  "example": "Wait here until I come back.",
+  "exampleTamil": "நான் திரும்பி வரும் வரை இங்கே காத்திருங்கள்.",
+  "synonyms": [
+   "till",
+   "up to the time that"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "without",
+  "tamil": "இல்லாமல்",
+  "pos": "preposition",
+  "pron": "with-OWT",
+  "example": "He left the house without his keys.",
+  "exampleTamil": "அவன் சாவி இல்லாமல் வீட்டை விட்டுக் கிளம்பினான்.",
+  "synonyms": [
+   "lacking",
+   "minus"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "instead",
+  "tamil": "அதற்குப் பதிலாக",
+  "pos": "adverb",
+  "pron": "in-STED",
+  "example": "The shop was closed, so we went home instead.",
+  "exampleTamil": "கடை மூடியிருந்ததால் அதற்குப் பதிலாக வீட்டுக்குச் சென்றோம்.",
+  "synonyms": [
+   "alternatively",
+   "rather"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "either",
+  "tamil": "ஏதாவது ஒன்று",
+  "pos": "conjunction",
+  "pron": "EE-ther",
+  "example": "You can have either tea or coffee.",
+  "exampleTamil": "நீங்கள் தேநீர் அல்லது காபி ஏதாவது ஒன்று எடுத்துக்கொள்ளலாம்.",
+  "synonyms": [
+   "one or the other"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "neither",
+  "tamil": "இரண்டுமில்லை",
+  "pos": "conjunction",
+  "pron": "NEE-ther",
+  "example": "Neither of my brothers likes spicy food.",
+  "exampleTamil": "என் இரு சகோதரர்களில் யாருக்கும் காரமான உணவு பிடிக்காது.",
+  "synonyms": [
+   "not either",
+   "none of two"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "both",
+  "tamil": "இரண்டும்",
+  "pos": "pronoun",
+  "pron": "BOHTH",
+  "example": "Both of my parents are teachers.",
+  "exampleTamil": "என் பெற்றோர் இருவருமே ஆசிரியர்கள்.",
+  "synonyms": [
+   "the two",
+   "each of two"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "every",
+  "tamil": "ஒவ்வொரு",
+  "pos": "adjective",
+  "pron": "EV-ree",
+  "example": "I go for a walk every evening.",
+  "exampleTamil": "நான் ஒவ்வொரு மாலையும் நடைப்பயிற்சி செல்கிறேன்.",
+  "synonyms": [
+   "each",
+   "all"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "several",
+  "tamil": "பல",
+  "pos": "adjective",
+  "pron": "SEV-ruhl",
+  "example": "I called him several times, but he did not answer.",
+  "exampleTamil": "நான் அவனை பலமுறை அழைத்தேன், ஆனால் அவன் பதில் சொல்லவில்லை.",
+  "synonyms": [
+   "a number of",
+   "various"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "plenty",
+  "tamil": "நிறைய",
+  "pos": "noun",
+  "pron": "PLEN-tee",
+  "example": "We have plenty of time before the train leaves.",
+  "exampleTamil": "ரயில் புறப்பட நமக்கு நிறைய நேரம் இருக்கிறது.",
+  "synonyms": [
+   "a lot",
+   "abundance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "whole",
+  "tamil": "முழு",
+  "pos": "adjective",
+  "pron": "HOHL",
+  "example": "She ate the whole cake by herself.",
+  "exampleTamil": "அவள் முழு கேக்கையும் தனியாகவே சாப்பிட்டுவிட்டாள்.",
+  "synonyms": [
+   "entire",
+   "complete"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "happy",
+  "tamil": "மகிழ்ச்சியான",
+  "pos": "adjective",
+  "pron": "HAP-ee",
+  "example": "The children were happy to see the beach.",
+  "exampleTamil": "கடற்கரையைப் பார்த்து குழந்தைகள் மகிழ்ச்சியடைந்தனர்.",
+  "synonyms": [
+   "glad",
+   "joyful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sad",
+  "tamil": "சோகமான",
+  "pos": "adjective",
+  "pron": "SAD",
+  "example": "He felt sad when his friend moved away.",
+  "exampleTamil": "நண்பன் வேறு ஊருக்குச் சென்றபோது அவன் சோகமாக உணர்ந்தான்.",
+  "synonyms": [
+   "unhappy",
+   "sorrowful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "angry",
+  "tamil": "கோபமான",
+  "pos": "adjective",
+  "pron": "ANG-gree",
+  "example": "My mother was angry about the broken window.",
+  "exampleTamil": "உடைந்த ஜன்னலைப் பற்றி என் அம்மா கோபமாக இருந்தார்.",
+  "synonyms": [
+   "furious",
+   "mad"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "afraid",
+  "tamil": "பயந்த",
+  "pos": "adjective",
+  "pron": "uh-FRAYD",
+  "example": "Are you afraid of dogs?",
+  "exampleTamil": "உங்களுக்கு நாய்களைக் கண்டால் பயமா?",
+  "synonyms": [
+   "scared",
+   "frightened"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "proud",
+  "tamil": "பெருமைப்படும்",
+  "pos": "adjective",
+  "pron": "PROWD",
+  "example": "Her parents are proud of her success.",
+  "exampleTamil": "அவளுடைய வெற்றியைப் பற்றி பெற்றோர் பெருமைப்படுகிறார்கள்.",
+  "synonyms": [
+   "pleased",
+   "satisfied"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bored",
+  "tamil": "சலிப்படைந்த",
+  "pos": "adjective",
+  "pron": "BAWRD",
+  "example": "I was bored during the long lecture.",
+  "exampleTamil": "நீண்ட சொற்பொழிவின் போது நான் சலிப்படைந்தேன்.",
+  "synonyms": [
+   "uninterested",
+   "fed up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "excited",
+  "tamil": "உற்சாகமான",
+  "pos": "adjective",
+  "pron": "ik-SY-tid",
+  "example": "The kids are excited about the holiday trip.",
+  "exampleTamil": "விடுமுறைப் பயணத்தைப் பற்றி குழந்தைகள் உற்சாகமாக உள்ளனர்.",
+  "synonyms": [
+   "thrilled",
+   "eager"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "worried",
+  "tamil": "கவலைப்பட்ட",
+  "pos": "adjective",
+  "pron": "WUR-eed",
+  "example": "She is worried about her final exam.",
+  "exampleTamil": "அவள் தன் இறுதித் தேர்வைப் பற்றி கவலைப்படுகிறாள்.",
+  "synonyms": [
+   "concerned",
+   "troubled"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "surprised",
+  "tamil": "ஆச்சரியப்பட்ட",
+  "pos": "adjective",
+  "pron": "sur-PRYZD",
+  "example": "I was surprised to see him at the party.",
+  "exampleTamil": "விருந்தில் அவனைப் பார்த்து நான் ஆச்சரியப்பட்டேன்.",
+  "synonyms": [
+   "astonished",
+   "amazed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "kind",
+  "tamil": "அன்பான",
+  "pos": "adjective",
+  "pron": "KYND",
+  "example": "The kind old man helped me carry my bags.",
+  "exampleTamil": "அந்த அன்பான முதியவர் என் பைகளைச் சுமக்க உதவினார்.",
+  "synonyms": [
+   "caring",
+   "gentle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lazy",
+  "tamil": "சோம்பேறியான",
+  "pos": "adjective",
+  "pron": "LAY-zee",
+  "example": "He felt lazy and stayed in bed all morning.",
+  "exampleTamil": "அவன் சோம்பலாக உணர்ந்து காலை முழுவதும் படுக்கையிலேயே இருந்தான்.",
+  "synonyms": [
+   "idle",
+   "sluggish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "brave",
+  "tamil": "துணிச்சலான",
+  "pos": "adjective",
+  "pron": "BRAYV",
+  "example": "The brave boy jumped into the river to save the puppy.",
+  "exampleTamil": "அந்தத் துணிச்சலான சிறுவன் நாய்க்குட்டியைக் காப்பாற்ற ஆற்றில் குதித்தான்.",
+  "synonyms": [
+   "courageous",
+   "fearless"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "clever",
+  "tamil": "புத்திசாலியான",
+  "pos": "adjective",
+  "pron": "KLEV-er",
+  "example": "It was a clever answer to a hard question.",
+  "exampleTamil": "அது ஒரு கடினமான கேள்விக்கு புத்திசாலித்தனமான பதில்.",
+  "synonyms": [
+   "smart",
+   "intelligent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "funny",
+  "tamil": "வேடிக்கையான",
+  "pos": "adjective",
+  "pron": "FUN-ee",
+  "example": "Her jokes are always funny.",
+  "exampleTamil": "அவளுடைய நகைச்சுவைகள் எப்போதும் வேடிக்கையாக இருக்கும்.",
+  "synonyms": [
+   "amusing",
+   "humorous"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "friendly",
+  "tamil": "நட்பான",
+  "pos": "adjective",
+  "pron": "FREND-lee",
+  "example": "Our new neighbours are very friendly.",
+  "exampleTamil": "எங்கள் புதிய அண்டை வீட்டார் மிகவும் நட்பானவர்கள்.",
+  "synonyms": [
+   "warm",
+   "sociable"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quiet",
+  "tamil": "அமைதியான",
+  "pos": "adjective",
+  "pron": "KWY-it",
+  "example": "The library is a quiet place to study.",
+  "exampleTamil": "நூலகம் படிப்பதற்கு அமைதியான இடம்.",
+  "synonyms": [
+   "silent",
+   "calm"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "strange",
+  "tamil": "விசித்திரமான",
+  "pos": "adjective",
+  "pron": "STRAYNJ",
+  "example": "I heard a strange noise last night.",
+  "exampleTamil": "நேற்று இரவு நான் ஒரு விசித்திரமான சத்தம் கேட்டேன்.",
+  "synonyms": [
+   "odd",
+   "peculiar"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "difficult",
+  "tamil": "கடினமான",
+  "pos": "adjective",
+  "pron": "DIF-i-kuhlt",
+  "example": "Learning a new language is difficult at first.",
+  "exampleTamil": "புதிய மொழி கற்பது முதலில் கடினமாக இருக்கும்.",
+  "synonyms": [
+   "hard",
+   "tough"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "easy",
+  "tamil": "எளிதான",
+  "pos": "adjective",
+  "pron": "EE-zee",
+  "example": "The recipe is easy to follow.",
+  "exampleTamil": "இந்தச் சமையல் குறிப்பைப் பின்பற்றுவது எளிது.",
+  "synonyms": [
+   "simple",
+   "effortless"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "important",
+  "tamil": "முக்கியமான",
+  "pos": "adjective",
+  "pron": "im-POR-tunt",
+  "example": "It is important to drink enough water every day.",
+  "exampleTamil": "ஒவ்வொரு நாளும் போதுமான தண்ணீர் குடிப்பது முக்கியம்.",
+  "synonyms": [
+   "significant",
+   "vital"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "careful",
+  "tamil": "கவனமான",
+  "pos": "adjective",
+  "pron": "KAIR-ful",
+  "example": "Be careful when you cross the busy road.",
+  "exampleTamil": "நெரிசலான சாலையைக் கடக்கும்போது கவனமாக இருங்கள்.",
+  "synonyms": [
+   "cautious",
+   "watchful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dangerous",
+  "tamil": "ஆபத்தான",
+  "pos": "adjective",
+  "pron": "DAYN-jer-us",
+  "example": "Swimming in that river is dangerous.",
+  "exampleTamil": "அந்த ஆற்றில் நீந்துவது ஆபத்தானது.",
+  "synonyms": [
+   "risky",
+   "unsafe"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "safe",
+  "tamil": "பாதுகாப்பான",
+  "pos": "adjective",
+  "pron": "SAYF",
+  "example": "The children are safe at home.",
+  "exampleTamil": "குழந்தைகள் வீட்டில் பாதுகாப்பாக இருக்கிறார்கள்.",
+  "synonyms": [
+   "secure",
+   "protected"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "think",
+  "tamil": "நினைக்க / யோசிக்க",
+  "pos": "verb",
+  "pron": "THINGK",
+  "example": "I think we should leave now.",
+  "exampleTamil": "நாம் இப்போது கிளம்ப வேண்டும் என்று நினைக்கிறேன்.",
+  "synonyms": [
+   "believe",
+   "reckon"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "know",
+  "tamil": "தெரிந்துகொள்ள",
+  "pos": "verb",
+  "pron": "NOH",
+  "example": "Do you know the way to the station?",
+  "exampleTamil": "நிலையத்துக்குப் போகும் வழி உங்களுக்குத் தெரியுமா?",
+  "synonyms": [
+   "be aware of",
+   "understand"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "understand",
+  "tamil": "புரிந்துகொள்ள",
+  "pos": "verb",
+  "pron": "un-der-STAND",
+  "example": "I do not understand this question.",
+  "exampleTamil": "எனக்கு இந்தக் கேள்வி புரியவில்லை.",
+  "synonyms": [
+   "comprehend",
+   "grasp"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "remember",
+  "tamil": "நினைவில் வைத்திருக்க",
+  "pos": "verb",
+  "pron": "ri-MEM-ber",
+  "example": "Do you remember my phone number?",
+  "exampleTamil": "என் தொலைபேசி எண் உங்களுக்கு நினைவிருக்கிறதா?",
+  "synonyms": [
+   "recall",
+   "recollect"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "forget",
+  "tamil": "மறக்க",
+  "pos": "verb",
+  "pron": "fer-GET",
+  "example": "Don't forget to lock the door.",
+  "exampleTamil": "கதவைப் பூட்ட மறக்காதீர்கள்.",
+  "synonyms": [
+   "overlook",
+   "neglect"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "learn",
+  "tamil": "கற்றுக்கொள்ள",
+  "pos": "verb",
+  "pron": "LURN",
+  "example": "She wants to learn how to swim.",
+  "exampleTamil": "அவள் நீந்தக் கற்றுக்கொள்ள விரும்புகிறாள்.",
+  "synonyms": [
+   "study",
+   "pick up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hope",
+  "tamil": "நம்பிக்கை கொள்ள",
+  "pos": "verb",
+  "pron": "HOHP",
+  "example": "I hope you feel better soon.",
+  "exampleTamil": "நீங்கள் விரைவில் குணமடைவீர்கள் என்று நம்புகிறேன்.",
+  "synonyms": [
+   "wish",
+   "trust"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wish",
+  "tamil": "விரும்ப",
+  "pos": "verb",
+  "pron": "WISH",
+  "example": "I wish I had more free time.",
+  "exampleTamil": "எனக்கு இன்னும் அதிக ஓய்வு நேரம் இருந்தால் நன்றாக இருக்கும்.",
+  "synonyms": [
+   "long for",
+   "desire"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "choose",
+  "tamil": "தேர்ந்தெடுக்க",
+  "pos": "verb",
+  "pron": "CHOOZ",
+  "example": "You can choose any colour you like.",
+  "exampleTamil": "உங்களுக்குப் பிடித்த எந்த நிறத்தையும் தேர்ந்தெடுக்கலாம்.",
+  "synonyms": [
+   "select",
+   "pick"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "enjoy",
+  "tamil": "ரசிக்க",
+  "pos": "verb",
+  "pron": "in-JOY",
+  "example": "We enjoyed the music at the concert.",
+  "exampleTamil": "இசை நிகழ்ச்சியில் நாங்கள் இசையை ரசித்தோம்.",
+  "synonyms": [
+   "like",
+   "relish"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hate",
+  "tamil": "வெறுக்க",
+  "pos": "verb",
+  "pron": "HAYT",
+  "example": "I hate waiting in long queues.",
+  "exampleTamil": "நீண்ட வரிசையில் காத்திருப்பதை நான் வெறுக்கிறேன்.",
+  "synonyms": [
+   "dislike",
+   "detest"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "seem",
+  "tamil": "போலத் தெரிய",
+  "pos": "verb",
+  "pron": "SEEM",
+  "example": "You seem tired today.",
+  "exampleTamil": "நீங்கள் இன்று களைப்பாகத் தெரிகிறீர்கள்.",
+  "synonyms": [
+   "appear",
+   "look"
+  ],
+  "level": "beginner"
+ }
+]

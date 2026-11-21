@@ -1,0 +1,714 @@
+[
+ {
+  "word": "direction",
+  "tamil": "திசை, வழி",
+  "pos": "noun",
+  "pron": "duh-REK-shun",
+  "example": "Can you give me directions to the station?",
+  "exampleTamil": "நிலையத்திற்குச் செல்லும் வழியைச் சொல்ல முடியுமா?",
+  "synonyms": [
+   "route",
+   "way"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "map",
+  "tamil": "வரைபடம்",
+  "pos": "noun",
+  "pron": "MAP",
+  "example": "I use a map app to find my way.",
+  "exampleTamil": "நான் வழி கண்டுபிடிக்க வரைபடச் செயலியைப் பயன்படுத்துகிறேன்.",
+  "synonyms": [
+   "chart"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "compass",
+  "tamil": "திசைகாட்டி",
+  "pos": "noun",
+  "pron": "KUM-pus",
+  "example": "The old sailor trusted his compass.",
+  "exampleTamil": "பழைய மாலுமி தன் திசைகாட்டியை நம்பினார்.",
+  "synonyms": [
+   "navigator"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "landmark",
+  "tamil": "அடையாளக் கட்டிடம்",
+  "pos": "noun",
+  "pron": "LAND-mark",
+  "example": "The clock tower is a famous landmark.",
+  "exampleTamil": "கடிகாரக் கோபுரம் ஒரு பிரபல அடையாளச் சின்னம்.",
+  "synonyms": [
+   "monument",
+   "sight"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "navigate",
+  "tamil": "வழி கண்டறிந்து செல்லுதல்",
+  "pos": "verb",
+  "pron": "NAV-ih-gayt",
+  "example": "It is easy to navigate with GPS.",
+  "exampleTamil": "ஜிபிஎஸ் மூலம் வழி கண்டறிவது எளிது.",
+  "synonyms": [
+   "find the way"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "navigation",
+  "tamil": "வழிகாட்டும் அமைப்பு",
+  "pos": "noun",
+  "pron": "nav-ih-GAY-shun",
+  "example": "The car has built-in navigation.",
+  "exampleTamil": "காரில் உள்ளமைந்த வழிகாட்டி அமைப்பு உள்ளது.",
+  "synonyms": [
+   "guidance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "straight",
+  "tamil": "நேராக",
+  "pos": "adverb",
+  "pron": "STRAYT",
+  "example": "Go straight and turn left at the signal.",
+  "exampleTamil": "நேராகச் சென்று சிக்னலில் இடது பக்கம் திரும்புங்கள்.",
+  "synonyms": [
+   "directly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "opposite",
+  "tamil": "எதிரில்",
+  "pos": "preposition",
+  "pron": "OP-uh-zit",
+  "example": "The bank is opposite the post office.",
+  "exampleTamil": "வங்கி தபால் நிலையத்திற்கு எதிரில் உள்ளது.",
+  "synonyms": [
+   "facing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "nearby",
+  "tamil": "அருகிலுள்ள",
+  "pos": "adjective",
+  "pron": "NEER-by",
+  "example": "Is there a nearby pharmacy?",
+  "exampleTamil": "அருகில் மருந்தகம் ஏதேனும் உள்ளதா?",
+  "synonyms": [
+   "close",
+   "adjacent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "beyond",
+  "tamil": "அதற்கு அப்பால்",
+  "pos": "preposition",
+  "pron": "bee-YOND",
+  "example": "The temple is just beyond the bridge.",
+  "exampleTamil": "கோவில் பாலத்திற்கு சற்று அப்பால் உள்ளது.",
+  "synonyms": [
+   "past"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "roundabout",
+  "tamil": "வட்டச் சந்திப்பு",
+  "pos": "noun",
+  "pron": "ROWND-uh-bowt",
+  "example": "Take the second exit at the roundabout.",
+  "exampleTamil": "வட்டச் சந்திப்பில் இரண்டாம் வெளியேறும் வழியில் செல்லுங்கள்.",
+  "synonyms": [
+   "traffic circle"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "intersection",
+  "tamil": "நான்கு வழிச் சந்திப்பு",
+  "pos": "noun",
+  "pron": "in-ter-SEK-shun",
+  "example": "Turn right at the next intersection.",
+  "exampleTamil": "அடுத்த சந்திப்பில் வலது பக்கம் திரும்புங்கள்.",
+  "synonyms": [
+   "crossroads"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "corner",
+  "tamil": "முனை, மூலை",
+  "pos": "noun",
+  "pron": "KOR-ner",
+  "example": "There is a tea stall on the corner.",
+  "exampleTamil": "முனையில் ஒரு தேநீர்க் கடை உள்ளது.",
+  "synonyms": [
+   "bend"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shortcut",
+  "tamil": "குறுக்குவழி",
+  "pos": "noun",
+  "pron": "SHORT-kut",
+  "example": "We took a shortcut through the market.",
+  "exampleTamil": "நாங்கள் சந்தை வழியாக குறுக்குவழியில் சென்றோம்.",
+  "synonyms": [
+   "quick route"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "detour",
+  "tamil": "சுற்றுப்பாதை",
+  "pos": "noun",
+  "pron": "DEE-toor",
+  "example": "Heavy rain forced us to take a detour.",
+  "exampleTamil": "கடும் மழையால் நாங்கள் சுற்றுப்பாதையில் செல்ல வேண்டியிருந்தது.",
+  "synonyms": [
+   "diversion"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "lost",
+  "tamil": "வழி தவறிய",
+  "pos": "adjective",
+  "pron": "LOST",
+  "example": "Excuse me, I think I am lost.",
+  "exampleTamil": "மன்னிக்கவும், நான் வழி தவறிவிட்டேன் என்று நினைக்கிறேன்.",
+  "synonyms": [
+   "misplaced"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "get around",
+  "tamil": "ஊரைச் சுற்றி வருதல்",
+  "pos": "phrasal verb",
+  "pron": "get uh-ROWND",
+  "example": "It is easy to get around by metro.",
+  "exampleTamil": "மெட்ரோவில் ஊரைச் சுற்றி வருவது எளிது.",
+  "synonyms": [
+   "travel about"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "turn around",
+  "tamil": "திரும்பிச் செல்லுதல்",
+  "pos": "phrasal verb",
+  "pron": "turn uh-ROWND",
+  "example": "We missed the exit and had to turn around.",
+  "exampleTamil": "வெளியேறும் வழியைத் தவறவிட்டு நாங்கள் திரும்ப வேண்டியிருந்தது.",
+  "synonyms": [
+   "go back"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "walking distance",
+  "tamil": "நடந்து செல்லும் தூரம்",
+  "pos": "phrase",
+  "pron": "WAW-king DIS-tunss",
+  "example": "The beach is within walking distance.",
+  "exampleTamil": "கடற்கரை நடந்து செல்லும் தூரத்தில் உள்ளது.",
+  "synonyms": [
+   "nearby"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sightseeing",
+  "tamil": "சுற்றிப் பார்த்தல்",
+  "pos": "noun",
+  "pron": "SITE-see-ing",
+  "example": "We spent the day sightseeing in Jaipur.",
+  "exampleTamil": "நாங்கள் ஜெய்ப்பூரில் நாள் முழுவதும் சுற்றிப் பார்த்தோம்.",
+  "synonyms": [
+   "touring"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "attraction",
+  "tamil": "சுற்றுலா ஈர்ப்பு இடம்",
+  "pos": "noun",
+  "pron": "uh-TRAK-shun",
+  "example": "The fort is the main attraction here.",
+  "exampleTamil": "இங்கு கோட்டையே முக்கிய ஈர்ப்பு இடம்.",
+  "synonyms": [
+   "sight"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tour",
+  "tamil": "சுற்றுலா",
+  "pos": "noun",
+  "pron": "TOOR",
+  "example": "We joined a guided tour of the palace.",
+  "exampleTamil": "நாங்கள் அரண்மனையின் வழிகாட்டிச் சுற்றுலாவில் இணைந்தோம்.",
+  "synonyms": [
+   "excursion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "guide",
+  "tamil": "வழிகாட்டி",
+  "pos": "noun",
+  "pron": "GYDE",
+  "example": "Our guide explained the history of the temple.",
+  "exampleTamil": "எங்கள் வழிகாட்டி கோவிலின் வரலாற்றை விளக்கினார்.",
+  "synonyms": [
+   "escort"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "souvenir",
+  "tamil": "நினைவுப் பரிசு",
+  "pos": "noun",
+  "pron": "soo-vuh-NEER",
+  "example": "I bought a wooden elephant as a souvenir.",
+  "exampleTamil": "நான் நினைவுப் பரிசாக ஒரு மரயானை வாங்கினேன்.",
+  "synonyms": [
+   "keepsake"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "museum",
+  "tamil": "அருங்காட்சியகம்",
+  "pos": "noun",
+  "pron": "myoo-ZEE-um",
+  "example": "The museum is closed on Mondays.",
+  "exampleTamil": "அருங்காட்சியகம் திங்கட்கிழமைகளில் மூடப்பட்டிருக்கும்.",
+  "synonyms": [
+   "gallery"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "exhibition",
+  "tamil": "கண்காட்சி",
+  "pos": "noun",
+  "pron": "ek-sih-BISH-un",
+  "example": "There is a photo exhibition this week.",
+  "exampleTamil": "இந்த வாரம் ஒரு புகைப்படக் கண்காட்சி உள்ளது.",
+  "synonyms": [
+   "display",
+   "show"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "monument",
+  "tamil": "நினைவுச் சின்னம்",
+  "pos": "noun",
+  "pron": "MON-yuh-ment",
+  "example": "The monument was built four hundred years ago.",
+  "exampleTamil": "அந்த நினைவுச் சின்னம் நானூறு ஆண்டுகளுக்கு முன் கட்டப்பட்டது.",
+  "synonyms": [
+   "memorial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "heritage",
+  "tamil": "பாரம்பரியம்",
+  "pos": "noun",
+  "pron": "HAIR-ih-tij",
+  "example": "Hampi is a world heritage site.",
+  "exampleTamil": "ஹம்பி ஒரு உலகப் பாரம்பரியத் தளம்.",
+  "synonyms": [
+   "legacy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ruins",
+  "tamil": "இடிபாடுகள்",
+  "pos": "noun",
+  "pron": "ROO-inz",
+  "example": "We walked through the ancient ruins.",
+  "exampleTamil": "நாங்கள் பழங்கால இடிபாடுகள் வழியே நடந்தோம்.",
+  "synonyms": [
+   "remains"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "palace",
+  "tamil": "அரண்மனை",
+  "pos": "noun",
+  "pron": "PAL-iss",
+  "example": "The palace is lit up at night.",
+  "exampleTamil": "அரண்மனை இரவில் ஒளியூட்டப்படும்.",
+  "synonyms": [
+   "castle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fort",
+  "tamil": "கோட்டை",
+  "pos": "noun",
+  "pron": "FORT",
+  "example": "We climbed to the top of the fort.",
+  "exampleTamil": "நாங்கள் கோட்டையின் உச்சிக்கு ஏறினோம்.",
+  "synonyms": [
+   "fortress"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cathedral",
+  "tamil": "பெரிய தேவாலயம்",
+  "pos": "noun",
+  "pron": "kuh-THEE-drul",
+  "example": "The cathedral has beautiful stained glass.",
+  "exampleTamil": "அந்தத் தேவாலயத்தில் அழகான வண்ணக் கண்ணாடிகள் உள்ளன.",
+  "synonyms": [
+   "church"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "statue",
+  "tamil": "சிலை",
+  "pos": "noun",
+  "pron": "STACH-oo",
+  "example": "A giant statue stands at the harbour.",
+  "exampleTamil": "துறைமுகத்தில் ஒரு பிரம்மாண்டச் சிலை நிற்கிறது.",
+  "synonyms": [
+   "sculpture"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "viewpoint",
+  "tamil": "காட்சிக் கோணம்",
+  "pos": "noun",
+  "pron": "VYOO-point",
+  "example": "The viewpoint offers a view of the whole valley.",
+  "exampleTamil": "அந்தக் காட்சிக் கோணத்திலிருந்து முழுப் பள்ளத்தாக்கும் தெரியும்.",
+  "synonyms": [
+   "lookout"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "waterfall",
+  "tamil": "நீர்வீழ்ச்சி",
+  "pos": "noun",
+  "pron": "WAW-ter-fawl",
+  "example": "The waterfall is stunning after the monsoon.",
+  "exampleTamil": "பருவமழைக்குப் பிறகு நீர்வீழ்ச்சி பிரமிக்க வைக்கிறது.",
+  "synonyms": [
+   "cascade"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "island",
+  "tamil": "தீவு",
+  "pos": "noun",
+  "pron": "EYE-lund",
+  "example": "We took a boat to a small island.",
+  "exampleTamil": "நாங்கள் படகில் ஒரு சிறிய தீவுக்குச் சென்றோம்.",
+  "synonyms": [
+   "isle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "coast",
+  "tamil": "கடலோரம்",
+  "pos": "noun",
+  "pron": "KOHST",
+  "example": "The road runs along the coast.",
+  "exampleTamil": "சாலை கடலோரமாகச் செல்கிறது.",
+  "synonyms": [
+   "shoreline"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "harbour",
+  "tamil": "துறைமுகம்",
+  "pos": "noun",
+  "pron": "HAR-ber",
+  "example": "Fishing boats filled the harbour.",
+  "exampleTamil": "மீன்பிடிப் படகுகள் துறைமுகத்தை நிரப்பின.",
+  "synonyms": [
+   "port"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "desert",
+  "tamil": "பாலைவனம்",
+  "pos": "noun",
+  "pron": "DEZ-ert",
+  "example": "We rode camels across the desert.",
+  "exampleTamil": "நாங்கள் ஒட்டகங்களில் பாலைவனத்தைக் கடந்தோம்.",
+  "synonyms": [
+   "wasteland"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "valley",
+  "tamil": "பள்ளத்தாக்கு",
+  "pos": "noun",
+  "pron": "VAL-ee",
+  "example": "Mist covered the valley at dawn.",
+  "exampleTamil": "விடியலில் பனிமூட்டம் பள்ளத்தாக்கை மூடியிருந்தது.",
+  "synonyms": [
+   "dale"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "trek",
+  "tamil": "மலையேற்றப் பயணம்",
+  "pos": "noun",
+  "pron": "TREK",
+  "example": "The trek to the peak takes six hours.",
+  "exampleTamil": "சிகரத்திற்கான மலையேற்றம் ஆறு மணி நேரம் ஆகும்.",
+  "synonyms": [
+   "long hike"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "camping",
+  "tamil": "கூடாரம் அமைத்துத் தங்குதல்",
+  "pos": "noun",
+  "pron": "KAM-ping",
+  "example": "We went camping near the river.",
+  "exampleTamil": "நாங்கள் ஆற்றருகே கூடாரம் அமைத்துத் தங்கினோம்.",
+  "synonyms": [
+   "tenting"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "safari",
+  "tamil": "வனவிலங்குச் சுற்றுலா",
+  "pos": "noun",
+  "pron": "suh-FAR-ee",
+  "example": "The jungle safari starts at dawn.",
+  "exampleTamil": "காட்டுச் சுற்றுலா விடியற்காலையில் தொடங்கும்.",
+  "synonyms": [
+   "wildlife tour"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "itinerary",
+  "tamil": "பயணத் திட்டம்",
+  "pos": "noun",
+  "pron": "eye-TIN-uh-rair-ee",
+  "example": "Our itinerary covers five cities in ten days.",
+  "exampleTamil": "எங்கள் பயணத் திட்டம் பத்து நாட்களில் ஐந்து நகரங்களை உள்ளடக்கியது.",
+  "synonyms": [
+   "travel plan"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "excursion",
+  "tamil": "குறுகிய உல்லாசப் பயணம்",
+  "pos": "noun",
+  "pron": "ek-SKUR-zhun",
+  "example": "We booked a day excursion to the islands.",
+  "exampleTamil": "நாங்கள் தீவுகளுக்கு ஒருநாள் உல்லாசப் பயணம் பதிவு செய்தோம்.",
+  "synonyms": [
+   "outing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "admission",
+  "tamil": "நுழைவுக் கட்டணம்",
+  "pos": "noun",
+  "pron": "ad-MISH-un",
+  "example": "Admission is free for children under five.",
+  "exampleTamil": "ஐந்து வயதுக்குக் கீழுள்ள குழந்தைகளுக்கு நுழைவு இலவசம்.",
+  "synonyms": [
+   "entry fee"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sunset",
+  "tamil": "சூரிய அஸ்தமனம்",
+  "pos": "noun",
+  "pron": "SUN-set",
+  "example": "We watched the sunset from the beach.",
+  "exampleTamil": "நாங்கள் கடற்கரையிலிருந்து சூரிய அஸ்தமனத்தைப் பார்த்தோம்.",
+  "synonyms": [
+   "dusk"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "photograph",
+  "tamil": "புகைப்படம் எடுத்தல்",
+  "pos": "verb",
+  "pron": "FOH-tuh-graf",
+  "example": "Visitors may not photograph the paintings.",
+  "exampleTamil": "பார்வையாளர்கள் ஓவியங்களைப் புகைப்படம் எடுக்கக் கூடாது.",
+  "synonyms": [
+   "snap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cuisine",
+  "tamil": "உணவு வகை, சமையல் பாணி",
+  "pos": "noun",
+  "pron": "kwih-ZEEN",
+  "example": "Kerala cuisine uses a lot of coconut.",
+  "exampleTamil": "கேரள உணவு வகையில் நிறைய தேங்காய் பயன்படுத்தப்படும்.",
+  "synonyms": [
+   "cooking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "speciality",
+  "tamil": "சிறப்பு உணவு",
+  "pos": "noun",
+  "pron": "spesh-ee-AL-ih-tee",
+  "example": "Fish curry is the speciality of this place.",
+  "exampleTamil": "மீன் குழம்பு இந்த இடத்தின் சிறப்பு உணவு.",
+  "synonyms": [
+   "signature dish"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "menu",
+  "tamil": "உணவுப் பட்டியல்",
+  "pos": "noun",
+  "pron": "MEN-yoo",
+  "example": "Could we see the menu, please?",
+  "exampleTamil": "உணவுப் பட்டியலைப் பார்க்கலாமா?",
+  "synonyms": [
+   "bill of fare"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bill",
+  "tamil": "உணவுக் கட்டணச் சீட்டு",
+  "pos": "noun",
+  "pron": "BIL",
+  "example": "Could we have the bill, please?",
+  "exampleTamil": "கட்டணச் சீட்டு கொடுக்க முடியுமா?",
+  "synonyms": [
+   "check"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "street food",
+  "tamil": "தெருவோர உணவு",
+  "pos": "noun",
+  "pron": "STREET food",
+  "example": "The street food in Mumbai is delicious.",
+  "exampleTamil": "மும்பையின் தெருவோர உணவு சுவையானது.",
+  "synonyms": [
+   "snacks"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "local",
+  "tamil": "உள்ளூர்",
+  "pos": "adjective",
+  "pron": "LOH-kul",
+  "example": "Try the local dishes when you travel.",
+  "exampleTamil": "பயணிக்கும்போது உள்ளூர் உணவுகளை முயற்சியுங்கள்.",
+  "synonyms": [
+   "native"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "currency",
+  "tamil": "நாணயம், பணம்",
+  "pos": "noun",
+  "pron": "KUR-un-see",
+  "example": "The local currency here is the euro.",
+  "exampleTamil": "இங்கு உள்ளூர் நாணயம் யூரோ.",
+  "synonyms": [
+   "money"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "exchange",
+  "tamil": "பணப் பரிமாற்றம்",
+  "pos": "noun",
+  "pron": "iks-CHAYNJ",
+  "example": "Where can I find a currency exchange counter?",
+  "exampleTamil": "நாணய மாற்று கவுண்டர் எங்கே கிடைக்கும்?",
+  "synonyms": [
+   "swap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "exchange rate",
+  "tamil": "நாணய மாற்று விகிதம்",
+  "pos": "noun",
+  "pron": "iks-CHAYNJ rayt",
+  "example": "What is the exchange rate for dollars today?",
+  "exampleTamil": "இன்று டாலருக்கான மாற்று விகிதம் என்ன?",
+  "synonyms": [
+   "conversion rate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "traveller's cheque",
+  "tamil": "பயணிகள் காசோலை",
+  "pos": "noun",
+  "pron": "TRAV-uh-lerz chek",
+  "example": "Traveller's cheques are rarely used now.",
+  "exampleTamil": "பயணிகள் காசோலை இப்போது அரிதாகவே பயன்படுகிறது.",
+  "synonyms": [
+   "travel cheque"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "commission",
+  "tamil": "தரகுக் கட்டணம்",
+  "pos": "noun",
+  "pron": "kuh-MISH-un",
+  "example": "The exchange office charges a small commission.",
+  "exampleTamil": "பணமாற்று அலுவலகம் சிறிய தரகுக் கட்டணம் வசூலிக்கிறது.",
+  "synonyms": [
+   "fee"
+  ],
+  "level": "advanced"
+ }
+]

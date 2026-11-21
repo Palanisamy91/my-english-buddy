@@ -1,0 +1,352 @@
+[
+ {
+  "word": "toolbar",
+  "meaning": "A row of buttons at the top of a program.",
+  "tamil": "கருவிப்பட்டை",
+  "pos": "noun",
+  "pron": "TOOL-bar",
+  "example": "The save button is on the toolbar.",
+  "exampleTamil": "சேமி பொத்தான் கருவிப்பட்டையில் உள்ளது.",
+  "synonyms": [
+   "button row",
+   "menu bar"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sidebar",
+  "meaning": "A narrow panel at the side of a web page or app.",
+  "tamil": "பக்கப் பட்டை",
+  "pos": "noun",
+  "pron": "SYD-bar",
+  "example": "You can find the settings in the sidebar.",
+  "exampleTamil": "அமைப்புகளை நீங்கள் பக்கப் பட்டையில் காணலாம்.",
+  "synonyms": [
+   "side panel",
+   "menu"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dropdown",
+  "meaning": "A menu that opens downward when you click it.",
+  "tamil": "கீழிறங்கும் பட்டியல்",
+  "pos": "noun",
+  "pron": "DROP-down",
+  "example": "Choose your state from the dropdown.",
+  "exampleTamil": "கீழிறங்கும் பட்டியலிலிருந்து உங்கள் மாநிலத்தைத் தேர்ந்தெடுங்கள்.",
+  "synonyms": [
+   "drop-down menu",
+   "list"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "checkbox",
+  "meaning": "A small square box you tick to choose an option.",
+  "tamil": "தேர்வுப் பெட்டி",
+  "pos": "noun",
+  "pron": "CHEK-boks",
+  "example": "Tick the checkbox to accept the terms.",
+  "exampleTamil": "நிபந்தனைகளை ஏற்க தேர்வுப் பெட்டியில் டிக் செய்யுங்கள்.",
+  "synonyms": [
+   "tick box",
+   "option box"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "slider",
+  "meaning": "A control you drag to change a setting such as volume.",
+  "tamil": "நகர்த்தும் கட்டுப்பாடு (ஸ்லைடர்)",
+  "pos": "noun",
+  "pron": "SLY-der",
+  "example": "Move the slider to lower the brightness.",
+  "exampleTamil": "ஒளிர்வைக் குறைக்க ஸ்லைடரை நகர்த்துங்கள்.",
+  "synonyms": [
+   "dial",
+   "control"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "toggle",
+  "meaning": "To switch a setting on or off.",
+  "tamil": "இயக்கு அல்லது நிறுத்து",
+  "pos": "verb",
+  "pron": "TOG-ul",
+  "example": "Toggle the flashlight on when it is dark.",
+  "exampleTamil": "இருட்டாக இருக்கும்போது டார்ச்சை இயக்குங்கள்.",
+  "synonyms": [
+   "switch",
+   "flip"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "advertisement",
+  "meaning": "A paid message that promotes a product or service.",
+  "tamil": "விளம்பரம்",
+  "pos": "noun",
+  "pron": "ad-ver-TYZ-ment",
+  "example": "I saw an advertisement for a new phone.",
+  "exampleTamil": "நான் ஒரு புதிய போனுக்கான விளம்பரத்தைப் பார்த்தேன்.",
+  "synonyms": [
+   "promotion",
+   "commercial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ram",
+  "meaning": "The short-term memory of a computer that helps it run apps.",
+  "tamil": "தற்காலிக நினைவகம் (ராம்)",
+  "pos": "noun",
+  "pron": "RAM",
+  "example": "This laptop needs more RAM to run smoothly.",
+  "exampleTamil": "இந்த லேப்டாப் சீராக இயங்க கூடுதல் ராம் தேவை.",
+  "synonyms": [
+   "memory",
+   "working memory"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "url",
+  "meaning": "The web address of a page, such as www.example.com.",
+  "tamil": "இணையப் பக்க முகவரி",
+  "pos": "noun",
+  "pron": "YOO-ar-EL",
+  "example": "Copy the url and paste it in the message.",
+  "exampleTamil": "முகவரியை நகலெடுத்து செய்தியில் ஒட்டுங்கள்.",
+  "synonyms": [
+   "web address",
+   "link"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hangout",
+  "meaning": "A place or online group where friends spend time together.",
+  "tamil": "நண்பர்கள் கூடும் இடம்",
+  "pos": "noun",
+  "pron": "HANG-owt",
+  "example": "This group chat is our favourite hangout.",
+  "exampleTamil": "இந்த குழு அரட்டைதான் எங்கள் விருப்பமான கூடுமிடம்.",
+  "synonyms": [
+   "meeting spot",
+   "gathering"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "radar",
+  "meaning": "A system that uses radio waves to find objects far away.",
+  "tamil": "ரேடார் கருவி",
+  "pos": "noun",
+  "pron": "RAY-dar",
+  "example": "The weather app shows a radar map of the rain.",
+  "exampleTamil": "வானிலை செயலி மழையின் ரேடார் வரைபடத்தைக் காட்டுகிறது.",
+  "synonyms": [
+   "detector",
+   "scanner"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unboxing",
+  "meaning": "Opening a new product and showing it in a video.",
+  "tamil": "புதிய பொருளைப் பிரித்துக் காட்டுதல்",
+  "pos": "noun",
+  "pron": "un-BOK-sing",
+  "example": "I watched an unboxing video before buying the phone.",
+  "exampleTamil": "போனை வாங்கும் முன் நான் ஒரு அன்பாக்சிங் வீடியோவைப் பார்த்தேன்.",
+  "synonyms": [
+   "product reveal",
+   "opening"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "marketplace",
+  "meaning": "A website or app where many people buy and sell things.",
+  "tamil": "இணைய சந்தை",
+  "pos": "noun",
+  "pron": "MAR-kit-plays",
+  "example": "I sold my old bicycle on an online marketplace.",
+  "exampleTamil": "நான் என் பழைய சைக்கிளை ஒரு இணைய சந்தையில் விற்றேன்.",
+  "synonyms": [
+   "market",
+   "store"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "seller",
+  "meaning": "A person or shop that sells things.",
+  "tamil": "விற்பனையாளர்",
+  "pos": "noun",
+  "pron": "SEL-er",
+  "example": "The seller replied to my message quickly.",
+  "exampleTamil": "விற்பனையாளர் என் செய்திக்கு விரைவாகப் பதிலளித்தார்.",
+  "synonyms": [
+   "vendor",
+   "merchant"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "buyer",
+  "meaning": "A person who buys something.",
+  "tamil": "வாங்குபவர்",
+  "pos": "noun",
+  "pron": "BY-er",
+  "example": "The buyer paid by UPI as soon as he saw it.",
+  "exampleTamil": "வாங்குபவர் பார்த்தவுடனே யுபிஐ மூலம் பணம் செலுத்தினார்.",
+  "synonyms": [
+   "customer",
+   "purchaser"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clickbait",
+  "meaning": "A catchy title meant to make you click, with little real content.",
+  "tamil": "கவனம் ஈர்க்கும் போலித் தலைப்பு",
+  "pos": "noun",
+  "pron": "KLIK-bayt",
+  "example": "That news headline is just clickbait.",
+  "exampleTamil": "அந்த செய்தித் தலைப்பு வெறும் கிளிக்பெயிட்தான்.",
+  "synonyms": [
+   "bait",
+   "hype"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "catfish",
+  "meaning": "A person who pretends to be someone else online.",
+  "tamil": "போலி அடையாளத்துடன் ஏமாற்றுபவர்",
+  "pos": "noun",
+  "pron": "KAT-fish",
+  "example": "She found out her online friend was a catfish.",
+  "exampleTamil": "அவளது இணைய நண்பர் ஒரு போலி அடையாளக்காரர் என்று அவள் கண்டுபிடித்தாள்.",
+  "synonyms": [
+   "impostor",
+   "fake"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reel",
+  "meaning": "A short vertical video shared on social media.",
+  "tamil": "குறுகிய வீடியோ (ரீல்)",
+  "pos": "noun",
+  "pron": "REEL",
+  "example": "She made a funny reel about her cat.",
+  "exampleTamil": "அவள் தன் பூனையைப் பற்றி ஒரு நகைச்சுவை ரீல் செய்தாள்.",
+  "synonyms": [
+   "short video",
+   "clip"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "story",
+  "meaning": "A photo or video post that disappears after a day.",
+  "tamil": "ஒரு நாளில் மறையும் பதிவு (ஸ்டோரி)",
+  "pos": "noun",
+  "pron": "STOR-ee",
+  "example": "I put a story of the beach on my profile.",
+  "exampleTamil": "நான் கடற்கரையின் ஸ்டோரியை என் சுயவிவரத்தில் வைத்தேன்.",
+  "synonyms": [
+   "status",
+   "short post"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "contacts",
+  "meaning": "The list of names and phone numbers saved on your phone.",
+  "tamil": "தொடர்பு எண்கள் பட்டியல்",
+  "pos": "noun",
+  "pron": "KON-takts",
+  "example": "I lost all my contacts when the phone broke.",
+  "exampleTamil": "போன் உடைந்தபோது என் தொடர்பு எண்கள் அனைத்தையும் இழந்தேன்.",
+  "synonyms": [
+   "phonebook",
+   "address book"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dialer",
+  "meaning": "The phone screen with number keys used to make calls.",
+  "tamil": "எண் அழைப்புத் திரை",
+  "pos": "noun",
+  "pron": "DY-uh-ler",
+  "example": "Open the dialer and type the number.",
+  "exampleTamil": "டயலரைத் திறந்து எண்ணை உள்ளிடுங்கள்.",
+  "synonyms": [
+   "keypad",
+   "call screen"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boot",
+  "meaning": "To start a computer so it is ready to use.",
+  "tamil": "கணினியை இயக்கத் தொடங்கு",
+  "pos": "verb",
+  "pron": "BOOT",
+  "example": "My old laptop takes five minutes to boot.",
+  "exampleTamil": "என் பழைய லேப்டாப் இயங்கத் தொடங்க ஐந்து நிமிடம் எடுக்கிறது.",
+  "synonyms": [
+   "start up",
+   "power on"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unresponsive",
+  "meaning": "Not reacting when you touch or click it.",
+  "tamil": "பதிலளிக்காத",
+  "pos": "adjective",
+  "pron": "un-ri-SPON-siv",
+  "example": "The app became unresponsive and I had to restart it.",
+  "exampleTamil": "செயலி பதிலளிக்காமல் போனதால் நான் அதை மீண்டும் தொடங்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "frozen",
+   "stuck"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shutdown",
+  "meaning": "The act of turning off a computer or system.",
+  "tamil": "அணைத்தல்",
+  "pos": "noun",
+  "pron": "SHUT-down",
+  "example": "A sudden shutdown made me lose my work.",
+  "exampleTamil": "திடீர் அணைப்பு என் வேலையை இழக்கச் செய்தது.",
+  "synonyms": [
+   "power off",
+   "closing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hibernate",
+  "meaning": "To save your work and turn off the computer in a deep sleep.",
+  "tamil": "ஆழ்ந்த உறக்க நிலைக்குச் செல்",
+  "pos": "verb",
+  "pron": "HY-ber-nayt",
+  "example": "Let the laptop hibernate when you leave for lunch.",
+  "exampleTamil": "மதிய உணவுக்குச் செல்லும்போது லேப்டாப்பை உறக்க நிலைக்கு விடுங்கள்.",
+  "synonyms": [
+   "sleep",
+   "power down"
+  ],
+  "level": "intermediate"
+ }
+]

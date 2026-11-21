@@ -1,0 +1,352 @@
+[
+  {
+    "word": "push",
+    "meaning": "to press something to move it away from you",
+    "tamil": "தள்ளு",
+    "pos": "verb",
+    "pron": "PUSH",
+    "example": "Please push the door to open it.",
+    "exampleTamil": "கதவை திறக்க தயவுசெய்து தள்ளுங்க.",
+    "synonyms": [
+      "shove",
+      "press"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "pull",
+    "meaning": "to hold something and move it towards you",
+    "tamil": "இழு",
+    "pos": "verb",
+    "pron": "PULL",
+    "example": "Pull the chair closer to the table.",
+    "exampleTamil": "நாற்காலியை டேபிள் பக்கத்துல இழுங்க.",
+    "synonyms": [
+      "tug",
+      "drag"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "throw",
+    "meaning": "to send something through the air with your hand",
+    "tamil": "எறி",
+    "pos": "verb",
+    "pron": "THROH",
+    "example": "Please don't throw plastic bags on the road.",
+    "exampleTamil": "ப்ளாஸ்டிக் பைகளை ரோட்டுல தூக்கிப் போடாதீங்க.",
+    "synonyms": [
+      "toss",
+      "hurl"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "catch",
+    "meaning": "to stop and hold something that is moving through the air",
+    "tamil": "பிடி",
+    "pos": "verb",
+    "pron": "KACH",
+    "example": "Can you catch the ball?",
+    "exampleTamil": "நீ பந்தை பிடிக்க முடியுமா?",
+    "synonyms": [
+      "grab",
+      "seize"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "jump",
+    "meaning": "to push yourself up off the ground into the air",
+    "tamil": "குதி",
+    "pos": "verb",
+    "pron": "JUMP",
+    "example": "The kids jump on the bed every evening.",
+    "exampleTamil": "குழந்தைங்க தினமும் சாயங்காலம் கட்டில்ல குதிக்கிறாங்க.",
+    "synonyms": [
+      "leap",
+      "hop"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "climb",
+    "meaning": "to go up something like stairs, a tree or a hill",
+    "tamil": "ஏறு",
+    "pos": "verb",
+    "pron": "KLIME",
+    "example": "We climbed the hill early in the morning.",
+    "exampleTamil": "நாங்க காலையில சீக்கிரமா மலை ஏறினோம்.",
+    "synonyms": [
+      "go up",
+      "scale"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "kick",
+    "meaning": "to hit something with your foot",
+    "tamil": "உதை",
+    "pos": "verb",
+    "pron": "KIK",
+    "example": "He kicked the football very hard.",
+    "exampleTamil": "அவன் ஃபுட்பாலை ரொம்ப பலமா உதைச்சான்.",
+    "synonyms": [
+      "boot",
+      "strike"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "drag",
+    "meaning": "to pull something heavy slowly along the ground",
+    "tamil": "இழுத்துச் செல்",
+    "pos": "verb",
+    "pron": "DRAG",
+    "example": "I dragged the heavy bag to the car.",
+    "exampleTamil": "நான் கனமான பையை காருக்கு இழுத்துட்டுப் போனேன்.",
+    "synonyms": [
+      "haul",
+      "pull"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "bend",
+    "meaning": "to lean your body forward or curve something",
+    "tamil": "வளை",
+    "pos": "verb",
+    "pron": "BEND",
+    "example": "Bend your knees and lift the box.",
+    "exampleTamil": "முட்டியை மடக்கி பெட்டியை தூக்குங்க.",
+    "synonyms": [
+      "curve",
+      "stoop"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "fold",
+    "meaning": "to bend cloth or paper so one part lies over another",
+    "tamil": "மடி",
+    "pos": "verb",
+    "pron": "FOHLD",
+    "example": "Please fold the clothes and keep them in the cupboard.",
+    "exampleTamil": "துணிகளை மடிச்சு பீரோவுல வைங்க.",
+    "synonyms": [
+      "crease",
+      "double over"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "pour",
+    "meaning": "to make a liquid flow out of a container",
+    "tamil": "ஊற்று",
+    "pos": "verb",
+    "pron": "PAWR",
+    "example": "Pour some water into the glass.",
+    "exampleTamil": "கிளாஸ்ல கொஞ்சம் தண்ணி ஊத்துங்க.",
+    "synonyms": [
+      "tip",
+      "flow"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "open",
+    "meaning": "to move something so that it is no longer closed",
+    "tamil": "திற",
+    "pos": "verb",
+    "pron": "OH-pun",
+    "example": "Can you open the window, please?",
+    "exampleTamil": "ஜன்னலை திறக்க முடியுமா, please?",
+    "synonyms": [
+      "unlock",
+      "unfasten"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "close",
+    "meaning": "to shut something so that it is not open",
+    "tamil": "மூடு",
+    "pos": "verb",
+    "pron": "KLOHZ",
+    "example": "Please close the door when you leave.",
+    "exampleTamil": "போகும்போது கதவை மூடுங்க.",
+    "synonyms": [
+      "shut",
+      "fasten"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "wave",
+    "meaning": "to move your hand to say hello or goodbye",
+    "tamil": "கை அசை",
+    "pos": "verb",
+    "pron": "WAYV",
+    "example": "She waved at us from the bus.",
+    "exampleTamil": "அவ பஸ்ல இருந்து எங்களை பார்த்து கை அசைச்சா.",
+    "synonyms": [
+      "gesture",
+      "signal"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "clap",
+    "meaning": "to hit your hands together to show you like something",
+    "tamil": "கை தட்டு",
+    "pos": "verb",
+    "pron": "KLAP",
+    "example": "Everyone clapped after his speech.",
+    "exampleTamil": "அவன் பேச்சுக்குப் பிறகு எல்லாரும் கை தட்டினாங்க.",
+    "synonyms": [
+      "applaud",
+      "cheer"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "stretch",
+    "meaning": "to pull your body or something out to make it longer",
+    "tamil": "நீட்டு",
+    "pos": "verb",
+    "pron": "STRECH",
+    "example": "Stretch your arms before you start running.",
+    "exampleTamil": "ஓடுறதுக்கு முன்னாடி கைகளை நீட்டுங்க.",
+    "synonyms": [
+      "extend",
+      "lengthen"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "squeeze",
+    "meaning": "to press something hard from the sides",
+    "tamil": "பிழி",
+    "pos": "verb",
+    "pron": "SKWEEZ",
+    "example": "Squeeze a lemon into the glass of juice.",
+    "exampleTamil": "ஜூஸ் கிளாஸ்ல ஒரு எலுமிச்சையை பிழியுங்க.",
+    "synonyms": [
+      "press",
+      "crush"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "scratch",
+    "meaning": "to rub your skin with your nails",
+    "tamil": "சொறி",
+    "pos": "verb",
+    "pron": "SKRACH",
+    "example": "Do not scratch the mosquito bite.",
+    "exampleTamil": "கொசு கடிச்ச இடத்தை சொறியாதீங்க.",
+    "synonyms": [
+      "scrape",
+      "claw"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "rub",
+    "meaning": "to move your hand or a cloth firmly over something",
+    "tamil": "தேய்",
+    "pos": "verb",
+    "pron": "RUB",
+    "example": "Rub your hands together to keep warm.",
+    "exampleTamil": "கதகதப்பா இருக்க கைகளை தேய்ச்சுக்கோங்க.",
+    "synonyms": [
+      "scrub",
+      "massage"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "wipe",
+    "meaning": "to clean something by rubbing it with a cloth",
+    "tamil": "துடை",
+    "pos": "verb",
+    "pron": "WIPE",
+    "example": "Wipe the table before we eat.",
+    "exampleTamil": "சாப்பிடுறதுக்கு முன்னாடி டேபிளை துடைங்க.",
+    "synonyms": [
+      "clean",
+      "mop"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "sew",
+    "meaning": "to join cloth using a needle and thread",
+    "tamil": "தை",
+    "pos": "verb",
+    "pron": "SOH",
+    "example": "My mother can sew a button very quickly.",
+    "exampleTamil": "எங்கம்மா பட்டனை ரொம்ப சீக்கிரமா தைப்பாங்க.",
+    "synonyms": [
+      "stitch",
+      "mend"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "paint",
+    "meaning": "to put colour on a wall or surface with a brush",
+    "tamil": "பெயின்ட் அடி",
+    "pos": "verb",
+    "pron": "PAYNT",
+    "example": "We are going to paint the house next month.",
+    "exampleTamil": "நாங்க அடுத்த மாசம் வீட்டுக்கு பெயின்ட் அடிக்கப் போறோம்.",
+    "synonyms": [
+      "colour",
+      "coat"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "dig",
+    "meaning": "to make a hole in the ground",
+    "tamil": "தோண்டு",
+    "pos": "verb",
+    "pron": "DIG",
+    "example": "We will dig a deep hole for the new tree.",
+    "exampleTamil": "புது மரத்துக்கு நாம ஆழமா குழி தோண்டுவோம்.",
+    "synonyms": [
+      "excavate",
+      "burrow"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "plant",
+    "meaning": "to put a seed or young tree in the ground",
+    "tamil": "நடு",
+    "pos": "verb",
+    "pron": "PLANT",
+    "example": "Let us plant a mango tree in the garden.",
+    "exampleTamil": "தோட்டத்துல ஒரு மாமரம் நடலாம்.",
+    "synonyms": [
+      "sow",
+      "grow"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "tie",
+    "meaning": "to fasten something with a rope, string or knot",
+    "tamil": "கட்டு",
+    "pos": "verb",
+    "pron": "TY",
+    "example": "Tie your shoelaces before you run.",
+    "exampleTamil": "ஓடுறதுக்கு முன்னாடி ஷூ லேஸ் கட்டுங்க.",
+    "synonyms": [
+      "knot",
+      "fasten"
+    ],
+    "level": "beginner"
+  }
+]

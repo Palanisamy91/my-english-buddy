@@ -1,0 +1,1438 @@
+[
+ {
+  "plain": "do the needful",
+  "better": [
+   "please take care of it",
+   "please do what is needed"
+  ],
+  "tamil": "'do the needful' இந்தியாவில் பொதுவாக சொல்வது; மற்ற நாடுகளில் 'please take care of it' என்பது இன்னும் இயல்பாகவும் தெளிவாகவும் இருக்கும்.",
+  "exampleBefore": "Please do the needful by Monday.",
+  "exampleAfter": "Please take care of it by Monday."
+ },
+ {
+  "plain": "revert back",
+  "better": [
+   "get back to me",
+   "reply"
+  ],
+  "tamil": "'revert' என்றாலே 'திரும்பப் பதில் சொல்' என்று இந்தியாவில் பயன்படுத்துவர்; 'get back to me' என்பது எல்லா இடங்களிலும் புரியும்.",
+  "exampleBefore": "Please revert back to me soon.",
+  "exampleAfter": "Please get back to me soon."
+ },
+ {
+  "plain": "prepone the meeting",
+  "better": [
+   "move the meeting earlier",
+   "bring the meeting forward"
+  ],
+  "tamil": "'prepone' பல நாடுகளில் பயன்படுத்தப்படுவதில்லை; 'move earlier' என்றால் எல்லோருக்கும் புரியும்.",
+  "exampleBefore": "Can we prepone the meeting to 10 am?",
+  "exampleAfter": "Can we move the meeting earlier to 10 am?"
+ },
+ {
+  "plain": "i have a doubt",
+  "better": [
+   "i have a question",
+   "could i ask something"
+  ],
+  "tamil": "ஆங்கிலத்தில் 'doubt' என்றால் சந்தேகம்/நம்பிக்கையின்மை; சந்தேகம் கேட்க 'question' என்பதே இயல்பானது.",
+  "exampleBefore": "Sir, i have a doubt about this topic.",
+  "exampleAfter": "Sir, i have a question about this topic."
+ },
+ {
+  "plain": "what is your good name",
+  "better": [
+   "what's your name",
+   "may i know your name"
+  ],
+  "tamil": "'good name' என்பது தேவையில்லை; 'What's your name?' என்பதே இயல்பானது, பணிவாகக் கேட்க 'May I know your name?'.",
+  "exampleBefore": "Hello, what is your good name?",
+  "exampleAfter": "Hello, what's your name?"
+ },
+ {
+  "plain": "i want",
+  "better": [
+   "i'd like",
+   "i would like"
+  ],
+  "tamil": "'I want' சற்று நேரடியாக ஒலிக்கும்; 'I'd like' என்றால் பணிவாகவும் மென்மையாகவும் இருக்கும்.",
+  "exampleBefore": "I want a cup of tea.",
+  "exampleAfter": "I'd like a cup of tea."
+ },
+ {
+  "plain": "give me",
+  "better": [
+   "could i have",
+   "may i have"
+  ],
+  "tamil": "'Give me' கட்டளை போல் தோன்றலாம்; 'Could I have' என்பது பணிவான வழி.",
+  "exampleBefore": "Give me the menu.",
+  "exampleAfter": "Could I have the menu, please?"
+ },
+ {
+  "plain": "very good",
+  "better": [
+   "excellent",
+   "wonderful"
+  ],
+  "tamil": "'very good' என்பதற்குப் பதிலாக 'excellent' என்ற ஒரே சொல் வலுவாகவும் இயல்பாகவும் ஒலிக்கும்.",
+  "exampleBefore": "Your work is very good.",
+  "exampleAfter": "Your work is excellent."
+ },
+ {
+  "plain": "very tired",
+  "better": [
+   "exhausted",
+   "worn out"
+  ],
+  "tamil": "'very tired' என்பதை 'exhausted' என்ற ஒரு சொல்லில் சொல்லலாம்; இன்னும் அழகாக இருக்கும்.",
+  "exampleBefore": "I am very tired today.",
+  "exampleAfter": "I am exhausted today."
+ },
+ {
+  "plain": "very big",
+  "better": [
+   "huge",
+   "enormous"
+  ],
+  "tamil": "'very big' என்பதற்கு 'huge' என்பது சுருக்கமான, வலிமையான சொல்.",
+  "exampleBefore": "They have a very big house.",
+  "exampleAfter": "They have a huge house."
+ },
+ {
+  "plain": "very small",
+  "better": [
+   "tiny",
+   "minute"
+  ],
+  "tamil": "'very small' என்பதற்குப் பதிலாக 'tiny' என்று சொல்லலாம்.",
+  "exampleBefore": "The room is very small.",
+  "exampleAfter": "The room is tiny."
+ },
+ {
+  "plain": "very bad",
+  "better": [
+   "terrible",
+   "awful"
+  ],
+  "tamil": "'very bad' என்பதை 'terrible' என்று சொன்னால் உணர்வு தெளிவாக வெளிப்படும்.",
+  "exampleBefore": "The food was very bad.",
+  "exampleAfter": "The food was terrible."
+ },
+ {
+  "plain": "very happy",
+  "better": [
+   "delighted",
+   "thrilled"
+  ],
+  "tamil": "'very happy' என்பதற்கு 'delighted' என்பது இன்னும் இயல்பான, அழகான சொல்.",
+  "exampleBefore": "I am very happy to meet you.",
+  "exampleAfter": "I am delighted to meet you."
+ },
+ {
+  "plain": "very hungry",
+  "better": [
+   "starving",
+   "famished"
+  ],
+  "tamil": "'very hungry' என்பதை 'starving' என்று பேச்சில் அடிக்கடி சொல்வார்கள்.",
+  "exampleBefore": "I am very hungry now.",
+  "exampleAfter": "I am starving now."
+ },
+ {
+  "plain": "very beautiful",
+  "better": [
+   "gorgeous",
+   "stunning"
+  ],
+  "tamil": "'very beautiful' என்பதற்கு 'gorgeous' என்பது இயல்பான மாற்று.",
+  "exampleBefore": "The view is very beautiful.",
+  "exampleAfter": "The view is gorgeous."
+ },
+ {
+  "plain": "very important",
+  "better": [
+   "crucial",
+   "essential"
+  ],
+  "tamil": "'very important' என்பதற்கு 'crucial' என்று சொன்னால் முக்கியத்துவம் தெளிவாகும்.",
+  "exampleBefore": "This step is very important.",
+  "exampleAfter": "This step is crucial."
+ },
+ {
+  "plain": "very angry",
+  "better": [
+   "furious",
+   "upset"
+  ],
+  "tamil": "'very angry' என்பதை 'furious' என்ற ஒரே சொல்லில் சொல்லலாம்.",
+  "exampleBefore": "He was very angry yesterday.",
+  "exampleAfter": "He was furious yesterday."
+ },
+ {
+  "plain": "very cold",
+  "better": [
+   "freezing",
+   "chilly"
+  ],
+  "tamil": "'very cold' என்பதற்கு 'freezing' என்பது பேச்சு வழக்கில் இயல்பானது.",
+  "exampleBefore": "It is very cold outside.",
+  "exampleAfter": "It is freezing outside."
+ },
+ {
+  "plain": "very hot",
+  "better": [
+   "scorching",
+   "boiling"
+  ],
+  "tamil": "'very hot' என்பதற்கு 'boiling' அல்லது 'scorching' என்று சொல்லலாம்.",
+  "exampleBefore": "It is very hot today.",
+  "exampleAfter": "It is boiling today."
+ },
+ {
+  "plain": "very difficult",
+  "better": [
+   "challenging",
+   "tough"
+  ],
+  "tamil": "'very difficult' என்பதை 'challenging' என்று சொன்னால் மென்மையாகவும் தொழில்முறையாகவும் ஒலிக்கும்.",
+  "exampleBefore": "The exam was very difficult.",
+  "exampleAfter": "The exam was challenging."
+ },
+ {
+  "plain": "very easy",
+  "better": [
+   "simple",
+   "effortless"
+  ],
+  "tamil": "'very easy' என்பதற்கு 'simple' என்பது சுருக்கமான மாற்று.",
+  "exampleBefore": "The task is very easy.",
+  "exampleAfter": "The task is simple."
+ },
+ {
+  "plain": "very interesting",
+  "better": [
+   "fascinating",
+   "captivating"
+  ],
+  "tamil": "'very interesting' என்பதற்கு 'fascinating' என்பது இன்னும் வலிமையான சொல்.",
+  "exampleBefore": "The book is very interesting.",
+  "exampleAfter": "The book is fascinating."
+ },
+ {
+  "plain": "very fast",
+  "better": [
+   "quickly",
+   "rapidly"
+  ],
+  "tamil": "'very fast' என்பதற்குப் பதிலாக 'rapidly' என்ற சொல்லையும் பயன்படுத்தலாம்.",
+  "exampleBefore": "He finished the work very fast.",
+  "exampleAfter": "He finished the work rapidly."
+ },
+ {
+  "plain": "very sad",
+  "better": [
+   "heartbroken",
+   "miserable"
+  ],
+  "tamil": "'very sad' என்பதை 'heartbroken' என்று சொன்னால் உணர்ச்சி ஆழமாக வெளிப்படும்.",
+  "exampleBefore": "She felt very sad after the news.",
+  "exampleAfter": "She felt heartbroken after the news."
+ },
+ {
+  "plain": "very surprised",
+  "better": [
+   "astonished",
+   "amazed"
+  ],
+  "tamil": "'very surprised' என்பதற்கு 'astonished' என்ற ஒரே சொல் போதும்.",
+  "exampleBefore": "I was very surprised by the result.",
+  "exampleAfter": "I was astonished by the result."
+ },
+ {
+  "plain": "very clean",
+  "better": [
+   "spotless",
+   "immaculate"
+  ],
+  "tamil": "'very clean' என்பதற்கு 'spotless' என்பது இயல்பான சொல்.",
+  "exampleBefore": "The kitchen is very clean.",
+  "exampleAfter": "The kitchen is spotless."
+ },
+ {
+  "plain": "very funny",
+  "better": [
+   "hilarious",
+   "hysterical"
+  ],
+  "tamil": "'very funny' என்பதற்கு 'hilarious' என்பது பேச்சில் அடிக்கடி வரும்.",
+  "exampleBefore": "The movie was very funny.",
+  "exampleAfter": "The movie was hilarious."
+ },
+ {
+  "plain": "very scared",
+  "better": [
+   "terrified",
+   "petrified"
+  ],
+  "tamil": "'very scared' என்பதை 'terrified' என்று சொல்லலாம்.",
+  "exampleBefore": "I was very scared in the dark.",
+  "exampleAfter": "I was terrified in the dark."
+ },
+ {
+  "plain": "very nice",
+  "better": [
+   "lovely",
+   "delightful"
+  ],
+  "tamil": "'very nice' என்பதற்கு 'lovely' என்பது மென்மையான, இயல்பான சொல்.",
+  "exampleBefore": "She is a very nice person.",
+  "exampleAfter": "She is a lovely person."
+ },
+ {
+  "plain": "very smart",
+  "better": [
+   "brilliant",
+   "sharp"
+  ],
+  "tamil": "'very smart' என்பதற்கு 'brilliant' என்பது பாராட்டாக நன்றாக ஒலிக்கும்.",
+  "exampleBefore": "Your idea is very smart.",
+  "exampleAfter": "Your idea is brilliant."
+ },
+ {
+  "plain": "very old",
+  "better": [
+   "ancient",
+   "aged"
+  ],
+  "tamil": "'very old' என்பதற்கு 'ancient' என்பது பழமையான பொருட்களுக்கு ஏற்றது.",
+  "exampleBefore": "That temple is very old.",
+  "exampleAfter": "That temple is ancient."
+ },
+ {
+  "plain": "very busy",
+  "better": [
+   "swamped",
+   "tied up"
+  ],
+  "tamil": "'very busy' என்பதற்குப் பேச்சில் 'swamped' என்று சொல்வார்கள்.",
+  "exampleBefore": "I am very busy this week.",
+  "exampleAfter": "I am swamped this week."
+ },
+ {
+  "plain": "very costly",
+  "better": [
+   "expensive",
+   "pricey"
+  ],
+  "tamil": "'costly' என்பதை விட 'expensive' என்பதே பேச்சில் அதிகம் பயன்படும்; 'very costly' என்பதற்கு 'pricey' என்றும் சொல்லலாம்.",
+  "exampleBefore": "This phone is very costly.",
+  "exampleAfter": "This phone is pricey."
+ },
+ {
+  "plain": "very quiet",
+  "better": [
+   "silent",
+   "peaceful"
+  ],
+  "tamil": "'very quiet' என்பதற்கு 'peaceful' என்று சொன்னால் இதமான உணர்வு வரும்.",
+  "exampleBefore": "The village is very quiet.",
+  "exampleAfter": "The village is peaceful."
+ },
+ {
+  "plain": "very sure",
+  "better": [
+   "certain",
+   "positive"
+  ],
+  "tamil": "'very sure' என்பதற்கு 'certain' என்பது சுருக்கமான சொல்.",
+  "exampleBefore": "I am very sure about it.",
+  "exampleAfter": "I am certain about it."
+ },
+ {
+  "plain": "very kind",
+  "better": [
+   "generous",
+   "caring"
+  ],
+  "tamil": "'very kind' என்பதற்கு 'generous' அல்லது 'caring' என்று சொல்லலாம்.",
+  "exampleBefore": "Your mother is very kind.",
+  "exampleAfter": "Your mother is caring."
+ },
+ {
+  "plain": "very strong",
+  "better": [
+   "powerful",
+   "robust"
+  ],
+  "tamil": "'very strong' என்பதற்கு 'powerful' என்பது இயல்பான மாற்று.",
+  "exampleBefore": "He has a very strong voice.",
+  "exampleAfter": "He has a powerful voice."
+ },
+ {
+  "plain": "very thin",
+  "better": [
+   "slim",
+   "slender"
+  ],
+  "tamil": "'very thin' என்பது சில நேரம் புண்படுத்தலாம்; 'slim' என்பது மென்மையானது.",
+  "exampleBefore": "She is very thin.",
+  "exampleAfter": "She is slim."
+ },
+ {
+  "plain": "very fat",
+  "better": [
+   "overweight",
+   "heavyset"
+  ],
+  "tamil": "'fat' என்பது கடுமையாகத் தோன்றலாம்; 'overweight' என்பது நாகரிகமான சொல்.",
+  "exampleBefore": "He is very fat.",
+  "exampleAfter": "He is overweight."
+ },
+ {
+  "plain": "very poor",
+  "better": [
+   "struggling",
+   "low-income"
+  ],
+  "tamil": "'very poor' என்பதை மென்மையாகச் சொல்ல 'struggling financially' என்று சொல்லலாம்.",
+  "exampleBefore": "Their family is very poor.",
+  "exampleAfter": "Their family is struggling financially."
+ },
+ {
+  "plain": "very rich",
+  "better": [
+   "wealthy",
+   "affluent"
+  ],
+  "tamil": "'very rich' என்பதற்கு 'wealthy' என்பது இயல்பான சொல்.",
+  "exampleBefore": "He is a very rich man.",
+  "exampleAfter": "He is a wealthy man."
+ },
+ {
+  "plain": "very late",
+  "better": [
+   "overdue",
+   "behind schedule"
+  ],
+  "tamil": "'very late' என்பதற்கு வேலை சூழலில் 'overdue' அல்லது 'behind schedule' பொருத்தமாக இருக்கும்.",
+  "exampleBefore": "The report is very late.",
+  "exampleAfter": "The report is overdue."
+ },
+ {
+  "plain": "very early",
+  "better": [
+   "at dawn",
+   "first thing"
+  ],
+  "tamil": "'very early' என்பதற்கு 'first thing in the morning' என்று சொல்லலாம்.",
+  "exampleBefore": "I wake up very early.",
+  "exampleAfter": "I wake up at dawn."
+ },
+ {
+  "plain": "thank you very much",
+  "better": [
+   "i really appreciate it",
+   "thanks a lot"
+  ],
+  "tamil": "'Thank you very much' சரியே; 'I really appreciate it' என்பது மனதார நன்றி சொல்வதை உணர்த்தும்.",
+  "exampleBefore": "Thank you very much for your help.",
+  "exampleAfter": "I really appreciate your help."
+ },
+ {
+  "plain": "i am having",
+  "better": [
+   "i have",
+   "i've got"
+  ],
+  "tamil": "'have' என்பது உடைமை/நிலையைக் குறிக்கும்போது தொடர்ச்சிக் காலத்தில் சொல்வதில்லை; 'I have' என்பதே இயல்பானது.",
+  "exampleBefore": "I am having a car.",
+  "exampleAfter": "I have a car."
+ },
+ {
+  "plain": "i am knowing",
+  "better": [
+   "i know",
+   "i'm aware"
+  ],
+  "tamil": "'know' என்பது நிலையைக் குறிக்கும் சொல்; 'I know' என்பதே இயல்பானது.",
+  "exampleBefore": "I am knowing him well.",
+  "exampleAfter": "I know him well."
+ },
+ {
+  "plain": "i am understanding",
+  "better": [
+   "i understand",
+   "i see"
+  ],
+  "tamil": "'understand' என்பதை 'I understand' என்றே சொல்வது இயல்பு.",
+  "exampleBefore": "I am understanding your point.",
+  "exampleAfter": "I understand your point."
+ },
+ {
+  "plain": "i am agreeing",
+  "better": [
+   "i agree",
+   "i'm with you"
+  ],
+  "tamil": "'agree' என்பதை 'I agree' என்று எளிய காலத்தில் சொல்லலாம்.",
+  "exampleBefore": "I am agreeing with you.",
+  "exampleAfter": "I agree with you."
+ },
+ {
+  "plain": "i am liking",
+  "better": [
+   "i like",
+   "i really like"
+  ],
+  "tamil": "'like' என்பது தொடர்ச்சிக் காலத்தில் வராது; 'I like' என்பதே இயல்பு.",
+  "exampleBefore": "I am liking this song.",
+  "exampleAfter": "I like this song."
+ },
+ {
+  "plain": "my good name",
+  "better": [
+   "my name"
+  ],
+  "tamil": "தன் பெயரைச் சொல்லும்போது 'good' சேர்க்கத் தேவையில்லை; 'My name is...' போதும்.",
+  "exampleBefore": "My good name is Kumar.",
+  "exampleAfter": "My name is Kumar."
+ },
+ {
+  "plain": "only i",
+  "better": [
+   "just me",
+   "i alone"
+  ],
+  "tamil": "'only I' என்பதற்குப் பதிலாக 'just me' என்பது பேச்சில் இயல்பானது.",
+  "exampleBefore": "Only i know the answer.",
+  "exampleAfter": "Just me, i know the answer."
+ },
+ {
+  "plain": "since two years",
+  "better": [
+   "for two years"
+  ],
+  "tamil": "கால அளவைச் சொல்ல 'for' என்றும், தொடக்கப் புள்ளிக்கு 'since' என்றும் பயன்படுத்த வேண்டும்.",
+  "exampleBefore": "I am working here since two years.",
+  "exampleAfter": "I have been working here for two years."
+ },
+ {
+  "plain": "from last week",
+  "better": [
+   "since last week"
+  ],
+  "tamil": "'since' என்பது கடந்த காலத் தொடக்கத்திலிருந்து இப்போது வரை என்பதைக் குறிக்கும்.",
+  "exampleBefore": "He is sick from last week.",
+  "exampleAfter": "He has been sick since last week."
+ },
+ {
+  "plain": "discuss about",
+  "better": [
+   "discuss",
+   "talk about"
+  ],
+  "tamil": "'discuss' என்பதற்குப் பின் 'about' தேவையில்லை; 'talk about' என்றும் சொல்லலாம்.",
+  "exampleBefore": "Let us discuss about the plan.",
+  "exampleAfter": "Let us discuss the plan."
+ },
+ {
+  "plain": "return back",
+  "better": [
+   "return",
+   "come back"
+  ],
+  "tamil": "'return' என்றாலே 'திரும்பு' என்று பொருள்; 'back' சேர்க்கத் தேவையில்லை.",
+  "exampleBefore": "I will return back tomorrow.",
+  "exampleAfter": "I will return tomorrow."
+ },
+ {
+  "plain": "repeat again",
+  "better": [
+   "repeat",
+   "say it again"
+  ],
+  "tamil": "'repeat' என்றாலே மீண்டும் என்று பொருள்; 'again' தேவையில்லை.",
+  "exampleBefore": "Please repeat again.",
+  "exampleAfter": "Please repeat that."
+ },
+ {
+  "plain": "cousin brother",
+  "better": [
+   "cousin"
+  ],
+  "tamil": "ஆங்கிலத்தில் 'cousin' என்பது ஆண் பெண் இருவருக்கும் பொருந்தும்.",
+  "exampleBefore": "He is my cousin brother.",
+  "exampleAfter": "He is my cousin."
+ },
+ {
+  "plain": "open the light",
+  "better": [
+   "turn on the light",
+   "switch on the light"
+  ],
+  "tamil": "விளக்கிற்கு 'open' அல்ல, 'turn on' என்று சொல்ல வேண்டும்.",
+  "exampleBefore": "Please open the light.",
+  "exampleAfter": "Please turn on the light."
+ },
+ {
+  "plain": "close the light",
+  "better": [
+   "turn off the light",
+   "switch off the light"
+  ],
+  "tamil": "விளக்கை அணைக்க 'turn off' என்று சொல்லலாம்.",
+  "exampleBefore": "Please close the light.",
+  "exampleAfter": "Please turn off the light."
+ },
+ {
+  "plain": "off the fan",
+  "better": [
+   "turn off the fan",
+   "switch off the fan"
+  ],
+  "tamil": "'off the fan' என்பதற்குப் பதிலாக 'turn off the fan' என்று சொல்லுங்கள்.",
+  "exampleBefore": "Can you off the fan?",
+  "exampleAfter": "Can you turn off the fan?"
+ },
+ {
+  "plain": "on the tv",
+  "better": [
+   "turn on the tv",
+   "switch on the tv"
+  ],
+  "tamil": "'on the TV' என்பதை 'turn on the TV' என்று சொல்வது முழுமையானது.",
+  "exampleBefore": "Please on the tv.",
+  "exampleAfter": "Please turn on the tv."
+ },
+ {
+  "plain": "take medicine",
+  "better": [
+   "take my medicine",
+   "take some medicine"
+  ],
+  "tamil": "இங்கு 'take my medicine' என்பது இன்னும் இயல்பாக இருக்கும்.",
+  "exampleBefore": "I take medicine every night.",
+  "exampleAfter": "I take my medicine every night."
+ },
+ {
+  "plain": "eat tablet",
+  "better": [
+   "take a tablet",
+   "take a pill"
+  ],
+  "tamil": "மாத்திரைக்கு 'eat' அல்ல, 'take' என்று சொல்ல வேண்டும்.",
+  "exampleBefore": "Doctor said to eat tablet twice.",
+  "exampleAfter": "Doctor said to take a tablet twice."
+ },
+ {
+  "plain": "tell me",
+  "better": [
+   "let me know",
+   "could you tell me"
+  ],
+  "tamil": "'Tell me' கட்டளை போல் ஒலிக்கலாம்; 'Let me know' என்பது மென்மையானது.",
+  "exampleBefore": "Tell me when you are free.",
+  "exampleAfter": "Let me know when you are free."
+ },
+ {
+  "plain": "send me",
+  "better": [
+   "could you send me",
+   "please share"
+  ],
+  "tamil": "'Send me' என்பதற்குப் பதிலாக 'Could you send me' என்றால் பணிவாக இருக்கும்.",
+  "exampleBefore": "Send me the file.",
+  "exampleAfter": "Could you send me the file?"
+ },
+ {
+  "plain": "wait for me",
+  "better": [
+   "hold on a moment",
+   "give me a minute"
+  ],
+  "tamil": "'Hold on a moment' என்பது மென்மையான, இயல்பான வழி.",
+  "exampleBefore": "Wait for me, i am coming.",
+  "exampleAfter": "Hold on a moment, i am coming."
+ },
+ {
+  "plain": "wait a minute",
+  "better": [
+   "hold on",
+   "give me a second"
+  ],
+  "tamil": "'Hold on' என்பது பேச்சில் அடிக்கடி வரும் சுருக்கமான சொல்.",
+  "exampleBefore": "Wait a minute, i will check.",
+  "exampleAfter": "Hold on, i will check."
+ },
+ {
+  "plain": "what do you mean",
+  "better": [
+   "could you clarify",
+   "what do you mean by that"
+  ],
+  "tamil": "'Could you clarify?' என்பது பணிவாக விளக்கம் கேட்கும் வழி.",
+  "exampleBefore": "What do you mean by that?",
+  "exampleAfter": "Could you clarify what you mean?"
+ },
+ {
+  "plain": "i don't understand",
+  "better": [
+   "could you explain that",
+   "i'm not following"
+  ],
+  "tamil": "'I'm not following' என்பது மென்மையானது; குற்றம் சொல்வது போல் இருக்காது.",
+  "exampleBefore": "I don't understand this part.",
+  "exampleAfter": "I'm not following this part."
+ },
+ {
+  "plain": "i don't know",
+  "better": [
+   "i'm not sure",
+   "i have no idea"
+  ],
+  "tamil": "'I'm not sure' என்பது மென்மையாகவும் பணிவாகவும் ஒலிக்கும்.",
+  "exampleBefore": "I don't know the answer.",
+  "exampleAfter": "I'm not sure about the answer."
+ },
+ {
+  "plain": "i can't",
+  "better": [
+   "i'm unable to",
+   "i won't be able to"
+  ],
+  "tamil": "'I'm unable to' என்பது தொழில்முறைச் சூழலில் பணிவான வழி.",
+  "exampleBefore": "I can't attend the meeting.",
+  "exampleAfter": "I'm unable to attend the meeting."
+ },
+ {
+  "plain": "i don't want",
+  "better": [
+   "i'd rather not",
+   "i don't feel like"
+  ],
+  "tamil": "'I'd rather not' என்பது மறுப்பதை மென்மையாகச் சொல்லும்.",
+  "exampleBefore": "I don't want to go there.",
+  "exampleAfter": "I'd rather not go there."
+ },
+ {
+  "plain": "no problem",
+  "better": [
+   "you're welcome",
+   "happy to help"
+  ],
+  "tamil": "நன்றிக்குப் பதிலாக 'Happy to help' என்பது நட்பாக ஒலிக்கும்.",
+  "exampleBefore": "No problem, anytime.",
+  "exampleAfter": "Happy to help, anytime."
+ },
+ {
+  "plain": "sorry for the trouble",
+  "better": [
+   "apologies for the inconvenience",
+   "sorry to bother you"
+  ],
+  "tamil": "'Apologies for the inconvenience' என்பது முறையான மன்னிப்புக் கோரல்.",
+  "exampleBefore": "Sorry for the trouble, sir.",
+  "exampleAfter": "Apologies for the inconvenience, sir."
+ },
+ {
+  "plain": "excuse me sir",
+  "better": [
+   "excuse me",
+   "pardon me"
+  ],
+  "tamil": "இங்கு 'sir' அவசியமில்லை; 'Excuse me' மட்டுமே போதுமான மரியாதையுடன் இருக்கும்.",
+  "exampleBefore": "Excuse me sir, where is the bank?",
+  "exampleAfter": "Excuse me, where is the bank?"
+ },
+ {
+  "plain": "pardon",
+  "better": [
+   "sorry, could you repeat that",
+   "come again"
+  ],
+  "tamil": "'Pardon' என்பதை விட 'Sorry, could you repeat that?' இயல்பானது.",
+  "exampleBefore": "Pardon, i could not hear.",
+  "exampleAfter": "Sorry, could you repeat that? I could not hear."
+ },
+ {
+  "plain": "how are you",
+  "better": [
+   "how's it going",
+   "how have you been"
+  ],
+  "tamil": "'How's it going?' என்பது நண்பர்களிடம் இயல்பான வாழ்த்து.",
+  "exampleBefore": "Hi, how are you?",
+  "exampleAfter": "Hi, how's it going?"
+ },
+ {
+  "plain": "i am fine",
+  "better": [
+   "i'm doing well",
+   "i'm good"
+  ],
+  "tamil": "'I'm doing well' என்பது இன்னும் இயல்பான பதில்.",
+  "exampleBefore": "I am fine, thank you.",
+  "exampleAfter": "I'm doing well, thank you."
+ },
+ {
+  "plain": "nice to meet you",
+  "better": [
+   "pleased to meet you",
+   "great to meet you"
+  ],
+  "tamil": "'Pleased to meet you' என்பது சற்று முறையானது.",
+  "exampleBefore": "Nice to meet you, madam.",
+  "exampleAfter": "Pleased to meet you, madam."
+ },
+ {
+  "plain": "see you again",
+  "better": [
+   "see you soon",
+   "catch you later"
+  ],
+  "tamil": "'See you soon' என்பது இயல்பான விடைபெறும் வழி.",
+  "exampleBefore": "Okay, see you again.",
+  "exampleAfter": "Okay, see you soon."
+ },
+ {
+  "plain": "what is your problem",
+  "better": [
+   "is something wrong",
+   "what's bothering you"
+  ],
+  "tamil": "'What is your problem?' கடுமையாகத் தோன்றும்; 'Is something wrong?' அன்பாக இருக்கும்.",
+  "exampleBefore": "Why are you silent, what is your problem?",
+  "exampleAfter": "Why are you silent, is something wrong?"
+ },
+ {
+  "plain": "don't disturb me",
+  "better": [
+   "i need some space",
+   "please give me a moment"
+  ],
+  "tamil": "'Please give me a moment' என்பது மரியாதையான வழி.",
+  "exampleBefore": "Don't disturb me now.",
+  "exampleAfter": "Please give me a moment now."
+ },
+ {
+  "plain": "come fast",
+  "better": [
+   "hurry up",
+   "please come quickly"
+  ],
+  "tamil": "'Please come quickly' என்பது பணிவான வழி.",
+  "exampleBefore": "Come fast, we are late.",
+  "exampleAfter": "Please come quickly, we are late."
+ },
+ {
+  "plain": "do one thing",
+  "better": [
+   "here's what you can do",
+   "why don't you"
+  ],
+  "tamil": "'Do one thing' என்பது தமிழ் வழக்கின் நேரடி மொழிபெயர்ப்பு; 'Here's what you can do' இயல்பானது.",
+  "exampleBefore": "Do one thing, call him first.",
+  "exampleAfter": "Here's what you can do: call him first."
+ },
+ {
+  "plain": "what happened",
+  "better": [
+   "is everything okay",
+   "what's going on"
+  ],
+  "tamil": "'Is everything okay?' என்பது அக்கறையுடன் கேட்கும் வழி.",
+  "exampleBefore": "You look worried, what happened?",
+  "exampleAfter": "You look worried, is everything okay?"
+ },
+ {
+  "plain": "it's okay",
+  "better": [
+   "that's fine",
+   "no worries"
+  ],
+  "tamil": "'No worries' என்பது நட்பு உரையாடலில் இயல்பானது.",
+  "exampleBefore": "It's okay, don't feel bad.",
+  "exampleAfter": "No worries, don't feel bad."
+ },
+ {
+  "plain": "can you help me",
+  "better": [
+   "could you help me",
+   "would you mind helping me"
+  ],
+  "tamil": "'Could you' என்பது 'Can you' ஐ விட பணிவானது.",
+  "exampleBefore": "Can you help me with this form?",
+  "exampleAfter": "Could you help me with this form?"
+ },
+ {
+  "plain": "can i go",
+  "better": [
+   "may i go",
+   "could i leave"
+  ],
+  "tamil": "அனுமதி கேட்க 'May I' என்பது பணிவானது.",
+  "exampleBefore": "Sir, can i go now?",
+  "exampleAfter": "Sir, may i go now?"
+ },
+ {
+  "plain": "can i come in",
+  "better": [
+   "may i come in",
+   "is it okay to come in"
+  ],
+  "tamil": "'May I come in?' என்பது முறையான, பணிவான கேள்வி.",
+  "exampleBefore": "Madam, can i come in?",
+  "exampleAfter": "Madam, may i come in?"
+ },
+ {
+  "plain": "please do",
+  "better": [
+   "go ahead",
+   "by all means"
+  ],
+  "tamil": "'Go ahead' என்பது அனுமதி தரும் இயல்பான பதில்.",
+  "exampleBefore": "You want to sit? Please do.",
+  "exampleAfter": "You want to sit? Go ahead."
+ },
+ {
+  "plain": "as soon as possible",
+  "better": [
+   "at your earliest convenience",
+   "when you get a chance"
+  ],
+  "tamil": "'At your earliest convenience' என்பது அவசரத்தை மென்மையாகச் சொல்லும்.",
+  "exampleBefore": "Send it as soon as possible.",
+  "exampleAfter": "Send it at your earliest convenience."
+ },
+ {
+  "plain": "do it fast",
+  "better": [
+   "do it quickly",
+   "get it done soon"
+  ],
+  "tamil": "'Get it done soon' என்பது இயல்பான வழி.",
+  "exampleBefore": "Please do it fast.",
+  "exampleAfter": "Please get it done soon."
+ },
+ {
+  "plain": "let's start the meeting",
+  "better": [
+   "let's get started",
+   "shall we begin"
+  ],
+  "tamil": "'Shall we begin?' என்பது பணிவாகத் தொடங்கும் வழி.",
+  "exampleBefore": "Everyone is here, let's start the meeting.",
+  "exampleAfter": "Everyone is here, shall we begin?"
+ },
+ {
+  "plain": "i will update you",
+  "better": [
+   "i'll keep you posted",
+   "i'll let you know"
+  ],
+  "tamil": "'I'll keep you posted' என்பது இயல்பான வேலை உரையாடல்.",
+  "exampleBefore": "I will update you tomorrow.",
+  "exampleAfter": "I'll keep you posted tomorrow."
+ },
+ {
+  "plain": "any updates",
+  "better": [
+   "any news",
+   "where do we stand"
+  ],
+  "tamil": "'Where do we stand?' என்பது நிலையைப் பணிவாகக் கேட்கும் வழி.",
+  "exampleBefore": "Any updates on the project?",
+  "exampleAfter": "Where do we stand on the project?"
+ },
+ {
+  "plain": "i agree with you",
+  "better": [
+   "i see your point",
+   "that makes sense"
+  ],
+  "tamil": "'That makes sense' என்பது மென்மையாக ஒப்புக்கொள்ளும் வழி.",
+  "exampleBefore": "I agree with you on this.",
+  "exampleAfter": "That makes sense to me on this."
+ },
+ {
+  "plain": "i disagree",
+  "better": [
+   "i see it differently",
+   "i'm not sure i agree"
+  ],
+  "tamil": "'I see it differently' என்பது மரியாதையான மறுப்பு.",
+  "exampleBefore": "I disagree with this plan.",
+  "exampleAfter": "I see it differently about this plan."
+ },
+ {
+  "plain": "it's my opinion",
+  "better": [
+   "in my view",
+   "from my perspective"
+  ],
+  "tamil": "'In my view' என்பது சுருக்கமான, தொழில்முறைச் சொல்.",
+  "exampleBefore": "It's my opinion that we should wait.",
+  "exampleAfter": "In my view, we should wait."
+ },
+ {
+  "plain": "let me explain",
+  "better": [
+   "allow me to explain",
+   "let me walk you through it"
+  ],
+  "tamil": "'Let me walk you through it' என்பது படிப்படியாக விளக்குவதைக் குறிக்கும்.",
+  "exampleBefore": "Let me explain the process.",
+  "exampleAfter": "Let me walk you through the process."
+ },
+ {
+  "plain": "any questions",
+  "better": [
+   "does anyone have questions",
+   "feel free to ask"
+  ],
+  "tamil": "'Feel free to ask' என்பது அழைப்பு போல் நட்பாக இருக்கும்.",
+  "exampleBefore": "That is all, any questions?",
+  "exampleAfter": "That is all, feel free to ask questions."
+ },
+ {
+  "plain": "i will check",
+  "better": [
+   "i'll look into it",
+   "let me check"
+  ],
+  "tamil": "'I'll look into it' என்பது தொழில்முறைப் பதில்.",
+  "exampleBefore": "I will check the issue.",
+  "exampleAfter": "I'll look into the issue."
+ },
+ {
+  "plain": "i will call you",
+  "better": [
+   "i'll give you a call",
+   "i'll ring you"
+  ],
+  "tamil": "'I'll give you a call' என்பது இயல்பான பேச்சு.",
+  "exampleBefore": "I will call you tonight.",
+  "exampleAfter": "I'll give you a call tonight."
+ },
+ {
+  "plain": "call me back",
+  "better": [
+   "ring me back",
+   "get back to me by phone"
+  ],
+  "tamil": "'Ring me back' என்பது சில நாடுகளில் பேச்சு வழக்கு.",
+  "exampleBefore": "Call me back later.",
+  "exampleAfter": "Ring me back later."
+ },
+ {
+  "plain": "who is speaking",
+  "better": [
+   "who's calling",
+   "may i ask who's calling"
+  ],
+  "tamil": "தொலைபேசியில் 'Who's calling?' என்பதே இயல்பானது.",
+  "exampleBefore": "Hello, who is speaking?",
+  "exampleAfter": "Hello, who's calling?"
+ },
+ {
+  "plain": "who is this",
+  "better": [
+   "who's calling",
+   "may i know who's calling"
+  ],
+  "tamil": "தொலைபேசியில் 'Who is this?' கடுமையாக ஒலிக்கலாம்.",
+  "exampleBefore": "Hello, who is this?",
+  "exampleAfter": "Hello, may i know who's calling?"
+ },
+ {
+  "plain": "i am speaking",
+  "better": [
+   "this is",
+   "it's me"
+  ],
+  "tamil": "தொலைபேசியில் 'This is Ravi' என்று சொல்வதே இயல்பு.",
+  "exampleBefore": "Hello, i am speaking Ravi.",
+  "exampleAfter": "Hello, this is Ravi."
+ },
+ {
+  "plain": "hold the line",
+  "better": [
+   "hold on please",
+   "one moment please"
+  ],
+  "tamil": "'One moment please' என்பது பணிவாகக் காத்திருக்கச் சொல்லும்.",
+  "exampleBefore": "Hold the line, sir.",
+  "exampleAfter": "One moment please, sir."
+ },
+ {
+  "plain": "i can't hear you",
+  "better": [
+   "the line is breaking up",
+   "you're breaking up"
+  ],
+  "tamil": "'You're breaking up' என்பது இணைப்பு பிரச்சனையைச் சொல்லும் இயல்பான வழி.",
+  "exampleBefore": "I can't hear you properly.",
+  "exampleAfter": "You're breaking up a little."
+ },
+ {
+  "plain": "network problem",
+  "better": [
+   "poor signal",
+   "bad connection"
+  ],
+  "tamil": "'Bad connection' என்பது இயல்பான வழக்கு.",
+  "exampleBefore": "There is a network problem here.",
+  "exampleAfter": "There is a bad connection here."
+ },
+ {
+  "plain": "leave a message",
+  "better": [
+   "take a message",
+   "pass on a message"
+  ],
+  "tamil": "'Can I take a message?' என்பது தொலைபேசிப் பணிவு வாக்கியம்.",
+  "exampleBefore": "Do you want to leave a message?",
+  "exampleAfter": "Can i take a message?"
+ },
+ {
+  "plain": "i will be late",
+  "better": [
+   "i'm running late",
+   "i'll be a bit late"
+  ],
+  "tamil": "'I'm running late' என்பது இயல்பானது.",
+  "exampleBefore": "Sorry, i will be late today.",
+  "exampleAfter": "Sorry, i'm running late today."
+ },
+ {
+  "plain": "i am coming",
+  "better": [
+   "i'm on my way",
+   "i'll be there soon"
+  ],
+  "tamil": "'I'm on my way' என்பது வழியில் இருப்பதைச் சொல்லும் இயல்பான வழி.",
+  "exampleBefore": "Wait, i am coming.",
+  "exampleAfter": "Wait, i'm on my way."
+ },
+ {
+  "plain": "i am busy",
+  "better": [
+   "i'm tied up",
+   "i'm in the middle of something"
+  ],
+  "tamil": "'I'm tied up' என்பது பணிவாக மறுக்க உதவும்.",
+  "exampleBefore": "I am busy right now.",
+  "exampleAfter": "I'm tied up right now."
+ },
+ {
+  "plain": "i am free",
+  "better": [
+   "i'm available",
+   "i have time"
+  ],
+  "tamil": "'I'm available' என்பது வேலை சூழலில் பொருத்தமானது.",
+  "exampleBefore": "I am free after lunch.",
+  "exampleAfter": "I'm available after lunch."
+ },
+ {
+  "plain": "time pass",
+  "better": [
+   "to kill time",
+   "for fun"
+  ],
+  "tamil": "'Timepass' என்பது இந்திய வழக்கு; 'to kill time' என்பதே பொதுவானது.",
+  "exampleBefore": "I read novels for time pass.",
+  "exampleAfter": "I read novels to kill time."
+ },
+ {
+  "plain": "out of station",
+  "better": [
+   "out of town",
+   "away"
+  ],
+  "tamil": "'Out of station' இந்திய வழக்கு; 'out of town' என்பது எல்லோருக்கும் புரியும்.",
+  "exampleBefore": "He is out of station this week.",
+  "exampleAfter": "He is out of town this week."
+ },
+ {
+  "plain": "pass out",
+  "better": [
+   "graduate",
+   "finish school"
+  ],
+  "tamil": "'pass out' என்பதற்கு ஆங்கிலத்தில் 'மயங்கி விழு' என்று பொருள்; படிப்பு முடிக்க 'graduate' என்று சொல்லுங்கள்.",
+  "exampleBefore": "I will pass out in 2027.",
+  "exampleAfter": "I will graduate in 2027."
+ },
+ {
+  "plain": "do the same",
+  "better": [
+   "do likewise",
+   "same here"
+  ],
+  "tamil": "'Same here' என்பது உரையாடலில் இயல்பான பதில்.",
+  "exampleBefore": "You enjoy it, i do the same.",
+  "exampleAfter": "You enjoy it, same here."
+ },
+ {
+  "plain": "kindly",
+  "better": [
+   "please",
+   "would you mind"
+  ],
+  "tamil": "'Kindly' இந்தியாவில் அதிகம்; 'please' என்பதே எளிமையானது.",
+  "exampleBefore": "Kindly send the details.",
+  "exampleAfter": "Please send the details."
+ },
+ {
+  "plain": "good morning to you",
+  "better": [
+   "good morning",
+   "morning"
+  ],
+  "tamil": "'Good morning' மட்டுமே இயல்பானது.",
+  "exampleBefore": "Good morning to you, sir.",
+  "exampleAfter": "Good morning, sir."
+ },
+ {
+  "plain": "same to you",
+  "better": [
+   "you too",
+   "likewise"
+  ],
+  "tamil": "'You too' என்பது சுருக்கமான, இயல்பான பதில்.",
+  "exampleBefore": "Happy new year, same to you.",
+  "exampleAfter": "Happy new year, you too."
+ },
+ {
+  "plain": "my self",
+  "better": [
+   "i'm",
+   "my name is"
+  ],
+  "tamil": "தன்னை அறிமுகப்படுத்த 'Myself Ravi' என்பதற்குப் பதிலாக 'I'm Ravi' என்று சொல்லலாம்.",
+  "exampleBefore": "Hello, my self Ravi.",
+  "exampleAfter": "Hello, i'm Ravi."
+ },
+ {
+  "plain": "one small request",
+  "better": [
+   "could i ask a favour",
+   "i have a small favour to ask"
+  ],
+  "tamil": "'Could I ask a favour?' என்பது பணிவான முன்னுரை.",
+  "exampleBefore": "I have one small request.",
+  "exampleAfter": "Could i ask a favour?"
+ },
+ {
+  "plain": "please adjust",
+  "better": [
+   "thanks for understanding",
+   "bear with me"
+  ],
+  "tamil": "'Bear with me' என்பது பொறுமை கேட்கும் இயல்பான வழி.",
+  "exampleBefore": "Please adjust for a minute.",
+  "exampleAfter": "Please bear with me for a minute."
+ },
+ {
+  "plain": "what to do",
+  "better": [
+   "what can i do",
+   "what should we do"
+  ],
+  "tamil": "'What to do?' என்பதை முழு வாக்கியமாகச் சொல்லுங்கள்.",
+  "exampleBefore": "Now what to do?",
+  "exampleAfter": "Now what can i do?"
+ },
+ {
+  "plain": "what is the matter",
+  "better": [
+   "what's going on",
+   "is anything wrong"
+  ],
+  "tamil": "'What's going on?' என்பது இயல்பான கேள்வி.",
+  "exampleBefore": "What is the matter here?",
+  "exampleAfter": "What's going on here?"
+ },
+ {
+  "plain": "join with",
+  "better": [
+   "join",
+   "meet up with"
+  ],
+  "tamil": "'join' என்பதற்குப் பின் 'with' தேவையில்லை.",
+  "exampleBefore": "Please join with us.",
+  "exampleAfter": "Please join us."
+ },
+ {
+  "plain": "reach to",
+  "better": [
+   "reach",
+   "get to"
+  ],
+  "tamil": "'reach' என்பதற்குப் பின் 'to' தேவையில்லை.",
+  "exampleBefore": "We will reach to Chennai at 8.",
+  "exampleAfter": "We will reach Chennai at 8."
+ },
+ {
+  "plain": "enter into",
+  "better": [
+   "enter",
+   "go into"
+  ],
+  "tamil": "'enter' என்பதற்குப் பின் 'into' தேவையில்லை.",
+  "exampleBefore": "Do not enter into the room.",
+  "exampleAfter": "Do not enter the room."
+ },
+ {
+  "plain": "marry with",
+  "better": [
+   "marry",
+   "get married to"
+  ],
+  "tamil": "'marry' என்பதற்குப் பின் 'with' வராது.",
+  "exampleBefore": "He will marry with her.",
+  "exampleAfter": "He will marry her."
+ },
+ {
+  "plain": "explain me",
+  "better": [
+   "explain it to me",
+   "walk me through it"
+  ],
+  "tamil": "'explain' என்பதற்கு 'to' தேவை.",
+  "exampleBefore": "Please explain me this rule.",
+  "exampleAfter": "Please explain this rule to me."
+ },
+ {
+  "plain": "suggest me",
+  "better": [
+   "recommend",
+   "suggest to me"
+  ],
+  "tamil": "'suggest' என்பதற்குப் பின் நேரடியாக நபர் வராது.",
+  "exampleBefore": "Can you suggest me a book?",
+  "exampleAfter": "Can you recommend a book?"
+ },
+ {
+  "plain": "tell to me",
+  "better": [
+   "tell me",
+   "say to me"
+  ],
+  "tamil": "'tell' என்பதற்குப் பின் 'to' தேவையில்லை.",
+  "exampleBefore": "Don't tell to me lies.",
+  "exampleAfter": "Don't tell me lies."
+ },
+ {
+  "plain": "more better",
+  "better": [
+   "better",
+   "even better"
+  ],
+  "tamil": "'better' ஏற்கெனவே ஒப்பீட்டு வடிவம்; 'more' தேவையில்லை.",
+  "exampleBefore": "This is more better than that.",
+  "exampleAfter": "This is better than that."
+ },
+ {
+  "plain": "many informations",
+  "better": [
+   "a lot of information",
+   "plenty of information"
+  ],
+  "tamil": "'information' எண்ண முடியாத பெயர்ச்சொல்; பன்மை இல்லை.",
+  "exampleBefore": "He gave many informations.",
+  "exampleAfter": "He gave a lot of information."
+ },
+ {
+  "plain": "many advices",
+  "better": [
+   "a lot of advice",
+   "plenty of advice"
+  ],
+  "tamil": "'advice' எண்ண முடியாதது.",
+  "exampleBefore": "She gave me many advices.",
+  "exampleAfter": "She gave me a lot of advice."
+ },
+ {
+  "plain": "my hair is falling",
+  "better": [
+   "i'm losing hair",
+   "my hair is thinning"
+  ],
+  "tamil": "'I'm losing hair' என்பது இயல்பான வழி.",
+  "exampleBefore": "My hair is falling a lot.",
+  "exampleAfter": "I'm losing hair a lot."
+ },
+ {
+  "plain": "bring me",
+  "better": [
+   "could you bring me",
+   "would you get me"
+  ],
+  "tamil": "'Could you bring me' என்பது பணிவான கோரிக்கை.",
+  "exampleBefore": "Bring me some water.",
+  "exampleAfter": "Could you bring me some water?"
+ },
+ {
+  "plain": "i am going to home",
+  "better": [
+   "i'm going home",
+   "i'm heading home"
+  ],
+  "tamil": "'home' என்பதற்கு முன் 'to' வராது.",
+  "exampleBefore": "I am going to home now.",
+  "exampleAfter": "I'm going home now."
+ },
+ {
+  "plain": "i am coming from office",
+  "better": [
+   "i'm coming from work",
+   "i just got off work"
+  ],
+  "tamil": "'Work' என்பது இயல்பான சொல்.",
+  "exampleBefore": "I am coming from office now.",
+  "exampleAfter": "I just got off work now."
+ },
+ {
+  "plain": "good time",
+  "better": [
+   "great timing",
+   "perfect timing"
+  ],
+  "tamil": "'Great timing' என்பது இயல்பான புகழ்ச்சி.",
+  "exampleBefore": "You called at a good time.",
+  "exampleAfter": "You called at great timing."
+ },
+ {
+  "plain": "it's a pleasure",
+  "better": [
+   "my pleasure",
+   "glad to help"
+  ],
+  "tamil": "நன்றிக்குப் பதிலாக 'My pleasure' என்று சொல்லலாம்.",
+  "exampleBefore": "It's a pleasure, ma'am.",
+  "exampleAfter": "My pleasure, ma'am."
+ },
+ {
+  "plain": "as per my knowledge",
+  "better": [
+   "as far as i know",
+   "to my knowledge"
+  ],
+  "tamil": "'As far as I know' என்பது எளிய, இயல்பான வழி.",
+  "exampleBefore": "As per my knowledge, it is closed.",
+  "exampleAfter": "As far as i know, it is closed."
+ },
+ {
+  "plain": "i will do the same",
+  "better": [
+   "i'll do likewise",
+   "me too"
+  ],
+  "tamil": "'Me too' என்பது சுருக்கமான பதில்.",
+  "exampleBefore": "I will do the same.",
+  "exampleAfter": "Me too."
+ }
+]

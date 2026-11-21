@@ -1,0 +1,352 @@
+[
+  {
+    "word": "twist",
+    "meaning": "to turn something around by holding both ends",
+    "tamil": "முறுக்கு",
+    "pos": "verb",
+    "pron": "TWIST",
+    "example": "Twist the cap to open the bottle.",
+    "exampleTamil": "பாட்டிலை திறக்க மூடியை திருகுங்க.",
+    "synonyms": [
+      "turn",
+      "wring"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "tear",
+    "meaning": "to pull paper or cloth apart into pieces",
+    "tamil": "கிழி",
+    "pos": "verb",
+    "pron": "TAIR",
+    "example": "Be careful not to tear the page.",
+    "exampleTamil": "பக்கத்தை கிழிச்சிடாம கவனமா இருங்க.",
+    "synonyms": [
+      "rip",
+      "split"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "mix",
+    "meaning": "to put things together so they become one",
+    "tamil": "கலக்கு",
+    "pos": "verb",
+    "pron": "MIKS",
+    "example": "Mix the flour and water well.",
+    "exampleTamil": "மாவையும் தண்ணியையும் நல்லா கலக்குங்க.",
+    "synonyms": [
+      "blend",
+      "stir"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "chew",
+    "meaning": "to bite food many times in your mouth",
+    "tamil": "மெல்லு",
+    "pos": "verb",
+    "pron": "CHOO",
+    "example": "Chew your food slowly.",
+    "exampleTamil": "சாப்பாட்டை மெதுவா மென்னு சாப்பிடுங்க.",
+    "synonyms": [
+      "munch",
+      "bite"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "swallow",
+    "meaning": "to move food or drink down your throat",
+    "tamil": "விழுங்கு",
+    "pos": "verb",
+    "pron": "SWOL-oh",
+    "example": "It hurts when I swallow.",
+    "exampleTamil": "நான் விழுங்கும்போது வலிக்குது.",
+    "synonyms": [
+      "gulp",
+      "gulp down"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "shout",
+    "meaning": "to say something very loudly",
+    "tamil": "கத்து",
+    "pos": "verb",
+    "pron": "SHOWT",
+    "example": "Do not shout at the children.",
+    "exampleTamil": "குழந்தைங்ககிட்ட கத்தாதீங்க.",
+    "synonyms": [
+      "yell",
+      "scream"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "laugh",
+    "meaning": "to make happy sounds because something is funny",
+    "tamil": "சிரி",
+    "pos": "verb",
+    "pron": "LAF",
+    "example": "We laughed a lot at his joke.",
+    "exampleTamil": "அவன் ஜோக்கை கேட்டு நாங்க ரொம்ப சிரிச்சோம்.",
+    "synonyms": [
+      "giggle",
+      "chuckle"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "cry",
+    "meaning": "to have tears come from your eyes",
+    "tamil": "அழு",
+    "pos": "verb",
+    "pron": "KRY",
+    "example": "The baby started to cry at night.",
+    "exampleTamil": "குழந்தை ராத்திரி அழ ஆரம்பிச்சுச்சு.",
+    "synonyms": [
+      "weep",
+      "sob"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "smile",
+    "meaning": "to turn your mouth up to show you are happy",
+    "tamil": "புன்னகை செய்",
+    "pos": "verb",
+    "pron": "SMILE",
+    "example": "She always smiles when she sees me.",
+    "exampleTamil": "என்னை பார்த்தா அவ எப்பவும் புன்னகைப்பா.",
+    "synonyms": [
+      "grin",
+      "beam"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "walk",
+    "meaning": "to move on foot at a normal speed",
+    "tamil": "நட",
+    "pos": "verb",
+    "pron": "WAWK",
+    "example": "I walk to the office every morning.",
+    "exampleTamil": "நான் தினமும் காலையில ஆபீஸுக்கு நடந்து போவேன்.",
+    "synonyms": [
+      "stroll",
+      "step"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "run",
+    "meaning": "to move on foot faster than walking",
+    "tamil": "ஓடு",
+    "pos": "verb",
+    "pron": "RUN",
+    "example": "He runs five kilometres every day.",
+    "exampleTamil": "அவன் தினமும் அஞ்சு கிலோமீட்டர் ஓடுவான்.",
+    "synonyms": [
+      "sprint",
+      "jog"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "sit",
+    "meaning": "to rest your body on a chair or the floor",
+    "tamil": "உட்கார்",
+    "pos": "verb",
+    "pron": "SIT",
+    "example": "Please sit here and wait for me.",
+    "exampleTamil": "தயவுசெய்து இங்க உட்கார்ந்து எனக்காக காத்திருங்க.",
+    "synonyms": [
+      "be seated",
+      "settle"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "crawl",
+    "meaning": "to move on your hands and knees",
+    "tamil": "தவழ்",
+    "pos": "verb",
+    "pron": "KRAWL",
+    "example": "The baby is learning to crawl.",
+    "exampleTamil": "குழந்தை தவழக் கத்துக்கிட்டு இருக்கு.",
+    "synonyms": [
+      "creep",
+      "inch"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "lean",
+    "meaning": "to bend your body or rest against something",
+    "tamil": "சாய்",
+    "pos": "verb",
+    "pron": "LEEN",
+    "example": "Do not lean on the wall.",
+    "exampleTamil": "சுவர்ல சாயாதீங்க.",
+    "synonyms": [
+      "tilt",
+      "rest"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "nod",
+    "meaning": "to move your head up and down to say yes",
+    "tamil": "தலையாட்டு",
+    "pos": "verb",
+    "pron": "NOD",
+    "example": "He nodded when I asked the question.",
+    "exampleTamil": "நான் கேள்வி கேட்டதும் அவன் தலையாட்டினான்.",
+    "synonyms": [
+      "bow",
+      "agree"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "grab",
+    "meaning": "to take hold of something quickly and firmly",
+    "tamil": "பற்று",
+    "pos": "verb",
+    "pron": "GRAB",
+    "example": "Grab your bag and let us go.",
+    "exampleTamil": "உன் பையை எடுத்துக்கோ, போகலாம்.",
+    "synonyms": [
+      "snatch",
+      "seize"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "hide",
+    "meaning": "to put something where no one can see it",
+    "tamil": "மறை",
+    "pos": "verb",
+    "pron": "HYDE",
+    "example": "She likes to hide the gift under the bed.",
+    "exampleTamil": "அவ பரிசை கட்டிலுக்கு அடியில மறைச்சு வைக்க விரும்புவா.",
+    "synonyms": [
+      "conceal",
+      "cover"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "search",
+    "meaning": "to look carefully for something",
+    "tamil": "தேடு",
+    "pos": "verb",
+    "pron": "SURCH",
+    "example": "I searched everywhere for my keys.",
+    "exampleTamil": "என் சாவியை எல்லா இடத்துலயும் தேடினேன்.",
+    "synonyms": [
+      "look for",
+      "hunt"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "fetch",
+    "meaning": "to go and bring something back",
+    "tamil": "எடுத்து வா",
+    "pos": "verb",
+    "pron": "FECH",
+    "example": "Can you fetch a glass of water for me?",
+    "exampleTamil": "எனக்கு ஒரு கிளாஸ் தண்ணி எடுத்து வர முடியுமா?",
+    "synonyms": [
+      "bring",
+      "get"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "shake",
+    "meaning": "to move something quickly up and down or side to side",
+    "tamil": "குலுக்கு",
+    "pos": "verb",
+    "pron": "SHAYK",
+    "example": "Shake the bottle before you use it.",
+    "exampleTamil": "பயன்படுத்துறதுக்கு முன்னாடி பாட்டிலை குலுக்குங்க.",
+    "synonyms": [
+      "wave",
+      "rattle"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "peel",
+    "meaning": "to take the skin off a fruit or vegetable",
+    "tamil": "தோல் உரி",
+    "pos": "verb",
+    "pron": "PEEL",
+    "example": "Please peel the potatoes for dinner.",
+    "exampleTamil": "ராத்திரி சாப்பாட்டுக்கு உருளைக்கிழங்கு தோல் உரிங்க.",
+    "synonyms": [
+      "skin",
+      "strip"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "spread",
+    "meaning": "to cover a surface with a thin layer or open something out",
+    "tamil": "பரப்பு",
+    "pos": "verb",
+    "pron": "SPRED",
+    "example": "Spread some butter on the bread.",
+    "exampleTamil": "ரொட்டியில கொஞ்சம் வெண்ணெய் தடவுங்க.",
+    "synonyms": [
+      "smear",
+      "open out"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "turn on",
+    "meaning": "to start a machine or light so it works",
+    "tamil": "ஆன் பண்ணு",
+    "pos": "phrasal verb",
+    "pron": "turn ON",
+    "example": "Please turn on the fan.",
+    "exampleTamil": "தயவுசெய்து ஃபேனை ஆன் பண்ணுங்க.",
+    "synonyms": [
+      "switch on",
+      "start"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "turn off",
+    "meaning": "to stop a machine or light so it does not work",
+    "tamil": "ஆஃப் பண்ணு",
+    "pos": "phrasal verb",
+    "pron": "turn OFF",
+    "example": "Turn off the lights before you sleep.",
+    "exampleTamil": "தூங்குறதுக்கு முன்னாடி லைட்டை ஆஃப் பண்ணுங்க.",
+    "synonyms": [
+      "switch off",
+      "shut off"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "put away",
+    "meaning": "to return something to its proper place",
+    "tamil": "எடுத்து வை",
+    "pos": "phrasal verb",
+    "pron": "put a-WAY",
+    "example": "Put away your toys after playing.",
+    "exampleTamil": "விளையாடி முடிச்சதும் உன் பொம்மைகளை எடுத்து வை.",
+    "synonyms": [
+      "tidy up",
+      "store"
+    ],
+    "level": "intermediate"
+  }
+]

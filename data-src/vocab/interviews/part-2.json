@@ -1,0 +1,808 @@
+[
+ {
+  "word": "screening",
+  "tamil": "ஆரம்பக் கட்ட வடிகட்டல்",
+  "pos": "noun",
+  "pron": "SKREE-ning",
+  "example": "The HR screening call lasts about fifteen minutes.",
+  "exampleTamil": "எச்ஆர் ஆரம்பக் கட்ட அழைப்பு சுமார் பதினைந்து நிமிடங்கள் நடக்கும்.",
+  "synonyms": [
+   "filtering",
+   "vetting"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "panel",
+  "tamil": "நேர்காணல் குழு",
+  "pos": "noun",
+  "pron": "PAN-ul",
+  "example": "A panel of three managers interviewed me.",
+  "exampleTamil": "மூன்று மேலாளர்கள் கொண்ட குழு என்னை நேர்காணல் செய்தது.",
+  "synonyms": [
+   "committee",
+   "board"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "round",
+  "tamil": "சுற்று",
+  "pos": "noun",
+  "pron": "ROWND",
+  "example": "I cleared the technical round and moved ahead.",
+  "exampleTamil": "நான் தொழில்நுட்பச் சுற்றைத் தாண்டி முன்னேறினேன்.",
+  "synonyms": [
+   "stage",
+   "phase"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "assessment",
+  "tamil": "மதிப்பீடு",
+  "pos": "noun",
+  "pron": "uh-SES-ment",
+  "example": "The online assessment has coding and logic questions.",
+  "exampleTamil": "ஆன்லைன் மதிப்பீட்டில் நிரலாக்கமும் தர்க்கக் கேள்விகளும் உள்ளன.",
+  "synonyms": [
+   "evaluation",
+   "test"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "evaluate",
+  "tamil": "மதிப்பிடு",
+  "pos": "verb",
+  "pron": "i-VAL-yoo-ayt",
+  "example": "They evaluate candidates on skills and attitude.",
+  "exampleTamil": "அவர்கள் விண்ணப்பதாரர்களைத் திறன், மனப்பான்மை அடிப்படையில் மதிப்பிடுகிறார்கள்.",
+  "synonyms": [
+   "assess",
+   "judge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "whiteboard",
+  "tamil": "வெள்ளைப் பலகை",
+  "pos": "noun",
+  "pron": "WYTE-bord",
+  "example": "He solved the design problem on the whiteboard.",
+  "exampleTamil": "அவர் வடிவமைப்புச் சிக்கலை வெள்ளைப் பலகையில் தீர்த்தார்.",
+  "synonyms": [
+   "board",
+   "flipchart"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mock",
+  "tamil": "மாதிரி (பயிற்சி)",
+  "pos": "adjective",
+  "pron": "MOK",
+  "example": "I practised with a mock interview before the real one.",
+  "exampleTamil": "உண்மையான நேர்காணலுக்கு முன் மாதிரி நேர்காணலில் பயிற்சி செய்தேன்.",
+  "synonyms": [
+   "practice",
+   "trial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "behavioural",
+  "tamil": "நடத்தை சார்ந்த",
+  "pos": "adjective",
+  "pron": "bi-HAYV-yer-ul",
+  "example": "Behavioural questions ask about your past actions.",
+  "exampleTamil": "நடத்தை சார்ந்த கேள்விகள் உங்கள் கடந்தகாலச் செயல்களைப் பற்றி கேட்கும்.",
+  "synonyms": [
+   "conduct-based",
+   "situational"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scenario",
+  "tamil": "சூழ்நிலை",
+  "pos": "noun",
+  "pron": "si-NAIR-ee-oh",
+  "example": "They gave me a difficult customer scenario to solve.",
+  "exampleTamil": "கடினமான வாடிக்கையாளர் சூழ்நிலையைத் தீர்க்க எனக்குக் கொடுத்தனர்.",
+  "synonyms": [
+   "situation",
+   "case"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hypothetical",
+  "tamil": "கற்பனையான",
+  "pos": "adjective",
+  "pron": "hy-puh-THET-i-kul",
+  "example": "The interviewer asked a hypothetical question about deadlines.",
+  "exampleTamil": "நேர்காணலர் காலக்கெடு பற்றிய கற்பனைக் கேள்வி ஒன்றைக் கேட்டார்.",
+  "synonyms": [
+   "imaginary",
+   "theoretical"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rapport",
+  "tamil": "நல்லுறவு",
+  "pos": "noun",
+  "pron": "ra-POR",
+  "example": "Building rapport with the panel puts you at ease.",
+  "exampleTamil": "குழுவுடன் நல்லுறவை உருவாக்குவது உங்களை இயல்பாக வைக்கும்.",
+  "synonyms": [
+   "bond",
+   "connection"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "impression",
+  "tamil": "தோற்றம் (எண்ணம்)",
+  "pos": "noun",
+  "pron": "im-PRESH-un",
+  "example": "First impressions matter a lot in interviews.",
+  "exampleTamil": "நேர்காணலில் முதல் தோற்றம் மிகவும் முக்கியம்.",
+  "synonyms": [
+   "image",
+   "effect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "dress code",
+  "tamil": "உடைக் கட்டுப்பாடு",
+  "pos": "noun",
+  "pron": "DRES-kohd",
+  "example": "Please check the dress code before the interview.",
+  "exampleTamil": "நேர்காணலுக்கு முன் உடைக் கட்டுப்பாட்டைச் சரிபாருங்கள்.",
+  "synonyms": [
+   "attire rules",
+   "uniform policy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "formal",
+  "tamil": "முறையான",
+  "pos": "adjective",
+  "pron": "FOR-mul",
+  "example": "Wear formal clothes for the final round.",
+  "exampleTamil": "இறுதிச் சுற்றுக்கு முறையான உடை அணியுங்கள்.",
+  "synonyms": [
+   "official",
+   "professional"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "introduce",
+  "tamil": "அறிமுகப்படுத்து",
+  "pos": "verb",
+  "pron": "in-truh-DYOOS",
+  "example": "Please introduce yourself in two minutes.",
+  "exampleTamil": "இரண்டு நிமிடங்களில் உங்களை அறிமுகப்படுத்திக் கொள்ளுங்கள்.",
+  "synonyms": [
+   "present",
+   "present oneself"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "summarise",
+  "tamil": "சுருக்கமாகக் கூறு",
+  "pos": "verb",
+  "pron": "SUM-uh-ryze",
+  "example": "Can you summarise your experience in a few lines?",
+  "exampleTamil": "உங்கள் அனுபவத்தை சில வரிகளில் சுருக்கமாகக் கூற முடியுமா?",
+  "synonyms": [
+   "sum up",
+   "outline"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tailor",
+  "tamil": "தேவைக்கேற்ப மாற்றியமை",
+  "pos": "verb",
+  "pron": "TAY-ler",
+  "example": "Tailor your cover letter to each company.",
+  "exampleTamil": "ஒவ்வொரு நிறுவனத்திற்கும் ஏற்ப உங்கள் அறிமுகக் கடிதத்தை மாற்றுங்கள்.",
+  "synonyms": [
+   "customise",
+   "adapt"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cover letter",
+  "tamil": "அறிமுகக் கடிதம்",
+  "pos": "noun",
+  "pron": "KUV-er LET-er",
+  "example": "A short cover letter can make you stand out.",
+  "exampleTamil": "சிறிய அறிமுகக் கடிதம் உங்களைத் தனித்துக் காட்டும்.",
+  "synonyms": [
+   "application letter",
+   "intro letter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reference",
+  "tamil": "பரிந்துரையாளர்",
+  "pos": "noun",
+  "pron": "REF-run-ss",
+  "example": "My former manager agreed to be my reference.",
+  "exampleTamil": "என் முன்னாள் மேலாளர் என் பரிந்துரையாளராக இருக்க ஒப்புக்கொண்டார்.",
+  "synonyms": [
+   "referee",
+   "recommendation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "referee",
+  "tamil": "பரிந்துரைக்கும் நபர்",
+  "pos": "noun",
+  "pron": "ref-uh-REE",
+  "example": "Please provide two referees with contact details.",
+  "exampleTamil": "தொடர்பு விவரங்களுடன் இரண்டு பரிந்துரையாளர்களைத் தாருங்கள்.",
+  "synonyms": [
+   "reference",
+   "guarantor"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "testimonial",
+  "tamil": "நற்சான்று",
+  "pos": "noun",
+  "pron": "tes-ti-MOH-nee-ul",
+  "example": "She included a client testimonial in her portfolio.",
+  "exampleTamil": "அவள் தன் தொகுப்பில் வாடிக்கையாளர் நற்சான்றைச் சேர்த்தாள்.",
+  "synonyms": [
+   "endorsement",
+   "tribute"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "verification",
+  "tamil": "சரிபார்ப்பு",
+  "pos": "noun",
+  "pron": "ver-i-fi-KAY-shun",
+  "example": "Document verification happens before joining.",
+  "exampleTamil": "சேருவதற்கு முன் ஆவணச் சரிபார்ப்பு நடக்கும்.",
+  "synonyms": [
+   "checking",
+   "validation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "background check",
+  "tamil": "பின்னணிச் சரிபார்ப்பு",
+  "pos": "noun",
+  "pron": "BAK-ground chek",
+  "example": "The company runs a background check on every new hire.",
+  "exampleTamil": "நிறுவனம் ஒவ்வொரு புதிய ஊழியரின் பின்னணியையும் சரிபார்க்கும்.",
+  "synonyms": [
+   "vetting",
+   "screening"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "employment history",
+  "tamil": "வேலை வரலாறு",
+  "pos": "noun",
+  "pron": "em-PLOY-ment HIS-tuh-ree",
+  "example": "List your employment history from the latest job.",
+  "exampleTamil": "சமீபத்திய வேலையிலிருந்து உங்கள் வேலை வரலாற்றைப் பட்டியலிடுங்கள்.",
+  "synonyms": [
+   "work history",
+   "job record"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gap",
+  "tamil": "இடைவெளி",
+  "pos": "noun",
+  "pron": "GAP",
+  "example": "Be ready to explain any gap in your career.",
+  "exampleTamil": "உங்கள் தொழிலில் உள்ள எந்த இடைவெளிக்கும் விளக்கம் தயாராக வைத்திருங்கள்.",
+  "synonyms": [
+   "break",
+   "interval"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "career break",
+  "tamil": "தொழில் இடைவேளை",
+  "pos": "noun",
+  "pron": "kuh-REER brayk",
+  "example": "She took a career break to care for her family.",
+  "exampleTamil": "அவள் குடும்பத்தைக் கவனிக்கத் தொழில் இடைவேளை எடுத்தாள்.",
+  "synonyms": [
+   "sabbatical",
+   "time off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "switch",
+  "tamil": "மாறு",
+  "pos": "verb",
+  "pron": "SWICH",
+  "example": "I want to switch from testing to development.",
+  "exampleTamil": "நான் சோதனையிலிருந்து மேம்பாட்டுக்கு மாற விரும்புகிறேன்.",
+  "synonyms": [
+   "change",
+   "move"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "resign",
+  "tamil": "பதவி விலகு",
+  "pos": "verb",
+  "pron": "ri-ZYNE",
+  "example": "He decided to resign and join a startup.",
+  "exampleTamil": "அவர் பதவி விலகி ஒரு ஸ்டார்ட்அப்பில் சேர முடிவு செய்தார்.",
+  "synonyms": [
+   "quit",
+   "step down"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "resignation",
+  "tamil": "ராஜினாமா",
+  "pos": "noun",
+  "pron": "rez-ig-NAY-shun",
+  "example": "I submitted my resignation letter on Friday.",
+  "exampleTamil": "நான் வெள்ளிக்கிழமை என் ராஜினாமாக் கடிதத்தைக் கொடுத்தேன்.",
+  "synonyms": [
+   "notice",
+   "departure"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "layoff",
+  "tamil": "பணிநீக்கம்",
+  "pos": "noun",
+  "pron": "LAY-off",
+  "example": "The layoff affected many employees in the company.",
+  "exampleTamil": "அந்தப் பணிநீக்கம் நிறுவனத்தில் பல ஊழியர்களைப் பாதித்தது.",
+  "synonyms": [
+   "redundancy",
+   "dismissal"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fired",
+  "tamil": "வேலையிலிருந்து நீக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "FY-erd",
+  "example": "He was fired for repeatedly missing work.",
+  "exampleTamil": "அடிக்கடி வேலைக்கு வராததால் அவர் நீக்கப்பட்டார்.",
+  "synonyms": [
+   "dismissed",
+   "sacked"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "retire",
+  "tamil": "ஓய்வு பெறு",
+  "pos": "verb",
+  "pron": "ri-TY-er",
+  "example": "My father will retire from the bank next year.",
+  "exampleTamil": "என் அப்பா அடுத்த ஆண்டு வங்கியிலிருந்து ஓய்வு பெறுவார்.",
+  "synonyms": [
+   "stop working",
+   "withdraw"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "notice period",
+  "tamil": "பணி விடுவிப்புக் காலம்",
+  "pos": "noun",
+  "pron": "NOH-tis PEER-ee-ud",
+  "example": "My notice period is sixty days.",
+  "exampleTamil": "என் பணி விடுவிப்புக் காலம் அறுபது நாட்கள்.",
+  "synonyms": [
+   "resignation period",
+   "serving time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "relieving letter",
+  "tamil": "பணி விடுவிப்புக் கடிதம்",
+  "pos": "noun",
+  "pron": "ri-LEEV-ing LET-er",
+  "example": "You must submit your relieving letter on joining.",
+  "exampleTamil": "சேரும்போது உங்கள் பணி விடுவிப்புக் கடிதத்தைச் சமர்ப்பிக்க வேண்டும்.",
+  "synonyms": [
+   "release letter",
+   "exit letter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "experience letter",
+  "tamil": "அனுபவச் சான்றிதழ்",
+  "pos": "noun",
+  "pron": "ik-SPEER-ee-unss LET-er",
+  "example": "Please share your experience letter from the previous company.",
+  "exampleTamil": "முந்தைய நிறுவனத்தின் அனுபவச் சான்றிதழைப் பகிருங்கள்.",
+  "synonyms": [
+   "work certificate",
+   "service letter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "salary",
+  "tamil": "சம்பளம்",
+  "pos": "noun",
+  "pron": "SAL-uh-ree",
+  "example": "The salary is discussed after the technical round.",
+  "exampleTamil": "தொழில்நுட்பச் சுற்றுக்குப் பிறகு சம்பளம் பேசப்படும்.",
+  "synonyms": [
+   "pay",
+   "wages"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pay",
+  "tamil": "ஊதியம்",
+  "pos": "noun",
+  "pron": "PAY",
+  "example": "The pay is good and the benefits are great.",
+  "exampleTamil": "ஊதியம் நன்றாக உள்ளது, சலுகைகளும் அருமை.",
+  "synonyms": [
+   "salary",
+   "earnings"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "compensation",
+  "tamil": "ஊதியத் தொகை",
+  "pos": "noun",
+  "pron": "kom-pen-SAY-shun",
+  "example": "Compensation includes salary, bonus and insurance.",
+  "exampleTamil": "ஊதியத் தொகையில் சம்பளம், போனஸ், காப்பீடு அடங்கும்.",
+  "synonyms": [
+   "remuneration",
+   "pay"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "expectation",
+  "tamil": "எதிர்பார்ப்பு",
+  "pos": "noun",
+  "pron": "ek-spek-TAY-shun",
+  "example": "What is your salary expectation?",
+  "exampleTamil": "உங்கள் சம்பள எதிர்பார்ப்பு என்ன?",
+  "synonyms": [
+   "hope",
+   "anticipation"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "negotiate",
+  "tamil": "பேரம் பேசு",
+  "pos": "verb",
+  "pron": "ni-GOH-shee-ayt",
+  "example": "You can negotiate the salary after receiving the offer.",
+  "exampleTamil": "வேலை வாய்ப்பைப் பெற்றபின் சம்பளத்தைப் பற்றிப் பேசலாம்.",
+  "synonyms": [
+   "bargain",
+   "discuss terms"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "negotiation",
+  "tamil": "பேச்சுவார்த்தை",
+  "pos": "noun",
+  "pron": "ni-goh-shee-AY-shun",
+  "example": "The salary negotiation went smoothly.",
+  "exampleTamil": "சம்பளப் பேச்சுவார்த்தை சுமுகமாக நடந்தது.",
+  "synonyms": [
+   "bargaining",
+   "discussion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "counteroffer",
+  "tamil": "எதிர் வாய்ப்பு",
+  "pos": "noun",
+  "pron": "KOWN-ter-of-er",
+  "example": "My company made a counteroffer to keep me.",
+  "exampleTamil": "என்னைத் தக்க வைக்க என் நிறுவனம் எதிர் வாய்ப்பு அளித்தது.",
+  "synonyms": [
+   "revised offer",
+   "retention offer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hike",
+  "tamil": "சம்பள உயர்வு",
+  "pos": "noun",
+  "pron": "HYKE",
+  "example": "I got a twenty percent hike in my new job.",
+  "exampleTamil": "புதிய வேலையில் எனக்கு இருபது சதவீத சம்பள உயர்வு கிடைத்தது.",
+  "synonyms": [
+   "raise",
+   "increase"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "raise",
+  "tamil": "சம்பள உயர்வு",
+  "pos": "noun",
+  "pron": "RAYZ",
+  "example": "She asked her manager for a raise.",
+  "exampleTamil": "அவள் தன் மேலாளரிடம் சம்பள உயர்வு கேட்டாள்.",
+  "synonyms": [
+   "increment",
+   "hike"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "increment",
+  "tamil": "ஊதிய உயர்வு",
+  "pos": "noun",
+  "pron": "IN-kri-ment",
+  "example": "The annual increment is based on your appraisal.",
+  "exampleTamil": "ஆண்டு ஊதிய உயர்வு உங்கள் மதிப்பீட்டைப் பொறுத்தது.",
+  "synonyms": [
+   "raise",
+   "rise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bonus",
+  "tamil": "போனஸ்",
+  "pos": "noun",
+  "pron": "BOH-nus",
+  "example": "We received a performance bonus in March.",
+  "exampleTamil": "மார்ச் மாதத்தில் எங்களுக்குச் செயல்திறன் போனஸ் கிடைத்தது.",
+  "synonyms": [
+   "incentive",
+   "reward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "benefits",
+  "tamil": "சலுகைகள்",
+  "pos": "noun",
+  "pron": "BEN-i-fits",
+  "example": "The benefits include health insurance and paid leave.",
+  "exampleTamil": "சலுகைகளில் மருத்துவக் காப்பீடும் ஊதிய விடுப்பும் அடங்கும்.",
+  "synonyms": [
+   "perks",
+   "allowances"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "perks",
+  "tamil": "கூடுதல் சலுகைகள்",
+  "pos": "noun",
+  "pron": "PERKS",
+  "example": "Free meals and a gym are great perks.",
+  "exampleTamil": "இலவச உணவும் உடற்பயிற்சிக் கூடமும் சிறந்த கூடுதல் சலுகைகள்.",
+  "synonyms": [
+   "extras",
+   "bonuses"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "allowance",
+  "tamil": "படி (கூடுதல் தொகை)",
+  "pos": "noun",
+  "pron": "uh-LOW-unss",
+  "example": "The company pays a monthly travel allowance.",
+  "exampleTamil": "நிறுவனம் மாதாந்திரப் பயணப்படி வழங்குகிறது.",
+  "synonyms": [
+   "stipend",
+   "payment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stipend",
+  "tamil": "உதவித்தொகை",
+  "pos": "noun",
+  "pron": "STY-pend",
+  "example": "Interns receive a monthly stipend.",
+  "exampleTamil": "பயிற்சிப் பணியாளர்கள் மாதாந்திர உதவித்தொகை பெறுகிறார்கள்.",
+  "synonyms": [
+   "allowance",
+   "grant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "offer",
+  "tamil": "வேலை வாய்ப்பு",
+  "pos": "noun",
+  "pron": "OF-er",
+  "example": "I received an offer from two companies.",
+  "exampleTamil": "எனக்கு இரண்டு நிறுவனங்களிலிருந்து வேலை வாய்ப்பு கிடைத்தது.",
+  "synonyms": [
+   "proposal",
+   "bid"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "accept",
+  "tamil": "ஏற்றுக்கொள்",
+  "pos": "verb",
+  "pron": "ak-SEPT",
+  "example": "I am happy to accept your offer.",
+  "exampleTamil": "உங்கள் வேலை வாய்ப்பை ஏற்றுக்கொள்வதில் மகிழ்ச்சி.",
+  "synonyms": [
+   "agree to",
+   "take"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "joining",
+  "tamil": "பணியில் சேர்தல்",
+  "pos": "noun",
+  "pron": "JOY-ning",
+  "example": "Your joining date is the first of next month.",
+  "exampleTamil": "உங்கள் பணியில் சேரும் தேதி அடுத்த மாதம் முதல் நாள்.",
+  "synonyms": [
+   "starting",
+   "enrolment"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "onboarding",
+  "tamil": "புதிய பணியாளர் அறிமுகம்",
+  "pos": "noun",
+  "pron": "ON-bor-ding",
+  "example": "Onboarding takes place during the first week.",
+  "exampleTamil": "புதிய பணியாளர் அறிமுகம் முதல் வாரத்தில் நடக்கும்.",
+  "synonyms": [
+   "induction",
+   "orientation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "induction",
+  "tamil": "தொடக்க அறிமுகப் பயிற்சி",
+  "pos": "noun",
+  "pron": "in-DUK-shun",
+  "example": "There is a half-day induction for all new employees.",
+  "exampleTamil": "புதிய ஊழியர்கள் அனைவருக்கும் அரை நாள் அறிமுகப் பயிற்சி உண்டு.",
+  "synonyms": [
+   "orientation",
+   "introduction"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "probation",
+  "tamil": "தகுதிகாண் காலம்",
+  "pos": "noun",
+  "pron": "pruh-BAY-shun",
+  "example": "The probation period is six months.",
+  "exampleTamil": "தகுதிகாண் காலம் ஆறு மாதங்கள்.",
+  "synonyms": [
+   "trial period",
+   "test period"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "permanent",
+  "tamil": "நிரந்தர",
+  "pos": "adjective",
+  "pron": "PER-muh-nunt",
+  "example": "They offered me a permanent position.",
+  "exampleTamil": "அவர்கள் எனக்கு நிரந்தரப் பணியை வழங்கினர்.",
+  "synonyms": [
+   "lasting",
+   "fixed"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "temporary",
+  "tamil": "தற்காலிக",
+  "pos": "adjective",
+  "pron": "TEM-puh-rer-ee",
+  "example": "It is a temporary role for three months.",
+  "exampleTamil": "இது மூன்று மாதத் தற்காலிகப் பணி.",
+  "synonyms": [
+   "short-term",
+   "interim"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "contract",
+  "tamil": "ஒப்பந்தம்",
+  "pos": "noun",
+  "pron": "KON-trakt",
+  "example": "Read your employment contract carefully before signing.",
+  "exampleTamil": "கையெழுத்திடுவதற்கு முன் உங்கள் வேலை ஒப்பந்தத்தைக் கவனமாகப் படியுங்கள்.",
+  "synonyms": [
+   "agreement",
+   "deal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "freelance",
+  "tamil": "சுயதொழில் ஒப்பந்தப் பணி",
+  "pos": "adjective",
+  "pron": "FREE-lans",
+  "example": "He works as a freelance designer from home.",
+  "exampleTamil": "அவர் வீட்டிலிருந்து சுயதொழில் வடிவமைப்பாளராகப் பணிபுரிகிறார்.",
+  "synonyms": [
+   "self-employed",
+   "independent"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "relocate",
+  "tamil": "இடம் மாறு",
+  "pos": "verb",
+  "pron": "ree-loh-KAYT",
+  "example": "Are you willing to relocate to Bengaluru?",
+  "exampleTamil": "பெங்களூருக்கு இடம் மாற நீங்கள் தயாரா?",
+  "synonyms": [
+   "move",
+   "transfer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "relocation",
+  "tamil": "இடமாற்றம்",
+  "pos": "noun",
+  "pron": "ree-loh-KAY-shun",
+  "example": "The company covers relocation costs.",
+  "exampleTamil": "நிறுவனம் இடமாற்றச் செலவுகளை ஏற்கிறது.",
+  "synonyms": [
+   "move",
+   "transfer"
+  ],
+  "level": "intermediate"
+ }
+]

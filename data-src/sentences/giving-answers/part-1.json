@@ -1,0 +1,375 @@
+[
+ {
+  "en": "Yes, I have finished the report.",
+  "tamil": "ஆமா, நான் ரிப்போர்ட்டை முடிச்சுட்டேன்.",
+  "context": "Answering your manager about a report.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "A short yes answer plus the present perfect shows the work is complete now.",
+  "words": [
+   "finished",
+   "report"
+  ],
+  "usage": "Use it when a manager asks if your work is done.",
+  "leelaQ": "Have you completed your work for today?",
+  "answer": "Yes, I have completed everything for today."
+ },
+ {
+  "en": "Do you want me to explain it in detail?",
+  "tamil": "நான் விவரமா விளக்கணுமா?",
+  "context": "Offering more information after a short answer.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you want me to ...?' offers more help after you give a short answer.",
+  "words": [
+   "explain",
+   "detail"
+  ],
+  "usage": "Use it after a short answer to a colleague or student.",
+  "leelaQ": "What would you say if a friend wants a longer explanation?",
+  "answer": "Do you want me to explain it step by step?"
+ },
+ {
+  "en": "I think the meeting is at four o'clock.",
+  "tamil": "மீட்டிங் நாலு மணிக்குன்னு நினைக்கிறேன்.",
+  "context": "Answering when you are fairly sure of a time.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'I think' makes the answer softer when you are not one hundred percent sure.",
+  "words": [
+   "think",
+   "meeting"
+  ],
+  "usage": "Use it when a colleague asks a time and you are not fully sure.",
+  "leelaQ": "Do you know what time the meeting starts?",
+  "answer": "I think it starts at four o'clock."
+ },
+ {
+  "en": "Please give me a minute to think about this.",
+  "tamil": "கொஞ்சம் யோசிக்க ஒரு நிமிஷம் குடுங்க.",
+  "context": "Asking for thinking time before answering.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please give me a minute' is a polite way to get time to think.",
+  "words": [
+   "minute",
+   "think"
+  ],
+  "usage": "Use it in an interview or meeting when you need a moment.",
+  "leelaQ": "What do you say if you need time before answering?",
+  "answer": "I say, please give me a minute to think."
+ },
+ {
+  "en": "My weekend was really nice, thank you for asking.",
+  "tamil": "என் வீக்எண்டு ரொம்ப நல்லா இருந்துச்சு, கேட்டதுக்கு நன்றி.",
+  "context": "Replying when a friend asks about your weekend.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Use past tense for finished time like the weekend. 'Thank you for asking' is polite.",
+  "words": [
+   "weekend",
+   "asking"
+  ],
+  "usage": "Use it on Monday morning when a friend or colleague asks about your weekend.",
+  "leelaQ": "How was your weekend?",
+  "answer": "My weekend was great, I visited my relatives."
+ },
+ {
+  "en": "Maybe I will come, but I cannot promise.",
+  "tamil": "ஒருவேளை வருவேன், ஆனா உறுதியா சொல்ல முடியாது.",
+  "context": "Answering an invitation when you are not sure.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Maybe' shows you are unsure. 'I cannot promise' keeps the answer honest and polite.",
+  "words": [
+   "maybe",
+   "promise"
+  ],
+  "usage": "Use it when a friend invites you and your plan is not final.",
+  "leelaQ": "Will you come to the function on Sunday?",
+  "answer": "Maybe I will come, if I finish my work early."
+ },
+ {
+  "en": "I work as an accountant in a small company.",
+  "tamil": "நான் ஒரு சின்ன கம்பெனியில அக்கவுண்டன்டா வேலை பார்க்கிறேன்.",
+  "context": "Telling a new person about your job.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Work as' tells your job role. Use present simple for your regular job.",
+  "words": [
+   "accountant",
+   "company"
+  ],
+  "usage": "Use it when someone you meet asks what you do for a living.",
+  "leelaQ": "What do you do for a living?",
+  "answer": "I work as a teacher in a private school."
+ },
+ {
+  "en": "Is that okay with you?",
+  "tamil": "அது உங்களுக்கு ஓகேவா?",
+  "context": "Checking if your answer is acceptable.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A simple way to check if the other person agrees with your answer.",
+  "words": [
+   "okay"
+  ],
+  "usage": "Use it after giving a time, price or plan to see if the person agrees.",
+  "leelaQ": "How do you check if the other person agrees with your plan?",
+  "answer": "I ask, is that okay with you?"
+ },
+ {
+  "en": "Yes, the train was late by almost an hour.",
+  "tamil": "ஆமா, ட்ரெயின் கிட்டத்தட்ட ஒரு மணி நேரம் லேட்டா வந்துச்சு.",
+  "context": "Explaining why you reached late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Start with Yes, then give the detail. 'By' shows how much late.",
+  "words": [
+   "train",
+   "almost"
+  ],
+  "usage": "Use it when someone asks if the train was late and you want to give the reason.",
+  "leelaQ": "Why did you reach the office so late today?",
+  "answer": "The bus broke down, so I came by auto."
+ },
+ {
+  "en": "I usually wake up at six and walk for half an hour.",
+  "tamil": "நான் பொதுவா ஆறு மணிக்கு எழுந்து வாக்கிங் போவேன்.",
+  "context": "Describing your morning habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Usually' with present simple talks about regular habits.",
+  "words": [
+   "usually",
+   "walk"
+  ],
+  "usage": "Use it when someone asks about your daily routine or health habits.",
+  "leelaQ": "What time do you wake up, and what do you do first?",
+  "answer": "I wake up at six and drink a glass of water."
+ },
+ {
+  "en": "I am a bit tired today because I slept late.",
+  "tamil": "நேத்து லேட்டா தூங்குனதால இன்னைக்கு கொஞ்சம் டயர்டா இருக்கேன்.",
+  "context": "Answering when a friend asks if you are fine.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Because' gives the reason. 'A bit' means a little.",
+  "words": [
+   "tired",
+   "because"
+  ],
+  "usage": "Use it with a friend who says you look tired.",
+  "leelaQ": "You look tired today. Are you fine?",
+  "answer": "I am fine, but I slept late last night."
+ },
+ {
+  "en": "Should I give a short answer or a full answer?",
+  "tamil": "நான் சுருக்கமா பதில் சொல்லணுமா, முழுசா சொல்லணுமா?",
+  "context": "Asking how much detail the listener wants.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Should I ... or ...?' lets the listener choose.",
+  "words": [
+   "short",
+   "full"
+  ],
+  "usage": "Use it in an interview or meeting when you are unsure how long to talk.",
+  "leelaQ": "What do you ask if you are unsure how long your answer should be?",
+  "answer": "I ask, should I give a short answer or a long one?"
+ },
+ {
+  "en": "Probably tomorrow, but I will confirm in the morning.",
+  "tamil": "ஒருவேளை நாளைக்கு, ஆனா காலையில உறுதியா சொல்றேன்.",
+  "context": "Giving an uncertain answer about a date.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Probably' means likely but not sure. 'Will confirm' promises a final answer later.",
+  "words": [
+   "probably",
+   "confirm"
+  ],
+  "usage": "Use it when a client or friend asks for a date and you need to check.",
+  "leelaQ": "When can you visit our new house?",
+  "answer": "Probably next Sunday, but I will confirm soon."
+ },
+ {
+  "en": "Let me think about it for a moment.",
+  "tamil": "நான் அதைப் பத்தி கொஞ்சம் யோசிக்கிறேன்.",
+  "context": "Taking a short pause.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Let me' asks for permission to do something. It sounds natural and calm.",
+  "words": [
+   "think",
+   "moment"
+  ],
+  "usage": "Use it when you are asked a hard question.",
+  "leelaQ": "What do you say before answering a difficult question?",
+  "answer": "Let me think for a moment."
+ },
+ {
+  "en": "Yes, I have been to Madurai twice.",
+  "tamil": "ஆமா, நான் மதுரைக்கு ரெண்டு தடவை போயிருக்கேன்.",
+  "context": "Answering about places you have visited.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have been to' talks about life experience without saying exactly when.",
+  "words": [
+   "madurai",
+   "twice"
+  ],
+  "usage": "Use it when someone asks if you have visited a city.",
+  "leelaQ": "Which famous places have you visited in Tamil Nadu?",
+  "answer": "I have visited Madurai, Ooty and Kanyakumari."
+ },
+ {
+  "en": "I am not sure, but I can find out for you.",
+  "tamil": "எனக்கு உறுதியா தெரியாது, ஆனா நான் கேட்டு சொல்றேன்.",
+  "context": "Giving an uncertain answer and offering help.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'I am not sure' is a safe uncertain answer. 'But I can find out' offers the next step.",
+  "words": [
+   "sure",
+   "find out"
+  ],
+  "usage": "Use it when you do not know the answer but want to help.",
+  "leelaQ": "Do you know when the bank closes today?",
+  "answer": "I am not sure, but I can check for you."
+ },
+ {
+  "en": "These days I am studying for my bank exam.",
+  "tamil": "இப்போ நான் பேங்க் எக்ஸாமுக்கு படிச்சுட்டு இருக்கேன்.",
+  "context": "Telling a friend what you are busy with.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous with 'these days' talks about a temporary busy period.",
+  "words": [
+   "studying",
+   "exam"
+  ],
+  "usage": "Use it when a friend asks why you are not free these days.",
+  "leelaQ": "What are you busy with these days?",
+  "answer": "I am preparing for an exam, so I study every evening."
+ },
+ {
+  "en": "Does that answer your question?",
+  "tamil": "அது உங்க கேள்விக்கு பதிலா இருக்கா?",
+  "context": "Checking after you answer someone.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A polite check after you answer. It gives the other person a chance to ask more.",
+  "words": [
+   "answer",
+   "question"
+  ],
+  "usage": "Use it after you explain something to a customer, student or friend.",
+  "leelaQ": "What do you say after you answer a customer's question?",
+  "answer": "I say, does that answer your question?"
+ },
+ {
+  "en": "My native place is a small village near Tirunelveli.",
+  "tamil": "என் சொந்த ஊர் திருநெல்வேலி பக்கத்துல ஒரு சின்ன கிராமம்.",
+  "context": "Telling someone where your family is from.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Native place' is very common in Indian English for your hometown.",
+  "words": [
+   "native",
+   "village"
+  ],
+  "usage": "Use it when a new colleague asks where you are from.",
+  "leelaQ": "Where is your native place?",
+  "answer": "My native place is a village near Salem."
+ },
+ {
+  "en": "I am from Coimbatore, but I grew up in Bangalore.",
+  "tamil": "நான் கோயம்புத்தூர், ஆனா வளர்ந்தது பெங்களூர்ல.",
+  "context": "Giving a two-part answer about your origin.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'But' joins two facts. Use past tense 'grew up' for your childhood.",
+  "words": [
+   "coimbatore",
+   "grew"
+  ],
+  "usage": "Use it when you meet someone and they ask where you belong.",
+  "leelaQ": "Where did you grow up?",
+  "answer": "I grew up in a small town near Madurai."
+ },
+ {
+  "en": "Yes, of course, I would be happy to help you.",
+  "tamil": "ஆமா, கண்டிப்பா, உங்களுக்கு உதவ நான் சந்தோஷப்படுவேன்.",
+  "context": "Agreeing warmly when someone asks for help.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Would be happy to' is a polite and warm way to say yes.",
+  "words": [
+   "happy",
+   "help"
+  ],
+  "usage": "Use it when a colleague or neighbour asks for your help.",
+  "leelaQ": "Can you help me with my laptop problem?",
+  "answer": "Yes, of course, I would be happy to help you."
+ },
+ {
+  "en": "Why do you ask?",
+  "tamil": "ஏன் கேக்குறீங்க?",
+  "context": "Asking the reason behind a question.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A short, friendly question to know why someone asked you something.",
+  "words": [
+   "ask"
+  ],
+  "usage": "Use it with a friend when you want to know why they are asking.",
+  "leelaQ": "How do you respond when someone asks a surprising question?",
+  "answer": "I say, why do you ask?"
+ },
+ {
+  "en": "I have two brothers and one younger sister.",
+  "tamil": "எனக்கு ரெண்டு அண்ணன் தம்பிங்க, ஒரு தங்கச்சி இருக்காங்க.",
+  "context": "Answering about your family size.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Have' is used for family members. 'Younger' tells the age order.",
+  "words": [
+   "brothers",
+   "sister"
+  ],
+  "usage": "Use it when someone asks how many siblings you have.",
+  "leelaQ": "How many brothers and sisters do you have?",
+  "answer": "I have one brother and one sister."
+ },
+ {
+  "en": "Please ask me the question once more.",
+  "tamil": "தயவு செஞ்சு அந்தக் கேள்வியை இன்னொரு தடவை கேளுங்க.",
+  "context": "Asking for the question again.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Once more' means one more time. 'Please' keeps it polite.",
+  "words": [
+   "question",
+   "once more"
+  ],
+  "usage": "Use it when you could not hear the question properly.",
+  "leelaQ": "What do you say if you missed a question?",
+  "answer": "I say, please ask me the question once more."
+ },
+ {
+  "en": "I came here by bus because the traffic is heavy.",
+  "tamil": "டிராஃபிக் அதிகமா இருக்குறதால நான் பஸ்ல வந்தேன்.",
+  "context": "Explaining how you travelled.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Use past tense for the trip and present for the traffic that is still true.",
+  "words": [
+   "traffic",
+   "heavy"
+  ],
+  "usage": "Use it when a friend asks how you came and why not by bike.",
+  "leelaQ": "How did you come to the office today?",
+  "answer": "I came by metro because it is faster."
+ }
+]

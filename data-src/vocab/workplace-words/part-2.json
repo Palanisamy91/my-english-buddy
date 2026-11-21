@@ -1,0 +1,352 @@
+[
+  {
+    "word": "cafeteria",
+    "meaning": "A place in the office where you can buy or eat food.",
+    "tamil": "அலுவலக உணவகம்",
+    "pos": "noun",
+    "pron": "kaf-ih-TEER-ee-uh",
+    "example": "Let's meet in the cafeteria for a quick tea.",
+    "exampleTamil": "ஒரு சின்ன டீ குடிக்க கேண்டீன்ல சந்திக்கலாம்.",
+    "synonyms": [
+      "canteen",
+      "food court"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "cabin",
+    "meaning": "A small private room for a senior person in an office.",
+    "tamil": "அலுவலகத்தில் மேலதிகாரியின் தனி அறை",
+    "pos": "noun",
+    "pron": "KAB-in",
+    "example": "The manager called me to his cabin this morning.",
+    "exampleTamil": "இன்னைக்கு காலையில மேனேஜர் என்னை அவரோட கேபினுக்கு கூப்பிட்டார்.",
+    "synonyms": [
+      "private room",
+      "office room"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "screen share",
+    "meaning": "Showing your computer screen to others during an online call.",
+    "tamil": "ஆன்லைன் காலில் உங்கள் திரையை மற்றவர்களுக்குக் காட்டுதல்",
+    "pos": "phrase",
+    "pron": "SKREEN shair",
+    "example": "Can you do a screen share so we can see the file?",
+    "exampleTamil": "நாங்க ஃபைலைப் பார்க்கிற மாதிரி ஸ்கிரீன் ஷேர் பண்ண முடியுமா?",
+    "synonyms": [
+      "share screen",
+      "present screen"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "action plan",
+    "meaning": "A list of steps that you will take to reach a goal.",
+    "tamil": "இலக்கை அடைய எடுக்க வேண்டிய படிகளின் திட்டம்",
+    "pos": "noun",
+    "pron": "AK-shun plan",
+    "example": "Let's make an action plan before the next meeting.",
+    "exampleTamil": "அடுத்த மீட்டிங்குக்கு முன்னாடி ஒரு செயல் திட்டம் போடலாம்.",
+    "synonyms": [
+      "step-by-step plan",
+      "strategy"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "go live",
+    "meaning": "To start working for real users after testing.",
+    "tamil": "சோதனைக்குப் பிறகு உண்மையான பயன்பாட்டுக்கு வருதல்",
+    "pos": "phrasal verb",
+    "pron": "goh LYVE",
+    "example": "The new website will go live next Monday.",
+    "exampleTamil": "புது வெப்சைட் அடுத்த திங்கட்கிழமை லைவ் ஆகும்.",
+    "synonyms": [
+      "launch",
+      "start running"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "quarter",
+    "meaning": "A period of three months in a business year.",
+    "tamil": "வணிக ஆண்டின் மூன்று மாத காலம்",
+    "pos": "noun",
+    "pron": "KWOR-ter",
+    "example": "Sales were really good in the last quarter.",
+    "exampleTamil": "கடந்த காலாண்டுல விற்பனை ரொம்ப நல்லா இருந்தது.",
+    "synonyms": [
+      "three months",
+      "term"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "networking",
+    "meaning": "Meeting people in your field to build useful contacts.",
+    "tamil": "தொழில் தொடர்புகளை உருவாக்க மக்களைச் சந்தித்தல்",
+    "pos": "noun",
+    "pron": "NET-wur-king",
+    "example": "Networking helped me find my current job.",
+    "exampleTamil": "நெட்வொர்க்கிங்தான் எனக்கு இப்போதைய வேலையைக் கண்டுபிடிக்க உதவுச்சு.",
+    "synonyms": [
+      "making contacts",
+      "connecting"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "skillset",
+    "meaning": "All the skills and abilities a person has.",
+    "tamil": "ஒருவருக்கு இருக்கும் திறன்களின் தொகுப்பு",
+    "pos": "noun",
+    "pron": "SKIL-set",
+    "example": "Learning Excel will improve your skillset a lot.",
+    "exampleTamil": "எக்செல் கத்துக்கிட்டா உங்க திறமைகள் ரொம்ப வளரும்.",
+    "synonyms": [
+      "abilities",
+      "skills"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "veteran",
+    "meaning": "A person with many years of experience in a job.",
+    "tamil": "ஒரு துறையில் பல ஆண்டு அனுபவம் உள்ளவர்",
+    "pos": "noun",
+    "pron": "VET-er-un",
+    "example": "Ask Mr. Raman, he is a veteran in accounts.",
+    "exampleTamil": "ராமன் சார்கிட்ட கேளுங்க, அவர் அக்கவுண்ட்ஸ்ல ரொம்ப அனுபவசாலி.",
+    "synonyms": [
+      "expert",
+      "old hand"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "junior",
+    "meaning": "A person with a lower position or less experience.",
+    "tamil": "பதவியிலோ அனுபவத்திலோ கீழ்நிலையில் இருப்பவர்",
+    "pos": "noun",
+    "pron": "JOON-yer",
+    "example": "I will ask my junior to prepare the slides.",
+    "exampleTamil": "ஸ்லைடுகளைத் தயார் பண்ண என் ஜூனியரிடம் சொல்றேன்.",
+    "synonyms": [
+      "newcomer",
+      "subordinate staff"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "senior",
+    "meaning": "A person with a higher position or more experience.",
+    "tamil": "பதவியிலோ அனுபவத்திலோ மேல்நிலையில் இருப்பவர்",
+    "pos": "noun",
+    "pron": "SEEN-yer",
+    "example": "Please show this mail to a senior before sending.",
+    "exampleTamil": "அனுப்புறதுக்கு முன்னாடி இந்த மெயிலை ஒரு சீனியர்கிட்ட காட்டுங்க.",
+    "synonyms": [
+      "elder colleague",
+      "superior"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "part-time",
+    "meaning": "Working only some hours or days, not the full week.",
+    "tamil": "முழு நேரம் அல்லாமல் சில மணி நேரம் மட்டும் செய்யும் வேலை",
+    "pos": "adjective",
+    "pron": "PART-tyme",
+    "example": "She does a part-time job after her college classes.",
+    "exampleTamil": "அவ காலேஜ் முடிஞ்சதும் பார்ட்-டைம் வேலை பண்றா.",
+    "synonyms": [
+      "half-day",
+      "limited hours"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "full-time",
+    "meaning": "Working the normal complete hours of a job.",
+    "tamil": "முழு நேர வேலை",
+    "pos": "adjective",
+    "pron": "FUL-tyme",
+    "example": "They offered me a full-time position after the internship.",
+    "exampleTamil": "இன்டர்ன்ஷிப் முடிஞ்சதும் எனக்கு முழு நேர வேலை கொடுத்தாங்க.",
+    "synonyms": [
+      "permanent",
+      "regular"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "rota",
+    "meaning": "A list that shows whose turn it is to do a duty or shift.",
+    "tamil": "யார் எப்போ பணி செய்யணும்னு காட்டும் பட்டியல்",
+    "pos": "noun",
+    "pron": "ROH-tuh",
+    "example": "Check the rota to see who is working on Saturday.",
+    "exampleTamil": "சனிக்கிழமை யார் வேலை செய்யணும்னு ரோட்டாவைப் பாருங்க.",
+    "synonyms": [
+      "schedule",
+      "duty list"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "opening",
+    "meaning": "A job that is free and open to apply for.",
+    "tamil": "விண்ணப்பிக்கக்கூடிய காலிப் பணியிடம்",
+    "pos": "noun",
+    "pron": "OH-pun-ing",
+    "example": "There is an opening in our design team.",
+    "exampleTamil": "எங்க டிசைன் டீம்ல ஒரு காலிப் பணியிடம் இருக்கு.",
+    "synonyms": [
+      "vacancy",
+      "position"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "role",
+    "meaning": "The job or part that a person has in a team.",
+    "tamil": "ஒருவரின் வேலை அல்லது பங்கு",
+    "pos": "noun",
+    "pron": "ROHL",
+    "example": "What is your exact role in this project?",
+    "exampleTamil": "இந்த ப்ராஜெக்ட்ல உங்க சரியான பங்கு என்ன?",
+    "synonyms": [
+      "position",
+      "part"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "output",
+    "meaning": "The amount of work or things that someone produces.",
+    "tamil": "ஒருவர் உருவாக்கும் வேலை அல்லது பொருளின் அளவு",
+    "pos": "noun",
+    "pron": "OUT-put",
+    "example": "Her output has doubled since she changed her desk.",
+    "exampleTamil": "அவ டெஸ்க்கை மாத்தினதுல இருந்து அவளோட வேலை அளவு ரெட்டிப்பு ஆயிடுச்சு.",
+    "synonyms": [
+      "production",
+      "results"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "collaboration",
+    "meaning": "Working together with other people on the same task.",
+    "tamil": "ஒரே வேலையில் மற்றவர்களுடன் சேர்ந்து பணியாற்றுதல்",
+    "pos": "noun",
+    "pron": "kuh-lab-uh-RAY-shun",
+    "example": "This project needs good collaboration between both teams.",
+    "exampleTamil": "இந்த ப்ராஜெக்ட்டுக்கு ரெண்டு டீமுக்கும் இடையில நல்ல ஒத்துழைப்பு வேணும்.",
+    "synonyms": [
+      "teamwork",
+      "cooperation"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "coordination",
+    "meaning": "Organizing people so that they work well together.",
+    "tamil": "மக்கள் சேர்ந்து சிறப்பாக வேலை செய்யும்படி ஒருங்கிணைத்தல்",
+    "pos": "noun",
+    "pron": "koh-or-dih-NAY-shun",
+    "example": "Poor coordination caused the delay in delivery.",
+    "exampleTamil": "சரியான ஒருங்கிணைப்பு இல்லாததால டெலிவரி தாமதமாச்சு.",
+    "synonyms": [
+      "organizing",
+      "synchronization"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "assistant",
+    "meaning": "A person who helps someone senior with their work.",
+    "tamil": "மேலதிகாரிக்கு வேலையில் உதவுபவர்",
+    "pos": "noun",
+    "pron": "uh-SIS-tunt",
+    "example": "My assistant will send you the file in ten minutes.",
+    "exampleTamil": "என் உதவியாளர் பத்து நிமிஷத்துல உங்களுக்கு ஃபைலை அனுப்புவார்.",
+    "synonyms": [
+      "helper",
+      "aide"
+    ],
+    "level": "beginner"
+  },
+  {
+    "word": "peon",
+    "meaning": "An office worker who does small jobs like carrying files and serving tea.",
+    "tamil": "அலுவலகத்தில் கோப்புகள், டீ கொண்டு வரும் உதவிப் பணியாளர்",
+    "pos": "noun",
+    "pron": "PEE-on",
+    "example": "Please ask the peon to bring these files to my desk.",
+    "exampleTamil": "இந்த ஃபைல்களை என் டெஸ்க்குக்கு கொண்டு வரச் சொல்லி பியூனிடம் சொல்லுங்க.",
+    "synonyms": [
+      "office boy",
+      "attendant"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "founder",
+    "meaning": "A person who starts a company.",
+    "tamil": "நிறுவனத்தைத் தொடங்கியவர்",
+    "pos": "noun",
+    "pron": "FOWN-der",
+    "example": "The founder himself joined our team meeting today.",
+    "exampleTamil": "நிறுவனர் இன்னைக்கு எங்க டீம் மீட்டிங்ல அவரே வந்து கலந்துகிட்டார்.",
+    "synonyms": [
+      "creator",
+      "owner"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "consultant",
+    "meaning": "An expert who is paid to give advice to a company.",
+    "tamil": "நிறுவனத்துக்கு கட்டணம் வாங்கி ஆலோசனை தரும் நிபுணர்",
+    "pos": "noun",
+    "pron": "kun-SUL-tunt",
+    "example": "We hired a consultant to fix our billing process.",
+    "exampleTamil": "எங்க பில்லிங் முறையை சரி பண்ண ஒரு ஆலோசகரை நியமிச்சோம்.",
+    "synonyms": [
+      "adviser",
+      "expert"
+    ],
+    "level": "advanced"
+  },
+  {
+    "word": "analyst",
+    "meaning": "A person whose job is to study data and explain what it means.",
+    "tamil": "தகவல்களை ஆராய்ந்து விளக்கும் நிபுணர்",
+    "pos": "noun",
+    "pron": "AN-uh-list",
+    "example": "My brother works as a data analyst in Bangalore.",
+    "exampleTamil": "என் தம்பி பெங்களூருல டேட்டா அனலிஸ்டா வேலை பாக்கறான்.",
+    "synonyms": [
+      "data expert",
+      "researcher"
+    ],
+    "level": "intermediate"
+  },
+  {
+    "word": "technician",
+    "meaning": "A person trained to repair or handle machines and equipment.",
+    "tamil": "இயந்திரங்களை பழுது பார்க்கும் பயிற்சி பெற்றவர்",
+    "pos": "noun",
+    "pron": "tek-NISH-un",
+    "example": "The technician came to repair the office printer.",
+    "exampleTamil": "ஆபீஸ் பிரிண்டரை சரி பண்ண டெக்னீஷியன் வந்தார்.",
+    "synonyms": [
+      "mechanic",
+      "repairman"
+    ],
+    "level": "intermediate"
+  }
+]

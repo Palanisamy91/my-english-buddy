@@ -1,0 +1,119 @@
+<section class="chat-page">
+  <header class="chat-head">
+    <a class="back" routerLink="/" aria-label="Back home"><app-icon name="chevron-left" [size]="22" /></a>
+    <img src="/images/leela.png" alt="Lela" class="head-avatar" />
+    <div class="head-title"><h1>Chat with Lela</h1><p>Text conversation · தமிழ் support</p></div>
+    <button class="head-action" type="button" (click)="newChat()" aria-label="Start new chat" title="New chat"><app-icon name="edit" [size]="21" /></button>
+    <button class="head-action" type="button" (click)="showHistory.set(!showHistory())" aria-label="Chat history" title="History"><app-icon name="history" [size]="21" /></button>
+  </header>
+
+  @if (lela.loadError()) {
+    <div class="error" role="alert">{{ lela.loadError() }} <button type="button" (click)="start()">Try again</button></div>
+  }
+  @if (lela.error()) { <div class="error" role="alert">{{ lela.error() }}</div> }
+
+  <section class="language-picker" aria-label="Choose English practice mode">
+    <button type="button" [class.active]="practiceLanguage() === 'english'" (click)="chooseLanguage('english')">English → English <small>Natural conversation</small></button>
+    <button type="button" [class.active]="practiceLanguage() === 'tamil'" (click)="chooseLanguage('tamil')">தமிழ் → English <small>Translate and get corrections</small></button>
+    <button type="button" class="tense-mode" [class.active]="practiceLanguage() === 'tenses'" (click)="chooseLanguage('tenses')">Tenses <small>12 tenses · English + தமிழ்</small></button>
+  </section>
+  @if (practiceLanguage() === 'tamil') {
+    <section class="translation-topic"><label for="translation-topic">Choose a topic</label><select id="translation-topic" [value]="translationTopic()" (change)="startTranslationPractice($any($event.target).value)">@for (topic of translationTopics; track topic) { <option [value]="topic">{{ topic }}</option> }</select></section>
+  }
+  @if (practiceLanguage() === 'tenses') {
+    <section class="tense-controls">
+      <label for="tense-select">Choose a tense</label>
+      <select id="tense-select" [value]="selectedTense()" (change)="selectTense($any($event.target).value)">
+        @for (tense of tenses; track tense.id) { <option [value]="tense.id">{{ tense.name }}</option> }
+      </select>
+      <div class="tense-directions">
+        <button type="button" [class.active]="tenseDirection() === 'tamil'" (click)="selectTenseDirection('tamil')">தமிழ் → English</button>
+        <button type="button" [class.active]="tenseDirection() === 'english'" (click)="selectTenseDirection('english')">English → தமிழ்</button>
+      </div>
+      <p>{{ selectedTenseInfo.formula }}</p>
+      <details class="tense-wordbank"><summary>1500-word practice bank ({{ tenseWords().length }} words)</summary>
+        <input aria-label="Search practice words" placeholder="Search English or Tamil word" [ngModel]="tenseWordSearch()" (ngModelChange)="tenseWordSearch.set($event)" />
+        <div class="wordbank-list">@for (word of filteredTenseWords; track word.id) { <span><b>{{ word.word }}</b> — {{ word.tamil }}</span> }</div>
+      </details>
+    </section>
+  }
+  @if (practiceLanguage() === 'english' && lela.messages().length <= 1 && !showHistory()) {
+    <section class="practice-picker" aria-label="Choose a conversation practice">
+      <div class="practice-heading"><div><strong>What would you like to practise?</strong><small>Choose a real-life conversation with Lela</small></div><span>✨</span></div>
+      <div class="practice-modes">
+        @for (mode of practiceModes; track mode.id) {
+          <button type="button" class="practice-chip" [class.selected]="lela.modeId() === mode.id" (click)="newChat(mode.id)" [attr.aria-pressed]="lela.modeId() === mode.id">
+            <span class="practice-icon">{{ mode.icon }}</span><span><b>{{ mode.label }}</b><small>{{ mode.hint }}</small></span>
+          </button>
+        }
+      </div>
+      <div class="prompt-title">Try saying</div>
+      <div class="quick-prompts">
+        @for (prompt of quickPrompts; track prompt) {
+          <button type="button" (click)="choosePrompt(prompt)">{{ prompt }} <span>↗</span></button>
+        }
+      </div>
+    </section>
+  }
+
+  @if (showHistory()) {
+    <section class="history-panel">
+      <div class="history-title"><b>Chat history</b><button type="button" (click)="showHistory.set(false)">Close</button></div>
+      @if (lela.textHistory().length === 0) { <p>No saved text chats yet. Start a new chat to save the current conversation.</p> }
+      @for (entry of lela.textHistory(); track entry.id) {
+        <div class="history-entry"><div><b>{{ entry.messages[0]?.text || 'English practice chat' }}</b><small>{{ entry.date | date:'medium' }} · {{ entry.messages.length }} messages</small></div></div>
+      }
+      <button type="button" class="clear-history" (click)="lela.clearTextHistory()">Clear chat history</button>
+    </section>
+  }
+
+  <main class="messages" #scrollBox aria-label="Chat messages">
+    @if (practiceLanguage() === 'tenses') {
+      @for (m of tenseMessages(); track m.id) {
+        <article class="message-row" [class.lela-row]="m.from === 'lela'" [class.user-row]="m.from === 'user'">
+          @if (m.from === 'lela') { <img class="message-avatar" src="/images/leela.png" alt="Lela" /> }
+          <div class="message-content"><span class="sender">{{ m.from === 'lela' ? 'Lela' : 'You' }}</span><div class="bubble" [class.lela-bubble]="m.from === 'lela'" [class.user-bubble]="m.from === 'user'"><p>{{ m.text }}</p></div></div>
+        </article>
+      }
+      @if (tenseMessages().length > 1) { <button type="button" class="next-tense" (click)="nextTenseQuestion()">Next sentence →</button> }
+    } @else if (practiceLanguage() === 'tamil') {
+      @for (m of translationMessages(); track m.id) {
+        <article class="message-row" [class.lela-row]="m.from === 'lela'" [class.user-row]="m.from === 'user'">
+          @if (m.from === 'lela') { <img class="message-avatar" src="/images/leela.png" alt="Lela" /> }
+          <div class="message-content"><span class="sender">{{ m.from === 'lela' ? 'Lela' : 'You' }}</span><div class="bubble" [class.lela-bubble]="m.from === 'lela'" [class.user-bubble]="m.from === 'user'"><p>{{ m.text }}</p></div></div>
+        </article>
+      }
+    } @else {
+    @for (m of lela.messages(); track m.id) {
+      @if (m.from === 'lela') {
+        <article class="message-row lela-row">
+          <img class="message-avatar" src="/images/leela.png" alt="Lela" />
+          <div class="message-content"><span class="sender">Lela</span>
+            <div class="bubble lela-bubble"><p>{{ m.text }}</p>
+              @if (m.correction; as c) {
+                <div class="correction"><b>Original sentence</b><p class="original">{{ c.original }}</p><b>Corrected sentence</b><p class="corrected">{{ c.corrected }}</p>
+                  @for (e of c.explanations; track $index) { <div class="explanation"><p>{{ e.english }}</p><p lang="ta">{{ e.tamil }}</p></div> }
+                </div>
+              }
+              @if (lela.showTamil() && m.tamil) { <p class="tamil" lang="ta">{{ m.tamil }}</p> }
+              @if (m.example) { <details><summary>Show an example answer</summary><p>{{ m.example }}</p></details> }
+            </div>
+          </div>
+        </article>
+      } @else {
+        <article class="message-row user-row"><div class="message-content"><span class="sender">You</span><div class="bubble user-bubble"><p>{{ m.text }}</p></div></div></article>
+      }
+    }
+    @if (lela.phase() === 'thinking' && practiceLanguage() === 'english') { <div class="typing" role="status"><img src="/images/leela.png" alt="" /><span>Lela is typing…</span><i></i><i></i><i></i></div> }
+    }
+  </main>
+
+  <footer class="composer-wrap">
+    <p class="text-only-note"><app-icon name="edit" [size]="15" /> {{ practiceLanguage() === 'tamil' || practiceLanguage() === 'tenses' ? 'Type your answer below. Lela will explain the tense in Tamil and English.' : 'Text only — microphone and voice playback are disabled in this screen.' }}</p>
+    <form class="composer" (ngSubmit)="send()">
+      <textarea name="message" [ngModel]="draft()" (ngModelChange)="draft.set($event)" (keydown)="onComposerKeydown($event)" rows="1" [placeholder]="practiceLanguage() === 'tamil' || (practiceLanguage() === 'tenses' && tenseDirection() === 'tamil') ? 'Type your English answer…' : practiceLanguage() === 'tenses' ? 'Type the Tamil meaning…' : 'Type your message to Lela…'" aria-label="Your message"></textarea>
+      <button type="submit" [disabled]="!draft().trim() || (practiceLanguage() === 'english' && lela.phase() === 'thinking')" aria-label="Send message"><app-icon name="send" [size]="21" /></button>
+    </form>
+    <p class="composer-hint">{{ practiceLanguage() === 'tamil' ? 'Translate the Tamil sentence into English. Lela will correct your answer.' : practiceLanguage() === 'tenses' ? 'Practise the selected tense. You can switch between Tamil → English and English → Tamil.' : 'Write naturally. Lela will keep the conversation going and help you improve.' }}</p>
+  </footer>
+</section>

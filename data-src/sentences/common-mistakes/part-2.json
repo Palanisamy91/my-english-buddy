@@ -1,0 +1,243 @@
+[
+ {
+  "en": "She passed the exam last year.",
+  "tamil": "அவ போன வருஷம் தேர்வுல பாஸ் ஆனா.",
+  "context": "Talking about results.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Use past simple with 'last year'. Do not say 'she has passed last year'.",
+  "words": [
+   "passed",
+   "exam"
+  ]
+ },
+ {
+  "en": "He is senior to me.",
+  "tamil": "அவன் எனக்கு சீனியர்.",
+  "context": "Comparing positions at work.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Senior, junior and superior take 'to', not 'than'. Do not say 'senior than me'.",
+  "words": [
+   "senior"
+  ]
+ },
+ {
+  "en": "I am fed up with this traffic.",
+  "tamil": "இந்த டிராபிக்கால நான் ரொம்ப சலிச்சுப் போயிட்டேன்.",
+  "context": "Complaining about your daily commute.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "The phrase is 'fed up with' something. Do not say 'fed up of'.",
+  "words": [
+   "fed",
+   "traffic"
+  ]
+ },
+ {
+  "en": "She is interested in music.",
+  "tamil": "அவளுக்கு இசையில ஆர்வம் இருக்கு.",
+  "context": "Talking about hobbies.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use 'interested in'. Do not say 'interested on' or 'interested about'.",
+  "words": [
+   "interested",
+   "music"
+  ]
+ },
+ {
+  "en": "I am waiting for the bus.",
+  "tamil": "நான் பஸ்ஸுக்காக காத்துட்டு இருக்கேன்.",
+  "context": "Replying to a call from the bus stop.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Wait' needs 'for' before the thing you wait for. Do not leave out 'for'.",
+  "words": [
+   "waiting",
+   "bus"
+  ]
+ },
+ {
+  "en": "Could you lend me a pen?",
+  "tamil": "உங்க பேனாவை எனக்கு கொஞ்சம் கடன் கொடுக்கறீங்களா?",
+  "context": "Asking someone for a small favour.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "The giver 'lends' and you 'borrow'. Do not say 'borrow me a pen'.",
+  "words": [
+   "lend",
+   "pen"
+  ],
+  "alt": {
+   "en": "Can I borrow your pen?",
+   "tamil": "உங்க பேனாவை நான் வாங்கிக்கலாமா?"
+  }
+ },
+ {
+  "en": "I enjoyed the movie very much.",
+  "tamil": "நான் அந்த படத்தை ரொம்ப ரசிச்சேன்.",
+  "context": "Talking about a film you saw.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Enjoy' needs an object. Say 'enjoyed the movie' or 'enjoyed it', not just 'enjoyed'.",
+  "words": [
+   "enjoyed",
+   "movie"
+  ]
+ },
+ {
+  "en": "My phone is not working properly.",
+  "tamil": "என் போன் சரியா வேலை செய்யல.",
+  "context": "Telling someone about a faulty phone.",
+  "tense": "present-continuous",
+  "type": "negative",
+  "explain": "Use 'is not working' or 'does not work'. 'Working' here means functioning.",
+  "words": [
+   "working",
+   "properly"
+  ]
+ },
+ {
+  "en": "How was your weekend trip?",
+  "tamil": "உன் வார இறுதி டிரிப் எப்படி இருந்துச்சு?",
+  "context": "Starting a chat on Monday.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Use past 'was' for a finished weekend. Do not say 'how is your weekend?'.",
+  "words": [
+   "weekend"
+  ]
+ },
+ {
+  "en": "I want to learn English.",
+  "tamil": "நான் ஆங்கிலம் கத்துக்கணும்னு ஆசைப்படறேன்.",
+  "context": "Sharing your goal.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Want' is followed by 'to' plus a verb. Do not say 'I want learn' or 'I want that I learn'.",
+  "words": [
+   "want",
+   "learn"
+  ]
+ },
+ {
+  "en": "He is a very honest person.",
+  "tamil": "அவன் ரொம்ப நேர்மையான ஆளு.",
+  "context": "Describing someone's character.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use 'a' before a singular noun. Honest starts with a vowel sound, so use 'an' only for the word itself.",
+  "words": [
+   "honest",
+   "person"
+  ]
+ },
+ {
+  "en": "I have two brothers and a sister.",
+  "tamil": "எனக்கு ரெண்டு அண்ணன் தம்பிங்களும் ஒரு தங்கச்சியும் இருக்காங்க.",
+  "context": "Talking about your family.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Use plural nouns after numbers (two brothers). Use 'a' with one sister.",
+  "words": [
+   "brothers",
+   "sister"
+  ]
+ },
+ {
+  "en": "Please reply to my message.",
+  "tamil": "தயவுசெய்து என் மெசேஜுக்கு பதில் சொல்லுங்க.",
+  "context": "Following up politely at work.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "The verb 'reply' needs 'to'. Do not say 'reply my message'.",
+  "words": [
+   "reply",
+   "message"
+  ]
+ },
+ {
+  "en": "We reached the hotel at night.",
+  "tamil": "நாங்க ராத்திரி ஹோட்டலுக்கு வந்து சேர்ந்தோம்.",
+  "context": "Telling about a trip.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Reach' does not need 'to'. Do not say 'reached to the hotel'.",
+  "words": [
+   "reached",
+   "hotel"
+  ]
+ },
+ {
+  "en": "She entered the room quietly.",
+  "tamil": "அவ சத்தம் இல்லாம அறைக்குள்ள வந்தா.",
+  "context": "Telling a story.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Enter' does not need 'into'. Say 'entered the room'.",
+  "words": [
+   "entered",
+   "quietly"
+  ]
+ },
+ {
+  "en": "He is much taller than me.",
+  "tamil": "அவன் என்னை விட ரொம்ப உயரம்.",
+  "context": "Comparing two people.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Do not say 'more taller'. Add -er to short adjectives and use 'much' for emphasis.",
+  "words": [
+   "taller",
+   "much"
+  ]
+ },
+ {
+  "en": "I will do it myself.",
+  "tamil": "நானே அதை பண்ணிக்கறேன்.",
+  "context": "Offering to handle a task alone.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "Use 'myself' to stress you do it alone. Do not say 'by myself only'.",
+  "words": [
+   "myself"
+  ]
+ },
+ {
+  "en": "Did you finish your homework?",
+  "tamil": "உன் ஹோம்வொர்க் முடிச்சிட்டியா?",
+  "context": "Asking a child or classmate.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Use 'did' plus the base verb. Do not say 'did you finished'.",
+  "words": [
+   "finish",
+   "homework"
+  ]
+ },
+ {
+  "en": "I have a headache, so I am going home early.",
+  "tamil": "எனக்கு தலைவலி, அதனால சீக்கிரம் வீட்டுக்கு போறேன்.",
+  "context": "Telling your manager you are leaving.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Say 'I have a headache'. Do not say 'I am having headache'. Use 'a' before headache.",
+  "words": [
+   "headache",
+   "early"
+  ]
+ },
+ {
+  "en": "I am not going to the party tomorrow.",
+  "tamil": "நான் நாளைக்கு பார்ட்டிக்கு போகப் போறதில்ல.",
+  "context": "Declining an invitation.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "Use 'going to' for plans. Add 'not' after 'am'. Do not say 'I am not go'.",
+  "words": [
+   "party",
+   "tomorrow"
+  ]
+ }
+]

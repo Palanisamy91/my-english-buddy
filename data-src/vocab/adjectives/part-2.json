@@ -1,0 +1,352 @@
+[
+ {
+  "word": "talkative",
+  "meaning": "Liking to talk a lot.",
+  "tamil": "அதிகம் பேசும்",
+  "pos": "adjective",
+  "pron": "TAW-kuh-tiv",
+  "example": "My cousin is so talkative that she never stops.",
+  "exampleTamil": "என் உறவுக்காரப் பொண்ணு ரொம்ப பேசுவா, நிறுத்தவே மாட்டா.",
+  "synonyms": [
+   "chatty",
+   "wordy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "selfish",
+  "meaning": "Caring only about yourself and not about others.",
+  "tamil": "சுயநலமான",
+  "pos": "adjective",
+  "pron": "SEL-fish",
+  "example": "Don't be selfish, share the sweets with everyone.",
+  "exampleTamil": "சுயநலமா இருக்காத, எல்லாரோடயும் இனிப்பைப் பகிர்ந்துக்கோ.",
+  "synonyms": [
+   "self-centred",
+   "greedy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "loyal",
+  "meaning": "Always supporting your friends, family or company.",
+  "tamil": "விசுவாசமான",
+  "pos": "adjective",
+  "pron": "LOY-ul",
+  "example": "He is a loyal friend who never leaves you alone.",
+  "exampleTamil": "அவன் உன்னைத் தனியா விடாத விசுவாசமான நண்பன்.",
+  "synonyms": [
+   "faithful",
+   "devoted"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sensible",
+  "meaning": "Having good sense; making wise choices.",
+  "tamil": "புத்திசாலித்தனமான, விவேகமான",
+  "pos": "adjective",
+  "pron": "SEN-suh-bul",
+  "example": "It is sensible to save some money every month.",
+  "exampleTamil": "ஒவ்வொரு மாசமும் கொஞ்சம் பணம் சேமிக்கிறது புத்திசாலித்தனம்.",
+  "synonyms": [
+   "wise",
+   "practical"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "childish",
+  "meaning": "Acting in a silly way, like a small child.",
+  "tamil": "குழந்தைத்தனமான",
+  "pos": "adjective",
+  "pron": "CHYL-dish",
+  "example": "Stop being childish and say sorry to her.",
+  "exampleTamil": "குழந்தைத்தனமா இருக்காம அவகிட்ட மன்னிப்பு கேளு.",
+  "synonyms": [
+   "immature",
+   "babyish"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dizzy",
+  "meaning": "Feeling that everything is turning around you.",
+  "tamil": "தலை சுற்றும்",
+  "pos": "adjective",
+  "pron": "DIZ-ee",
+  "example": "I felt dizzy after standing in the sun for an hour.",
+  "exampleTamil": "ஒரு மணி நேரம் வெயில்ல நின்னதால எனக்கு தலை சுத்துச்சு.",
+  "synonyms": [
+   "giddy",
+   "light-headed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sore",
+  "meaning": "Painful when touched or used.",
+  "tamil": "வலிக்கும், புண்ணான",
+  "pos": "adjective",
+  "pron": "SOR",
+  "example": "My legs are sore after the long walk.",
+  "exampleTamil": "நீண்ட நடைக்குப் பிறகு என் கால் வலிக்குது.",
+  "synonyms": [
+   "painful",
+   "aching"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "itchy",
+  "meaning": "Making you want to scratch your skin.",
+  "tamil": "அரிப்பான",
+  "pos": "adjective",
+  "pron": "ICH-ee",
+  "example": "This sweater feels itchy on my neck.",
+  "exampleTamil": "இந்த ஸ்வெட்டர் என் கழுத்துல அரிக்குது.",
+  "synonyms": [
+   "prickly",
+   "scratchy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "damp",
+  "meaning": "Slightly wet, often in an unpleasant way.",
+  "tamil": "ஈரமான, ஈரப்பதமான",
+  "pos": "adjective",
+  "pron": "DAMP",
+  "example": "The clothes are still damp because of the rain.",
+  "exampleTamil": "மழையால துணிகள் இன்னும் ஈரமா இருக்கு.",
+  "synonyms": [
+   "moist",
+   "clammy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "muggy",
+  "meaning": "Warm and wet in a way that feels uncomfortable.",
+  "tamil": "புழுக்கமான",
+  "pos": "adjective",
+  "pron": "MUG-ee",
+  "example": "Chennai gets muggy just before the rain.",
+  "exampleTamil": "மழைக்கு முன்னாடி சென்னையில புழுக்கமா இருக்கும்.",
+  "synonyms": [
+   "sticky",
+   "humid"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "stormy",
+  "meaning": "With strong wind, heavy rain and dark clouds.",
+  "tamil": "புயல் வீசும்",
+  "pos": "adjective",
+  "pron": "STOR-mee",
+  "example": "The sea was stormy, so the fishermen stayed home.",
+  "exampleTamil": "கடல் கொந்தளிப்பா இருந்ததால மீனவர்கள் வீட்டிலேயே இருந்தாங்க.",
+  "synonyms": [
+   "rough",
+   "wild"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pleasant",
+  "meaning": "Nice and enjoyable.",
+  "tamil": "இனிமையான",
+  "pos": "adjective",
+  "pron": "PLEZ-unt",
+  "example": "The evening was cool and pleasant.",
+  "exampleTamil": "அந்த மாலை குளிர்ச்சியா இனிமையா இருந்தது.",
+  "synonyms": [
+   "nice",
+   "lovely"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "annoying",
+  "meaning": "Making you feel a little angry or irritated.",
+  "tamil": "எரிச்சலூட்டும்",
+  "pos": "adjective",
+  "pron": "uh-NOY-ing",
+  "example": "The mosquitoes at night are so annoying.",
+  "exampleTamil": "இரவுல கொசுக்கள் ரொம்ப எரிச்சலா இருக்கு.",
+  "synonyms": [
+   "irritating",
+   "bothersome"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boring",
+  "meaning": "Not interesting; makes you feel tired of it.",
+  "tamil": "சலிப்பூட்டும்",
+  "pos": "adjective",
+  "pron": "BOR-ing",
+  "example": "The meeting was long and boring.",
+  "exampleTamil": "கூட்டம் நீளமாவும் சலிப்பாவும் இருந்தது.",
+  "synonyms": [
+   "dull",
+   "tedious"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sturdy",
+  "meaning": "Strong and well made; not easy to break.",
+  "tamil": "உறுதியான",
+  "pos": "adjective",
+  "pron": "STUR-dee",
+  "example": "This table is sturdy enough to hold a TV.",
+  "exampleTamil": "இந்த மேசை டிவியைத் தாங்கும் அளவுக்கு உறுதியா இருக்கு.",
+  "synonyms": [
+   "strong",
+   "solid"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "salty",
+  "meaning": "Having too much salt or tasting of salt.",
+  "tamil": "உப்பான",
+  "pos": "adjective",
+  "pron": "SAWL-tee",
+  "example": "The curry is a bit salty today.",
+  "exampleTamil": "இன்னிக்குக் குழம்பு கொஞ்சம் உப்பா இருக்கு.",
+  "synonyms": [
+   "briny",
+   "over-salted"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "greasy",
+  "meaning": "Full of oil or fat.",
+  "tamil": "எண்ணெய் பிசுபிசுப்பான",
+  "pos": "adjective",
+  "pron": "GREE-see",
+  "example": "I don't like greasy food late at night.",
+  "exampleTamil": "இரவு நேரத்துல எண்ணெய் அதிகமான சாப்பாடு எனக்குப் பிடிக்காது.",
+  "synonyms": [
+   "oily",
+   "fatty"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "slippery",
+  "meaning": "Smooth or wet so that you can easily slide and fall.",
+  "tamil": "வழுக்கும்",
+  "pos": "adjective",
+  "pron": "SLIP-uh-ree",
+  "example": "The floor is slippery, so walk slowly.",
+  "exampleTamil": "தரை வழுக்குது, மெதுவா நடங்க.",
+  "synonyms": [
+   "slick",
+   "greasy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sticky",
+  "meaning": "Able to stick to things; covered with something like glue.",
+  "tamil": "ஒட்டும் தன்மையுள்ள",
+  "pos": "adjective",
+  "pron": "STIK-ee",
+  "example": "My hands are sticky from the jackfruit.",
+  "exampleTamil": "பலாப்பழத்தால என் கை ஒட்டுது.",
+  "synonyms": [
+   "gluey",
+   "tacky"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shiny",
+  "meaning": "Bright and reflecting light.",
+  "tamil": "பளபளப்பான",
+  "pos": "adjective",
+  "pron": "SHY-nee",
+  "example": "She wore a shiny silk saree to the wedding.",
+  "exampleTamil": "அவ கல்யாணத்துக்குப் பளபளப்பான பட்டுப்புடவை கட்டியிருந்தா.",
+  "synonyms": [
+   "glossy",
+   "gleaming"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "harmless",
+  "meaning": "Not able to hurt anyone or cause damage.",
+  "tamil": "தீங்கற்ற",
+  "pos": "adjective",
+  "pron": "HARM-lis",
+  "example": "Don't be afraid, this little snake is harmless.",
+  "exampleTamil": "பயப்படாதே, இந்தச் சின்னப் பாம்பு தீங்கு செய்யாது.",
+  "synonyms": [
+   "safe",
+   "innocent"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cramped",
+  "meaning": "Too small, with not enough space to move.",
+  "tamil": "நெருக்கடியான",
+  "pos": "adjective",
+  "pron": "KRAMPT",
+  "example": "The train compartment was cramped and hot.",
+  "exampleTamil": "ரயில் பெட்டி நெருக்கடியாவும் சூடாவும் இருந்தது.",
+  "synonyms": [
+   "crowded",
+   "tight"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tiny",
+  "meaning": "Very small.",
+  "tamil": "சின்னஞ்சிறிய",
+  "pos": "adjective",
+  "pron": "TY-nee",
+  "example": "There was a tiny ant on my notebook.",
+  "exampleTamil": "என் நோட்டுப்புத்தகத்துல ஒரு சின்ன எறும்பு இருந்தது.",
+  "synonyms": [
+   "very small",
+   "little"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "huge",
+  "meaning": "Very big.",
+  "tamil": "மிகப் பெரிய",
+  "pos": "adjective",
+  "pron": "HYOOJ",
+  "example": "They have a huge garden behind the house.",
+  "exampleTamil": "அவங்க வீட்டுக்குப் பின்னாடி ஒரு பெரிய தோட்டம் இருக்கு.",
+  "synonyms": [
+   "enormous",
+   "giant"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "useless",
+  "meaning": "Not useful; having no good use.",
+  "tamil": "பயனற்ற",
+  "pos": "adjective",
+  "pron": "YOOS-lis",
+  "example": "This old charger is useless now.",
+  "exampleTamil": "இந்தப் பழைய சார்ஜர் இப்போ எதுக்கும் உதவாது.",
+  "synonyms": [
+   "worthless",
+   "pointless"
+  ],
+  "level": "beginner"
+ }
+]

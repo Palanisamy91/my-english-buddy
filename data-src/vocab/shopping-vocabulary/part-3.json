@@ -1,0 +1,338 @@
+[
+ {
+  "word": "jewellery",
+  "meaning": "Gold, silver or stone items worn for beauty.",
+  "tamil": "நகைகள்",
+  "pos": "noun",
+  "pron": "JOO-ul-ree",
+  "example": "She keeps her jewellery in a locker.",
+  "exampleTamil": "அவள் தன் நகைகளை ஒரு லாக்கரில் வைத்திருக்கிறாள்.",
+  "synonyms": [
+   "ornaments"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "packaging",
+  "meaning": "The box or cover that holds a product.",
+  "tamil": "பொருளைச் சுற்றும் பொதி",
+  "pos": "noun",
+  "pron": "PAK-ij-ing",
+  "example": "The packaging was torn when it arrived.",
+  "exampleTamil": "அது வந்தபோது பேக்கிங் கிழிந்திருந்தது.",
+  "synonyms": [
+   "wrapping",
+   "packing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shipping",
+  "meaning": "Sending goods to a buyer by road, air or sea.",
+  "tamil": "பொருட்களை அனுப்புதல்",
+  "pos": "noun",
+  "pron": "SHIP-ing",
+  "example": "Shipping is free for orders above five hundred rupees.",
+  "exampleTamil": "ஐநூறு ரூபாய்க்கு மேல் ஆர்டர்களுக்கு அனுப்பும் கட்டணம் இலவசம்.",
+  "synonyms": [
+   "dispatch",
+   "transport"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tracking",
+  "meaning": "Following where your parcel is on its way.",
+  "tamil": "பார்சல் எங்குள்ளது என்று கண்காணித்தல்",
+  "pos": "noun",
+  "pron": "TRAK-ing",
+  "example": "I am checking the tracking for my parcel.",
+  "exampleTamil": "என் பார்சலின் கண்காணிப்பை நான் பார்த்துக் கொண்டிருக்கிறேன்.",
+  "synonyms": [
+   "monitoring"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "showroom",
+  "meaning": "A big room where cars or furniture are shown for sale.",
+  "tamil": "பொருட்களைக் காட்சிப்படுத்தும் பெரிய அறை",
+  "pos": "noun",
+  "pron": "SHOH-room",
+  "example": "We visited the furniture showroom on Sunday.",
+  "exampleTamil": "நாங்கள் ஞாயிற்றுக்கிழமை தளபாடக் காட்சியகத்திற்குச் சென்றோம்.",
+  "synonyms": [
+   "display hall"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shortage",
+  "meaning": "When there is not enough of something.",
+  "tamil": "பற்றாக்குறை",
+  "pos": "noun",
+  "pron": "SHOR-tij",
+  "example": "There is a shortage of onions this month.",
+  "exampleTamil": "இந்த மாதம் வெங்காயத்திற்குப் பற்றாக்குறை உள்ளது.",
+  "synonyms": [
+   "scarcity",
+   "lack"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "goods",
+  "meaning": "Things that are made to be sold.",
+  "tamil": "விற்பனைப் பொருட்கள்",
+  "pos": "noun",
+  "pron": "GUDZ",
+  "example": "The shop sells electrical goods.",
+  "exampleTamil": "அந்தக் கடை மின்சாரப் பொருட்களை விற்கிறது.",
+  "synonyms": [
+   "products",
+   "items"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "purchase",
+  "meaning": "Something you buy, or the act of buying.",
+  "tamil": "வாங்கிய பொருள் அல்லது வாங்குதல்",
+  "pos": "noun",
+  "pron": "PER-chus",
+  "example": "Keep the bill as proof of purchase.",
+  "exampleTamil": "வாங்கியதற்கான ஆதாரமாக பில்லை வைத்திருங்கள்.",
+  "synonyms": [
+   "buy",
+   "acquisition"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "consumer",
+  "meaning": "A person who buys and uses things.",
+  "tamil": "நுகர்வோர்",
+  "pos": "noun",
+  "pron": "kun-SOO-mer",
+  "example": "Consumers are looking for cheaper phones.",
+  "exampleTamil": "நுகர்வோர் மலிவான போன்களைத் தேடுகிறார்கள்.",
+  "synonyms": [
+   "buyer",
+   "user"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rebate",
+  "meaning": "Money paid back to you after you buy something.",
+  "tamil": "வாங்கிய பின் திரும்பக் கிடைக்கும் பணம்",
+  "pos": "noun",
+  "pron": "REE-bayt",
+  "example": "I got a rebate on my new fridge.",
+  "exampleTamil": "என் புதிய குளிர்சாதனப் பெட்டிக்கு எனக்கு பணத் திருப்பம் கிடைத்தது.",
+  "synonyms": [
+   "refund",
+   "cashback"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grocer",
+  "meaning": "A person who sells food and daily items.",
+  "tamil": "மளிகைக் கடைக்காரர்",
+  "pos": "noun",
+  "pron": "GROH-ser",
+  "example": "Our grocer delivers to the house.",
+  "exampleTamil": "எங்கள் மளிகைக் கடைக்காரர் வீட்டிற்கே கொண்டு வந்து தருகிறார்.",
+  "synonyms": [
+   "food seller"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "butcher",
+  "meaning": "A person who sells meat.",
+  "tamil": "இறைச்சிக் கடைக்காரர்",
+  "pos": "noun",
+  "pron": "BUCH-er",
+  "example": "The butcher cuts the chicken for us.",
+  "exampleTamil": "இறைச்சிக் கடைக்காரர் எங்களுக்கு கோழியை வெட்டித் தருகிறார்.",
+  "synonyms": [
+   "meat seller"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "florist",
+  "meaning": "A person or shop that sells flowers.",
+  "tamil": "பூக்கடைக்காரர்",
+  "pos": "noun",
+  "pron": "FLOR-ist",
+  "example": "I ordered a bouquet from the florist.",
+  "exampleTamil": "நான் பூக்கடையில் ஒரு பூச்செண்டு ஆர்டர் செய்தேன்.",
+  "synonyms": [
+   "flower seller"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "jeweller",
+  "meaning": "A person who makes or sells jewellery.",
+  "tamil": "நகை வியாபாரி",
+  "pos": "noun",
+  "pron": "JOO-ul-er",
+  "example": "The jeweller checked the gold carefully.",
+  "exampleTamil": "நகை வியாபாரி தங்கத்தை கவனமாகச் சோதித்தார்.",
+  "synonyms": [
+   "goldsmith"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "carton",
+  "meaning": "A box made of thick paper for goods.",
+  "tamil": "அட்டைப் பெட்டி",
+  "pos": "noun",
+  "pron": "KAR-tun",
+  "example": "He carried a carton of milk packets.",
+  "exampleTamil": "அவன் பால் பாக்கெட்டுகள் உள்ள ஒரு அட்டைப் பெட்டியைச் சுமந்தான்.",
+  "synonyms": [
+   "box"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tin",
+  "meaning": "A metal can for food or other things.",
+  "tamil": "தகர டப்பா",
+  "pos": "noun",
+  "pron": "TIN",
+  "example": "I bought a tin of biscuits.",
+  "exampleTamil": "நான் ஒரு டப்பா பிஸ்கட் வாங்கினேன்.",
+  "synonyms": [
+   "can"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sachet",
+  "meaning": "A small sealed packet with a little shampoo or sauce.",
+  "tamil": "சிறிய பாக்கெட்",
+  "pos": "noun",
+  "pron": "SA-shay",
+  "example": "Shampoo sachets are cheap and handy.",
+  "exampleTamil": "ஷாம்பு சாஷேக்கள் மலிவானவை, வசதியானவை.",
+  "synonyms": [
+   "packet"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "kilogram",
+  "meaning": "A unit of weight equal to one thousand grams.",
+  "tamil": "கிலோகிராம்",
+  "pos": "noun",
+  "pron": "KIL-uh-gram",
+  "example": "Please give me one kilogram of sugar.",
+  "exampleTamil": "எனக்கு ஒரு கிலோ சர்க்கரை கொடுங்கள்.",
+  "synonyms": [
+   "kilo"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pair",
+  "meaning": "Two things of the same kind used together.",
+  "tamil": "ஜோடி",
+  "pos": "noun",
+  "pron": "PAIR",
+  "example": "I bought a pair of sandals.",
+  "exampleTamil": "நான் ஒரு ஜோடி செருப்பு வாங்கினேன்.",
+  "synonyms": [
+   "couple",
+   "set"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "zip",
+  "meaning": "A fastener with teeth that opens and closes clothes.",
+  "tamil": "ஜிப்",
+  "pos": "noun",
+  "pron": "ZIP",
+  "example": "The zip on my bag is broken.",
+  "exampleTamil": "என் பையின் ஜிப் உடைந்துவிட்டது.",
+  "synonyms": [
+   "zipper"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sleeve",
+  "meaning": "The part of a shirt that covers your arm.",
+  "tamil": "சட்டைக் கை",
+  "pos": "noun",
+  "pron": "SLEEV",
+  "example": "This shirt has long sleeves.",
+  "exampleTamil": "இந்தச் சட்டைக்கு நீளமான கைகள் உள்ளன.",
+  "synonyms": [
+   "arm cover"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "collar",
+  "meaning": "The part of a shirt around the neck.",
+  "tamil": "சட்டைக் காலர்",
+  "pos": "noun",
+  "pron": "KOL-er",
+  "example": "The collar is too tight for me.",
+  "exampleTamil": "காலர் எனக்கு மிகவும் இறுக்கமாக உள்ளது.",
+  "synonyms": [
+   "neckline"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hem",
+  "meaning": "The folded and stitched edge at the bottom of clothes.",
+  "tamil": "ஆடையின் மடித்துத் தைத்த விளிம்பு",
+  "pos": "noun",
+  "pron": "HEM",
+  "example": "Can you shorten the hem of these trousers?",
+  "exampleTamil": "இந்த பேண்டின் கீழ் விளிம்பைக் குறைக்க முடியுமா?",
+  "synonyms": [
+   "edge",
+   "border"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shopper",
+  "meaning": "A person who is buying things in shops.",
+  "tamil": "கடையில் பொருள் வாங்குபவர்",
+  "pos": "noun",
+  "pron": "SHOP-er",
+  "example": "The market was full of festival shoppers.",
+  "exampleTamil": "சந்தை பண்டிகைக்குப் பொருள் வாங்குவோரால் நிரம்பியிருந்தது.",
+  "synonyms": [
+   "customer",
+   "buyer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "baggy",
+  "meaning": "Hanging loosely and too big.",
+  "tamil": "தொளதொளப்பான",
+  "pos": "adjective",
+  "pron": "BAG-ee",
+  "example": "I don't like baggy trousers.",
+  "exampleTamil": "எனக்கு தொளதொளப்பான பேண்ட் பிடிக்காது.",
+  "synonyms": [
+   "loose",
+   "oversized"
+  ],
+  "level": "intermediate"
+ }
+]

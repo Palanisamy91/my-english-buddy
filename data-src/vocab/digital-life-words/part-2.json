@@ -1,0 +1,352 @@
+[
+ {
+  "word": "bit",
+  "meaning": "The smallest unit of computer data, a zero or a one.",
+  "tamil": "கணினித் தகவலின் மிகச் சிறிய அலகு (பிட்)",
+  "pos": "noun",
+  "pron": "BIT",
+  "example": "A bit can only be a zero or a one.",
+  "exampleTamil": "ஒரு பிட் என்பது பூஜ்யம் அல்லது ஒன்று மட்டுமே இருக்க முடியும்.",
+  "synonyms": [
+   "binary digit",
+   "unit"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "byte",
+  "meaning": "A small unit of data made of eight bits.",
+  "tamil": "எட்டு பிட்கள் கொண்ட தகவல் அலகு (பைட்)",
+  "pos": "noun",
+  "pron": "BYTE",
+  "example": "One letter usually takes up one byte.",
+  "exampleTamil": "ஒரு எழுத்து பொதுவாக ஒரு பைட் இடத்தை எடுக்கும்.",
+  "synonyms": [
+   "data unit",
+   "eight bits"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bio",
+  "meaning": "A short text about yourself on your social media profile.",
+  "tamil": "சுயவிவரக் குறிப்பு",
+  "pos": "noun",
+  "pron": "BY-oh",
+  "example": "Write a funny line in your bio.",
+  "exampleTamil": "உங்கள் சுயவிவரக் குறிப்பில் ஒரு நகைச்சுவை வரி எழுதுங்கள்.",
+  "synonyms": [
+   "profile text",
+   "about me"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "nickname",
+  "meaning": "A short or fun name used instead of your real name.",
+  "tamil": "செல்லப் பெயர்",
+  "pos": "noun",
+  "pron": "NIK-naym",
+  "example": "His gaming nickname is Tiger.",
+  "exampleTamil": "அவனது விளையாட்டுப் புனைபெயர் டைகர்.",
+  "synonyms": [
+   "pet name",
+   "handle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "alias",
+  "meaning": "A different name that someone uses online.",
+  "tamil": "புனைபெயர்",
+  "pos": "noun",
+  "pron": "AY-lee-us",
+  "example": "He posts under an alias to stay private.",
+  "exampleTamil": "அவன் தனிப்பட்டவனாக இருக்க புனைபெயரில் பதிவிடுகிறான்.",
+  "synonyms": [
+   "pen name",
+   "other name"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cast",
+  "meaning": "To send a video from your phone to a TV.",
+  "tamil": "தொலைக்காட்சிக்கு அனுப்பு (காஸ்ட்)",
+  "pos": "verb",
+  "pron": "KAST",
+  "example": "I will cast this movie to the big screen.",
+  "exampleTamil": "நான் இந்தப் படத்தை பெரிய திரைக்கு அனுப்புவேன்.",
+  "synonyms": [
+   "mirror",
+   "broadcast"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "redo",
+  "meaning": "To do an action again after you undid it.",
+  "tamil": "மீண்டும் செய்",
+  "pos": "verb",
+  "pron": "REE-doo",
+  "example": "Press redo to bring back the deleted line.",
+  "exampleTamil": "நீக்கிய வரியைத் திரும்பக் கொண்டுவர மீண்டும் செய் என்பதை அழுத்துங்கள்.",
+  "synonyms": [
+   "repeat",
+   "reapply"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cut",
+  "meaning": "To remove text or a file so you can paste it elsewhere.",
+  "tamil": "வெட்டு",
+  "pos": "verb",
+  "pron": "KUT",
+  "example": "Cut this paragraph and paste it at the end.",
+  "exampleTamil": "இந்தப் பத்தியை வெட்டி கடைசியில் ஒட்டுங்கள்.",
+  "synonyms": [
+   "remove",
+   "clip"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "storage",
+  "meaning": "The space on a device where you keep files.",
+  "tamil": "சேமிப்பிடம்",
+  "pos": "noun",
+  "pron": "STOR-ij",
+  "example": "My phone has no storage left for new apps.",
+  "exampleTamil": "புதிய செயலிகளுக்கு என் போனில் சேமிப்பிடம் இல்லை.",
+  "synonyms": [
+   "space",
+   "memory"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "flag",
+  "meaning": "To mark a post or message as wrong or important.",
+  "tamil": "குறியிடு",
+  "pos": "verb",
+  "pron": "FLAG",
+  "example": "Please flag this comment as spam.",
+  "exampleTamil": "தயவுசெய்து இந்தக் கருத்தை ஸ்பேம் என்று குறியிடுங்கள்.",
+  "synonyms": [
+   "mark",
+   "report"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cursor",
+  "meaning": "The small arrow or line that shows where you are on the screen.",
+  "tamil": "சுட்டி (கர்சர்)",
+  "pos": "noun",
+  "pron": "KUR-ser",
+  "example": "Move the cursor to the end of the line.",
+  "exampleTamil": "கர்சரை வரியின் முடிவுக்கு நகர்த்துங்கள்.",
+  "synonyms": [
+   "pointer",
+   "marker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "troll",
+  "meaning": "A person who posts rude comments online to upset people.",
+  "tamil": "இணையத்தில் தொந்தரவு செய்பவர்",
+  "pos": "noun",
+  "pron": "TROHL",
+  "example": "Do not reply to the troll; just ignore him.",
+  "exampleTamil": "அந்த ட்ரோலுக்குப் பதில் சொல்லாதீர்கள்; அவனைப் புறக்கணியுங்கள்.",
+  "synonyms": [
+   "provoker",
+   "agitator"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "overheat",
+  "meaning": "To become too hot, as a phone does when used too much.",
+  "tamil": "அதிகமாகச் சூடாகு",
+  "pos": "verb",
+  "pron": "oh-ver-HEET",
+  "example": "My phone overheats when I play games for long.",
+  "exampleTamil": "நீண்ட நேரம் விளையாடினால் என் போன் அதிகமாகச் சூடாகிறது.",
+  "synonyms": [
+   "get too hot",
+   "burn up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stalker",
+  "meaning": "A person who keeps watching someone online in an unwanted way.",
+  "tamil": "பின்தொடர்ந்து தொந்தரவு செய்பவர்",
+  "pos": "noun",
+  "pron": "STAW-ker",
+  "example": "She blocked the stalker who kept checking her profile.",
+  "exampleTamil": "அவளது சுயவிவரத்தைத் தொடர்ந்து பார்த்த தொந்தரவாளனை அவள் தடுத்தாள்.",
+  "synonyms": [
+   "pursuer",
+   "harasser"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lurker",
+  "meaning": "Someone who reads online groups but never posts.",
+  "tamil": "பதிவிடாமல் பார்த்துக்கொண்டே இருப்பவர்",
+  "pos": "noun",
+  "pron": "LUR-ker",
+  "example": "I am just a lurker in that group chat.",
+  "exampleTamil": "நான் அந்த குழு அரட்டையில் வெறும் பார்வையாளர்தான்.",
+  "synonyms": [
+   "silent viewer",
+   "observer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vlogger",
+  "meaning": "A person who records videos about daily life and posts them online.",
+  "tamil": "வீடியோ பதிவாளர்",
+  "pos": "noun",
+  "pron": "VLOG-er",
+  "example": "The vlogger showed us around her new flat.",
+  "exampleTamil": "அந்த வீடியோ பதிவாளர் தன் புதிய வீட்டை எங்களுக்குச் சுற்றிக் காட்டினார்.",
+  "synonyms": [
+   "video creator",
+   "content maker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "streamer",
+  "meaning": "A person who shows live video of games or talks online.",
+  "tamil": "நேரலை ஒளிபரப்பாளர்",
+  "pos": "noun",
+  "pron": "STREE-mer",
+  "example": "My brother wants to become a game streamer.",
+  "exampleTamil": "என் தம்பி ஒரு கேம் ஸ்ட்ரீமராக விரும்புகிறான்.",
+  "synonyms": [
+   "broadcaster",
+   "live creator"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pinch",
+  "meaning": "To touch the screen with two fingers and move them to zoom.",
+  "tamil": "இரு விரல்களால் திரையைச் சுருக்கு",
+  "pos": "verb",
+  "pron": "PINCH",
+  "example": "Pinch the photo to make it smaller.",
+  "exampleTamil": "படத்தைச் சிறிதாக்க இரு விரல்களால் சுருக்குங்கள்.",
+  "synonyms": [
+   "squeeze",
+   "shrink"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recycle",
+  "meaning": "To use old materials or devices again in a new way.",
+  "tamil": "மறுசுழற்சி செய்",
+  "pos": "verb",
+  "pron": "ree-SY-kul",
+  "example": "We should recycle old phones, not throw them away.",
+  "exampleTamil": "பழைய போன்களை தூக்கி எறியாமல் மறுசுழற்சி செய்ய வேண்டும்.",
+  "synonyms": [
+   "reuse",
+   "reprocess"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "extract",
+  "meaning": "To take files out of a zipped folder.",
+  "tamil": "பிரித்தெடு",
+  "pos": "verb",
+  "pron": "ik-STRAKT",
+  "example": "Extract the zip file to see the pictures.",
+  "exampleTamil": "படங்களைப் பார்க்க ஜிப் கோப்பைப் பிரித்தெடுங்கள்.",
+  "synonyms": [
+   "unzip",
+   "pull out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "compress",
+  "meaning": "To make a file smaller so it uses less space.",
+  "tamil": "சுருக்கு",
+  "pos": "verb",
+  "pron": "kum-PRES",
+  "example": "Compress the video before you email it.",
+  "exampleTamil": "மின்னஞ்சல் அனுப்பும் முன் வீடியோவைச் சுருக்குங்கள்.",
+  "synonyms": [
+   "shrink",
+   "reduce"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "processor",
+  "meaning": "The part of a computer or phone that does the thinking work.",
+  "tamil": "செயலி (செயலாக்கும் பகுதி)",
+  "pos": "noun",
+  "pron": "PROS-es-er",
+  "example": "A faster processor makes the phone run smoothly.",
+  "exampleTamil": "வேகமான செயலி போனை சீராக இயங்கச் செய்கிறது.",
+  "synonyms": [
+   "chip",
+   "CPU"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chip",
+  "meaning": "A tiny part inside a device that holds its circuits.",
+  "tamil": "மின்சுற்றுச் சில்லு",
+  "pos": "noun",
+  "pron": "CHIP",
+  "example": "The new phone has a very powerful chip.",
+  "exampleTamil": "புதிய போனில் மிகவும் சக்திவாய்ந்த சில்லு உள்ளது.",
+  "synonyms": [
+   "microchip",
+   "processor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "circuit",
+  "meaning": "A closed path along which electricity flows in a device.",
+  "tamil": "மின்சுற்று",
+  "pos": "noun",
+  "pron": "SUR-kit",
+  "example": "A burnt circuit stopped the radio from working.",
+  "exampleTamil": "எரிந்த மின்சுற்று ரேடியோவை வேலை செய்யாமல் நிறுத்தியது.",
+  "synonyms": [
+   "wiring",
+   "loop"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lens",
+  "meaning": "The curved glass part of a camera that focuses the picture.",
+  "tamil": "ஒளிவில்லை (லென்ஸ்)",
+  "pos": "noun",
+  "pron": "LENZ",
+  "example": "Clean the lens before you take the photo.",
+  "exampleTamil": "புகைப்படம் எடுக்கும் முன் லென்ஸைச் சுத்தம் செய்யுங்கள்.",
+  "synonyms": [
+   "camera glass",
+   "optic"
+  ],
+  "level": "intermediate"
+ }
+]

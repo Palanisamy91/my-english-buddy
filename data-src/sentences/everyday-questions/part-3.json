@@ -1,0 +1,361 @@
+[
+ {
+  "en": "How many people are coming for dinner?",
+  "tamil": "டின்னருக்கு எத்தனை பேர் வராங்க?",
+  "context": "Asking a family member before cooking.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'How many' is for things we can count, like people.",
+  "words": [
+   "dinner"
+  ],
+  "usage": "Use it at home before a function or when guests are visiting.",
+  "leelaQ": "Who comes to your house for dinner often?",
+  "answer": "My cousins come for dinner almost every Sunday."
+ },
+ {
+  "en": "How much time do we have before the train leaves?",
+  "tamil": "ட்ரெயின் கிளம்ப இன்னும் எவ்வளவு நேரம் இருக்கு?",
+  "context": "Asking a travel partner at the station.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How much time' asks for the amount of time left. 'Time' is uncountable.",
+  "words": [
+   "train",
+   "leaves"
+  ],
+  "usage": "Use it with family or friends when you reach a station early or late.",
+  "leelaQ": "Do you reach the station early or just in time?",
+  "answer": "I always reach the station early."
+ },
+ {
+  "en": "Why didn't you pick up my call?",
+  "tamil": "நீங்க ஏன் என் கால் எடுக்கலை?",
+  "context": "Asking a friend about a missed call.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Why didn't you ...?' asks the reason for something that did not happen.",
+  "words": [
+   "pick up"
+  ],
+  "usage": "Use it with a close friend or family member after missing their call.",
+  "leelaQ": "Why do you sometimes miss calls?",
+  "answer": "I keep my phone on silent when I am busy."
+ },
+ {
+  "en": "Why is the internet so slow today?",
+  "tamil": "இன்னைக்கு இன்டர்நெட் ஏன் இவ்வளவு ஸ்லோவா இருக்கு?",
+  "context": "Complaining to a colleague.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Why is ... so slow?' is a common way to share a small problem.",
+  "words": [
+   "internet",
+   "slow"
+  ],
+  "usage": "Use it with a colleague or family member when the network is bad.",
+  "leelaQ": "What do you do when the internet is slow?",
+  "answer": "I restart the router and wait a few minutes."
+ },
+ {
+  "en": "What are you up to this weekend?",
+  "tamil": "இந்த வார கடைசில நீங்க என்ன பண்ணப் போறீங்க?",
+  "context": "Chatting with a friend on Friday.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What are you up to?' is a casual way to ask about plans or activities.",
+  "words": [
+   "weekend"
+  ],
+  "usage": "Use it with friends and colleagues on a Friday.",
+  "leelaQ": "What are your plans for this weekend?",
+  "answer": "I plan to visit my grandparents this weekend."
+ },
+ {
+  "en": "Where are you going for your holidays?",
+  "tamil": "உங்க விடுமுறைக்கு எங்க போறீங்க?",
+  "context": "Asking a colleague about leave plans.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous with a future time word talks about plans.",
+  "words": [
+   "holidays"
+  ],
+  "usage": "Use it with colleagues before a long weekend or festival.",
+  "leelaQ": "Where would you like to go for a holiday?",
+  "answer": "I would like to visit Munnar for a holiday."
+ },
+ {
+  "en": "What should I bring for the picnic?",
+  "tamil": "பிக்னிக்குக்கு நான் என்ன கொண்டு வரணும்?",
+  "context": "Asking a friend who is organising.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'What should I ...?' asks for advice or a suggestion.",
+  "words": [
+   "bring",
+   "picnic"
+  ],
+  "usage": "Use it with the organiser of a trip, party or function.",
+  "leelaQ": "What do you take on a picnic?",
+  "answer": "I take snacks, water and a small mat."
+ },
+ {
+  "en": "Do I need to carry my ID card?",
+  "tamil": "நான் என் ஐடி கார்டு எடுத்துட்டு வரணுமா?",
+  "context": "Asking a friend or a colleague.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Do I need to ...?' asks if something is required.",
+  "words": [
+   "carry"
+  ],
+  "usage": "Use it before an exam, an interview or a visit to a secure place.",
+  "leelaQ": "What documents do you carry to the office?",
+  "answer": "I carry my ID card and my laptop bag."
+ },
+ {
+  "en": "How can I get a duplicate bill?",
+  "tamil": "எனக்கு டூப்ளிகேட் பில் எப்படி கிடைக்கும்?",
+  "context": "Asking a shop's customer care.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'How can I ...?' asks for the method or steps to do something.",
+  "words": [
+   "duplicate"
+  ],
+  "usage": "Use it with a shop or a service centre when you lose a bill.",
+  "leelaQ": "Do you keep your bills safely?",
+  "answer": "Yes, I keep all my bills in a file."
+ },
+ {
+  "en": "What is the best way to learn English quickly?",
+  "tamil": "இங்கிலீஷை சீக்கிரம் கத்துக்க சிறந்த வழி என்ன?",
+  "context": "Asking a teacher for advice.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'What is the best way to ...?' asks for advice. 'Quickly' is an adverb.",
+  "words": [
+   "quickly"
+  ],
+  "usage": "Use it with a teacher, a senior or a friend who speaks English well.",
+  "leelaQ": "How do you practise English every day?",
+  "answer": "I speak English for ten minutes every day."
+ },
+ {
+  "en": "Is it possible to change my seat?",
+  "tamil": "என் சீட்டை மாத்த முடியுமா?",
+  "context": "Asking at a bus or flight counter.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is it possible to ...?' is a polite way to ask if something can be done.",
+  "words": [
+   "possible"
+  ],
+  "usage": "Use it with a conductor, a booking agent or a cabin crew member.",
+  "leelaQ": "What seat do you like in a train?",
+  "answer": "I like a lower berth in a train."
+ },
+ {
+  "en": "Do you mind if I open the window?",
+  "tamil": "நான் ஜன்னலை திறந்தா உங்களுக்கு பரவாயில்லையா?",
+  "context": "Asking a co-passenger politely.",
+  "tense": "present",
+  "type": "request",
+  "explain": "'Do you mind if I ...?' asks permission. 'No' means it is fine for them.",
+  "words": [
+   "window"
+  ],
+  "usage": "Use it in a bus, car or room with other people.",
+  "leelaQ": "Do you like fresh air in a room?",
+  "answer": "Yes, I like to keep the windows open."
+ },
+ {
+  "en": "Could you let me know when the manager arrives?",
+  "tamil": "மேனேஜர் வந்ததும் எனக்கு சொல்ல முடியுமா?",
+  "context": "Asking a receptionist.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Let me know' means 'tell me'. 'When the manager arrives' uses present for a future event.",
+  "words": [
+   "manager",
+   "arrives"
+  ],
+  "usage": "Use it with a receptionist, a peon or a team member.",
+  "leelaQ": "Who do you wait for at your office?",
+  "answer": "I wait for my manager to approve my leave."
+ },
+ {
+  "en": "Would it be possible to reschedule our meeting?",
+  "tamil": "நம்ம மீட்டிங்கை மாத்தி வச்சுக்க முடியுமா?",
+  "context": "Asking a client politely.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Would it be possible to ...?' is formal and polite. 'Reschedule' means change the time.",
+  "words": [
+   "reschedule"
+  ],
+  "usage": "Use it in an email or call with a client or a manager.",
+  "leelaQ": "Have you ever missed a meeting?",
+  "answer": "Yes, I missed one meeting because of traffic."
+ },
+ {
+  "en": "Can you tell me when the next train leaves?",
+  "tamil": "அடுத்த ரயில் எப்போ கிளம்பும்னு சொல்ல முடியுமா?",
+  "context": "Asking at the railway enquiry counter.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "An indirect question keeps statement order: 'when the next train leaves'.",
+  "words": [
+   "train",
+   "leaves"
+  ],
+  "usage": "Use it at a station counter or with a staff member for timings.",
+  "leelaQ": "How do you check train timings?",
+  "answer": "I check the app on my phone or ask at the enquiry counter."
+ },
+ {
+  "en": "Can you tell me what this medicine is for?",
+  "tamil": "இந்த மருந்து எதுக்குன்னு சொல்ல முடியுமா?",
+  "context": "Asking a pharmacist.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'What this medicine is for' is an indirect question, so the order is normal.",
+  "words": [
+   "medicine"
+  ],
+  "usage": "Use it with a pharmacist or doctor when you are unsure about a medicine.",
+  "leelaQ": "What do you do when you have a headache?",
+  "answer": "I rest for a while and drink some water."
+ },
+ {
+  "en": "Does anyone know how to fix this printer?",
+  "tamil": "இந்த பிரிண்டரை எப்படி சரிபண்றதுன்னு யாருக்காவது தெரியுமா?",
+  "context": "Asking a group in the office.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Does anyone know ...?' is a good way to ask a group for help.",
+  "words": [
+   "printer",
+   "fix"
+  ],
+  "usage": "Use it in the office when a machine stops working.",
+  "leelaQ": "What office machine often gives you trouble?",
+  "answer": "The printer often gives us trouble."
+ },
+ {
+  "en": "Has anyone seen my umbrella around here?",
+  "tamil": "என் குடையை யாராவது இங்க பார்த்தீங்களா?",
+  "context": "Looking for a lost umbrella in the office.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "Present perfect 'has anyone seen' asks about a recent action with a result now.",
+  "words": [
+   "umbrella"
+  ],
+  "usage": "Use it in an office or at home when you cannot find your thing.",
+  "leelaQ": "What do you do when you lose something?",
+  "answer": "I search carefully and ask my family or colleagues."
+ },
+ {
+  "en": "Did anyone call while I was in the meeting?",
+  "tamil": "நான் மீட்டிங்ல இருந்தப்போ யாராவது கூப்பிட்டாங்களா?",
+  "context": "Asking a colleague after a meeting.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Past simple 'did anyone call' with 'while I was' shows two actions at one time.",
+  "words": [
+   "meeting",
+   "while"
+  ],
+  "usage": "Use it with a colleague or a receptionist when you return to your desk.",
+  "leelaQ": "What do you do when you miss important calls?",
+  "answer": "I check my phone and call back soon."
+ },
+ {
+  "en": "Who is in charge of the training session?",
+  "tamil": "டிரெயினிங் செஷனுக்கு யாரு பொறுப்பு?",
+  "context": "Asking a colleague.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'In charge of' means responsible for something.",
+  "words": [
+   "charge"
+  ],
+  "usage": "Use it in the office when you want to find the right person.",
+  "leelaQ": "Who is in charge at your home?",
+  "answer": "My mother is in charge of our home."
+ },
+ {
+  "en": "What is the deadline for submitting the form?",
+  "tamil": "ஃபார்மை கொடுக்க கடைசி தேதி என்ன?",
+  "context": "Asking an office clerk.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Deadline' is the last time to finish something. 'For submitting' uses -ing after a preposition.",
+  "words": [
+   "deadline",
+   "submitting"
+  ],
+  "usage": "Use it with an admin staff member or a college clerk.",
+  "leelaQ": "Do you finish work before the deadline?",
+  "answer": "Yes, I try to finish work before the deadline."
+ },
+ {
+  "en": "Which documents do I need to bring?",
+  "tamil": "நான் என்னென்ன டாகுமெண்ட்ஸ் எடுத்துட்டு வரணும்?",
+  "context": "Asking at a government office.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Which documents' asks about a choice from known items.",
+  "words": [
+   "documents"
+  ],
+  "usage": "Use it on the phone or at a counter before you visit an office.",
+  "leelaQ": "Which documents do you keep in your bag?",
+  "answer": "I keep my ID card and my certificates."
+ },
+ {
+  "en": "When can I collect my certificate?",
+  "tamil": "என் சர்டிபிகேட்டை எப்போ வாங்கிக்கலாம்?",
+  "context": "Asking a college office.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'When can I ...?' asks about the time something is possible.",
+  "words": [
+   "collect",
+   "certificate"
+  ],
+  "usage": "Use it at a college, school or government office.",
+  "leelaQ": "What certificate do you need soon?",
+  "answer": "I need a salary certificate for a bank loan."
+ },
+ {
+  "en": "How do I get to the beach from here?",
+  "tamil": "இங்க இருந்து பீச்சுக்கு எப்படி போகணும்?",
+  "context": "Asking a local in Chennai.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How do I get to ...?' is the standard direction question.",
+  "words": [
+   "beach"
+  ],
+  "usage": "Use it with a local person or a bus conductor.",
+  "leelaQ": "How do you reach your favourite place?",
+  "answer": "I take a bus and then walk for ten minutes."
+ },
+ {
+  "en": "Is this the right platform for the Madurai train?",
+  "tamil": "மதுரை ட்ரெயினுக்கு இதுதான் சரியான பிளாட்பாரமா?",
+  "context": "Asking at a railway station.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Right' means correct. This is a handy question at a busy station.",
+  "words": [
+   "platform"
+  ],
+  "usage": "Use it at a railway station if you are confused about the platform.",
+  "leelaQ": "Have you travelled by train alone?",
+  "answer": "Yes, I travelled to Madurai alone last year."
+ }
+]

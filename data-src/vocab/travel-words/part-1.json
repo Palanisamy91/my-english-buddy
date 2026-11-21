@@ -1,0 +1,335 @@
+[
+ {
+  "word": "carriage",
+  "meaning": "One section of a train where passengers sit",
+  "tamil": "ரயில் பெட்டி",
+  "pos": "noun",
+  "pron": "KAIR-ij",
+  "example": "Our seats are in the last carriage of the train.",
+  "exampleTamil": "எங்கள் இருக்கைகள் ரயிலின் கடைசிப் பெட்டியில் இருக்கு.",
+  "synonyms": [
+   "coach",
+   "compartment"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "connecting flight",
+  "meaning": "A second flight you take to reach your final place",
+  "tamil": "இணைப்பு விமானம்",
+  "pos": "noun",
+  "pron": "kuh-NEK-ting FLITE",
+  "example": "I have a connecting flight from Dubai to Chennai.",
+  "exampleTamil": "துபாயிலிருந்து சென்னைக்கு எனக்கு ஒரு இணைப்பு விமானம் இருக்கு.",
+  "synonyms": [
+   "transfer flight"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "footpath",
+  "meaning": "A path at the side of a road for people to walk on",
+  "tamil": "நடைபாதை",
+  "pos": "noun",
+  "pron": "FUT-path",
+  "example": "Please walk on the footpath, not on the road.",
+  "exampleTamil": "தயவுசெய்து சாலையில் இல்லாம நடைபாதையில் நடங்க.",
+  "synonyms": [
+   "pavement",
+   "sidewalk"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "overbridge",
+  "meaning": "A bridge built over a road or railway line for walking",
+  "tamil": "மேம்பாலம்",
+  "pos": "noun",
+  "pron": "OH-ver-brij",
+  "example": "Use the overbridge to reach the other platform.",
+  "exampleTamil": "மற்ற நடைமேடைக்குப் போக மேம்பாலத்தைப் பயன்படுத்துங்க.",
+  "synonyms": [
+   "footbridge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flyover",
+  "meaning": "A raised road that goes over another road",
+  "tamil": "மேம்பாலச் சாலை",
+  "pos": "noun",
+  "pron": "FLY-oh-ver",
+  "example": "The new flyover has reduced the traffic near our office.",
+  "exampleTamil": "புது மேம்பாலம் எங்க ஆபீஸ் பக்கத்துல போக்குவரத்தைக் குறைச்சிருக்கு.",
+  "synonyms": [
+   "overpass"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bypass",
+  "meaning": "A road that goes around a town instead of through it",
+  "tamil": "புறவழிச் சாலை",
+  "pos": "noun",
+  "pron": "BY-pass",
+  "example": "Take the bypass to avoid the market area.",
+  "exampleTamil": "சந்தைப் பகுதியைத் தவிர்க்க புறவழிச் சாலையில போங்க.",
+  "synonyms": [
+   "ring road",
+   "detour road"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "drop-off",
+  "meaning": "A place or time where you leave a person or thing",
+  "tamil": "இறக்கி விடும் இடம்",
+  "pos": "noun",
+  "pron": "DROP-off",
+  "example": "The drop-off point is right in front of the terminal.",
+  "exampleTamil": "இறக்கி விடும் இடம் டெர்மினல் முன்னாடியே இருக்கு.",
+  "synonyms": [
+   "unloading point"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "round-trip",
+  "meaning": "A journey to a place and back again",
+  "tamil": "போய்வரும் பயணம்",
+  "pos": "noun",
+  "pron": "ROUND-trip",
+  "example": "A round-trip ticket is cheaper than two single ones.",
+  "exampleTamil": "போய்வரும் டிக்கெட் இரண்டு தனி டிக்கெட்டை விட மலிவு.",
+  "synonyms": [
+   "return journey"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cockpit",
+  "meaning": "The place in a plane where the pilot sits",
+  "tamil": "விமானியின் அறை",
+  "pos": "noun",
+  "pron": "KOK-pit",
+  "example": "The pilot spoke to us from the cockpit.",
+  "exampleTamil": "விமானி விமானியின் அறையிலிருந்து எங்ககிட்ட பேசினார்.",
+  "synonyms": [
+   "flight deck"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "chauffeur",
+  "meaning": "A person paid to drive someone else's car",
+  "tamil": "சொந்த கார் ஓட்டுநர்",
+  "pos": "noun",
+  "pron": "SHOH-fer",
+  "example": "The manager comes to work with his own chauffeur.",
+  "exampleTamil": "மேனேஜர் தன்னோட சொந்த கார் ஓட்டுநரோட வேலைக்கு வருவார்.",
+  "synonyms": [
+   "private driver"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "scooter",
+  "meaning": "A small two-wheeled motor vehicle with a flat floor",
+  "tamil": "ஸ்கூட்டர்",
+  "pos": "noun",
+  "pron": "SKOO-ter",
+  "example": "I go to college on my sister's scooter.",
+  "exampleTamil": "நான் என் தங்கச்சியோட ஸ்கூட்டர்ல காலேஜுக்குப் போறேன்.",
+  "synonyms": [
+   "moped"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "speed breaker",
+  "meaning": "A raised part on a road that makes vehicles slow down",
+  "tamil": "வேகத்தடை",
+  "pos": "noun",
+  "pron": "SPEED BRAY-ker",
+  "example": "Drive slowly, there is a speed breaker ahead.",
+  "exampleTamil": "மெதுவா ஓட்டுங்க, முன்னாடி வேகத்தடை இருக்கு.",
+  "synonyms": [
+   "speed bump"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "zebra crossing",
+  "meaning": "Black and white stripes where people can cross the road",
+  "tamil": "பாதசாரிகள் கடக்கும் கோடு",
+  "pos": "noun",
+  "pron": "ZEB-ruh KROS-ing",
+  "example": "Always cross the road at the zebra crossing.",
+  "exampleTamil": "எப்பவும் சாலையை பாதசாரிகள் கடக்கும் கோட்டுல கடங்க.",
+  "synonyms": [
+   "pedestrian crossing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "exit",
+  "meaning": "The way out of a building, road or station",
+  "tamil": "வெளியேறும் வழி",
+  "pos": "noun",
+  "pron": "EG-zit",
+  "example": "The exit is on your left after the escalator.",
+  "exampleTamil": "எஸ்கலேட்டருக்குப் பிறகு இடது பக்கம் வெளியேறும் வழி இருக்கு.",
+  "synonyms": [
+   "way out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "entrance",
+  "meaning": "The way into a building, road or station",
+  "tamil": "நுழைவாயில்",
+  "pos": "noun",
+  "pron": "EN-truns",
+  "example": "I will wait for you at the main entrance.",
+  "exampleTamil": "நான் உங்களுக்காக முக்கிய நுழைவாயிலில் காத்திருப்பேன்.",
+  "synonyms": [
+   "way in",
+   "doorway"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "voyage",
+  "meaning": "A long journey, usually by ship",
+  "tamil": "கடல் பயணம்",
+  "pos": "noun",
+  "pron": "VOY-ij",
+  "example": "The voyage to the island took two days.",
+  "exampleTamil": "தீவுக்குப் போன கடல் பயணம் இரண்டு நாள் ஆச்சு.",
+  "synonyms": [
+   "sea journey",
+   "cruise"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dock",
+  "meaning": "A place in a port where ships stop and load",
+  "tamil": "கப்பல் துறை",
+  "pos": "noun",
+  "pron": "DOK",
+  "example": "The ship is waiting at the dock since morning.",
+  "exampleTamil": "கப்பல் காலையிலிருந்து கப்பல் துறையில காத்துட்டு இருக்கு.",
+  "synonyms": [
+   "pier",
+   "wharf"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "anchor",
+  "meaning": "A heavy iron object that keeps a ship in one place",
+  "tamil": "நங்கூரம்",
+  "pos": "noun",
+  "pron": "ANG-ker",
+  "example": "The sailors dropped the anchor near the shore.",
+  "exampleTamil": "மாலுமிகள் கரைக்கு பக்கத்துல நங்கூரத்தை இறக்கினாங்க.",
+  "synonyms": [
+   "ship's hook"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sailor",
+  "meaning": "A person who works on a ship",
+  "tamil": "மாலுமி",
+  "pos": "noun",
+  "pron": "SAY-ler",
+  "example": "My uncle was a sailor for twenty years.",
+  "exampleTamil": "என் மாமா இருபது வருஷம் மாலுமியா இருந்தார்.",
+  "synonyms": [
+   "seaman",
+   "mariner"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cyclist",
+  "meaning": "A person who rides a bicycle",
+  "tamil": "சைக்கிள் ஓட்டுபவர்",
+  "pos": "noun",
+  "pron": "SY-klist",
+  "example": "A cyclist was riding on the wrong side of the road.",
+  "exampleTamil": "ஒரு சைக்கிள் ஓட்டுபவர் சாலையின் தவறான பக்கம் போயிட்டு இருந்தார்.",
+  "synonyms": [
+   "bike rider"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "helmet",
+  "meaning": "A hard hat that protects your head when you ride",
+  "tamil": "தலைக்கவசம்",
+  "pos": "noun",
+  "pron": "HEL-mit",
+  "example": "Please wear a helmet when you ride the bike.",
+  "exampleTamil": "பைக் ஓட்டும்போது தயவுசெய்து தலைக்கவசம் போடுங்க.",
+  "synonyms": [
+   "head guard"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "horn",
+  "meaning": "The part of a vehicle that makes a loud warning sound",
+  "tamil": "ஹாரன்",
+  "pos": "noun",
+  "pron": "HORN",
+  "example": "Don't press the horn near the hospital.",
+  "exampleTamil": "ஆஸ்பத்திரி பக்கத்துல ஹாரன் அடிக்காதீங்க.",
+  "synonyms": [
+   "hooter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "brake",
+  "meaning": "The part of a vehicle used to slow down or stop",
+  "tamil": "பிரேக்",
+  "pos": "noun",
+  "pron": "BRAYK",
+  "example": "The driver suddenly pressed the brake.",
+  "exampleTamil": "ஓட்டுநர் திடீர்னு பிரேக்கை அழுத்தினார்.",
+  "synonyms": [
+   "stopper"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "accelerator",
+  "meaning": "The pedal you press to make a vehicle go faster",
+  "tamil": "வேகம் கூட்டும் மிதி",
+  "pos": "noun",
+  "pron": "ak-SEL-uh-ray-ter",
+  "example": "He pressed the accelerator and the car moved ahead.",
+  "exampleTamil": "அவர் வேகம் கூட்டும் மிதியை அழுத்தினார், கார் முன்னாடி போச்சு.",
+  "synonyms": [
+   "gas pedal",
+   "throttle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "carpool",
+  "meaning": "To share one car for a trip with other people",
+  "tamil": "ஒரே காரில் சேர்ந்து போ",
+  "pos": "verb",
+  "pron": "KAR-pool",
+  "example": "We carpool to the office to save petrol.",
+  "exampleTamil": "பெட்ரோல் மிச்சப்படுத்த நாங்க ஒரே காரில் ஆபீஸுக்கு போறோம்.",
+  "synonyms": [
+   "share a ride"
+  ],
+  "level": "intermediate"
+ }
+]

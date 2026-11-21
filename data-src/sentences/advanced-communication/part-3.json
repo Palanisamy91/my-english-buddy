@@ -1,0 +1,352 @@
+[
+ {
+  "en": "Here is what happened: the supplier was late, so we missed the deadline.",
+  "tamil": "நடந்தது இதுதான்: சப்ளையர் தாமதம் பண்ணாரு, அதனால நாம காலக்கெடுவை தவறவிட்டோம்.",
+  "context": "Explaining what went wrong in a few words.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "A colon introduces the explanation. 'So' shows the result of the cause.",
+  "words": [
+   "deadline"
+  ],
+  "usage": "Use it when you explain a delay to your manager.",
+  "leelaQ": "Have you ever missed a deadline? What happened?",
+  "answer": "Yes, I missed one because the files were delayed."
+ },
+ {
+  "en": "The report covers sales, costs and our plans for next year.",
+  "tamil": "அறிக்கையில விற்பனை, செலவுகள், அடுத்த வருஷ திட்டங்கள் இருக்கு.",
+  "context": "Describing what a report contains.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Covers' means includes the topic. Three items in a list sound complete.",
+  "words": [
+   "covers"
+  ],
+  "usage": "Use it to introduce a document to your team or boss.",
+  "leelaQ": "What does your last report or document cover?",
+  "answer": "It covers the work I did and the plan for next month."
+ },
+ {
+  "en": "Could you give me the short version? I only have two minutes.",
+  "tamil": "சுருக்கமா சொல்ல முடியுமா? எனக்கு ரெண்டு நிமிஷம்தான் இருக்கு.",
+  "context": "Asking for a quick summary.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'The short version' means a brief explanation. Giving the reason makes the request polite.",
+  "words": [
+   "short version"
+  ],
+  "usage": "Use it with a colleague when you are busy.",
+  "leelaQ": "What do you say when you are very busy?",
+  "answer": "I say I only have two minutes and ask for the short version."
+ },
+ {
+  "en": "Sorry, could you explain what you mean by that?",
+  "tamil": "மன்னிக்கணும், அதுக்கு என்ன அர்த்தம்னு விளக்க முடியுமா?",
+  "context": "Asking for clarification.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'What do you mean by' asks for the meaning. 'Sorry' makes it softer.",
+  "words": [
+   "explain"
+  ],
+  "usage": "Use it when you do not understand something at a meeting or class.",
+  "leelaQ": "What do you do when you do not understand something?",
+  "answer": "I politely ask the person to explain it again."
+ },
+ {
+  "en": "Just to be clear, do you want me to start today or tomorrow?",
+  "tamil": "தெளிவுக்காக கேக்கறேன், நான் இன்னைக்கு ஆரம்பிக்கணுமா இல்ல நாளைக்கா?",
+  "context": "Checking an instruction.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Just to be clear' introduces a question that avoids confusion.",
+  "words": [
+   "clear"
+  ],
+  "usage": "Use it when instructions are not complete.",
+  "leelaQ": "Why is it good to ask a question when you are not sure?",
+  "answer": "It avoids mistakes and saves time for everyone."
+ },
+ {
+  "en": "I'm not sure I followed that. Could you go over it once more?",
+  "tamil": "எனக்கு அது புரியலன்னு தோணுது. இன்னொரு முறை சொல்ல முடியுமா?",
+  "context": "Asking someone to repeat an explanation.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Follow' means understand. 'Go over' means explain again.",
+  "words": [
+   "follow"
+  ],
+  "usage": "Use it in meetings, classes or phone calls when you got lost.",
+  "leelaQ": "What do you say if you got lost in a talk?",
+  "answer": "I say I did not follow and ask them to go over it again."
+ },
+ {
+  "en": "What I meant was that we should check the figures first.",
+  "tamil": "நான் சொல்ல வந்தது என்னன்னா, முதல்ல எண்களை சரி பாக்கணும்.",
+  "context": "Correcting a misunderstanding.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'What I meant was' fixes a wrong understanding without blaming the listener.",
+  "words": [
+   "meant"
+  ],
+  "usage": "Use it when people misunderstand what you said.",
+  "leelaQ": "How do you fix a misunderstanding?",
+  "answer": "I calmly say what I meant and give an example."
+ },
+ {
+  "en": "Do you mean the old contract or the new one?",
+  "tamil": "நீங்க பழைய ஒப்பந்தத்தை சொல்றீங்களா இல்ல புதுசையா?",
+  "context": "Checking which item someone means.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you mean' checks the meaning. Offering two options helps the person answer quickly.",
+  "words": [
+   "contract"
+  ],
+  "usage": "Use it when a colleague's words could mean two things.",
+  "leelaQ": "What do you ask when you are confused about something?",
+  "answer": "I ask which one they mean."
+ },
+ {
+  "en": "Let me rephrase that, because I don't think I was clear.",
+  "tamil": "நான் தெளிவா சொல்லலன்னு நினைக்கிறேன், அதனால வேற மாதிரி சொல்றேன்.",
+  "context": "Saying it again in a simpler way.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Rephrase' means say it in different words. It takes the blame for the confusion.",
+  "words": [
+   "rephrase"
+  ],
+  "usage": "Use it when your listener looks confused.",
+  "leelaQ": "How do you explain something in a simpler way?",
+  "answer": "I use short sentences and simple words."
+ },
+ {
+  "en": "Could you give me an example so I can understand better?",
+  "tamil": "நான் நல்லா புரிஞ்சிக்க ஒரு உதாரணம் சொல்ல முடியுமா?",
+  "context": "Asking for an example.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'So I can' gives the reason. Examples make ideas easier to understand.",
+  "words": [
+   "example"
+  ],
+  "usage": "Use it in a class, training or meeting.",
+  "leelaQ": "Why are examples helpful when you learn?",
+  "answer": "They make difficult ideas easy to see."
+ },
+ {
+  "en": "I'd like to confirm the meeting time, which I believe is three o'clock.",
+  "tamil": "கூட்டத்தோட நேரம் உறுதி பண்ண விரும்பறேன், அது மூணு மணின்னு நினைக்கிறேன்.",
+  "context": "Confirming a detail by email or phone.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'I'd like to confirm' is a polite way to check a detail. 'Which I believe' shows you are not fully sure.",
+  "words": [
+   "confirm"
+  ],
+  "usage": "Use it before a meeting or visit to avoid a mistake.",
+  "leelaQ": "What details do you confirm before a meeting?",
+  "answer": "I confirm the time, the place and who is coming."
+ },
+ {
+  "en": "Which part of the process is unclear to you?",
+  "tamil": "செயல்முறையில எந்த பகுதி உங்களுக்கு தெளிவா இல்ல?",
+  "context": "Helping a confused colleague.",
+  "tense": "present",
+  "type": "question",
+  "explain": "This question helps you find the exact problem. 'Unclear' means not easy to understand.",
+  "words": [
+   "unclear"
+  ],
+  "usage": "Use it when you train or guide someone.",
+  "leelaQ": "How do you help someone who is confused?",
+  "answer": "I ask which part is unclear and explain only that."
+ },
+ {
+  "en": "Please let me know if anything in my message is not clear.",
+  "tamil": "என் செய்தியில எதுவும் தெளிவா இல்லன்னா தயவுசெஞ்சு சொல்லுங்க.",
+  "context": "Ending an email or message.",
+  "tense": "present",
+  "type": "request",
+  "explain": "This line invites questions in a polite way. 'Let me know' means tell me.",
+  "words": [
+   "message"
+  ],
+  "usage": "Use it at the end of an email or a long instruction.",
+  "leelaQ": "What do you write at the end of an email?",
+  "answer": "I write that I am happy to answer any questions."
+ },
+ {
+  "en": "I am writing to enquire about the position advertised on your website.",
+  "tamil": "உங்க இணையதளத்துல விளம்பரம் செய்யப்பட்ட வேலையை பத்தி விசாரிக்க எழுதறேன்.",
+  "context": "Opening a job enquiry email.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'I am writing to' is a standard formal opening. 'Enquire' means ask for information.",
+  "words": [
+   "enquire"
+  ],
+  "usage": "Use it as the first line of a formal email.",
+  "leelaQ": "Why do people write to companies?",
+  "answer": "They write to ask for jobs, prices or information."
+ },
+ {
+  "en": "Thank you for your prompt reply to my previous email.",
+  "tamil": "என் முந்தைய மின்னஞ்சலுக்கு உடனடியா பதில் அளிச்சதுக்கு நன்றி.",
+  "context": "Thanking someone in an email.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Prompt' means quick. It is a polite thing to say in formal writing.",
+  "words": [
+   "prompt"
+  ],
+  "usage": "Use it when a client or colleague answers quickly.",
+  "leelaQ": "Who answers your messages quickly?",
+  "answer": "My friend always replies within a few minutes."
+ },
+ {
+  "en": "Please find the attached document for your reference.",
+  "tamil": "உங்க குறிப்புக்காக இணைக்கப்பட்ட ஆவணத்தை பாருங்க.",
+  "context": "Sending a file by email.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please find attached' is a common formal phrase when you send a file.",
+  "words": [
+   "attached"
+  ],
+  "usage": "Use it in office emails with files like reports or invoices.",
+  "leelaQ": "What files do you send by email?",
+  "answer": "I send reports, photos and forms."
+ },
+ {
+  "en": "I would be grateful if you could send me the details at your earliest convenience.",
+  "tamil": "உங்களுக்கு வசதியான நேரத்துல விவரங்களை அனுப்பினா நன்றியா இருப்பேன்.",
+  "context": "Politely asking for information.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'I would be grateful if you could' is very polite. 'At your earliest convenience' means as soon as you can.",
+  "words": [
+   "grateful"
+  ],
+  "usage": "Use it in formal emails to officers, clients or professors.",
+  "leelaQ": "How do you make a formal request?",
+  "answer": "I use words like I would be grateful if you could."
+ },
+ {
+  "en": "I apologise for the delay in getting back to you.",
+  "tamil": "உங்களுக்கு பதில் சொல்ல தாமதமானதுக்கு மன்னிப்பு கேட்டுக்கறேன்.",
+  "context": "Apologising for a late reply.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Apologise for' is followed by a noun or -ing form. It is formal and polite.",
+  "words": [
+   "apologise"
+  ],
+  "usage": "Use it at the start of an email when you replied late.",
+  "leelaQ": "When do you need to apologise at work?",
+  "answer": "I apologise when I am late or forget something."
+ },
+ {
+  "en": "We regret to inform you that your order has been delayed.",
+  "tamil": "உங்க ஆர்டர் தாமதமாகியிருக்குன்னு தெரிவிக்க வருத்தப்படறோம்.",
+  "context": "Giving bad news to a customer.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'We regret to inform you' is a formal way to give bad news. 'Has been delayed' is passive.",
+  "words": [
+   "regret"
+  ],
+  "usage": "Use it in customer service emails or letters.",
+  "leelaQ": "How do you tell a customer about bad news?",
+  "answer": "I say sorry first and then explain what we will do."
+ },
+ {
+  "en": "I look forward to hearing from you soon.",
+  "tamil": "உங்ககிட்ட இருந்து விரைவில் பதில் வரும்னு எதிர்பார்க்கிறேன்.",
+  "context": "Closing a formal email.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Look forward to' is followed by an -ing form. It is a standard closing line.",
+  "words": [
+   "look forward to"
+  ],
+  "usage": "Use it as the last line of a formal email.",
+  "leelaQ": "What do you look forward to this month?",
+  "answer": "I look forward to meeting my family during the festival."
+ },
+ {
+  "en": "I would like to request a day's leave for personal reasons.",
+  "tamil": "தனிப்பட்ட காரணங்களுக்காக ஒரு நாள் விடுப்பு கேக்க விரும்பறேன்.",
+  "context": "Applying for leave from your manager.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'I would like to request' is a formal and polite way to ask. 'Personal reasons' needs no detail.",
+  "words": [
+   "leave"
+  ],
+  "usage": "Use it in a leave email to a manager or HR.",
+  "leelaQ": "When do you ask for leave?",
+  "answer": "I ask when I have a family function or I am unwell."
+ },
+ {
+  "en": "Could you kindly confirm receipt of this email?",
+  "tamil": "இந்த மின்னஞ்சல் கிடைச்சதை தயவுசெஞ்சு உறுதி பண்ண முடியுமா?",
+  "context": "Asking for a reply to confirm.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Kindly' adds politeness. 'Confirm receipt' means say you have received it.",
+  "words": [
+   "receipt"
+  ],
+  "usage": "Use it when you send an important document.",
+  "leelaQ": "Why do you confirm that you received something?",
+  "answer": "It shows the sender that the message arrived safely."
+ },
+ {
+  "en": "As discussed on the phone, I am sharing the revised proposal with you.",
+  "tamil": "போன்ல பேசினபடி, திருத்தப்பட்ட முன்மொழிவை உங்களுக்கு அனுப்பறேன்.",
+  "context": "Following up after a call.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'As discussed' links the email to an earlier talk. 'Revised' means changed or improved.",
+  "words": [
+   "revised"
+  ],
+  "usage": "Use it in an email after a phone call or meeting.",
+  "leelaQ": "What do you send after an important call?",
+  "answer": "I send a short email to confirm what we discussed."
+ },
+ {
+  "en": "Please do not hesitate to contact me if you need any further information.",
+  "tamil": "மேலும் தகவல் வேணும்னா தயங்காம என்னை தொடர்பு கொள்ளுங்க.",
+  "context": "Ending an email helpfully.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Do not hesitate to' means feel free to. It is a very common formal closing.",
+  "words": [
+   "hesitate"
+  ],
+  "usage": "Use it at the end of emails to clients and applicants.",
+  "leelaQ": "Who can contact you when they need help?",
+  "answer": "My students can contact me anytime when they need help."
+ },
+ {
+  "en": "Unfortunately, I will not be able to attend the meeting on Friday.",
+  "tamil": "துரதிர்ஷ்டவசமா, வெள்ளிக்கிழமை கூட்டத்துல என்னால கலந்துக்க முடியாது.",
+  "context": "Declining a meeting formally.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Unfortunately' softens bad news. 'Will not be able to' is a polite way to say 'cannot'.",
+  "words": [
+   "attend"
+  ],
+  "usage": "Use it when you must refuse an invitation or meeting.",
+  "leelaQ": "How do you decline an invitation politely?",
+  "answer": "I say unfortunately I cannot come and thank them for asking."
+ }
+]

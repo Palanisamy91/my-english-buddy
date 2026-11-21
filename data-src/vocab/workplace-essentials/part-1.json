@@ -1,0 +1,346 @@
+[
+ {
+  "word": "workmate",
+  "meaning": "A person you work with in the same place.",
+  "tamil": "உடன் பணிபுரிபவர்",
+  "pos": "noun",
+  "pron": "WURK-mayt",
+  "example": "My workmate shares her lunch with me every day.",
+  "exampleTamil": "என் உடன் பணிபுரிபவர் தினமும் தன் மதிய உணவை என்னுடன் பகிர்ந்து கொள்கிறார்.",
+  "synonyms": [
+   "colleague",
+   "coworker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "officemate",
+  "meaning": "Someone who works in the same office as you.",
+  "tamil": "ஒரே அலுவலகத்தில் வேலை செய்பவர்",
+  "pos": "noun",
+  "pron": "OF-is-mayt",
+  "example": "My officemate sits next to me and helps me a lot.",
+  "exampleTamil": "என்னுடன் ஒரே அலுவலகத்தில் வேலை செய்பவர் எனக்குப் பக்கத்தில் அமர்ந்து நிறைய உதவுகிறார்.",
+  "synonyms": [
+   "colleague",
+   "coworker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "weekday",
+  "meaning": "Any day from Monday to Friday, not the weekend.",
+  "tamil": "வார நாள் (திங்கள் முதல் வெள்ளி)",
+  "pos": "noun",
+  "pron": "WEEK-day",
+  "example": "The office is very busy on every weekday morning.",
+  "exampleTamil": "வார நாட்களில் ஒவ்வொரு காலையும் அலுவலகம் மிகவும் பரபரப்பாக இருக்கும்.",
+  "synonyms": [
+   "workday"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "daily",
+  "meaning": "Happening or done every day.",
+  "tamil": "தினசரி",
+  "pos": "adjective",
+  "pron": "DAY-lee",
+  "example": "Please send me a daily report before you leave.",
+  "exampleTamil": "நீங்கள் புறப்படுவதற்கு முன் எனக்கு ஒரு தினசரி அறிக்கை அனுப்புங்கள்.",
+  "synonyms": [
+   "everyday",
+   "regular"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "yearly",
+  "meaning": "Happening once every year.",
+  "tamil": "ஆண்டுதோறும் நடக்கும்",
+  "pos": "adjective",
+  "pron": "YEER-lee",
+  "example": "We have a yearly meeting with all the staff.",
+  "exampleTamil": "எல்லா ஊழியர்களுடனும் நாங்கள் ஆண்டுதோறும் ஒரு கூட்டம் நடத்துகிறோம்.",
+  "synonyms": [
+   "annual"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fortnight",
+  "meaning": "A period of two weeks.",
+  "tamil": "இரண்டு வாரக் காலம்",
+  "pos": "noun",
+  "pron": "FOR-tnyt",
+  "example": "The project will be ready in a fortnight.",
+  "exampleTamil": "இந்தத் திட்டம் இரண்டு வாரங்களில் தயாராகிவிடும்.",
+  "synonyms": [
+   "two weeks"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "deskmate",
+  "meaning": "A person who sits at the next desk in the office.",
+  "tamil": "அருகிலுள்ள மேசையில் அமரும் சக ஊழியர்",
+  "pos": "noun",
+  "pron": "DESK-mayt",
+  "example": "My deskmate always brings snacks for the whole team.",
+  "exampleTamil": "என் அருகில் அமரும் சக ஊழியர் எப்போதும் முழு குழுவுக்கும் தின்பண்டங்கள் கொண்டு வருவார்.",
+  "synonyms": [
+   "workmate",
+   "neighbour"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rival",
+  "meaning": "A person or company that competes with you.",
+  "tamil": "போட்டியாளர்",
+  "pos": "noun",
+  "pron": "RY-vul",
+  "example": "Our rival company launched a new product today.",
+  "exampleTamil": "எங்கள் போட்டி நிறுவனம் இன்று ஒரு புதிய பொருளை அறிமுகப்படுத்தியது.",
+  "synonyms": [
+   "competitor",
+   "opponent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "head",
+  "meaning": "The person who leads a team or department.",
+  "tamil": "தலைவர் (துறைத் தலைவர்)",
+  "pos": "noun",
+  "pron": "HED",
+  "example": "The head of our department is very kind.",
+  "exampleTamil": "எங்கள் துறையின் தலைவர் மிகவும் அன்பானவர்.",
+  "synonyms": [
+   "leader",
+   "boss"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chief",
+  "meaning": "The top person in charge of an organisation.",
+  "tamil": "தலைமை அதிகாரி",
+  "pos": "noun",
+  "pron": "CHEEF",
+  "example": "The chief of the company will visit our branch tomorrow.",
+  "exampleTamil": "நிறுவனத்தின் தலைமை அதிகாரி நாளை எங்கள் கிளைக்கு வருவார்.",
+  "synonyms": [
+   "head",
+   "leader"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "temp",
+  "meaning": "A person hired to work for a short time only.",
+  "tamil": "தற்காலிகப் பணியாளர்",
+  "pos": "noun",
+  "pron": "TEMP",
+  "example": "She joined as a temp and later got a permanent job.",
+  "exampleTamil": "அவள் தற்காலிகப் பணியாளராகச் சேர்ந்து பின்னர் நிரந்தர வேலை பெற்றாள்.",
+  "synonyms": [
+   "temporary worker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "politics",
+  "meaning": "Unfriendly competition for power among people at work.",
+  "tamil": "அலுவலக அரசியல் (அதிகாரப் போட்டி)",
+  "pos": "noun",
+  "pron": "POL-uh-tiks",
+  "example": "I do not like office politics and stay away from it.",
+  "exampleTamil": "எனக்கு அலுவலக அரசியல் பிடிக்காது, அதிலிருந்து விலகியே இருப்பேன்.",
+  "synonyms": [
+   "rivalry"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "enclosed",
+  "meaning": "Put inside the same letter or email.",
+  "tamil": "இணைக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "in-KLOHZD",
+  "example": "Please find the enclosed form and fill it in.",
+  "exampleTamil": "இணைக்கப்பட்டுள்ள படிவத்தைப் பார்த்து நிரப்புங்கள்.",
+  "synonyms": [
+   "included",
+   "inside"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "attached",
+  "meaning": "Joined to an email as a file.",
+  "tamil": "இணைக்கப்பட்ட (மின்னஞ்சலில்)",
+  "pos": "adjective",
+  "pron": "uh-TACHT",
+  "example": "The attached file has all the sales numbers.",
+  "exampleTamil": "இணைக்கப்பட்ட கோப்பில் எல்லா விற்பனை எண்களும் உள்ளன.",
+  "synonyms": [
+   "added",
+   "joined"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "buffer",
+  "meaning": "Extra time or space kept in case of problems.",
+  "tamil": "கூடுதல் நேரம் (பாதுகாப்பு இடைவெளி)",
+  "pos": "noun",
+  "pron": "BUF-ur",
+  "example": "Keep a buffer of one day before the final deadline.",
+  "exampleTamil": "இறுதிக் கெடுவுக்கு முன் ஒரு நாள் கூடுதல் நேரம் வைத்துக் கொள்ளுங்கள்.",
+  "synonyms": [
+   "cushion",
+   "margin"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "refreshments",
+  "meaning": "Light food and drinks served at a meeting or event.",
+  "tamil": "சிற்றுண்டி மற்றும் பானங்கள்",
+  "pos": "noun",
+  "pron": "ri-FRESH-munts",
+  "example": "Refreshments will be served after the meeting.",
+  "exampleTamil": "கூட்டத்திற்குப் பிறகு சிற்றுண்டிகள் வழங்கப்படும்.",
+  "synonyms": [
+   "snacks",
+   "drinks"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "catering",
+  "meaning": "The work of providing food for an event.",
+  "tamil": "உணவு வழங்கும் சேவை",
+  "pos": "noun",
+  "pron": "KAY-tur-ing",
+  "example": "The catering for our office party was very tasty.",
+  "exampleTamil": "எங்கள் அலுவலக விருந்துக்கான உணவு மிகச் சுவையாக இருந்தது.",
+  "synonyms": [
+   "food service"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "peak",
+  "meaning": "The busiest or highest point of something.",
+  "tamil": "உச்சம் (மிகவும் பரபரப்பான நேரம்)",
+  "pos": "noun",
+  "pron": "PEEK",
+  "example": "Sales reach a peak during the festival season.",
+  "exampleTamil": "பண்டிகைக் காலத்தில் விற்பனை உச்சத்தை எட்டுகிறது.",
+  "synonyms": [
+   "top",
+   "height"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "immediate",
+  "meaning": "Happening right now, without any delay.",
+  "tamil": "உடனடியான",
+  "pos": "adjective",
+  "pron": "ih-MEE-dee-ut",
+  "example": "This problem needs immediate action from the manager.",
+  "exampleTamil": "இந்தப் பிரச்சினைக்கு மேலாளரின் உடனடி நடவடிக்கை தேவை.",
+  "synonyms": [
+   "instant",
+   "urgent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "closing",
+  "meaning": "The last line you write at the end of an email.",
+  "tamil": "முடிவுரை (மின்னஞ்சலின் கடைசி வரி)",
+  "pos": "noun",
+  "pron": "KLOH-zing",
+  "example": "I always write a polite closing in my emails.",
+  "exampleTamil": "நான் என் மின்னஞ்சல்களில் எப்போதும் மரியாதையான முடிவுரை எழுதுவேன்.",
+  "synonyms": [
+   "ending",
+   "sign-off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rookie",
+  "meaning": "A person who is new and has little experience in a job.",
+  "tamil": "புதிய அனுபவமற்ற பணியாளர்",
+  "pos": "noun",
+  "pron": "RUK-ee",
+  "example": "Every rookie makes a few mistakes in the first month.",
+  "exampleTamil": "ஒவ்வொரு புதியவரும் முதல் மாதத்தில் சில தவறுகள் செய்வார்.",
+  "synonyms": [
+   "beginner",
+   "newcomer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bossy",
+  "meaning": "Liking to give orders to other people.",
+  "tamil": "அதிகாரம் செலுத்தும்",
+  "pos": "adjective",
+  "pron": "BOS-ee",
+  "example": "Nobody likes working with a bossy person.",
+  "exampleTamil": "அதிகாரம் செலுத்தும் ஒருவருடன் வேலை செய்ய யாருக்கும் பிடிக்காது.",
+  "synonyms": [
+   "controlling",
+   "pushy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "regional",
+  "meaning": "Related to one area or part of a country.",
+  "tamil": "பிராந்திய",
+  "pos": "adjective",
+  "pron": "REE-juh-nul",
+  "example": "She is the regional manager for South India.",
+  "exampleTamil": "அவர் தென்னிந்தியாவுக்கான பிராந்திய மேலாளர்.",
+  "synonyms": [
+   "local",
+   "area"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "slack",
+  "meaning": "Not busy, with little work to do.",
+  "tamil": "வேலை குறைவான",
+  "pos": "adjective",
+  "pron": "SLAK",
+  "example": "Business is slack in the month of August.",
+  "exampleTamil": "ஆகஸ்ட் மாதத்தில் வியாபாரம் மந்தமாக இருக்கும்.",
+  "synonyms": [
+   "quiet",
+   "slow"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shortlisted",
+  "meaning": "Chosen from many people for the final round.",
+  "tamil": "இறுதிச் சுற்றுக்குத் தேர்ந்தெடுக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "SHORT-lis-tid",
+  "example": "I was shortlisted for the job interview!",
+  "exampleTamil": "வேலை நேர்முகத் தேர்வுக்கு நான் தேர்வு செய்யப்பட்டேன்!",
+  "synonyms": [
+   "selected",
+   "chosen"
+  ],
+  "level": "beginner"
+ }
+]

@@ -1,0 +1,342 @@
+[
+ {
+  "word": "streaming",
+  "meaning": "Watching or listening online without downloading the file.",
+  "tamil": "பதிவிறக்காமல் இணையத்தில் நேரடியாகப் பார்த்தல் அல்லது கேட்டல்",
+  "pos": "noun",
+  "pron": "STREE-ming",
+  "example": "Streaming movies uses a lot of mobile data.",
+  "exampleTamil": "திரைப்படங்களை ஸ்ட்ரீம் செய்வது நிறைய மொபைல் டேட்டாவை பயன்படுத்துகிறது.",
+  "synonyms": [
+   "online playing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stylus",
+  "meaning": "A thin pen used to write or draw on a touchscreen.",
+  "tamil": "தொடுதிரையில் எழுத அல்லது வரைய பயன்படும் மெல்லிய பேனா",
+  "pos": "noun",
+  "pron": "STY-lus",
+  "example": "She draws on her tablet with a stylus.",
+  "exampleTamil": "அவள் ஸ்டைலஸ் கொண்டு டேப்லெட்டில் வரைகிறாள்.",
+  "synonyms": [
+   "digital pen"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "webpage",
+  "meaning": "One page of a website that you can open in a browser.",
+  "tamil": "இணையதளத்தின் ஒரு பக்கம்",
+  "pos": "noun",
+  "pron": "WEB-payj",
+  "example": "This webpage takes too long to load.",
+  "exampleTamil": "இந்த இணையப் பக்கம் திறக்க மிகவும் நேரம் எடுக்கிறது.",
+  "synonyms": [
+   "page",
+   "site"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "joystick",
+  "meaning": "A handle you move to control a game or machine.",
+  "tamil": "விளையாட்டு அல்லது இயந்திரத்தை இயக்க நகர்த்தும் கைப்பிடி",
+  "pos": "noun",
+  "pron": "JOY-stik",
+  "example": "The child held the joystick tightly and played.",
+  "exampleTamil": "குழந்தை ஜாய்ஸ்டிக்கை இறுக்கிப் பிடித்து விளையாடியது.",
+  "synonyms": [
+   "controller",
+   "lever"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gps",
+  "meaning": "A system that shows your location and gives directions.",
+  "tamil": "உங்கள் இருப்பிடத்தையும் வழியையும் காட்டும் அமைப்பு",
+  "pos": "noun",
+  "pron": "JEE-pee-ES",
+  "example": "The GPS showed us the quickest way to the station.",
+  "exampleTamil": "ஜிபிஎஸ் எங்களுக்கு நிலையத்துக்கு விரைவான வழியைக் காட்டியது.",
+  "synonyms": [
+   "navigation",
+   "map app"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "influencer",
+  "meaning": "A person with many followers who affects what others buy or do.",
+  "tamil": "சமூக ஊடகத்தில் பலரைப் பாதிக்கும் பிரபலம்",
+  "pos": "noun",
+  "pron": "IN-floo-en-ser",
+  "example": "The influencer showed her new phone to millions of fans.",
+  "exampleTamil": "அந்த செல்வாக்காளர் தன் புதிய கைபேசியை லட்சக்கணக்கான ரசிகர்களுக்குக் காட்டினார்.",
+  "synonyms": [
+   "creator",
+   "celebrity"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "e-commerce",
+  "meaning": "Buying and selling goods over the internet.",
+  "tamil": "இணையம் வழியாக பொருட்களை வாங்குதல் மற்றும் விற்றல்",
+  "pos": "noun",
+  "pron": "EE-kom-urs",
+  "example": "E-commerce has helped small shops reach new customers.",
+  "exampleTamil": "மின்வணிகம் சிறிய கடைகள் புதிய வாடிக்கையாளர்களை அடைய உதவியுள்ளது.",
+  "synonyms": [
+   "online shopping",
+   "online trade"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wearable",
+  "meaning": "A small electronic device that you wear on your body.",
+  "tamil": "உடலில் அணியக்கூடிய சிறிய மின்னணுக் கருவி",
+  "pos": "noun",
+  "pron": "WAIR-uh-bul",
+  "example": "Wearables can measure your heart rate.",
+  "exampleTamil": "அணியக்கூடிய கருவிகள் உங்கள் இதயத் துடிப்பை அளவிட முடியும்.",
+  "synonyms": [
+   "smart device"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "touchpad",
+  "meaning": "The flat area on a laptop that you touch to move the pointer.",
+  "tamil": "டச்பேட், மடிக்கணினியில் தொட்டு சுட்டியை நகர்த்தும் தட்டையான பகுதி",
+  "pos": "noun",
+  "pron": "TUCH-pad",
+  "example": "The touchpad on my laptop is not working.",
+  "exampleTamil": "என் மடிக்கணினியின் டச்பேட் வேலை செய்யவில்லை.",
+  "synonyms": [
+   "trackpad"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pendrive",
+  "meaning": "A small device for carrying files and plugging into a computer.",
+  "tamil": "பென்டிரைவ், கோப்புகளை எடுத்துச் செல்லும் சிறிய சாதனம்",
+  "pos": "noun",
+  "pron": "PEN-dryv",
+  "example": "Copy the files onto this pendrive, please.",
+  "exampleTamil": "தயவுசெய்து கோப்புகளை இந்த பென்டிரைவில் நகலெடுங்கள்.",
+  "synonyms": [
+   "flash drive",
+   "USB stick"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chatbot",
+  "meaning": "A computer program that talks with people through text or voice.",
+  "tamil": "மனிதருடன் உரையாடும் கணினி நிரல்",
+  "pos": "noun",
+  "pron": "CHAT-bot",
+  "example": "The bank's chatbot answered my question in seconds.",
+  "exampleTamil": "வங்கியின் சாட்பாட் என் கேள்விக்கு சில விநாடிகளில் பதிலளித்தது.",
+  "synonyms": [
+   "virtual assistant",
+   "bot"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "antivirus",
+  "meaning": "Software that finds and removes harmful programs from a computer.",
+  "tamil": "கணினியில் தீங்கு நிரல்களைக் கண்டறிந்து நீக்கும் மென்பொருள்",
+  "pos": "noun",
+  "pron": "AN-tee-VY-rus",
+  "example": "Please keep your antivirus updated at all times.",
+  "exampleTamil": "உங்கள் வைரஸ் தடுப்பு மென்பொருளை எப்போதும் புதுப்பித்து வையுங்கள்.",
+  "synonyms": [
+   "security software",
+   "protection"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "homepage",
+  "meaning": "The main first page of a website.",
+  "tamil": "முகப்புப் பக்கம், ஒரு வலைத்தளத்தின் முதன்மைப் பக்கம்",
+  "pos": "noun",
+  "pron": "HOHM-payj",
+  "example": "The offer is shown on the homepage.",
+  "exampleTamil": "அந்தச் சலுகை முகப்புப் பக்கத்தில் காட்டப்பட்டுள்ளது.",
+  "synonyms": [
+   "main page"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "netbanking",
+  "meaning": "Managing your bank account through the bank's website or app.",
+  "tamil": "வங்கியின் இணையதளம் அல்லது செயலி மூலம் கணக்கை நிர்வகித்தல்",
+  "pos": "noun",
+  "pron": "NET-bank-ing",
+  "example": "I pay my electricity bill through netbanking.",
+  "exampleTamil": "நான் மின் கட்டணத்தை நெட் பேங்கிங் மூலம் செலுத்துகிறேன்.",
+  "synonyms": [
+   "online banking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "newsfeed",
+  "meaning": "The list of posts you see when you open a social media app.",
+  "tamil": "செய்தி ஓடை, சமூக ஊடகத்தில் தெரியும் பதிவுகளின் பட்டியல்",
+  "pos": "noun",
+  "pron": "NYOOZ-feed",
+  "example": "My newsfeed is full of cricket videos.",
+  "exampleTamil": "என் செய்தி ஓடை முழுவதும் கிரிக்கெட் காணொளிகள்.",
+  "synonyms": [
+   "timeline",
+   "feed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "food-delivery",
+  "meaning": "A service that brings cooked meals to your home.",
+  "tamil": "சமைத்த உணவை வீட்டுக்குக் கொண்டுவரும் சேவை",
+  "pos": "noun",
+  "pron": "FOOD dih-LIV-uh-ree",
+  "example": "Food-delivery apps are busy on Sunday nights.",
+  "exampleTamil": "ஞாயிறு இரவுகளில் உணவு விநியோக செயலிகள் பரபரப்பாக இருக்கும்.",
+  "synonyms": [
+   "takeaway",
+   "meal service"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "viral",
+  "meaning": "Spreading very fast to many people on the internet.",
+  "tamil": "இணையத்தில் மிக வேகமாகப் பரவும்",
+  "pos": "adjective",
+  "pron": "VY-rul",
+  "example": "His dance video went viral overnight.",
+  "exampleTamil": "அவனுடைய நடனக் காணொளி ஒரே இரவில் வைரலானது.",
+  "synonyms": [
+   "popular",
+   "widespread"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "malware",
+  "meaning": "Harmful software made to damage or steal from your device.",
+  "tamil": "சாதனத்தை சேதப்படுத்தும் அல்லது திருடும் தீங்கு மென்பொருள்",
+  "pos": "noun",
+  "pron": "MAL-wair",
+  "example": "The strange download put malware on his laptop.",
+  "exampleTamil": "அந்த விசித்திரமான பதிவிறக்கம் அவன் மடிக்கணினியில் தீங்கு மென்பொருளை நிறுவிவிட்டது.",
+  "synonyms": [
+   "virus",
+   "spyware"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vlog",
+  "meaning": "A video diary or blog that someone posts online.",
+  "tamil": "வ்லாக், இணையத்தில் பதிவிடும் காணொளி நாட்குறிப்பு",
+  "pos": "noun",
+  "pron": "VLOG",
+  "example": "She makes a daily vlog about her college life.",
+  "exampleTamil": "அவள் தன் கல்லூரி வாழ்க்கையைப் பற்றி தினமும் ஒரு வ்லாக் செய்கிறாள்.",
+  "synonyms": [
+   "video blog"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unfollow",
+  "meaning": "To stop getting someone's posts on social media.",
+  "tamil": "சமூக ஊடகத்தில் ஒருவரின் பதிவுகளைப் பின்தொடர்வதை நிறுத்துதல்",
+  "pos": "verb",
+  "pron": "un-FOL-oh",
+  "example": "I unfollowed him because he posts too much.",
+  "exampleTamil": "அவன் அதிகமாகப் பதிவிடுவதால் நான் அவனைப் பின்தொடர்வதை நிறுத்தினேன்.",
+  "synonyms": [
+   "stop following"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "controller",
+  "meaning": "A handheld device used to play video games.",
+  "tamil": "வீடியோ விளையாட்டு விளையாட கையில் பிடிக்கும் கருவி",
+  "pos": "noun",
+  "pron": "kun-TROH-ler",
+  "example": "He charged the controller before the game started.",
+  "exampleTamil": "விளையாட்டு தொடங்கும் முன் அவன் கண்ட்ரோலரை சார்ஜ் செய்தான்.",
+  "synonyms": [
+   "gamepad",
+   "joystick"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "screen-share",
+  "meaning": "To show your computer screen to others during an online call.",
+  "tamil": "ஆன்லைன் அழைப்பில் உங்கள் கணினித் திரையை மற்றவர்களுக்குக் காட்டு",
+  "pos": "verb",
+  "pron": "SKREEN shair",
+  "example": "Let me screen-share the slides with everyone.",
+  "exampleTamil": "அனைவருக்கும் ஸ்லைடுகளை என் திரையில் பகிர்கிறேன்.",
+  "synonyms": [
+   "present",
+   "display"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "multiplayer",
+  "meaning": "A game that many people can play together at once.",
+  "tamil": "பலர் சேர்ந்து விளையாடக்கூடிய",
+  "pos": "adjective",
+  "pron": "MUL-tee-PLAY-er",
+  "example": "We love playing multiplayer games on weekends.",
+  "exampleTamil": "நாங்கள் வார இறுதியில் பலர் சேரும் விளையாட்டுகளை விளையாட விரும்புகிறோம்.",
+  "synonyms": [
+   "group",
+   "online"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thermostat",
+  "meaning": "A device that keeps a room at the temperature you set.",
+  "tamil": "அறை வெப்பநிலையை நிலையாக வைக்கும் கருவி",
+  "pos": "noun",
+  "pron": "THUR-muh-stat",
+  "example": "The smart thermostat turns the AC off when we leave.",
+  "exampleTamil": "நாங்கள் வெளியே சென்றால் ஸ்மார்ட் தெர்மோஸ்டாட் ஏசியை அணைத்துவிடும்.",
+  "synonyms": [
+   "temperature control"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sensor",
+  "meaning": "A device that detects light, heat, motion or other changes.",
+  "tamil": "ஒளி, வெப்பம், இயக்கம் போன்றவற்றை உணரும் கருவி",
+  "pos": "noun",
+  "pron": "SEN-ser",
+  "example": "The sensor turns on the light when someone enters.",
+  "exampleTamil": "யாராவது உள்ளே வந்தால் உணரி விளக்கை எரியச் செய்கிறது.",
+  "synonyms": [
+   "detector"
+  ],
+  "level": "intermediate"
+ }
+]

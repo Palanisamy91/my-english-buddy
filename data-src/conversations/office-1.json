@@ -1,0 +1,362 @@
+[
+ {
+  "category": "office",
+  "context": "Greeting a colleague in the morning",
+  "level": "beginner",
+  "en": "Good morning! You're early today.",
+  "tamil": "காலை வணக்கம்! இன்னைக்கு சீக்கிரமே வந்துட்டீங்களே.",
+  "reply": "Morning! Yeah, the traffic was light, so I left early.",
+  "replyTamil": "காலை வணக்கம்! ஆமா, டிராஃபிக் கம்மியா இருந்துச்சு, அதான் சீக்கிரம் கிளம்பிட்டேன்."
+ },
+ {
+  "category": "office",
+  "context": "Monday chat about the weekend",
+  "level": "beginner",
+  "en": "How was your weekend?",
+  "tamil": "உங்க வீக்எண்ட் எப்படி இருந்துச்சு?",
+  "reply": "It was nice and lazy. I just slept and watched movies. How about yours?",
+  "replyTamil": "நிம்மதியா சோம்பேறித்தனமா இருந்துச்சு. தூங்கிட்டு படம் பார்த்தேன். உங்களுக்கு எப்படி?"
+ },
+ {
+  "category": "office",
+  "context": "Complimenting a new haircut",
+  "level": "beginner",
+  "en": "Oh, you got a haircut! Looks good.",
+  "tamil": "அட, முடி வெட்டிட்டீங்களா! நல்லா இருக்கு.",
+  "reply": "Thanks! My sister said it was too long, so I finally went.",
+  "replyTamil": "நன்றி! முடி ரொம்ப நீளமா இருக்குன்னு என் தங்கச்சி சொன்னா, அதான் கடைசியா போனேன்."
+ },
+ {
+  "category": "office",
+  "context": "Asking about breakfast",
+  "level": "beginner",
+  "en": "Did you have breakfast already?",
+  "tamil": "நீங்க டிபன் சாப்பிட்டுட்டீங்களா?",
+  "reply": "Not yet. I'll grab some idli from the canteen in a bit.",
+  "replyTamil": "இன்னும் இல்ல. கொஞ்ச நேரத்துல கேன்டீன்ல இட்லி சாப்பிடுவேன்."
+ },
+ {
+  "category": "office",
+  "context": "Welcoming someone back from leave",
+  "level": "intermediate",
+  "en": "Hey, long time no see! Were you on leave last week?",
+  "tamil": "ஹேய், ரொம்ப நாளாச்சு பார்த்து! போன வாரம் லீவுல இருந்தீங்களா?",
+  "reply": "Yeah, I went home to Madurai for a family function. It's good to be back, though.",
+  "replyTamil": "ஆமா, குடும்ப விசேஷத்துக்கு மதுரைக்கு போயிருந்தேன். இருந்தாலும் திரும்பி வந்தது நல்லா இருக்கு."
+ },
+ {
+  "category": "office",
+  "context": "Late because of heavy rain",
+  "level": "intermediate",
+  "en": "It's pouring outside. Hope you didn't get drenched on the way.",
+  "tamil": "வெளியே கொட்டுது மழை. வர்ற வழியில நனைஞ்சிடலையே?",
+  "reply": "Barely made it. I was stuck under a bus shelter for twenty minutes, so I'm a bit late.",
+  "replyTamil": "ரொம்ப கஷ்டப்பட்டு வந்தேன். இருபது நிமிஷம் பஸ் ஸ்டாப்புல மாட்டிக்கிட்டேன், அதான் கொஞ்சம் லேட்."
+ },
+ {
+  "category": "office",
+  "context": "New ID cards at the office",
+  "level": "intermediate",
+  "en": "Is that a new badge? Did they change the ID cards?",
+  "tamil": "அது புது பேட்ஜா? ஐடி கார்டு மாத்திட்டாங்களா?",
+  "reply": "Yes, HR gave these out on Friday. You must collect yours from the front desk.",
+  "replyTamil": "ஆமா, வெள்ளிக்கிழமை எச்.ஆர். குடுத்தாங்க. உங்களுடையதை ரிசப்ஷன்ல போய் வாங்கிக்கணும்."
+ },
+ {
+  "category": "office",
+  "context": "Colleague looks very sleepy",
+  "level": "intermediate",
+  "en": "Why are you looking so sleepy this morning?",
+  "tamil": "இன்னைக்கு காலையில ஏன் இவ்வளவு தூக்கக் கலக்கமா இருக்கீங்க?",
+  "reply": "Don't ask. I was up till two fixing a build, and I haven't even had my coffee yet.",
+  "replyTamil": "கேக்காதீங்க. ராத்திரி ரெண்டு மணி வரைக்கும் ஒரு பில்டை சரி பண்ணிட்டிருந்தேன், இன்னும் காபி கூட குடிக்கல."
+ },
+ {
+  "category": "office",
+  "context": "Monday morning tiredness",
+  "level": "advanced",
+  "en": "Mondays, right? I'm running on fumes and it's not even nine o'clock.",
+  "tamil": "திங்கட்கிழமை தான்! இன்னும் ஒன்பது மணி கூட ஆகல, எனக்கு சுத்தமா தெம்பே இல்ல.",
+  "reply": "Tell me about it. Let's grab a filter coffee before the standup and try to look alive.",
+  "replyTamil": "அதை ஏன் கேக்குறீங்க. ஸ்டாண்ட்அப்புக்கு முன்னாடி ஒரு ஃபில்டர் காபி குடிச்சுட்டு உற்சாகமா இருக்க முயற்சி பண்ணுவோம்."
+ },
+ {
+  "category": "office",
+  "context": "Meeting a colleague after a floor shift",
+  "level": "advanced",
+  "en": "I haven't seen you around lately. Have you been working from the other floor?",
+  "tamil": "இப்போல்லாம் உங்களை பார்க்கவே முடியல. வேற ஃப்ளோர்ல இருந்து வேலை பண்றீங்களா?",
+  "reply": "Yes, our team got shifted to the fifth floor last month. I've been meaning to drop by and catch up.",
+  "replyTamil": "ஆமா, போன மாசம் எங்க டீமை ஐந்தாவது மாடிக்கு மாத்திட்டாங்க. உங்களை வந்து பார்க்கணும்னு நினைச்சுட்டே இருந்தேன்."
+ },
+ {
+  "category": "office",
+  "context": "Daily standup update",
+  "level": "beginner",
+  "en": "What did you do yesterday?",
+  "tamil": "நேத்து நீங்க என்ன பண்ணீங்க?",
+  "reply": "I fixed two small bugs and wrote some tests for the login page.",
+  "replyTamil": "ரெண்டு சின்ன பக் சரி பண்ணேன், லாகின் பக்கத்துக்கு சில டெஸ்ட்டும் எழுதினேன்."
+ },
+ {
+  "category": "office",
+  "context": "Standup plan for today",
+  "level": "beginner",
+  "en": "And what are you working on today?",
+  "tamil": "இன்னைக்கு நீங்க என்ன வேலை பண்ணப் போறீங்க?",
+  "reply": "Today I'll finish the payment screen. After that, I'll start on the report page.",
+  "replyTamil": "இன்னைக்கு பேமென்ட் ஸ்கிரீனை முடிப்பேன். அதுக்கப்புறம் ரிப்போர்ட் பக்கத்தை ஆரம்பிப்பேன்."
+ },
+ {
+  "category": "office",
+  "context": "Mentioning a blocker",
+  "level": "beginner",
+  "en": "Any blockers on your side?",
+  "tamil": "உங்க பக்கம் ஏதாவது தடை இருக்கா?",
+  "reply": "Just one. I'm waiting for the API details from the backend team.",
+  "replyTamil": "ஒண்ணே ஒண்ணு தான். பேக்எண்ட் டீம்கிட்ட இருந்து ஏபிஐ விவரங்களுக்காக காத்திருக்கேன்."
+ },
+ {
+  "category": "office",
+  "context": "Keeping the standup short",
+  "level": "beginner",
+  "en": "Please keep your updates short today.",
+  "tamil": "இன்னைக்கு உங்க அப்டேட்டை சுருக்கமா சொல்லுங்க.",
+  "reply": "Sure. I'll just say what's done and what's next.",
+  "replyTamil": "சரி. என்ன முடிஞ்சது, அடுத்து என்னன்னு மட்டும் சொல்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Progress on a feature",
+  "level": "intermediate",
+  "en": "How far along are you with the search feature?",
+  "tamil": "தேடல் வசதி வேலை எவ்வளவு தூரம் வந்திருக்கு?",
+  "reply": "About seventy percent done. The UI is ready, but I still need to hook it up to the API.",
+  "replyTamil": "கிட்டத்தட்ட எழுபது சதவீதம் முடிஞ்சிருக்கு. யூஐ தயார், ஆனா இன்னும் ஏபிஐ கூட இணைக்கணும்."
+ },
+ {
+  "category": "office",
+  "context": "Manager asks for clearer updates",
+  "level": "intermediate",
+  "en": "Yesterday's update was a bit vague. Could you be more specific this time?",
+  "tamil": "நேத்து நீங்க சொன்ன அப்டேட் கொஞ்சம் தெளிவா இல்ல. இந்த தடவை இன்னும் குறிப்பா சொல்ல முடியுமா?",
+  "reply": "Sorry about that. I'll mention the exact tickets and the status of each one.",
+  "replyTamil": "அதுக்கு மன்னிச்சுக்கோங்க. ஒவ்வொரு டிக்கெட் எண்ணையும் அதோட நிலைமையையும் சொல்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Migration script status",
+  "level": "intermediate",
+  "en": "Is the migration script ready for testing, or are we still waiting?",
+  "tamil": "மைக்ரேஷன் ஸ்கிரிப்ட் டெஸ்ட் பண்ண தயாரா, இல்ல இன்னும் காத்திருக்கணுமா?",
+  "reply": "It's ready on my machine, but I need one more day to test it on staging.",
+  "replyTamil": "என் மெஷின்ல தயாரா இருக்கு, ஆனா ஸ்டேஜிங்ல டெஸ்ட் பண்ண இன்னும் ஒரு நாள் வேணும்."
+ },
+ {
+  "category": "office",
+  "context": "Skipping the update after leave",
+  "level": "intermediate",
+  "en": "I'll skip my update today, since I was on leave yesterday.",
+  "tamil": "நேத்து லீவுல இருந்ததால இன்னைக்கு என் அப்டேட்டை தவிர்த்துடறேன்.",
+  "reply": "No problem. Just tell us if anything got stuck while you were away.",
+  "replyTamil": "பரவாயில்ல. நீங்க இல்லாதப்போ எதாவது தடைபட்டிருந்தா மட்டும் சொல்லுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Checking release status",
+  "level": "advanced",
+  "en": "Where do we stand on the release? Are we still on track for Friday?",
+  "tamil": "ரிலீஸ் எந்த நிலையில இருக்கு? வெள்ளிக்கிழமைக்கு இன்னும் சரியா இருக்கோமா?",
+  "reply": "Mostly, yes. There's a risk with the payment integration, but I'll flag it by end of day if it slips.",
+  "replyTamil": "பெரும்பாலும் ஆமா. பேமென்ட் இன்டக்ரேஷன்ல கொஞ்சம் ரிஸ்க் இருக்கு, தாமதமானா இன்னைக்கு நாள் முடிவுக்குள்ள சொல்லிடுறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Moving a long discussion offline",
+  "level": "advanced",
+  "en": "Let's take the detailed discussion offline. We're eating into everyone's time.",
+  "tamil": "விவரமான பேச்சை அப்புறமா தனியா வெச்சுக்கலாம். எல்லாரோட நேரமும் வீணாகுது.",
+  "reply": "Fair enough. I'll ping you after the standup and we can sort it out in five minutes.",
+  "replyTamil": "சரிதான். ஸ்டாண்ட்அப் முடிஞ்சதும் உங்களுக்கு மெசேஜ் பண்றேன், அஞ்சு நிமிஷத்துல பேசி முடிச்சிடலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Asking a teammate for a minute",
+  "level": "beginner",
+  "en": "Got a minute? I'm stuck on something small.",
+  "tamil": "ஒரு நிமிஷம் இருக்கா? ஒரு சின்ன விஷயத்துல மாட்டிக்கிட்டேன்.",
+  "reply": "Sure, tell me. What's the problem?",
+  "replyTamil": "சரி, சொல்லுங்க. என்ன பிரச்சனை?"
+ },
+ {
+  "category": "office",
+  "context": "Looking for project documents",
+  "level": "beginner",
+  "en": "Where can I find the project documents?",
+  "tamil": "புராஜெக்ட் டாக்குமெண்ட்ஸ் எங்க கிடைக்கும்?",
+  "reply": "They're on the shared drive, inside the Docs folder. I'll send you the link.",
+  "replyTamil": "ஷேர்டு டிரைவ்ல டாக்ஸ் ஃபோல்டருக்குள்ள இருக்கு. லிங்க் அனுப்பறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Code is not running",
+  "level": "beginner",
+  "en": "My code is not running and I don't know why.",
+  "tamil": "என் கோடு ஓடவே மாட்டேங்குது, ஏன்னு தெரியல.",
+  "reply": "Show me the error. Maybe it's just a missing bracket.",
+  "replyTamil": "எரர் காட்டுங்க. ஒருவேளை ஒரு பிராக்கெட் விட்டுப்போயிருக்கும்."
+ },
+ {
+  "category": "office",
+  "context": "Looking for a busy teammate",
+  "level": "beginner",
+  "en": "Is Karthik free now? I need his help with the database.",
+  "tamil": "கார்த்திக் இப்ப ஃப்ரீயா இருக்காரா? டேட்டாபேஸ்ல அவர் உதவி வேணும்.",
+  "reply": "He's in a meeting till eleven. You can ask him after that.",
+  "replyTamil": "அவர் பதினோரு மணி வரைக்கும் மீட்டிங்ல இருக்காரு. அதுக்கப்புறம் கேளுங்க."
+ },
+ {
+  "category": "office",
+  "context": "Asking for a screen share",
+  "level": "intermediate",
+  "en": "Would you mind taking a look at my screen? I've been staring at this error for an hour.",
+  "tamil": "என் ஸ்கிரீனை கொஞ்சம் பார்க்க முடியுமா? ஒரு மணி நேரமா இந்த எரரையே பார்த்துட்டிருக்கேன்.",
+  "reply": "Not at all. Share your screen and let's see what's going on.",
+  "replyTamil": "தாராளமா. ஸ்கிரீனை ஷேர் பண்ணுங்க, என்ன நடக்குதுன்னு பார்க்கலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Asking for a module walkthrough",
+  "level": "intermediate",
+  "en": "I'm completely new to this module. Could you walk me through it sometime today?",
+  "tamil": "இந்த மாட்யூல் எனக்கு முழுசா புதுசு. இன்னைக்கு எப்பவாவது எனக்கு விளக்கிக் காட்ட முடியுமா?",
+  "reply": "Sure. Let's sit together after lunch and I'll show you the main flow.",
+  "replyTamil": "சரி. சாப்பாட்டுக்கப்புறம் ஒண்ணா உட்காரலாம், முக்கிய ஃப்ளோவை காட்டறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Who gives server access",
+  "level": "intermediate",
+  "en": "Who handles deployment access here? I can't push to the test server.",
+  "tamil": "இங்க டிப்ளாய்மென்ட் அக்சஸை யார் பார்த்துக்கறாங்க? என்னால டெஸ்ட் சர்வர்ல புஷ் பண்ண முடியல.",
+  "reply": "That's Suresh from DevOps. Raise a ticket and mark him; it's usually done within an hour.",
+  "replyTamil": "அது டெவ்ஆப்ஸ் சுரேஷ். ஒரு டிக்கெட் போட்டு அவரை டேக் பண்ணுங்க, பொதுவா ஒரு மணி நேரத்துல முடிஞ்சிடும்."
+ },
+ {
+  "category": "office",
+  "context": "Container keeps crashing",
+  "level": "intermediate",
+  "en": "Have you worked with Docker before? My container keeps exiting right after it starts.",
+  "tamil": "நீங்க இதுக்கு முன்னாடி டாக்கர் வெச்சு வேலை செஞ்சிருக்கீங்களா? என் கன்டெய்னர் ஸ்டார்ட் ஆனதும் உடனே நின்னுடுது.",
+  "reply": "A little. Check the logs first; it's usually a wrong path or a missing environment variable.",
+  "replyTamil": "கொஞ்சம். முதல்ல லாக்ஸை பாருங்க; பொதுவா தப்பான பாத் இல்லன்னா என்விரான்மென்ட் வேரியபிள் இல்லாம இருக்கும்."
+ },
+ {
+  "category": "office",
+  "context": "Apologising for asking help",
+  "level": "advanced",
+  "en": "I hate to bother you, but I'm out of my depth with this caching issue.",
+  "tamil": "உங்களை தொந்தரவு பண்ண விரும்பல, ஆனா இந்த கேச்சிங் பிரச்சனை எனக்கு புரியவே இல்ல.",
+  "reply": "Don't mention it. Two heads are better than one, so let's debug it together.",
+  "replyTamil": "அதெல்லாம் பரவாயில்ல. ரெண்டு பேர் சேர்ந்தா சுலபமா இருக்கும், ஒண்ணா டீபக் பண்ணலாம்."
+ },
+ {
+  "category": "office",
+  "context": "Asking to pair program",
+  "level": "advanced",
+  "en": "Would it be possible to pair with you for half an hour? I'd like to see how you approached this.",
+  "tamil": "அரை மணி நேரம் உங்ககூட சேர்ந்து வேலை பண்ண முடியுமா? நீங்க இதை எப்படி அணுகினீங்கன்னு பார்க்க ஆசைப்படறேன்.",
+  "reply": "Of course. Give me ten minutes to wrap this up and I'm all yours.",
+  "replyTamil": "கண்டிப்பா. இதை முடிக்க பத்து நிமிஷம் குடுங்க, அப்புறம் முழுசா உங்களுக்காக தான்."
+ },
+ {
+  "category": "office",
+  "context": "Requesting a pull request review",
+  "level": "beginner",
+  "en": "I've raised a pull request. Please review it when you're free.",
+  "tamil": "நான் ஒரு புல் ரிக்வெஸ்ட் போட்டிருக்கேன். ஃப்ரீ ஆனதும் ரிவ்யூ பண்ணுங்க.",
+  "reply": "Okay, I'll check it after lunch. Is it a big change?",
+  "replyTamil": "சரி, சாப்பாட்டுக்கப்புறம் பார்க்கறேன். பெரிய மாற்றமா?"
+ },
+ {
+  "category": "office",
+  "context": "Praising clean code",
+  "level": "beginner",
+  "en": "Your code looks clean.",
+  "tamil": "உங்க கோடு சுத்தமா இருக்கு.",
+  "reply": "Thank you! I tried to keep the functions small this time.",
+  "replyTamil": "நன்றி! இந்த தடவை ஃபங்ஷன்களை சின்னதா வெச்சுக்க முயற்சி பண்ணேன்."
+ },
+ {
+  "category": "office",
+  "context": "Asking why a file changed",
+  "level": "beginner",
+  "en": "Why did you change this file?",
+  "tamil": "இந்த ஃபைலை ஏன் மாத்தினீங்க?",
+  "reply": "The old code had a small bug, so I fixed it here.",
+  "replyTamil": "பழைய கோடுல ஒரு சின்ன பக் இருந்துச்சு, அதான் இங்க சரி பண்ணேன்."
+ },
+ {
+  "category": "office",
+  "context": "Checking pull request approval",
+  "level": "beginner",
+  "en": "Has my pull request been approved yet?",
+  "tamil": "என் புல் ரிக்வெஸ்ட் இன்னும் அப்ரூவ் ஆகலையா?",
+  "reply": "Not yet. I left two comments. Fix them and I'll approve.",
+  "replyTamil": "இன்னும் இல்ல. ரெண்டு கமெண்ட் போட்டிருக்கேன். அதை சரி பண்ணுங்க, நான் அப்ரூவ் பண்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Minor review comments",
+  "level": "intermediate",
+  "en": "There are a few nitpicks in the review, but nothing serious.",
+  "tamil": "ரிவ்யூல சில சின்ன விஷயங்கள் இருக்கு, ஆனா பெரிசா ஒண்ணுமில்ல.",
+  "reply": "Thanks for letting me know. I'll clean them up and push again within the hour.",
+  "replyTamil": "சொன்னதுக்கு நன்றி. அதை சரி பண்ணி ஒரு மணி நேரத்துக்குள்ள மறுபடி புஷ் பண்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Reusing an existing helper",
+  "level": "intermediate",
+  "en": "Any reason you didn't use the existing helper function here?",
+  "tamil": "இங்க ஏற்கனவே இருக்கற ஹெல்பர் ஃபங்ஷனை ஏன் பயன்படுத்தல?",
+  "reply": "Honestly, I didn't know it existed. I'll replace my code with that.",
+  "replyTamil": "உண்மையைச் சொன்னா, அது இருக்குன்னே எனக்கு தெரியாது. என் கோடை மாத்தி அதை பயன்படுத்தறேன்."
+ },
+ {
+  "category": "office",
+  "context": "Asking for unit tests",
+  "level": "intermediate",
+  "en": "Please add unit tests before I approve this.",
+  "tamil": "நான் அப்ரூவ் பண்றதுக்கு முன்னாடி யூனிட் டெஸ்ட் சேர்த்துடுங்க.",
+  "reply": "Fair point. I'll add tests for the edge cases and update the pull request today.",
+  "replyTamil": "சரியா சொன்னீங்க. விளிம்பு நிலைகளுக்கு டெஸ்ட் சேர்த்து இன்னைக்கே புல் ரிக்வெஸ்டை அப்டேட் பண்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Resolving merge conflicts",
+  "level": "intermediate",
+  "en": "Did you resolve the merge conflicts, or should I do it?",
+  "tamil": "மெர்ஜ் கான்ஃப்ளிக்ட்ஸை நீங்க சரி பண்ணிட்டீங்களா, இல்ல நான் பண்ணட்டுமா?",
+  "reply": "I'm on it. I pulled the latest changes just now, and I'll push in a few minutes.",
+  "replyTamil": "நான் பார்த்துட்டிருக்கேன். இப்பதான் லேட்டஸ்ட் மாற்றங்களை இழுத்தேன், கொஞ்ச நிமிஷத்துல புஷ் பண்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Scalability concern in review",
+  "level": "advanced",
+  "en": "I'm not sure this approach will scale. Have you thought about what happens with a million records?",
+  "tamil": "இந்த முறை பெரிய அளவுக்கு தாங்கும்னு எனக்கு நம்பிக்கை இல்ல. பத்து லட்சம் ரெக்கார்டு வந்தா என்ன ஆகும்னு யோசிச்சீங்களா?",
+  "reply": "Good catch. I hadn't considered that. Let me benchmark it and come back with numbers.",
+  "replyTamil": "நல்லா கவனிச்சீங்க. அதை நான் யோசிக்கல. பெஞ்ச்மார்க் பண்ணி எண்களோட வர்றேன்."
+ },
+ {
+  "category": "office",
+  "context": "Receiving many review comments",
+  "level": "advanced",
+  "en": "I left quite a few comments on your PR. Don't take them personally; they're just suggestions.",
+  "tamil": "உங்க புல் ரிக்வெஸ்ட்ல நிறைய கமெண்ட் போட்டிருக்கேன். தப்பா எடுத்துக்காதீங்க, எல்லாம் வெறும் ஆலோசனைகள் தான்.",
+  "reply": "Not at all, I appreciate the detail. I'd rather hear it now than after it breaks in production.",
+  "replyTamil": "இல்லவே இல்ல, விவரமா பார்த்ததுக்கு நன்றி. புரொடக்ஷன்ல உடைஞ்சதுக்கு அப்புறம் கேக்கறதை விட இப்பவே கேக்கறது மேல்."
+ }
+]

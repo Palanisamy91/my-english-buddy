@@ -1,0 +1,347 @@
+[
+ {
+  "word": "hi",
+  "meaning": "A short friendly way to say hello.",
+  "tamil": "வணக்கம், ஹாய்",
+  "pos": "interjection",
+  "pron": "HY",
+  "example": "Hi, how was your day?",
+  "exampleTamil": "ஹாய், உன் நாள் எப்படி இருந்தது?",
+  "synonyms": [
+   "hello",
+   "hey"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hey",
+  "meaning": "An informal word to get attention or greet someone.",
+  "tamil": "ஏய், ஹே",
+  "pos": "interjection",
+  "pron": "HAY",
+  "example": "Hey, wait for me!",
+  "exampleTamil": "ஏய், எனக்காகக் காத்திரு!",
+  "synonyms": [
+   "hi",
+   "hello"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "bye",
+  "meaning": "A short word you say when leaving.",
+  "tamil": "போய் வருகிறேன்",
+  "pos": "interjection",
+  "pron": "BY",
+  "example": "Bye, see you tomorrow!",
+  "exampleTamil": "போய் வருகிறேன், நாளை பார்க்கலாம்!",
+  "synonyms": [
+   "goodbye",
+   "farewell"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "okay",
+  "meaning": "Used to agree or say that something is acceptable.",
+  "tamil": "சரி, ஒப்புக்கொள்கிறேன்",
+  "pos": "adjective",
+  "pron": "oh-KAY",
+  "example": "Okay, I will call you at six.",
+  "exampleTamil": "சரி, நான் ஆறு மணிக்கு உன்னை அழைக்கிறேன்.",
+  "synonyms": [
+   "alright",
+   "fine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "winter",
+  "meaning": "The cold season of the year, after autumn.",
+  "tamil": "குளிர்காலம்",
+  "pos": "noun",
+  "pron": "WIN-ter",
+  "example": "It gets very cold in the north during winter.",
+  "exampleTamil": "குளிர்காலத்தில் வடக்கில் மிகவும் குளிராக இருக்கும்.",
+  "synonyms": [
+   "cold season"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "alright",
+  "meaning": "Used to agree, or to say that things are acceptable.",
+  "tamil": "சரி, பரவாயில்லை",
+  "pos": "adjective",
+  "pron": "awl-RITE",
+  "example": "Alright, let us start the class.",
+  "exampleTamil": "சரி, வகுப்பைத் தொடங்கலாம்.",
+  "synonyms": [
+   "okay",
+   "fine"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "really",
+  "meaning": "Used to ask if something is true or to add strength.",
+  "tamil": "உண்மையாகவா, மிகவும்",
+  "pos": "adverb",
+  "pron": "REER-lee",
+  "example": "Really? You won the prize?",
+  "exampleTamil": "உண்மையாகவா? நீ பரிசு வென்றாயா?",
+  "synonyms": [
+   "truly",
+   "seriously"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "yeah",
+  "meaning": "An informal way of saying yes.",
+  "tamil": "ஆமாம்",
+  "pos": "interjection",
+  "pron": "YEH-uh",
+  "example": "Yeah, I know that song.",
+  "exampleTamil": "ஆமாம், எனக்கு அந்தப் பாடல் தெரியும்.",
+  "synonyms": [
+   "yes",
+   "yep"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "nope",
+  "meaning": "An informal way of saying no.",
+  "tamil": "இல்லை",
+  "pos": "interjection",
+  "pron": "NOHP",
+  "example": "Nope, I have not seen your keys.",
+  "exampleTamil": "இல்லை, உன் சாவியை நான் பார்க்கவில்லை.",
+  "synonyms": [
+   "no",
+   "nah"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "yep",
+  "meaning": "A casual way of saying yes.",
+  "tamil": "ஆம்",
+  "pos": "interjection",
+  "pron": "YEP",
+  "example": "Yep, I am ready to go.",
+  "exampleTamil": "ஆம், நான் போகத் தயார்.",
+  "synonyms": [
+   "yes",
+   "yeah"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wow",
+  "meaning": "Used to show you are very surprised or impressed.",
+  "tamil": "வாவ், அடடா",
+  "pos": "interjection",
+  "pron": "WOW",
+  "example": "Wow, this cake is delicious!",
+  "exampleTamil": "வாவ், இந்த கேக் மிகவும் சுவையாக இருக்கிறது!",
+  "synonyms": [
+   "amazing",
+   "gosh"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "oops",
+  "meaning": "Said when you make a small mistake.",
+  "tamil": "அச்சச்சோ",
+  "pos": "interjection",
+  "pron": "OOPS",
+  "example": "Oops, I dropped my pen.",
+  "exampleTamil": "அச்சச்சோ, என் பேனாவைக் கீழே போட்டுவிட்டேன்.",
+  "synonyms": [
+   "whoops",
+   "sorry"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ouch",
+  "meaning": "Said when you feel sudden pain.",
+  "tamil": "ஆ, வலிக்கிறது",
+  "pos": "interjection",
+  "pron": "OWCH",
+  "example": "Ouch, that hot tea burnt my tongue!",
+  "exampleTamil": "ஆ, அந்த சூடான தேநீர் என் நாக்கைச் சுட்டுவிட்டது!",
+  "synonyms": [
+   "ow"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "great",
+  "meaning": "Very good; used to show you are happy about something.",
+  "tamil": "அருமை, மிகச் சிறந்த",
+  "pos": "adjective",
+  "pron": "GRAYT",
+  "example": "That is great news, congratulations!",
+  "exampleTamil": "இது அருமையான செய்தி, வாழ்த்துகள்!",
+  "synonyms": [
+   "excellent",
+   "wonderful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "awesome",
+  "meaning": "Very good or impressive; a casual word of praise.",
+  "tamil": "அற்புதமான",
+  "pos": "adjective",
+  "pron": "AW-sum",
+  "example": "The movie was awesome.",
+  "exampleTamil": "அந்தத் திரைப்படம் அற்புதமாக இருந்தது.",
+  "synonyms": [
+   "amazing",
+   "cool"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "super",
+  "meaning": "Very good; used for strong praise.",
+  "tamil": "மிகச் சிறந்த",
+  "pos": "adjective",
+  "pron": "SOO-per",
+  "example": "Your idea sounds super.",
+  "exampleTamil": "உன் யோசனை மிகச் சிறப்பாக இருக்கிறது.",
+  "synonyms": [
+   "great",
+   "excellent"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "evening",
+  "meaning": "The time of day between afternoon and night.",
+  "tamil": "மாலை நேரம்",
+  "pos": "noun",
+  "pron": "EEV-ning",
+  "example": "We go for a walk every evening.",
+  "exampleTamil": "நாங்கள் ஒவ்வொரு மாலையும் நடைப்பயிற்சி செல்வோம்.",
+  "synonyms": [
+   "dusk",
+   "sunset"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "afternoon",
+  "meaning": "The time of day from noon until evening.",
+  "tamil": "மதிய நேரம், பிற்பகல்",
+  "pos": "noun",
+  "pron": "af-ter-NOON",
+  "example": "I take a short nap in the afternoon.",
+  "exampleTamil": "நான் பிற்பகலில் சிறிது தூங்குவேன்.",
+  "synonyms": [
+   "midday"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "midnight",
+  "meaning": "Twelve o'clock at night.",
+  "tamil": "நள்ளிரவு",
+  "pos": "noun",
+  "pron": "MID-nite",
+  "example": "The train reached the station at midnight.",
+  "exampleTamil": "ரயில் நள்ளிரவில் நிலையத்தை அடைந்தது.",
+  "synonyms": [
+   "late night"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "noon",
+  "meaning": "Twelve o'clock in the day.",
+  "tamil": "நண்பகல்",
+  "pos": "noun",
+  "pron": "NOON",
+  "example": "Let us meet at noon for lunch.",
+  "exampleTamil": "மதிய உணவுக்கு நண்பகலில் சந்திக்கலாம்.",
+  "synonyms": [
+   "midday"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dawn",
+  "meaning": "The first light of the day, just before sunrise.",
+  "tamil": "விடியற்காலை",
+  "pos": "noun",
+  "pron": "DAWN",
+  "example": "Farmers wake up at dawn.",
+  "exampleTamil": "விவசாயிகள் விடியற்காலையில் எழுவார்கள்.",
+  "synonyms": [
+   "daybreak",
+   "sunrise"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "storm",
+  "meaning": "Very bad weather with strong wind and heavy rain.",
+  "tamil": "புயல்",
+  "pos": "noun",
+  "pron": "STORM",
+  "example": "A big storm hit the town last night.",
+  "exampleTamil": "நேற்றிரவு ஒரு பெரிய புயல் ஊரைத் தாக்கியது.",
+  "synonyms": [
+   "cyclone",
+   "gale"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "snow",
+  "meaning": "Soft white ice that falls from the sky in very cold places.",
+  "tamil": "பனிப்பொழிவு, பனி",
+  "pos": "noun",
+  "pron": "SNOH",
+  "example": "The children were excited to see snow for the first time.",
+  "exampleTamil": "குழந்தைகள் முதல் முறையாக பனியைப் பார்த்து உற்சாகமடைந்தனர்.",
+  "synonyms": [
+   "snowfall",
+   "frost"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "earlier",
+  "meaning": "At a time before now or before another time.",
+  "tamil": "முன்னதாக",
+  "pos": "adverb",
+  "pron": "UR-lee-er",
+  "example": "I told you earlier that I was busy.",
+  "exampleTamil": "நான் பிஸியாக இருக்கிறேன் என்று உன்னிடம் முன்பே சொன்னேன்.",
+  "synonyms": [
+   "before",
+   "previously"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "forever",
+  "meaning": "For all time; without ever ending.",
+  "tamil": "என்றென்றும்",
+  "pos": "adverb",
+  "pron": "fer-EV-er",
+  "example": "I will remember this day forever.",
+  "exampleTamil": "இந்த நாளை நான் என்றென்றும் நினைவில் வைத்திருப்பேன்.",
+  "synonyms": [
+   "always",
+   "eternally"
+  ],
+  "level": "beginner"
+ }
+]

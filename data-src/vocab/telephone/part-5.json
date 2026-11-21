@@ -1,0 +1,775 @@
+[
+ {
+  "word": "misheard",
+  "tamil": "தவறாகக் கேட்ட",
+  "pos": "adjective",
+  "pron": "mis-HERD",
+  "example": "Sorry, I think I misheard the last digit.",
+  "exampleTamil": "மன்னிக்கவும், கடைசி இலக்கத்தைத் தவறாகக் கேட்டுவிட்டேன் என நினைக்கிறேன்.",
+  "synonyms": [
+   "heard wrongly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mispronounce",
+  "tamil": "தவறாக உச்சரி",
+  "pos": "verb",
+  "pron": "mis-pruh-NOWNS",
+  "example": "People often mispronounce my name on the phone.",
+  "exampleTamil": "போனில் மக்கள் என் பெயரை அடிக்கடி தவறாக உச்சரிக்கிறார்கள்.",
+  "synonyms": [
+   "say wrongly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "misunderstand",
+  "tamil": "தவறாகப் புரிந்துகொள்",
+  "pos": "verb",
+  "pron": "mis-un-der-STAND",
+  "example": "I did not want you to misunderstand my message.",
+  "exampleTamil": "என் செய்தியை நீங்கள் தவறாகப் புரிந்துகொள்ளக் கூடாது என்று விரும்பினேன்.",
+  "synonyms": [
+   "misread",
+   "misinterpret"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "apologize",
+  "tamil": "மன்னிப்புக் கேள்",
+  "pos": "verb",
+  "pron": "uh-POL-uh-jize",
+  "example": "We apologize for the long wait on the line.",
+  "exampleTamil": "இணைப்பில் நீண்ட நேரம் காக்க வைத்ததற்கு வருந்துகிறோம்.",
+  "synonyms": [
+   "say sorry",
+   "regret"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "patience",
+  "tamil": "பொறுமை",
+  "pos": "noun",
+  "pron": "PAY-shuns",
+  "example": "Thank you for your patience while we check.",
+  "exampleTamil": "நாங்கள் சரிபார்க்கும்வரை பொறுமையாக இருந்ததற்கு நன்றி.",
+  "synonyms": [
+   "tolerance",
+   "calmness"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "farewell",
+  "tamil": "விடைபெறுதல்",
+  "pos": "noun",
+  "pron": "fair-WEL",
+  "example": "He said a quick farewell and ended the call.",
+  "exampleTamil": "அவர் சுருக்கமாக விடைபெற்று அழைப்பை முடித்தார்.",
+  "synonyms": [
+   "goodbye",
+   "parting"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "slowly",
+  "tamil": "மெதுவாக",
+  "pos": "adverb",
+  "pron": "SLOH-lee",
+  "example": "Could you speak a little more slowly, please?",
+  "exampleTamil": "கொஞ்சம் மெதுவாகப் பேச முடியுமா?",
+  "synonyms": [
+   "gradually",
+   "unhurriedly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "etiquette",
+  "tamil": "நடத்தை நெறிமுறை",
+  "pos": "noun",
+  "pron": "ET-ih-ket",
+  "example": "Good phone etiquette makes a strong first impression.",
+  "exampleTamil": "நல்ல தொலைபேசி நாகரிகம் வலுவான முதல் எண்ணத்தை உருவாக்கும்.",
+  "synonyms": [
+   "manners",
+   "protocol"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hoax",
+  "tamil": "பொய்யான அழைப்பு",
+  "pos": "noun",
+  "pron": "HOKS",
+  "example": "The bomb threat call turned out to be a hoax.",
+  "exampleTamil": "அந்த வெடிகுண்டு மிரட்டல் அழைப்பு பொய்யாக இருந்தது.",
+  "synonyms": [
+   "prank",
+   "false alarm"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dispatcher",
+  "tamil": "அவசர உதவி அனுப்புபவர்",
+  "pos": "noun",
+  "pron": "dih-SPACH-er",
+  "example": "The dispatcher asked for my exact address.",
+  "exampleTamil": "அனுப்புநர் என் சரியான முகவரியைக் கேட்டார்.",
+  "synonyms": [
+   "controller"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "paramedic",
+  "tamil": "முதலுதவி மருத்துவ ஊழியர்",
+  "pos": "noun",
+  "pron": "par-uh-MED-ik",
+  "example": "A paramedic reached the house within ten minutes.",
+  "exampleTamil": "பத்து நிமிடங்களுக்குள் ஒரு முதலுதவி ஊழியர் வீட்டை அடைந்தார்.",
+  "synonyms": [
+   "medic",
+   "ambulance crew"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "distress",
+  "tamil": "துன்பம்",
+  "pos": "noun",
+  "pron": "dih-STRESS",
+  "example": "She sounded in distress, so I called for help.",
+  "exampleTamil": "அவள் துன்பத்தில் இருப்பது போல் ஒலித்ததால் உதவிக்கு அழைத்தேன்.",
+  "synonyms": [
+   "suffering",
+   "anguish"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "coordinates",
+  "tamil": "அட்சரேகை, தீர்க்கரேகை",
+  "pos": "noun",
+  "pron": "koh-OR-dih-nits",
+  "example": "Share your coordinates so rescuers can find you.",
+  "exampleTamil": "மீட்புக்குழு உங்களைக் கண்டுபிடிக்க உங்கள் ஆயத்தொலைவுகளைப் பகிருங்கள்.",
+  "synonyms": [
+   "map position"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "casualty",
+  "tamil": "விபத்தில் பாதிக்கப்பட்டவர்",
+  "pos": "noun",
+  "pron": "KAZH-oo-ul-tee",
+  "example": "The caller reported one casualty at the scene.",
+  "exampleTamil": "அழைத்தவர் சம்பவ இடத்தில் ஒருவர் பாதிக்கப்பட்டதாகத் தெரிவித்தார்.",
+  "synonyms": [
+   "victim",
+   "injured person"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "injured",
+  "tamil": "காயமடைந்த",
+  "pos": "adjective",
+  "pron": "IN-jerd",
+  "example": "My friend is injured and needs an ambulance.",
+  "exampleTamil": "என் நண்பர் காயமடைந்துள்ளார், ஆம்புலன்ஸ் தேவை.",
+  "synonyms": [
+   "hurt",
+   "wounded"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "unconscious",
+  "tamil": "மயக்கமடைந்த",
+  "pos": "adjective",
+  "pron": "un-KON-shus",
+  "example": "He is unconscious but still breathing.",
+  "exampleTamil": "அவர் மயக்கத்தில் உள்ளார், ஆனால் இன்னும் சுவாசிக்கிறார்.",
+  "synonyms": [
+   "knocked out",
+   "senseless"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "breathing",
+  "tamil": "சுவாசித்தல்",
+  "pos": "noun",
+  "pron": "BREE-thing",
+  "example": "Is the patient breathing normally right now?",
+  "exampleTamil": "நோயாளி இப்போது சாதாரணமாக சுவாசிக்கிறாரா?",
+  "synonyms": [
+   "respiration"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "choking",
+  "tamil": "மூச்சுத்திணறல்",
+  "pos": "adjective",
+  "pron": "CHOH-king",
+  "example": "My child is choking, please send help quickly.",
+  "exampleTamil": "என் குழந்தைக்கு மூச்சுத்திணறல், விரைவாக உதவி அனுப்புங்கள்.",
+  "synonyms": [
+   "suffocating"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bleeding",
+  "tamil": "இரத்தப்போக்கு",
+  "pos": "noun",
+  "pron": "BLEE-ding",
+  "example": "Press on the wound to stop the bleeding.",
+  "exampleTamil": "இரத்தப்போக்கை நிறுத்த காயத்தை அழுத்துங்கள்.",
+  "synonyms": [
+   "blood loss"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rescue",
+  "tamil": "மீட்பு",
+  "pos": "noun",
+  "pron": "RES-kyoo",
+  "example": "The rescue team arrived in less than fifteen minutes.",
+  "exampleTamil": "மீட்புக் குழு பதினைந்து நிமிடங்களுக்குள் வந்தது.",
+  "synonyms": [
+   "salvation",
+   "recovery"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "consultation",
+  "tamil": "மருத்துவ ஆலோசனை",
+  "pos": "noun",
+  "pron": "kon-sul-TAY-shun",
+  "example": "I booked a phone consultation with the doctor.",
+  "exampleTamil": "நான் மருத்துவருடன் தொலைபேசி ஆலோசனை பதிவு செய்தேன்.",
+  "synonyms": [
+   "advice session"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "checkup",
+  "tamil": "உடல் பரிசோதனை",
+  "pos": "noun",
+  "pron": "CHEK-up",
+  "example": "I called the clinic to book an annual checkup.",
+  "exampleTamil": "வருடாந்திர பரிசோதனைக்கு பதிவு செய்ய கிளினிக்கை அழைத்தேன்.",
+  "synonyms": [
+   "examination"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "refill",
+  "tamil": "மீண்டும் நிரப்பு",
+  "pos": "noun",
+  "pron": "REE-fil",
+  "example": "I phoned the pharmacy to order a refill.",
+  "exampleTamil": "மருந்தை மீண்டும் வாங்க மருந்தகத்தை அழைத்தேன்.",
+  "synonyms": [
+   "top-up",
+   "replenishment"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "symptom",
+  "tamil": "அறிகுறி",
+  "pos": "noun",
+  "pron": "SIMP-tum",
+  "example": "Describe your symptoms to the nurse on the phone.",
+  "exampleTamil": "தொலைபேசியில் செவிலியரிடம் உங்கள் அறிகுறிகளை விவரியுங்கள்.",
+  "synonyms": [
+   "sign",
+   "indication"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "prepone",
+  "tamil": "முன்னதாக மாற்று",
+  "pos": "verb",
+  "pron": "pree-POHN",
+  "example": "Can we prepone tomorrow's call to ten o'clock?",
+  "exampleTamil": "நாளைய அழைப்பை பத்து மணிக்கு முன்னதாக மாற்றலாமா?",
+  "synonyms": [
+   "move earlier",
+   "bring forward"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "advance",
+  "tamil": "முன்கூட்டிய",
+  "pos": "adjective",
+  "pron": "ad-VANS",
+  "example": "Please give me advance notice before you call.",
+  "exampleTamil": "அழைக்கும் முன் எனக்கு முன்கூட்டியே தெரிவியுங்கள்.",
+  "synonyms": [
+   "early",
+   "prior"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clash",
+  "tamil": "நேரம் மோதல்",
+  "pos": "noun",
+  "pron": "KLASH",
+  "example": "There is a clash between the call and my class.",
+  "exampleTamil": "அந்த அழைப்புக்கும் என் வகுப்புக்கும் நேரம் மோதுகிறது.",
+  "synonyms": [
+   "conflict",
+   "overlap"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "letter",
+  "tamil": "எழுத்து",
+  "pos": "noun",
+  "pron": "LET-er",
+  "example": "Which letter comes after the K in your name?",
+  "exampleTamil": "உங்கள் பெயரில் K-க்கு அடுத்த எழுத்து எது?",
+  "synonyms": [
+   "character"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "otp",
+  "tamil": "ஒருமுறை கடவுச்சொல்",
+  "pos": "noun",
+  "pron": "OH-tee-PEE",
+  "example": "I received an OTP on my mobile for verification.",
+  "exampleTamil": "சரிபார்ப்புக்காக என் மொபைலில் ஒரு OTP வந்தது.",
+  "synonyms": [
+   "one-time code"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bear with",
+  "tamil": "பொறுமையாக இரு",
+  "pos": "phrase",
+  "pron": "BAIR with",
+  "example": "Please bear with me while I check the system.",
+  "exampleTamil": "நான் அமைப்பைச் சரிபார்க்கும்வரை பொறுமையாக இருங்கள்.",
+  "synonyms": [
+   "be patient with"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hold music",
+  "tamil": "காத்திருப்பு இசை",
+  "pos": "phrase",
+  "pron": "HOHLD MYOO-zik",
+  "example": "The hold music was so loud that I could barely think.",
+  "exampleTamil": "காத்திருப்பு இசை மிகவும் சத்தமாக இருந்ததால் சிந்திக்கவே முடியவில்லை.",
+  "synonyms": [
+   "waiting tune"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wait time",
+  "tamil": "காத்திருக்கும் நேரம்",
+  "pos": "phrase",
+  "pron": "WAYT time",
+  "example": "The average wait time is about twelve minutes.",
+  "exampleTamil": "சராசரி காத்திருப்பு நேரம் பன்னிரண்டு நிமிடங்கள்.",
+  "synonyms": [
+   "queue time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "remain calm",
+  "tamil": "அமைதியாக இரு",
+  "pos": "phrase",
+  "pron": "rih-MAYN KAHM",
+  "example": "Try to remain calm and tell me what happened.",
+  "exampleTamil": "அமைதியாக இருந்து என்ன நடந்தது என்று சொல்லுங்கள்.",
+  "synonyms": [
+   "stay calm"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "no-show",
+  "tamil": "வராதவர்",
+  "pos": "phrase",
+  "pron": "NOH-shoh",
+  "example": "Three patients were no-shows after the phone reminders.",
+  "exampleTamil": "நினைவூட்டல் அழைப்புகளுக்குப் பிறகும் மூன்று நோயாளிகள் வரவில்லை.",
+  "synonyms": [
+   "absentee"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "walk-in",
+  "tamil": "முன்பதிவின்றி வருபவர்",
+  "pos": "phrase",
+  "pron": "WAWK-in",
+  "example": "The clinic accepts walk-in patients after four.",
+  "exampleTamil": "நான்கு மணிக்குப் பிறகு கிளினிக் முன்பதிவின்றி வருபவர்களை ஏற்கும்.",
+  "synonyms": [
+   "unbooked visitor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "double-booked",
+  "tamil": "இருமுறை பதிவான",
+  "pos": "phrase",
+  "pron": "DUB-ul-BOOKT",
+  "example": "Sorry, we double-booked that slot by mistake.",
+  "exampleTamil": "மன்னிக்கவும், அந்த நேரத்தை தவறுதலாக இருமுறை பதிவு செய்துவிட்டோம்.",
+  "synonyms": [
+   "overbooked"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "action item",
+  "tamil": "செய்ய வேண்டிய பணி",
+  "pos": "phrase",
+  "pron": "AK-shun EYE-tum",
+  "example": "We ended the call with three action items.",
+  "exampleTamil": "மூன்று செய்ய வேண்டிய பணிகளுடன் அழைப்பை முடித்தோம்.",
+  "synonyms": [
+   "task",
+   "to-do"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unmute yourself",
+  "tamil": "ஒலியை இயக்கு",
+  "pos": "phrase",
+  "pron": "un-MYOOT yor-SELF",
+  "example": "You need to unmute yourself, we cannot hear you.",
+  "exampleTamil": "நீங்கள் ஒலியை இயக்க வேண்டும், எங்களுக்குக் கேட்கவில்லை.",
+  "synonyms": [
+   "turn on mic"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "speed test",
+  "tamil": "வேகச் சோதனை",
+  "pos": "phrase",
+  "pron": "SPEED test",
+  "example": "Run a speed test to check your connection.",
+  "exampleTamil": "உங்கள் இணைப்பைச் சோதிக்க வேகச் சோதனை நடத்துங்கள்.",
+  "synonyms": [
+   "bandwidth check"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "group chat",
+  "tamil": "குழு அரட்டை",
+  "pos": "phrase",
+  "pron": "GROOP chat",
+  "example": "Our group chat has over fifty messages every morning.",
+  "exampleTamil": "எங்கள் குழு அரட்டையில் தினமும் காலை ஐம்பதுக்கும் மேற்பட்ட செய்திகள் உள்ளன.",
+  "synonyms": [
+   "team chat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "voice call",
+  "tamil": "குரல் அழைப்பு",
+  "pos": "phrase",
+  "pron": "VOYS kawl",
+  "example": "Let us switch to a voice call; typing is slow.",
+  "exampleTamil": "டைப் செய்வது மெதுவாக இருப்பதால் குரல் அழைப்புக்கு மாறுவோம்.",
+  "synonyms": [
+   "audio call"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "video call",
+  "tamil": "காணொளி அழைப்பு",
+  "pos": "phrase",
+  "pron": "VID-ee-oh kawl",
+  "example": "I have a video call with my client at noon.",
+  "exampleTamil": "மதியம் என் வாடிக்கையாளருடன் வீடியோ அழைப்பு உள்ளது.",
+  "synonyms": [
+   "video chat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "airplane mode",
+  "tamil": "விமானப் பயன்முறை",
+  "pos": "phrase",
+  "pron": "AIR-playn mohd",
+  "example": "Switch your phone to airplane mode during the flight.",
+  "exampleTamil": "பயணத்தின்போது போனை விமானப் பயன்முறையில் வையுங்கள்.",
+  "synonyms": [
+   "flight mode"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "emergency services",
+  "tamil": "அவசர சேவைகள்",
+  "pos": "phrase",
+  "pron": "ih-MUR-jun-see SUR-vis-iz",
+  "example": "Call the emergency services immediately.",
+  "exampleTamil": "உடனே அவசர சேவைகளை அழையுங்கள்.",
+  "synonyms": [
+   "rescue services"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fire brigade",
+  "tamil": "தீயணைப்புப் படை",
+  "pos": "phrase",
+  "pron": "FIRE bri-GAYD",
+  "example": "The fire brigade was called within two minutes.",
+  "exampleTamil": "இரண்டு நிமிடங்களுக்குள் தீயணைப்புப் படை அழைக்கப்பட்டது.",
+  "synonyms": [
+   "fire service"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "appointment card",
+  "tamil": "முன்பதிவு அட்டை",
+  "pos": "phrase",
+  "pron": "uh-POINT-ment kard",
+  "example": "Bring your appointment card when you visit the clinic.",
+  "exampleTamil": "கிளினிக் வரும்போது முன்பதிவு அட்டையைக் கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "booking slip"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cut off",
+  "tamil": "இணைப்பைத் துண்டி",
+  "pos": "phrase",
+  "pron": "KUT off",
+  "example": "We were cut off halfway through the conversation.",
+  "exampleTamil": "உரையாடலின் பாதியில் எங்கள் இணைப்பு துண்டிக்கப்பட்டது.",
+  "synonyms": [
+   "disconnect"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "call off",
+  "tamil": "ரத்து செய்",
+  "pos": "phrase",
+  "pron": "KAWL off",
+  "example": "They called off the meeting due to the network failure.",
+  "exampleTamil": "நெட்வொர்க் கோளாறால் அவர்கள் கூட்டத்தை ரத்து செய்தனர்.",
+  "synonyms": [
+   "cancel"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "faint",
+  "tamil": "மங்கலான (மெல்லிய)",
+  "pos": "adjective",
+  "pron": "FAYNT",
+  "example": "The voice on the line was too faint to hear.",
+  "exampleTamil": "இணைப்பில் குரல் கேட்க முடியாத அளவு மெல்லியதாக இருந்தது.",
+  "synonyms": [
+   "weak",
+   "soft"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "crackling",
+  "tamil": "கரகர சத்தம்",
+  "pos": "noun",
+  "pron": "KRAK-ling",
+  "example": "I heard a crackling noise throughout the call.",
+  "exampleTamil": "அழைப்பு முழுவதும் கரகர சத்தம் கேட்டது.",
+  "synonyms": [
+   "static",
+   "popping"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hissing",
+  "tamil": "உஸ் சத்தம்",
+  "pos": "noun",
+  "pron": "HIS-ing",
+  "example": "There was a constant hissing on the line.",
+  "exampleTamil": "இணைப்பில் தொடர்ந்து உஸ் சத்தம் இருந்தது.",
+  "synonyms": [
+   "buzzing",
+   "whistling"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "loudly",
+  "tamil": "சத்தமாக",
+  "pos": "adverb",
+  "pron": "LOWD-lee",
+  "example": "He spoke loudly because the signal was weak.",
+  "exampleTamil": "சிக்னல் பலவீனமாக இருந்ததால் அவர் சத்தமாகப் பேசினார்.",
+  "synonyms": [
+   "noisily",
+   "aloud"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "quietly",
+  "tamil": "அமைதியாக, மெதுவாக",
+  "pos": "adverb",
+  "pron": "KWY-ut-lee",
+  "example": "She answered the call quietly during the lecture.",
+  "exampleTamil": "அவள் விரிவுரையின்போது அமைதியாக அழைப்பை ஏற்றாள்.",
+  "synonyms": [
+   "softly",
+   "silently"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "nudge",
+  "tamil": "மெதுவாகத் தூண்டு",
+  "pos": "verb",
+  "pron": "NUJ",
+  "example": "I will nudge him with a reminder message.",
+  "exampleTamil": "நான் ஒரு நினைவூட்டல் செய்தியால் அவரை மெதுவாகத் தூண்டுவேன்.",
+  "synonyms": [
+   "prompt",
+   "remind"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "swipe",
+  "tamil": "விரலால் இழு",
+  "pos": "verb",
+  "pron": "SWIPE",
+  "example": "Swipe right to answer the call.",
+  "exampleTamil": "அழைப்பை ஏற்க வலப்பக்கம் இழுக்கவும்.",
+  "synonyms": [
+   "slide",
+   "drag"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wallpaper",
+  "tamil": "பின்னணிப் படம்",
+  "pos": "noun",
+  "pron": "WAWL-pay-per",
+  "example": "My phone wallpaper is a photo of my family.",
+  "exampleTamil": "என் போன் பின்னணிப் படம் என் குடும்பப் புகைப்படம்.",
+  "synonyms": [
+   "background image"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "reboot",
+  "tamil": "மறுதொடக்கம் செய்",
+  "pos": "verb",
+  "pron": "ree-BOOT",
+  "example": "Reboot your phone if the signal does not return.",
+  "exampleTamil": "சிக்னல் வரவில்லை என்றால் போனை மறுதொடக்கம் செய்யுங்கள்.",
+  "synonyms": [
+   "restart",
+   "reset"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "airtime",
+  "tamil": "பேசும் நேர இருப்பு",
+  "pos": "noun",
+  "pron": "AIR-time",
+  "example": "I ran out of airtime in the middle of the call.",
+  "exampleTamil": "அழைப்பின் நடுவே என் பேசும் நேர இருப்பு தீர்ந்துவிட்டது.",
+  "synonyms": [
+   "talk time",
+   "credit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "intercom",
+  "tamil": "உள் தொடர்பு கருவி",
+  "pos": "noun",
+  "pron": "IN-ter-kom",
+  "example": "Use the intercom to reach the front desk.",
+  "exampleTamil": "வரவேற்பறையை அழைக்க இண்டர்காமைப் பயன்படுத்துங்கள்.",
+  "synonyms": [
+   "internal phone"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pager",
+  "tamil": "பேஜர்",
+  "pos": "noun",
+  "pron": "PAY-jer",
+  "example": "Doctors once carried a pager for urgent calls.",
+  "exampleTamil": "மருத்துவர்கள் முன்பு அவசர அழைப்புகளுக்கு பேஜர் வைத்திருந்தனர்.",
+  "synonyms": [
+   "beeper"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fax",
+  "tamil": "தொலைநகல்",
+  "pos": "noun",
+  "pron": "FAKS",
+  "example": "Please fax the signed form to our office.",
+  "exampleTamil": "கையொப்பமிட்ட படிவத்தை எங்கள் அலுவலகத்திற்கு தொலைநகலில் அனுப்புங்கள்.",
+  "synonyms": [
+   "facsimile"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "keypad",
+  "tamil": "விசைப்பலகை",
+  "pos": "noun",
+  "pron": "KEE-pad",
+  "example": "Press the star key on the keypad.",
+  "exampleTamil": "கீபேடில் நட்சத்திர விசையை அழுத்துங்கள்.",
+  "synonyms": [
+   "number pad",
+   "dialpad"
+  ],
+  "level": "intermediate"
+ }
+]

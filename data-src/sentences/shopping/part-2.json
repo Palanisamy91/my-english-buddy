@@ -1,0 +1,254 @@
+[
+  {
+    "en": "Keep the receipt safe, you will need it for returns.",
+    "tamil": "ரசீதை பத்திரமா வச்சுக்கோங்க, திருப்பிக் கொடுக்க அது வேணும்.",
+    "context": "Advice from a salesperson after you buy.",
+    "tense": "imperative",
+    "type": "statement",
+    "explain": "'Keep' plus an adjective means to stay in that state. 'Will need' says what is necessary later.",
+    "words": [
+      "receipt",
+      "returns"
+    ]
+  },
+  {
+    "en": "Can I return this if it does not fit?",
+    "tamil": "பொருந்தலன்னா இதை திருப்பிக் கொடுக்க முடியுமா?",
+    "context": "Asking about the return rule before buying.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "'If it does not fit' is a condition. 'Return' here means to give a product back.",
+    "words": [
+      "return",
+      "fit"
+    ]
+  },
+  {
+    "en": "You can exchange it within seven days.",
+    "tamil": "ஏழு நாளுக்குள்ள மாத்திக்கலாம்.",
+    "context": "Explaining the shop's exchange policy.",
+    "tense": "modal",
+    "type": "statement",
+    "explain": "'Can' shows that something is allowed. 'Within seven days' means before seven days are over.",
+    "words": [
+      "exchange",
+      "within"
+    ]
+  },
+  {
+    "en": "I want a refund, the screen is cracked.",
+    "tamil": "எனக்கு பணம் திரும்ப வேணும், திரை விரிசல் விழுந்திருக்கு.",
+    "context": "Complaining about a damaged product.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "A refund is money given back. Giving the reason after a comma makes your request clear.",
+    "words": [
+      "refund",
+      "cracked"
+    ]
+  },
+  {
+    "en": "I ordered this phone online last Sunday.",
+    "tamil": "இந்த போனை போன ஞாயிற்றுக்கிழமை ஆன்லைன்ல ஆர்டர் பண்ணேன்.",
+    "context": "Telling when you placed an order.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Ordered' is past tense. 'Last Sunday' tells the time in the past.",
+    "words": [
+      "ordered",
+      "online"
+    ]
+  },
+  {
+    "en": "When will my order be delivered?",
+    "tamil": "என் ஆர்டர் எப்போ டெலிவரி ஆகும்?",
+    "context": "Asking customer care about delivery time.",
+    "tense": "future",
+    "type": "question",
+    "explain": "'Will be delivered' is the future passive. We use it when the action matters more than who does it.",
+    "words": [
+      "order",
+      "delivered"
+    ]
+  },
+  {
+    "en": "The delivery boy has not come yet.",
+    "tamil": "டெலிவரி பையன் இன்னும் வரல.",
+    "context": "Telling someone a parcel is still pending.",
+    "tense": "present-perfect",
+    "type": "negative",
+    "explain": "'Has not come yet' is present perfect negative. 'Yet' shows we are still waiting.",
+    "words": [
+      "delivery",
+      "yet"
+    ]
+  },
+  {
+    "en": "They sent me the wrong size again!",
+    "tamil": "அவங்க திரும்பவும் தப்பான சைஸ் அனுப்பிட்டாங்க!",
+    "context": "Being annoyed about a wrong delivery.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Sent' is the past of 'send'. 'Again' shows this has happened before.",
+    "words": [
+      "wrong",
+      "sent"
+    ]
+  },
+  {
+    "en": "Is cash on delivery available in my area?",
+    "tamil": "என் ஏரியால கேஷ் ஆன் டெலிவரி இருக்கா?",
+    "context": "Checking payment options before ordering.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Cash on delivery' means you pay when the parcel arrives. 'Available' means you can get it.",
+    "words": [
+      "cash",
+      "available"
+    ]
+  },
+  {
+    "en": "I am checking the reviews before I buy it.",
+    "tamil": "வாங்கறதுக்கு முன்னாடி ரிவ்யூ பாத்துக்கிட்டு இருக்கேன்.",
+    "context": "Explaining careful online shopping.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "'Am checking' shows an action happening now. 'Before I buy' tells what comes after.",
+    "words": [
+      "checking",
+      "reviews"
+    ]
+  },
+  {
+    "en": "Have you tracked your parcel on the app?",
+    "tamil": "ஆப்ல உன் பார்சலை ட்ராக் பண்ணியா?",
+    "context": "Asking a friend about their delivery.",
+    "tense": "present-perfect",
+    "type": "question",
+    "explain": "Present perfect asks about an action with a result now. 'Tracked' is the past participle of 'track'.",
+    "words": [
+      "tracked",
+      "app"
+    ]
+  },
+  {
+    "en": "Never buy anything from a link that looks suspicious.",
+    "tamil": "சந்தேகமா தெரியுற லிங்க்ல இருந்து எதையும் வாங்காதீங்க.",
+    "context": "Giving online safety advice.",
+    "tense": "imperative",
+    "type": "negative",
+    "explain": "'Never' plus a base verb is a strong warning. 'Suspicious' means it looks unsafe.",
+    "words": [
+      "never",
+      "suspicious"
+    ]
+  },
+  {
+    "en": "The shop gives a one-year warranty on the fridge.",
+    "tamil": "கடை ஃப்ரிட்ஜுக்கு ஒரு வருஷ உத்தரவாதம் தருது.",
+    "context": "Describing what comes with an appliance.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "A warranty is a promise to repair a product for some time. 'One-year' joins a number and a noun with a hyphen.",
+    "words": [
+      "warranty",
+      "fridge"
+    ]
+  },
+  {
+    "en": "We are going to buy a new washing machine this weekend.",
+    "tamil": "இந்த வார இறுதியில புது வாஷிங் மெஷின் வாங்கப் போறோம்.",
+    "context": "Sharing a shopping plan.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "'Going to' shows a plan you have already made. 'This weekend' is the near future.",
+    "words": [
+      "washing",
+      "weekend"
+    ]
+  },
+  {
+    "en": "Do you accept credit cards or only cash?",
+    "tamil": "கிரெடிட் கார்டு எடுத்துக்குவீங்களா, இல்ல கேஷ் மட்டும்தானா?",
+    "context": "Asking about payment methods at a small shop.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Or' joins two choices in a question. 'Accept' means to agree to take something.",
+    "words": [
+      "accept",
+      "cash"
+    ]
+  },
+  {
+    "en": "I don't have change for a five hundred rupee note.",
+    "tamil": "என்கிட்ட ஐநூறு ரூபாய் நோட்டுக்கு சில்லறை இல்ல.",
+    "context": "Telling the shopkeeper you only have a big note.",
+    "tense": "present",
+    "type": "negative",
+    "explain": "Here 'change' means small coins and notes. 'Don't have' is the simple negative for owning something.",
+    "words": [
+      "change",
+      "note"
+    ]
+  },
+  {
+    "en": "She bought a silk saree for the festival last week.",
+    "tamil": "அவ போன வாரம் பண்டிகைக்கு பட்டுப் புடவை வாங்கினா.",
+    "context": "Talking about festival shopping.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Bought' is the past of 'buy'. 'For the festival' tells the purpose.",
+    "words": [
+      "silk",
+      "saree"
+    ]
+  },
+  {
+    "en": "Which offer is better, buy one get one or twenty percent off?",
+    "tamil": "எந்த ஆஃபர் நல்லது, ஒண்ணு வாங்கினா ஒண்ணு இலவசமா, இல்ல இருபது சதவீத தள்ளுபடியா?",
+    "context": "Comparing two shop offers.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Which' is used when choosing between a few options. 'Better' compares two things.",
+    "words": [
+      "offer",
+      "percent"
+    ]
+  },
+  {
+    "en": "Everything here is fixed price, sir.",
+    "tamil": "இங்க எல்லாமே ஒரே விலைதான், சார்.",
+    "context": "A seller explaining that bargaining is not allowed.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Fixed price' means the price does not change. 'Sir' is a polite way to speak to a customer.",
+    "words": [
+      "fixed",
+      "price"
+    ]
+  },
+  {
+    "en": "I could not find parking, so I walked to the market.",
+    "tamil": "பார்க்கிங் கிடைக்கல, அதனால சந்தைக்கு நடந்து போனேன்.",
+    "context": "Explaining how you reached the market.",
+    "tense": "modal",
+    "type": "negative",
+    "explain": "'Could not' is the past form of 'cannot'. 'So' joins a reason and a result.",
+    "words": [
+      "parking",
+      "walked"
+    ]
+  },
+  {
+    "en": "My budget is only two thousand for the whole month.",
+    "tamil": "என் பட்ஜெட் ஒரு மாசம் முழுக்க இரண்டாயிரம்தான்.",
+    "context": "Explaining a limit on spending.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "'Only' shows that the amount is small. 'The whole month' means from start to end.",
+    "words": [
+      "budget",
+      "month"
+    ]
+  }
+]

@@ -1,0 +1,626 @@
+[
+ {
+  "word": "reasonable",
+  "tamil": "நியாயமான, ஏற்கத்தக்க",
+  "pos": "adjective",
+  "pron": "REE-zun-uh-bul",
+  "example": "That seems like a reasonable price to me.",
+  "exampleTamil": "அது எனக்கு நியாயமான விலை போலத் தெரிகிறது.",
+  "synonyms": [
+   "fair",
+   "sensible"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "significant",
+  "tamil": "குறிப்பிடத்தக்க, முக்கியமான",
+  "pos": "adjective",
+  "pron": "sig-NIF-ih-kunt",
+  "example": "There has been a significant change in his attitude.",
+  "exampleTamil": "அவன் மனப்பான்மையில் குறிப்பிடத்தக்க மாற்றம் ஏற்பட்டுள்ளது.",
+  "synonyms": [
+   "important",
+   "notable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flexible",
+  "tamil": "நெகிழ்வான",
+  "pos": "adjective",
+  "pron": "FLEK-suh-bul",
+  "example": "I am flexible about the time of the meeting.",
+  "exampleTamil": "சந்திப்பின் நேரத்தைப் பற்றி நான் நெகிழ்வாக இருக்கிறேன்.",
+  "synonyms": [
+   "adaptable",
+   "bendable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "obvious",
+  "tamil": "வெளிப்படையான, தெளிவான",
+  "pos": "adjective",
+  "pron": "OB-vee-us",
+  "example": "The answer was obvious to everyone in the room.",
+  "exampleTamil": "பதில் அறையிலிருந்த எல்லோருக்கும் தெளிவாகத் தெரிந்தது.",
+  "synonyms": [
+   "clear",
+   "evident"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "necessary",
+  "tamil": "அவசியமான",
+  "pos": "adjective",
+  "pron": "NES-uh-ser-ee",
+  "example": "It is not necessary to bring any money.",
+  "exampleTamil": "பணம் எதுவும் கொண்டுவர அவசியமில்லை.",
+  "synonyms": [
+   "essential",
+   "required"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "possible",
+  "tamil": "சாத்தியமான",
+  "pos": "adjective",
+  "pron": "POS-uh-bul",
+  "example": "Is it possible to finish this by Friday?",
+  "exampleTamil": "இதை வெள்ளிக்கிழமைக்குள் முடிக்க முடியுமா?",
+  "synonyms": [
+   "feasible",
+   "achievable"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "impossible",
+  "tamil": "சாத்தியமற்ற",
+  "pos": "adjective",
+  "pron": "im-POS-uh-bul",
+  "example": "It's impossible to please everyone all the time.",
+  "exampleTamil": "எல்லோரையும் எப்போதும் திருப்திப்படுத்துவது சாத்தியமற்றது.",
+  "synonyms": [
+   "unachievable",
+   "out of the question"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "familiar",
+  "tamil": "பழக்கமான, அறிமுகமான",
+  "pos": "adjective",
+  "pron": "fuh-MIL-yer",
+  "example": "Her face looks familiar, but I can't remember where.",
+  "exampleTamil": "அவள் முகம் பழக்கமாகத் தெரிகிறது, ஆனால் எங்கே என்று நினைவில்லை.",
+  "synonyms": [
+   "known",
+   "well-known"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "similar",
+  "tamil": "ஒத்த, ஒரே மாதிரியான",
+  "pos": "adjective",
+  "pron": "SIM-uh-ler",
+  "example": "Our tastes in music are quite similar.",
+  "exampleTamil": "இசையில் எங்கள் ரசனைகள் கிட்டத்தட்ட ஒரே மாதிரி.",
+  "synonyms": [
+   "alike",
+   "comparable"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "different",
+  "tamil": "வேறுபட்ட",
+  "pos": "adjective",
+  "pron": "DIF-runt",
+  "example": "Every person learns in a different way.",
+  "exampleTamil": "ஒவ்வொருவரும் வேறுபட்ட முறையில் கற்கிறார்கள்.",
+  "synonyms": [
+   "unlike",
+   "distinct"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "common",
+  "tamil": "பொதுவான, சாதாரணமான",
+  "pos": "adjective",
+  "pron": "KOM-un",
+  "example": "Colds are very common in the winter months.",
+  "exampleTamil": "குளிர்காலத்தில் சளி மிகவும் பொதுவானது.",
+  "synonyms": [
+   "usual",
+   "widespread"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rare",
+  "tamil": "அரிதான",
+  "pos": "adjective",
+  "pron": "RAIR",
+  "example": "It's rare to see snow in this region.",
+  "exampleTamil": "இந்தப் பகுதியில் பனியைப் பார்ப்பது அரிது.",
+  "synonyms": [
+   "uncommon",
+   "scarce"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "typical",
+  "tamil": "வழக்கமான, வழமையான",
+  "pos": "adjective",
+  "pron": "TIP-ih-kul",
+  "example": "This is a typical day in my life.",
+  "exampleTamil": "இது என் வாழ்க்கையில் ஒரு வழக்கமான நாள்.",
+  "synonyms": [
+   "usual",
+   "standard"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "entire",
+  "tamil": "முழுமையான",
+  "pos": "adjective",
+  "pron": "in-TIRE",
+  "example": "He read the entire book in one night.",
+  "exampleTamil": "அவன் முழுப் புத்தகத்தையும் ஒரே இரவில் படித்தான்.",
+  "synonyms": [
+   "whole",
+   "complete"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "complete",
+  "tamil": "முழுமையான",
+  "pos": "adjective",
+  "pron": "kum-PLEET",
+  "example": "The project was a complete success.",
+  "exampleTamil": "அந்தத் திட்டம் முழுமையான வெற்றி பெற்றது.",
+  "synonyms": [
+   "total",
+   "full"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "suitable",
+  "tamil": "பொருத்தமான",
+  "pos": "adjective",
+  "pron": "SOO-tuh-bul",
+  "example": "This film is not suitable for young children.",
+  "exampleTamil": "இந்தப் படம் சிறு குழந்தைகளுக்குப் பொருத்தமானதல்ல.",
+  "synonyms": [
+   "appropriate",
+   "fitting"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "appropriate",
+  "tamil": "தகுந்த, உகந்த",
+  "pos": "adjective",
+  "pron": "uh-PROH-pree-it",
+  "example": "Casual clothes are not appropriate for a wedding.",
+  "exampleTamil": "திருமணத்துக்கு சாதாரண உடைகள் தகுந்தவை அல்ல.",
+  "synonyms": [
+   "proper",
+   "fitting"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "essential",
+  "tamil": "இன்றியமையாத",
+  "pos": "adjective",
+  "pron": "ih-SEN-shul",
+  "example": "Sleep is essential for good health.",
+  "exampleTamil": "நல்ல உடல்நலத்துக்கு தூக்கம் இன்றியமையாதது.",
+  "synonyms": [
+   "vital",
+   "crucial"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "valuable",
+  "tamil": "மதிப்புமிக்க",
+  "pos": "adjective",
+  "pron": "VAL-yoo-bul",
+  "example": "Your advice has been very valuable to me.",
+  "exampleTamil": "உங்கள் அறிவுரை எனக்கு மிகவும் மதிப்புமிக்கதாக இருந்தது.",
+  "synonyms": [
+   "precious",
+   "useful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "useful",
+  "tamil": "பயனுள்ள",
+  "pos": "adjective",
+  "pron": "YOOS-ful",
+  "example": "That app is really useful for learning words.",
+  "exampleTamil": "சொற்களைக் கற்க அந்த செயலி மிகவும் பயனுள்ளது.",
+  "synonyms": [
+   "helpful",
+   "handy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "simple",
+  "tamil": "எளிமையான",
+  "pos": "adjective",
+  "pron": "SIM-pul",
+  "example": "The instructions are simple and easy to follow.",
+  "exampleTamil": "வழிமுறைகள் எளிமையானவை, பின்பற்ற எளிது.",
+  "synonyms": [
+   "easy",
+   "plain"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "complicated",
+  "tamil": "சிக்கலான",
+  "pos": "adjective",
+  "pron": "KOM-plih-kay-tid",
+  "example": "Life gets complicated when plans keep changing.",
+  "exampleTamil": "திட்டங்கள் மாறிக்கொண்டே இருந்தால் வாழ்க்கை சிக்கலாகிவிடும்.",
+  "synonyms": [
+   "complex",
+   "tricky"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "awkward",
+  "tamil": "சங்கடமான",
+  "pos": "adjective",
+  "pron": "AW-kwerd",
+  "example": "There was an awkward silence after his joke.",
+  "exampleTamil": "அவன் நகைச்சுவைக்குப் பிறகு ஒரு சங்கடமான அமைதி நிலவியது.",
+  "synonyms": [
+   "uncomfortable",
+   "embarrassing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "genuine",
+  "tamil": "உண்மையான, உளப்பூர்வமான",
+  "pos": "adjective",
+  "pron": "JEN-yoo-in",
+  "example": "She showed genuine concern for our problem.",
+  "exampleTamil": "எங்கள் பிரச்சினையில் அவள் உளப்பூர்வமான அக்கறை காட்டினாள்.",
+  "synonyms": [
+   "authentic",
+   "sincere"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "modest",
+  "tamil": "அடக்கமான",
+  "pos": "adjective",
+  "pron": "MOD-ist",
+  "example": "He is very modest about his success.",
+  "exampleTamil": "அவன் தன் வெற்றியைப் பற்றி மிகவும் அடக்கமாக இருக்கிறான்.",
+  "synonyms": [
+   "humble",
+   "unassuming"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "responsible",
+  "tamil": "பொறுப்புள்ள",
+  "pos": "adjective",
+  "pron": "ri-SPON-suh-bul",
+  "example": "Who is responsible for this mistake?",
+  "exampleTamil": "இந்தத் தவறுக்கு யார் பொறுப்பு?",
+  "synonyms": [
+   "accountable",
+   "answerable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "curious",
+  "tamil": "ஆர்வமுள்ள, அறிய விரும்பும்",
+  "pos": "adjective",
+  "pron": "KYOOR-ee-us",
+  "example": "Children are naturally curious about everything.",
+  "exampleTamil": "குழந்தைகள் இயல்பாகவே எல்லாவற்றையும் பற்றி அறிய ஆர்வமாக இருப்பார்கள்.",
+  "synonyms": [
+   "inquisitive",
+   "interested"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "anxious",
+  "tamil": "கவலையுள்ள, பதற்றமான",
+  "pos": "adjective",
+  "pron": "ANK-shus",
+  "example": "She felt anxious before the exam results.",
+  "exampleTamil": "தேர்வு முடிவுகளுக்கு முன் அவள் பதற்றமாக உணர்ந்தாள்.",
+  "synonyms": [
+   "worried",
+   "nervous"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grateful",
+  "tamil": "நன்றியுள்ள",
+  "pos": "adjective",
+  "pron": "GRAYT-ful",
+  "example": "I am so grateful for your kindness.",
+  "exampleTamil": "உங்கள் அன்புக்கு நான் மிகவும் நன்றியுள்ளவன்.",
+  "synonyms": [
+   "thankful",
+   "appreciative"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "reluctant",
+  "tamil": "தயக்கமுள்ள, விருப்பமில்லாத",
+  "pos": "adjective",
+  "pron": "ri-LUK-tunt",
+  "example": "She was reluctant to share her personal story.",
+  "exampleTamil": "தன் தனிப்பட்ட கதையைப் பகிர அவள் தயங்கினாள்.",
+  "synonyms": [
+   "unwilling",
+   "hesitant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "embarrassed",
+  "tamil": "வெட்கப்பட்ட, சங்கடப்பட்ட",
+  "pos": "adjective",
+  "pron": "im-BAIR-ust",
+  "example": "He felt embarrassed when he forgot her name.",
+  "exampleTamil": "அவள் பெயரை மறந்தபோது அவன் சங்கடப்பட்டான்.",
+  "synonyms": [
+   "ashamed",
+   "awkward"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "disappointed",
+  "tamil": "ஏமாற்றமடைந்த",
+  "pos": "adjective",
+  "pron": "dis-uh-POYN-tid",
+  "example": "We were disappointed with the final result.",
+  "exampleTamil": "இறுதி முடிவில் நாங்கள் ஏமாற்றமடைந்தோம்.",
+  "synonyms": [
+   "let down",
+   "dissatisfied"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "thrilled",
+  "tamil": "மிகவும் மகிழ்ச்சியடைந்த",
+  "pos": "adjective",
+  "pron": "THRILD",
+  "example": "I was thrilled to hear your good news.",
+  "exampleTamil": "உங்கள் நல்ல செய்தியைக் கேட்டு நான் மிகவும் மகிழ்ந்தேன்.",
+  "synonyms": [
+   "delighted",
+   "excited"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "relieved",
+  "tamil": "நிம்மதியடைந்த",
+  "pos": "adjective",
+  "pron": "ri-LEEVD",
+  "example": "She was relieved when the test was over.",
+  "exampleTamil": "தேர்வு முடிந்ததும் அவள் நிம்மதியடைந்தாள்.",
+  "synonyms": [
+   "reassured",
+   "comforted"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stubborn",
+  "tamil": "பிடிவாதமான",
+  "pos": "adjective",
+  "pron": "STUB-ern",
+  "example": "My grandfather is too stubborn to see a doctor.",
+  "exampleTamil": "என் தாத்தா மருத்துவரைப் பார்க்க முடியாத அளவு பிடிவாதக்காரர்.",
+  "synonyms": [
+   "obstinate",
+   "headstrong"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "generous",
+  "tamil": "தாராளமான",
+  "pos": "adjective",
+  "pron": "JEN-er-us",
+  "example": "It was generous of you to lend us the money.",
+  "exampleTamil": "எங்களுக்குப் பணம் கடனாகக் கொடுத்தது உங்கள் தாராள மனம்.",
+  "synonyms": [
+   "giving",
+   "kind"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "patient",
+  "tamil": "பொறுமையான",
+  "pos": "adjective",
+  "pron": "PAY-shunt",
+  "example": "A good teacher must be patient with learners.",
+  "exampleTamil": "நல்ல ஆசிரியர் கற்பவர்களிடம் பொறுமையாக இருக்க வேண்டும்.",
+  "synonyms": [
+   "tolerant",
+   "calm"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "polite",
+  "tamil": "மரியாதையான, பண்பான",
+  "pos": "adjective",
+  "pron": "puh-LITE",
+  "example": "It's polite to say thank you after a meal.",
+  "exampleTamil": "சாப்பாட்டுக்குப் பிறகு நன்றி சொல்வது பண்பான செயல்.",
+  "synonyms": [
+   "courteous",
+   "well-mannered"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rude",
+  "tamil": "அநாகரிகமான",
+  "pos": "adjective",
+  "pron": "ROOD",
+  "example": "It is rude to interrupt someone while they speak.",
+  "exampleTamil": "ஒருவர் பேசும்போது குறுக்கிடுவது அநாகரிகம்.",
+  "synonyms": [
+   "impolite",
+   "disrespectful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "creative",
+  "tamil": "படைப்பாற்றல் மிக்க",
+  "pos": "adjective",
+  "pron": "kree-AY-tiv",
+  "example": "Children come up with very creative ideas.",
+  "exampleTamil": "குழந்தைகள் மிகவும் படைப்பாற்றல் மிக்க யோசனைகளைக் கொண்டு வருவார்கள்.",
+  "synonyms": [
+   "imaginative",
+   "inventive"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "practical",
+  "tamil": "நடைமுறைக்கு ஏற்ற",
+  "pos": "adjective",
+  "pron": "PRAK-tih-kul",
+  "example": "Let's find a practical solution to this problem.",
+  "exampleTamil": "இந்தப் பிரச்சினைக்கு நடைமுறைக்கு ஏற்ற தீர்வைக் காண்போம்.",
+  "synonyms": [
+   "realistic",
+   "workable"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "severe",
+  "tamil": "கடுமையான",
+  "pos": "adjective",
+  "pron": "suh-VEER",
+  "example": "The storm caused severe damage to the village.",
+  "exampleTamil": "புயல் கிராமத்துக்குக் கடுமையான சேதத்தை ஏற்படுத்தியது.",
+  "synonyms": [
+   "serious",
+   "harsh"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "minor",
+  "tamil": "சிறிய, முக்கியமில்லாத",
+  "pos": "adjective",
+  "pron": "MY-ner",
+  "example": "It was only a minor mistake, so don't worry.",
+  "exampleTamil": "அது ஒரு சிறிய தவறுதான், கவலைப்படாதீர்கள்.",
+  "synonyms": [
+   "small",
+   "slight"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "major",
+  "tamil": "பெரிய, முக்கியமான",
+  "pos": "adjective",
+  "pron": "MAY-jer",
+  "example": "Traffic is a major problem in big cities.",
+  "exampleTamil": "பெரிய நகரங்களில் போக்குவரத்து ஒரு முக்கியப் பிரச்சினை.",
+  "synonyms": [
+   "big",
+   "main"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ordinary",
+  "tamil": "சாதாரணமான",
+  "pos": "adjective",
+  "pron": "OR-dn-er-ee",
+  "example": "It was just an ordinary day until the call came.",
+  "exampleTamil": "அழைப்பு வரும் வரை அது ஒரு சாதாரண நாளாகவே இருந்தது.",
+  "synonyms": [
+   "normal",
+   "everyday"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "remarkable",
+  "tamil": "குறிப்பிடத்தக்க, வியக்கத்தக்க",
+  "pos": "adjective",
+  "pron": "ri-MAR-kuh-bul",
+  "example": "She made remarkable progress in just three months.",
+  "exampleTamil": "அவள் மூன்றே மாதங்களில் வியக்கத்தக்க முன்னேற்றம் அடைந்தாள்.",
+  "synonyms": [
+   "extraordinary",
+   "striking"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "current",
+  "tamil": "தற்போதைய",
+  "pos": "adjective",
+  "pron": "KUR-unt",
+  "example": "What is your current address?",
+  "exampleTamil": "உங்கள் தற்போதைய முகவரி என்ன?",
+  "synonyms": [
+   "present",
+   "existing"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "previous",
+  "tamil": "முந்தைய",
+  "pos": "adjective",
+  "pron": "PREE-vee-us",
+  "example": "In my previous job, I travelled a lot.",
+  "exampleTamil": "என் முந்தைய வேலையில் நான் நிறையப் பயணம் செய்தேன்.",
+  "synonyms": [
+   "earlier",
+   "former"
+  ],
+  "level": "intermediate"
+ }
+]

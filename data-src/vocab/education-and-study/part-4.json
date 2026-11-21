@@ -1,0 +1,347 @@
+[
+ {
+  "word": "academic",
+  "meaning": "Connected with studying at schools, colleges and universities.",
+  "tamil": "கல்விசார்",
+  "pos": "adjective",
+  "pron": "ak-uh-DEM-ik",
+  "example": "The academic year starts in June.",
+  "exampleTamil": "கல்வியாண்டு ஜூன் மாதத்தில் தொடங்குகிறது.",
+  "synonyms": [
+   "scholarly",
+   "educational"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "citation",
+  "meaning": "A note that names the source of an idea or quote.",
+  "tamil": "மேற்கோள் குறிப்பு",
+  "pos": "noun",
+  "pron": "sy-TAY-shun",
+  "example": "Add a citation for every quote in your report.",
+  "exampleTamil": "உங்கள் அறிக்கையில் உள்ள ஒவ்வொரு மேற்கோளுக்கும் மூலக் குறிப்பைச் சேர்க்கவும்.",
+  "synonyms": [
+   "reference",
+   "quotation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "plagiarism",
+  "meaning": "Copying someone else's work and saying it is your own.",
+  "tamil": "திருட்டு எழுத்து",
+  "pos": "noun",
+  "pron": "PLAY-juh-riz-um",
+  "example": "Plagiarism can get a student expelled from college.",
+  "exampleTamil": "பிறர் எழுத்தைத் திருடினால் கல்லூரியிலிருந்து மாணவர் நீக்கப்படலாம்.",
+  "synonyms": [
+   "copying",
+   "literary theft"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bibliography",
+  "meaning": "A list of books and articles used for a piece of writing.",
+  "tamil": "நூல் பட்டியல்",
+  "pos": "noun",
+  "pron": "bib-lee-OG-ruh-fee",
+  "example": "Put a bibliography at the end of your project.",
+  "exampleTamil": "உங்கள் திட்டப்பணியின் முடிவில் நூல் பட்டியலைச் சேர்க்கவும்.",
+  "synonyms": [
+   "source list",
+   "references"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "abstract",
+  "meaning": "A short summary of a research paper or thesis.",
+  "tamil": "சுருக்கம்",
+  "pos": "noun",
+  "pron": "AB-strakt",
+  "example": "Read the abstract first to see what the paper is about.",
+  "exampleTamil": "கட்டுரை எதைப் பற்றியது என்று அறிய முதலில் சுருக்கத்தைப் படியுங்கள்.",
+  "synonyms": [
+   "summary",
+   "synopsis"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "worksheet",
+  "meaning": "A paper with questions or exercises for students to fill in.",
+  "tamil": "பயிற்சித் தாள்",
+  "pos": "noun",
+  "pron": "WURK-sheet",
+  "example": "The teacher gave us a worksheet on fractions.",
+  "exampleTamil": "ஆசிரியர் எங்களுக்குப் பின்னங்கள் பற்றிய ஒரு பயிற்சித் தாள் கொடுத்தார்.",
+  "synonyms": [
+   "exercise sheet"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "vocational",
+  "meaning": "Related to training for a particular job or skill.",
+  "tamil": "தொழிற்கல்வி சார்ந்த",
+  "pos": "adjective",
+  "pron": "voh-KAY-shuh-nul",
+  "example": "She took a vocational course in tailoring.",
+  "exampleTamil": "அவள் தையல் கலையில் தொழிற்கல்விப் படிப்பை மேற்கொண்டாள்.",
+  "synonyms": [
+   "job-related",
+   "technical"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "alumnus",
+  "meaning": "A man who has graduated from a particular school or college.",
+  "tamil": "முன்னாள் மாணவர்",
+  "pos": "noun",
+  "pron": "uh-LUM-nus",
+  "example": "The famous scientist is an alumnus of our college.",
+  "exampleTamil": "அந்தப் புகழ்பெற்ற விஞ்ஞானி எங்கள் கல்லூரியின் முன்னாள் மாணவர்.",
+  "synonyms": [
+   "old boy",
+   "graduate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "diligence",
+  "meaning": "Careful and steady hard work.",
+  "tamil": "விடாமுயற்சி",
+  "pos": "noun",
+  "pron": "DIL-uh-jens",
+  "example": "Her diligence in studies earned her a scholarship.",
+  "exampleTamil": "படிப்பில் அவளுடைய விடாமுயற்சி அவளுக்கு உதவித்தொகையைப் பெற்றுத் தந்தது.",
+  "synonyms": [
+   "hard work",
+   "industry"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bursary",
+  "meaning": "Money given to a student to help pay for studies.",
+  "tamil": "கல்வி உதவித்தொகை",
+  "pos": "noun",
+  "pron": "BUR-suh-ree",
+  "example": "He received a bursary because his family was poor.",
+  "exampleTamil": "அவன் குடும்பம் ஏழ்மையானது என்பதால் அவனுக்குக் கல்வி உதவித்தொகை கிடைத்தது.",
+  "synonyms": [
+   "grant",
+   "stipend"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fellowship",
+  "meaning": "Money and support given to a graduate for advanced study.",
+  "tamil": "ஆய்வு உதவித்தொகை",
+  "pos": "noun",
+  "pron": "FEL-oh-ship",
+  "example": "She won a fellowship to study in Germany.",
+  "exampleTamil": "ஜெர்மனியில் படிக்க அவள் ஓர் ஆய்வு உதவித்தொகையை வென்றாள்.",
+  "synonyms": [
+   "grant",
+   "award"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "doctorate",
+  "meaning": "The highest university degree, such as a PhD.",
+  "tamil": "முனைவர் பட்டம்",
+  "pos": "noun",
+  "pron": "DOK-tur-ut",
+  "example": "He earned a doctorate in chemistry at the age of thirty.",
+  "exampleTamil": "அவர் முப்பது வயதில் வேதியியலில் முனைவர் பட்டம் பெற்றார்.",
+  "synonyms": [
+   "PhD",
+   "doctoral degree"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "elective",
+  "meaning": "A subject that a student chooses to study, not a compulsory one.",
+  "tamil": "விருப்பப் பாடம்",
+  "pos": "noun",
+  "pron": "ih-LEK-tiv",
+  "example": "I picked music as my elective this semester.",
+  "exampleTamil": "இந்தப் பருவத்தில் நான் இசையை என் விருப்பப் பாடமாகத் தேர்ந்தெடுத்தேன்.",
+  "synonyms": [
+   "optional subject"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "extracurricular",
+  "meaning": "Done outside the regular school lessons, like sports or clubs.",
+  "tamil": "பாடத்திட்டத்திற்கு வெளியிலான",
+  "pos": "adjective",
+  "pron": "ek-struh-kuh-RIK-yuh-lur",
+  "example": "Extracurricular activities help students become confident.",
+  "exampleTamil": "பாடத்திட்டத்திற்கு வெளியிலான செயல்பாடுகள் மாணவர்கள் தன்னம்பிக்கை பெற உதவுகின்றன.",
+  "synonyms": [
+   "co-curricular",
+   "outside class"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "questionnaire",
+  "meaning": "A written list of questions used to collect information.",
+  "tamil": "வினாத்தாள் படிவம்",
+  "pos": "noun",
+  "pron": "kwes-chuh-NAIR",
+  "example": "Students filled in a questionnaire for the survey.",
+  "exampleTamil": "ஆய்வுக்காக மாணவர்கள் ஒரு வினாத்தாள் படிவத்தை நிரப்பினர்.",
+  "synonyms": [
+   "survey form"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "footnote",
+  "meaning": "A note at the bottom of a page giving extra information.",
+  "tamil": "அடிக்குறிப்பு",
+  "pos": "noun",
+  "pron": "FUT-noht",
+  "example": "The source is mentioned in the footnote on page ten.",
+  "exampleTamil": "மூலம் பத்தாம் பக்க அடிக்குறிப்பில் குறிப்பிடப்பட்டுள்ளது.",
+  "synonyms": [
+   "note",
+   "annotation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "glossary",
+  "meaning": "A list of difficult words with their meanings at the end of a book.",
+  "tamil": "சொல்லடைவு",
+  "pos": "noun",
+  "pron": "GLOS-uh-ree",
+  "example": "Check the glossary for hard words in this book.",
+  "exampleTamil": "இந்தப் புத்தகத்தில் உள்ள கடினமான சொற்களுக்குச் சொல்லடைவைப் பாருங்கள்.",
+  "synonyms": [
+   "word list"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "legible",
+  "meaning": "Clear enough to be read easily.",
+  "tamil": "படிக்கக்கூடிய தெளிவான",
+  "pos": "adjective",
+  "pron": "LEJ-uh-bul",
+  "example": "Please write in legible handwriting in the exam.",
+  "exampleTamil": "தேர்வில் தயவுசெய்து படிக்கக்கூடிய தெளிவான கையெழுத்தில் எழுதுங்கள்.",
+  "synonyms": [
+   "readable",
+   "clear"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "gifted",
+  "meaning": "Having a special natural talent or high intelligence.",
+  "tamil": "தனித்திறமை வாய்ந்த",
+  "pos": "adjective",
+  "pron": "GIF-tid",
+  "example": "She is a gifted student who loves mathematics.",
+  "exampleTamil": "அவள் கணிதத்தை விரும்பும் தனித்திறமை வாய்ந்த மாணவி.",
+  "synonyms": [
+   "talented",
+   "brilliant"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "examiner",
+  "meaning": "A person who sets or checks an exam.",
+  "tamil": "தேர்வாளர்",
+  "pos": "noun",
+  "pron": "ig-ZAM-uh-nur",
+  "example": "The examiner asked her three questions about her project.",
+  "exampleTamil": "தேர்வாளர் அவளிடம் அவள் திட்டப்பணி பற்றி மூன்று கேள்விகள் கேட்டார்.",
+  "synonyms": [
+   "assessor",
+   "evaluator"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "invigilator",
+  "meaning": "A person who watches students during an exam to stop cheating.",
+  "tamil": "தேர்வுக் கண்காணிப்பாளர்",
+  "pos": "noun",
+  "pron": "in-VIJ-uh-lay-tur",
+  "example": "The invigilator collected the answer sheets at noon.",
+  "exampleTamil": "தேர்வுக் கண்காணிப்பாளர் மதியம் விடைத்தாள்களைச் சேகரித்தார்.",
+  "synonyms": [
+   "supervisor",
+   "proctor"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bookworm",
+  "meaning": "A person who loves reading books very much.",
+  "tamil": "புத்தகப் புழு",
+  "pos": "noun",
+  "pron": "BUK-wurm",
+  "example": "My brother is a bookworm and visits the library daily.",
+  "exampleTamil": "என் அண்ணன் ஒரு புத்தகப் புழு, தினமும் நூலகத்துக்குப் போகிறான்.",
+  "synonyms": [
+   "avid reader"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "handwriting",
+  "meaning": "The way a person writes with a pen or pencil.",
+  "tamil": "கையெழுத்து",
+  "pos": "noun",
+  "pron": "HAND-ry-ting",
+  "example": "Her handwriting is neat and beautiful.",
+  "exampleTamil": "அவளுடைய கையெழுத்து நேர்த்தியாகவும் அழகாகவும் இருக்கிறது.",
+  "synonyms": [
+   "penmanship",
+   "writing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "institute",
+  "meaning": "An organisation for education or research in a special field.",
+  "tamil": "கல்வி நிறுவனம்",
+  "pos": "noun",
+  "pron": "IN-stuh-toot",
+  "example": "He joined a technical institute after Class 12.",
+  "exampleTamil": "அவர் பன்னிரண்டாம் வகுப்புக்குப் பிறகு ஒரு தொழில்நுட்பக் கல்வி நிறுவனத்தில் சேர்ந்தார்.",
+  "synonyms": [
+   "college",
+   "academy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "academy",
+  "meaning": "A school or college that teaches a special subject or skill.",
+  "tamil": "பயிற்சிக் கல்வி நிறுவனம்",
+  "pos": "noun",
+  "pron": "uh-KAD-uh-mee",
+  "example": "She trains at a music academy on weekends.",
+  "exampleTamil": "அவள் வார இறுதிகளில் ஒரு இசைப் பயிற்சிக் கல்வி நிறுவனத்தில் பயிற்சி பெறுகிறாள்.",
+  "synonyms": [
+   "institute",
+   "training school"
+  ],
+  "level": "advanced"
+ }
+]

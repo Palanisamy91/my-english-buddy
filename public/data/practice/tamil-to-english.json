@@ -1,0 +1,242 @@
+[
+  {
+    "id": "p001",
+    "tamil": "நான் தினமும் ஆங்கிலம் கற்கிறேன்.",
+    "answer": "I learn English every day.",
+    "accepted": [
+      "I study English every day."
+    ],
+    "level": "beginner",
+    "topic": "Daily routine",
+    "explanationTamil": "தினசரி பழக்கத்தைக் கூறுவதால் Present Simple பயன்படுத்தப்படுகிறது.",
+    "grammarNote": "Subject + base verb; he/she/it உடன் verb-க்கு s/es சேர்க்கவும்."
+  },
+  {
+    "id": "p002",
+    "tamil": "நீங்கள் எனக்கு உதவ முடியுமா?",
+    "answer": "Can you help me?",
+    "accepted": [
+      "Could you help me?"
+    ],
+    "level": "beginner",
+    "topic": "Polite request",
+    "explanationTamil": "Could you என்பது Can you-வை விட சற்று மரியாதையான கோரிக்கை.",
+    "grammarNote": "Can/Could + subject + base verb?"
+  },
+  {
+    "id": "p003",
+    "tamil": "நான் நேற்று அவரைச் சந்தித்தேன்.",
+    "answer": "I met him yesterday.",
+    "accepted": [
+      "I met her yesterday."
+    ],
+    "level": "beginner",
+    "topic": "Past simple",
+    "explanationTamil": "நேற்று நடந்த செயல் என்பதால் Past Simple பயன்படுத்தப்படுகிறது.",
+    "grammarNote": "Subject + past form of verb."
+  },
+  {
+    "id": "p004",
+    "tamil": "அவள் இப்போது சமைத்துக்கொண்டிருக்கிறாள்.",
+    "answer": "She is cooking now.",
+    "accepted": [
+      "She is cooking at the moment."
+    ],
+    "level": "beginner",
+    "topic": "Present continuous",
+    "explanationTamil": "இப்போது நடந்துகொண்டிருக்கும் செயல்.",
+    "grammarNote": "Subject + am/is/are + verb-ing."
+  },
+  {
+    "id": "p005",
+    "tamil": "அவர்கள் சென்னையில் வசிக்கிறார்கள்.",
+    "answer": "They live in Chennai.",
+    "accepted": [
+      "They are living in Chennai."
+    ],
+    "level": "beginner",
+    "topic": "Daily life",
+    "explanationTamil": "நிரந்தரமான அல்லது வழக்கமான நிலைக்கு Present Simple இயல்பானது.",
+    "grammarNote": "Subject + base verb."
+  },
+  {
+    "id": "p006",
+    "tamil": "நான் இன்னும் அந்தப் புத்தகத்தைப் படிக்கவில்லை.",
+    "answer": "I have not read that book yet.",
+    "accepted": [
+      "I haven’t read that book yet."
+    ],
+    "level": "intermediate",
+    "topic": "Present perfect",
+    "explanationTamil": "இதுவரை முடிக்காத அனுபவம் அல்லது செயலைக் கூறுகிறது.",
+    "grammarNote": "Subject + have/has + past participle."
+  },
+  {
+    "id": "p007",
+    "tamil": "நாங்கள் நாளை உங்களைச் சந்திக்கிறோம்.",
+    "answer": "We are meeting you tomorrow.",
+    "accepted": [
+      "We will meet you tomorrow."
+    ],
+    "level": "intermediate",
+    "topic": "Future plan",
+    "explanationTamil": "திட்டமிட்ட எதிர்காலச் சந்திப்புக்கு Present Continuous பயன்படுத்தலாம்.",
+    "grammarNote": "Subject + am/is/are + verb-ing for fixed plans."
+  },
+  {
+    "id": "p008",
+    "tamil": "மழை நின்ற பிறகு நாங்கள் வெளியே சென்றோம்.",
+    "answer": "We went out after the rain stopped.",
+    "accepted": [
+      "We went outside after the rain stopped."
+    ],
+    "level": "intermediate",
+    "topic": "Past simple",
+    "explanationTamil": "கடந்த காலத்தில் நடந்த இரண்டு செயல்களையும் Past Simple-ல் கூறலாம்.",
+    "grammarNote": "Subject + past verb."
+  },
+  {
+    "id": "p009",
+    "tamil": "நீங்கள் விரும்பினால் நான் உதவுவேன்.",
+    "answer": "I will help you if you want.",
+    "accepted": [
+      "I can help you if you want."
+    ],
+    "level": "intermediate",
+    "topic": "Conditional",
+    "explanationTamil": "if clause-ல் பொதுவாக Present Simple; main clause-ல் will/can.",
+    "grammarNote": "If + present simple, will/can + base verb."
+  },
+  {
+    "id": "p010",
+    "tamil": "அவள் வருவதற்கு முன்பே நான் வேலை முடித்திருந்தேன்.",
+    "answer": "I had finished the work before she arrived.",
+    "accepted": [
+      "I had completed the work before she arrived."
+    ],
+    "level": "advanced",
+    "topic": "Past perfect",
+    "explanationTamil": "மற்றொரு கடந்தகாலச் செயலுக்கு முன் முடிந்த செயல்.",
+    "grammarNote": "Subject + had + past participle."
+  },
+  {
+    "id": "p011",
+    "tamil": "நான் இரண்டு மணி நேரமாகக் காத்திருக்கிறேன்.",
+    "answer": "I have been waiting for two hours.",
+    "accepted": [
+      "I have waited for two hours."
+    ],
+    "level": "advanced",
+    "topic": "Present perfect continuous",
+    "explanationTamil": "கடந்த காலத்தில் தொடங்கி இன்றும் தொடரும் செயலின் கால அளவு.",
+    "grammarNote": "Subject + have/has been + verb-ing."
+  },
+  {
+    "id": "p012",
+    "tamil": "அடுத்த மாதத்திற்குள் அவள் பயிற்சியை முடித்திருப்பாள்.",
+    "answer": "She will have completed the training by next month.",
+    "accepted": [
+      "She will have finished the training by next month."
+    ],
+    "level": "advanced",
+    "topic": "Future perfect",
+    "explanationTamil": "எதிர்காலத்தில் ஒரு குறிப்பிட்ட நேரத்திற்குள் முடிந்திருக்கும் செயல்.",
+    "grammarNote": "Subject + will have + past participle."
+  },
+  {
+    "id": "p013",
+    "tamil": "நான் முன்பே அந்த மின்னஞ்சலை அனுப்பியிருந்தால் நன்றாக இருந்திருக்கும்.",
+    "answer": "I wish I had sent that email earlier.",
+    "accepted": [
+      "I should have sent that email earlier."
+    ],
+    "level": "advanced",
+    "topic": "Reflection",
+    "explanationTamil": "கடந்தகால வருத்தத்தை வெளிப்படுத்தும் இரண்டு இயல்பான அமைப்புகள்.",
+    "grammarNote": "I wish + past perfect; should have + past participle."
+  },
+  {
+    "id": "p014",
+    "tamil": "இந்தப் பிரச்சினையை இன்று தீர்க்க வேண்டும்.",
+    "answer": "We need to solve this issue today.",
+    "accepted": [
+      "We have to solve this issue today."
+    ],
+    "level": "interview",
+    "topic": "Workplace",
+    "explanationTamil": "தேவை அல்லது பொறுப்பைக் கூறுகிறது.",
+    "grammarNote": "Need to / have to + base verb."
+  },
+  {
+    "id": "p015",
+    "tamil": "என் அனுபவத்தைப் பற்றி சுருக்கமாகச் சொல்ல விரும்புகிறேன்.",
+    "answer": "I would like to briefly explain my experience.",
+    "accepted": [
+      "I would like to explain my experience briefly."
+    ],
+    "level": "interview",
+    "topic": "Interview",
+    "explanationTamil": "நேர்காணலில் மரியாதையாக விருப்பத்தைத் தெரிவிக்கிறது.",
+    "grammarNote": "Would like to + base verb."
+  },
+  {
+    "id": "p016",
+    "tamil": "நான் ஏழு ஆண்டுகள் தொழில்நுட்ப ஆதரவில் பணியாற்றியுள்ளேன்.",
+    "answer": "I have worked in technical support for seven years.",
+    "accepted": [
+      "I have seven years of experience in technical support."
+    ],
+    "level": "interview",
+    "topic": "Experience",
+    "explanationTamil": "தொடர்ந்து வந்த அனுபவத்தைக் கூற Present Perfect பயன்படுத்தலாம்.",
+    "grammarNote": "Have/has + past participle; for + duration."
+  },
+  {
+    "id": "p017",
+    "tamil": "திட்டத்தின் முன்னேற்றத்தை நாளை பகிர்கிறேன்.",
+    "answer": "I will share the project update tomorrow.",
+    "accepted": [
+      "I am sharing the project update tomorrow."
+    ],
+    "level": "interview",
+    "topic": "Work update",
+    "explanationTamil": "எதிர்கால உறுதி அல்லது திட்டத்தைத் தெரிவிக்கிறது.",
+    "grammarNote": "Will + base verb; Present Continuous for arranged plans."
+  },
+  {
+    "id": "p018",
+    "tamil": "இந்தப் பணியை முடிக்க இன்னும் சிறிது நேரம் தேவை.",
+    "answer": "I need a little more time to complete this task.",
+    "accepted": [
+      "I need some more time to finish this task."
+    ],
+    "level": "interview",
+    "topic": "Workplace",
+    "explanationTamil": "வேலைக்கான கால அவகாசத்தை மரியாதையாகக் கேட்கிறது.",
+    "grammarNote": "Need + noun; need to + base verb."
+  },
+  {
+    "id": "p019",
+    "tamil": "நீங்கள் கூட்டத்தைத் தொடங்கலாமா?",
+    "answer": "Could you start the meeting?",
+    "accepted": [
+      "Can you start the meeting?"
+    ],
+    "level": "intermediate",
+    "topic": "Polite request",
+    "explanationTamil": "Could you என்பது பணியிடத்தில் மரியாதையான கோரிக்கை.",
+    "grammarNote": "Could you + base verb?"
+  },
+  {
+    "id": "p020",
+    "tamil": "அவன் வருவதற்குள் நாங்கள் சாப்பிட்டுக்கொண்டிருந்தோம்.",
+    "answer": "We had been eating before he arrived.",
+    "accepted": [
+      "We were eating before he arrived."
+    ],
+    "level": "advanced",
+    "topic": "Past perfect continuous",
+    "explanationTamil": "கடந்தகாலத்தில் மற்றொரு நிகழ்வுக்கு முன் தொடர்ந்து நடந்த செயல்.",
+    "grammarNote": "Subject + had been + verb-ing."
+  }
+]

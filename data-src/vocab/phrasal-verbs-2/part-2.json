@@ -1,0 +1,352 @@
+[
+ {
+  "word": "sit back",
+  "meaning": "to relax and lean against a seat",
+  "tamil": "சாய்ந்து ஓய்வாக அமர்",
+  "pos": "phrasal verb",
+  "pron": "sit BAK",
+  "example": "Just sit back and enjoy the movie.",
+  "exampleTamil": "சாய்ந்து அமர்ந்து படத்தை ரசியுங்கள்.",
+  "synonyms": [
+   "relax",
+   "rest"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stand back",
+  "meaning": "to move away from something",
+  "tamil": "ஒன்றிலிருந்து விலகி நில்",
+  "pos": "phrasal verb",
+  "pron": "stand BAK",
+  "example": "Everyone stand back, the crane is moving.",
+  "exampleTamil": "அனைவரும் விலகி நில்லுங்கள், கிரேன் நகர்கிறது.",
+  "synonyms": [
+   "move away",
+   "retreat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hit back",
+  "meaning": "to respond when someone attacks or criticizes you",
+  "tamil": "தாக்கியவருக்குப் பதிலடி கொடு",
+  "pos": "phrasal verb",
+  "pron": "hit BAK",
+  "example": "The company hit back at the false news.",
+  "exampleTamil": "நிறுவனம் அந்தப் பொய்ச் செய்திக்குப் பதிலடி கொடுத்தது.",
+  "synonyms": [
+   "retaliate",
+   "respond"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "turn back",
+  "meaning": "to return the way you came",
+  "tamil": "வந்த வழியே திரும்பு",
+  "pos": "phrasal verb",
+  "pron": "turn BAK",
+  "example": "We had to turn back because of the flood.",
+  "exampleTamil": "வெள்ளத்தால் நாங்கள் திரும்பிச் செல்ல வேண்டியிருந்தது.",
+  "synonyms": [
+   "return",
+   "retreat"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "go away",
+  "meaning": "to leave a place",
+  "tamil": "ஓரிடத்தை விட்டுப் போ",
+  "pos": "phrasal verb",
+  "pron": "goh uh-WAY",
+  "example": "The headache did not go away after the tablet.",
+  "exampleTamil": "மாத்திரைக்குப் பிறகும் தலைவலி போகவில்லை.",
+  "synonyms": [
+   "leave",
+   "depart"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "run away",
+  "meaning": "to leave a place quickly to escape",
+  "tamil": "தப்பிக்க வேகமாக ஓடிப்போ",
+  "pos": "phrasal verb",
+  "pron": "run uh-WAY",
+  "example": "The dog may run away when it heard the thunder.",
+  "exampleTamil": "இடி சத்தம் கேட்டதும் நாய் ஓடிப்போனது.",
+  "synonyms": [
+   "flee",
+   "escape"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "walk away",
+  "meaning": "to leave a person or situation",
+  "tamil": "ஒருவரை அல்லது சூழ்நிலையை விட்டு விலகிச்செல்",
+  "pos": "phrasal verb",
+  "pron": "wawk uh-WAY",
+  "example": "It is hard to walk away from an old friend.",
+  "exampleTamil": "பழைய நண்பரை விட்டு விலகிச்செல்வது கடினம்.",
+  "synonyms": [
+   "leave",
+   "abandon"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "give away",
+  "meaning": "to give something free of charge",
+  "tamil": "இலவசமாகக் கொடு",
+  "pos": "phrasal verb",
+  "pron": "giv uh-WAY",
+  "example": "They give away free books on Children's Day.",
+  "exampleTamil": "குழந்தைகள் தினத்தன்று அவர்கள் இலவசப் புத்தகங்களைக் கொடுக்கிறார்கள்.",
+  "synonyms": [
+   "donate",
+   "gift"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "take away",
+  "meaning": "to remove something or carry food out",
+  "tamil": "அகற்று அல்லது உணவைப் பார்சல் எடுத்துச்செல்",
+  "pos": "phrasal verb",
+  "pron": "tayk uh-WAY",
+  "example": "Two parcels to take away, please.",
+  "exampleTamil": "இரண்டு பார்சல்கள் எடுத்துச்செல்ல வேண்டும், தயவுசெய்து.",
+  "synonyms": [
+   "remove",
+   "carry out"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "get away",
+  "meaning": "to escape or leave a place",
+  "tamil": "தப்பித்துச் செல் அல்லது விடுபடு",
+  "pos": "phrasal verb",
+  "pron": "get uh-WAY",
+  "example": "I need to get away from the city for a few days.",
+  "exampleTamil": "நான் சில நாட்கள் நகரத்தை விட்டு விலகிச்செல்ல வேண்டும்.",
+  "synonyms": [
+   "escape",
+   "flee"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stay away",
+  "meaning": "to not go near someone or something",
+  "tamil": "ஒருவர் அல்லது ஒன்றின் அருகில் செல்லாமல் இரு",
+  "pos": "phrasal verb",
+  "pron": "stay uh-WAY",
+  "example": "Stay away from the stove, it is very hot.",
+  "exampleTamil": "அடுப்பிலிருந்து தள்ளியிருங்கள், அது மிகவும் சூடு.",
+  "synonyms": [
+   "avoid",
+   "keep off"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "keep away",
+  "meaning": "to not go close or not let someone go close",
+  "tamil": "அருகில் செல்லாமல் அல்லது செல்லவிடாமல் தடு",
+  "pos": "phrasal verb",
+  "pron": "keep uh-WAY",
+  "example": "Keep the medicines away from small children.",
+  "exampleTamil": "மருந்துகளைச் சிறு குழந்தைகளிடமிருந்து தள்ளி வையுங்கள்.",
+  "synonyms": [
+   "avoid",
+   "shun"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fade away",
+  "meaning": "to slowly become weaker and disappear",
+  "tamil": "மெதுவாக மங்கி மறைந்துபோ",
+  "pos": "phrasal verb",
+  "pron": "fayd uh-WAY",
+  "example": "The sound of the band faded away down the road.",
+  "exampleTamil": "இசைக்குழுவின் ஒலி சாலையில் மெதுவாக மறைந்தது.",
+  "synonyms": [
+   "vanish",
+   "dwindle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pass away",
+  "meaning": "to die, said in a polite way",
+  "tamil": "மரியாதையாக இறந்துபோ என்பதைக் குறிக்கும்",
+  "pos": "phrasal verb",
+  "pron": "pas uh-WAY",
+  "example": "His grandfather passed away last year.",
+  "exampleTamil": "அவருடைய தாத்தா கடந்த ஆண்டு காலமானார்.",
+  "synonyms": [
+   "die",
+   "expire"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "move away",
+  "meaning": "to go and live in a different place",
+  "tamil": "வேறு இடத்திற்குக் குடிபெயர்ந்துசெல்",
+  "pos": "phrasal verb",
+  "pron": "moov uh-WAY",
+  "example": "Our neighbours moved away to Chennai last month.",
+  "exampleTamil": "எங்கள் அண்டை வீட்டார் கடந்த மாதம் சென்னைக்குக் குடிபெயர்ந்தனர்.",
+  "synonyms": [
+   "relocate",
+   "leave"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "look away",
+  "meaning": "to turn your eyes in another direction",
+  "tamil": "பார்வையை வேறு பக்கம் திருப்பு",
+  "pos": "phrasal verb",
+  "pron": "luk uh-WAY",
+  "example": "She looked away when he asked about the exam.",
+  "exampleTamil": "அவன் தேர்வைப் பற்றிக் கேட்டபோது அவள் பார்வையைத் திருப்பிக்கொண்டாள்.",
+  "synonyms": [
+   "avert",
+   "glance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "break away",
+  "meaning": "to leave a group or separate from it",
+  "tamil": "ஒரு குழுவிலிருந்து பிரிந்துசெல்",
+  "pos": "phrasal verb",
+  "pron": "brayk uh-WAY",
+  "example": "Two members want to break away and start their own team.",
+  "exampleTamil": "இருவர் தங்கள் சொந்த அணியைத் தொடங்கப் பிரிந்துசென்றனர்.",
+  "synonyms": [
+   "separate",
+   "split"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wear away",
+  "meaning": "to slowly damage something by use or time",
+  "tamil": "காலப்போக்கில் தேய்ந்து அழி",
+  "pos": "phrasal verb",
+  "pron": "wair uh-WAY",
+  "example": "Water can wear away even hard rock over time.",
+  "exampleTamil": "தண்ணீர் காலப்போக்கில் கடினமான பாறையையும் அரித்துவிடும்.",
+  "synonyms": [
+   "erode",
+   "rub off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "carry away",
+  "meaning": "to take something far from a place",
+  "tamil": "ஒன்றை வெகுதூரம் எடுத்துச்செல்",
+  "pos": "phrasal verb",
+  "pron": "KA-ree uh-WAY",
+  "example": "The strong wind carried away the clothes from the line.",
+  "exampleTamil": "பலத்த காற்று கொடியில் இருந்த துணிகளை அடித்துச்சென்றது.",
+  "synonyms": [
+   "remove",
+   "sweep"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "clear away",
+  "meaning": "to remove things to make space",
+  "tamil": "இடம் உருவாக்க பொருட்களை அகற்று",
+  "pos": "phrasal verb",
+  "pron": "kleer uh-WAY",
+  "example": "Please clear away the plates after dinner.",
+  "exampleTamil": "இரவு உணவுக்குப் பிறகு தட்டுகளை எடுத்துவையுங்கள்.",
+  "synonyms": [
+   "remove",
+   "tidy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pull away",
+  "meaning": "to move away from someone or something",
+  "tamil": "ஒருவரிடமிருந்து அல்லது ஒன்றிலிருந்து விலகு",
+  "pos": "phrasal verb",
+  "pron": "pul uh-WAY",
+  "example": "The bus pulled away before I could reach it.",
+  "exampleTamil": "நான் எட்டுவதற்குள் பேருந்து புறப்பட்டுச் சென்றுவிட்டது.",
+  "synonyms": [
+   "withdraw",
+   "leave"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "see through",
+  "meaning": "to notice the truth behind a lie or trick",
+  "tamil": "பொய் அல்லது தந்திரத்தின் உண்மையைக் கண்டுபிடி",
+  "pos": "phrasal verb",
+  "pron": "see THROO",
+  "example": "I could see through his simple excuse.",
+  "exampleTamil": "அவனுடைய எளிய சாக்குப்போக்கை நான் புரிந்துகொண்டேன்.",
+  "synonyms": [
+   "detect",
+   "spot"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "break through",
+  "meaning": "to push past a barrier or problem",
+  "tamil": "தடையைத் தாண்டி முன்னேறு",
+  "pos": "phrasal verb",
+  "pron": "brayk THROO",
+  "example": "The sun will break through the thick clouds soon.",
+  "exampleTamil": "கடைசியில் சூரியன் அடர்ந்த மேகங்களைக் கிழித்து வெளிப்பட்டது.",
+  "synonyms": [
+   "penetrate",
+   "pierce"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "look through",
+  "meaning": "to read or check something quickly",
+  "tamil": "ஒன்றை விரைவாகப் படித்துப் பார்",
+  "pos": "phrasal verb",
+  "pron": "luk THROO",
+  "example": "I will look through your notes tonight.",
+  "exampleTamil": "இன்றிரவு உங்கள் குறிப்புகளைப் படித்துப் பார்ப்பேன்.",
+  "synonyms": [
+   "browse",
+   "scan"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fall through",
+  "meaning": "to fail to happen",
+  "tamil": "நடக்காமல் தோல்வியடை",
+  "pos": "phrasal verb",
+  "pron": "fawl THROO",
+  "example": "Our plan to visit Ooty may fall through.",
+  "exampleTamil": "ஊட்டிக்குச் செல்லும் எங்கள் திட்டம் நடக்காமல் போனது.",
+  "synonyms": [
+   "fail",
+   "collapse"
+  ],
+  "level": "intermediate"
+ }
+]

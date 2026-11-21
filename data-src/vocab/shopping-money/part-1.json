@@ -1,0 +1,352 @@
+[
+ {
+  "word": "haggle",
+  "meaning": "to argue politely about a price to make it lower",
+  "tamil": "பேரம் பேசு",
+  "pos": "verb",
+  "pron": "HAG-ul",
+  "example": "You have to haggle a little in the street market.",
+  "exampleTamil": "தெரு சந்தையில் கொஞ்சம் பேரம் பேச வேண்டும்.",
+  "synonyms": [
+   "bargain",
+   "negotiate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pricey",
+  "meaning": "costing more money than it is worth",
+  "tamil": "விலை அதிகமான",
+  "pos": "adjective",
+  "pron": "PRY-see",
+  "example": "This shirt looks nice but it is a bit pricey.",
+  "exampleTamil": "இந்த சட்டை நல்லா இருக்கு ஆனா கொஞ்சம் விலை அதிகம்.",
+  "synonyms": [
+   "expensive",
+   "costly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "installment",
+  "meaning": "one part of a payment you pay in parts over time",
+  "tamil": "தவணை",
+  "pos": "noun",
+  "pron": "in-STAWL-munt",
+  "example": "I am paying for my phone in monthly installments.",
+  "exampleTamil": "நான் என் போனுக்கு மாதாமாதம் தவணையில் பணம் கட்டுகிறேன்.",
+  "synonyms": [
+   "part payment",
+   "EMI"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cashback",
+  "meaning": "money returned to you after you buy something",
+  "tamil": "பணம் திரும்பக் கிடைப்பது",
+  "pos": "noun",
+  "pron": "KASH-bak",
+  "example": "I got fifty rupees cashback on this order.",
+  "exampleTamil": "இந்த ஆர்டருக்கு எனக்கு ஐம்பது ரூபாய் கேஷ்பேக் கிடைத்தது.",
+  "synonyms": [
+   "money back",
+   "reward"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "parcel",
+  "meaning": "a package that is sent or delivered to you",
+  "tamil": "பார்சல்",
+  "pos": "noun",
+  "pron": "PAR-sul",
+  "example": "My parcel will reach home by evening.",
+  "exampleTamil": "என் பார்சல் மாலைக்குள் வீட்டுக்கு வந்துவிடும்.",
+  "synonyms": [
+   "package",
+   "packet"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stall",
+  "meaning": "a small open table or shop for selling things",
+  "tamil": "கடை (சிறிய)",
+  "pos": "noun",
+  "pron": "STAWL",
+  "example": "He runs a fruit stall near the bus stand.",
+  "exampleTamil": "அவர் பேருந்து நிலையம் பக்கத்தில் பழக்கடை நடத்துகிறார்.",
+  "synonyms": [
+   "booth",
+   "stand"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hawker",
+  "meaning": "a person who sells things on the street",
+  "tamil": "தெருவோர வியாபாரி",
+  "pos": "noun",
+  "pron": "HAW-ker",
+  "example": "The hawker was selling balloons outside the temple.",
+  "exampleTamil": "தெருவோர வியாபாரி கோயில் வெளியே பலூன் விற்றுக்கொண்டிருந்தார்.",
+  "synonyms": [
+   "street seller",
+   "vendor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "retailer",
+  "meaning": "a person or shop that sells things to the public",
+  "tamil": "சில்லறை வியாபாரி",
+  "pos": "noun",
+  "pron": "REE-tay-ler",
+  "example": "The retailer gave us a good price on the fan.",
+  "exampleTamil": "சில்லறை வியாபாரி எங்களுக்கு மின்விசிறியை நல்ல விலைக்குக் கொடுத்தார்.",
+  "synonyms": [
+   "seller",
+   "shopkeeper"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wholesale",
+  "meaning": "selling things in large amounts at a lower price",
+  "tamil": "மொத்த விற்பனை",
+  "pos": "adjective",
+  "pron": "HOHL-sayl",
+  "example": "We buy vegetables at the wholesale market early in the morning.",
+  "exampleTamil": "நாங்கள் காலையிலேயே மொத்த விற்பனை சந்தையில் காய்கறி வாங்குவோம்.",
+  "synonyms": [
+   "bulk",
+   "trade"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "markdown",
+  "meaning": "a reduction in the price of something",
+  "tamil": "விலைக் குறைப்பு",
+  "pos": "noun",
+  "pron": "MARK-down",
+  "example": "There is a big markdown on winter jackets this week.",
+  "exampleTamil": "இந்த வாரம் குளிர்கால ஜாக்கெட்டுகளுக்கு பெரிய விலைக்குறைப்பு இருக்கு.",
+  "synonyms": [
+   "price cut",
+   "reduction"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "subtotal",
+  "meaning": "the amount before tax or extra charges are added",
+  "tamil": "மொத்தத்துக்கு முந்தைய தொகை",
+  "pos": "noun",
+  "pron": "SUB-toh-tul",
+  "example": "The subtotal is five hundred, and tax comes extra.",
+  "exampleTamil": "துணைத் தொகை ஐநூறு, வரி தனியாக வரும்.",
+  "synonyms": [
+   "partial sum",
+   "interim total"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dispatch",
+  "meaning": "to send goods to a customer",
+  "tamil": "அனுப்பி வை",
+  "pos": "verb",
+  "pron": "dih-SPACH",
+  "example": "They dispatch all orders within two days.",
+  "exampleTamil": "அவர்கள் எல்லா ஆர்டர்களையும் இரண்டு நாட்களுக்குள் அனுப்பி வைக்கிறார்கள்.",
+  "synonyms": [
+   "send",
+   "ship"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "alteration",
+  "meaning": "a small change made to clothes to fit you",
+  "tamil": "துணி அளவு மாற்றம்",
+  "pos": "noun",
+  "pron": "awl-tuh-RAY-shun",
+  "example": "The tailor will do the alteration by Friday.",
+  "exampleTamil": "தையல்காரர் வெள்ளிக்கிழமைக்குள் அளவு மாற்றம் செய்து தருவார்.",
+  "synonyms": [
+   "adjustment",
+   "tailoring"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "snug",
+  "meaning": "fitting closely and comfortably",
+  "tamil": "இறுக்கமான வசதியான",
+  "pos": "adjective",
+  "pron": "SNUG",
+  "example": "This jacket feels snug but not too tight.",
+  "exampleTamil": "இந்த ஜாக்கெட் உடம்புக்கு ஒட்டினாலும் ரொம்ப இறுக்கம் இல்லை.",
+  "synonyms": [
+   "close-fitting",
+   "cosy"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "oversized",
+  "meaning": "bigger than the normal size",
+  "tamil": "அளவுக்கு மீறிய பெரிய",
+  "pos": "adjective",
+  "pron": "OH-ver-syzd",
+  "example": "She likes wearing oversized T-shirts at home.",
+  "exampleTamil": "அவளுக்கு வீட்டில் பெரிய அளவு டி-சர்ட் போடுவது பிடிக்கும்.",
+  "synonyms": [
+   "extra large",
+   "baggy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cart",
+  "meaning": "a virtual basket where you keep items before paying online",
+  "tamil": "வண்டி / ஆன்லைன் கூடை",
+  "pos": "noun",
+  "pron": "KART",
+  "example": "I added two books to my cart.",
+  "exampleTamil": "நான் இரண்டு புத்தகங்களை என் கார்ட்டில் சேர்த்தேன்.",
+  "synonyms": [
+   "basket",
+   "trolley"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wishlist",
+  "meaning": "a list of things you want to buy later",
+  "tamil": "விரும்பும் பொருட்கள் பட்டியல்",
+  "pos": "noun",
+  "pron": "WISH-list",
+  "example": "I saved the headphones in my wishlist.",
+  "exampleTamil": "நான் அந்த ஹெட்போனை என் விருப்பப் பட்டியலில் சேமித்து வைத்தேன்.",
+  "synonyms": [
+   "want list",
+   "saved items"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "restock",
+  "meaning": "to fill a shop with new goods again",
+  "tamil": "மீண்டும் பொருள் நிரப்பு",
+  "pos": "verb",
+  "pron": "ree-STOK",
+  "example": "They will restock this size next week.",
+  "exampleTamil": "அவர்கள் அடுத்த வாரம் இந்த அளவை மீண்டும் வாங்கி வைப்பார்கள்.",
+  "synonyms": [
+   "refill",
+   "replenish"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "defective",
+  "meaning": "not working properly because of a fault",
+  "tamil": "குறைபாடுள்ள",
+  "pos": "adjective",
+  "pron": "dih-FEK-tiv",
+  "example": "The mixer I got was defective, so I returned it.",
+  "exampleTamil": "எனக்கு வந்த மிக்ஸி குறைபாடுள்ளது, அதனால் திருப்பிக் கொடுத்தேன்.",
+  "synonyms": [
+   "faulty",
+   "damaged"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "damaged",
+  "meaning": "harmed or broken so it is not in good condition",
+  "tamil": "சேதமடைந்த",
+  "pos": "adjective",
+  "pron": "DAM-ijd",
+  "example": "The box was damaged when it reached me.",
+  "exampleTamil": "பெட்டி என்னிடம் வந்தபோது சேதமடைந்திருந்தது.",
+  "synonyms": [
+   "broken",
+   "spoiled"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "torn",
+  "meaning": "ripped or having a tear",
+  "tamil": "கிழிந்த",
+  "pos": "adjective",
+  "pron": "TORN",
+  "example": "The bag is torn near the zip.",
+  "exampleTamil": "பையில் ஜிப் பக்கத்தில் கிழிந்திருக்கு.",
+  "synonyms": [
+   "ripped",
+   "split"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fake",
+  "meaning": "not real but made to look real",
+  "tamil": "போலியான",
+  "pos": "adjective",
+  "pron": "FAYK",
+  "example": "Be careful, that watch might be fake.",
+  "exampleTamil": "கவனமா இரு, அந்த கடிகாரம் போலியா இருக்கலாம்.",
+  "synonyms": [
+   "counterfeit",
+   "false"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "authentic",
+  "meaning": "real and not copied",
+  "tamil": "உண்மையான அசல்",
+  "pos": "adjective",
+  "pron": "aw-THEN-tik",
+  "example": "Is this leather authentic or just plastic?",
+  "exampleTamil": "இந்த தோல் அசலா, இல்ல வெறும் பிளாஸ்டிக்கா?",
+  "synonyms": [
+   "genuine",
+   "real"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scam",
+  "meaning": "a trick to take money from people dishonestly",
+  "tamil": "மோசடி",
+  "pos": "noun",
+  "pron": "SKAM",
+  "example": "That cheap offer online looks like a scam.",
+  "exampleTamil": "அந்த ஆன்லைன் மலிவு ஆஃபர் மோசடி மாதிரி தெரியுது.",
+  "synonyms": [
+   "fraud",
+   "cheat"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "contactless",
+  "meaning": "paying by tapping a card or phone without touching",
+  "tamil": "தொடாமல் செலுத்தும்",
+  "pos": "adjective",
+  "pron": "KON-takt-less",
+  "example": "Most shops here take contactless payment now.",
+  "exampleTamil": "இங்க பெரும்பாலான கடைகள் இப்போ தொடாமல் பணம் செலுத்துவதை ஏற்கிறார்கள்.",
+  "synonyms": [
+   "tap-to-pay",
+   "cardless"
+  ],
+  "level": "advanced"
+ }
+]

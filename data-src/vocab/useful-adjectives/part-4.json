@@ -1,0 +1,375 @@
+[
+ {
+  "word": "stunning",
+  "meaning": "Extremely beautiful or surprising",
+  "tamil": "பிரமிக்க வைக்கும்",
+  "pos": "adjective",
+  "pron": "STUN-ing",
+  "example": "The view from the hill was absolutely stunning.",
+  "exampleTamil": "மலையிலிருந்து தெரிந்த காட்சி பிரமிக்க வைத்தது.",
+  "synonyms": [
+   "gorgeous",
+   "amazing",
+   "striking"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "talented",
+  "meaning": "Having natural skill at something",
+  "tamil": "திறமையான",
+  "pos": "adjective",
+  "pron": "TAL-un-tid",
+  "example": "My cousin is a talented singer and dancer.",
+  "exampleTamil": "என் உறவினர் திறமையான பாடகரும் நடனக்கலைஞரும் ஆவார்.",
+  "synonyms": [
+   "gifted",
+   "skilled",
+   "capable"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "terrific",
+  "meaning": "Very good or very great",
+  "tamil": "அருமையான, மிகச் சிறந்த",
+  "pos": "adjective",
+  "pron": "tuh-RIF-ik",
+  "example": "You did a terrific job on the project.",
+  "exampleTamil": "இந்தத் திட்டத்தில் நீ அருமையாகச் செய்தாய்.",
+  "synonyms": [
+   "great",
+   "excellent",
+   "wonderful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "thrilling",
+  "meaning": "Very exciting",
+  "tamil": "மிகவும் பரபரப்பான, சிலிர்ப்பூட்டும்",
+  "pos": "adjective",
+  "pron": "THRIL-ing",
+  "example": "The final over of the match was thrilling.",
+  "exampleTamil": "ஆட்டத்தின் கடைசி ஓவர் சிலிர்ப்பூட்டுவதாக இருந்தது.",
+  "synonyms": [
+   "exciting",
+   "gripping",
+   "electrifying"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tiring",
+  "meaning": "Making you feel tired",
+  "tamil": "களைப்பூட்டும்",
+  "pos": "adjective",
+  "pron": "TYE-er-ing",
+  "example": "It was a long and tiring journey by bus.",
+  "exampleTamil": "பேருந்தில் அது நீண்ட களைப்பூட்டும் பயணமாக இருந்தது.",
+  "synonyms": [
+   "exhausting",
+   "tough",
+   "draining"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trendy",
+  "meaning": "Following the latest fashion",
+  "tamil": "புதிய நாகரிகத்திற்கேற்ற",
+  "pos": "adjective",
+  "pron": "TREN-dee",
+  "example": "She wore a trendy jacket to the party.",
+  "exampleTamil": "விருந்துக்கு அவள் நவீன நாகரிக ஜாக்கெட் அணிந்து சென்றாள்.",
+  "synonyms": [
+   "fashionable",
+   "stylish",
+   "modern"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "unfair",
+  "meaning": "Not right or equal to everyone",
+  "tamil": "நியாயமற்ற",
+  "pos": "adjective",
+  "pron": "un-FAIR",
+  "example": "It is unfair to give some students extra marks.",
+  "exampleTamil": "சில மாணவர்களுக்கு மட்டும் கூடுதல் மதிப்பெண் வழங்குவது நியாயமற்றது.",
+  "synonyms": [
+   "unjust",
+   "biased",
+   "wrong"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "unique",
+  "meaning": "Being the only one of its kind",
+  "tamil": "தனித்துவமான",
+  "pos": "adjective",
+  "pron": "yoo-NEEK",
+  "example": "Every fingerprint is unique to one person.",
+  "exampleTamil": "ஒவ்வொரு கைரேகையும் ஒருவருக்கே உரிய தனித்துவமானது.",
+  "synonyms": [
+   "one-of-a-kind",
+   "special",
+   "rare"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unusual",
+  "meaning": "Not common; different from normal",
+  "tamil": "வழக்கத்துக்கு மாறான",
+  "pos": "adjective",
+  "pron": "un-YOO-zhoo-ul",
+  "example": "It is unusual to see snow in this town.",
+  "exampleTamil": "இந்த நகரில் பனியைப் பார்ப்பது வழக்கத்துக்கு மாறானது.",
+  "synonyms": [
+   "strange",
+   "rare",
+   "odd"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "urban",
+  "meaning": "Of towns and cities",
+  "tamil": "நகர்ப்புற",
+  "pos": "adjective",
+  "pron": "UR-bun",
+  "example": "Urban life is faster and busier than village life.",
+  "exampleTamil": "கிராம வாழ்க்கையை விட நகர்ப்புற வாழ்க்கை வேகமானதும் பரபரப்பானதும் ஆகும்.",
+  "synonyms": [
+   "city",
+   "town",
+   "metropolitan"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vital",
+  "meaning": "Absolutely necessary; very important",
+  "tamil": "இன்றியமையாத",
+  "pos": "adjective",
+  "pron": "VYE-tul",
+  "example": "Water is vital for all living things.",
+  "exampleTamil": "எல்லா உயிரினங்களுக்கும் தண்ணீர் இன்றியமையாதது.",
+  "synonyms": [
+   "essential",
+   "crucial",
+   "necessary"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wholesome",
+  "meaning": "Good for your health or character",
+  "tamil": "ஆரோக்கியமான, நலம் தரும்",
+  "pos": "adjective",
+  "pron": "HOLE-sum",
+  "example": "Fresh vegetables make a wholesome meal.",
+  "exampleTamil": "புதிய காய்கறிகள் ஆரோக்கியமான உணவாகும்.",
+  "synonyms": [
+   "healthy",
+   "nutritious",
+   "good"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "willing",
+  "meaning": "Ready and happy to do something",
+  "tamil": "விருப்பமுள்ள, தயாராக உள்ள",
+  "pos": "adjective",
+  "pron": "WIL-ing",
+  "example": "Are you willing to help us on Saturday?",
+  "exampleTamil": "சனிக்கிழமை எங்களுக்கு உதவ நீ தயாரா?",
+  "synonyms": [
+   "ready",
+   "glad",
+   "eager"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "worthy",
+  "meaning": "Deserving respect or support",
+  "tamil": "தகுதியுள்ள",
+  "pos": "adjective",
+  "pron": "WUR-thee",
+  "example": "This is a worthy cause and deserves your support.",
+  "exampleTamil": "இது தகுதியான நோக்கம்; உங்கள் ஆதரவுக்கு உரியது.",
+  "synonyms": [
+   "deserving",
+   "valuable",
+   "good"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tasteless",
+  "meaning": "Having no flavour, or showing poor judgment",
+  "tamil": "சுவையற்ற",
+  "pron": "TAYST-less",
+  "example": "The soup was tasteless until I added some salt.",
+  "exampleTamil": "உப்பு சேர்க்கும் வரை சூப் சுவையற்றதாக இருந்தது.",
+  "synonyms": [
+   "bland",
+   "flavourless"
+  ],
+  "level": "intermediate",
+  "pos": "adjective"
+ },
+ {
+  "word": "mighty",
+  "meaning": "Very strong or powerful",
+  "tamil": "வலிமையான, பலமிக்க",
+  "pos": "adjective",
+  "pron": "MY-tee",
+  "example": "A mighty river flows through the middle of the city.",
+  "exampleTamil": "ஒரு வலிமையான ஆறு நகரத்தின் நடுவே ஓடுகிறது.",
+  "synonyms": [
+   "powerful",
+   "strong",
+   "great"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "swift",
+  "meaning": "Happening or moving very fast",
+  "tamil": "விரைவான, வேகமான",
+  "pos": "adjective",
+  "pron": "SWIFT",
+  "example": "The doctor took swift action and saved the patient.",
+  "exampleTamil": "மருத்துவர் விரைவாக செயல்பட்டு நோயாளியைக் காப்பாற்றினார்.",
+  "synonyms": [
+   "fast",
+   "quick",
+   "rapid"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "barren",
+  "meaning": "Too dry for plants to grow",
+  "tamil": "தரிசான, வறண்ட",
+  "pron": "BAR-un",
+  "example": "Nothing grows in this barren land without water.",
+  "exampleTamil": "தண்ணீர் இல்லாமல் இந்த வறண்ட நிலத்தில் எதுவும் வளராது.",
+  "synonyms": [
+   "dry",
+   "infertile",
+   "empty"
+  ],
+  "level": "advanced",
+  "pos": "adjective"
+ },
+ {
+  "word": "cosy",
+  "meaning": "Warm, comfortable and pleasant",
+  "tamil": "இதமான, வசதியான",
+  "pron": "KOH-zee",
+  "example": "We spent a cosy evening at home during the rain.",
+  "exampleTamil": "மழையின்போது நாங்கள் வீட்டில் இதமான மாலைப்பொழுதைக் கழித்தோம்.",
+  "synonyms": [
+   "snug",
+   "comfortable",
+   "warm"
+  ],
+  "level": "beginner",
+  "pos": "adjective"
+ },
+ {
+  "word": "tangy",
+  "meaning": "Having a sharp, sour taste",
+  "tamil": "புளிப்பும் காரமுமான சுவையுள்ள",
+  "pos": "adjective",
+  "pron": "TANG-ee",
+  "example": "I love the tangy taste of raw mango with chili salt.",
+  "exampleTamil": "மிளகாய் உப்புடன் மாங்காயின் புளிப்புச் சுவை எனக்கு மிகவும் பிடிக்கும்.",
+  "synonyms": [
+   "sour",
+   "sharp",
+   "zesty"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rusty",
+  "meaning": "Covered with brown rust, or not used for a long time",
+  "tamil": "துருப்பிடித்த",
+  "pos": "adjective",
+  "pron": "RUS-tee",
+  "example": "The rusty gate made a loud noise when I opened it.",
+  "exampleTamil": "துருப்பிடித்த கேட்டைத் திறந்தபோது பெரிய சத்தம் வந்தது.",
+  "synonyms": [
+   "corroded",
+   "old"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "glossy",
+  "meaning": "Smooth and shiny",
+  "tamil": "பளபளப்பான",
+  "pos": "adjective",
+  "pron": "GLOS-ee",
+  "example": "She chose a glossy cover for her new notebook.",
+  "exampleTamil": "அவள் தன் புதிய நோட்டுப்புத்தகத்திற்கு பளபளப்பான அட்டையைத் தேர்ந்தெடுத்தாள்.",
+  "synonyms": [
+   "shiny",
+   "smooth",
+   "polished"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "coarse",
+  "meaning": "Rough in texture, not smooth or soft",
+  "tamil": "கரடுமுரடான",
+  "pos": "adjective",
+  "pron": "KORSS",
+  "example": "The coarse cloth felt itchy against my skin.",
+  "exampleTamil": "கரடுமுரடான துணி என் தோலில் அரிப்பை ஏற்படுத்தியது.",
+  "synonyms": [
+   "rough",
+   "harsh",
+   "scratchy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stiff",
+  "meaning": "Hard to bend or move",
+  "tamil": "விறைப்பான, இறுக்கமான",
+  "pos": "adjective",
+  "pron": "STIFF",
+  "example": "My neck is stiff after sleeping in a bad position.",
+  "exampleTamil": "தவறான நிலையில் தூங்கியதால் என் கழுத்து விறைத்துப் போய்விட்டது.",
+  "synonyms": [
+   "rigid",
+   "tight",
+   "firm"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cheerless",
+  "meaning": "Gloomy and without any happiness",
+  "tamil": "மகிழ்ச்சியற்ற, இருண்ட",
+  "pron": "CHEER-less",
+  "example": "The cheerless room felt cold and empty.",
+  "exampleTamil": "மகிழ்ச்சியற்ற அந்த அறை குளிராகவும் வெறுமையாகவும் தோன்றியது.",
+  "synonyms": [
+   "gloomy",
+   "dreary",
+   "sad"
+  ],
+  "level": "advanced",
+  "pos": "adjective"
+ }
+]

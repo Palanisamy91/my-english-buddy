@@ -1,0 +1,351 @@
+[
+ {
+  "word": "hard feelings",
+  "meaning": "anger left after an argument",
+  "tamil": "சண்டைக்குப் பிறகு மனதில் இருக்கும் கோபம்",
+  "pos": "phrase",
+  "pron": "HARD FEE-lingz",
+  "example": "No hard feelings, we are still friends.",
+  "exampleTamil": "கோபம் எதுவும் இல்லை, நாம் இன்னும் நண்பர்கள்தான்.",
+  "synonyms": [
+   "resentment",
+   "grudge"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pull yourself together",
+  "meaning": "to calm down and control your emotions",
+  "tamil": "தன்னை அமைதிப்படுத்திக்கொள்வது",
+  "pos": "phrase",
+  "pron": "PUL yor-SELF too-GETH-er",
+  "example": "Pull yourself together, the meeting starts soon.",
+  "exampleTamil": "அமைதியாகு, கூட்டம் விரைவில் தொடங்குகிறது.",
+  "synonyms": [
+   "calm down",
+   "get a grip"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cut the mustard",
+  "meaning": "to be good enough for a task",
+  "tamil": "தேவையான தகுதியுடன் இருப்பது",
+  "pos": "phrase",
+  "pron": "KUT thuh MUS-terd",
+  "example": "His old laptop cannot cut the mustard anymore.",
+  "exampleTamil": "அவனது பழைய மடிக்கணினி இனி போதுமானதாக இல்லை.",
+  "synonyms": [
+   "measure up",
+   "qualify"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dodge a bullet",
+  "meaning": "to narrowly escape trouble",
+  "tamil": "பெரிய ஆபத்திலிருந்து தப்பிப்பது",
+  "pos": "phrase",
+  "pron": "DOJ uh BUL-it",
+  "example": "We dodged a bullet when the flight was cancelled.",
+  "exampleTamil": "விமானம் ரத்தானதால் நாங்கள் பெரிய ஆபத்திலிருந்து தப்பினோம்.",
+  "synonyms": [
+   "escape",
+   "avoid"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pass the buck",
+  "meaning": "to blame someone else for your duty",
+  "tamil": "தன் பொறுப்பை மற்றவர் மேல் தள்ளுவது",
+  "pos": "phrase",
+  "pron": "PAS thuh BUK",
+  "example": "Stop passing the buck and take responsibility.",
+  "exampleTamil": "பொறுப்பை மற்றவர் மேல் தள்ளாமல் நீயே ஏற்றுக்கொள்.",
+  "synonyms": [
+   "shift blame",
+   "deflect"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "toe the line",
+  "meaning": "to obey the rules or orders",
+  "tamil": "விதிகளுக்குக் கீழ்ப்படிவது",
+  "pos": "phrase",
+  "pron": "TOH thuh LYN",
+  "example": "Employees who toe the line get promoted.",
+  "exampleTamil": "விதிகளுக்குக் கீழ்ப்படியும் ஊழியர்களுக்குப் பதவி உயர்வு கிடைக்கும்.",
+  "synonyms": [
+   "obey",
+   "conform"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "drop the ball",
+  "meaning": "to make a mistake by failing to do your duty",
+  "tamil": "பொறுப்பைத் தவற விடுவது",
+  "pos": "phrase",
+  "pron": "DROP thuh BAWL",
+  "example": "The team dropped the ball on that order.",
+  "exampleTamil": "அந்த ஆர்டரில் குழு பொறுப்பைத் தவறவிட்டது.",
+  "synonyms": [
+   "fail",
+   "slip up"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bury the hatchet",
+  "meaning": "to end a quarrel and become friends again",
+  "tamil": "சண்டையை மறந்து மீண்டும் நட்பாவது",
+  "pos": "phrase",
+  "pron": "BER-ee thuh HACH-it",
+  "example": "The brothers finally buried the hatchet.",
+  "exampleTamil": "சகோதரர்கள் கடைசியில் சண்டையை மறந்து சேர்ந்தனர்.",
+  "synonyms": [
+   "make peace",
+   "reconcile"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "split hairs",
+  "meaning": "to argue about very small differences",
+  "tamil": "சிறு வேறுபாடுகளைப் பற்றி வீண் விவாதம் செய்வது",
+  "pos": "phrase",
+  "pron": "SPLIT HAIRZ",
+  "example": "Let us not split hairs over two rupees.",
+  "exampleTamil": "இரண்டு ரூபாய்க்காக வீண் விவாதம் செய்ய வேண்டாம்.",
+  "synonyms": [
+   "nitpick",
+   "quibble"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "touch and go",
+  "meaning": "uncertain, with a risk of failing",
+  "tamil": "நிச்சயமில்லாத ஆபத்தான நிலை",
+  "pos": "phrase",
+  "pron": "TUCH and GOH",
+  "example": "It was touch and go whether we would catch the train.",
+  "exampleTamil": "ரயிலைப் பிடிப்போமா என்பது நிச்சயமில்லாமல் இருந்தது.",
+  "synonyms": [
+   "risky",
+   "uncertain"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wild goose chase",
+  "meaning": "a useless search for something impossible to find",
+  "tamil": "பயனற்ற தேடல்",
+  "pos": "phrase",
+  "pron": "WYLD GOOS CHAYS",
+  "example": "The address was wrong, so it was a wild goose chase.",
+  "exampleTamil": "முகவரி தவறானதால் அது வீணான தேடலாக முடிந்தது.",
+  "synonyms": [
+   "fruitless search",
+   "waste of effort"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "white elephant",
+  "meaning": "a costly thing that is not useful",
+  "tamil": "செலவு அதிகம், பயன் குறைவான பொருள்",
+  "pos": "phrase",
+  "pron": "WYT EL-uh-funt",
+  "example": "The unused stadium became a white elephant.",
+  "exampleTamil": "பயன்படுத்தப்படாத மைதானம் வீண் சுமையாக மாறியது.",
+  "synonyms": [
+   "burden",
+   "waste"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ballpark figure",
+  "meaning": "a rough estimate of a number",
+  "tamil": "தோராயமான எண்ணிக்கை",
+  "pos": "phrase",
+  "pron": "BAWL-park FIG-yer",
+  "example": "Give me a ballpark figure for the repair cost.",
+  "exampleTamil": "பழுதுபார்ப்பு செலவுக்கு ஒரு தோராயமான தொகை சொல்லுங்கள்.",
+  "synonyms": [
+   "rough estimate",
+   "approximation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "glass ceiling",
+  "meaning": "an invisible barrier to promotion at work",
+  "tamil": "பதவி உயர்வைத் தடுக்கும் கண்ணுக்குத் தெரியாத தடை",
+  "pos": "phrase",
+  "pron": "GLAS SEE-ling",
+  "example": "Many women still face a glass ceiling at work.",
+  "exampleTamil": "பல பெண்கள் இன்னும் பணியிடத்தில் பதவி உயர்வுத் தடையை எதிர்கொள்கிறார்கள்.",
+  "synonyms": [
+   "barrier",
+   "obstacle"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "silver lining",
+  "meaning": "a good side in a bad situation",
+  "tamil": "மோசமான நிலையிலும் உள்ள நல்ல பக்கம்",
+  "pos": "phrase",
+  "pron": "SIL-ver LY-ning",
+  "example": "Losing the job had a silver lining, I started my own shop.",
+  "exampleTamil": "வேலை போனதிலும் ஒரு நன்மை இருந்தது, நான் சொந்தக் கடை தொடங்கினேன்.",
+  "synonyms": [
+   "bright side",
+   "benefit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rule of thumb",
+  "meaning": "a simple practical guide, not an exact rule",
+  "tamil": "நடைமுறை வழிகாட்டும் எளிய விதி",
+  "pos": "phrase",
+  "pron": "ROOL uv THUM",
+  "example": "As a rule of thumb, save a third of your salary.",
+  "exampleTamil": "ஒரு பொது விதியாக, சம்பளத்தில் மூன்றில் ஒரு பங்கைச் சேமியுங்கள்.",
+  "synonyms": [
+   "guideline",
+   "general rule"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cut and dried",
+  "meaning": "clear and fixed, with no room for doubt",
+  "tamil": "தெளிவாக முடிவு செய்யப்பட்ட, மாற்றமில்லாத",
+  "pos": "phrase",
+  "pron": "KUT and DRYD",
+  "example": "The rules are cut and dried, so there is no debate.",
+  "exampleTamil": "விதிகள் தெளிவாக உள்ளன, அதனால் விவாதத்திற்கு இடமில்லை.",
+  "synonyms": [
+   "clear-cut",
+   "settled"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "by and large",
+  "meaning": "in most cases, generally",
+  "tamil": "பொதுவாக, பெரும்பாலும்",
+  "pos": "phrase",
+  "pron": "by and LARJ",
+  "example": "By and large, the staff here are very friendly.",
+  "exampleTamil": "பொதுவாக, இங்குள்ள ஊழியர்கள் மிகவும் நட்பாக இருக்கிறார்கள்.",
+  "synonyms": [
+   "mostly",
+   "generally"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "off the cuff",
+  "meaning": "without any preparation",
+  "tamil": "முன்தயாரிப்பு இல்லாமல்",
+  "pos": "phrase",
+  "pron": "OF thuh KUF",
+  "example": "She gave an off the cuff speech and everyone clapped.",
+  "exampleTamil": "அவள் முன்தயாரிப்பு இல்லாமல் பேசினாள், அனைவரும் கைதட்டினர்.",
+  "synonyms": [
+   "improvised",
+   "unprepared"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "up to scratch",
+  "meaning": "good enough, meeting the required standard",
+  "tamil": "தேவையான தரத்தில் இருப்பது",
+  "pos": "phrase",
+  "pron": "UP tuh SKRACH",
+  "example": "His work is not up to scratch yet.",
+  "exampleTamil": "அவனது வேலை இன்னும் தேவையான தரத்தில் இல்லை.",
+  "synonyms": [
+   "good enough",
+   "acceptable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "out of touch",
+  "meaning": "not knowing the latest news or trends",
+  "tamil": "சமீபத்திய செய்திகளை அறியாமல் இருப்பது",
+  "pos": "phrase",
+  "pron": "OWT uv TUCH",
+  "example": "My grandfather is out of touch with new phones.",
+  "exampleTamil": "என் தாத்தாவுக்குப் புதிய தொலைபேசிகள் பற்றி எதுவும் தெரியாது.",
+  "synonyms": [
+   "outdated",
+   "unaware"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "in the pipeline",
+  "meaning": "being planned or prepared, coming soon",
+  "tamil": "திட்டமிடப்பட்டு விரைவில் வரவிருப்பது",
+  "pos": "phrase",
+  "pron": "in thuh PYP-lyn",
+  "example": "A few new offers are in the pipeline.",
+  "exampleTamil": "சில புதிய சலுகைகள் விரைவில் வரவுள்ளன.",
+  "synonyms": [
+   "upcoming",
+   "planned"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "game changer",
+  "meaning": "something that completely changes a situation",
+  "tamil": "நிலைமையை முற்றிலும் மாற்றும் விஷயம்",
+  "pos": "phrase",
+  "pron": "GAYM CHAYN-jer",
+  "example": "Fast internet was a game changer for our village.",
+  "exampleTamil": "வேகமான இணையம் எங்கள் கிராமத்தை முற்றிலும் மாற்றியது.",
+  "synonyms": [
+   "breakthrough",
+   "turning point"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "level playing field",
+  "meaning": "a fair situation where everyone has equal chances",
+  "tamil": "அனைவருக்கும் சம வாய்ப்புள்ள நியாயமான நிலை",
+  "pos": "phrase",
+  "pron": "LEV-ul PLAY-ing FEELD",
+  "example": "The exam gives every student a level playing field.",
+  "exampleTamil": "தேர்வு ஒவ்வொரு மாணவருக்கும் சம வாய்ப்பை அளிக்கிறது.",
+  "synonyms": [
+   "fair chance",
+   "equal terms"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "by heart",
+  "meaning": "from memory, without looking at the text",
+  "tamil": "மனப்பாடமாக",
+  "pos": "phrase",
+  "pron": "by HART",
+  "example": "She knows the whole song by heart.",
+  "exampleTamil": "அவளுக்கு முழு பாடலும் மனப்பாடமாகத் தெரியும்.",
+  "synonyms": [
+   "memorised"
+  ],
+  "level": "beginner"
+ }
+]

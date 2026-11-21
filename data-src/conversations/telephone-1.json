@@ -1,0 +1,407 @@
+[
+ {
+  "category": "telephone",
+  "context": "Answering a call at a company",
+  "level": "beginner",
+  "en": "Good morning, Sunrise Traders, Priya speaking. How may I help you?",
+  "tamil": "காலை வணக்கம், சன்ரைஸ் டிரேடர்ஸ், நான் பிரியா பேசுகிறேன். நான் உங்களுக்கு எப்படி உதவலாம்?",
+  "reply": "Good morning, Priya. I'd like to speak to someone in the accounts department, please.",
+  "replyTamil": "காலை வணக்கம் பிரியா. கணக்குப் பிரிவில் யாரிடமாவது பேச வேண்டும்."
+ },
+ {
+  "category": "telephone",
+  "context": "Answering an unknown number",
+  "level": "beginner",
+  "en": "Hello? Who's this, please?",
+  "tamil": "ஹலோ? யார் பேசுகிறீர்கள்?",
+  "reply": "Hi, this is Karthik from your building. Your car's lights are still on.",
+  "replyTamil": "ஹாய், நான் உங்கள் குடியிருப்பிலிருந்து கார்த்திக் பேசுகிறேன். உங்கள் காரின் விளக்குகள் இன்னும் எரிந்துகொண்டிருக்கின்றன."
+ },
+ {
+  "category": "telephone",
+  "context": "HR calling to confirm identity",
+  "level": "intermediate",
+  "en": "Hi, this is Meena from the HR team at TechNova. Am I speaking to Arun?",
+  "tamil": "ஹாய், நான் டெக்நோவாவின் ஹெச்ஆர் குழுவிலிருந்து மீனா பேசுகிறேன். நான் அருணிடம் பேசுகிறேனா?",
+  "reply": "Yes, speaking. Hi Meena, thanks for calling. How are you?",
+  "replyTamil": "ஆமாம், நான்தான் பேசுகிறேன். ஹாய் மீனா, அழைத்ததற்கு நன்றி. நலமா?"
+ },
+ {
+  "category": "telephone",
+  "context": "Checking if it's a good time",
+  "level": "beginner",
+  "en": "Hello, am I disturbing you right now?",
+  "tamil": "ஹலோ, இப்போது உங்களுக்குத் தொந்தரவு செய்கிறேனா?",
+  "reply": "Not at all. I was just having tea. Tell me.",
+  "replyTamil": "இல்லவே இல்லை. நான் தேநீர் குடித்துக்கொண்டிருந்தேன். சொல்லுங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Calling from someone else's phone",
+  "level": "intermediate",
+  "en": "Hi, it's Suresh here. You might not have this number saved, I'm using my wife's phone.",
+  "tamil": "ஹாய், நான் சுரேஷ் பேசுகிறேன். இந்த எண் உங்களிடம் சேமிக்கப்படாமல் இருக்கலாம், நான் என் மனைவியின் போனில் பேசுகிறேன்.",
+  "reply": "Oh, no problem, Suresh! I was wondering who it was. What's up?",
+  "replyTamil": "ஓ, பரவாயில்லை சுரேஷ்! யார் என்று யோசித்துக்கொண்டிருந்தேன். என்ன விஷயம்?"
+ },
+ {
+  "category": "telephone",
+  "context": "Bank branch greeting",
+  "level": "advanced",
+  "en": "Good afternoon. You've reached the Chennai branch, and I'll be handling your query today. May I have your name, please?",
+  "tamil": "மதிய வணக்கம். நீங்கள் சென்னைக் கிளையைத் தொடர்புகொண்டிருக்கிறீர்கள், இன்று உங்கள் கேள்விக்கு நான் உதவுவேன். உங்கள் பெயரைச் சொல்ல முடியுமா?",
+  "reply": "Good afternoon. My name is Vignesh Kumar, and I'm calling about my loan statement.",
+  "replyTamil": "மதிய வணக்கம். என் பெயர் விக்னேஷ் குமார், என் கடன் அறிக்கை பற்றி அழைக்கிறேன்."
+ },
+ {
+  "category": "telephone",
+  "context": "A child answers the phone",
+  "level": "beginner",
+  "en": "Hello, Anitha here. Who do you want to talk to?",
+  "tamil": "ஹலோ, நான் அனிதா பேசுகிறேன். நீங்கள் யாரிடம் பேச வேண்டும்?",
+  "reply": "Hello Anitha, I'd like to talk to your brother Ravi, please.",
+  "replyTamil": "ஹலோ அனிதா, உன் அண்ணன் ரவியிடம் பேச வேண்டும்."
+ },
+ {
+  "category": "telephone",
+  "context": "Not recognising the caller's number",
+  "level": "intermediate",
+  "en": "Sorry, I didn't recognise the number. Who am I speaking with?",
+  "tamil": "மன்னிக்கவும், இந்த எண்ணை எனக்குத் தெரியவில்லை. யாரிடம் பேசுகிறேன்?",
+  "reply": "It's Deepak. We met at the Pongal function last week. I got your number from Lakshmi.",
+  "replyTamil": "நான் தீபக். போன வாரம் பொங்கல் விழாவில் சந்தித்தோம். உங்கள் எண்ணை லட்சுமியிடம் வாங்கினேன்."
+ },
+ {
+  "category": "telephone",
+  "context": "Returning a missed call",
+  "level": "intermediate",
+  "en": "Hi, I'm returning your missed call. Did you try me a while ago?",
+  "tamil": "ஹாய், உங்கள் மிஸ்டு கால்-க்கு திரும்ப அழைக்கிறேன். கொஞ்ச நேரம் முன்பு என்னை அழைத்தீர்களா?",
+  "reply": "Yes, I did. Thanks for calling back. I wanted to ask about tomorrow's class timing.",
+  "replyTamil": "ஆமாம், அழைத்தேன். திரும்ப அழைத்ததற்கு நன்றி. நாளைய வகுப்பு நேரத்தைப் பற்றிக் கேட்க வேண்டும்."
+ },
+ {
+  "category": "telephone",
+  "context": "Receptionist transferring a call",
+  "level": "beginner",
+  "en": "Hold on, please. I'll put you through to Mr. Kumar.",
+  "tamil": "கொஞ்சம் காத்திருங்கள். நான் உங்களை திரு. குமாரிடம் இணைக்கிறேன்.",
+  "reply": "Thank you. I'll wait.",
+  "replyTamil": "நன்றி. நான் காத்திருக்கிறேன்."
+ },
+ {
+  "category": "telephone",
+  "context": "Boss is in a meeting",
+  "level": "intermediate",
+  "en": "I'm afraid Mr. Rao is in a meeting right now. Would you like to hold or call back later?",
+  "tamil": "மன்னிக்கவும், திரு. ராவ் இப்போது மீட்டிங்கில் இருக்கிறார். காத்திருக்கிறீர்களா, இல்லை பிறகு அழைக்கிறீர்களா?",
+  "reply": "I'll hold for a few minutes, if that's okay. It's quite urgent.",
+  "replyTamil": "பரவாயில்லை என்றால் சில நிமிடங்கள் காத்திருக்கிறேன். கொஞ்சம் அவசரம்."
+ },
+ {
+  "category": "telephone",
+  "context": "Asking for a department",
+  "level": "beginner",
+  "en": "Which department do you want?",
+  "tamil": "உங்களுக்கு எந்தப் பிரிவு வேண்டும்?",
+  "reply": "Sales department, please. Can you connect me?",
+  "replyTamil": "விற்பனைப் பிரிவு, தயவுசெய்து. என்னை இணைக்க முடியுமா?"
+ },
+ {
+  "category": "telephone",
+  "context": "Transferring to technical support",
+  "level": "intermediate",
+  "en": "Let me transfer you to the technical team. They'll sort this out better.",
+  "tamil": "உங்களை தொழில்நுட்பக் குழுவுக்கு மாற்றுகிறேன். அவர்கள் இதை நன்றாகத் தீர்த்து வைப்பார்கள்.",
+  "reply": "Sure, thanks. Could you give me their extension number in case the call drops?",
+  "replyTamil": "சரி, நன்றி. அழைப்பு துண்டிக்கப்பட்டால் என்று, அவர்களின் எக்ஸ்டென்ஷன் எண்ணைக் கொடுக்க முடியுமா?"
+ },
+ {
+  "category": "telephone",
+  "context": "Giving an extension number",
+  "level": "beginner",
+  "en": "Sorry, wrong extension. Please dial two-one-four for HR.",
+  "tamil": "மன்னிக்கவும், இது தவறான எக்ஸ்டென்ஷன். ஹெச்ஆருக்கு இரண்டு-ஒன்று-நான்கு அழுத்துங்கள்.",
+  "reply": "Okay, two-one-four. Thank you very much.",
+  "replyTamil": "சரி, இரண்டு-ஒன்று-நான்கு. மிக்க நன்றி."
+ },
+ {
+  "category": "telephone",
+  "context": "Screening a call politely",
+  "level": "advanced",
+  "en": "I'm afraid I can't put you through without knowing what it's regarding. Could you tell me the purpose of your call?",
+  "tamil": "என்ன விஷயம் என்று தெரியாமல் உங்களை இணைக்க முடியாது, மன்னிக்கவும். உங்கள் அழைப்பின் நோக்கத்தைச் சொல்ல முடியுமா?",
+  "reply": "Of course. It's regarding the vendor contract he asked me to review, and he's expecting my call.",
+  "replyTamil": "நிச்சயமாக. அவர் என்னை பரிசீலிக்கச் சொன்ன விற்பனையாளர் ஒப்பந்தம் பற்றித்தான், அவர் என் அழைப்புக்காகக் காத்திருக்கிறார்."
+ },
+ {
+  "category": "telephone",
+  "context": "Person has stepped out",
+  "level": "intermediate",
+  "en": "He just stepped out. He should be back in about fifteen minutes.",
+  "tamil": "அவர் இப்போதுதான் வெளியே சென்றார். சுமார் பதினைந்து நிமிடங்களில் திரும்பி வந்துவிடுவார்.",
+  "reply": "No problem. I'll try again after lunch. Please tell him Ganesh called.",
+  "replyTamil": "பரவாயில்லை. மதிய உணவுக்குப் பிறகு மறுபடி முயல்கிறேன். கணேஷ் அழைத்தார் என்று சொல்லுங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Asking who is calling",
+  "level": "beginner",
+  "en": "May I know who's calling?",
+  "tamil": "யார் அழைக்கிறீர்கள் என்று தெரிந்துகொள்ளலாமா?",
+  "reply": "This is Divya from Anna Nagar. I'm his neighbour.",
+  "replyTamil": "நான் அண்ணா நகரிலிருந்து திவ்யா பேசுகிறேன். நான் அவருடைய அண்டை வீட்டுக்காரி."
+ },
+ {
+  "category": "telephone",
+  "context": "Receptionist looking for an extension",
+  "level": "advanced",
+  "en": "Bear with me for a second, I'm trying to locate her extension. She recently moved to the second floor.",
+  "tamil": "ஒரு நிமிடம் பொறுத்துக்கொள்ளுங்கள், அவருடைய எக்ஸ்டென்ஷனைத் தேடுகிறேன். அவர் சமீபத்தில் இரண்டாவது மாடிக்கு மாறினார்.",
+  "reply": "Take your time. I really appreciate you going the extra mile.",
+  "replyTamil": "நிதானமாகப் பாருங்கள். கூடுதலாக உதவுவதற்கு மிகவும் நன்றி."
+ },
+ {
+  "category": "telephone",
+  "context": "Offering to take a message",
+  "level": "beginner",
+  "en": "Would you like to leave a message?",
+  "tamil": "ஏதாவது செய்தி விட்டுச் செல்கிறீர்களா?",
+  "reply": "Yes, please. Tell her to call me back on this number.",
+  "replyTamil": "ஆமாம், தயவுசெய்து. இதே எண்ணில் என்னை திரும்ப அழைக்கச் சொல்லுங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Spelling a surname",
+  "level": "intermediate",
+  "en": "Let me note that down. Could you spell your surname for me?",
+  "tamil": "அதை எழுதிக்கொள்கிறேன். உங்கள் குடும்பப் பெயரை எழுத்துக்கூட்டிச் சொல்ல முடியுமா?",
+  "reply": "Sure, it's S-U-B-R-A-M-A-N-I-A-N. That's Subramanian.",
+  "replyTamil": "சரி, எஸ்-யூ-பி-ஆர்-ஏ-எம்-ஏ-என்-ஐ-ஏ-என். சுப்பிரமணியன்."
+ },
+ {
+  "category": "telephone",
+  "context": "Promising to pass on a message",
+  "level": "beginner",
+  "en": "I'll pass on your message to him.",
+  "tamil": "உங்கள் செய்தியை அவரிடம் சொல்லிவிடுகிறேன்.",
+  "reply": "Thanks a lot. Please tell him the parcel has arrived.",
+  "replyTamil": "மிக்க நன்றி. பார்சல் வந்துவிட்டது என்று சொல்லுங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Asking about call-back preference",
+  "level": "intermediate",
+  "en": "Should I ask her to call you back, or will you try again later?",
+  "tamil": "அவரை உங்களை அழைக்கச் சொல்லட்டுமா, இல்லை நீங்கள் பிறகு மறுபடி முயல்வீர்களா?",
+  "reply": "Please ask her to call me. I'll be at my desk till six.",
+  "replyTamil": "தயவுசெய்து அவரை என்னை அழைக்கச் சொல்லுங்கள். நான் ஆறு மணி வரை என் இருக்கையில் இருப்பேன்."
+ },
+ {
+  "category": "telephone",
+  "context": "Offering to take a message for a manager",
+  "level": "intermediate",
+  "en": "He's not available at the moment. I can take a message for Mr. Iyer, if you like.",
+  "tamil": "அவர் இப்போது இல்லை. விருப்பம் இருந்தால் திரு. ஐயருக்கு ஒரு செய்தியை நான் எழுதி வைக்கிறேன்.",
+  "reply": "That would be great. Just say the site visit has moved to Friday.",
+  "replyTamil": "அது நல்லது. தள ஆய்வு வெள்ளிக்கிழமைக்கு மாற்றப்பட்டுவிட்டது என்று மட்டும் சொல்லுங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Confirming a message's details",
+  "level": "advanced",
+  "en": "I've jotted it down, but just to be sure, you said the shipment reaches on Monday and not Tuesday, right?",
+  "tamil": "நான் எழுதிவிட்டேன், ஆனால் உறுதிக்காகக் கேட்கிறேன், சரக்கு செவ்வாய் இல்லை திங்கள்கிழமை வருகிறது என்றுதானே சொன்னீர்கள்?",
+  "reply": "That's right, Monday morning. Please make sure he gets it today itself, as it affects his schedule.",
+  "replyTamil": "சரியாகச் சொன்னீர்கள், திங்கள் காலை. இது அவருடைய அட்டவணையைப் பாதிப்பதால், இன்றே அவருக்குக் கிடைக்கச் செய்யுங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Receptionist promises to relay the call",
+  "level": "beginner",
+  "en": "I'll tell him you called.",
+  "tamil": "நீங்கள் அழைத்தீர்கள் என்று அவரிடம் சொல்கிறேன்.",
+  "reply": "Thank you. He already has my number.",
+  "replyTamil": "நன்றி. என் எண் அவரிடம் ஏற்கனவே இருக்கிறது."
+ },
+ {
+  "category": "telephone",
+  "context": "Repeating a phone number",
+  "level": "intermediate",
+  "en": "Shall I note down your number again, or does he already have it?",
+  "tamil": "உங்கள் எண்ணை மறுபடி எழுதிக்கொள்ளட்டுமா, இல்லை அவரிடம் ஏற்கனவே இருக்கிறதா?",
+  "reply": "Please note it down. He may have changed his phone since then.",
+  "replyTamil": "தயவுசெய்து எழுதிக்கொள்ளுங்கள். அதற்குப் பிறகு அவர் போனை மாற்றியிருக்கலாம்."
+ },
+ {
+  "category": "telephone",
+  "context": "Colleague unavailable all week",
+  "level": "advanced",
+  "en": "I did give your message to her, but she's tied up this week. She may only get back to you early next week.",
+  "tamil": "உங்கள் செய்தியை அவரிடம் கொடுத்தேன், ஆனால் இந்த வாரம் அவர் மிகவும் வேலையாக இருக்கிறார். அடுத்த வாரத் தொடக்கத்தில்தான் உங்களை அழைக்கக்கூடும்.",
+  "reply": "That's fine, there's no rush. Just let her know I'll follow up if I don't hear back by Monday.",
+  "replyTamil": "பரவாயில்லை, அவசரம் இல்லை. திங்கள் வரை பதில் வரவில்லை என்றால் நானே தொடர்புகொள்வேன் என்று அவரிடம் சொல்லுங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Caller dialled the wrong number",
+  "level": "beginner",
+  "en": "Sorry, you've got the wrong number.",
+  "tamil": "மன்னிக்கவும், நீங்கள் தவறான எண்ணை அழைத்திருக்கிறீர்கள்.",
+  "reply": "Oh, I'm so sorry. I must have dialled it wrong.",
+  "replyTamil": "ஓ, மிகவும் மன்னிக்கவும். நான் தவறாக அழைத்திருக்கிறேன் போல."
+ },
+ {
+  "category": "telephone",
+  "context": "Whom were you trying to reach",
+  "level": "beginner",
+  "en": "Who are you trying to call?",
+  "tamil": "நீங்கள் யாரை அழைக்க முயல்கிறீர்கள்?",
+  "reply": "I wanted Mr. Murugan's shop. Isn't this the stationery shop?",
+  "replyTamil": "எனக்கு திரு. முருகனின் கடை வேண்டும். இது எழுதுபொருள் கடை இல்லையா?"
+ },
+ {
+  "category": "telephone",
+  "context": "Nobody by that name",
+  "level": "intermediate",
+  "en": "There's nobody by that name here. I think you've misdialled.",
+  "tamil": "இங்கே அந்தப் பெயரில் யாரும் இல்லை. நீங்கள் தவறாக அழைத்துவிட்டீர்கள் என்று நினைக்கிறேன்.",
+  "reply": "My mistake, sorry for the trouble. Have a good day.",
+  "replyTamil": "என் தவறுதான், தொந்தரவுக்கு மன்னிக்கவும். நல்ல நாளாக அமையட்டும்."
+ },
+ {
+  "category": "telephone",
+  "context": "Old owner of the number",
+  "level": "intermediate",
+  "en": "This is the third time today someone's called asking for Balu. I think he used to have this number.",
+  "tamil": "இன்று மூன்றாவது முறையாக யாரோ பாலுவைக் கேட்டு அழைக்கிறார்கள். இந்த எண் முன்பு அவரிடம் இருந்திருக்கும் என்று நினைக்கிறேன்.",
+  "reply": "Oh, that must be annoying. I'll update my contacts and let the others know.",
+  "replyTamil": "ஓ, அது எரிச்சலாக இருக்கும். என் தொடர்புகளைப் புதுப்பித்து மற்றவர்களுக்கும் சொல்கிறேன்."
+ },
+ {
+  "category": "telephone",
+  "context": "Accepting an apology for a wrong call",
+  "level": "beginner",
+  "en": "No problem, it happens. Take care!",
+  "tamil": "பரவாயில்லை, இது நடப்பதுதான். கவனமாக இருங்கள்!",
+  "reply": "Thanks for understanding. Bye!",
+  "replyTamil": "புரிந்துகொண்டதற்கு நன்றி. வருகிறேன்!"
+ },
+ {
+  "category": "telephone",
+  "context": "Caller checks a friend's number",
+  "level": "intermediate",
+  "en": "Hello? Hello? Is this Anand's number?",
+  "tamil": "ஹலோ? ஹலோ? இது ஆனந்தின் எண்ணா?",
+  "reply": "No, I'm afraid not. Maybe you should check the last digit.",
+  "replyTamil": "இல்லை, மன்னிக்கவும். கடைசி இலக்கத்தை ஒருமுறை சரிபாருங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Repeatedly reaching the wrong person",
+  "level": "advanced",
+  "en": "Sorry to bother you again. I keep landing on this number even though I'm dialling from my saved contacts.",
+  "tamil": "மறுபடி தொந்தரவு செய்வதற்கு மன்னிக்கவும். சேமித்த தொடர்புகளிலிருந்து அழைத்தும் இந்த எண்ணுக்கே வருகிறது.",
+  "reply": "No worries. It sounds like the number was saved wrongly. Try asking him for it again.",
+  "replyTamil": "கவலைப்படாதீர்கள். எண் தவறாகச் சேமிக்கப்பட்டிருக்கும் போல. அவரிடம் மறுபடி கேட்டுப் பாருங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Mistaken for a shop",
+  "level": "beginner",
+  "en": "Is this the pizza shop?",
+  "tamil": "இது பீட்சா கடையா?",
+  "reply": "No, this is a private number. You may want to check the number again.",
+  "replyTamil": "இல்லை, இது தனிப்பட்ட எண். எண்ணை மறுபடி சரிபாருங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Looking for a friend on an old number",
+  "level": "intermediate",
+  "en": "Hi, I'm looking for Kavitha. Is this still her number?",
+  "tamil": "ஹாய், நான் கவிதாவைத் தேடுகிறேன். இது இன்னும் அவருடைய எண்தானா?",
+  "reply": "I'm afraid it isn't. I got this number a month ago, so she might have changed it.",
+  "replyTamil": "இல்லை, மன்னிக்கவும். எனக்கு இந்த எண் ஒரு மாதத்துக்கு முன்புதான் கிடைத்தது, அவர் மாற்றியிருக்கலாம்."
+ },
+ {
+  "context": "Testing the line at the start of a call",
+  "level": "beginner",
+  "en": "Hi, is my voice coming through okay on your side?",
+  "tamil": "வணக்கம், என் குரல் உங்க பக்கம் தெளிவா வருதா?",
+  "reply": "It's a bit choppy. Could you move closer to the window?",
+  "replyTamil": "கொஞ்சம் துண்டு துண்டா வருது. ஜன்னல் பக்கம் கொஞ்சம் நகர்ந்து வர முடியுமா?",
+  "category": "telephone"
+ },
+ {
+  "category": "telephone",
+  "context": "Weak mobile signal",
+  "level": "beginner",
+  "en": "Sorry, the network is very weak here.",
+  "tamil": "மன்னிக்கவும், இங்கே நெட்வொர்க் ரொம்ப பலவீனமாக இருக்கிறது.",
+  "reply": "No problem. Try going near the window.",
+  "replyTamil": "பரவாயில்லை. ஜன்னல் அருகே போய்ப் பாருங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Voice cutting in and out",
+  "level": "intermediate",
+  "en": "You're cutting in and out. I only caught every other word.",
+  "tamil": "உங்கள் குரல் அடிக்கடி துண்டிக்கிறது. நான் இரண்டில் ஒரு வார்த்தைதான் கேட்டேன்.",
+  "reply": "Let me move to the balcony. The signal is better there. Hold on a second.",
+  "replyTamil": "நான் பால்கனிக்குப் போகிறேன். அங்கே சிக்னல் நன்றாக இருக்கும். ஒரு நொடி காத்திருங்கள்."
+ },
+ {
+  "category": "telephone",
+  "context": "Noisy surroundings",
+  "level": "intermediate",
+  "en": "Sorry, could you repeat that? There was a lot of noise on your side.",
+  "tamil": "மன்னிக்கவும், அதை மறுபடி சொல்ல முடியுமா? உங்கள் பக்கம் ரொம்ப சத்தமாக இருந்தது.",
+  "reply": "Sure. I'm at the bus stand, so it's noisy. I'll find a quieter spot.",
+  "replyTamil": "சரி. நான் பஸ் ஸ்டாண்டில் இருக்கிறேன், அதனால் சத்தமாக இருக்கிறது. அமைதியான இடம் தேடுகிறேன்."
+ },
+ {
+  "category": "telephone",
+  "context": "Call got disconnected",
+  "level": "beginner",
+  "en": "The call got disconnected. Sorry about that.",
+  "tamil": "அழைப்பு துண்டிக்கப்பட்டுவிட்டது. அதற்கு மன்னிக்கவும்.",
+  "reply": "That's okay. I'll call you back right now.",
+  "replyTamil": "பரவாயில்லை. நான் இப்போதே திரும்ப அழைக்கிறேன்."
+ },
+ {
+  "category": "telephone",
+  "context": "Crackling line",
+  "level": "advanced",
+  "en": "I'm afraid the line's crackling quite badly. Shall we hang up and try again?",
+  "tamil": "இணைப்பில் கரகரப்புச் சத்தம் மிகவும் அதிகமாக இருக்கிறது. அழைப்பைத் துண்டித்துவிட்டு மறுபடி முயலலாமா?",
+  "reply": "Good idea. Let me ring you back on the landline, it's usually more stable.",
+  "replyTamil": "நல்ல யோசனை. நான் லேண்ட்லைனில் திரும்ப அழைக்கிறேன், அது பொதுவாக நிலையாக இருக்கும்."
+ },
+ {
+  "category": "telephone",
+  "context": "Echo on the line",
+  "level": "intermediate",
+  "en": "Your voice is echoing. Are you on speaker?",
+  "tamil": "உங்கள் குரல் எதிரொலிக்கிறது. ஸ்பீக்கரில் பேசுகிறீர்களா?",
+  "reply": "Yes, I'm on speaker. Let me switch to the earphones. Is that better?",
+  "replyTamil": "ஆமாம், ஸ்பீக்கரில்தான். இயர்போனுக்கு மாறுகிறேன். இப்போது நன்றாக இருக்கிறதா?"
+ },
+ {
+  "category": "telephone",
+  "context": "Cannot hear the caller",
+  "level": "beginner",
+  "en": "I can't hear anything. Is your phone on mute?",
+  "tamil": "எனக்கு எதுவும் கேட்கவில்லை. உங்கள் போன் மியூட்டில் இருக்கிறதா?",
+  "reply": "No, it isn't. Wait, maybe my mic is blocked. Let me check.",
+  "replyTamil": "இல்லை. இருங்கள், என் மைக் அடைபட்டிருக்கலாம். பார்க்கிறேன்."
+ },
+ {
+  "category": "telephone",
+  "context": "Calling from a lift",
+  "level": "advanced",
+  "en": "I'm in a lift, so I might drop off any second. If I do, I'll ring you right back.",
+  "tamil": "நான் லிஃப்டில் இருக்கிறேன், அதனால் எந்த நொடியும் இணைப்பு போகலாம். அப்படி ஆனால், உடனே திரும்ப அழைக்கிறேன்.",
+  "reply": "Okay, no problem. If we get cut off, I'll wait for your call.",
+  "replyTamil": "சரி, பரவாயில்லை. இணைப்பு துண்டிக்கப்பட்டால், உங்கள் அழைப்புக்காகக் காத்திருப்பேன்."
+ }
+]

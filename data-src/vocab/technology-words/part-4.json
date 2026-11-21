@@ -1,0 +1,346 @@
+[
+ {
+  "word": "encrypt",
+  "meaning": "To change data into a secret code so others cannot read it.",
+  "tamil": "தரவை பிறர் படிக்க முடியாதபடி ரகசியக் குறியீடாக மாற்று",
+  "pos": "verb",
+  "pron": "en-KRIPT",
+  "example": "Messaging apps encrypt your chats for privacy.",
+  "exampleTamil": "செய்தி செயலிகள் தனியுரிமைக்காக உங்கள் அரட்டைகளை குறியாக்கம் செய்கின்றன.",
+  "synonyms": [
+   "code",
+   "scramble",
+   "secure"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overclock",
+  "meaning": "To make a computer chip run faster than its normal speed.",
+  "tamil": "கணினி சிப்பை இயல்பை விட வேகமாக இயங்கச் செய்",
+  "pos": "verb",
+  "pron": "OH-ver-klok",
+  "example": "Gamers sometimes overclock their processors for more speed.",
+  "exampleTamil": "விளையாட்டாளர்கள் சில நேரம் கூடுதல் வேகத்திற்காக செயலிகளை ஓவர்க்ளாக் செய்வார்கள்.",
+  "synonyms": [
+   "speed up",
+   "boost"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cybercrime",
+  "meaning": "Crime done using computers or the internet.",
+  "tamil": "இணையக் குற்றம், கணினி அல்லது இணையம் மூலம் செய்யப்படும் குற்றம்",
+  "pos": "noun",
+  "pron": "SY-ber-krym",
+  "example": "Online fraud is a common cybercrime.",
+  "exampleTamil": "இணைய மோசடி ஒரு பொதுவான இணையக் குற்றம்.",
+  "synonyms": [
+   "online crime",
+   "fraud"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "blockchain",
+  "meaning": "A digital record book shared across many computers that is hard to change.",
+  "tamil": "பிளாக்செயின், பல கணினிகளில் பகிரப்படும் மாற்றுவது கடினமான எண்ணியல் பதிவேடு",
+  "pos": "noun",
+  "pron": "BLOK-chayn",
+  "example": "Blockchain is used to track payments safely.",
+  "exampleTamil": "பிளாக்செயின் பணப் பரிமாற்றங்களைப் பாதுகாப்பாகக் கண்காணிக்கப் பயன்படுகிறது.",
+  "synonyms": [
+   "digital ledger"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "cryptocurrency",
+  "meaning": "Digital money that exists only online and uses secret codes.",
+  "tamil": "கிரிப்டோகரன்சி, இணையத்தில் மட்டுமே இருக்கும் எண்ணியல் பணம்",
+  "pos": "noun",
+  "pron": "KRIP-toh-kur-en-see",
+  "example": "He lost money buying cryptocurrency.",
+  "exampleTamil": "அவர் கிரிப்டோகரன்சி வாங்கி பணத்தை இழந்தார்.",
+  "synonyms": [
+   "digital money",
+   "bitcoin"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "biometrics",
+  "meaning": "Using body features like fingerprints or the face to confirm identity.",
+  "tamil": "கைரேகை, முகம் போன்றவற்றால் அடையாளம் உறுதிசெய்தல்",
+  "pos": "noun",
+  "pron": "by-oh-MET-riks",
+  "example": "The office uses biometrics instead of ID cards.",
+  "exampleTamil": "அலுவலகம் அடையாள அட்டைகளுக்குப் பதிலாக உடல் அடையாளத்தைப் பயன்படுத்துகிறது.",
+  "synonyms": [
+   "fingerprint scan",
+   "face scan"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "deepfake",
+  "meaning": "A fake video or audio made by AI that looks or sounds real.",
+  "tamil": "செயற்கை நுண்ணறிவால் உருவாக்கிய உண்மை போல தோன்றும் போலி வீடியோ",
+  "pos": "noun",
+  "pron": "DEEP-fayk",
+  "example": "The deepfake video fooled many people online.",
+  "exampleTamil": "அந்த போலி டீப்ஃபேக் வீடியோ இணையத்தில் பலரை ஏமாற்றியது.",
+  "synonyms": [
+   "fake video",
+   "forgery"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "virtualization",
+  "meaning": "Running many virtual computers on one real machine.",
+  "tamil": "மெய்நிகராக்கம், ஒரே உண்மையான இயந்திரத்தில் பல மெய்நிகர் கணினிகளை இயக்குதல்",
+  "pos": "noun",
+  "pron": "vur-choo-uh-ly-ZAY-shun",
+  "example": "Virtualization lets us run two systems on one server.",
+  "exampleTamil": "மெய்நிகராக்கம் ஒரே சர்வரில் இரண்டு அமைப்புகளை இயக்க உதவுகிறது.",
+  "synonyms": [
+   "simulation"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "open-source",
+  "meaning": "Software whose code anyone can see, use and change.",
+  "tamil": "திறவூற்று, யாரும் பார்க்கவும் பயன்படுத்தவும் மாற்றவும் கூடிய நிரல்",
+  "pos": "adjective",
+  "pron": "OH-pen-sorss",
+  "example": "Many developers prefer open-source tools.",
+  "exampleTamil": "பல டெவலப்பர்கள் திறவூற்றுக் கருவிகளை விரும்புகிறார்கள்.",
+  "synonyms": [
+   "free",
+   "public"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "metadata",
+  "meaning": "Data that describes other data, such as the date of a photo.",
+  "tamil": "மேல்தரவு, புகைப்படத்தின் தேதி போன்ற மற்ற தரவை விவரிக்கும் தரவு",
+  "pos": "noun",
+  "pron": "MET-uh-day-tuh",
+  "example": "The photo's metadata shows where it was taken.",
+  "exampleTamil": "புகைப்படத்தின் மேல்தரவு அது எங்கே எடுக்கப்பட்டது என்று காட்டுகிறது.",
+  "synonyms": [
+   "data details"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fiber-optic",
+  "meaning": "Using thin glass threads to send data as light very quickly.",
+  "tamil": "ஒளியாக தரவை வேகமாக அனுப்பும் கண்ணாடி இழை சார்ந்த",
+  "pos": "adjective",
+  "pron": "FY-ber OP-tik",
+  "example": "We got a fiber-optic connection at home last year.",
+  "exampleTamil": "கடந்த ஆண்டு எங்கள் வீட்டில் ஃபைபர் ஆப்டிக் இணைப்பு கிடைத்தது.",
+  "synonyms": [
+   "high-speed",
+   "broadband"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "teleconference",
+  "meaning": "A meeting held by phone or video between people in different places.",
+  "tamil": "வெவ்வேறு இடங்களில் உள்ளவர்கள் தொலைபேசி அல்லது வீடியோ மூலம் நடத்தும் கூட்டம்",
+  "pos": "noun",
+  "pron": "TEL-ih-kon-fer-ens",
+  "example": "The teleconference with our London team starts at nine.",
+  "exampleTamil": "எங்கள் லண்டன் குழுவுடன் தொலைக்கூட்டம் ஒன்பது மணிக்குத் தொடங்கும்.",
+  "synonyms": [
+   "video meeting",
+   "conference call"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "interoperability",
+  "meaning": "The ability of different systems to work together.",
+  "tamil": "வெவ்வேறு அமைப்புகள் இணைந்து செயல்படும் திறன்",
+  "pos": "noun",
+  "pron": "in-ter-op-er-uh-BIL-i-tee",
+  "example": "Interoperability between banks makes payments easy.",
+  "exampleTamil": "வங்கிகளுக்கிடையேயான இணைந்து செயல்படும் திறன் பணம் செலுத்துவதை எளிதாக்குகிறது.",
+  "synonyms": [
+   "compatibility"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "debugging",
+  "meaning": "Finding and fixing mistakes in a computer program.",
+  "tamil": "கணினி நிரலில் உள்ள பிழைகளைக் கண்டறிந்து சரிசெய்தல்",
+  "pos": "noun",
+  "pron": "dee-BUG-ing",
+  "example": "Debugging took the whole afternoon.",
+  "exampleTamil": "பிழை திருத்தம் மதியம் முழுவதும் எடுத்தது.",
+  "synonyms": [
+   "troubleshooting",
+   "fixing"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "deployment",
+  "meaning": "Releasing new software so that users can start using it.",
+  "tamil": "புதிய மென்பொருளை பயனர்கள் பயன்படுத்த வெளியிடுதல்",
+  "pos": "noun",
+  "pron": "dih-PLOY-munt",
+  "example": "Tonight's deployment will fix the login problem.",
+  "exampleTamil": "இன்றிரவு மென்பொருள் வெளியீடு உள்நுழைவு சிக்கலைச் சரிசெய்யும்.",
+  "synonyms": [
+   "release",
+   "rollout"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "followers",
+  "meaning": "People who follow your account to see your posts.",
+  "tamil": "உங்கள் பதிவுகளைப் பார்க்க உங்களைப் பின்தொடர்பவர்கள்",
+  "pos": "noun",
+  "pron": "FOL-oh-erz",
+  "example": "She gained a thousand followers in one month.",
+  "exampleTamil": "அவள் ஒரே மாதத்தில் ஆயிரம் பின்தொடர்பவர்களைப் பெற்றாள்.",
+  "synonyms": [
+   "fans",
+   "subscribers"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "anonymize",
+  "meaning": "To remove names from data so people cannot be identified.",
+  "tamil": "தரவிலிருந்து பெயர்களை நீக்கி அடையாளம் தெரியாமல் ஆக்குதல்",
+  "pos": "verb",
+  "pron": "uh-NON-i-myz",
+  "example": "We anonymize the survey answers before sharing.",
+  "exampleTamil": "பகிரும் முன் கருத்துக்கணிப்பு பதில்களை அடையாளம் தெரியாமல் ஆக்குகிறோம்.",
+  "synonyms": [
+   "mask",
+   "hide identity"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hyperlink",
+  "meaning": "Text or a picture you click to jump to another page.",
+  "tamil": "மேலிணைப்பு, இன்னொரு பக்கத்துக்குச் செல்ல கிளிக் செய்யும் உரை அல்லது படம்",
+  "pos": "noun",
+  "pron": "HY-per-link",
+  "example": "Click the hyperlink to read the full story.",
+  "exampleTamil": "முழுக் கதையைப் படிக்க மேலிணைப்பை கிளிக் செய்யுங்கள்.",
+  "synonyms": [
+   "link",
+   "web link"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "freemium",
+  "meaning": "A business model where basic use is free but extra features cost money.",
+  "tamil": "அடிப்படை பயன்பாடு இலவசம், கூடுதல் வசதிகளுக்குக் கட்டணம் என்ற மாதிரி",
+  "pos": "noun",
+  "pron": "FREE-mee-um",
+  "example": "Many apps use a freemium model to attract users.",
+  "exampleTamil": "பல செயலிகள் பயனர்களை ஈர்க்க ஃப்ரீமியம் மாதிரியைப் பயன்படுத்துகின்றன.",
+  "synonyms": [
+   "free tier",
+   "trial model"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "firmware",
+  "meaning": "Basic software stored inside a device that controls how it works.",
+  "tamil": "சாதனத்துக்குள் இருந்து அதை இயக்கும் அடிப்படை மென்பொருள்",
+  "pos": "noun",
+  "pron": "FERM-wair",
+  "example": "Update the router firmware for better security.",
+  "exampleTamil": "சிறந்த பாதுகாப்புக்காக ரூட்டரின் ஃபார்ம்வேரைப் புதுப்பிக்கவும்.",
+  "synonyms": [
+   "embedded software"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "kernel",
+  "meaning": "The core part of an operating system that controls the hardware.",
+  "tamil": "கெர்னல், வன்பொருளைக் கட்டுப்படுத்தும் இயக்க முறைமையின் மைய பகுதி",
+  "pos": "noun",
+  "pron": "KER-nul",
+  "example": "The kernel manages memory and the processor.",
+  "exampleTamil": "கெர்னல் நினைவகத்தையும் செயலியையும் நிர்வகிக்கிறது.",
+  "synonyms": [
+   "core"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "telemetry",
+  "meaning": "Data that a device sends automatically from far away.",
+  "tamil": "தொலைதூரத்திலிருந்து சாதனம் தானாக அனுப்பும் தரவு",
+  "pos": "noun",
+  "pron": "tuh-LEM-uh-tree",
+  "example": "The car sends telemetry to the company.",
+  "exampleTamil": "அந்தக் கார் நிறுவனத்துக்கு தொலைஅளவீட்டுத் தரவை அனுப்புகிறது.",
+  "synonyms": [
+   "remote data"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "hallucination",
+  "meaning": "When an AI gives an answer that sounds right but is false.",
+  "tamil": "செயற்கை நுண்ணறிவு சரியாகத் தோன்றும் ஆனால் தவறான பதிலை தருவது",
+  "pos": "noun",
+  "pron": "huh-loo-si-NAY-shun",
+  "example": "The chatbot's hallucination gave me a fake date.",
+  "exampleTamil": "சாட்பாட்டின் தவறான பதில் எனக்கு ஒரு போலி தேதியைக் கொடுத்தது.",
+  "synonyms": [
+   "false answer",
+   "error"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "harddisk",
+  "meaning": "A device inside a computer that stores files for a long time.",
+  "tamil": "கணினியில் கோப்புகளை நீண்டகாலம் சேமிக்கும் சாதனம்",
+  "pos": "noun",
+  "pron": "HARD-disk",
+  "example": "My harddisk is almost full of videos.",
+  "exampleTamil": "என் ஹார்ட்டிஸ்க் கிட்டத்தட்ட வீடியோக்களால் நிறைந்துவிட்டது.",
+  "synonyms": [
+   "drive",
+   "storage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "livestreaming",
+  "meaning": "Broadcasting a video online while it is happening.",
+  "tamil": "நடக்கும்போதே இணையத்தில் வீடியோ ஒளிபரப்புதல்",
+  "pos": "noun",
+  "pron": "LYV-stree-ming",
+  "example": "Livestreaming lets fans watch the concert from home.",
+  "exampleTamil": "நேரலை ஒளிபரப்பு ரசிகர்கள் வீட்டிலிருந்தே இசை நிகழ்ச்சியைப் பார்க்க உதவுகிறது.",
+  "synonyms": [
+   "broadcasting",
+   "live video"
+  ],
+  "level": "intermediate"
+ }
+]

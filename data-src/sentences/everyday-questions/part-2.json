@@ -1,0 +1,357 @@
+[
+ {
+  "en": "May I borrow your pen for a minute?",
+  "tamil": "உங்க பேனாவை ஒரு நிமிஷம் கடன் வாங்கலாமா?",
+  "context": "Asking a classmate for a pen.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'May I' is formal and polite for asking permission. 'Borrow' means take for a short time.",
+  "words": [
+   "borrow"
+  ],
+  "usage": "Use it with a classmate or colleague when you need to use something briefly.",
+  "leelaQ": "Do you often borrow things from friends?",
+  "answer": "Yes, sometimes I borrow a pen or a charger from my friends."
+ },
+ {
+  "en": "Would you like some more tea?",
+  "tamil": "இன்னும் கொஞ்சம் டீ வேணுமா?",
+  "context": "Offering tea to a guest at home.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like ...?' is a polite way to offer something to a guest.",
+  "words": [
+   "tea"
+  ],
+  "usage": "Use it with guests and visitors at home or in the office.",
+  "leelaQ": "How many cups of tea do you drink a day?",
+  "answer": "I drink two cups of tea every day."
+ },
+ {
+  "en": "You are from Madurai, aren't you?",
+  "tamil": "நீங்க மதுரைக்காரங்க தானே?",
+  "context": "Checking a new friend's hometown.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A question tag: positive sentence plus a negative tag. We use it to confirm what we think is true.",
+  "words": [
+   "aren't"
+  ],
+  "usage": "Use it when you think you know something and just want to confirm.",
+  "leelaQ": "Which city are you from?",
+  "answer": "I am from Coimbatore."
+ },
+ {
+  "en": "It is very hot today, isn't it?",
+  "tamil": "இன்னைக்கு ரொம்ப வெயிலா இருக்கு, இல்லையா?",
+  "context": "Making small talk about the weather.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Isn't it?' is a question tag. It invites the other person to agree with you.",
+  "words": [
+   "hot"
+  ],
+  "usage": "Use it to start a friendly chat with a neighbour or a co-passenger.",
+  "leelaQ": "How is the weather in your city today?",
+  "answer": "It is hot and humid in my city today."
+ },
+ {
+  "en": "You haven't eaten yet, have you?",
+  "tamil": "நீங்க இன்னும் சாப்பிடலை, இல்ல?",
+  "context": "Checking before ordering food for a friend.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "A negative sentence takes a positive tag: haven't ... have you?",
+  "words": [
+   "eaten"
+  ],
+  "usage": "Use it when you guess a friend is hungry and plan to order food.",
+  "leelaQ": "What time do you usually eat dinner?",
+  "answer": "I usually eat dinner around eight o'clock."
+ },
+ {
+  "en": "She works in your office, doesn't she?",
+  "tamil": "அவங்க உங்க ஆபீஸ்ல தான் வேலை பண்றாங்க, இல்லையா?",
+  "context": "Confirming a colleague's workplace.",
+  "tense": "present",
+  "type": "question",
+  "explain": "For simple present statements, the tag uses do or does: works ... doesn't she?",
+  "words": [
+   "works"
+  ],
+  "usage": "Use it to confirm something you already half know in a conversation.",
+  "leelaQ": "Where does your friend work?",
+  "answer": "My friend works in a bank near my house."
+ },
+ {
+  "en": "The meeting is at four, right?",
+  "tamil": "மீட்டிங் நாலு மணிக்கு தானே, சரியா?",
+  "context": "Confirming the meeting time.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Right?' is an easy tag in spoken English. It asks the listener to confirm.",
+  "words": [
+   "meeting"
+  ],
+  "usage": "Use it with a colleague to make sure you have the correct time.",
+  "leelaQ": "What time is your next meeting?",
+  "answer": "My next meeting is at three o'clock."
+ },
+ {
+  "en": "You will come tomorrow, won't you?",
+  "tamil": "நீங்க நாளைக்கு வருவீங்க, இல்லையா?",
+  "context": "Reminding a friend about tomorrow's function.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will' in the sentence becomes 'won't' in the tag.",
+  "words": [
+   "tomorrow",
+   "won't"
+  ],
+  "usage": "Use it when you invite someone and want a sure answer.",
+  "leelaQ": "Will you visit your relatives this month?",
+  "answer": "Yes, I will visit my uncle this month."
+ },
+ {
+  "en": "They didn't call you back, did they?",
+  "tamil": "அவங்க உங்களுக்கு திரும்ப கூப்பிடலை, இல்ல?",
+  "context": "Checking with a friend about a pending call.",
+  "tense": "past",
+  "type": "question",
+  "explain": "A negative past sentence takes the positive tag 'did they?'.",
+  "words": [
+   "call"
+  ],
+  "usage": "Use it when you want to confirm that nothing has happened yet.",
+  "leelaQ": "Do you call back when you miss a call?",
+  "answer": "Yes, I always call back when I miss a call."
+ },
+ {
+  "en": "Do you have any plans for Sunday evening?",
+  "tamil": "ஞாயிற்றுக்கிழமை சாயங்காலம் ஏதாவது பிளான் இருக்கா?",
+  "context": "Making small talk with a colleague on Friday.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous can talk about plans for the near future.",
+  "words": [
+   "plans"
+  ],
+  "usage": "Use it with friends or colleagues to start a friendly chat.",
+  "leelaQ": "What are your plans for the next holiday?",
+  "answer": "I am planning to visit my family and relax at home."
+ },
+ {
+  "en": "Where did you buy that bag?",
+  "tamil": "அந்த பேகை எங்க வாங்குனீங்க?",
+  "context": "Asking a friend about a nice bag.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Where did you buy ...?' uses 'did', so the verb stays 'buy'.",
+  "words": [
+   "buy"
+  ],
+  "usage": "Use it as a friendly question when you like something a friend has.",
+  "leelaQ": "Where do you buy your clothes?",
+  "answer": "I buy my clothes from a shop near my house."
+ },
+ {
+  "en": "When is your sister's wedding?",
+  "tamil": "உங்க தங்கச்சி கல்யாணம் எப்போ?",
+  "context": "Asking a colleague about a family function.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'When' asks about time or date. 'Is' goes before the subject in questions.",
+  "words": [
+   "wedding"
+  ],
+  "usage": "Use it to show interest in a friend's family function.",
+  "leelaQ": "Have you been to a wedding recently?",
+  "answer": "Yes, I attended my cousin's wedding last month."
+ },
+ {
+  "en": "What are you cooking for lunch today?",
+  "tamil": "இன்னைக்கு மதியத்துக்கு என்ன சமைக்கிறீங்க?",
+  "context": "Asking a family member at home.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous with 'what' asks about something happening now or today.",
+  "words": [
+   "cooking"
+  ],
+  "usage": "Use it at home with your mother, wife or a roommate.",
+  "leelaQ": "What is your favourite dish?",
+  "answer": "My favourite dish is chicken biryani."
+ },
+ {
+  "en": "How was your interview yesterday?",
+  "tamil": "நேத்து உங்க இன்டர்வியூ எப்படி இருந்துச்சு?",
+  "context": "Asking a friend about an interview.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'How was ...?' asks for an opinion about something that already happened.",
+  "words": [
+   "interview"
+  ],
+  "usage": "Use it with a friend or sibling after an important event.",
+  "leelaQ": "How was your day yesterday?",
+  "answer": "It was a busy but good day."
+ },
+ {
+  "en": "Where did you buy this lovely bag?",
+  "tamil": "இந்த அழகான பையை எங்க வாங்கினீங்க?",
+  "context": "Asking a friend about her new bag.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Where did you ...' with the base verb 'buy' makes a past question.",
+  "words": [
+   "lovely",
+   "buy"
+  ],
+  "usage": "Use it to compliment a friend and ask where they shopped.",
+  "leelaQ": "Where do you usually shop for clothes?",
+  "answer": "I usually go to the market near my house or shop online."
+ },
+ {
+  "en": "How long have you been waiting here?",
+  "tamil": "எவ்ளோ நேரமா இங்க காத்திருக்கீங்க?",
+  "context": "Asking someone waiting in a queue at a bank.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'How long have you been ...ing' asks about a period of time up to now.",
+  "words": [
+   "waiting"
+  ],
+  "usage": "Use it with another person in a queue or waiting room.",
+  "leelaQ": "How do you feel when you wait in a long queue?",
+  "answer": "I feel a little bored, so I check my phone."
+ },
+ {
+  "en": "Which one do you prefer, tea or coffee?",
+  "tamil": "டீ, காபி ரெண்டுல நீங்க எதை விரும்புவீங்க?",
+  "context": "Asking a guest for a choice.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Which one ... or ...?' offers two choices. 'Prefer' means like more.",
+  "words": [
+   "prefer"
+  ],
+  "usage": "Use it at home or in the office when you serve a drink.",
+  "leelaQ": "Which one do you prefer in the morning?",
+  "answer": "I prefer filter coffee in the morning."
+ },
+ {
+  "en": "Is there a pharmacy nearby?",
+  "tamil": "பக்கத்துல ஏதாவது மெடிக்கல் ஷாப் இருக்கா?",
+  "context": "Asking a local for help.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there ...?' asks if something exists in a place.",
+  "words": [
+   "pharmacy",
+   "nearby"
+  ],
+  "usage": "Use it with a local person when you need medicine in a new area.",
+  "leelaQ": "Is there a hospital near your house?",
+  "answer": "Yes, there is a big hospital near my house."
+ },
+ {
+  "en": "Are there any seats left for the evening show?",
+  "tamil": "ஈவ்னிங் ஷோவுக்கு டிக்கெட் ஏதாவது மீதி இருக்கா?",
+  "context": "Asking at a cinema counter.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Are there any ...?' is used for plural things. 'Left' means still available.",
+  "words": [
+   "seats"
+  ],
+  "usage": "Use it at a ticket counter before buying tickets.",
+  "leelaQ": "How often do you watch movies in a theatre?",
+  "answer": "I watch a movie in a theatre once a month."
+ },
+ {
+  "en": "Do you have change for five hundred rupees?",
+  "tamil": "ஐநூறு ரூபாய்க்கு சில்லறை இருக்கா?",
+  "context": "Asking a shopkeeper for change.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Change' here means smaller notes and coins. This is common in daily Indian life.",
+  "words": [
+   "change"
+  ],
+  "usage": "Use it with a shopkeeper, auto driver or conductor.",
+  "leelaQ": "Do you pay by cash or by UPI?",
+  "answer": "I mostly pay by UPI these days."
+ },
+ {
+  "en": "Could you tell me where the restroom is?",
+  "tamil": "கழிவறை எங்க இருக்குனு சொல்ல முடியுமா?",
+  "context": "Asking a mall staff member for the restroom.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could you tell me where ... is' is an indirect question, so use normal word order.",
+  "words": [
+   "restroom"
+  ],
+  "usage": "Use it in malls, offices or hotels when you need the restroom.",
+  "leelaQ": "What do you do when you cannot find a place in a mall?",
+  "answer": "I ask the staff at the help desk to guide me."
+ },
+ {
+  "en": "What is the status of my order?",
+  "tamil": "என் ஆர்டரோட நிலைமை என்ன?",
+  "context": "Calling customer care about a delayed order.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Status' means the present condition. It is common in customer care calls.",
+  "words": [
+   "status",
+   "order"
+  ],
+  "usage": "Use it on a call or chat with customer support about a delivery.",
+  "leelaQ": "Have you ever had a late delivery?",
+  "answer": "Yes, my parcel came three days late once."
+ },
+ {
+  "en": "When will my parcel be delivered?",
+  "tamil": "என் பார்சல் எப்போ டெலிவரி ஆகும்?",
+  "context": "Asking a courier person.",
+  "tense": "future",
+  "type": "question",
+  "explain": "A passive question: 'will ... be delivered' focuses on the parcel, not the person.",
+  "words": [
+   "parcel",
+   "delivered"
+  ],
+  "usage": "Use it with a courier service or an online shop helpline.",
+  "leelaQ": "What was the last thing you ordered online?",
+  "answer": "I ordered a pair of shoes online last week."
+ },
+ {
+  "en": "Could you check if my payment went through?",
+  "tamil": "என் பேமெண்ட் போயிடுச்சான்னு பார்க்க முடியுமா?",
+  "context": "Asking a bank or shop staff.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Went through' means a payment was successful. 'Could you check if ...' is polite.",
+  "words": [
+   "payment"
+  ],
+  "usage": "Use it at a shop or a bank when a payment fails on your phone.",
+  "leelaQ": "What do you do when a payment fails?",
+  "answer": "I wait a few minutes and then try again."
+ },
+ {
+  "en": "Excuse me, is this the right queue for tickets?",
+  "tamil": "மன்னிக்கணும், டிக்கெட்டுக்கு இதுதான் சரியான வரிசையா?",
+  "context": "Asking at a railway counter.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Excuse me' opens the question politely. 'Queue' means a line of people.",
+  "words": [
+   "queue"
+  ],
+  "usage": "Use it at a railway station, bank or temple when you are unsure.",
+  "leelaQ": "Do you like standing in a queue?",
+  "answer": "No, I do not like waiting in long queues."
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "word": "merchandise",
+  "meaning": "Goods that are bought and sold.",
+  "tamil": "விற்கப்படும் பொருட்கள்",
+  "pos": "noun",
+  "pron": "MER-chun-dyse",
+  "example": "The stadium shop sells team merchandise.",
+  "exampleTamil": "அரங்கத்தில் உள்ள கடை அணியின் பொருட்களை விற்கிறது.",
+  "synonyms": [
+   "goods",
+   "wares"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "counterfeit",
+  "meaning": "Fake but made to look real.",
+  "tamil": "போலியான",
+  "pos": "adjective",
+  "pron": "KOWN-ter-fit",
+  "example": "Counterfeit watches are sold at that stall.",
+  "exampleTamil": "அந்தக் கடையில் போலி கடிகாரங்கள் விற்கப்படுகின்றன.",
+  "synonyms": [
+   "fake",
+   "forged"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "flawless",
+  "meaning": "Perfect, with no faults or damage.",
+  "tamil": "குறையற்ற",
+  "pos": "adjective",
+  "pron": "FLAW-les",
+  "example": "The diamond looked flawless.",
+  "exampleTamil": "அந்த வைரம் குறையற்றதாகத் தெரிந்தது.",
+  "synonyms": [
+   "perfect",
+   "spotless"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fashionable",
+  "meaning": "Popular and in style at present.",
+  "tamil": "நாகரிகமான, பிரபலமான",
+  "pos": "adjective",
+  "pron": "FASH-nuh-bul",
+  "example": "Long kurtas are fashionable this year.",
+  "exampleTamil": "நீண்ட குர்தாக்கள் இந்த ஆண்டு நாகரிகமாக உள்ளன.",
+  "synonyms": [
+   "trendy",
+   "in vogue"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "rip-off",
+  "meaning": "Something sold at a very unfair, high price.",
+  "tamil": "அநியாய விலை",
+  "pos": "noun",
+  "pron": "RIP-of",
+  "example": "Forty rupees for water is a rip-off!",
+  "exampleTamil": "தண்ணீருக்கு நாற்பது ரூபாய் என்பது அநியாயம்!",
+  "synonyms": [
+   "overcharge",
+   "scam"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "second-hand",
+  "meaning": "Already used by someone else before.",
+  "tamil": "ஏற்கனவே பயன்படுத்திய",
+  "pos": "adjective",
+  "pron": "SEK-und-hand",
+  "example": "He bought a second-hand bike for his son.",
+  "exampleTamil": "அவன் தன் மகனுக்காக பழைய பைக் ஒன்றை வாங்கினான்.",
+  "synonyms": [
+   "used",
+   "pre-owned"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "outlet",
+  "meaning": "A shop that sells goods of one company.",
+  "tamil": "ஒரு நிறுவனத்தின் பொருட்கள் விற்கும் கடை",
+  "pos": "noun",
+  "pron": "OWT-let",
+  "example": "There is a shoe outlet near the bus stop.",
+  "exampleTamil": "பேருந்து நிறுத்தம் அருகே ஒரு காலணி விற்பனை நிலையம் உள்ளது.",
+  "synonyms": [
+   "branch",
+   "shop"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "faded",
+  "meaning": "Having lost its colour after washing or sun.",
+  "tamil": "நிறம் மங்கிய",
+  "pos": "adjective",
+  "pron": "FAY-did",
+  "example": "The shirt looks faded after many washes.",
+  "exampleTamil": "பல முறை துவைத்ததால் சட்டை நிறம் மங்கிவிட்டது.",
+  "synonyms": [
+   "washed out",
+   "dull"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "shrink",
+  "meaning": "To become smaller, usually after washing.",
+  "tamil": "சுருங்குதல்",
+  "pos": "verb",
+  "pron": "SHRINK",
+  "example": "Cotton can shrink in hot water.",
+  "exampleTamil": "பருத்தி சூடான நீரில் சுருங்கிவிடலாம்.",
+  "synonyms": [
+   "contract"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "ready-made",
+  "meaning": "Already made and not stitched to your order.",
+  "tamil": "தயாராகத் தைத்த",
+  "pos": "adjective",
+  "pron": "RED-ee-mayd",
+  "example": "I prefer ready-made clothes to tailored ones.",
+  "exampleTamil": "எனக்கு தைத்த ஆடைகளை விட ரெடிமேட் ஆடைகள் பிடிக்கும்.",
+  "synonyms": [
+   "off-the-peg"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "handmade",
+  "meaning": "Made by hand, not by a machine.",
+  "tamil": "கையால் செய்த",
+  "pos": "adjective",
+  "pron": "HAND-mayd",
+  "example": "These handmade bags are sold by village women.",
+  "exampleTamil": "இந்த கையால் செய்த பைகளை கிராமப் பெண்கள் விற்கிறார்கள்.",
+  "synonyms": [
+   "handcrafted"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "imported",
+  "meaning": "Brought into a country from another country.",
+  "tamil": "இறக்குமதி செய்யப்பட்ட",
+  "pos": "adjective",
+  "pron": "im-POR-tid",
+  "example": "Imported chocolates are very costly here.",
+  "exampleTamil": "இறக்குமதி செய்த சாக்லேட்டுகள் இங்கே மிகவும் விலை அதிகம்.",
+  "synonyms": [
+   "foreign"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "organic",
+  "meaning": "Grown without chemicals or artificial fertilizers.",
+  "tamil": "இரசாயனம் இல்லாமல் விளைந்த",
+  "pos": "adjective",
+  "pron": "or-GAN-ik",
+  "example": "We buy organic vegetables from a farm.",
+  "exampleTamil": "நாங்கள் பண்ணையிலிருந்து இயற்கை காய்கறிகள் வாங்குகிறோம்.",
+  "synonyms": [
+   "natural",
+   "chemical-free"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "seasonal",
+  "meaning": "Available only at a certain time of the year.",
+  "tamil": "பருவகாலத்திற்குரிய",
+  "pos": "adjective",
+  "pron": "SEE-zun-ul",
+  "example": "Mangoes are a seasonal fruit.",
+  "exampleTamil": "மாம்பழம் ஒரு பருவகாலப் பழம்.",
+  "synonyms": [
+   "periodic"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "spoiled",
+  "meaning": "Gone bad and no longer fit to eat or use.",
+  "tamil": "கெட்டுப்போன",
+  "pos": "adjective",
+  "pron": "SPOYLD",
+  "example": "The milk was spoiled when I opened it.",
+  "exampleTamil": "நான் திறந்தபோது பால் கெட்டுப் போயிருந்தது.",
+  "synonyms": [
+   "rotten",
+   "off"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "packaged",
+  "meaning": "Sold in a sealed box, bag or packet.",
+  "tamil": "பாக்கெட்டில் அடைக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "PAK-ijd",
+  "example": "Packaged food often has a lot of salt.",
+  "exampleTamil": "பாக்கெட் உணவில் பெரும்பாலும் அதிக உப்பு இருக்கும்.",
+  "synonyms": [
+   "wrapped",
+   "boxed"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "refundable",
+  "meaning": "Able to be paid back if you return it.",
+  "tamil": "பணம் திரும்பப் பெறக்கூடிய",
+  "pos": "adjective",
+  "pron": "ree-FUN-duh-bul",
+  "example": "This ticket is not refundable.",
+  "exampleTamil": "இந்த டிக்கெட்டுக்கு பணம் திரும்பக் கிடைக்காது.",
+  "synonyms": [
+   "returnable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "negotiable",
+  "meaning": "Open to discussion, especially about the price.",
+  "tamil": "பேசி மாற்றக்கூடிய",
+  "pos": "adjective",
+  "pron": "nih-GOH-shuh-buh-bul",
+  "example": "The price is negotiable if you buy two.",
+  "exampleTamil": "இரண்டு வாங்கினால் விலை பேசிக் குறைக்கலாம்.",
+  "synonyms": [
+   "flexible",
+   "open"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overpay",
+  "meaning": "To pay more than the real price.",
+  "tamil": "அதிகமாகப் பணம் செலுத்துதல்",
+  "pos": "verb",
+  "pron": "oh-ver-PAY",
+  "example": "Don't overpay for tourist souvenirs.",
+  "exampleTamil": "சுற்றுலா நினைவுப் பொருட்களுக்கு அதிகம் பணம் கொடுக்காதீர்கள்.",
+  "synonyms": [
+   "overspend"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bestseller",
+  "meaning": "A product that many people buy.",
+  "tamil": "அதிகம் விற்பனையாகும் பொருள்",
+  "pos": "noun",
+  "pron": "best-SEL-er",
+  "example": "This phone is the shop's bestseller.",
+  "exampleTamil": "இந்த போன் கடையில் அதிகம் விற்பனையாகும் பொருள்.",
+  "synonyms": [
+   "top seller"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "haggling",
+  "meaning": "Arguing about a price to get it lower.",
+  "tamil": "விலை குறைக்கப் பேரம் பேசுதல்",
+  "pos": "noun",
+  "pron": "HAG-ling",
+  "example": "Haggling is common in street markets.",
+  "exampleTamil": "தெருச் சந்தைகளில் பேரம் பேசுவது சாதாரணம்.",
+  "synonyms": [
+   "bargaining"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dearer",
+  "meaning": "Costing more money than another thing.",
+  "tamil": "அதிக விலையுள்ள",
+  "pos": "adjective",
+  "pron": "DEER-er",
+  "example": "Vegetables are dearer this week.",
+  "exampleTamil": "இந்த வாரம் காய்கறிகள் விலை அதிகம்.",
+  "synonyms": [
+   "costlier",
+   "pricier"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "worthwhile",
+  "meaning": "Good enough to spend money or time on.",
+  "tamil": "செலவுக்கு ஏற்ற பயனுள்ள",
+  "pos": "adjective",
+  "pron": "werth-WYLE",
+  "example": "The extra money for a good bag is worthwhile.",
+  "exampleTamil": "நல்ல பைக்காகச் செலவழிக்கும் கூடுதல் பணம் பயனுள்ளது.",
+  "synonyms": [
+   "useful",
+   "valuable"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "exclusive",
+  "meaning": "Available only at one shop or to a few people.",
+  "tamil": "குறிப்பிட்டவர்களுக்கு மட்டும் கிடைக்கும்",
+  "pos": "adjective",
+  "pron": "ik-SKLOO-siv",
+  "example": "This phone is exclusive to our online store.",
+  "exampleTamil": "இந்த போன் எங்கள் ஆன்லைன் கடையில் மட்டுமே கிடைக்கும்.",
+  "synonyms": [
+   "limited",
+   "special"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "timeless",
+  "meaning": "Never going out of fashion.",
+  "tamil": "எப்போதும் நாகரிகம் குறையாத",
+  "pos": "adjective",
+  "pron": "TYME-les",
+  "example": "A white shirt is a timeless choice.",
+  "exampleTamil": "வெள்ளைச் சட்டை எப்போதும் நாகரிகமான தேர்வு.",
+  "synonyms": [
+   "classic",
+   "ageless"
+  ],
+  "level": "advanced"
+ }
+]

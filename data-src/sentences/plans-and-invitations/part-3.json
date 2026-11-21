@@ -1,0 +1,352 @@
+[
+ {
+  "en": "I won't be able to attend the class tomorrow.",
+  "tamil": "நாளைக்கு என்னால வகுப்புக்கு வர முடியாது.",
+  "context": "Telling a teacher you will miss class.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Won't be able to' is a polite way to say you cannot do something later.",
+  "words": [
+   "attend"
+  ],
+  "usage": "Use it to tell a teacher or boss about an absence in advance.",
+  "leelaQ": "How do you tell a teacher you will miss class?",
+  "answer": "I send a message and give the reason."
+ },
+ {
+  "en": "Don't worry, I won't forget your birthday party.",
+  "tamil": "கவலைப்படாதே, உன் பிறந்தநாள் பார்ட்டியை மறக்க மாட்டேன்.",
+  "context": "Reassuring a friend.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Don't worry' calms the listener. 'Won't forget' promises.",
+  "words": [
+   "forget"
+  ],
+  "usage": "Use it when a friend worries you will miss an event.",
+  "leelaQ": "Do you forget dates easily?",
+  "answer": "No, I keep all important dates in my phone."
+ },
+ {
+  "en": "We never go out on weekdays because of work.",
+  "tamil": "வேலை இருக்கறதால நாங்க வார நாட்கள்ல வெளியில போகவே மாட்டோம்.",
+  "context": "Describing your family routine.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Never' goes before the main verb and means not at any time.",
+  "words": [
+   "never"
+  ],
+  "usage": "Use it to explain your usual routine to friends.",
+  "leelaQ": "Why do people avoid going out on weekdays?",
+  "answer": "They are tired after a long day at work."
+ },
+ {
+  "en": "I'm not available on Monday, but Tuesday works for me.",
+  "tamil": "திங்கட்கிழமை நான் ஃப்ரீ இல்ல, ஆனா செவ்வாய்க்கிழமை சரியா இருக்கும்.",
+  "context": "Suggesting another day for a meeting.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not available' is a polite way to say you are busy. 'Works for me' means suits me.",
+  "words": [
+   "available"
+  ],
+  "usage": "Use it at work to suggest another day.",
+  "leelaQ": "Which day of the week suits you best?",
+  "answer": "Saturday suits me best because I am free."
+ },
+ {
+  "en": "No problem, we can do it some other day.",
+  "tamil": "பரவாயில்ல, வேற நாள் பண்ணிக்கலாம்.",
+  "context": "Accepting a friend's refusal kindly.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'No problem' is a warm reply. 'Some other day' suggests a new time.",
+  "words": [
+   "problem"
+  ],
+  "usage": "Use it when a friend cannot come and you stay friendly.",
+  "leelaQ": "What do you say when a friend cancels?",
+  "answer": "I say no problem and suggest another day."
+ },
+ {
+  "en": "Are you free this Sunday?",
+  "tamil": "இந்த ஞாயிற்றுக்கிழமை ஃப்ரீயா இருக்கீங்களா?",
+  "context": "Checking a friend's availability.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Free' here means not busy. This is a common opening before an invitation.",
+  "words": [
+   "free"
+  ],
+  "usage": "Use it before you invite someone, to check their time.",
+  "leelaQ": "Are you free on Sundays?",
+  "answer": "Yes, I am usually free on Sunday afternoons."
+ },
+ {
+  "en": "Would you like to join us for dinner tonight?",
+  "tamil": "இன்னைக்கு ராத்திரி எங்களோட சாப்பிட வர்றீங்களா?",
+  "context": "Inviting a colleague to dinner.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like to' is a polite way to invite someone.",
+  "words": [
+   "join"
+  ],
+  "usage": "Use it to invite someone politely at work or at home.",
+  "leelaQ": "Who would you like to invite for dinner?",
+  "answer": "I would like to invite my best friend."
+ },
+ {
+  "en": "What time shall we start from home tomorrow?",
+  "tamil": "நாளைக்கு எத்தனை மணிக்கு வீட்டுலருந்து கிளம்பலாம்?",
+  "context": "Fixing the time with a friend.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Shall we' is used to offer or suggest something together.",
+  "words": [
+   "shall"
+  ],
+  "usage": "Use it when you plan a meeting and need a time.",
+  "leelaQ": "What time do you like to meet friends?",
+  "answer": "I like to meet them in the evening."
+ },
+ {
+  "en": "Do you have any plans for the Pongal holidays?",
+  "tamil": "பொங்கல் விடுமுறைக்கு ஏதாவது பிளான் இருக்கா?",
+  "context": "Asking a friend about festival plans.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Do you have any plans for' is a natural way to ask about future time.",
+  "words": [
+   "plans"
+  ],
+  "usage": "Use it before a holiday to start a friendly talk.",
+  "leelaQ": "What are your plans for the next holiday?",
+  "answer": "I plan to visit my village."
+ },
+ {
+  "en": "Can you make it to my daughter's birthday party?",
+  "tamil": "என் பொண்ணு பிறந்தநாள் பார்ட்டிக்கு வர முடியுமா?",
+  "context": "Inviting a neighbour.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Make it' means to be able to come.",
+  "words": [
+   "birthday"
+  ],
+  "usage": "Use it when you invite someone and want to know if they can come.",
+  "leelaQ": "Can you come to a party on a weekday?",
+  "answer": "It is difficult, but I can come in the evening."
+ },
+ {
+  "en": "Where are you planning to go for your honeymoon?",
+  "tamil": "தேனிலவுக்கு எங்க போகலாம்னு இருக்கீங்க?",
+  "context": "Asking a newly engaged friend.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Planning to go' asks about an intended future action.",
+  "words": [
+   "honeymoon"
+  ],
+  "usage": "Use it to ask a friend about a coming trip with interest.",
+  "leelaQ": "Where would you go for a dream holiday?",
+  "answer": "I would go to Kashmir with my family."
+ },
+ {
+  "en": "How about meeting near the temple at five?",
+  "tamil": "ஐந்து மணிக்கு கோயில் பக்கத்துல சந்திச்சா எப்படி?",
+  "context": "Suggesting a place and time.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How about' is followed by an -ing word to give a suggestion.",
+  "words": [
+   "temple"
+  ],
+  "usage": "Use it to suggest a place and time to a friend.",
+  "leelaQ": "Where should friends meet in your town?",
+  "answer": "They can meet near the bus stand."
+ },
+ {
+  "en": "Did you get my invitation for the housewarming?",
+  "tamil": "புதுமனை புகுவிழாவுக்கான என் அழைப்பிதழ் உங்களுக்குக் கிடைச்சுதா?",
+  "context": "Checking if a guest received the invitation.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did you get' asks about a past event with a result.",
+  "words": [
+   "invitation"
+  ],
+  "usage": "Use it to check with a guest after you send an invitation.",
+  "leelaQ": "Have you received an invitation recently?",
+  "answer": "Yes, I got one for a wedding last week."
+ },
+ {
+  "en": "Will you be coming with your family?",
+  "tamil": "குடும்பத்தோட வருவீங்களா?",
+  "context": "Asking an invited guest.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will you be coming' is a gentle way to ask about future plans.",
+  "words": [
+   "family"
+  ],
+  "usage": "Use it to know how many guests to expect.",
+  "leelaQ": "Do you go to functions with your family?",
+  "answer": "Yes, we all go together."
+ },
+ {
+  "en": "What are you doing after office today?",
+  "tamil": "இன்னைக்கு ஆபீஸ் முடிஞ்சதும் என்ன பண்ணப்போறீங்க?",
+  "context": "Asking a colleague about the evening.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous with a time word asks about a plan.",
+  "words": [
+   "office"
+  ],
+  "usage": "Use it when you want to invite a colleague for tea or a walk.",
+  "leelaQ": "What do you do after office?",
+  "answer": "I go home, cook and watch television."
+ },
+ {
+  "en": "Is it okay if we shift the meeting to Wednesday?",
+  "tamil": "மீட்டிங்கை புதன்கிழமைக்கு மாத்தினா பரவாயில்லையா?",
+  "context": "Asking a client to reschedule.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is it okay if' politely asks for permission to change something.",
+  "words": [
+   "shift"
+  ],
+  "usage": "Use it with clients or seniors when you need a new date.",
+  "leelaQ": "How do you ask to change a meeting day?",
+  "answer": "I ask if it is okay to move it to another day."
+ },
+ {
+  "en": "Have you decided where to go for the weekend?",
+  "tamil": "வார இறுதிக்கு எங்க போறதுன்னு முடிவு பண்ணிட்டீங்களா?",
+  "context": "Asking family about plans.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Where to go' joins a question word with 'to' and a verb.",
+  "words": [
+   "decided"
+  ],
+  "usage": "Use it with family or friends when a plan is still open.",
+  "leelaQ": "How do you decide where to go for a weekend?",
+  "answer": "We talk together and choose a nearby place."
+ },
+ {
+  "en": "Why don't we go out for coffee?",
+  "tamil": "காபி குடிக்க வெளியில போகலாமா?",
+  "context": "Making a casual suggestion.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Why don't we' is a friendly way to suggest something.",
+  "words": [
+   "coffee"
+  ],
+  "usage": "Use it to suggest a short outing to a friend or colleague.",
+  "leelaQ": "What do you like to do with friends?",
+  "answer": "I like to go for coffee and chat."
+ },
+ {
+  "en": "Who else is coming to the party?",
+  "tamil": "பார்ட்டிக்கு வேற யாரெல்லாம் வராங்க?",
+  "context": "Asking a friend about guests.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Who else' asks for more people besides those already known.",
+  "words": [
+   "else"
+  ],
+  "usage": "Use it before attending an event to know the other guests.",
+  "leelaQ": "Who do you like to meet at parties?",
+  "answer": "I like to meet my old friends."
+ },
+ {
+  "en": "Could we reschedule our call to tomorrow morning?",
+  "tamil": "நம்ம கால்-ஐ நாளைக்கு காலைக்கு மாத்தலாமா?",
+  "context": "Asking a client to change the call time.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Could we' is more polite than 'can we'.",
+  "words": [
+   "reschedule"
+  ],
+  "usage": "Use it at work when you cannot keep an earlier time.",
+  "leelaQ": "Have you ever rescheduled a meeting?",
+  "answer": "Yes, I rescheduled it because of heavy rain."
+ },
+ {
+  "en": "What should I bring for the get-together?",
+  "tamil": "கூடுகைக்கு நான் என்ன கொண்டு வரணும்?",
+  "context": "Asking the host what to bring.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Should I' asks for advice or instruction.",
+  "words": [
+   "bring"
+  ],
+  "usage": "Use it to ask a host before attending a small party.",
+  "leelaQ": "What do you bring when you visit someone?",
+  "answer": "I bring sweets or fruits."
+ },
+ {
+  "en": "Did you enjoy the trip to Rameswaram?",
+  "tamil": "ராமேஸ்வரம் டிரிப் நல்லா இருந்துச்சா?",
+  "context": "Asking a colleague about their holiday.",
+  "tense": "past",
+  "type": "question",
+  "explain": "'Did you enjoy' asks about a past experience.",
+  "words": [
+   "enjoy"
+  ],
+  "usage": "Use it when a friend comes back from a trip.",
+  "leelaQ": "Did you enjoy your last holiday?",
+  "answer": "Yes, I enjoyed it very much."
+ },
+ {
+  "en": "How long will you stay at your native place?",
+  "tamil": "உங்க சொந்த ஊர்ல எவ்வளவு நாள் இருப்பீங்க?",
+  "context": "Asking about someone's holiday length.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'How long' asks about the length of time.",
+  "words": [
+   "native place"
+  ],
+  "usage": "Use it to know when a colleague will be back from a break.",
+  "leelaQ": "How long do you stay at your hometown?",
+  "answer": "I stay for about a week."
+ },
+ {
+  "en": "Do you want to go together or meet there?",
+  "tamil": "சேர்ந்து போகலாமா, இல்ல அங்க சந்திக்கலாமா?",
+  "context": "Planning how to reach a function.",
+  "tense": "present",
+  "type": "question",
+  "explain": "An 'or' question offers two choices.",
+  "words": [
+   "together"
+  ],
+  "usage": "Use it when you plan travel with a friend to an event.",
+  "leelaQ": "Do you like travelling alone or with others?",
+  "answer": "I like travelling with my family."
+ },
+ {
+  "en": "Is the function on a weekday or a weekend?",
+  "tamil": "விசேஷம் வார நாள்லயா வார இறுதிலயா?",
+  "context": "Checking the day of an event.",
+  "tense": "present",
+  "type": "question",
+  "explain": "This 'or' question asks which of two options is correct.",
+  "words": [
+   "weekday"
+  ],
+  "usage": "Use it before you apply for leave or plan your travel.",
+  "leelaQ": "Do you prefer functions on weekdays or weekends?",
+  "answer": "I prefer weekends because I am free."
+ }
+]

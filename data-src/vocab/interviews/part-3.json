@@ -1,0 +1,631 @@
+[
+ {
+  "word": "spearhead",
+  "tamil": "முன்னின்று வழிநடத்து",
+  "pos": "verb",
+  "pron": "SPEER-hed",
+  "example": "I spearheaded the migration of our billing system to the cloud.",
+  "exampleTamil": "எங்கள் பில்லிங் அமைப்பை கிளவுடுக்கு மாற்றும் பணிக்கு நான் முன்னின்று தலைமை தாங்கினேன்.",
+  "synonyms": [
+   "lead",
+   "head",
+   "pioneer"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "orchestrate",
+  "tamil": "ஒருங்கிணைத்து நடத்து",
+  "pos": "verb",
+  "pron": "OR-kuh-strayt",
+  "example": "She orchestrated the whole release across three teams.",
+  "exampleTamil": "மூன்று குழுக்களுக்கு இடையே முழு வெளியீட்டையும் அவள் ஒருங்கிணைத்து நடத்தினாள்.",
+  "synonyms": [
+   "organise",
+   "coordinate",
+   "manage"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pioneer",
+  "tamil": "முன்னோடியாக தொடங்கு",
+  "pos": "verb",
+  "pron": "py-uh-NEER",
+  "example": "Our team pioneered automated testing in the company.",
+  "exampleTamil": "நிறுவனத்தில் தானியங்கி சோதனையை எங்கள் குழு முதலில் அறிமுகப்படுத்தியது.",
+  "synonyms": [
+   "introduce",
+   "originate",
+   "launch"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "initiate",
+  "tamil": "தொடங்கி வை",
+  "pos": "verb",
+  "pron": "ih-NISH-ee-ayt",
+  "example": "I initiated a weekly knowledge-sharing session for the juniors.",
+  "exampleTamil": "ஜூனியர்களுக்காக வாராந்திர அறிவுப் பகிர்வு நிகழ்ச்சியை நான் தொடங்கி வைத்தேன்.",
+  "synonyms": [
+   "start",
+   "launch",
+   "begin"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "exceed",
+  "tamil": "மிஞ்சு, தாண்டு",
+  "pos": "verb",
+  "pron": "ik-SEED",
+  "example": "We exceeded our sales target by twenty percent.",
+  "exampleTamil": "எங்கள் விற்பனை இலக்கை இருபது சதவீதம் மிஞ்சினோம்.",
+  "synonyms": [
+   "surpass",
+   "beat",
+   "top"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "surpass",
+  "tamil": "விஞ்சு",
+  "pos": "verb",
+  "pron": "ser-PASS",
+  "example": "The results surpassed everyone's expectations.",
+  "exampleTamil": "முடிவுகள் அனைவரின் எதிர்பார்ப்பையும் விஞ்சின.",
+  "synonyms": [
+   "exceed",
+   "outdo",
+   "beat"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "outperform",
+  "tamil": "சிறப்பாக செயல்படு",
+  "pos": "verb",
+  "pron": "owt-per-FORM",
+  "example": "Our new module outperformed the old one in every test.",
+  "exampleTamil": "எங்கள் புதிய மாட்யூல் ஒவ்வொரு சோதனையிலும் பழையதை விட சிறப்பாக செயல்பட்டது.",
+  "synonyms": [
+   "beat",
+   "outdo",
+   "surpass"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "revamp",
+  "tamil": "புதுப்பித்து மாற்று",
+  "pos": "verb",
+  "pron": "ree-VAMP",
+  "example": "I helped revamp the onboarding process for new employees.",
+  "exampleTamil": "புதிய ஊழியர்களுக்கான வரவேற்பு நடைமுறையை மாற்றியமைக்க உதவினேன்.",
+  "synonyms": [
+   "overhaul",
+   "renovate",
+   "redesign"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "overhaul",
+  "tamil": "முழுமையாக சீரமை",
+  "pos": "verb",
+  "pron": "oh-ver-HAWL",
+  "example": "They overhauled the entire reporting system last year.",
+  "exampleTamil": "கடந்த ஆண்டு முழு அறிக்கை அமைப்பையும் அவர்கள் முழுமையாக சீரமைத்தனர்.",
+  "synonyms": [
+   "revamp",
+   "rework",
+   "reform"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "coordinate",
+  "tamil": "ஒருங்கிணை",
+  "pos": "verb",
+  "pron": "koh-OR-dih-nayt",
+  "example": "I coordinated with the design team to meet the launch date.",
+  "exampleTamil": "வெளியீட்டு தேதியை எட்ட வடிவமைப்பு குழுவுடன் ஒருங்கிணைந்து செயல்பட்டேன்.",
+  "synonyms": [
+   "organise",
+   "arrange",
+   "liaise"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "supervise",
+  "tamil": "மேற்பார்வை செய்",
+  "pos": "verb",
+  "pron": "SOO-per-vyz",
+  "example": "I supervised a team of six junior developers.",
+  "exampleTamil": "ஆறு ஜூனியர் டெவலப்பர்கள் கொண்ட குழுவை நான் மேற்பார்வை செய்தேன்.",
+  "synonyms": [
+   "oversee",
+   "manage",
+   "monitor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "oversee",
+  "tamil": "கண்காணித்து நிர்வகி",
+  "pos": "verb",
+  "pron": "oh-ver-SEE",
+  "example": "She oversees all hiring for the engineering department.",
+  "exampleTamil": "பொறியியல் துறையின் அனைத்து ஆட்சேர்ப்பையும் அவள் கண்காணிக்கிறாள்.",
+  "synonyms": [
+   "supervise",
+   "manage",
+   "direct"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "champion",
+  "tamil": "முன்னின்று ஆதரி",
+  "pos": "verb",
+  "pron": "CHAM-pee-un",
+  "example": "He championed the idea of code reviews in our team.",
+  "exampleTamil": "எங்கள் குழுவில் கோட் மதிப்பாய்வு என்ற யோசனையை அவர் முன்னின்று ஆதரித்தார்.",
+  "synonyms": [
+   "support",
+   "advocate",
+   "back"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "boost",
+  "tamil": "அதிகரி, உயர்த்து",
+  "pos": "verb",
+  "pron": "BOOST",
+  "example": "My changes boosted the app's speed by forty percent.",
+  "exampleTamil": "என் மாற்றங்கள் செயலியின் வேகத்தை நாற்பது சதவீதம் உயர்த்தின.",
+  "synonyms": [
+   "increase",
+   "raise",
+   "improve"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "generate",
+  "tamil": "உருவாக்கு, ஈட்டு",
+  "pos": "verb",
+  "pron": "JEN-uh-rayt",
+  "example": "The new feature generated a lot of extra revenue.",
+  "exampleTamil": "புதிய அம்சம் நிறைய கூடுதல் வருவாயை ஈட்டியது.",
+  "synonyms": [
+   "produce",
+   "create",
+   "earn"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cultivate",
+  "tamil": "வளர்த்தெடு",
+  "pos": "verb",
+  "pron": "KUL-tih-vayt",
+  "example": "I try to cultivate strong relationships with my clients.",
+  "exampleTamil": "வாடிக்கையாளர்களுடன் வலுவான உறவுகளை வளர்க்க முயல்கிறேன்.",
+  "synonyms": [
+   "develop",
+   "nurture",
+   "foster"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "devise",
+  "tamil": "திட்டம் வகுத்து உருவாக்கு",
+  "pos": "verb",
+  "pron": "dih-VYZ",
+  "example": "We devised a simple plan to cut the testing time.",
+  "exampleTamil": "சோதனை நேரத்தை குறைக்க ஒரு எளிய திட்டத்தை வகுத்தோம்.",
+  "synonyms": [
+   "design",
+   "invent",
+   "work out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "formulate",
+  "tamil": "வடிவமைத்து உருவாக்கு",
+  "pos": "verb",
+  "pron": "FOR-myuh-layt",
+  "example": "I formulated a clear strategy to reduce customer complaints.",
+  "exampleTamil": "வாடிக்கையாளர் புகார்களை குறைக்க தெளிவான உத்தியை வகுத்தேன்.",
+  "synonyms": [
+   "develop",
+   "draw up",
+   "devise"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "establish",
+  "tamil": "நிறுவு, அமைத்தல்",
+  "pos": "verb",
+  "pron": "ih-STAB-lish",
+  "example": "She established a new support desk from scratch.",
+  "exampleTamil": "புதிய உதவி மையத்தை அவள் அடிப்படையிலிருந்தே அமைத்தாள்.",
+  "synonyms": [
+   "set up",
+   "found",
+   "create"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "restructure",
+  "tamil": "மறுசீரமைப்பு செய்",
+  "pos": "verb",
+  "pron": "ree-STRUK-cher",
+  "example": "The company restructured its sales team last quarter.",
+  "exampleTamil": "கடந்த காலாண்டில் நிறுவனம் தனது விற்பனை குழுவை மறுசீரமைத்தது.",
+  "synonyms": [
+   "reorganise",
+   "reshape",
+   "rearrange"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "accelerate",
+  "tamil": "வேகப்படுத்து",
+  "pos": "verb",
+  "pron": "ik-SEL-uh-rayt",
+  "example": "Automation helped us accelerate the delivery of every project.",
+  "exampleTamil": "தானியங்கி முறை ஒவ்வொரு திட்டத்தின் வழங்கலையும் வேகப்படுத்த உதவியது.",
+  "synonyms": [
+   "speed up",
+   "hasten",
+   "quicken"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "expedite",
+  "tamil": "விரைவுபடுத்து",
+  "pos": "verb",
+  "pron": "EK-spuh-dyt",
+  "example": "Could you expedite my application, please?",
+  "exampleTamil": "தயவுசெய்து என் விண்ணப்பத்தை விரைவுபடுத்த முடியுமா?",
+  "synonyms": [
+   "speed up",
+   "fast-track",
+   "hurry"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "innovate",
+  "tamil": "புதுமை படை",
+  "pos": "verb",
+  "pron": "IN-uh-vayt",
+  "example": "Good engineers keep learning and innovate under pressure.",
+  "exampleTamil": "நல்ல பொறியாளர்கள் தொடர்ந்து கற்று, அழுத்தத்திலும் புதுமை படைக்கிறார்கள்.",
+  "synonyms": [
+   "invent",
+   "create",
+   "pioneer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "transform",
+  "tamil": "முழுமையாக மாற்று",
+  "pos": "verb",
+  "pron": "trans-FORM",
+  "example": "That project transformed how our company handles orders.",
+  "exampleTamil": "அந்த திட்டம் எங்கள் நிறுவனம் ஆர்டர்களை கையாளும் விதத்தை முழுமையாக மாற்றியது.",
+  "synonyms": [
+   "change",
+   "convert",
+   "reshape"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "enhance",
+  "tamil": "மேம்படுத்து",
+  "pos": "verb",
+  "pron": "en-HANSS",
+  "example": "I want to enhance my leadership skills in this role.",
+  "exampleTamil": "இந்த பணியில் என் தலைமைத்துவ திறன்களை மேம்படுத்த விரும்புகிறேன்.",
+  "synonyms": [
+   "improve",
+   "boost",
+   "strengthen"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "strengthen",
+  "tamil": "வலுப்படுத்து",
+  "pos": "verb",
+  "pron": "STRENG-thun",
+  "example": "This course will strengthen my knowledge of databases.",
+  "exampleTamil": "இந்த படிப்பு என் தரவுத்தள அறிவை வலுப்படுத்தும்.",
+  "synonyms": [
+   "reinforce",
+   "improve",
+   "build up"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pinpoint",
+  "tamil": "துல்லியமாக கண்டுபிடி",
+  "pos": "verb",
+  "pron": "PIN-point",
+  "example": "I quickly pinpointed the cause of the delay.",
+  "exampleTamil": "தாமதத்திற்கான காரணத்தை நான் விரைவாக துல்லியமாக கண்டுபிடித்தேன்.",
+  "synonyms": [
+   "identify",
+   "locate",
+   "isolate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "empower",
+  "tamil": "அதிகாரம் அளி, திறன்படுத்து",
+  "pos": "verb",
+  "pron": "em-POW-er",
+  "example": "A good manager empowers the team to make decisions.",
+  "exampleTamil": "நல்ல மேலாளர் முடிவெடுக்க குழுவுக்கு அதிகாரம் அளிப்பார்.",
+  "synonyms": [
+   "authorise",
+   "enable",
+   "strengthen"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "inspire",
+  "tamil": "ஊக்கமளி",
+  "pos": "verb",
+  "pron": "in-SPYR",
+  "example": "My first manager inspired me to become a team lead.",
+  "exampleTamil": "என் முதல் மேலாளர் குழு தலைவராக ஆக எனக்கு ஊக்கமளித்தார்.",
+  "synonyms": [
+   "motivate",
+   "encourage",
+   "stimulate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "attain",
+  "tamil": "அடை, எய்து",
+  "pos": "verb",
+  "pron": "uh-TAYN",
+  "example": "She attained her certification within six months.",
+  "exampleTamil": "ஆறு மாதங்களுக்குள் அவள் தனது சான்றிதழைப் பெற்றாள்.",
+  "synonyms": [
+   "achieve",
+   "reach",
+   "earn"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "enrol",
+  "tamil": "சேர், பதிவு செய்",
+  "pos": "verb",
+  "pron": "en-ROHL",
+  "example": "I enrolled in an evening course while working full time.",
+  "exampleTamil": "முழு நேரம் வேலை செய்துகொண்டே மாலை வகுப்பில் சேர்ந்தேன்.",
+  "synonyms": [
+   "register",
+   "sign up",
+   "join"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "specialise",
+  "tamil": "சிறப்புத் துறையாக கொள்",
+  "pos": "verb",
+  "pron": "SPESH-uh-lyz",
+  "example": "I specialise in building fast and secure web applications.",
+  "exampleTamil": "வேகமான, பாதுகாப்பான வலை செயலிகளை உருவாக்குவதில் நான் தனித்திறன் பெற்றவன்.",
+  "synonyms": [
+   "focus",
+   "concentrate",
+   "major"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pursue",
+  "tamil": "தொடர்ந்து நாடு",
+  "pos": "verb",
+  "pron": "per-SOO",
+  "example": "I plan to pursue a master's degree next year.",
+  "exampleTamil": "அடுத்த ஆண்டு முதுகலை பட்டம் படிக்க திட்டமிட்டுள்ளேன்.",
+  "synonyms": [
+   "chase",
+   "follow",
+   "seek"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "master",
+  "tamil": "நன்கு கற்றுத் தேர்",
+  "pos": "verb",
+  "pron": "MAS-ter",
+  "example": "It took me two years to master this framework.",
+  "exampleTamil": "இந்த ஃப்ரேம்வொர்க்கை நன்கு கற்றுத் தேர இரண்டு ஆண்டுகள் ஆனது.",
+  "synonyms": [
+   "learn",
+   "grasp",
+   "command"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "adapt",
+  "tamil": "பொருந்தி மாற்றிக்கொள்",
+  "pos": "verb",
+  "pron": "uh-DAPT",
+  "example": "I adapt quickly when the requirements change.",
+  "exampleTamil": "தேவைகள் மாறும்போது நான் விரைவாக மாற்றிக்கொள்வேன்.",
+  "synonyms": [
+   "adjust",
+   "adjust to",
+   "change"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "volunteer",
+  "tamil": "தானாக முன்வா",
+  "pos": "verb",
+  "pron": "vol-un-TEER",
+  "example": "I volunteered to train the new joiners every month.",
+  "exampleTamil": "ஒவ்வொரு மாதமும் புதிய சேர்ந்தவர்களுக்கு பயிற்சி அளிக்க நான் முன்வந்தேன்.",
+  "synonyms": [
+   "offer",
+   "step forward",
+   "propose"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pitch",
+  "tamil": "முன்வை, விளக்கிக் காட்டு",
+  "pos": "verb",
+  "pron": "PICH",
+  "example": "I pitched my idea to the senior management.",
+  "exampleTamil": "என் யோசனையை மூத்த நிர்வாகத்திடம் முன்வைத்தேன்.",
+  "synonyms": [
+   "propose",
+   "present",
+   "suggest"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "steer",
+  "tamil": "வழிநடத்து",
+  "pos": "verb",
+  "pron": "STEER",
+  "example": "She steered the project through a very difficult phase.",
+  "exampleTamil": "மிகக் கடினமான கட்டத்தின் வழியே அவள் திட்டத்தை வழிநடத்தினாள்.",
+  "synonyms": [
+   "guide",
+   "direct",
+   "navigate"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "nurture",
+  "tamil": "வளர்த்து ஊக்குவி",
+  "pos": "verb",
+  "pron": "NER-cher",
+  "example": "Good leaders nurture talent instead of controlling people.",
+  "exampleTamil": "நல்ல தலைவர்கள் மக்களை கட்டுப்படுத்தாமல் திறமையை வளர்க்கிறார்கள்.",
+  "synonyms": [
+   "develop",
+   "foster",
+   "support"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "mobilise",
+  "tamil": "திரட்டி செயல்படுத்து",
+  "pos": "verb",
+  "pron": "MOH-buh-lyz",
+  "example": "We mobilised the whole team within one hour.",
+  "exampleTamil": "ஒரு மணி நேரத்திற்குள் முழு குழுவையும் திரட்டி செயல்படுத்தினோம்.",
+  "synonyms": [
+   "rally",
+   "organise",
+   "assemble"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "recruit",
+  "tamil": "ஆள் சேர்",
+  "pos": "verb",
+  "pron": "rih-KROOT",
+  "example": "The company plans to recruit fifty engineers this year.",
+  "exampleTamil": "இந்த ஆண்டு ஐம்பது பொறியாளர்களை சேர்க்க நிறுவனம் திட்டமிட்டுள்ளது.",
+  "synonyms": [
+   "hire",
+   "enlist",
+   "employ"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hire",
+  "tamil": "வேலைக்கு எடு",
+  "pos": "verb",
+  "pron": "HYR",
+  "example": "They hired me after two rounds of interviews.",
+  "exampleTamil": "இரண்டு சுற்று நேர்காணலுக்குப் பிறகு என்னை வேலைக்கு எடுத்தார்கள்.",
+  "synonyms": [
+   "employ",
+   "recruit",
+   "appoint"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "qualify",
+  "tamil": "தகுதி பெறு",
+  "pos": "verb",
+  "pron": "KWOL-ih-fy",
+  "example": "You must pass the written test to qualify for the next round.",
+  "exampleTamil": "அடுத்த சுற்றுக்கு தகுதி பெற எழுத்துத் தேர்வில் தேற வேண்டும்.",
+  "synonyms": [
+   "be eligible",
+   "pass",
+   "be entitled"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "reapply",
+  "tamil": "மீண்டும் விண்ணப்பி",
+  "pos": "verb",
+  "pron": "ree-uh-PLY",
+  "example": "You can reapply after six months if you are not selected.",
+  "exampleTamil": "தேர்வாகவில்லை என்றால் ஆறு மாதங்களுக்குப் பிறகு மீண்டும் விண்ணப்பிக்கலாம்.",
+  "synonyms": [
+   "apply again",
+   "resubmit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "upskill",
+  "tamil": "புதிய திறன்களை வளர்த்துக்கொள்",
+  "pos": "verb",
+  "pron": "up-SKIL",
+  "example": "I upskill myself every weekend through online courses.",
+  "exampleTamil": "ஒவ்வொரு வார இறுதியிலும் ஆன்லைன் படிப்புகள் மூலம் புதிய திறன்களை வளர்த்துக்கொள்கிறேன்.",
+  "synonyms": [
+   "retrain",
+   "learn",
+   "improve skills"
+  ],
+  "level": "intermediate"
+ }
+]

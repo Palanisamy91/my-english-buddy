@@ -1,0 +1,268 @@
+[
+  {
+    "en": "I will call you back after the meeting.",
+    "tamil": "மீட்டிங் முடிஞ்சதும் நான் உங்களுக்கு திரும்ப கூப்பிடுறேன்.",
+    "context": "Telling a caller you are busy right now.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "'Call back' means return a phone call. 'After the meeting' tells when.",
+    "words": [
+      "call",
+      "meeting"
+    ]
+  },
+  {
+    "en": "Do you have a minute to talk?",
+    "tamil": "பேசுறதுக்கு உங்களுக்கு ஒரு நிமிஷம் இருக்கா?",
+    "context": "Approaching a colleague or boss for a quick chat.",
+    "tense": "present",
+    "type": "question",
+    "explain": "'Do you have a minute' is a polite way to start a short talk. It does not mean exactly sixty seconds.",
+    "words": [
+      "minute",
+      "talk"
+    ]
+  },
+  {
+    "en": "My boss is giving me too much work.",
+    "tamil": "என் பாஸ் எனக்கு ரொம்ப அதிகமா வேலை குடுக்கிறார்.",
+    "context": "Complaining to a close friend about workload.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "'Is giving' shows something happening these days. 'Too much' means more than you can handle.",
+    "words": [
+      "boss",
+      "giving",
+      "work"
+    ]
+  },
+  {
+    "en": "I have attached the document for your reference.",
+    "tamil": "உங்க பார்வைக்காக டாக்குமென்ட்டை இணைச்சிருக்கேன்.",
+    "context": "Writing a line in an email with a file.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Have attached' is common in emails. 'For your reference' means so that you can look at it.",
+    "words": [
+      "attached",
+      "document",
+      "reference"
+    ]
+  },
+  {
+    "en": "Could you please resend the invoice?",
+    "tamil": "இன்வாய்ஸை தயவு செஞ்சு திரும்ப அனுப்ப முடியுமா?",
+    "context": "Asking a vendor or client to send a bill again.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Resend' means send again. Adding 'please' makes the request polite.",
+    "words": [
+      "resend",
+      "invoice"
+    ]
+  },
+  {
+    "en": "The server was down all morning.",
+    "tamil": "சர்வர் காலையில இருந்து முழுக்க வேலை செய்யல.",
+    "context": "Explaining why work was delayed.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'Was down' means not working. 'All morning' shows it lasted the whole morning.",
+    "words": [
+      "server",
+      "morning"
+    ]
+  },
+  {
+    "en": "I have never worked night shifts before.",
+    "tamil": "நான் இதுக்கு முன்னாடி நைட் ஷிஃப்ட்ல வேலை பாத்ததே இல்ல.",
+    "context": "Telling HR about your experience.",
+    "tense": "present-perfect",
+    "type": "negative",
+    "explain": "'Have never worked' talks about life experience up to now. 'Before' makes it stronger.",
+    "words": [
+      "never",
+      "night",
+      "shifts"
+    ]
+  },
+  {
+    "en": "I am sorry, I missed your message.",
+    "tamil": "மன்னிச்சிடுங்க, உங்க மெசேஜை நான் பாக்கல.",
+    "context": "Apologising for a late reply.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "'I am sorry' is a simple apology. 'Missed' here means did not see it.",
+    "words": [
+      "sorry",
+      "missed",
+      "message"
+    ]
+  },
+  {
+    "en": "Let me check with my team first.",
+    "tamil": "முதல்ல என் டீம்கிட்ட கேட்டு பாக்கிறேன்.",
+    "context": "Buying time before answering a client.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Let me' tells the other person you will do something. 'Check with' means ask someone.",
+    "words": [
+      "check",
+      "team"
+    ],
+    "alt": {
+      "en": "Let me confirm with my team and get back to you.",
+      "tamil": "என் டீம்கிட்ட உறுதிப்படுத்திட்டு உங்களுக்கு சொல்றேன்."
+    }
+  },
+  {
+    "en": "We should plan the work before we start.",
+    "tamil": "ஆரம்பிக்கிறதுக்கு முன்னாடி நாம வேலையை திட்டமிடணும்.",
+    "context": "Giving advice in a team discussion.",
+    "tense": "modal",
+    "type": "statement",
+    "explain": "'Should' gives advice. 'Before we start' links two actions in order.",
+    "words": [
+      "should",
+      "plan",
+      "start"
+    ]
+  },
+  {
+    "en": "He did not attend the training session.",
+    "tamil": "அவர் பயிற்சி வகுப்புக்கு வரல.",
+    "context": "Telling HR who was absent.",
+    "tense": "past",
+    "type": "negative",
+    "explain": "'Did not' is followed by the base verb 'attend'. We do not add -ed after 'did not'.",
+    "words": [
+      "attend",
+      "training",
+      "session"
+    ]
+  },
+  {
+    "en": "Is the printer working again?",
+    "tamil": "பிரிண்டர் திரும்ப வேலை செய்யுதா?",
+    "context": "Asking a colleague before printing.",
+    "tense": "present-continuous",
+    "type": "question",
+    "explain": "'Is working' asks about the present condition. 'Again' shows it was broken earlier.",
+    "words": [
+      "printer",
+      "working"
+    ]
+  },
+  {
+    "en": "I will be on a call till noon.",
+    "tamil": "நான் மதியம் வரைக்கும் ஒரு காலில் இருப்பேன்.",
+    "context": "Telling a teammate you are not free.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "'Will be' shows a state in the future. 'Till noon' means until twelve o'clock.",
+    "words": [
+      "call",
+      "noon"
+    ]
+  },
+  {
+    "en": "Your performance review is next week.",
+    "tamil": "உங்க பெர்ஃபார்மன்ஸ் ரிவ்யூ அடுத்த வாரம்.",
+    "context": "A manager reminding an employee.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "A review checks how well you worked. We use the present for a planned event.",
+    "words": [
+      "performance",
+      "review"
+    ]
+  },
+  {
+    "en": "Can I get a copy of the schedule?",
+    "tamil": "ஷெட்யூல் காப்பி ஒண்ணு எனக்கு கிடைக்குமா?",
+    "context": "Asking the team lead for the plan.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "'Can I get' is an easy, polite way to ask for something. 'Schedule' means a plan with times.",
+    "words": [
+      "copy",
+      "schedule"
+    ]
+  },
+  {
+    "en": "I have been in this company for five years.",
+    "tamil": "நான் இந்த கம்பெனியில அஞ்சு வருஷமா இருக்கேன்.",
+    "context": "Introducing yourself in an interview or meeting.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "'Have been' with 'for' shows how long something has continued. It still goes on now.",
+    "words": [
+      "company",
+      "years"
+    ]
+  },
+  {
+    "en": "Please submit your timesheet by Friday.",
+    "tamil": "வெள்ளிக்கிழமைக்குள்ள உங்க டைம்ஷீட்டை சப்மிட் பண்ணுங்க.",
+    "context": "HR or manager giving a reminder.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "'Submit' means hand in. 'By Friday' means not later than Friday.",
+    "words": [
+      "submit",
+      "timesheet",
+      "friday"
+    ]
+  },
+  {
+    "en": "They are interviewing three candidates today.",
+    "tamil": "அவங்க இன்னைக்கு மூணு பேரை இன்டர்வியூ பண்றாங்க.",
+    "context": "Explaining why the hiring team is busy.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "'Are interviewing' shows something happening around now. 'Candidates' are people applying for a job.",
+    "words": [
+      "interviewing",
+      "candidates"
+    ]
+  },
+  {
+    "en": "Thank you for your quick help.",
+    "tamil": "உங்க சீக்கிரமான உதவிக்கு நன்றி.",
+    "context": "Thanking a colleague by email or in person.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "A short, polite thank-you line. 'Quick' means fast, so it praises their speed.",
+    "words": [
+      "thank",
+      "quick",
+      "help"
+    ]
+  },
+  {
+    "en": "Will you be joining the team lunch tomorrow?",
+    "tamil": "நாளைக்கு டீம் லஞ்ச்ல நீங்களும் வர்றீங்களா?",
+    "context": "Inviting a colleague to a group lunch.",
+    "tense": "future",
+    "type": "question",
+    "explain": "'Will you be joining' is a polite way to ask about future plans. It sounds softer than 'Will you join'.",
+    "words": [
+      "joining",
+      "lunch",
+      "tomorrow"
+    ]
+  },
+  {
+    "en": "I cannot finish this without your help.",
+    "tamil": "உங்க உதவி இல்லாம என்னால இதை முடிக்க முடியாது.",
+    "context": "Asking a senior for support.",
+    "tense": "modal",
+    "type": "negative",
+    "explain": "'Cannot' shows inability. 'Without' means if you are not there to help.",
+    "words": [
+      "finish",
+      "without",
+      "help"
+    ]
+  }
+]

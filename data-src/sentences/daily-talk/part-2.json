@@ -1,0 +1,258 @@
+[
+  {
+    "en": "It was nice talking to you.",
+    "tamil": "உங்ககூட பேசினது சந்தோஷமா இருந்துச்சு.",
+    "context": "Ending a pleasant chat.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "Say this when a conversation is ending. \"Talking\" comes after \"nice\" as a verb-ing.",
+    "words": [
+      "nice",
+      "talking"
+    ]
+  },
+  {
+    "en": "See you tomorrow. Take care!",
+    "tamil": "நாளைக்குப் பார்க்கலாம். பத்திரமா இருங்க!",
+    "context": "Saying goodbye to a friend or coworker.",
+    "tense": "imperative",
+    "type": "statement",
+    "explain": "\"Take care\" is a warm way to end a chat. \"See you\" is short for \"I will see you\".",
+    "words": [
+      "tomorrow",
+      "care"
+    ]
+  },
+  {
+    "en": "Would you like some tea or coffee?",
+    "tamil": "உங்களுக்கு டீ வேணுமா, காபி வேணுமா?",
+    "context": "Offering a drink to a guest.",
+    "tense": "modal",
+    "type": "question",
+    "explain": "\"Would you like\" is more polite than \"Do you want\".",
+    "words": [
+      "tea",
+      "coffee"
+    ]
+  },
+  {
+    "en": "How long does it take to reach your home?",
+    "tamil": "உங்க வீட்டுக்குப் போக எவ்வளவு நேரம் ஆகும்?",
+    "context": "Asking about the travel time.",
+    "tense": "present",
+    "type": "question",
+    "explain": "\"How long does it take\" is the common way to ask about the time needed.",
+    "words": [
+      "reach",
+      "long"
+    ]
+  },
+  {
+    "en": "I have been waiting here for twenty minutes.",
+    "tamil": "நான் இருபது நிமிஷமா இங்க காத்துட்டு இருக்கேன்.",
+    "context": "Telling someone they are late or the wait is long.",
+    "tense": "present-perfect",
+    "type": "statement",
+    "explain": "\"Have been waiting for\" shows an action that began earlier and is still going on.",
+    "words": [
+      "waiting",
+      "minutes"
+    ]
+  },
+  {
+    "en": "I hardly ever skip my morning walk.",
+    "tamil": "நான் காலை நடைப்பயிற்சியை எப்பவாவதுதான் விடுவேன்.",
+    "context": "Talking about a healthy habit.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "\"Hardly ever\" means almost never. It goes before the main verb.",
+    "words": [
+      "hardly",
+      "skip"
+    ]
+  },
+  {
+    "en": "Will you call me when you reach?",
+    "tamil": "நீங்க போய்ச் சேர்ந்ததும் எனக்கு போன் பண்ணுவீங்களா?",
+    "context": "Asking a friend to inform you after a trip.",
+    "tense": "future",
+    "type": "question",
+    "explain": "\"Will you\" asks about a future action. \"When you reach\" uses present tense for the future time.",
+    "words": [
+      "call",
+      "reach"
+    ],
+    "alt": {
+      "en": "Please call me when you reach.",
+      "tamil": "நீங்க போய்ச் சேர்ந்ததும் தயவு செய்து எனக்கு போன் பண்ணுங்க."
+    }
+  },
+  {
+    "en": "I'm not free today, but tomorrow works for me.",
+    "tamil": "நான் இன்னைக்கு ஃப்ரீ இல்ல, ஆனா நாளைக்கு எனக்கு சரியா இருக்கும்.",
+    "context": "Refusing a plan and giving another time.",
+    "tense": "present",
+    "type": "negative",
+    "explain": "\"But\" joins two ideas that are different. \"Works for me\" means the time is fine.",
+    "words": [
+      "free",
+      "tomorrow"
+    ]
+  },
+  {
+    "en": "How was your day at college?",
+    "tamil": "காலேஜ்ல உங்க நாள் எப்படி இருந்துச்சு?",
+    "context": "Asking a student friend or family member in the evening.",
+    "tense": "past",
+    "type": "question",
+    "explain": "Use \"was\" to ask about a day that is finished.",
+    "words": [
+      "college",
+      "day"
+    ]
+  },
+  {
+    "en": "Please sit down. I'll bring some water.",
+    "tamil": "தயவு செய்து உட்காருங்க. நான் கொஞ்சம் தண்ணி கொண்டு வர்றேன்.",
+    "context": "Welcoming a guest at home.",
+    "tense": "future",
+    "type": "request",
+    "explain": "\"I'll\" shows you decide to do something right now.",
+    "words": [
+      "sit",
+      "bring"
+    ]
+  },
+  {
+    "en": "Congratulations! You deserve it.",
+    "tamil": "வாழ்த்துகள்! இது உங்களுக்குத் தகுதியானதுதான்.",
+    "context": "Wishing someone for a success.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "\"Deserve\" means you have earned something good by hard work.",
+    "words": [
+      "congratulations",
+      "deserve"
+    ]
+  },
+  {
+    "en": "The weather is lovely this morning.",
+    "tamil": "இன்னைக்கு காலையில வானிலை ரொம்ப அழகா இருக்கு.",
+    "context": "Opening a small talk at a bus stop or office.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "\"Lovely\" is a common word for something very pleasant.",
+    "words": [
+      "weather",
+      "lovely"
+    ]
+  },
+  {
+    "en": "I woke up late, so I skipped breakfast.",
+    "tamil": "நான் லேட்டா எழுந்தேன், அதனால காலை சாப்பாட்டை விட்டுட்டேன்.",
+    "context": "Explaining why you did not eat.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "\"So\" joins a reason with its result. Both verbs are in the simple past.",
+    "words": [
+      "skipped",
+      "late"
+    ]
+  },
+  {
+    "en": "Could you lend me your charger for a while?",
+    "tamil": "உங்க சார்ஜரை கொஞ்ச நேரம் எனக்குக் கொடுக்க முடியுமா?",
+    "context": "Asking a friend for something small.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "\"Could you\" is a polite way to ask. \"Lend me\" means give me for a short time.",
+    "words": [
+      "lend",
+      "charger"
+    ]
+  },
+  {
+    "en": "I'll text you the address after lunch.",
+    "tamil": "மதிய சாப்பாட்டுக்கு அப்புறம் முகவரியை உங்களுக்கு மெசேஜ் பண்றேன்.",
+    "context": "Promising to send details.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "\"Text\" can be used as a verb. \"I'll\" is a quick promise.",
+    "words": [
+      "text",
+      "address"
+    ]
+  },
+  {
+    "en": "You look tired today.",
+    "tamil": "இன்னைக்கு நீங்க களைப்பா தெரியறீங்க.",
+    "context": "Showing care to a friend or colleague.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "\"Look\" plus an adjective tells how someone seems to you.",
+    "words": [
+      "look",
+      "tired"
+    ]
+  },
+  {
+    "en": "We haven't met before, have we?",
+    "tamil": "நாம இதுக்கு முன்னாடி சந்திச்சதில்லை, இல்லையா?",
+    "context": "Checking politely if you know someone.",
+    "tense": "present-perfect",
+    "type": "question",
+    "explain": "\"Have we?\" is a tag question that asks the other person to confirm.",
+    "words": [
+      "before",
+      "met"
+    ]
+  },
+  {
+    "en": "I'm just going to the market. Do you need anything?",
+    "tamil": "நான் சும்மா மார்க்கெட்டுக்குப் போறேன். உங்களுக்கு ஏதாவது வேணுமா?",
+    "context": "Offering to bring things for a neighbour.",
+    "tense": "present-continuous",
+    "type": "question",
+    "explain": "\"Going to the market\" shows a plan for now. \"Need anything\" offers help.",
+    "words": [
+      "market",
+      "need"
+    ]
+  },
+  {
+    "en": "Have a safe journey, and message me when you arrive.",
+    "tamil": "பாதுகாப்பா பயணம் பண்ணுங்க, போய்ச் சேர்ந்ததும் எனக்கு மெசேஜ் பண்ணுங்க.",
+    "context": "Wishing a friend before a trip.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "Both parts start with a base verb, which is common for wishes and requests.",
+    "words": [
+      "journey",
+      "arrive"
+    ]
+  },
+  {
+    "en": "Wow, it's pouring outside! Stay in for a while.",
+    "tamil": "ஐயோ, வெளியில கொட்டுற மழை! கொஞ்ச நேரம் உள்ளேயே இருங்க.",
+    "context": "Advising someone to wait during heavy rain.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "\"Pouring\" means raining very hard. \"Stay in\" means do not go out.",
+    "words": [
+      "pouring",
+      "stay"
+    ]
+  },
+  {
+    "en": "Sorry to bother you, but where is the washroom?",
+    "tamil": "தொந்தரவுக்கு மன்னிக்கணும், ஆனா கழிவறை எங்க இருக்கு?",
+    "context": "Asking a stranger for directions politely.",
+    "tense": "present",
+    "type": "question",
+    "explain": "\"Sorry to bother you\" makes a question polite when you ask a stranger.",
+    "words": [
+      "bother",
+      "washroom"
+    ]
+  }
+]

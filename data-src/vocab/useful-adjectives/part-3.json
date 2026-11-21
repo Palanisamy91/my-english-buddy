@@ -1,0 +1,377 @@
+[
+ {
+  "word": "occasional",
+  "meaning": "Happening sometimes, not often",
+  "tamil": "எப்போதாவது நிகழும்",
+  "pos": "adjective",
+  "pron": "uh-KAY-zhuh-nul",
+  "example": "We expect occasional showers this evening.",
+  "exampleTamil": "இன்று மாலை எப்போதாவது மழைத்தூறல் இருக்கும் என எதிர்பார்க்கிறோம்.",
+  "synonyms": [
+   "infrequent",
+   "rare",
+   "irregular"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "outdated",
+  "meaning": "Old-fashioned and no longer useful",
+  "tamil": "காலாவதியான, பழைய பாணியிலான",
+  "pos": "adjective",
+  "pron": "owt-DAY-tid",
+  "example": "My phone software is outdated and very slow.",
+  "exampleTamil": "என் போனின் மென்பொருள் காலாவதியாகி மிகவும் மெதுவாக உள்ளது.",
+  "synonyms": [
+   "old-fashioned",
+   "obsolete",
+   "old"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "painstaking",
+  "meaning": "Done with great care and effort",
+  "tamil": "மிகுந்த கவனத்துடன் செய்யப்பட்ட",
+  "pos": "adjective",
+  "pron": "PAYNZ-tay-king",
+  "example": "The artist did painstaking work on every tiny detail.",
+  "exampleTamil": "கலைஞர் ஒவ்வொரு சிறு விவரத்திலும் மிகுந்த கவனத்துடன் பணியாற்றினார்.",
+  "synonyms": [
+   "careful",
+   "thorough",
+   "meticulous"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "pale",
+  "meaning": "Light in colour; looking without colour",
+  "tamil": "வெளிறிய",
+  "pos": "adjective",
+  "pron": "PAYL",
+  "example": "She turned pale when she heard the bad news.",
+  "exampleTamil": "கெட்ட செய்தியைக் கேட்டதும் அவள் முகம் வெளிறியது.",
+  "synonyms": [
+   "light",
+   "pallid",
+   "faded"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pathetic",
+  "meaning": "Very poor or weak; causing pity",
+  "tamil": "பரிதாபமான, மிகவும் மோசமான",
+  "pos": "adjective",
+  "pron": "puh-THET-ik",
+  "example": "That was a pathetic excuse for being late.",
+  "exampleTamil": "தாமதமாக வந்ததற்கு அது ஒரு பரிதாபமான சாக்குப்போக்கு.",
+  "synonyms": [
+   "pitiful",
+   "poor",
+   "weak"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "plump",
+  "meaning": "Soft, round and slightly fat",
+  "tamil": "உருண்டையான, குண்டான",
+  "pos": "adjective",
+  "pron": "PLUMP",
+  "example": "The baby has plump little cheeks.",
+  "exampleTamil": "குழந்தைக்கு குண்டான சிறு கன்னங்கள் உள்ளன.",
+  "synonyms": [
+   "chubby",
+   "round",
+   "full"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pointless",
+  "meaning": "Having no purpose or use",
+  "tamil": "பயனற்ற, அர்த்தமற்ற",
+  "pos": "adjective",
+  "pron": "POYNT-less",
+  "example": "It is pointless to argue with someone who will not listen.",
+  "exampleTamil": "கேட்காதவருடன் வாதிடுவது பயனற்றது.",
+  "synonyms": [
+   "useless",
+   "senseless",
+   "futile"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "priceless",
+  "meaning": "So valuable that it cannot be measured in money",
+  "tamil": "விலைமதிப்பற்ற",
+  "pos": "adjective",
+  "pron": "PRYSE-less",
+  "example": "My grandmother's old letters are priceless to me.",
+  "exampleTamil": "என் பாட்டியின் பழைய கடிதங்கள் எனக்கு விலைமதிப்பற்றவை.",
+  "synonyms": [
+   "invaluable",
+   "precious",
+   "treasured"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "refreshing",
+  "meaning": "Making you feel fresh and energetic",
+  "tamil": "புத்துணர்ச்சி தரும்",
+  "pos": "adjective",
+  "pron": "rih-FRESH-ing",
+  "example": "A cold glass of lemon juice is refreshing in summer.",
+  "exampleTamil": "கோடையில் குளிர்ந்த எலுமிச்சை சாறு புத்துணர்ச்சி தரும்.",
+  "synonyms": [
+   "cooling",
+   "invigorating",
+   "fresh"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "relaxing",
+  "meaning": "Making you feel calm and rested",
+  "tamil": "ஓய்வு தரும், நிம்மதியான",
+  "pos": "adjective",
+  "pron": "rih-LAK-sing",
+  "example": "A walk on the beach is very relaxing.",
+  "exampleTamil": "கடற்கரையில் நடப்பது மிகவும் நிம்மதி தருகிறது.",
+  "synonyms": [
+   "calming",
+   "restful",
+   "soothing"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rigid",
+  "meaning": "Stiff and not able to bend or change",
+  "tamil": "கடுமையான, வளையாத",
+  "pos": "adjective",
+  "pron": "RIJ-id",
+  "example": "The company has rigid rules about office timings.",
+  "exampleTamil": "அலுவலக நேரம் பற்றி நிறுவனத்தில் கடுமையான விதிகள் உள்ளன.",
+  "synonyms": [
+   "stiff",
+   "strict",
+   "inflexible"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "roomy",
+  "meaning": "Having plenty of space inside",
+  "tamil": "விசாலமான",
+  "pos": "adjective",
+  "pron": "ROO-mee",
+  "example": "Our new car is roomy enough for six people.",
+  "exampleTamil": "எங்கள் புதிய கார் ஆறு பேருக்கு போதுமான அளவு விசாலமானது.",
+  "synonyms": [
+   "spacious",
+   "large",
+   "wide"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rowdy",
+  "meaning": "Noisy and rough in behaviour",
+  "tamil": "சலசலப்பான, முரட்டுத்தனமான",
+  "pos": "adjective",
+  "pron": "ROW-dee",
+  "example": "The rowdy crowd shouted during the match.",
+  "exampleTamil": "ஆட்டத்தின்போது முரட்டுத்தனமான கூட்டம் கூச்சலிட்டது.",
+  "synonyms": [
+   "noisy",
+   "unruly",
+   "wild"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "rural",
+  "meaning": "Of the countryside, not the city",
+  "tamil": "கிராமப்புற",
+  "pos": "adjective",
+  "pron": "ROOR-ul",
+  "example": "He grew up in a rural area near Thanjavur.",
+  "exampleTamil": "அவன் தஞ்சாவூர் அருகே ஒரு கிராமப்புறத்தில் வளர்ந்தான்.",
+  "synonyms": [
+   "country",
+   "village",
+   "agricultural"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "satisfying",
+  "meaning": "Giving you a pleased, fulfilled feeling",
+  "tamil": "திருப்தி தரும்",
+  "pos": "adjective",
+  "pron": "SAT-iss-fy-ing",
+  "example": "Finishing a hard task is very satisfying.",
+  "exampleTamil": "கடினமான வேலையை முடிப்பது மிகவும் திருப்தி அளிக்கிறது.",
+  "synonyms": [
+   "pleasing",
+   "rewarding",
+   "fulfilling"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scruffy",
+  "meaning": "Untidy and a bit dirty in appearance",
+  "tamil": "அலங்கோலமான, ஒழுங்கற்ற",
+  "pos": "adjective",
+  "pron": "SKRUF-ee",
+  "example": "He looked scruffy in his old torn jacket.",
+  "exampleTamil": "பழைய கிழிந்த ஜாக்கெட்டில் அவன் அலங்கோலமாகத் தெரிந்தான்.",
+  "synonyms": [
+   "untidy",
+   "shabby",
+   "unkempt"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "shallow",
+  "meaning": "Not deep",
+  "tamil": "ஆழமில்லாத",
+  "pos": "adjective",
+  "pron": "SHAL-oh",
+  "example": "The children played in the shallow stream.",
+  "exampleTamil": "குழந்தைகள் ஆழமில்லாத ஓடையில் விளையாடினர்.",
+  "synonyms": [
+   "not deep",
+   "low",
+   "surface"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shaky",
+  "meaning": "Trembling or not steady",
+  "tamil": "நடுங்கும், உறுதியற்ற",
+  "pos": "adjective",
+  "pron": "SHAY-kee",
+  "example": "His voice was shaky when he went on stage.",
+  "exampleTamil": "மேடைக்குச் சென்றபோது அவன் குரல் நடுங்கியது.",
+  "synonyms": [
+   "trembling",
+   "unsteady",
+   "weak"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "slender",
+  "meaning": "Gracefully thin",
+  "tamil": "மெல்லிய, ஒல்லியான",
+  "pos": "adjective",
+  "pron": "SLEN-der",
+  "example": "She has a slender figure and long hair.",
+  "exampleTamil": "அவளுக்கு மெலிந்த உடலமைப்பும் நீண்ட முடியும் உள்ளது.",
+  "synonyms": [
+   "slim",
+   "thin",
+   "slight"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sloppy",
+  "meaning": "Careless and not neat",
+  "tamil": "கவனக்குறைவான, அசிரத்தையான",
+  "pos": "adjective",
+  "pron": "SLOP-ee",
+  "example": "His sloppy work had many spelling mistakes.",
+  "exampleTamil": "அவனுடைய கவனக்குறைவான வேலையில் நிறைய எழுத்துப்பிழைகள் இருந்தன.",
+  "synonyms": [
+   "careless",
+   "messy",
+   "untidy"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sly",
+  "meaning": "Clever in a secret, tricky way",
+  "tamil": "தந்திரமான, குறும்பான",
+  "pos": "adjective",
+  "pron": "SLY",
+  "example": "He gave me a sly smile and winked.",
+  "exampleTamil": "அவன் என்னைப் பார்த்து குறும்புப் புன்னகையுடன் கண்ணடித்தான்.",
+  "synonyms": [
+   "cunning",
+   "crafty",
+   "wily"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "soothing",
+  "meaning": "Making pain or worry feel less",
+  "tamil": "ஆறுதல் தரும், இதமான",
+  "pos": "adjective",
+  "pron": "SOO-thing",
+  "example": "The soothing music helped the baby sleep.",
+  "exampleTamil": "இதமான இசை குழந்தை தூங்க உதவியது.",
+  "synonyms": [
+   "calming",
+   "gentle",
+   "comforting"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spooky",
+  "meaning": "Scary in a strange way",
+  "tamil": "பயமுறுத்தும், பேய்த்தனமான",
+  "pos": "adjective",
+  "pron": "SPOO-kee",
+  "example": "The old well in the garden looks spooky at night.",
+  "exampleTamil": "தோட்டத்திலுள்ள பழைய கிணறு இரவில் பயங்கரமாகத் தெரிகிறது.",
+  "synonyms": [
+   "scary",
+   "creepy",
+   "eerie"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "steady",
+  "meaning": "Firm and regular; not changing or shaking",
+  "tamil": "நிலையான, சீரான",
+  "pos": "adjective",
+  "pron": "STED-ee",
+  "example": "Keep a steady pace while you run.",
+  "exampleTamil": "ஓடும்போது சீரான வேகத்தைப் பின்பற்றுங்கள்.",
+  "synonyms": [
+   "stable",
+   "regular",
+   "constant"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "straightforward",
+  "meaning": "Simple and easy to understand or do",
+  "tamil": "நேரடியான, எளிமையான",
+  "pos": "adjective",
+  "pron": "strayt-FOR-werd",
+  "example": "The form is straightforward and takes five minutes.",
+  "exampleTamil": "அந்த படிவம் எளிமையானது; ஐந்து நிமிடங்களில் முடிந்துவிடும்.",
+  "synonyms": [
+   "simple",
+   "easy",
+   "direct"
+  ],
+  "level": "advanced"
+ }
+]

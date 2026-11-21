@@ -1,0 +1,136 @@
+[
+ {
+  "en": "I wanted to ask for your help with the release.",
+  "tamil": "வெளியீட்டில் உங்கள் உதவியைக் கேட்க விரும்பினேன்.",
+  "context": "Introducing a request to a lead",
+  "tense": "past",
+  "type": "request",
+  "alt": {
+   "en": "Can you help me with the release?",
+   "tamil": "வெளியீட்டில் எனக்கு உதவ முடியுமா?"
+  }
+ },
+ {
+  "en": "I messaged you twice, but you didn't reply.",
+  "tamil": "இருமுறை செய்தி அனுப்பினேன், ஆனால் நீங்கள் பதில் சொல்லவில்லை.",
+  "context": "Following up when ignored",
+  "tense": "past",
+  "type": "negative",
+  "alt": {
+   "en": "You didn't reply to my two messages.",
+   "tamil": "என் இரண்டு செய்திகளுக்கும் நீங்கள் பதிலளிக்கவில்லை."
+  }
+ },
+ {
+  "en": "The receptionist didn't understand my question at first.",
+  "tamil": "வரவேற்பாளருக்கு முதலில் என் கேள்வி புரியவில்லை.",
+  "context": "Telling a story about a hotel",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "My manager gave me two extra days to finish it.",
+  "tamil": "அதை முடிக்க என் மேலாளர் இன்னும் இரண்டு நாட்கள் கொடுத்தார்.",
+  "context": "Sharing the result of a request",
+  "tense": "past",
+  "type": "statement",
+  "alt": {
+   "en": "I got two more days from my manager.",
+   "tamil": "மேலாளர் எனக்கு இன்னும் இரண்டு நாட்கள் தந்தார்."
+  }
+ },
+ {
+  "en": "I was struggling with the setup until you stepped in.",
+  "tamil": "நீங்கள் வரும் வரை அமைப்பதில் நான் தடுமாறிக்கொண்டிருந்தேன்.",
+  "context": "Thanking someone who helped",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "He wasn't available, so I asked someone else.",
+  "tamil": "அவர் கிடைக்கவில்லை, அதனால் வேறு ஒருவரிடம் கேட்டேன்.",
+  "context": "Explaining who helped you",
+  "tense": "past",
+  "type": "negative",
+  "alt": {
+   "en": "He was busy, so I asked another person.",
+   "tamil": "அவர் பிஸியாக இருந்ததால் வேறொருவரிடம் கேட்டேன்."
+  }
+ },
+ {
+  "en": "I asked the nurse to call my family.",
+  "tamil": "என் குடும்பத்தை அழைக்கும்படி செவிலியரிடம் கேட்டேன்.",
+  "context": "Describing a hospital situation",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I'm going to need your help with this.",
+  "tamil": "இதில் எனக்கு உங்கள் உதவி தேவைப்படப் போகிறது.",
+  "context": "Warning a colleague you need support",
+  "tense": "future",
+  "type": "request",
+  "alt": {
+   "en": "I need your help with this.",
+   "tamil": "இதில் எனக்கு உங்கள் உதவி வேண்டும்."
+  }
+ },
+ {
+  "en": "I'll need your approval by Friday.",
+  "tamil": "வெள்ளிக்கிழமைக்குள் எனக்கு உங்கள் ஒப்புதல் தேவை.",
+  "context": "Asking a manager for sign-off",
+  "tense": "future",
+  "type": "request",
+  "alt": {
+   "en": "Please approve it by Friday.",
+   "tamil": "வெள்ளிக்குள் ஒப்புதல் கொடுங்கள்."
+  }
+ },
+ {
+  "en": "I'll be grateful if you can join the call.",
+  "tamil": "நீங்கள் அழைப்பில் இணைந்தால் நான் நன்றியுடன் இருப்பேன்.",
+  "context": "Inviting a senior to a call",
+  "tense": "future",
+  "type": "request",
+  "alt": {
+   "en": "Please join the call.",
+   "tamil": "அழைப்பில் இணையுங்கள்."
+  }
+ },
+ {
+  "en": "We'll need more time to test it properly.",
+  "tamil": "அதை சரியாகச் சோதிக்க நமக்கு இன்னும் நேரம் தேவைப்படும்.",
+  "context": "Asking for more time",
+  "tense": "future",
+  "type": "request",
+  "alt": {
+   "en": "We need more time to test it.",
+   "tamil": "சோதிக்க இன்னும் நேரம் வேண்டும்."
+  }
+ },
+ {
+  "en": "I'll check with the bank and call you back.",
+  "tamil": "வங்கியிடம் கேட்டுவிட்டு உங்களை மீண்டும் அழைக்கிறேன்.",
+  "context": "Promising a callback",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "I'm not going to find it without your help.",
+  "tamil": "உங்கள் உதவி இல்லாமல் என்னால் அதைக் கண்டுபிடிக்க முடியாது.",
+  "context": "Asking for directions or search help",
+  "tense": "future",
+  "type": "negative",
+  "alt": {
+   "en": "I can't find it without you.",
+   "tamil": "நீங்கள் இல்லாமல் என்னால் கண்டுபிடிக்க முடியாது."
+  }
+ },
+ {
+  "en": "I'll be waiting at the gate, so please hurry.",
+  "tamil": "நான் வாசலில் காத்திருப்பேன், அதனால் சீக்கிரம் வாருங்கள்.",
+  "context": "Urgent request at the airport",
+  "tense": "future",
+  "type": "request"
+ }
+]

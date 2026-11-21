@@ -1,0 +1,345 @@
+[
+ {
+  "word": "time flies",
+  "meaning": "Time seems to pass very quickly.",
+  "tamil": "நேரம் மிக வேகமாகச் செல்கிறது",
+  "pos": "phrase",
+  "pron": "TYM flyz",
+  "example": "Time flies when you are having fun.",
+  "exampleTamil": "மகிழ்ச்சியாக இருக்கும்போது நேரம் வேகமாகப் போகிறது.",
+  "synonyms": [
+   "time passes fast"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "kill time",
+  "meaning": "To do something while waiting for something else.",
+  "tamil": "காத்திருக்கும் நேரத்தைப் போக்குதல்",
+  "pos": "phrase",
+  "pron": "kil TYM",
+  "example": "I played a game to kill time at the bus stand.",
+  "exampleTamil": "பேருந்து நிலையத்தில் நேரம் போக்க நான் ஒரு விளையாட்டு விளையாடினேன்.",
+  "synonyms": [
+   "pass time",
+   "while away"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "buy time",
+  "meaning": "To delay something to get more time.",
+  "tamil": "கூடுதல் நேரம் பெற காலதாமதம் செய்தல்",
+  "pos": "phrase",
+  "pron": "by TYM",
+  "example": "He asked a question to buy time before answering.",
+  "exampleTamil": "பதில் சொல்லும் முன் நேரம் பெற அவர் ஒரு கேள்வி கேட்டார்.",
+  "synonyms": [
+   "stall",
+   "delay"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sooner or later",
+  "meaning": "At some time in the future, certainly.",
+  "tamil": "என்றாவது ஒரு நாள், நிச்சயமாக",
+  "pos": "phrase",
+  "pron": "SOO-ner or LAY-ter",
+  "example": "Sooner or later, you will have to speak to him.",
+  "exampleTamil": "என்றாவது ஒரு நாள் நீங்கள் அவரிடம் பேசவேண்டியிருக்கும்.",
+  "synonyms": [
+   "eventually",
+   "one day"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "off and on",
+  "meaning": "Not continuously; sometimes yes, sometimes no.",
+  "tamil": "தொடர்ச்சியாக இல்லாமல் அவ்வப்போது",
+  "pos": "phrase",
+  "pron": "of and ON",
+  "example": "It rained off and on all day.",
+  "exampleTamil": "நாள் முழுவதும் அவ்வப்போது மழை பெய்தது.",
+  "synonyms": [
+   "on and off",
+   "now and then"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "day and night",
+  "meaning": "All the time, without a break.",
+  "tamil": "எப்போதும், இடைவெளி இல்லாமல்",
+  "pos": "phrase",
+  "pron": "day and NYT",
+  "example": "She studied day and night for the exam.",
+  "exampleTamil": "அவள் தேர்வுக்காக இரவும் பகலும் படித்தாள்.",
+  "synonyms": [
+   "constantly",
+   "nonstop"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "in a flash",
+  "meaning": "Very quickly, in a moment.",
+  "tamil": "ஒரு நொடியில்",
+  "pos": "phrase",
+  "pron": "in uh FLASH",
+  "example": "The idea came to me in a flash.",
+  "exampleTamil": "அந்த யோசனை எனக்கு ஒரு நொடியில் தோன்றியது.",
+  "synonyms": [
+   "instantly",
+   "in a moment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "just in time",
+  "meaning": "At the last possible moment, not too late.",
+  "tamil": "கடைசி நிமிடத்தில், தாமதமாகாமல்",
+  "pos": "phrase",
+  "pron": "just in TYM",
+  "example": "We reached the station just in time for the train.",
+  "exampleTamil": "நாங்கள் ரயிலுக்குச் சரியான நேரத்தில் நிலையத்தை அடைந்தோம்.",
+  "synonyms": [
+   "barely on time"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "the other day",
+  "meaning": "A few days ago, not long ago.",
+  "tamil": "சில நாட்களுக்கு முன்",
+  "pos": "phrase",
+  "pron": "thee UH-ther DAY",
+  "example": "I met your brother the other day.",
+  "exampleTamil": "நான் சில நாட்களுக்கு முன் உன் அண்ணனைச் சந்தித்தேன்.",
+  "synonyms": [
+   "recently",
+   "a few days ago"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "time is money",
+  "meaning": "Wasting time costs you money, so use it well.",
+  "tamil": "நேரத்தை வீணாக்கினால் பணம் இழப்பு, எனவே நன்கு பயன்படுத்துங்கள்",
+  "pos": "phrase",
+  "pron": "TYM iz MUN-ee",
+  "example": "Let's start now, because time is money.",
+  "exampleTamil": "இப்போதே தொடங்குவோம், ஏனெனில் நேரமே பணம்.",
+  "synonyms": [
+   "be quick"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pressed for time",
+  "meaning": "Having very little time to do something.",
+  "tamil": "ஒரு செயலுக்குப் போதிய நேரம் இல்லாத",
+  "pos": "phrase",
+  "pron": "prest for TYM",
+  "example": "I am pressed for time, so please be brief.",
+  "exampleTamil": "எனக்கு நேரம் குறைவு, எனவே சுருக்கமாகச் சொல்லுங்கள்.",
+  "synonyms": [
+   "in a hurry",
+   "short of time"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "against the clock",
+  "meaning": "Trying to finish before time runs out.",
+  "tamil": "நேரம் முடிவதற்குள் முடிக்கப் போராடி",
+  "pos": "phrase",
+  "pron": "uh-GENST thuh KLOK",
+  "example": "The team worked against the clock to finish the app.",
+  "exampleTamil": "குழு செயலியை முடிக்க நேரத்துடன் போராடி உழைத்தது.",
+  "synonyms": [
+   "in a rush"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "for good",
+  "meaning": "Forever; permanently.",
+  "tamil": "நிரந்தரமாக",
+  "pos": "phrase",
+  "pron": "for GUD",
+  "example": "He left the village for good.",
+  "exampleTamil": "அவர் அந்த ஊரை நிரந்தரமாக விட்டுச் சென்றார்.",
+  "synonyms": [
+   "forever",
+   "permanently"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "at times",
+  "meaning": "Sometimes, not always.",
+  "tamil": "சில சமயங்களில்",
+  "pos": "phrase",
+  "pron": "at TYMZ",
+  "example": "At times, my phone hangs without any reason.",
+  "exampleTamil": "சில சமயங்களில் என் போன் காரணமின்றி உறைந்துவிடுகிறது.",
+  "synonyms": [
+   "sometimes",
+   "occasionally"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "black sheep",
+  "meaning": "A person who is different and seen as bad in a family.",
+  "tamil": "குடும்பத்தில் மற்றவர்களிலிருந்து வேறுபட்டு தவறாகக் கருதப்படுபவர்",
+  "pos": "phrase",
+  "pron": "blak SHEEP",
+  "example": "My cousin is the black sheep of the family.",
+  "exampleTamil": "என் உறவினர் குடும்பத்தின் கெட்ட பெயர் எடுத்தவர்.",
+  "synonyms": [
+   "outcast",
+   "odd one out"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "big shot",
+  "meaning": "An important and powerful person.",
+  "tamil": "முக்கியமான, செல்வாக்கு மிக்க நபர்",
+  "pos": "phrase",
+  "pron": "big SHOT",
+  "example": "He acts like a big shot in our office.",
+  "exampleTamil": "அவர் எங்கள் அலுவலகத்தில் பெரிய ஆள் போல நடந்துகொள்கிறார்.",
+  "synonyms": [
+   "VIP",
+   "bigwig"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lone wolf",
+  "meaning": "A person who likes to work or live alone.",
+  "tamil": "தனியாக இருக்க அல்லது வேலை செய்ய விரும்புபவர்",
+  "pos": "phrase",
+  "pron": "lohn WULF",
+  "example": "He is a lone wolf and rarely joins parties.",
+  "exampleTamil": "அவர் தனிமை விரும்பி, விருந்துகளில் அரிதாகவே கலந்துகொள்வார்.",
+  "synonyms": [
+   "loner",
+   "solitary person"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bad apple",
+  "meaning": "One bad person who can spoil a whole group.",
+  "tamil": "ஒரு குழுவையே கெடுக்கக்கூடிய ஒரு மோசமான நபர்",
+  "pos": "phrase",
+  "pron": "bad AP-ul",
+  "example": "One bad apple can ruin the team's name.",
+  "exampleTamil": "ஒரு மோசமான நபர் குழுவின் பெயரையே கெடுத்துவிடலாம்.",
+  "synonyms": [
+   "troublemaker",
+   "rotten egg"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "social butterfly",
+  "meaning": "A person who enjoys meeting and talking to many people.",
+  "tamil": "பலருடன் பழகி மகிழும் நபர்",
+  "pos": "phrase",
+  "pron": "SOH-shul BUT-er-fly",
+  "example": "My sister is a social butterfly at every function.",
+  "exampleTamil": "என் தங்கை எல்லா விழாக்களிலும் எல்லோருடனும் பழகுபவள்.",
+  "synonyms": [
+   "mixer",
+   "outgoing person"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "early bird",
+  "meaning": "A person who wakes up or arrives early.",
+  "tamil": "அதிகாலையில் எழுபவர் அல்லது முன்கூட்டியே வருபவர்",
+  "pos": "phrase",
+  "pron": "UR-lee BURD",
+  "example": "I am an early bird, so I study at five.",
+  "exampleTamil": "நான் அதிகாலையில் எழுபவன், அதனால் ஐந்து மணிக்குப் படிக்கிறேன்.",
+  "synonyms": [
+   "morning person"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "night owl",
+  "meaning": "A person who stays awake late at night.",
+  "tamil": "இரவில் தாமதமாகத் தூங்குபவர்",
+  "pos": "phrase",
+  "pron": "NYT owl",
+  "example": "My brother is a night owl and sleeps at three.",
+  "exampleTamil": "என் அண்ணன் இரவு விழிப்பவர், மூன்று மணிக்குத் தூங்குவார்.",
+  "synonyms": [
+   "late sleeper"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "couch potato",
+  "meaning": "A lazy person who watches TV a lot.",
+  "tamil": "எப்போதும் டிவி பார்த்துக்கொண்டு சோம்பலாக இருப்பவர்",
+  "pos": "phrase",
+  "pron": "KOWCH puh-TAY-toh",
+  "example": "Stop being a couch potato and go for a walk.",
+  "exampleTamil": "சோம்பேறியாக இருப்பதை நிறுத்திவிட்டு நடைப்பயிற்சிக்குச் செல்.",
+  "synonyms": [
+   "idler",
+   "lazybones"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "busy bee",
+  "meaning": "A person who is always working hard and busy.",
+  "tamil": "எப்போதும் சுறுசுறுப்பாக வேலை செய்துகொண்டிருப்பவர்",
+  "pos": "phrase",
+  "pron": "BIZ-ee BEE",
+  "example": "My mother is a busy bee all day.",
+  "exampleTamil": "என் அம்மா நாள் முழுவதும் சுறுசுறுப்பாக வேலை செய்துகொண்டிருப்பார்.",
+  "synonyms": [
+   "hard worker"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "good egg",
+  "meaning": "A kind and honest person.",
+  "tamil": "நல்ல மனமும் நேர்மையும் உள்ளவர்",
+  "pos": "phrase",
+  "pron": "gud EG",
+  "example": "Ravi is a good egg and always helps us.",
+  "exampleTamil": "ரவி நல்லவர், எப்போதும் எங்களுக்கு உதவுவார்.",
+  "synonyms": [
+   "good person",
+   "kind soul"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "wet blanket",
+  "meaning": "A person who spoils other people's fun.",
+  "tamil": "மற்றவர்களின் மகிழ்ச்சியைக் கெடுப்பவர்",
+  "pos": "phrase",
+  "pron": "wet BLANG-kit",
+  "example": "Don't be a wet blanket; come to the party.",
+  "exampleTamil": "மகிழ்ச்சியைக் கெடுக்காதே, விருந்துக்கு வா.",
+  "synonyms": [
+   "killjoy",
+   "spoilsport"
+  ],
+  "level": "advanced"
+ }
+]

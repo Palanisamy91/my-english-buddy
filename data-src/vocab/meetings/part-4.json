@@ -1,0 +1,743 @@
+[
+ {
+  "word": "pros",
+  "tamil": "நன்மைகள்",
+  "pos": "noun",
+  "pron": "PROHZ",
+  "example": "Let's list the pros and cons of each option.",
+  "exampleTamil": "ஒவ்வொரு தேர்வின் நன்மை தீமைகளைப் பட்டியலிடுவோம்.",
+  "synonyms": [
+   "advantages",
+   "benefits"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "drawback",
+  "tamil": "குறைபாடு",
+  "pos": "noun",
+  "pron": "DRAW-bak",
+  "example": "The main drawback is the high maintenance cost.",
+  "exampleTamil": "முக்கியக் குறைபாடு அதிக பராமரிப்புச் செலவு.",
+  "synonyms": [
+   "downside",
+   "disadvantage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "downside",
+  "tamil": "எதிர்மறை அம்சம்",
+  "pos": "noun",
+  "pron": "DOWN-syd",
+  "example": "The downside is that it takes longer.",
+  "exampleTamil": "இதன் எதிர்மறை அம்சம் அதிக நேரம் எடுக்கும் என்பது.",
+  "synonyms": [
+   "drawback",
+   "disadvantage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "upside",
+  "tamil": "சாதகமான அம்சம்",
+  "pos": "noun",
+  "pron": "UP-syd",
+  "example": "The upside is that customers will see results quickly.",
+  "exampleTamil": "சாதகமான அம்சம், வாடிக்கையாளர்கள் விரைவில் பலனைப் பார்ப்பார்கள்.",
+  "synonyms": [
+   "benefit",
+   "advantage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "alternative",
+  "tamil": "மாற்று வழி",
+  "pos": "noun",
+  "pron": "awl-TUR-nuh-tiv",
+  "example": "Do we have an alternative if this fails?",
+  "exampleTamil": "இது தோல்வியடைந்தால் நமக்கு மாற்று வழி உள்ளதா?",
+  "synonyms": [
+   "option",
+   "substitute"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "option",
+  "tamil": "தேர்வு",
+  "pos": "noun",
+  "pron": "OP-shun",
+  "example": "Option two seems the safest to me.",
+  "exampleTamil": "இரண்டாவது தேர்வு எனக்குப் பாதுகாப்பாகத் தோன்றுகிறது.",
+  "synonyms": [
+   "choice",
+   "alternative"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "solution",
+  "tamil": "தீர்வு",
+  "pos": "noun",
+  "pron": "suh-LOO-shun",
+  "example": "Does anyone have a solution to this problem?",
+  "exampleTamil": "இந்தப் பிரச்சினைக்கு யாரிடமாவது தீர்வு உள்ளதா?",
+  "synonyms": [
+   "answer",
+   "fix"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "brainstorm",
+  "tamil": "யோசனைகளைக் கூட்டாகத் திரட்டு",
+  "pos": "verb",
+  "pron": "BRAYN-storm",
+  "example": "Let's brainstorm a few names for the product.",
+  "exampleTamil": "தயாரிப்புக்கு சில பெயர்களைக் கூட்டாக யோசிப்போம்.",
+  "synonyms": [
+   "ideate",
+   "think up"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "idea",
+  "tamil": "யோசனை",
+  "pos": "noun",
+  "pron": "eye-DEE-uh",
+  "example": "That is a great idea, let's try it.",
+  "exampleTamil": "அது நல்ல யோசனை, முயன்று பார்ப்போம்.",
+  "synonyms": [
+   "thought",
+   "suggestion"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "innovative",
+  "tamil": "புதுமையான",
+  "pos": "adjective",
+  "pron": "IN-uh-vay-tiv",
+  "example": "It is an innovative approach to an old problem.",
+  "exampleTamil": "இது பழைய பிரச்சினைக்கான புதுமையான அணுகுமுறை.",
+  "synonyms": [
+   "original",
+   "novel"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "spark",
+  "tamil": "தூண்டு",
+  "pos": "verb",
+  "pron": "SPARK",
+  "example": "His comment sparked a lively discussion.",
+  "exampleTamil": "அவரது கருத்து உயிரோட்டமான விவாதத்தைத் தூண்டியது.",
+  "synonyms": [
+   "trigger",
+   "ignite"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "refine",
+  "tamil": "மேம்படுத்து",
+  "pos": "verb",
+  "pron": "rih-FYN",
+  "example": "We can refine the idea in the next session.",
+  "exampleTamil": "அடுத்த அமர்வில் இந்த யோசனையை மேம்படுத்தலாம்.",
+  "synonyms": [
+   "polish",
+   "improve"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "validate",
+  "tamil": "சரிபார்த்து உறுதிசெய்",
+  "pos": "verb",
+  "pron": "VAL-ih-dayt",
+  "example": "We need to validate this idea with real users.",
+  "exampleTamil": "இந்த யோசனையை உண்மையான பயனர்களுடன் சரிபார்க்க வேண்டும்.",
+  "synonyms": [
+   "verify",
+   "confirm"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "contingency",
+  "tamil": "எதிர்பாராத நிலைக்கான திட்டம்",
+  "pos": "noun",
+  "pron": "kun-TIN-jun-see",
+  "example": "We need a contingency plan in case of delays.",
+  "exampleTamil": "தாமதம் ஏற்பட்டால் நமக்கு ஒரு மாற்றுத் திட்டம் தேவை.",
+  "synonyms": [
+   "backup",
+   "fallback"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "constraint",
+  "tamil": "கட்டுப்பாடு",
+  "pos": "noun",
+  "pron": "kun-STRAYNT",
+  "example": "Our biggest constraint is time, not money.",
+  "exampleTamil": "எங்கள் மிகப்பெரிய கட்டுப்பாடு பணமல்ல, நேரம்.",
+  "synonyms": [
+   "limitation",
+   "restriction"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "slip",
+  "tamil": "தள்ளிப்போ",
+  "pos": "verb",
+  "pron": "SLIP",
+  "example": "The release date may slip by a few days.",
+  "exampleTamil": "வெளியீட்டுத் தேதி சில நாட்கள் தள்ளிப்போகலாம்.",
+  "synonyms": [
+   "slide",
+   "fall behind"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "progress",
+  "tamil": "முன்னேற்றம்",
+  "pos": "noun",
+  "pron": "PROH-gres",
+  "example": "We are making good progress on the report.",
+  "exampleTamil": "அறிக்கையில் நல்ல முன்னேற்றம் அடைந்து வருகிறோம்.",
+  "synonyms": [
+   "headway",
+   "advance"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "status",
+  "tamil": "நிலை",
+  "pos": "noun",
+  "pron": "STAY-tus",
+  "example": "What is the current status of the payment issue?",
+  "exampleTamil": "கட்டணப் பிரச்சினையின் தற்போதைய நிலை என்ன?",
+  "synonyms": [
+   "state",
+   "position"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "outstanding",
+  "tamil": "இன்னும் முடிக்கப்படாத",
+  "pos": "adjective",
+  "pron": "owt-STAN-ding",
+  "example": "There are two outstanding issues on the list.",
+  "exampleTamil": "பட்டியலில் இன்னும் முடிக்கப்படாத இரண்டு பிரச்சினைகள் உள்ளன.",
+  "synonyms": [
+   "unresolved",
+   "unpaid"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "completed",
+  "tamil": "முடிக்கப்பட்ட",
+  "pos": "adjective",
+  "pron": "kum-PLEE-tid",
+  "example": "Both tasks are completed and tested.",
+  "exampleTamil": "இரண்டு பணிகளும் முடிக்கப்பட்டு சோதிக்கப்பட்டன.",
+  "synonyms": [
+   "finished",
+   "done"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "owner",
+  "tamil": "பொறுப்பாளர்",
+  "pos": "noun",
+  "pron": "OH-ner",
+  "example": "Who is the owner of this task?",
+  "exampleTamil": "இந்தப் பணியின் பொறுப்பாளர் யார்?",
+  "synonyms": [
+   "person in charge",
+   "lead"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "assignee",
+  "tamil": "பணி ஒதுக்கப்பட்டவர்",
+  "pos": "noun",
+  "pron": "uh-sy-NEE",
+  "example": "The assignee should update the ticket daily.",
+  "exampleTamil": "பணி ஒதுக்கப்பட்டவர் தினமும் டிக்கெட்டைப் புதுப்பிக்க வேண்டும்.",
+  "synonyms": [
+   "task holder",
+   "person assigned"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "follow-up",
+  "tamil": "தொடர் நடவடிக்கை",
+  "pos": "noun",
+  "pron": "FOL-oh-up",
+  "example": "I will send a follow-up email after the call.",
+  "exampleTamil": "அழைப்புக்குப் பின் நான் தொடர் மின்னஞ்சல் அனுப்புவேன்.",
+  "synonyms": [
+   "next step",
+   "reminder"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "visibility",
+  "tamil": "தெளிவான தகவல் அறிவு",
+  "pos": "noun",
+  "pron": "viz-uh-BIL-uh-tee",
+  "example": "We need more visibility into the project risks.",
+  "exampleTamil": "திட்ட ஆபத்துகள் பற்றி நமக்கு அதிகத் தெளிவு தேவை.",
+  "synonyms": [
+   "transparency",
+   "awareness"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "transparency",
+  "tamil": "வெளிப்படைத்தன்மை",
+  "pos": "noun",
+  "pron": "trans-PAIR-un-see",
+  "example": "Transparency builds trust within the team.",
+  "exampleTamil": "வெளிப்படைத்தன்மை குழுவில் நம்பிக்கையை உருவாக்குகிறது.",
+  "synonyms": [
+   "openness",
+   "clarity"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sponsor",
+  "tamil": "ஆதரவளிப்பவர்",
+  "pos": "noun",
+  "pron": "SPON-ser",
+  "example": "The executive sponsor will join the last ten minutes.",
+  "exampleTamil": "நிர்வாக ஆதரவாளர் கடைசி பத்து நிமிடங்கள் சேருவார்.",
+  "synonyms": [
+   "backer",
+   "champion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "terms",
+  "tamil": "விதிமுறைகள்",
+  "pos": "noun",
+  "pron": "TURMZ",
+  "example": "Let's go over the terms of the agreement.",
+  "exampleTamil": "ஒப்பந்த விதிமுறைகளைப் பார்ப்போம்.",
+  "synonyms": [
+   "conditions",
+   "provisions"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "concede",
+  "tamil": "விட்டுக்கொடு",
+  "pos": "verb",
+  "pron": "kun-SEED",
+  "example": "We are willing to concede on the delivery date.",
+  "exampleTamil": "டெலிவரி தேதியில் நாங்கள் விட்டுக்கொடுக்கத் தயார்.",
+  "synonyms": [
+   "give in",
+   "yield"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "concession",
+  "tamil": "விட்டுக்கொடுப்பு",
+  "pos": "noun",
+  "pron": "kun-SESH-un",
+  "example": "The client made a concession on the price.",
+  "exampleTamil": "வாடிக்கையாளர் விலையில் விட்டுக்கொடுத்தார்.",
+  "synonyms": [
+   "compromise",
+   "allowance"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "leverage",
+  "tamil": "செல்வாக்கு பலம்",
+  "pos": "noun",
+  "pron": "LEV-er-ij",
+  "example": "We have little leverage in this negotiation.",
+  "exampleTamil": "இந்தப் பேச்சுவார்த்தையில் எங்களுக்குப் பலம் குறைவு.",
+  "synonyms": [
+   "influence",
+   "advantage"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "settle",
+  "tamil": "தீர்த்துக்கொள்",
+  "pos": "verb",
+  "pron": "SET-ul",
+  "example": "Let's settle this before the end of the week.",
+  "exampleTamil": "வாரம் முடிவதற்குள் இதைத் தீர்த்துக்கொள்வோம்.",
+  "synonyms": [
+   "resolve",
+   "sort out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deal",
+  "tamil": "ஒப்பந்த உடன்பாடு",
+  "pos": "noun",
+  "pron": "DEEL",
+  "example": "We finally closed the deal yesterday.",
+  "exampleTamil": "நாங்கள் நேற்று இறுதியாக ஒப்பந்தத்தை முடித்தோம்.",
+  "synonyms": [
+   "agreement",
+   "bargain"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mutual",
+  "tamil": "இருதரப்புக்கும் பொதுவான",
+  "pos": "adjective",
+  "pron": "MYOO-choo-ul",
+  "example": "We reached a mutual agreement on the plan.",
+  "exampleTamil": "திட்டத்தில் இருதரப்பும் ஒப்புக்கொண்டோம்.",
+  "synonyms": [
+   "shared",
+   "joint"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "firm",
+  "tamil": "உறுதியான",
+  "pos": "adjective",
+  "pron": "FURM",
+  "example": "They were firm about the deadline.",
+  "exampleTamil": "கெடு தேதியைப் பற்றி அவர்கள் உறுதியாக இருந்தனர்.",
+  "synonyms": [
+   "strict",
+   "fixed"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "disagreement",
+  "tamil": "கருத்து வேறுபாடு",
+  "pos": "noun",
+  "pron": "dis-uh-GREE-munt",
+  "example": "We had a small disagreement about priorities.",
+  "exampleTamil": "முன்னுரிமைகள் பற்றி எங்களுக்குச் சிறிய கருத்து வேறுபாடு இருந்தது.",
+  "synonyms": [
+   "dispute",
+   "difference"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "tension",
+  "tamil": "பதற்றம்",
+  "pos": "noun",
+  "pron": "TEN-shun",
+  "example": "A little humour reduced the tension in the room.",
+  "exampleTamil": "சிறிது நகைச்சுவை அறையின் பதற்றத்தைக் குறைத்தது.",
+  "synonyms": [
+   "strain",
+   "stress"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "respectful",
+  "tamil": "மரியாதையான",
+  "pos": "adjective",
+  "pron": "rih-SPEKT-ful",
+  "example": "Please keep the discussion respectful.",
+  "exampleTamil": "விவாதத்தை மரியாதையாக வைத்திருங்கள்.",
+  "synonyms": [
+   "polite",
+   "courteous"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "patiently",
+  "tamil": "பொறுமையாக",
+  "pos": "adverb",
+  "pron": "PAY-shunt-lee",
+  "example": "She listened patiently to every concern.",
+  "exampleTamil": "ஒவ்வொரு கவலையையும் அவர் பொறுமையாகக் கேட்டார்.",
+  "synonyms": [
+   "calmly",
+   "tolerantly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "frankly",
+  "tamil": "வெளிப்படையாக",
+  "pos": "adverb",
+  "pron": "FRANK-lee",
+  "example": "Frankly, I think the deadline is too tight.",
+  "exampleTamil": "வெளிப்படையாகச் சொன்னால், கெடு மிகவும் இறுக்கமாக உள்ளது.",
+  "synonyms": [
+   "honestly",
+   "candidly"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "honestly",
+  "tamil": "நேர்மையாக",
+  "pos": "adverb",
+  "pron": "ON-ist-lee",
+  "example": "Honestly, I am not sure we are ready.",
+  "exampleTamil": "நேர்மையாகச் சொன்னால், நாம் தயாராக இருக்கிறோமா என்று தெரியவில்லை.",
+  "synonyms": [
+   "truthfully",
+   "frankly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "roughly",
+  "tamil": "தோராயமாக",
+  "pos": "adverb",
+  "pron": "RUF-lee",
+  "example": "It will cost roughly two lakh rupees.",
+  "exampleTamil": "இதற்கு தோராயமாக இரண்டு லட்சம் ரூபாய் செலவாகும்.",
+  "synonyms": [
+   "approximately",
+   "about"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "approximately",
+  "tamil": "சுமாராக",
+  "pos": "adverb",
+  "pron": "uh-PROK-suh-mit-lee",
+  "example": "The meeting will run approximately one hour.",
+  "exampleTamil": "கூட்டம் சுமார் ஒரு மணி நேரம் நடக்கும்.",
+  "synonyms": [
+   "roughly",
+   "around"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unanimously",
+  "tamil": "ஒருமனதாக",
+  "pos": "adverb",
+  "pron": "yoo-NAN-uh-mus-lee",
+  "example": "The team unanimously chose the first plan.",
+  "exampleTamil": "குழு ஒருமனதாக முதல் திட்டத்தைத் தேர்ந்தெடுத்தது.",
+  "synonyms": [
+   "jointly",
+   "all together"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "collectively",
+  "tamil": "கூட்டாக",
+  "pos": "adverb",
+  "pron": "kuh-LEK-tiv-lee",
+  "example": "We collectively decided to move the date.",
+  "exampleTamil": "நாங்கள் கூட்டாக தேதியை மாற்ற முடிவு செய்தோம்.",
+  "synonyms": [
+   "together",
+   "jointly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "promptly",
+  "tamil": "உடனடியாக",
+  "pos": "adverb",
+  "pron": "PROMPT-lee",
+  "example": "The meeting started promptly at nine.",
+  "exampleTamil": "கூட்டம் சரியாக ஒன்பது மணிக்குத் தொடங்கியது.",
+  "synonyms": [
+   "on time",
+   "immediately"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "confusing",
+  "tamil": "குழப்பமான",
+  "pos": "adjective",
+  "pron": "kun-FYOO-zing",
+  "example": "The second slide is a bit confusing.",
+  "exampleTamil": "இரண்டாவது ஸ்லைடு சற்று குழப்பமாக உள்ளது.",
+  "synonyms": [
+   "unclear",
+   "puzzling"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "detailed",
+  "tamil": "விரிவான",
+  "pos": "adjective",
+  "pron": "DEE-tayld",
+  "example": "Could you share a detailed breakdown of costs?",
+  "exampleTamil": "செலவுகளின் விரிவான பிரிவைப் பகிர முடியுமா?",
+  "synonyms": [
+   "thorough",
+   "in-depth"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "comprehensive",
+  "tamil": "முழுமையான",
+  "pos": "adjective",
+  "pron": "kom-prih-HEN-siv",
+  "example": "She prepared a comprehensive report for the board.",
+  "exampleTamil": "அவர் இயக்குநர் குழுவுக்கு முழுமையான அறிக்கை தயாரித்தார்.",
+  "synonyms": [
+   "complete",
+   "full"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "insightful",
+  "tamil": "ஆழ்ந்த நுண்ணறிவுள்ள",
+  "pos": "adjective",
+  "pron": "IN-syt-ful",
+  "example": "That was a very insightful comment.",
+  "exampleTamil": "அது மிகவும் நுண்ணறிவுள்ள கருத்து.",
+  "synonyms": [
+   "perceptive",
+   "wise"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "engaging",
+  "tamil": "ஈர்க்கக்கூடிய",
+  "pos": "adjective",
+  "pron": "en-GAY-jing",
+  "example": "His presentation was short and engaging.",
+  "exampleTamil": "அவரது விளக்கக்காட்சி சுருக்கமாகவும் ஈர்ப்பாகவும் இருந்தது.",
+  "synonyms": [
+   "interesting",
+   "captivating"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "cautious",
+  "tamil": "எச்சரிக்கையான",
+  "pos": "adjective",
+  "pron": "KAW-shus",
+  "example": "I am cautious about promising a date.",
+  "exampleTamil": "தேதியை உறுதியளிப்பதில் நான் எச்சரிக்கையாக இருக்கிறேன்.",
+  "synonyms": [
+   "careful",
+   "wary"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "optimistic",
+  "tamil": "நம்பிக்கையான",
+  "pos": "adjective",
+  "pron": "op-tuh-MIS-tik",
+  "example": "I am optimistic about next quarter's results.",
+  "exampleTamil": "அடுத்த காலாண்டு முடிவுகளைப் பற்றி நம்பிக்கையாக உள்ளேன்.",
+  "synonyms": [
+   "hopeful",
+   "positive"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "realistically",
+  "tamil": "நடைமுறையில் பார்த்தால்",
+  "pos": "adverb",
+  "pron": "ree-uh-LIS-tik-lee",
+  "example": "Realistically, we cannot finish before May.",
+  "exampleTamil": "நடைமுறையில், மே மாதத்துக்கு முன் முடிக்க முடியாது.",
+  "synonyms": [
+   "practically",
+   "honestly"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "screen",
+  "tamil": "திரை",
+  "pos": "noun",
+  "pron": "SKREEN",
+  "example": "Can everyone see my screen clearly?",
+  "exampleTamil": "என் திரை அனைவருக்கும் தெளிவாகத் தெரிகிறதா?",
+  "synonyms": [
+   "display",
+   "monitor"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spokesperson",
+  "tamil": "பேச்சாளர்",
+  "pos": "noun",
+  "pron": "SPOHKS-pur-sun",
+  "example": "Meena will act as our spokesperson today.",
+  "exampleTamil": "மீனா இன்று எங்கள் சார்பாகப் பேசுவார்.",
+  "synonyms": [
+   "representative",
+   "speaker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "delegation",
+  "tamil": "குழுவினர் அனுப்புதல்",
+  "pos": "noun",
+  "pron": "del-uh-GAY-shun",
+  "example": "A delegation from Japan joined the call.",
+  "exampleTamil": "ஜப்பானிலிருந்து ஒரு பிரதிநிதிகள் குழு அழைப்பில் சேர்ந்தது.",
+  "synonyms": [
+   "group",
+   "representatives"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "representative",
+  "tamil": "பிரதிநிதி",
+  "pos": "noun",
+  "pron": "rep-rih-ZEN-tuh-tiv",
+  "example": "Each team sent one representative to the meeting.",
+  "exampleTamil": "ஒவ்வொரு குழுவும் ஒரு பிரதிநிதியை அனுப்பியது.",
+  "synonyms": [
+   "delegate",
+   "agent"
+  ],
+  "level": "intermediate"
+ }
+]

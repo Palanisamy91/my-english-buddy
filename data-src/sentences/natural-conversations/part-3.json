@@ -1,0 +1,372 @@
+[
+ {
+  "en": "It is getting late, so I will leave now.",
+  "tamil": "நேரம் ஆகுது, அதனால நான் இப்போ கிளம்புறேன்.",
+  "context": "Leaving a visit politely.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is getting late' describes a change happening now. 'So' gives the reason.",
+  "words": [
+   "getting late",
+   "leave"
+  ],
+  "usage": "Use it when you visit a friend or relative and need to go home.",
+  "leelaQ": "What do you say when it is time to leave a party?",
+  "answer": "I say it is getting late and thank the host."
+ },
+ {
+  "en": "Please give me a minute to think.",
+  "tamil": "தயவு செஞ்சு யோசிக்க ஒரு நிமிஷம் கொடுங்க.",
+  "context": "Asking for time.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Give me a minute' is a polite way to ask for a short time.",
+  "words": [
+   "minute",
+   "think"
+  ],
+  "usage": "Use it when someone asks a hard question or wants a quick decision.",
+  "leelaQ": "What do you say when you need time to answer?",
+  "answer": "I say please give me a minute to think."
+ },
+ {
+  "en": "Congratulations, you truly deserve it!",
+  "tamil": "வாழ்த்துகள், நீ இதுக்கு முழுசா தகுதியானவன்!",
+  "context": "Congratulating a friend on a success.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Deserve' means you earned it by hard work. It makes your praise special.",
+  "words": [
+   "congratulations",
+   "deserve"
+  ],
+  "usage": "Use it when a friend wins a prize, gets promoted or passes an exam.",
+  "leelaQ": "Who deserves a big congratulations in your life?",
+  "answer": "My sister deserves it because she passed her exam with top marks."
+ },
+ {
+  "en": "Don't worry, nobody is angry with you.",
+  "tamil": "கவலைப்படாத, யாரும் உன்மேல கோபமா இல்ல.",
+  "context": "Comforting a friend after a mistake.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Don't' + verb tells someone not to do something. 'Nobody' already makes the sentence negative.",
+  "words": [
+   "worry",
+   "angry"
+  ],
+  "usage": "Use it to calm a friend or a junior who feels bad about a mistake.",
+  "leelaQ": "How do you calm a friend who made a mistake?",
+  "answer": "I tell him not to worry and help him fix it."
+ },
+ {
+  "en": "How is your family doing?",
+  "tamil": "உன் குடும்பம் எப்படி இருக்கு?",
+  "context": "Asking about someone's family.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'How is ... doing?' is a polite way to ask how people are.",
+  "words": [
+   "family"
+  ],
+  "usage": "Use it when you meet a friend or a neighbour and want to be polite.",
+  "leelaQ": "How is your family doing these days?",
+  "answer": "They are all fine, thank you for asking."
+ },
+ {
+  "en": "I just woke up, so I am still sleepy.",
+  "tamil": "நான் இப்பதான் எழுந்தேன், அதனால இன்னும் தூக்கமா இருக்கு.",
+  "context": "Answering an early morning call.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Just woke up' means very recently. 'Still' shows the feeling has not gone yet.",
+  "words": [
+   "woke up",
+   "sleepy"
+  ],
+  "usage": "Use it when someone calls early and you are not fully awake.",
+  "leelaQ": "What time do you usually wake up?",
+  "answer": "I usually wake up at six in the morning."
+ },
+ {
+  "en": "Everyone says that new cafe is very good.",
+  "tamil": "எல்லாரும் அந்த புது கஃபே ரொம்ப நல்லா இருக்குன்னு சொல்றாங்க.",
+  "context": "Talking about a new place in town.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Everyone says' is followed by a verb in the singular form, like 'says'.",
+  "words": [
+   "everyone",
+   "cafe"
+  ],
+  "usage": "Use it when suggesting a new place to eat to friends.",
+  "leelaQ": "Is there a new place you want to try?",
+  "answer": "Yes, I want to try the new biryani shop near my house."
+ },
+ {
+  "en": "Which movie are you planning to watch?",
+  "tamil": "நீ எந்தப் படம் பார்க்கலாம்னு இருக்க?",
+  "context": "Talking about a movie plan.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Which' is used when there are a few choices. 'Planning to' shows an intention.",
+  "words": [
+   "planning"
+  ],
+  "usage": "Use it with friends when you are choosing a film.",
+  "leelaQ": "What kind of movies do you enjoy?",
+  "answer": "I enjoy comedy and family movies."
+ },
+ {
+  "en": "I met an old school friend yesterday.",
+  "tamil": "நான் நேத்து ஒரு பழைய ஸ்கூல் ஃப்ரெண்டைப் பார்த்தேன்.",
+  "context": "Sharing a surprise meeting.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Met' is the past form of 'meet'. 'Old' here means from a long time ago.",
+  "words": [
+   "school friend",
+   "yesterday"
+  ],
+  "usage": "Use it when telling family about an unexpected meeting.",
+  "leelaQ": "Do you still talk to your school friends?",
+  "answer": "Yes, I talk to two of them every week."
+ },
+ {
+  "en": "Tell me everything, I want to know!",
+  "tamil": "எல்லாத்தையும் சொல்லு, நான் தெரிஞ்சுக்கணும்!",
+  "context": "Eager to hear a friend's story.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "A strong, friendly command that shows great interest.",
+  "words": [
+   "everything"
+  ],
+  "usage": "Use it with a close friend who has some exciting news.",
+  "leelaQ": "What story do you want to hear from a friend?",
+  "answer": "I want to hear about his trip to Kerala."
+ },
+ {
+  "en": "You are doing a great job, keep going!",
+  "tamil": "நீ ரொம்ப நல்லா பண்ற, தொடர்ந்து பண்ணு!",
+  "context": "Encouraging a friend.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Keep going' means do not stop. Use it to give someone energy.",
+  "words": [
+   "great job",
+   "keep going"
+  ],
+  "usage": "Say it to a friend or junior who is working hard on something.",
+  "leelaQ": "How do you encourage a friend who is tired?",
+  "answer": "I tell my friend to keep going because he is doing well."
+ },
+ {
+  "en": "I will not be able to come today.",
+  "tamil": "என்னால இன்னைக்கு வர முடியாது.",
+  "context": "Cancelling politely.",
+  "tense": "future",
+  "type": "negative",
+  "explain": "'Will not be able to' is a polite way to say you cannot do something.",
+  "words": [
+   "able to"
+  ],
+  "usage": "Use it when you must cancel a meeting or a visit.",
+  "leelaQ": "When did you last cancel a plan?",
+  "answer": "I cancelled a visit last week because of work."
+ },
+ {
+  "en": "What do you normally do on holidays?",
+  "tamil": "நீ பொதுவா லீவு நாள்ல என்ன பண்ணுவ?",
+  "context": "Getting to know someone.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Normally' asks about habits. 'On holidays' gives the time.",
+  "words": [
+   "normally",
+   "holidays"
+  ],
+  "usage": "Use it to start a chat with a new friend or a colleague.",
+  "leelaQ": "How do you spend your free time at home?",
+  "answer": "I clean the house and meet my friends."
+ },
+ {
+  "en": "Sorry, I got stuck in traffic.",
+  "tamil": "மன்னிச்சிடு, டிராஃபிக்ல மாட்டிக்கிட்டேன்.",
+  "context": "Apologizing for being late.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Got stuck' means could not move forward. It is a very common excuse in cities.",
+  "words": [
+   "stuck",
+   "traffic"
+  ],
+  "usage": "Use it when you reach late for a meeting or a meet-up.",
+  "leelaQ": "Why were you late the last time?",
+  "answer": "I was late because the bus was very slow."
+ },
+ {
+  "en": "I will think about it and let you know.",
+  "tamil": "நான் அதைப் பத்தி யோசிச்சுட்டு சொல்றேன்.",
+  "context": "Not giving an answer immediately.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Let you know' means tell you later. It is a polite way to take time.",
+  "words": [
+   "think about",
+   "let you know"
+  ],
+  "usage": "Use it when someone invites you or asks for a decision.",
+  "leelaQ": "When do you need more time to decide?",
+  "answer": "I need more time when I buy something expensive."
+ },
+ {
+  "en": "Is everything fine at home?",
+  "tamil": "வீட்டுல எல்லாம் நல்லா இருக்கா?",
+  "context": "Checking on a friend.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Everything' takes 'is'. A caring question for a worried friend.",
+  "words": [
+   "everything",
+   "fine"
+  ],
+  "usage": "Use it when a friend seems quiet or has not called for days.",
+  "leelaQ": "What do you ask a friend who is quiet?",
+  "answer": "I ask if everything is fine and if he needs help."
+ },
+ {
+  "en": "My mother is cooking something special today.",
+  "tamil": "எங்கம்மா இன்னைக்கு ஏதோ ஸ்பெஷலா சமைச்சுக்கிட்டு இருக்காங்க.",
+  "context": "Telling a friend about home.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Is cooking' shows an action happening now. 'Something special' is a common phrase.",
+  "words": [
+   "cooking",
+   "special"
+  ],
+  "usage": "Use it when inviting a friend to come home for a meal.",
+  "leelaQ": "What is your mother cooking today?",
+  "answer": "She is making sambar and potato fry today."
+ },
+ {
+  "en": "Could you pass me the water, please?",
+  "tamil": "தண்ணி கொஞ்சம் எடுத்துக் கொடுக்க முடியுமா?",
+  "context": "Asking at the dining table.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Pass me' is used when someone is near the thing. 'Could you' is polite.",
+  "words": [
+   "pass",
+   "water"
+  ],
+  "usage": "Use it at the dining table with family or guests.",
+  "leelaQ": "What do you ask for at the dining table?",
+  "answer": "I ask for water and a little more rice."
+ },
+ {
+  "en": "We have known each other since school.",
+  "tamil": "நாங்க ஸ்கூல்ல இருந்தே ஒருத்தருக்கொருத்தர் தெரியும்.",
+  "context": "Introducing an old friend.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "Use 'since' with a starting point in the past. 'Have known' shows it continues now.",
+  "words": [
+   "known",
+   "since"
+  ],
+  "usage": "Use it when you introduce an old friend to a new person.",
+  "leelaQ": "How long have you known your best friend?",
+  "answer": "I have known my best friend for ten years."
+ },
+ {
+  "en": "It is not that hard, trust me.",
+  "tamil": "அது அவ்வளவு கஷ்டம் இல்ல, என்னை நம்பு.",
+  "context": "Encouraging someone to try.",
+  "tense": "present",
+  "type": "negative",
+  "explain": "'Not that hard' means not as hard as you think. 'Trust me' adds confidence.",
+  "words": [
+   "hard",
+   "trust"
+  ],
+  "usage": "Use it to encourage a friend who is afraid to try something.",
+  "leelaQ": "What did you think was hard but became easy?",
+  "answer": "I thought speaking English was hard, but it became easy with practice."
+ },
+ {
+  "en": "Are you coming for the walk tomorrow morning?",
+  "tamil": "நாளைக்கு காலையில வாக்கிங் வர்றியா?",
+  "context": "Inviting a neighbour for a walk.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous works for planned future events like this.",
+  "words": [
+   "walk",
+   "tomorrow"
+  ],
+  "usage": "Use it with a neighbour or a friend who walks in the morning.",
+  "leelaQ": "Do you like morning walks?",
+  "answer": "Yes, I like them because the air is fresh."
+ },
+ {
+  "en": "That reminds me of my college days.",
+  "tamil": "அது எனக்கு என் காலேஜ் நாட்களை நினைவுபடுத்துது.",
+  "context": "Remembering the past during a chat.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Remind me of' means make me remember. It is good for sharing memories.",
+  "words": [
+   "reminds",
+   "college"
+  ],
+  "usage": "Use it in a chat when a song or place brings back old memories.",
+  "leelaQ": "What do you miss about your college days?",
+  "answer": "I miss the canteen and the long chats with friends."
+ },
+ {
+  "en": "He has just left, you can catch him outside.",
+  "tamil": "அவர் இப்பதான் கிளம்பினார், வெளியே போனா பிடிச்சிடலாம்.",
+  "context": "Telling someone a person just left.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has just left' shows a very recent action. 'Catch' means reach someone in time.",
+  "words": [
+   "just left",
+   "catch"
+  ],
+  "usage": "Use it in the office when someone is looking for a colleague.",
+  "leelaQ": "What do you say if a person has just left?",
+  "answer": "I say he has just left and ask them to call him."
+ },
+ {
+  "en": "Where are you going for the holidays?",
+  "tamil": "விடுமுறைக்கு நீ எங்க போற?",
+  "context": "Asking about holiday plans.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "Present continuous can be used for planned trips.",
+  "words": [
+   "holidays"
+  ],
+  "usage": "Use it with colleagues before a long break or a festival.",
+  "leelaQ": "Where would you like to go on holiday?",
+  "answer": "I would like to go to Ooty with my family."
+ },
+ {
+  "en": "I am really enjoying this conversation.",
+  "tamil": "இந்தப் பேச்சை நான் ரொம்ப ரசிக்கிறேன்.",
+  "context": "Showing you like a chat.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Enjoy' usually takes an -ing or a noun. 'Really' makes it stronger.",
+  "words": [
+   "enjoying",
+   "conversation"
+  ],
+  "usage": "Use it with a new friend when the talk is going well.",
+  "leelaQ": "What topic do you enjoy talking about?",
+  "answer": "I enjoy talking about cricket and movies."
+ }
+]

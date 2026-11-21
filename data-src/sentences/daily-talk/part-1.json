@@ -1,0 +1,266 @@
+[
+  {
+    "en": "Good morning! Did you sleep well?",
+    "tamil": "காலை வணக்கம்! நல்லா தூங்கினீங்களா?",
+    "context": "Greeting a friend or colleague in the morning.",
+    "tense": "past",
+    "type": "question",
+    "explain": "\"Did\" shows the question is about the past, so the verb stays simple: \"sleep\".",
+    "words": [
+      "morning",
+      "sleep"
+    ],
+    "alt": {
+      "en": "Good morning! How was your sleep?",
+      "tamil": "காலை வணக்கம்! தூக்கம் எப்படி இருந்துச்சு?"
+    }
+  },
+  {
+    "en": "I'm fine, thanks. How about you?",
+    "tamil": "நான் நல்லா இருக்கேன், நன்றி. நீங்க எப்படி இருக்கீங்க?",
+    "context": "Replying when someone asks how you are.",
+    "tense": "present",
+    "type": "question",
+    "explain": "\"How about you?\" is a short, friendly way to ask the same question back.",
+    "words": [
+      "fine",
+      "thanks"
+    ]
+  },
+  {
+    "en": "It's so humid this afternoon, isn't it?",
+    "tamil": "இன்னைக்கு மத்தியானம் ரொம்ப புழுக்கமா இருக்கு, இல்லையா?",
+    "context": "Small talk with a neighbour during hot weather.",
+    "tense": "present",
+    "type": "question",
+    "explain": "A tag like \"isn't it?\" invites the other person to agree with you.",
+    "words": [
+      "humid",
+      "afternoon"
+    ]
+  },
+  {
+    "en": "Do you think it will rain this evening?",
+    "tamil": "இன்னைக்கு சாயங்காலம் மழை வரும்னு நினைக்கிறீங்களா?",
+    "context": "Asking about the weather before going out.",
+    "tense": "future",
+    "type": "question",
+    "explain": "\"Will\" talks about a guess for the future. \"Do you think\" makes the question polite.",
+    "words": [
+      "rain",
+      "evening"
+    ],
+    "alt": {
+      "en": "Will it rain this evening?",
+      "tamil": "இன்னைக்கு சாயங்காலம் மழை வருமா?"
+    }
+  },
+  {
+    "en": "Please carry an umbrella. It looks cloudy.",
+    "tamil": "தயவு செய்து குடை எடுத்துட்டு போங்க. மேகமூட்டமா இருக்கு.",
+    "context": "Advising someone before they leave home.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "\"Please\" plus a base verb makes a polite request. \"Looks cloudy\" describes what you see now.",
+    "words": [
+      "umbrella",
+      "cloudy"
+    ]
+  },
+  {
+    "en": "Are you free this Sunday evening?",
+    "tamil": "இந்த ஞாயித்துக்கிழமை சாயங்காலம் நீங்க ஃப்ரீயா?",
+    "context": "Asking a friend if they can meet.",
+    "tense": "present",
+    "type": "question",
+    "explain": "\"Are you free\" is a natural way to ask if someone has time.",
+    "words": [
+      "free",
+      "evening"
+    ]
+  },
+  {
+    "en": "I'm going to visit my grandparents on Sunday.",
+    "tamil": "நான் ஞாயிற்றுக்கிழமை தாத்தா பாட்டியைப் பார்க்கப் போறேன்.",
+    "context": "Telling someone your plan.",
+    "tense": "future",
+    "type": "statement",
+    "explain": "\"Going to\" is used for plans you have already decided.",
+    "words": [
+      "visit",
+      "grandparents"
+    ],
+    "alt": {
+      "en": "I'll visit my grandparents on Sunday.",
+      "tamil": "நான் ஞாயிற்றுக்கிழமை தாத்தா பாட்டியைப் பார்க்க வருவேன்."
+    }
+  },
+  {
+    "en": "I usually wake up at six every day.",
+    "tamil": "நான் பொதுவா தினமும் ஆறு மணிக்கு எழுந்திருப்பேன்.",
+    "context": "Describing your daily routine.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "Use the simple present with \"usually\" and \"every day\" for habits.",
+    "words": [
+      "usually",
+      "wake"
+    ]
+  },
+  {
+    "en": "I haven't had my breakfast yet.",
+    "tamil": "நான் இன்னும் காலை உணவு சாப்பிடலை.",
+    "context": "Telling someone you are still hungry in the morning.",
+    "tense": "present-perfect",
+    "type": "negative",
+    "explain": "\"Haven't ... yet\" means something has not happened until now.",
+    "words": [
+      "breakfast",
+      "yet"
+    ]
+  },
+  {
+    "en": "Could you please repeat that more slowly?",
+    "tamil": "இதை கொஞ்சம் மெதுவா மறுபடியும் சொல்ல முடியுமா?",
+    "context": "Asking someone to speak slowly.",
+    "tense": "modal",
+    "type": "request",
+    "explain": "\"Could you please\" is a soft, polite way to ask for something.",
+    "words": [
+      "repeat",
+      "slowly"
+    ]
+  },
+  {
+    "en": "I really appreciate your kind words.",
+    "tamil": "நீங்க சொன்ன நல்ல வார்த்தைகளுக்கு ரொம்ப நன்றி.",
+    "context": "Thanking someone for a compliment or support.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "\"Appreciate\" is a warm word for thanks. Use it with the thing you are grateful for.",
+    "words": [
+      "appreciate",
+      "kind"
+    ]
+  },
+  {
+    "en": "Sorry, I'm late. The bus was stuck in traffic.",
+    "tamil": "மன்னிக்கணும், நான் லேட்டா வந்துட்டேன். பஸ் டிராஃபிக்ல மாட்டிக்கிச்சு.",
+    "context": "Apologising for coming late.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "Say \"sorry\" first, then give the reason in the past tense.",
+    "words": [
+      "late",
+      "traffic"
+    ]
+  },
+  {
+    "en": "Let me introduce myself. I'm Priya from Chennai.",
+    "tamil": "என்னை அறிமுகப்படுத்திக்கறேன். நான் சென்னையில இருந்து வர்ற பிரியா.",
+    "context": "Introducing yourself to a new person.",
+    "tense": "present",
+    "type": "statement",
+    "explain": "\"Let me introduce myself\" is a polite way to start a first meeting.",
+    "words": [
+      "introduce",
+      "myself"
+    ]
+  },
+  {
+    "en": "Did you get home safely last night?",
+    "tamil": "நேத்து ராத்திரி பத்திரமா வீட்டுக்குப் போயிட்டீங்களா?",
+    "context": "Checking on a friend the next day.",
+    "tense": "past",
+    "type": "question",
+    "explain": "Use \"did\" plus a base verb to ask about the past. The verb stays \"get\", not \"got\".",
+    "words": [
+      "safely",
+      "night"
+    ]
+  },
+  {
+    "en": "Let's meet near the bus stand at five.",
+    "tamil": "ஐந்து மணிக்கு பஸ் ஸ்டாண்ட் பக்கத்துல சந்திக்கலாம்.",
+    "context": "Fixing a meeting place with a friend.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "\"Let's\" plus a base verb is a friendly way to suggest something together.",
+    "words": [
+      "meet",
+      "near"
+    ]
+  },
+  {
+    "en": "I can't come today. I have a fever.",
+    "tamil": "நான் இன்னைக்கு வர முடியாது. எனக்கு காய்ச்சல்.",
+    "context": "Telling a friend or boss you are unwell.",
+    "tense": "modal",
+    "type": "negative",
+    "explain": "\"Can't\" means you are not able to. A short reason after it sounds natural.",
+    "words": [
+      "fever",
+      "today"
+    ]
+  },
+  {
+    "en": "What time do the shops close on Sundays?",
+    "tamil": "ஞாயித்துக்கிழமை கடைங்க எத்தனை மணிக்கு மூடுவாங்க?",
+    "context": "Asking a local about timings.",
+    "tense": "present",
+    "type": "question",
+    "explain": "\"Do\" goes with plural \"shops\", and the main verb has no -s.",
+    "words": [
+      "shops",
+      "close"
+    ]
+  },
+  {
+    "en": "Excuse me, is this seat free?",
+    "tamil": "மன்னிக்கணும், இந்த சீட் காலியா இருக்கா?",
+    "context": "Asking politely in a bus, train or canteen.",
+    "tense": "present",
+    "type": "question",
+    "explain": "\"Excuse me\" gets someone's attention politely.",
+    "words": [
+      "excuse",
+      "seat"
+    ]
+  },
+  {
+    "en": "We watched a movie last night.",
+    "tamil": "நாங்க நேத்து ராத்திரி ஒரு படம் பார்த்தோம்.",
+    "context": "Telling a friend about your last evening.",
+    "tense": "past",
+    "type": "statement",
+    "explain": "\"Watched\" is the past form, and \"last night\" tells us the time.",
+    "words": [
+      "watched",
+      "movie"
+    ]
+  },
+  {
+    "en": "She is cooking dinner in the kitchen now.",
+    "tamil": "அவ இப்போ சமையலறையில இரவு சாப்பாடு சமைச்சிட்டு இருக்கா.",
+    "context": "Saying what someone is doing at the moment.",
+    "tense": "present-continuous",
+    "type": "statement",
+    "explain": "Use \"is\" plus verb-ing for something happening right now.",
+    "words": [
+      "cooking",
+      "dinner"
+    ]
+  },
+  {
+    "en": "Please remember to switch off the fan.",
+    "tamil": "ஃபேனை ஆஃப் பண்ண ஞாபகம் வச்சுக்கோங்க.",
+    "context": "Reminding someone before leaving the room.",
+    "tense": "imperative",
+    "type": "request",
+    "explain": "\"Remember to\" plus a base verb reminds a person to do something.",
+    "words": [
+      "remember",
+      "switch"
+    ]
+  }
+]

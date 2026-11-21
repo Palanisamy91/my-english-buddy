@@ -1,0 +1,352 @@
+[
+ {
+  "word": "pull through",
+  "meaning": "to recover from a serious illness or problem",
+  "tamil": "கடுமையான நோய் அல்லது சிக்கலிலிருந்து மீண்டு வா",
+  "pos": "phrasal verb",
+  "pron": "pul THROO",
+  "example": "The doctors said he will pull through.",
+  "exampleTamil": "அவர் மீண்டுவிடுவார் என்று மருத்துவர்கள் கூறினர்.",
+  "synonyms": [
+   "recover",
+   "survive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sleep through",
+  "meaning": "to keep sleeping while something happens",
+  "tamil": "ஏதோ நடக்கும்போதும் விழிக்காமல் தூங்கு",
+  "pos": "phrasal verb",
+  "pron": "sleep THROO",
+  "example": "My brother can sleep through the loudest alarm.",
+  "exampleTamil": "என் தம்பி பலத்த அலாரத்திலும் விழிக்காமல் தூங்கினான்.",
+  "synonyms": [
+   "snooze",
+   "doze"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "read through",
+  "meaning": "to read something from start to end",
+  "tamil": "ஒன்றை முதல் முதல் கடைசி வரை படி",
+  "pos": "phrasal verb",
+  "pron": "reed THROO",
+  "example": "Read through the form carefully before signing.",
+  "exampleTamil": "கையெழுத்திடும் முன் படிவத்தை முழுமையாகக் கவனமாகப் படியுங்கள்.",
+  "synonyms": [
+   "peruse",
+   "study"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "come through",
+  "meaning": "to succeed or do what was needed",
+  "tamil": "தேவையானதைச் செய்து வெற்றிபெறு",
+  "pos": "phrasal verb",
+  "pron": "kum THROO",
+  "example": "I knew you would come through for us when we needed help.",
+  "exampleTamil": "எங்களுக்குத் தேவைப்பட்டபோது உதவியதற்கு நன்றி.",
+  "synonyms": [
+   "deliver",
+   "succeed"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "push through",
+  "meaning": "to force something to be done despite difficulty",
+  "tamil": "சிரமம் இருந்தும் ஒன்றைச் செய்து முடி",
+  "pos": "phrasal verb",
+  "pron": "push THROO",
+  "example": "We must push through the work before the deadline.",
+  "exampleTamil": "காலக்கெடுவுக்கு முன் நாம் வேலையை எப்படியாவது முடிக்க வேண்டும்.",
+  "synonyms": [
+   "persevere",
+   "force"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "flip through",
+  "meaning": "to turn pages quickly without reading closely",
+  "tamil": "கவனமாகப் படிக்காமல் பக்கங்களை விரைவாகப் புரட்டு",
+  "pos": "phrasal verb",
+  "pron": "flip THROO",
+  "example": "I flipped through the magazine at the clinic.",
+  "exampleTamil": "நான் மருத்துவமனையில் பத்திரிகையைப் புரட்டிப் பார்த்தேன்.",
+  "synonyms": [
+   "browse",
+   "skim"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "walk through",
+  "meaning": "to explain steps one by one",
+  "tamil": "படிப்படியாக விளக்கிக் காட்டு",
+  "pos": "phrasal verb",
+  "pron": "wawk THROO",
+  "example": "Can you walk me through the new software?",
+  "exampleTamil": "புதிய மென்பொருளைப் படிப்படியாக எனக்கு விளக்க முடியுமா?",
+  "synonyms": [
+   "guide",
+   "explain"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "sail through",
+  "meaning": "to pass or finish something very easily",
+  "tamil": "ஒன்றை மிக எளிதாக வெற்றிகரமாக முடி",
+  "pos": "phrasal verb",
+  "pron": "sayl THROO",
+  "example": "She will sail through the interview easily.",
+  "exampleTamil": "அவள் நேர்காணலை மிக எளிதாகக் கடந்துவிடுவாள்.",
+  "synonyms": [
+   "breeze",
+   "pass"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "sit through",
+  "meaning": "to stay until the end of something boring",
+  "tamil": "சலிப்பான ஒன்றை இறுதிவரை பொறுமையாக இரு",
+  "pos": "phrasal verb",
+  "pron": "sit THROO",
+  "example": "We had to sit through a very long speech.",
+  "exampleTamil": "நாங்கள் மிக நீண்ட உரையை இறுதிவரை உட்கார்ந்து கேட்க வேண்டியிருந்தது.",
+  "synonyms": [
+   "endure",
+   "bear"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "look around",
+  "meaning": "to see what is in a place",
+  "tamil": "ஓரிடத்தில் என்ன இருக்கிறது என்று சுற்றிப் பார்",
+  "pos": "phrasal verb",
+  "pron": "luk uh-ROWND",
+  "example": "We just want to look around the shop.",
+  "exampleTamil": "நாங்கள் கடையைச் சுற்றிப் பார்க்க மட்டுமே விரும்புகிறோம்.",
+  "synonyms": [
+   "explore",
+   "browse"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "walk around",
+  "meaning": "to walk in different parts of a place",
+  "tamil": "ஓரிடத்தில் நடந்து சுற்றிவா",
+  "pos": "phrasal verb",
+  "pron": "wawk uh-ROWND",
+  "example": "I like to walk around the park after dinner.",
+  "exampleTamil": "இரவு உணவுக்குப் பிறகு பூங்காவில் நடந்து சுற்றுவது எனக்குப் பிடிக்கும்.",
+  "synonyms": [
+   "stroll",
+   "wander"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "move around",
+  "meaning": "to go from place to place",
+  "tamil": "இடம் விட்டு இடம் நகர்ந்துகொண்டிரு",
+  "pos": "phrasal verb",
+  "pron": "moov uh-ROWND",
+  "example": "It is hard to move around in this crowded hall.",
+  "exampleTamil": "இந்த நெரிசலான அரங்கில் நகர்ந்து செல்வது கடினம்.",
+  "synonyms": [
+   "roam",
+   "shift"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "hang around",
+  "meaning": "to spend time in a place doing little",
+  "tamil": "அதிகம் செய்யாமல் ஓரிடத்தில் நேரம் கழி",
+  "pos": "phrasal verb",
+  "pron": "hang uh-ROWND",
+  "example": "The boys hang around the tea shop every evening.",
+  "exampleTamil": "சிறுவர்கள் ஒவ்வொரு மாலையும் டீக்கடையைச் சுற்றித் திரிகிறார்கள்.",
+  "synonyms": [
+   "loiter",
+   "linger"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mess around",
+  "meaning": "to spend time in a silly or lazy way",
+  "tamil": "விளையாட்டுத்தனமாக நேரத்தை வீணடி",
+  "pos": "phrasal verb",
+  "pron": "mes uh-ROWND",
+  "example": "Stop messing around and finish your homework.",
+  "exampleTamil": "விளையாடுவதை நிறுத்தி உன் வீட்டுப்பாடத்தை முடி.",
+  "synonyms": [
+   "fool",
+   "idle"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "show around",
+  "meaning": "to take a visitor to see a place",
+  "tamil": "விருந்தினருக்கு இடத்தைச் சுற்றிக் காட்டு",
+  "pos": "phrasal verb",
+  "pron": "shoh uh-ROWND",
+  "example": "My friend will show you around the college.",
+  "exampleTamil": "என் நண்பன் உங்களுக்குக் கல்லூரியைச் சுற்றிக் காட்டுவான்.",
+  "synonyms": [
+   "guide",
+   "tour"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ask around",
+  "meaning": "to ask many people for information",
+  "tamil": "பலரிடம் தகவல் கேட்டு விசாரி",
+  "pos": "phrasal verb",
+  "pron": "ask uh-ROWND",
+  "example": "I will ask around and find a good mechanic.",
+  "exampleTamil": "நான் விசாரித்து ஒரு நல்ல மெக்கானிக்கைக் கண்டுபிடிப்பேன்.",
+  "synonyms": [
+   "enquire",
+   "inquire"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shop around",
+  "meaning": "to compare prices in different shops",
+  "tamil": "பல கடைகளில் விலையை ஒப்பிட்டுப் பார்",
+  "pos": "phrasal verb",
+  "pron": "shop uh-ROWND",
+  "example": "It is wise to shop around before buying a phone.",
+  "exampleTamil": "போன் வாங்கும் முன் பல கடைகளில் பார்ப்பது புத்திசாலித்தனம்.",
+  "synonyms": [
+   "compare",
+   "browse"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "play around",
+  "meaning": "to do something just for fun",
+  "tamil": "வேடிக்கைக்காக ஏதாவது செய்து பார்",
+  "pos": "phrasal verb",
+  "pron": "play uh-ROWND",
+  "example": "I was just playing around with the camera settings.",
+  "exampleTamil": "நான் கேமரா அமைப்புகளுடன் சும்மா விளையாடிக்கொண்டிருந்தேன்.",
+  "synonyms": [
+   "fiddle",
+   "tinker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "come around",
+  "meaning": "to visit someone's home",
+  "tamil": "ஒருவர் வீட்டிற்கு வருகை தா",
+  "pos": "phrasal verb",
+  "pron": "kum uh-ROWND",
+  "example": "Come around to our house on Sunday.",
+  "exampleTamil": "ஞாயிற்றுக்கிழமை எங்கள் வீட்டிற்கு வாருங்கள்.",
+  "synonyms": [
+   "visit",
+   "drop by"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stick around",
+  "meaning": "to stay in a place a bit longer",
+  "tamil": "ஓரிடத்தில் இன்னும் சிறிது நேரம் இரு",
+  "pos": "phrasal verb",
+  "pron": "stik uh-ROWND",
+  "example": "Can you stick around until the meeting ends?",
+  "exampleTamil": "கூட்டம் முடியும் வரை நீங்கள் இருக்க முடியுமா?",
+  "synonyms": [
+   "stay",
+   "linger"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pass around",
+  "meaning": "to give something from one person to the next",
+  "tamil": "ஒருவரிடமிருந்து மற்றொருவருக்குக் கைமாற்றிக் கொடு",
+  "pos": "phrasal verb",
+  "pron": "pas uh-ROWND",
+  "example": "Please pass around the sweets to everyone.",
+  "exampleTamil": "தயவுசெய்து இனிப்புகளை எல்லோருக்கும் கொடுத்துச் செல்லுங்கள்.",
+  "synonyms": [
+   "share",
+   "distribute"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "go around",
+  "meaning": "to move in a circle or visit different places",
+  "tamil": "சுற்றிச்செல் அல்லது பல இடங்களுக்குச் செல்",
+  "pos": "phrasal verb",
+  "pron": "goh uh-ROWND",
+  "example": "The fan goes around very slowly.",
+  "exampleTamil": "மின்விசிறி மிக மெதுவாகச் சுற்றுகிறது.",
+  "synonyms": [
+   "spin",
+   "circle"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "come along",
+  "meaning": "to go somewhere with someone",
+  "tamil": "ஒருவருடன் சேர்ந்து வா",
+  "pos": "phrasal verb",
+  "pron": "kum uh-LONG",
+  "example": "Come along with us to the temple.",
+  "exampleTamil": "எங்களுடன் கோயிலுக்கு வாருங்கள்.",
+  "synonyms": [
+   "accompany",
+   "join"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "go along",
+  "meaning": "to agree to or accept a plan",
+  "tamil": "ஒரு திட்டத்திற்கு ஒத்துக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "goh uh-LONG",
+  "example": "I will go along with whatever you decide.",
+  "exampleTamil": "நீங்கள் எது முடிவு செய்தாலும் நான் ஒத்துக்கொள்வேன்.",
+  "synonyms": [
+   "agree",
+   "accept"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "play along",
+  "meaning": "to pretend to agree to something",
+  "tamil": "ஒப்புக்கொள்வது போல நடி",
+  "pos": "phrasal verb",
+  "pron": "play uh-LONG",
+  "example": "Just play along until we find out the truth.",
+  "exampleTamil": "உண்மையைக் கண்டுபிடிக்கும் வரை ஒத்துழைப்பது போல நடியுங்கள்.",
+  "synonyms": [
+   "cooperate",
+   "pretend"
+  ],
+  "level": "advanced"
+ }
+]

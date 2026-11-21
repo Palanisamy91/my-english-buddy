@@ -1,0 +1,798 @@
+[
+ {
+  "word": "performance",
+  "tamil": "செயல்திறன்",
+  "pos": "noun",
+  "pron": "per-FOR-muns",
+  "example": "Your performance this year has been excellent.",
+  "exampleTamil": "இந்த ஆண்டு உங்கள் செயல்திறன் மிகச் சிறப்பாக இருந்தது.",
+  "synonyms": [
+   "results",
+   "output"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "appraisal",
+  "tamil": "செயல்திறன் மதிப்பாய்வு",
+  "pos": "noun",
+  "pron": "uh-PRAY-zul",
+  "example": "My annual appraisal is scheduled for next week.",
+  "exampleTamil": "என் ஆண்டு செயல்திறன் மதிப்பாய்வு அடுத்த வாரம் நடக்கிறது.",
+  "synonyms": [
+   "review",
+   "assessment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "feedback",
+  "tamil": "கருத்துகள், பின்னூட்டம்",
+  "pos": "noun",
+  "pron": "FEED-bak",
+  "example": "I really appreciate your honest feedback on my work.",
+  "exampleTamil": "என் வேலை பற்றிய உங்கள் நேர்மையான கருத்துக்கு நன்றி.",
+  "synonyms": [
+   "comments",
+   "response"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "criticism",
+  "tamil": "விமர்சனம்",
+  "pos": "noun",
+  "pron": "KRIT-ih-siz-um",
+  "example": "He took the criticism calmly and made changes.",
+  "exampleTamil": "அவர் விமர்சனத்தை அமைதியாக ஏற்றுக்கொண்டு மாற்றங்கள் செய்தார்.",
+  "synonyms": [
+   "disapproval",
+   "critique"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "praise",
+  "tamil": "பாராட்டு",
+  "pos": "noun",
+  "pron": "PRAYZ",
+  "example": "The team received a lot of praise from the client.",
+  "exampleTamil": "குழுவுக்கு வாடிக்கையாளரிடமிருந்து நிறைய பாராட்டு கிடைத்தது.",
+  "synonyms": [
+   "applause",
+   "approval"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "compliment",
+  "tamil": "பாராட்டு வார்த்தை",
+  "pos": "noun",
+  "pron": "KOM-pluh-ment",
+  "example": "She gave me a nice compliment on my report.",
+  "exampleTamil": "என் அறிக்கையைப் பற்றி அவர் எனக்கு ஒரு நல்ல பாராட்டு தெரிவித்தார்.",
+  "synonyms": [
+   "praise",
+   "kind word"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "recognition",
+  "tamil": "அங்கீகாரம்",
+  "pos": "noun",
+  "pron": "rek-ig-NISH-un",
+  "example": "Good work deserves recognition from the management.",
+  "exampleTamil": "நல்ல வேலைக்கு நிர்வாகத்திடமிருந்து அங்கீகாரம் கிடைக்க வேண்டும்.",
+  "synonyms": [
+   "acknowledgement",
+   "credit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "reward",
+  "tamil": "வெகுமதி",
+  "pos": "noun",
+  "pron": "rih-WORD",
+  "example": "The company gave her a reward for her hard work.",
+  "exampleTamil": "அவரது கடின உழைப்புக்கு நிறுவனம் அவருக்கு வெகுமதி அளித்தது.",
+  "synonyms": [
+   "prize",
+   "recompense"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "incentive",
+  "tamil": "ஊக்கத்தொகை",
+  "pos": "noun",
+  "pron": "in-SEN-tiv",
+  "example": "Sales staff get a cash incentive for meeting targets.",
+  "exampleTamil": "இலக்கை எட்டும் விற்பனை ஊழியர்களுக்கு ரொக்க ஊக்கத்தொகை கிடைக்கும்.",
+  "synonyms": [
+   "motivation",
+   "perk",
+   "bonus"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "achievement",
+  "tamil": "சாதனை",
+  "pos": "noun",
+  "pron": "uh-CHEEV-ment",
+  "example": "Finishing the project early was a great achievement.",
+  "exampleTamil": "திட்டத்தை முன்கூட்டியே முடித்தது ஒரு பெரிய சாதனை.",
+  "synonyms": [
+   "accomplishment",
+   "success"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "warning",
+  "tamil": "எச்சரிக்கை",
+  "pos": "noun",
+  "pron": "WOR-ning",
+  "example": "He received a written warning for coming late repeatedly.",
+  "exampleTamil": "தொடர்ந்து தாமதமாக வந்ததற்காக அவருக்கு எழுத்துமூல எச்சரிக்கை கிடைத்தது.",
+  "synonyms": [
+   "caution",
+   "alert"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "disciplinary",
+  "tamil": "ஒழுங்கு நடவடிக்கை சார்ந்த",
+  "pos": "adjective",
+  "pron": "DIS-uh-plin-air-ee",
+  "example": "The company took disciplinary action against him.",
+  "exampleTamil": "நிறுவனம் அவர் மீது ஒழுங்கு நடவடிக்கை எடுத்தது.",
+  "synonyms": [
+   "corrective",
+   "punitive"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "misconduct",
+  "tamil": "தவறான நடத்தை",
+  "pos": "noun",
+  "pron": "mis-KON-dukt",
+  "example": "He was dismissed for serious misconduct.",
+  "exampleTamil": "கடுமையான தவறான நடத்தைக்காக அவர் பணிநீக்கம் செய்யப்பட்டார்.",
+  "synonyms": [
+   "wrongdoing",
+   "bad behaviour"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "grievance",
+  "tamil": "குறை, முறையீடு",
+  "pos": "noun",
+  "pron": "GREE-vuns",
+  "example": "She filed a grievance with the HR department.",
+  "exampleTamil": "அவர் மனிதவளத் துறையிடம் ஒரு குறை முறையீடு செய்தார்.",
+  "synonyms": [
+   "complaint",
+   "objection"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dispute",
+  "tamil": "தகராறு",
+  "pos": "noun",
+  "pron": "dis-PYOOT",
+  "example": "There was a dispute over who should lead the project.",
+  "exampleTamil": "திட்டத்தை யார் வழிநடத்துவது என்பதில் ஒரு தகராறு ஏற்பட்டது.",
+  "synonyms": [
+   "disagreement",
+   "quarrel"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "conflict",
+  "tamil": "மோதல், முரண்பாடு",
+  "pos": "noun",
+  "pron": "KON-flikt",
+  "example": "Conflict between teammates can slow down the work.",
+  "exampleTamil": "சக ஊழியர்களுக்கிடையேயான மோதல் வேலையை மெதுவாக்கும்.",
+  "synonyms": [
+   "clash",
+   "friction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "misunderstanding",
+  "tamil": "தவறான புரிதல்",
+  "pos": "noun",
+  "pron": "mis-un-der-STAN-ding",
+  "example": "It was just a misunderstanding about the deadline.",
+  "exampleTamil": "அது கெடு தேதி பற்றிய ஒரு தவறான புரிதல் மட்டுமே.",
+  "synonyms": [
+   "mix-up",
+   "confusion"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "resolve",
+  "tamil": "தீர்வு காண்",
+  "pos": "verb",
+  "pron": "rih-ZOLV",
+  "example": "We resolved the issue before it became serious.",
+  "exampleTamil": "பிரச்சினை தீவிரமாகும் முன்பே நாங்கள் தீர்வு கண்டோம்.",
+  "synonyms": [
+   "settle",
+   "fix",
+   "sort out"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "mediate",
+  "tamil": "நடுவராக இருந்து சமரசம் செய்",
+  "pos": "verb",
+  "pron": "MEE-dee-ayt",
+  "example": "The HR manager tried to mediate between the two colleagues.",
+  "exampleTamil": "மனிதவள மேலாளர் அந்த இரு சக ஊழியர்களுக்கிடையே சமரசம் செய்ய முயன்றார்.",
+  "synonyms": [
+   "arbitrate",
+   "intervene"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "compromise",
+  "tamil": "இரு தரப்பும் விட்டுக்கொடுத்தல்",
+  "pos": "noun",
+  "pron": "KOM-pruh-myz",
+  "example": "We reached a compromise on the working hours.",
+  "exampleTamil": "வேலை நேரம் குறித்து நாங்கள் ஒரு சமரசத்துக்கு வந்தோம்.",
+  "synonyms": [
+   "middle ground",
+   "settlement"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "blame",
+  "tamil": "பழி சுமத்து",
+  "pos": "verb",
+  "pron": "BLAYM",
+  "example": "Don't blame others for a mistake you made.",
+  "exampleTamil": "நீங்கள் செய்த தவறுக்கு மற்றவர்கள் மீது பழி போடாதீர்கள்.",
+  "synonyms": [
+   "accuse",
+   "fault"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gossip",
+  "tamil": "வம்பு பேச்சு",
+  "pos": "noun",
+  "pron": "GOS-ip",
+  "example": "Office gossip can hurt people and spoil the mood.",
+  "exampleTamil": "அலுவலக வம்புப் பேச்சு மக்களைப் புண்படுத்தி சூழலைக் கெடுக்கும்.",
+  "synonyms": [
+   "rumour",
+   "chatter"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "harassment",
+  "tamil": "தொல்லை, துன்புறுத்தல்",
+  "pos": "noun",
+  "pron": "huh-RAS-ment",
+  "example": "The company has a strict policy against harassment.",
+  "exampleTamil": "துன்புறுத்தலுக்கு எதிராக நிறுவனத்தில் கடுமையான கொள்கை உள்ளது.",
+  "synonyms": [
+   "intimidation",
+   "bullying"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "bullying",
+  "tamil": "மிரட்டி அச்சுறுத்துதல்",
+  "pos": "noun",
+  "pron": "BUL-ee-ing",
+  "example": "Bullying at work is never acceptable.",
+  "exampleTamil": "வேலையிடத்தில் மிரட்டுவது எப்போதும் ஏற்கத்தக்கதல்ல.",
+  "synonyms": [
+   "intimidation",
+   "harassment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "respect",
+  "tamil": "மரியாதை",
+  "pos": "noun",
+  "pron": "rih-SPEKT",
+  "example": "Good managers treat everyone with respect.",
+  "exampleTamil": "நல்ல மேலாளர்கள் எல்லோரையும் மரியாதையுடன் நடத்துவார்கள்.",
+  "synonyms": [
+   "regard",
+   "courtesy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cooperate",
+  "tamil": "ஒத்துழை",
+  "pos": "verb",
+  "pron": "koh-OP-uh-rayt",
+  "example": "All departments must cooperate to finish on time.",
+  "exampleTamil": "நேரத்தில் முடிக்க எல்லாத் துறைகளும் ஒத்துழைக்க வேண்டும்.",
+  "synonyms": [
+   "work together",
+   "collaborate"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "collaborate",
+  "tamil": "இணைந்து பணியாற்று",
+  "pos": "verb",
+  "pron": "kuh-LAB-uh-rayt",
+  "example": "Our design and sales teams collaborate closely.",
+  "exampleTamil": "எங்கள் வடிவமைப்பு மற்றும் விற்பனைக் குழுக்கள் நெருக்கமாக இணைந்து பணியாற்றுகின்றன.",
+  "synonyms": [
+   "cooperate",
+   "partner"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "teamwork",
+  "tamil": "குழுப்பணி",
+  "pos": "noun",
+  "pron": "TEEM-werk",
+  "example": "Good teamwork made the project a success.",
+  "exampleTamil": "நல்ல குழுப்பணி திட்டத்தை வெற்றிகரமாக்கியது.",
+  "synonyms": [
+   "cooperation",
+   "collaboration"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "rivalry",
+  "tamil": "போட்டி மனப்பான்மை",
+  "pos": "noun",
+  "pron": "RY-vul-ree",
+  "example": "There is a friendly rivalry between the two branches.",
+  "exampleTamil": "இரு கிளைகளுக்கிடையே நட்பான போட்டி இருக்கிறது.",
+  "synonyms": [
+   "competition",
+   "contest"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "favouritism",
+  "tamil": "பாரபட்சம், ஒருதலைச் சார்பு",
+  "pos": "noun",
+  "pron": "FAY-ver-it-iz-um",
+  "example": "Employees complained about favouritism in promotions.",
+  "exampleTamil": "பதவி உயர்வுகளில் ஒருதலைச் சார்பு இருப்பதாக ஊழியர்கள் புகார் செய்தனர்.",
+  "synonyms": [
+   "bias",
+   "partiality"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "workshop",
+  "tamil": "பயிற்சிப் பட்டறை",
+  "pos": "noun",
+  "pron": "WERK-shop",
+  "example": "We attended a workshop on time management.",
+  "exampleTamil": "நேர மேலாண்மை பற்றிய ஒரு பயிற்சிப் பட்டறையில் கலந்துகொண்டோம்.",
+  "synonyms": [
+   "training session",
+   "class"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "seminar",
+  "tamil": "கருத்தரங்கு",
+  "pos": "noun",
+  "pron": "SEM-ih-nar",
+  "example": "The seminar on communication starts at ten.",
+  "exampleTamil": "தகவல் தொடர்பு பற்றிய கருத்தரங்கு பத்து மணிக்குத் தொடங்குகிறது.",
+  "synonyms": [
+   "conference",
+   "talk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "training",
+  "tamil": "பயிற்சி",
+  "pos": "noun",
+  "pron": "TRAY-ning",
+  "example": "New staff receive two weeks of training.",
+  "exampleTamil": "புதிய ஊழியர்களுக்கு இரண்டு வாரப் பயிற்சி அளிக்கப்படும்.",
+  "synonyms": [
+   "coaching",
+   "instruction"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "trainer",
+  "tamil": "பயிற்சியாளர்",
+  "pos": "noun",
+  "pron": "TRAY-ner",
+  "example": "The trainer explained everything with simple examples.",
+  "exampleTamil": "பயிற்சியாளர் எல்லாவற்றையும் எளிய எடுத்துக்காட்டுகளுடன் விளக்கினார்.",
+  "synonyms": [
+   "instructor",
+   "coach"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "orientation",
+  "tamil": "புதியவர்களுக்கான அறிமுக நிகழ்ச்சி",
+  "pos": "noun",
+  "pron": "or-ee-en-TAY-shun",
+  "example": "Orientation for new joiners is held every Monday.",
+  "exampleTamil": "புதிதாகச் சேர்ந்தவர்களுக்கான அறிமுக நிகழ்ச்சி ஒவ்வொரு திங்களும் நடக்கும்.",
+  "synonyms": [
+   "induction",
+   "introduction"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "coaching",
+  "tamil": "தனிப்பட்ட வழிகாட்டிப் பயிற்சி",
+  "pos": "noun",
+  "pron": "KOH-ching",
+  "example": "Regular coaching helped him become a better leader.",
+  "exampleTamil": "தொடர்ச்சியான வழிகாட்டுதல் அவரை ஒரு சிறந்த தலைவராக்கியது.",
+  "synonyms": [
+   "guidance",
+   "mentoring"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "handbook",
+  "tamil": "ஊழியர் கையேடு",
+  "pos": "noun",
+  "pron": "HAND-buk",
+  "example": "Read the employee handbook for the leave rules.",
+  "exampleTamil": "விடுப்பு விதிகளுக்கு ஊழியர் கையேட்டைப் படியுங்கள்.",
+  "synonyms": [
+   "guidebook",
+   "manual"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "client",
+  "tamil": "வாடிக்கையாளர் (நிறுவனம்)",
+  "pos": "noun",
+  "pron": "KLY-ent",
+  "example": "Our client wants the work finished by Friday.",
+  "exampleTamil": "எங்கள் வாடிக்கையாளர் வெள்ளிக்குள் வேலை முடிய வேண்டும் என்கிறார்.",
+  "synonyms": [
+   "customer",
+   "buyer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "customer",
+  "tamil": "வாடிக்கையாளர்",
+  "pos": "noun",
+  "pron": "KUS-tuh-mer",
+  "example": "The customer was unhappy with the late delivery.",
+  "exampleTamil": "தாமதமான விநியோகத்தால் வாடிக்கையாளர் அதிருப்தி அடைந்தார்.",
+  "synonyms": [
+   "buyer",
+   "shopper",
+   "client"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "vendor",
+  "tamil": "விற்பனையாளர், சேவை வழங்குநர்",
+  "pos": "noun",
+  "pron": "VEN-der",
+  "example": "We are changing our vendor for office furniture.",
+  "exampleTamil": "அலுவலக மரச்சாமான்களுக்கான விற்பனையாளரை நாங்கள் மாற்றுகிறோம்.",
+  "synonyms": [
+   "seller",
+   "dealer"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "supplier",
+  "tamil": "பொருள் வழங்குபவர்",
+  "pos": "noun",
+  "pron": "suh-PLY-er",
+  "example": "The supplier promised to send the goods tomorrow.",
+  "exampleTamil": "பொருட்களை நாளை அனுப்புவதாக விநியோகஸ்தர் உறுதி கூறினார்.",
+  "synonyms": [
+   "provider",
+   "distributor"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "partner",
+  "tamil": "கூட்டாளி",
+  "pos": "noun",
+  "pron": "PART-ner",
+  "example": "She became a partner in the firm last year.",
+  "exampleTamil": "கடந்த ஆண்டு அவர் நிறுவனத்தில் கூட்டாளியானார்.",
+  "synonyms": [
+   "associate",
+   "ally"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stakeholder",
+  "tamil": "திட்டத்தில் நலன் உள்ளவர்",
+  "pos": "noun",
+  "pron": "STAYK-hohl-der",
+  "example": "Every stakeholder should be informed about the change.",
+  "exampleTamil": "மாற்றம் பற்றி ஒவ்வொரு தொடர்புடையவருக்கும் தெரிவிக்க வேண்டும்.",
+  "synonyms": [
+   "interested party",
+   "investor"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "satisfaction",
+  "tamil": "திருப்தி",
+  "pos": "noun",
+  "pron": "sat-iss-FAK-shun",
+  "example": "Customer satisfaction is our top priority.",
+  "exampleTamil": "வாடிக்கையாளர் திருப்தியே எங்கள் முதன்மை நோக்கம்.",
+  "synonyms": [
+   "contentment",
+   "approval"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "retain",
+  "tamil": "தக்கவைத்துக்கொள்",
+  "pos": "verb",
+  "pron": "rih-TAYN",
+  "example": "It is cheaper to retain a customer than find a new one.",
+  "exampleTamil": "புதிய வாடிக்கையாளரைத் தேடுவதை விட இருப்பவரைத் தக்கவைப்பது மலிவு.",
+  "synonyms": [
+   "keep",
+   "hold on to"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "escalate",
+  "tamil": "உயர் அதிகாரியிடம் கொண்டு செல்",
+  "pos": "verb",
+  "pron": "ES-kuh-layt",
+  "example": "If it is not solved today, escalate it to the manager.",
+  "exampleTamil": "இன்று தீராவிட்டால் மேலாளரிடம் கொண்டு செல்லுங்கள்.",
+  "synonyms": [
+   "refer upward",
+   "intensify"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "resolution",
+  "tamil": "தீர்வு",
+  "pos": "noun",
+  "pron": "rez-uh-LOO-shun",
+  "example": "We want a quick resolution to this complaint.",
+  "exampleTamil": "இந்தப் புகாருக்கு விரைவான தீர்வை நாங்கள் விரும்புகிறோம்.",
+  "synonyms": [
+   "solution",
+   "settlement"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "schedule",
+  "tamil": "கால அட்டவணை",
+  "pos": "noun",
+  "pron": "SKED-jool",
+  "example": "My schedule is full until the end of the week.",
+  "exampleTamil": "என் கால அட்டவணை வாரக் கடைசி வரை நிரம்பியுள்ளது.",
+  "synonyms": [
+   "timetable",
+   "calendar"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "strategy",
+  "tamil": "உத்தி",
+  "pos": "noun",
+  "pron": "STRAT-uh-jee",
+  "example": "We need a new strategy to reach more customers.",
+  "exampleTamil": "அதிக வாடிக்கையாளர்களைச் சென்றடைய நமக்குப் புதிய உத்தி தேவை.",
+  "synonyms": [
+   "plan",
+   "approach"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "scope",
+  "tamil": "பணியின் வரம்பு",
+  "pos": "noun",
+  "pron": "SKOHP",
+  "example": "This request is outside the scope of our contract.",
+  "exampleTamil": "இந்தக் கோரிக்கை எங்கள் ஒப்பந்தத்தின் வரம்புக்கு வெளியே உள்ளது.",
+  "synonyms": [
+   "extent",
+   "range"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "resource",
+  "tamil": "வளம், ஆதாரம்",
+  "pos": "noun",
+  "pron": "REE-sorss",
+  "example": "We do not have enough resources for this project.",
+  "exampleTamil": "இந்தத் திட்டத்துக்குப் போதுமான வளங்கள் எங்களிடம் இல்லை.",
+  "synonyms": [
+   "asset",
+   "supply"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "risk",
+  "tamil": "ஆபத்து, இடர்",
+  "pos": "noun",
+  "pron": "RISK",
+  "example": "Delaying the order is a big risk for us.",
+  "exampleTamil": "ஆர்டரைத் தாமதப்படுத்துவது எங்களுக்குப் பெரிய இடர்.",
+  "synonyms": [
+   "danger",
+   "threat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "phase",
+  "tamil": "கட்டம்",
+  "pos": "noun",
+  "pron": "FAYZ",
+  "example": "The first phase of the plan ends in March.",
+  "exampleTamil": "திட்டத்தின் முதல் கட்டம் மார்ச்சில் முடிகிறது.",
+  "synonyms": [
+   "stage",
+   "step"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "launch",
+  "tamil": "அறிமுகப்படுத்து",
+  "pos": "verb",
+  "pron": "LAWNCH",
+  "example": "The company will launch its new service next month.",
+  "exampleTamil": "நிறுவனம் அடுத்த மாதம் தனது புதிய சேவையை அறிமுகப்படுத்தும்.",
+  "synonyms": [
+   "introduce",
+   "release"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "take over",
+  "tamil": "பொறுப்பை ஏற்றுக்கொள்",
+  "pos": "phrasal verb",
+  "pron": "TAYK-OH-ver",
+  "example": "Priya will take over my work while I am away.",
+  "exampleTamil": "நான் இல்லாதபோது பிரியா என் வேலையைப் பொறுப்பேற்பார்.",
+  "synonyms": [
+   "assume control",
+   "replace"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hand over",
+  "tamil": "பொறுப்பை ஒப்படை",
+  "pos": "phrasal verb",
+  "pron": "HAND-OH-ver",
+  "example": "I need to hand over my files before leaving.",
+  "exampleTamil": "புறப்படுவதற்கு முன் நான் என் கோப்புகளை ஒப்படைக்க வேண்டும்.",
+  "synonyms": [
+   "transfer",
+   "pass on"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "deal with",
+  "tamil": "சமாளி, கையாள்",
+  "pos": "phrasal verb",
+  "pron": "DEEL-with",
+  "example": "She is good at dealing with difficult customers.",
+  "exampleTamil": "கடினமான வாடிக்கையாளர்களைச் சமாளிப்பதில் அவர் திறமையானவர்.",
+  "synonyms": [
+   "handle",
+   "manage"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "step down",
+  "tamil": "பதவியிலிருந்து விலகு",
+  "pos": "phrasal verb",
+  "pron": "STEP-DOWN",
+  "example": "The chairman will step down at the end of the year.",
+  "exampleTamil": "தலைவர் ஆண்டு இறுதியில் பதவியிலிருந்து விலகுவார்.",
+  "synonyms": [
+   "resign",
+   "quit"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "fall behind",
+  "tamil": "பின்தங்கு",
+  "pos": "phrasal verb",
+  "pron": "FAWL-bih-HYND",
+  "example": "We will fall behind schedule if the delay continues.",
+  "exampleTamil": "தாமதம் தொடர்ந்தால் நாங்கள் அட்டவணையைவிடப் பின்தங்கிவிடுவோம்.",
+  "synonyms": [
+   "lag",
+   "trail"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stay on track",
+  "tamil": "திட்டப்படி தொடர்ந்து செல்",
+  "pos": "phrase",
+  "pron": "STAY-on-TRAK",
+  "example": "A weekly checklist helps us stay on track.",
+  "exampleTamil": "வாராந்திரச் சரிபார்ப்புப் பட்டியல் திட்டப்படி செல்ல எங்களுக்கு உதவுகிறது.",
+  "synonyms": [
+   "keep pace",
+   "stay focused"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "call in sick",
+  "tamil": "உடல்நலக் குறைவு என்று தெரிவி",
+  "pos": "phrase",
+  "pron": "KAWL-in-SIK",
+  "example": "He called in sick this morning with a fever.",
+  "exampleTamil": "காய்ச்சல் காரணமாக அவர் இன்று காலை உடல்நலக் குறைவு என்று தெரிவித்தார்.",
+  "synonyms": [
+   "report sick",
+   "take sick leave"
+  ],
+  "level": "intermediate"
+ }
+]

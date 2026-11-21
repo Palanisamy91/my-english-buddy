@@ -1,0 +1,368 @@
+[
+ {
+  "en": "Keep in touch, okay?",
+  "tamil": "தொடர்புல இரு, சரியா?",
+  "context": "Saying goodbye to a friend.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Keep in touch' means stay connected. 'Okay?' asks for a promise.",
+  "words": [
+   "keep in touch"
+  ],
+  "usage": "Use it when you say goodbye to a friend who is going far away.",
+  "leelaQ": "How do you keep in touch with far away friends?",
+  "answer": "I send messages and call them on weekends."
+ },
+ {
+  "en": "Me too, I feel exactly the same way.",
+  "tamil": "எனக்கும் அதேதான், நானும் அப்படியே உணர்றேன்.",
+  "context": "Agreeing with someone's feeling.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Me too' is a short way to say you share a feeling.",
+  "words": [
+   "feel",
+   "same"
+  ],
+  "usage": "Use it when a friend shares a feeling that you also have.",
+  "leelaQ": "What do you feel before an exam or an interview?",
+  "answer": "I feel nervous before every exam, like my friends."
+ },
+ {
+  "en": "I could not sleep well last night.",
+  "tamil": "நேத்து ராத்திரி எனக்கு நல்லா தூக்கம் வரல.",
+  "context": "Sharing a small problem.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Could not' is the past of 'cannot'. 'Well' tells how you slept.",
+  "words": [
+   "sleep"
+  ],
+  "usage": "Use it when a friend asks why you look tired.",
+  "leelaQ": "How did you sleep last night?",
+  "answer": "I slept well, and I woke up fresh."
+ },
+ {
+  "en": "How did you learn to cook so well?",
+  "tamil": "நீ இவ்வளவு நல்லா சமைக்க எப்படி கத்துக்கிட்ட?",
+  "context": "Praising someone's cooking.",
+  "tense": "past",
+  "type": "question",
+  "explain": "This question works like a compliment. 'So well' shows you are impressed.",
+  "words": [
+   "cook"
+  ],
+  "usage": "Use it when you enjoy food made by a friend or a relative.",
+  "leelaQ": "Who taught you to cook?",
+  "answer": "My grandmother taught me to cook."
+ },
+ {
+  "en": "I usually walk in the park every evening.",
+  "tamil": "நான் பொதுவா தினமும் சாயங்காலம் பார்க்ல நடப்பேன்.",
+  "context": "Describing a daily habit.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Usually' goes before the main verb. Present simple is used for habits.",
+  "words": [
+   "usually",
+   "walk"
+  ],
+  "usage": "Use it when a neighbour asks about your daily routine.",
+  "leelaQ": "What do you do every evening?",
+  "answer": "I walk in the park and then watch some TV."
+ },
+ {
+  "en": "We are planning a small get-together at home.",
+  "tamil": "நாங்க வீட்டுல ஒரு சின்ன கெட்-டுகெதர் பிளான் பண்ணிக்கிட்டு இருக்கோம்.",
+  "context": "Inviting a neighbour to a gathering.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous can talk about plans for the near future.",
+  "words": [
+   "planning",
+   "get-together"
+  ],
+  "usage": "Use it when you want to invite friends or neighbours to your home.",
+  "leelaQ": "Do you like small get-togethers?",
+  "answer": "Yes, I like them because we can talk freely."
+ },
+ {
+  "en": "Have you seen my keys anywhere?",
+  "tamil": "என் சாவியை எங்கயாவது பார்த்தியா?",
+  "context": "Looking for something at home.",
+  "tense": "present-perfect",
+  "type": "question",
+  "explain": "'Have you seen' asks about something you cannot find.",
+  "words": [
+   "keys",
+   "anywhere"
+  ],
+  "usage": "Use it at home or the office when you cannot find your things.",
+  "leelaQ": "Do you often lose your things?",
+  "answer": "Yes, I often lose my keys and my glasses."
+ },
+ {
+  "en": "That was a close one, thank God!",
+  "tamil": "அது கொஞ்சத்துல தப்பிச்சோம், கடவுளுக்கு நன்றி!",
+  "context": "Reacting after a narrow escape.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'A close one' means something almost went wrong. It is a common spoken phrase.",
+  "words": [
+   "close one"
+  ],
+  "usage": "Say it after missing an accident or almost missing a train.",
+  "leelaQ": "When did you have a close one?",
+  "answer": "I almost missed my train last week, but I caught it."
+ },
+ {
+  "en": "Why don't you join us for dinner?",
+  "tamil": "நீயும் எங்கக்கூட சாப்பிட வரலாமே?",
+  "context": "Inviting someone politely.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Why don't you' is a friendly way to invite or suggest something.",
+  "words": [
+   "join",
+   "dinner"
+  ],
+  "usage": "Use it when a friend or colleague is nearby at dinner time.",
+  "leelaQ": "Who do you invite for dinner at home?",
+  "answer": "I invite my cousins and close friends."
+ },
+ {
+  "en": "I will be there on time, don't worry.",
+  "tamil": "நான் சரியான நேரத்துக்கு அங்க இருப்பேன், கவலைப்படாத.",
+  "context": "Reassuring a friend about time.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'On time' means at the correct time. 'Don't worry' makes the promise friendly.",
+  "words": [
+   "on time",
+   "worry"
+  ],
+  "usage": "Use it when a friend is afraid you will be late for an event.",
+  "leelaQ": "Are you usually on time for meetings?",
+  "answer": "Yes, I usually reach ten minutes early."
+ },
+ {
+  "en": "Good luck for your exam tomorrow, you will do well.",
+  "tamil": "நாளைக்கு உன் பரீட்சைக்கு வாழ்த்துகள், நீ நல்லா பண்ணுவ.",
+  "context": "Wishing a friend before an exam.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Good luck for' wishes success. 'You will do well' gives confidence.",
+  "words": [
+   "good luck",
+   "exam"
+  ],
+  "usage": "Say it to a friend or cousin before an exam or an interview.",
+  "leelaQ": "What do you say to a friend before an exam?",
+  "answer": "I say good luck and tell him not to worry."
+ },
+ {
+  "en": "Is there anything new with you?",
+  "tamil": "உன்கிட்ட ஏதாவது புதுசா இருக்கா?",
+  "context": "Catching up with a friend.",
+  "tense": "present",
+  "type": "question",
+  "explain": "A casual way to ask for news from a friend you have not met lately.",
+  "words": [
+   "anything new"
+  ],
+  "usage": "Use it in a chat with an old friend when you want updates.",
+  "leelaQ": "Is there anything new in your life?",
+  "answer": "Yes, I started learning English every day."
+ },
+ {
+  "en": "I really liked the way you explained it.",
+  "tamil": "நீ விளக்கின விதம் எனக்கு ரொம்பப் பிடிச்சது.",
+  "context": "Complimenting someone.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'The way you explained it' is a natural way to praise how someone speaks.",
+  "words": [
+   "explained"
+  ],
+  "usage": "Use it with a teacher, friend or colleague after a good explanation.",
+  "leelaQ": "Who explains things well to you?",
+  "answer": "My brother explains maths very well to me."
+ },
+ {
+  "en": "My brother says hello to you.",
+  "tamil": "என் தம்பி உனக்கு ஹலோ சொன்னான்.",
+  "context": "Passing on greetings.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Says hello' means he wants you to know he remembers you.",
+  "words": [
+   "brother",
+   "hello"
+  ],
+  "usage": "Use it when you meet a friend and pass on greetings from family.",
+  "leelaQ": "Who sends you greetings often?",
+  "answer": "My uncle sends me greetings every festival."
+ },
+ {
+  "en": "Do you remember our old teacher?",
+  "tamil": "நம்ம பழைய டீச்சரை உனக்கு நினைவு இருக்கா?",
+  "context": "Remembering school days.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Remember' is a verb of memory and is not used in the continuous form.",
+  "words": [
+   "remember",
+   "teacher"
+  ],
+  "usage": "Use it with an old school friend while sharing memories.",
+  "leelaQ": "Which teacher do you remember most?",
+  "answer": "I remember my English teacher the most."
+ },
+ {
+  "en": "I forgot my umbrella at the office.",
+  "tamil": "நான் என் குடையை ஆபீஸ்ல மறந்துட்டேன்.",
+  "context": "Explaining why you are wet.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Forgot' is the past form of 'forget'. 'At the office' tells where it is.",
+  "words": [
+   "forgot",
+   "umbrella"
+  ],
+  "usage": "Use it in small talk when it rains and you have no umbrella.",
+  "leelaQ": "What do you often forget?",
+  "answer": "I often forget my water bottle at home."
+ },
+ {
+  "en": "Take care and reach home safely.",
+  "tamil": "பத்திரமா இருங்க, பாதுகாப்பா வீடு போய்ச் சேருங்க.",
+  "context": "Wishing someone a safe journey.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Safely' tells how to reach. This is a caring way to say goodbye.",
+  "words": [
+   "take care",
+   "safely"
+  ],
+  "usage": "Use it when a guest or a friend is leaving at night.",
+  "leelaQ": "What do you say to a friend who is leaving at night?",
+  "answer": "I say take care and message me when you reach."
+ },
+ {
+  "en": "This is my favourite song!",
+  "tamil": "இது என் ஃபேவரைட் பாட்டு!",
+  "context": "Reacting when a favourite song plays.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Favourite' is the British spelling used in India. Say it with excitement.",
+  "words": [
+   "favourite",
+   "song"
+  ],
+  "usage": "Use it with friends when your best song comes on the radio.",
+  "leelaQ": "What is your favourite song these days?",
+  "answer": "My favourite song is a Tamil melody by Ilayaraja."
+ },
+ {
+  "en": "It will probably rain this evening.",
+  "tamil": "இன்னைக்கு சாயங்காலம் மழை பெய்யும்னு தோணுது.",
+  "context": "Making a weather prediction.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Probably' means it is likely but not sure. It goes between 'will' and the verb.",
+  "words": [
+   "probably",
+   "rain"
+  ],
+  "usage": "Use it in small talk when you see dark clouds.",
+  "leelaQ": "Do you like rainy evenings?",
+  "answer": "Yes, I like them with hot tea and pakoda."
+ },
+ {
+  "en": "What time will you reach home?",
+  "tamil": "நீ எந்த நேரத்துக்கு வீட்டுக்கு வருவ?",
+  "context": "Asking a family member.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'What time' asks for a clock time. 'Reach' is common Indian English for arrive.",
+  "words": [
+   "reach"
+  ],
+  "usage": "Use it with family members who are coming home from work.",
+  "leelaQ": "What time do you reach home on weekdays?",
+  "answer": "I reach home around seven in the evening."
+ },
+ {
+  "en": "I missed the bus, so I came by auto.",
+  "tamil": "நான் பஸ்ஸை மிஸ் பண்ணிட்டேன், அதனால ஆட்டோவுல வந்தேன்.",
+  "context": "Explaining how you reached.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Missed' means did not catch it. 'By auto' means in an auto-rickshaw.",
+  "words": [
+   "missed",
+   "auto"
+  ],
+  "usage": "Use it when a friend asks why you came differently or late.",
+  "leelaQ": "How do you usually go to work?",
+  "answer": "I usually go to work by bus."
+ },
+ {
+  "en": "How come you are so quiet today?",
+  "tamil": "இன்னைக்கு நீ ஏன் இவ்வளவு அமைதியா இருக்க?",
+  "context": "Noticing a quiet friend.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'How come' is a casual way to say why. It does not change the word order.",
+  "words": [
+   "quiet"
+  ],
+  "usage": "Use it with a close friend or a colleague who is silent.",
+  "leelaQ": "Are you a quiet person or a talkative one?",
+  "answer": "I am a little quiet at first, but I talk more later."
+ },
+ {
+  "en": "Send me the photos when you get time.",
+  "tamil": "உனக்கு நேரம் கிடைக்கும்போது அந்த ஃபோட்டோக்களை எனக்கு அனுப்பு.",
+  "context": "Asking a friend for photos.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'When you get time' makes the request relaxed and not pushy.",
+  "words": [
+   "photos",
+   "get time"
+  ],
+  "usage": "Use it after a trip or a function when a friend took photos.",
+  "leelaQ": "Do you like taking photos?",
+  "answer": "Yes, I take many photos when I travel."
+ },
+ {
+  "en": "Please have some tea before you go.",
+  "tamil": "போறதுக்கு முன்னாடி கொஞ்சம் டீ குடிச்சிட்டுப் போங்க.",
+  "context": "Offering hospitality.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Have' is used for food and drink. 'Before you go' is a common polite offer.",
+  "words": [
+   "have",
+   "before"
+  ],
+  "usage": "Use it at home when a guest is about to leave.",
+  "leelaQ": "What do you offer when guests visit you?",
+  "answer": "I offer tea and some snacks."
+ },
+ {
+  "en": "Wait for me, I am coming!",
+  "tamil": "எனக்காகக் காத்திரு, நான் வர்றேன்!",
+  "context": "Asking a friend to wait.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Wait for' asks someone to stay. 'I am coming' means you are on the way.",
+  "words": [
+   "wait"
+  ],
+  "usage": "Use it when friends are leaving and you are a few steps behind.",
+  "leelaQ": "What do you say when you are running late?",
+  "answer": "I say wait for me, I am coming in two minutes."
+ }
+]

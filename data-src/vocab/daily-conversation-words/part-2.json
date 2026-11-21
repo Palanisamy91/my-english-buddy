@@ -1,0 +1,361 @@
+[
+ {
+  "word": "buddy",
+  "meaning": "A close friend",
+  "tamil": "நெருங்கிய நண்பன்",
+  "pos": "noun",
+  "pron": "BUD-ee",
+  "example": "My buddy and I go to the gym together.",
+  "exampleTamil": "நானும் என் நண்பனும் சேர்ந்து ஜிம்முக்குச் செல்வோம்.",
+  "synonyms": [
+   "friend",
+   "pal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "secret",
+  "meaning": "Something that only a few people know",
+  "tamil": "ரகசியம்",
+  "pos": "noun",
+  "pron": "SEE-krit",
+  "example": "Can you keep a secret?",
+  "exampleTamil": "நீ ஒரு ரகசியத்தைக் காப்பாற்றுவாயா?",
+  "synonyms": [
+   "mystery",
+   "confidence"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dream",
+  "meaning": "Images and stories in your mind while you sleep",
+  "tamil": "கனவு",
+  "pos": "noun",
+  "pron": "DREEM",
+  "example": "I had a strange dream last night.",
+  "exampleTamil": "நேற்று இரவு எனக்கு ஒரு விசித்திரமான கனவு வந்தது.",
+  "synonyms": [
+   "vision",
+   "fantasy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "taste",
+  "meaning": "To try food to know its flavour",
+  "tamil": "சுவைத்துப் பார்",
+  "pos": "verb",
+  "pron": "TAYST",
+  "example": "Please taste the soup and tell me about the salt.",
+  "exampleTamil": "சூப்பை சுவைத்து உப்பு எப்படி என்று சொல்லுங்கள்.",
+  "synonyms": [
+   "try",
+   "sample"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "thank",
+  "meaning": "To say you are grateful to someone",
+  "tamil": "நன்றி சொல்",
+  "pos": "verb",
+  "pron": "THANK",
+  "example": "I want to thank you for your help.",
+  "exampleTamil": "உங்கள் உதவிக்கு நான் நன்றி சொல்ல விரும்புகிறேன்.",
+  "synonyms": [
+   "appreciate",
+   "be grateful"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "please",
+  "meaning": "A polite word used when asking for something",
+  "tamil": "தயவுசெய்து",
+  "pos": "interjection",
+  "pron": "PLEEZ",
+  "example": "Please close the window, it is cold.",
+  "exampleTamil": "தயவுசெய்து ஜன்னலை மூடுங்கள், குளிராக இருக்கிறது.",
+  "synonyms": [
+   "kindly"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "keys",
+  "meaning": "Small metal tools used to open locks",
+  "tamil": "சாவிகள்",
+  "pos": "noun",
+  "pron": "KEEZ",
+  "example": "I left my keys on the table.",
+  "exampleTamil": "என் சாவிகளை மேஜையில் வைத்துவிட்டேன்.",
+  "synonyms": [
+   "lock openers"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "shade",
+  "meaning": "A cool place out of direct sunlight",
+  "tamil": "நிழல்",
+  "pos": "noun",
+  "pron": "SHAYD",
+  "example": "Let us sit in the shade of that tree.",
+  "exampleTamil": "அந்த மரத்தின் நிழலில் உட்காரலாம்.",
+  "synonyms": [
+   "shadow",
+   "shelter"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "surprise",
+  "meaning": "Something unexpected; to make someone feel this",
+  "tamil": "ஆச்சரியம்",
+  "pos": "noun",
+  "pron": "sur-PRIZE",
+  "example": "We planned a birthday surprise for my sister.",
+  "exampleTamil": "என் தங்கைக்கு பிறந்தநாள் ஆச்சரியம் திட்டமிட்டோம்.",
+  "synonyms": [
+   "shock",
+   "astonishment"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lately",
+  "meaning": "In the recent past; in the last few days",
+  "tamil": "சமீப காலமாக",
+  "pos": "adverb",
+  "pron": "LAYT-lee",
+  "example": "I have been sleeping badly lately.",
+  "exampleTamil": "சமீப காலமாக நான் சரியாகத் தூங்குவதில்லை.",
+  "synonyms": [
+   "recently",
+   "of late"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "recently",
+  "meaning": "Not long ago",
+  "tamil": "சமீபத்தில்",
+  "pos": "adverb",
+  "pron": "REE-sunt-lee",
+  "example": "We recently moved to a new flat.",
+  "exampleTamil": "நாங்கள் சமீபத்தில் புதிய ஃப்ளாட்டுக்கு மாறினோம்.",
+  "synonyms": [
+   "lately",
+   "not long ago"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "nowadays",
+  "meaning": "At the present time, compared with the past",
+  "tamil": "இந்த நாட்களில்",
+  "pos": "adverb",
+  "pron": "NOW-uh-dayz",
+  "example": "Nowadays most people use phones for everything.",
+  "exampleTamil": "இந்த நாட்களில் பெரும்பாலானவர்கள் எல்லாவற்றுக்கும் போனைப் பயன்படுத்துகிறார்கள்.",
+  "synonyms": [
+   "these days",
+   "currently"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "seldom",
+  "meaning": "Not often; almost never",
+  "tamil": "அபூர்வமாக, எப்போதாவது",
+  "pos": "adverb",
+  "pron": "SEL-dum",
+  "example": "My brother seldom eats outside food.",
+  "exampleTamil": "என் தம்பி வெளி உணவை அபூர்வமாகவே சாப்பிடுவான்.",
+  "synonyms": [
+   "rarely",
+   "hardly ever"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "suppose",
+  "meaning": "To think something is probably true",
+  "tamil": "என்று நினை, ஊகி",
+  "pos": "verb",
+  "pron": "suh-POZE",
+  "example": "I suppose he is stuck in traffic.",
+  "exampleTamil": "அவர் போக்குவரத்தில் சிக்கியிருப்பார் என்று நினைக்கிறேன்.",
+  "synonyms": [
+   "assume",
+   "guess"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "realize",
+  "meaning": "To suddenly understand or notice something",
+  "tamil": "உணர்ந்துகொள்",
+  "pos": "verb",
+  "pron": "REE-uh-lize",
+  "example": "I realized I had forgotten my umbrella.",
+  "exampleTamil": "நான் குடையை மறந்துவிட்டேன் என்று உணர்ந்தேன்.",
+  "synonyms": [
+   "understand",
+   "notice"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "certain",
+  "meaning": "Completely sure about something",
+  "tamil": "உறுதியாக",
+  "pos": "adjective",
+  "pron": "SER-tun",
+  "example": "I am certain that I locked the door.",
+  "exampleTamil": "நான் கதவைப் பூட்டினேன் என்று உறுதியாக இருக்கிறேன்.",
+  "synonyms": [
+   "sure",
+   "positive"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "likely",
+  "meaning": "Probably going to happen",
+  "tamil": "நடக்க வாய்ப்புள்ள",
+  "pos": "adjective",
+  "pron": "LIKE-lee",
+  "example": "It is likely to rain this evening.",
+  "exampleTamil": "இன்று மாலை மழை பெய்ய வாய்ப்புள்ளது.",
+  "synonyms": [
+   "probable",
+   "expected"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "unlikely",
+  "meaning": "Not probably going to happen",
+  "tamil": "நடக்க வாய்ப்பில்லாத",
+  "pos": "adjective",
+  "pron": "un-LIKE-lee",
+  "example": "It is unlikely that he will come today.",
+  "exampleTamil": "அவன் இன்று வருவதற்கு வாய்ப்பில்லை.",
+  "synonyms": [
+   "improbable",
+   "doubtful"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "upcoming",
+  "meaning": "About to happen soon",
+  "tamil": "வரவிருக்கும்",
+  "pos": "adjective",
+  "pron": "UP-kum-ing",
+  "example": "Are you ready for the upcoming exams?",
+  "exampleTamil": "வரவிருக்கும் தேர்வுகளுக்கு நீ தயாரா?",
+  "synonyms": [
+   "coming",
+   "forthcoming"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "whoever",
+  "meaning": "Any person who; no matter who",
+  "tamil": "யாராக இருந்தாலும்",
+  "pos": "pronoun",
+  "pron": "hoo-EV-er",
+  "example": "Whoever is at the door, please tell them to wait.",
+  "exampleTamil": "கதவில் யார் இருந்தாலும் காத்திருக்கச் சொல்லுங்கள்.",
+  "synonyms": [
+   "anyone who"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "wherever",
+  "meaning": "In any place; no matter where",
+  "tamil": "எங்கே இருந்தாலும்",
+  "pos": "conjunction",
+  "pron": "wair-EV-er",
+  "example": "Wherever you go, call me when you reach.",
+  "exampleTamil": "நீ எங்கே போனாலும் சேர்ந்ததும் எனக்கு போன் செய்.",
+  "synonyms": [
+   "anywhere that"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "errand",
+  "meaning": "A short trip to do a small job",
+  "tamil": "சிறு வேலைக்கான பயணம்",
+  "pos": "noun",
+  "pron": "ER-und",
+  "example": "I have a few errands to run this afternoon.",
+  "exampleTamil": "இன்று மதியம் நான் சில சிறு வேலைகளை முடிக்க வேண்டும்.",
+  "synonyms": [
+   "task",
+   "small job"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chore",
+  "meaning": "A small regular job around the house",
+  "tamil": "வீட்டு வேலை",
+  "pos": "noun",
+  "pron": "CHOR",
+  "example": "Washing the dishes is my daily chore.",
+  "exampleTamil": "பாத்திரம் கழுவுவது என் தினசரி வீட்டு வேலை.",
+  "synonyms": [
+   "task",
+   "housework"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "yawn",
+  "meaning": "to open your mouth wide because you are tired or bored",
+  "tamil": "கொட்டாவி விடு",
+  "pos": "verb",
+  "pron": "YAWN",
+  "example": "I yawned all through the long meeting.",
+  "exampleTamil": "நீண்ட கூட்டம் முழுவதும் நான் கொட்டாவி விட்டுக்கொண்டிருந்தேன்.",
+  "synonyms": [
+   "gape"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stuffy",
+  "meaning": "having no fresh air, so it feels warm and uncomfortable",
+  "tamil": "காற்றோட்டம் இல்லாத, புழுக்கமான",
+  "pos": "adjective",
+  "pron": "STUF-ee",
+  "example": "The room was stuffy, so I opened the window.",
+  "exampleTamil": "அறை புழுக்கமாக இருந்ததால் நான் ஜன்னலைத் திறந்தேன்.",
+  "synonyms": [
+   "airless",
+   "stifling"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "frosty",
+  "meaning": "very cold, with ice or frost outside",
+  "tamil": "உறைபனி படர்ந்த, மிகக் குளிரான",
+  "pos": "adjective",
+  "pron": "FROS-tee",
+  "example": "It was a frosty morning in Ooty.",
+  "exampleTamil": "ஊட்டியில் அது ஒரு உறைபனி நிறைந்த காலை.",
+  "synonyms": [
+   "icy",
+   "freezing"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,696 @@
+[
+ {
+  "word": "breakfast",
+  "tamil": "காலை உணவு",
+  "pos": "noun",
+  "pron": "BREK-fust",
+  "example": "We usually have idli for breakfast.",
+  "exampleTamil": "நாங்கள் பொதுவாக காலை உணவுக்கு இட்லி சாப்பிடுவோம்.",
+  "synonyms": [
+   "morning meal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lunch",
+  "tamil": "மதிய உணவு",
+  "pos": "noun",
+  "pron": "LUNCH",
+  "example": "Shall we have lunch together today?",
+  "exampleTamil": "இன்று நாம் ஒன்றாக மதிய உணவு சாப்பிடலாமா?",
+  "synonyms": [
+   "midday meal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "dinner",
+  "tamil": "இரவு உணவு",
+  "pos": "noun",
+  "pron": "DIN-ur",
+  "example": "Dinner will be ready in ten minutes.",
+  "exampleTamil": "இரவு உணவு பத்து நிமிடத்தில் தயாராகிவிடும்.",
+  "synonyms": [
+   "supper"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "snack",
+  "tamil": "சிற்றுண்டி, நொறுக்குத்தீனி",
+  "pos": "noun",
+  "pron": "SNAK",
+  "example": "I eat a light snack in the evening.",
+  "exampleTamil": "நான் மாலையில் ஒரு சிறிய சிற்றுண்டி சாப்பிடுவேன்.",
+  "synonyms": [
+   "bite",
+   "nibble"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "recipe",
+  "tamil": "சமையல் குறிப்பு",
+  "pos": "noun",
+  "pron": "RES-uh-pee",
+  "example": "Can you share your biryani recipe with me?",
+  "exampleTamil": "உங்கள் பிரியாணி சமையல் குறிப்பை என்னுடன் பகிர்வீர்களா?",
+  "synonyms": [
+   "formula"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "ingredient",
+  "tamil": "சமையல் பொருள், மூலப்பொருள்",
+  "pos": "noun",
+  "pron": "in-GREE-dee-unt",
+  "example": "We are missing one ingredient for the curry.",
+  "exampleTamil": "குழம்புக்கு ஒரு பொருள் குறைகிறது.",
+  "synonyms": [
+   "component"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grocery",
+  "tamil": "மளிகைப் பொருள்",
+  "pos": "noun",
+  "pron": "GROH-sur-ee",
+  "example": "I bought the grocery items this morning.",
+  "exampleTamil": "நான் இன்று காலை மளிகைப் பொருட்களை வாங்கினேன்.",
+  "synonyms": [
+   "provisions"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vegetable",
+  "tamil": "காய்கறி",
+  "pos": "noun",
+  "pron": "VEJ-tuh-bul",
+  "example": "Eat more vegetable dishes every day.",
+  "exampleTamil": "தினமும் அதிக காய்கறி உணவுகளைச் சாப்பிடுங்கள்.",
+  "synonyms": [
+   "greens"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fruit",
+  "tamil": "பழம்",
+  "pos": "noun",
+  "pron": "FROOT",
+  "example": "She cuts a fruit for her child daily.",
+  "exampleTamil": "அவள் தினமும் தன் குழந்தைக்கு ஒரு பழம் நறுக்கிக் கொடுக்கிறாள்.",
+  "synonyms": [
+   "produce"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "onion",
+  "tamil": "வெங்காயம்",
+  "pos": "noun",
+  "pron": "UN-yun",
+  "example": "Chop the onion into small pieces.",
+  "exampleTamil": "வெங்காயத்தை சிறு துண்டுகளாக நறுக்குங்கள்.",
+  "synonyms": [
+   "bulb vegetable"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "tomato",
+  "tamil": "தக்காளி",
+  "pos": "noun",
+  "pron": "tuh-MAY-toh",
+  "example": "Add one tomato to the gravy.",
+  "exampleTamil": "குழம்பில் ஒரு தக்காளி சேர்க்கவும்.",
+  "synonyms": [
+   "love apple"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "potato",
+  "tamil": "உருளைக்கிழங்கு",
+  "pos": "noun",
+  "pron": "puh-TAY-toh",
+  "example": "Peel the potato before boiling it.",
+  "exampleTamil": "உருளைக்கிழங்கை வேகவைப்பதற்கு முன் தோல் உரிக்கவும்.",
+  "synonyms": [
+   "spud"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "garlic",
+  "tamil": "பூண்டு",
+  "pos": "noun",
+  "pron": "GAR-lik",
+  "example": "Crush a little garlic for the chutney.",
+  "exampleTamil": "சட்னிக்கு கொஞ்சம் பூண்டை நசுக்குங்கள்.",
+  "synonyms": [
+   "clove"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "ginger",
+  "tamil": "இஞ்சி",
+  "pos": "noun",
+  "pron": "JIN-jur",
+  "example": "Ginger tea helps when you have a cold.",
+  "exampleTamil": "சளி இருக்கும்போது இஞ்சி தேநீர் உதவும்.",
+  "synonyms": [
+   "root spice"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "lemon",
+  "tamil": "எலுமிச்சை",
+  "pos": "noun",
+  "pron": "LEM-un",
+  "example": "Squeeze some lemon on the rice.",
+  "exampleTamil": "சாதத்தின் மீது கொஞ்சம் எலுமிச்சை பிழியுங்கள்.",
+  "synonyms": [
+   "citrus"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "coconut",
+  "tamil": "தேங்காய்",
+  "pos": "noun",
+  "pron": "KOH-kuh-nut",
+  "example": "Grate the coconut for the chutney.",
+  "exampleTamil": "சட்னிக்கு தேங்காயைத் துருவுங்கள்.",
+  "synonyms": [
+   "copra"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "banana",
+  "tamil": "வாழைப்பழம்",
+  "pos": "noun",
+  "pron": "buh-NAN-uh",
+  "example": "He eats a banana every morning.",
+  "exampleTamil": "அவன் தினமும் காலையில் ஒரு வாழைப்பழம் சாப்பிடுகிறான்.",
+  "synonyms": [
+   "plantain"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "mango",
+  "tamil": "மாம்பழம்",
+  "pos": "noun",
+  "pron": "MANG-goh",
+  "example": "This mango is sweet and juicy.",
+  "exampleTamil": "இந்த மாம்பழம் இனிப்பாகவும் சாறு நிறைந்ததாகவும் இருக்கிறது.",
+  "synonyms": [
+   "king of fruits"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spice",
+  "tamil": "மசாலாப் பொருள்",
+  "pos": "noun",
+  "pron": "SPYS",
+  "example": "Indian cooking uses many kinds of spice.",
+  "exampleTamil": "இந்திய சமையலில் பல வகையான மசாலாப் பொருட்கள் பயன்படுகின்றன.",
+  "synonyms": [
+   "seasoning"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "flour",
+  "tamil": "மாவு",
+  "pos": "noun",
+  "pron": "FLOW-ur",
+  "example": "We need wheat flour to make chapati.",
+  "exampleTamil": "சப்பாத்தி செய்ய கோதுமை மாவு வேண்டும்.",
+  "synonyms": [
+   "meal"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sugar",
+  "tamil": "சர்க்கரை",
+  "pos": "noun",
+  "pron": "SHUG-ur",
+  "example": "Do you take sugar in your coffee?",
+  "exampleTamil": "உங்கள் காபியில் சர்க்கரை போடுவீர்களா?",
+  "synonyms": [
+   "sweetener"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "salt",
+  "tamil": "உப்பு",
+  "pos": "noun",
+  "pron": "SAWLT",
+  "example": "The soup needs a little more salt.",
+  "exampleTamil": "சூப்பில் இன்னும் கொஞ்சம் உப்பு வேண்டும்.",
+  "synonyms": [
+   "seasoning"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "oil",
+  "tamil": "எண்ணெய்",
+  "pos": "noun",
+  "pron": "OYL",
+  "example": "Heat the oil before adding mustard seeds.",
+  "exampleTamil": "கடுகு சேர்ப்பதற்கு முன் எண்ணெயைச் சூடாக்குங்கள்.",
+  "synonyms": [
+   "fat"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "butter",
+  "tamil": "வெண்ணெய்",
+  "pos": "noun",
+  "pron": "BUT-ur",
+  "example": "Spread some butter on the bread.",
+  "exampleTamil": "ரொட்டியின் மீது கொஞ்சம் வெண்ணெய் தடவுங்கள்.",
+  "synonyms": [
+   "spread"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "curd",
+  "tamil": "தயிர்",
+  "pos": "noun",
+  "pron": "KURD",
+  "example": "I like curd rice with pickle.",
+  "exampleTamil": "எனக்கு ஊறுகாயுடன் தயிர் சாதம் பிடிக்கும்.",
+  "synonyms": [
+   "yogurt"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "pickle",
+  "tamil": "ஊறுகாய்",
+  "pos": "noun",
+  "pron": "PIK-ul",
+  "example": "My grandmother makes mango pickle every summer.",
+  "exampleTamil": "என் பாட்டி ஒவ்வொரு கோடையிலும் மாங்காய் ஊறுகாய் செய்கிறார்.",
+  "synonyms": [
+   "relish"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "boil",
+  "tamil": "கொதிக்க வை, வேகவை",
+  "pos": "verb",
+  "pron": "BOYL",
+  "example": "Boil the eggs for ten minutes.",
+  "exampleTamil": "முட்டைகளை பத்து நிமிடம் வேகவையுங்கள்.",
+  "synonyms": [
+   "simmer"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "fry",
+  "tamil": "பொரி, வறு",
+  "pos": "verb",
+  "pron": "FRY",
+  "example": "Fry the onions until they turn brown.",
+  "exampleTamil": "வெங்காயம் பழுப்பு நிறமாகும் வரை வதக்குங்கள்.",
+  "synonyms": [
+   "sauté"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "roast",
+  "tamil": "வறுத்தெடு, சுடு",
+  "pos": "verb",
+  "pron": "ROHST",
+  "example": "Roast the peanuts on a low flame.",
+  "exampleTamil": "வேர்க்கடலையை மிதமான தீயில் வறுக்கவும்.",
+  "synonyms": [
+   "toast",
+   "bake"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bake",
+  "tamil": "அடுப்பில் சுடு",
+  "pos": "verb",
+  "pron": "BAYK",
+  "example": "She likes to bake cakes on weekends.",
+  "exampleTamil": "அவளுக்கு வார இறுதியில் கேக் சுடுவது பிடிக்கும்.",
+  "synonyms": [
+   "cook",
+   "roast"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "chop",
+  "tamil": "நறுக்கு",
+  "pos": "verb",
+  "pron": "CHOP",
+  "example": "Chop the coriander finely.",
+  "exampleTamil": "கொத்தமல்லியை பொடியாக நறுக்குங்கள்.",
+  "synonyms": [
+   "cut",
+   "dice"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "slice",
+  "tamil": "மெல்லிய துண்டுகளாக வெட்டு",
+  "pos": "verb",
+  "pron": "SLYS",
+  "example": "Slice the cucumber into thin pieces.",
+  "exampleTamil": "வெள்ளரிக்காயை மெல்லிய துண்டுகளாக வெட்டுங்கள்.",
+  "synonyms": [
+   "cut",
+   "carve"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "stir",
+  "tamil": "கிளறு",
+  "pos": "verb",
+  "pron": "STUR",
+  "example": "Keep stirring the milk so it does not burn.",
+  "exampleTamil": "பால் அடிபிடிக்காமல் இருக்க தொடர்ந்து கிளறுங்கள்.",
+  "synonyms": [
+   "mix",
+   "whisk"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "grind",
+  "tamil": "அரை",
+  "pos": "verb",
+  "pron": "GRYND",
+  "example": "We grind the batter for dosa at night.",
+  "exampleTamil": "நாங்கள் இரவில் தோசை மாவை அரைக்கிறோம்.",
+  "synonyms": [
+   "crush",
+   "mill"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "knead",
+  "tamil": "மாவைப் பிசை",
+  "pos": "verb",
+  "pron": "NEED",
+  "example": "Knead the dough until it is soft.",
+  "exampleTamil": "மாவு மென்மையாகும் வரை பிசையுங்கள்.",
+  "synonyms": [
+   "work",
+   "press"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "marinate",
+  "tamil": "ஊறவை, மசாலா தடவி வை",
+  "pos": "verb",
+  "pron": "MAIR-uh-nayt",
+  "example": "Marinate the chicken for one hour.",
+  "exampleTamil": "கோழியை ஒரு மணி நேரம் மசாலாவில் ஊறவையுங்கள்.",
+  "synonyms": [
+   "soak",
+   "steep"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "simmer",
+  "tamil": "மிதமான தீயில் கொதிக்க விடு",
+  "pos": "verb",
+  "pron": "SIM-ur",
+  "example": "Let the gravy simmer for five minutes.",
+  "exampleTamil": "குழம்பை ஐந்து நிமிடம் மெல்லக் கொதிக்க விடுங்கள்.",
+  "synonyms": [
+   "stew",
+   "bubble"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "leftovers",
+  "tamil": "மீதமான உணவு",
+  "pos": "noun",
+  "pron": "LEFT-oh-vurz",
+  "example": "We had the leftovers for lunch today.",
+  "exampleTamil": "இன்று மதிய உணவுக்கு மீதமான உணவைச் சாப்பிட்டோம்.",
+  "synonyms": [
+   "remains",
+   "scraps"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "appetizer",
+  "tamil": "பசியைத் தூண்டும் சிற்றுண்டி",
+  "pos": "noun",
+  "pron": "AP-uh-ty-zur",
+  "example": "We ordered a spicy appetizer first.",
+  "exampleTamil": "நாங்கள் முதலில் ஒரு காரமான பசியூட்டியை ஆர்டர் செய்தோம்.",
+  "synonyms": [
+   "starter"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "dessert",
+  "tamil": "இனிப்பு வகை, இறுதி இனிப்பு",
+  "pos": "noun",
+  "pron": "dih-ZURT",
+  "example": "What would you like for dessert?",
+  "exampleTamil": "இனிப்புக்கு என்ன வேண்டும்?",
+  "synonyms": [
+   "sweet",
+   "pudding"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "beverage",
+  "tamil": "குடிபானம்",
+  "pos": "noun",
+  "pron": "BEV-rij",
+  "example": "Hot beverages are served at the stall.",
+  "exampleTamil": "கடையில் சூடான பானங்கள் வழங்கப்படுகின்றன.",
+  "synonyms": [
+   "drink"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "waiter",
+  "tamil": "பரிமாறுபவர், சர்வர்",
+  "pos": "noun",
+  "pron": "WAY-tur",
+  "example": "The waiter brought our food quickly.",
+  "exampleTamil": "பரிமாறுபவர் எங்கள் உணவை விரைவாகக் கொண்டு வந்தார்.",
+  "synonyms": [
+   "server"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "chef",
+  "tamil": "தலைமைச் சமையல்காரர்",
+  "pos": "noun",
+  "pron": "SHEF",
+  "example": "The chef came out to greet the guests.",
+  "exampleTamil": "சமையல்காரர் விருந்தினர்களை வரவேற்க வெளியே வந்தார்.",
+  "synonyms": [
+   "cook"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "takeaway",
+  "tamil": "பார்சல் உணவு",
+  "pos": "noun",
+  "pron": "TAYK-uh-way",
+  "example": "Let us order a takeaway tonight.",
+  "exampleTamil": "இன்றிரவு பார்சல் உணவு ஆர்டர் செய்வோம்.",
+  "synonyms": [
+   "parcel",
+   "carryout"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "delicious",
+  "tamil": "சுவையான, ருசியான",
+  "pos": "adjective",
+  "pron": "dih-LISH-us",
+  "example": "The sambar you made is delicious.",
+  "exampleTamil": "நீங்கள் செய்த சாம்பார் மிகவும் ருசியாக இருக்கிறது.",
+  "synonyms": [
+   "tasty",
+   "yummy"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "spicy",
+  "tamil": "காரமான",
+  "pos": "adjective",
+  "pron": "SPY-see",
+  "example": "This chutney is too spicy for me.",
+  "exampleTamil": "இந்த சட்னி எனக்கு மிகவும் காரமாக இருக்கிறது.",
+  "synonyms": [
+   "hot",
+   "fiery"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "sour",
+  "tamil": "புளிப்பான",
+  "pos": "adjective",
+  "pron": "SOW-ur",
+  "example": "The tamarind makes the rasam sour.",
+  "exampleTamil": "புளி ரசத்தை புளிப்பாக்குகிறது.",
+  "synonyms": [
+   "tangy",
+   "tart"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bitter",
+  "tamil": "கசப்பான",
+  "pos": "adjective",
+  "pron": "BIT-ur",
+  "example": "Bitter gourd tastes bitter but it is healthy.",
+  "exampleTamil": "பாகற்காய் கசப்பாக இருந்தாலும் உடலுக்கு நல்லது.",
+  "synonyms": [
+   "sharp",
+   "acrid"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "bland",
+  "tamil": "சுவையற்ற, சப்பென்ற",
+  "pos": "adjective",
+  "pron": "BLAND",
+  "example": "The soup tastes bland without salt.",
+  "exampleTamil": "உப்பு இல்லாமல் சூப் சப்பென்று இருக்கிறது.",
+  "synonyms": [
+   "tasteless",
+   "flavourless"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "crispy",
+  "tamil": "மொறுமொறுப்பான",
+  "pos": "adjective",
+  "pron": "KRIS-pee",
+  "example": "I love crispy dosa with chutney.",
+  "exampleTamil": "எனக்கு சட்னியுடன் மொறுமொறுப்பான தோசை பிடிக்கும்.",
+  "synonyms": [
+   "crunchy",
+   "crisp"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "hungry",
+  "tamil": "பசியுள்ள",
+  "pos": "adjective",
+  "pron": "HUNG-gree",
+  "example": "I am really hungry after the long walk.",
+  "exampleTamil": "நீண்ட நடைக்குப் பிறகு எனக்கு நிஜமாகவே பசிக்கிறது.",
+  "synonyms": [
+   "starving",
+   "famished"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "thirsty",
+  "tamil": "தாகமுள்ள",
+  "pos": "adjective",
+  "pron": "THUR-stee",
+  "example": "Drink water if you feel thirsty.",
+  "exampleTamil": "தாகமாக இருந்தால் தண்ணீர் குடியுங்கள்.",
+  "synonyms": [
+   "parched"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "stuffed",
+  "tamil": "வயிறு நிறைந்த",
+  "pos": "adjective",
+  "pron": "STUFT",
+  "example": "I am stuffed, I cannot eat more.",
+  "exampleTamil": "எனக்கு வயிறு நிறைந்துவிட்டது, இன்னும் சாப்பிட முடியாது.",
+  "synonyms": [
+   "full",
+   "satisfied"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "vegetarian",
+  "tamil": "சைவம், சைவ உணவு உண்பவர்",
+  "pos": "adjective",
+  "pron": "vej-uh-TAIR-ee-un",
+  "example": "My family is completely vegetarian.",
+  "exampleTamil": "என் குடும்பம் முழுவதும் சைவம்.",
+  "synonyms": [
+   "veggie",
+   "meatless"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "buffet",
+  "tamil": "பஃபே, விருப்பம்போல் எடுக்கும் உணவு",
+  "pos": "noun",
+  "pron": "buh-FAY",
+  "example": "The wedding had a huge lunch buffet.",
+  "exampleTamil": "திருமணத்தில் ஒரு பெரிய மதிய பஃபே இருந்தது.",
+  "synonyms": [
+   "self-service meal"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "tiffin",
+  "tamil": "டிபன், சிற்றுண்டி",
+  "pos": "noun",
+  "pron": "TIF-in",
+  "example": "I packed a tiffin box for my son.",
+  "exampleTamil": "நான் என் மகனுக்கு டிபன் பாக்ஸ் கட்டிக் கொடுத்தேன்.",
+  "synonyms": [
+   "light meal"
+  ],
+  "level": "intermediate"
+ }
+]

@@ -1,0 +1,377 @@
+[
+ {
+  "en": "I have not decided yet, but I am thinking about it.",
+  "tamil": "நான் இன்னும் முடிவு பண்ணல, ஆனா அதைப் பத்தி யோசிக்கிறேன்.",
+  "context": "Answering when you have no decision yet.",
+  "tense": "present-perfect",
+  "type": "negative",
+  "explain": "'Not ... yet' shows something is still pending. Add 'but' to show you are thinking.",
+  "words": [
+   "decided",
+   "thinking"
+  ],
+  "usage": "Use it when a friend asks about your plan to buy a bike or change jobs.",
+  "leelaQ": "Have you decided about the new job offer?",
+  "answer": "Not yet, but I am thinking about it seriously."
+ },
+ {
+  "en": "It depends on the weather, to be honest.",
+  "tamil": "உண்மையா சொன்னா, அது வானிலையைப் பொறுத்தது.",
+  "context": "Giving an answer that is not fixed.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'It depends on' is a useful way to say the answer is not fixed. 'To be honest' adds openness.",
+  "words": [
+   "depends",
+   "honest"
+  ],
+  "usage": "Use it when someone asks about an outdoor plan that may change.",
+  "leelaQ": "Are we going to the beach this weekend?",
+  "answer": "It depends on the weather, so let us decide on Saturday."
+ },
+ {
+  "en": "Did I understand your question correctly?",
+  "tamil": "உங்க கேள்வியை நான் சரியா புரிஞ்சுக்கிட்டேனா?",
+  "context": "Checking you have understood before answering.",
+  "tense": "past",
+  "type": "question",
+  "explain": "Checking your understanding avoids giving a wrong answer.",
+  "words": [
+   "understand",
+   "correctly"
+  ],
+  "usage": "Use it before answering a long or unclear question.",
+  "leelaQ": "What do you do before answering a difficult question?",
+  "answer": "I ask, did I understand your question correctly?"
+ },
+ {
+  "en": "I am waiting for my friend at the bus stop.",
+  "tamil": "நான் என் ஃப்ரெண்டுக்காக பஸ் ஸ்டாப்புல காத்துட்டு இருக்கேன்.",
+  "context": "Answering a phone call asking where you are.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "Present continuous tells what is happening right now.",
+  "words": [
+   "waiting",
+   "friend"
+  ],
+  "usage": "Use it on a phone call when someone asks what you are doing now.",
+  "leelaQ": "Where are you, and what are you doing right now?",
+  "answer": "I am at the bus stop, and I am waiting for a bus."
+ },
+ {
+  "en": "Yes, I can speak a little Hindi.",
+  "tamil": "ஆமா, எனக்கு கொஞ்சம் ஹிந்தி பேசத் தெரியும்.",
+  "context": "Answering about languages you know.",
+  "tense": "modal",
+  "type": "statement",
+  "explain": "'Can' shows ability. 'A little' is honest when you are not fluent.",
+  "words": [
+   "speak",
+   "hindi"
+  ],
+  "usage": "Use it at a job interview or when meeting people from other states.",
+  "leelaQ": "Which languages can you speak?",
+  "answer": "I can speak Tamil, English and a little Hindi."
+ },
+ {
+  "en": "I started learning English six months ago.",
+  "tamil": "நான் ஆறு மாசத்துக்கு முன்னாடி இங்கிலீஷ் கத்துக்க ஆரம்பிச்சேன்.",
+  "context": "Telling someone how long you have studied.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Ago' goes with past tense to say how long back something started.",
+  "words": [
+   "started",
+   "learning"
+  ],
+  "usage": "Use it when someone praises your English and asks how long you practised.",
+  "leelaQ": "When did you start learning English?",
+  "answer": "I started learning it last year, and I practise daily."
+ },
+ {
+  "en": "Are you asking about today or tomorrow?",
+  "tamil": "நீங்க இன்னைக்கு பத்தி கேக்குறீங்களா, நாளைக்கு பத்தியா?",
+  "context": "Clearing a doubt about the question.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "An 'or' question helps clear a doubt quickly.",
+  "words": [
+   "asking",
+   "tomorrow"
+  ],
+  "usage": "Use it when a question is not clear about the date.",
+  "leelaQ": "What do you ask if the question about the date is not clear?",
+  "answer": "I ask, are you asking about today or tomorrow?"
+ },
+ {
+  "en": "I was at home all day yesterday.",
+  "tamil": "நேத்து முழுக்க நான் வீட்டுலதான் இருந்தேன்.",
+  "context": "Answering where you were yesterday.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'All day' shows the whole day. 'Was' is past of 'am'.",
+  "words": [
+   "yesterday",
+   "home"
+  ],
+  "usage": "Use it when a friend says they called and you did not pick up.",
+  "leelaQ": "Where were you yesterday?",
+  "answer": "I was at home because I had a fever."
+ },
+ {
+  "en": "Could you speak a little slower, please?",
+  "tamil": "நீங்க கொஞ்சம் மெதுவா பேச முடியுமா?",
+  "context": "Asking a fast speaker to slow down.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could you ...' is soft and polite. 'A little' keeps it friendly.",
+  "words": [
+   "slower",
+   "speak"
+  ],
+  "usage": "Use it with a person who speaks fast on a call or in class.",
+  "leelaQ": "What do you say if someone speaks too fast?",
+  "answer": "I say, could you speak a little slower, please?"
+ },
+ {
+  "en": "Our office closes at six, but I usually stay till seven.",
+  "tamil": "எங்க ஆபீஸ் ஆறு மணிக்கு மூடுவாங்க, ஆனா நான் பொதுவா ஏழு மணி வரை இருப்பேன்.",
+  "context": "Explaining your working hours.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "Two present simple clauses joined by 'but' show a rule and your habit.",
+  "words": [
+   "closes",
+   "usually"
+  ],
+  "usage": "Use it when someone asks about your office timing.",
+  "leelaQ": "What are your office timings?",
+  "answer": "My office is from nine to six."
+ },
+ {
+  "en": "I can't say exactly, but it must be near the station.",
+  "tamil": "சரியா சொல்ல முடியாது, ஆனா ஸ்டேஷன் பக்கத்துலதான் இருக்கும்.",
+  "context": "Giving a guess when you do not know.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Must be' shows a strong guess. 'Can't say exactly' tells the listener you are guessing.",
+  "words": [
+   "exactly",
+   "station"
+  ],
+  "usage": "Use it when someone asks directions and you only know roughly.",
+  "leelaQ": "Do you know where the post office is?",
+  "answer": "I am not sure, but it must be near the market."
+ },
+ {
+  "en": "I will send you the details by evening.",
+  "tamil": "மாலைக்குள்ள உங்களுக்கு டீடெயில்ஸ் அனுப்புறேன்.",
+  "context": "Promising to share information later.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Will' is used for a promise. 'By evening' gives a deadline.",
+  "words": [
+   "details",
+   "evening"
+  ],
+  "usage": "Use it when a client or friend wants information that you do not have now.",
+  "leelaQ": "Can you share the address and timing of the event?",
+  "answer": "Sure, I will send you the details by evening."
+ },
+ {
+  "en": "Would you like me to repeat the answer?",
+  "tamil": "நான் பதிலை திரும்ப சொல்லணுமா?",
+  "context": "Offering to repeat.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Would you like me to ...?' is a polite offer.",
+  "words": [
+   "repeat",
+   "answer"
+  ],
+  "usage": "Use it when the other person looks confused or on a bad phone line.",
+  "leelaQ": "What do you say if someone could not hear your answer?",
+  "answer": "I say, would you like me to repeat that?"
+ },
+ {
+  "en": "It took me about forty minutes to reach here.",
+  "tamil": "இங்க வந்து சேர எனக்கு நாற்பது நிமிஷம் ஆச்சு.",
+  "context": "Telling how long your journey was.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'It took me ... to' is the common pattern for the time of a journey.",
+  "words": [
+   "took",
+   "reach"
+  ],
+  "usage": "Use it when someone asks how long the journey was.",
+  "leelaQ": "How long does it take you to reach your office?",
+  "answer": "It takes me about an hour by bus."
+ },
+ {
+  "en": "My father is a retired teacher, and my mother is a homemaker.",
+  "tamil": "என் அப்பா ரிட்டையர்டு டீச்சர், அம்மா வீட்டை பார்த்துக்குறாங்க.",
+  "context": "Answering about your parents' work.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Homemaker' is a respectful word for a woman who manages the home.",
+  "words": [
+   "retired",
+   "homemaker"
+  ],
+  "usage": "Use it when someone asks what your parents do.",
+  "leelaQ": "What do your parents do?",
+  "answer": "My father is a farmer, and my mother is a nurse."
+ },
+ {
+  "en": "I have been working in this company since two thousand twenty.",
+  "tamil": "நான் இந்த கம்பெனியில இரண்டாயிரத்து இருபதுல இருந்து வேலை பார்க்கிறேன்.",
+  "context": "Telling your work history in an interview.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Since' with a year and present perfect continuous shows something still going on.",
+  "words": [
+   "working",
+   "since"
+  ],
+  "usage": "Use it in an interview when asked about your present job.",
+  "leelaQ": "How long have you been working in your present job?",
+  "answer": "I have been working here for four years."
+ },
+ {
+  "en": "Can I answer that later?",
+  "tamil": "நான் அதுக்கு அப்புறம் பதில் சொல்லலாமா?",
+  "context": "Asking for time to give your answer.",
+  "tense": "modal",
+  "type": "question",
+  "explain": "'Can I ...?' is a simple way to ask for permission or time.",
+  "words": [
+   "answer",
+   "later"
+  ],
+  "usage": "Use it when you are busy or need to check before replying.",
+  "leelaQ": "What do you say if you cannot answer a question right now?",
+  "answer": "I ask, can I answer that later, please?"
+ },
+ {
+  "en": "I am going to visit my grandparents this weekend.",
+  "tamil": "இந்த வீக்எண்டு நான் தாத்தா பாட்டியை பார்க்கப் போறேன்.",
+  "context": "Telling your weekend plan.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Going to' is used for a plan you already decided.",
+  "words": [
+   "visit",
+   "grandparents"
+  ],
+  "usage": "Use it when a friend asks about your plan for the weekend.",
+  "leelaQ": "What are you going to do this weekend?",
+  "answer": "I am going to visit my cousins in Trichy."
+ },
+ {
+  "en": "Tell me if my answer is not clear.",
+  "tamil": "என் பதில் தெளிவா இல்லன்னா சொல்லுங்க.",
+  "context": "Inviting the listener to stop you.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "An if-clause after the request tells the listener when to speak.",
+  "words": [
+   "tell",
+   "clear"
+  ],
+  "usage": "Use it in a class, a meeting or an interview when you are explaining.",
+  "leelaQ": "What do you tell people before you explain something?",
+  "answer": "Please tell me if my explanation is not clear."
+ },
+ {
+  "en": "Yes, it was quite expensive, around five thousand rupees.",
+  "tamil": "ஆமா, அது கொஞ்சம் விலை அதிகம், கிட்டத்தட்ட ஐயாயிரம் ரூபா.",
+  "context": "Answering about the price of something you bought.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "Answer yes first, then add the detail. 'Around' means about.",
+  "words": [
+   "expensive",
+   "around"
+  ],
+  "usage": "Use it when a friend asks if your new phone or shoes cost a lot.",
+  "leelaQ": "How much did your new phone cost?",
+  "answer": "It cost around fifteen thousand rupees."
+ },
+ {
+  "en": "To be honest, I did not like the movie much.",
+  "tamil": "உண்மையா சொன்னா, எனக்கு அந்தப் படம் அவ்வளவா பிடிக்கல.",
+  "context": "Giving your honest opinion politely.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not ... much' is softer than saying 'I hated it'.",
+  "words": [
+   "honest",
+   "movie"
+  ],
+  "usage": "Use it with a friend who asks if you enjoyed the movie.",
+  "leelaQ": "Did you like the movie you watched yesterday?",
+  "answer": "To be honest, I did not like it much."
+ },
+ {
+  "en": "I am doing well, thank you.",
+  "tamil": "நான் நல்லா இருக்கேன், நன்றி.",
+  "context": "Replying to a greeting.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'I am doing well' is a more complete answer than just 'fine'.",
+  "words": [
+   "doing",
+   "well"
+  ],
+  "usage": "Use it when someone asks how you are in a formal or friendly meeting.",
+  "leelaQ": "How are you doing today?",
+  "answer": "I am doing well, thank you, and how about you?"
+ },
+ {
+  "en": "What exactly do you want to know?",
+  "tamil": "நீங்க சரியா என்ன தெரிஞ்சுக்கணும்?",
+  "context": "Asking someone to be more clear.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Exactly' asks for a clear, specific detail.",
+  "words": [
+   "exactly",
+   "know"
+  ],
+  "usage": "Use it when the question is too general to answer.",
+  "leelaQ": "What do you ask when a question is too general?",
+  "answer": "I ask, what exactly do you want to know?"
+ },
+ {
+  "en": "I prefer tea in the morning and coffee in the evening.",
+  "tamil": "நான் காலையில டீயும் சாயங்காலம் காபியும் விரும்புவேன்.",
+  "context": "Answering a question about your choices.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Prefer' means like one thing more than another.",
+  "words": [
+   "prefer",
+   "coffee"
+  ],
+  "usage": "Use it when a host asks if you want tea or coffee.",
+  "leelaQ": "Do you prefer tea or coffee?",
+  "answer": "I prefer coffee, especially filter coffee."
+ },
+ {
+  "en": "Honestly, I am very nervous about the interview.",
+  "tamil": "உண்மையா சொன்னா, இன்டர்வியூவ நெனச்சா எனக்கு ரொம்ப பயமா இருக்கு.",
+  "context": "Sharing your feeling with a friend.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Honestly' shows you are speaking openly. 'Nervous about' is followed by a noun.",
+  "words": [
+   "honestly",
+   "nervous"
+  ],
+  "usage": "Use it with a close friend or family member before an important day.",
+  "leelaQ": "How do you feel about your interview tomorrow?",
+  "answer": "I feel a little nervous, but I am ready."
+ }
+]

@@ -1,0 +1,375 @@
+[
+ {
+  "en": "Where is the check-in counter for Air India?",
+  "tamil": "ஏர் இந்தியா செக்-இன் கவுண்டர் எங்க இருக்கு?",
+  "context": "Asking at the airport entrance.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Where is ...?' is the simplest way to ask for a place. Add the name to be clear.",
+  "words": [
+   "check-in",
+   "counter"
+  ],
+  "usage": "Use it with airport staff or a guard when you cannot find your airline desk.",
+  "leelaQ": "Where do you go first when you reach an airport?",
+  "answer": "I go to the check-in counter first to show my ticket."
+ },
+ {
+  "en": "My flight is at six in the morning, so I will leave home at three.",
+  "tamil": "என் ஃப்ளைட் காலை ஆறு மணிக்கு, அதனால மூணு மணிக்கே வீட்ல இருந்து கிளம்புவேன்.",
+  "context": "Telling a family member your plan for an early flight.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'So' joins a reason and a result. 'Will leave' shows a plan you have decided.",
+  "words": [
+   "flight",
+   "leave"
+  ],
+  "usage": "Use it with family or a cab driver when you plan an early trip.",
+  "leelaQ": "What time will you leave home for an early flight?",
+  "answer": "I will leave home three hours before the flight."
+ },
+ {
+  "en": "Please keep your passport and boarding pass ready.",
+  "tamil": "உங்க பாஸ்போர்ட்டையும் போர்டிங் பாஸையும் தயாரா வச்சிக்கோங்க.",
+  "context": "A security officer speaks to the queue.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Please' plus a verb gives a polite order. 'Ready' means in your hand, not in the bag.",
+  "words": [
+   "passport",
+   "boarding pass"
+  ],
+  "usage": "Staff say this in airport queues, and you can say it to a family member travelling with you.",
+  "leelaQ": "Which documents do you need at the airport?",
+  "answer": "I need my passport, ticket and boarding pass."
+ },
+ {
+  "en": "Is my bag over the weight limit?",
+  "tamil": "என் பை எடை வரம்புக்கு மேல இருக்கா?",
+  "context": "Asking the check-in staff after the bag is weighed.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Over the limit' means more than allowed. Airlines usually allow fifteen to twenty kilos.",
+  "words": [
+   "weight",
+   "limit"
+  ],
+  "usage": "Ask the airline staff at check-in when your bag feels heavy.",
+  "leelaQ": "Do you pack light or heavy when you travel?",
+  "answer": "I usually pack light, only one small bag."
+ },
+ {
+  "en": "I have only one cabin bag and one laptop bag.",
+  "tamil": "என்கிட்ட ஒரு கேபின் பையும் ஒரு லேப்டாப் பையும் மட்டும்தான் இருக்கு.",
+  "context": "Answering the airline staff about luggage.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Only' shows that the number is small. 'Cabin bag' is the bag you carry inside the plane.",
+  "words": [
+   "cabin",
+   "laptop"
+  ],
+  "usage": "Say this at check-in or at the security gate when staff ask about your luggage.",
+  "leelaQ": "What bags do you carry when you travel?",
+  "answer": "I carry one suitcase and one small backpack."
+ },
+ {
+  "en": "Could I have a window seat, please?",
+  "tamil": "எனக்கு ஜன்னல் பக்க சீட் கிடைக்குமா, ப்ளீஸ்?",
+  "context": "Asking at the check-in counter.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Could I have ...?' is very polite when you ask for something. End with 'please'.",
+  "words": [
+   "window seat"
+  ],
+  "usage": "Ask the check-in staff or the cabin crew when you like to look outside.",
+  "leelaQ": "Do you like a window seat or an aisle seat?",
+  "answer": "I like a window seat because I enjoy the view."
+ },
+ {
+  "en": "The flight has been delayed by two hours.",
+  "tamil": "ஃப்ளைட் ரெண்டு மணி நேரம் தாமதமாயிடுச்சு.",
+  "context": "Telling your family about a delay.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Has been delayed' is passive. It tells the present result of something that already happened.",
+  "words": [
+   "delayed",
+   "flight"
+  ],
+  "usage": "Use it when you call home from the airport to explain why you will reach late.",
+  "leelaQ": "What do you do when your flight is delayed?",
+  "answer": "I read a book and have some tea at the airport."
+ },
+ {
+  "en": "Which gate is the flight to Chennai boarding from?",
+  "tamil": "சென்னை ஃப்ளைட் எந்த கேட்ல இருந்து ஏறுது?",
+  "context": "Asking staff near the departure screens.",
+  "tense": "present-continuous",
+  "type": "question",
+  "explain": "'Boarding from' means passengers are getting on there. Gate numbers change, so always ask.",
+  "words": [
+   "gate",
+   "boarding"
+  ],
+  "usage": "Ask a staff member when the screen does not show your gate number.",
+  "leelaQ": "How do you find your gate in a big airport?",
+  "answer": "I look at the screen and follow the signs."
+ },
+ {
+  "en": "We are going to miss the connecting flight if the queue does not move.",
+  "tamil": "வரிசை நகரலன்னா நாம கனெக்டிங் ஃப்ளைட்டை தவறவிட போறோம்.",
+  "context": "Worried in a long immigration queue.",
+  "tense": "future",
+  "type": "statement",
+  "explain": "'Are going to' shows something that will probably happen. 'If' gives the condition.",
+  "words": [
+   "miss",
+   "connecting flight"
+  ],
+  "usage": "Say it to a travel partner or an officer when you are short of time.",
+  "leelaQ": "Have you ever been late for a flight?",
+  "answer": "Yes, once I reached the airport only thirty minutes before the flight."
+ },
+ {
+  "en": "Excuse me, I think someone has taken my seat.",
+  "tamil": "மன்னிக்கணும், என் சீட்ல யாரோ உக்காந்திருக்காங்கன்னு நினைக்கிறேன்.",
+  "context": "Telling the cabin crew about a seat problem.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'I think' makes the sentence soft and polite. Use it when you are not fully sure.",
+  "words": [
+   "seat",
+   "taken"
+  ],
+  "usage": "Tell the cabin crew politely when another passenger is on your seat.",
+  "leelaQ": "What would you say if someone sat on your seat?",
+  "answer": "I would say excuse me and show my boarding pass."
+ },
+ {
+  "en": "Please switch off your mobile phone during take-off.",
+  "tamil": "டேக்-ஆஃப் நேரத்துல உங்க மொபைலை ஆஃப் பண்ணுங்க.",
+  "context": "A flight attendant gives an instruction.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'During' tells when. The crew uses 'please' with every instruction.",
+  "words": [
+   "switch off",
+   "take-off"
+  ],
+  "usage": "You will hear this from the cabin crew, and you can remind a friend with it.",
+  "leelaQ": "What do you do with your phone during take-off?",
+  "answer": "I switch it off or keep it in flight mode."
+ },
+ {
+  "en": "I did not receive my luggage at the belt.",
+  "tamil": "பெல்ட்ல என் லக்கேஜ் வரவே இல்ல.",
+  "context": "Complaining at the baggage claim.",
+  "tense": "past",
+  "type": "negative",
+  "explain": "'Did not receive' is the past negative. After 'did not' the verb stays in the base form.",
+  "words": [
+   "luggage",
+   "belt"
+  ],
+  "usage": "Say it to the airline help desk after the other bags have all come out.",
+  "leelaQ": "What will you do if your bag does not arrive?",
+  "answer": "I will go to the help desk and fill in a complaint form."
+ },
+ {
+  "en": "Can you tell me where to collect my checked baggage?",
+  "tamil": "என் செக்-இன் பேக்கேஜை எங்க வாங்கணும்னு சொல்ல முடியுமா?",
+  "context": "Asking after landing.",
+  "tense": "modal",
+  "type": "request",
+  "explain": "'Can you tell me where ...?' is indirect, so the word order is not a question order.",
+  "words": [
+   "collect",
+   "baggage"
+  ],
+  "usage": "Ask an airport staff member when you have just landed in a new airport.",
+  "leelaQ": "What is the first thing you do after you land?",
+  "answer": "I turn on my phone and call my family."
+ },
+ {
+  "en": "The immigration officer asked me why I was visiting Singapore.",
+  "tamil": "இமிகிரேஷன் ஆபீசர் நான் ஏன் சிங்கப்பூருக்கு வர்றேன்னு கேட்டார்.",
+  "context": "Telling a friend about your arrival.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Asked me why I was visiting' is reported speech. The question turns into a normal sentence.",
+  "words": [
+   "immigration",
+   "visiting"
+  ],
+  "usage": "Use it to share your travel story with a friend or a colleague.",
+  "leelaQ": "What questions do officers ask at immigration?",
+  "answer": "They ask about the reason for the visit and the stay."
+ },
+ {
+  "en": "How long is the layover in Dubai?",
+  "tamil": "துபாய்ல லேஓவர் எவ்வளவு நேரம்?",
+  "context": "Asking a travel agent about a stop.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Layover' means the waiting time between two flights. 'How long' asks about time.",
+  "words": [
+   "layover"
+  ],
+  "usage": "Ask your travel agent or airline when you book a flight with a stop.",
+  "leelaQ": "Do you prefer a direct flight or a flight with a stop?",
+  "answer": "I prefer a direct flight because it saves time."
+ },
+ {
+  "en": "I am waiting for my cab at the arrival gate.",
+  "tamil": "நான் அரைவல் கேட்ல என் கேப்புக்காக காத்துக்கிட்டிருக்கேன்.",
+  "context": "Telling the driver where you are.",
+  "tense": "present-continuous",
+  "type": "statement",
+  "explain": "'Am waiting' shows an action in progress right now. 'For' comes before the thing you wait for.",
+  "words": [
+   "arrival",
+   "cab"
+  ],
+  "usage": "Say it on a phone call with a cab driver who cannot find you.",
+  "leelaQ": "Where do you wait for a cab at the airport?",
+  "answer": "I wait outside the arrival gate near the cab counter."
+ },
+ {
+  "en": "Do not leave your bags unattended anywhere in the airport.",
+  "tamil": "ஏர்போர்ட்ல எங்கேயும் உங்க பைகளை கவனிக்காம விடாதீங்க.",
+  "context": "Reading out a safety notice to a friend.",
+  "tense": "imperative",
+  "type": "negative",
+  "explain": "'Do not' plus a verb is a negative order. 'Unattended' means with nobody watching.",
+  "words": [
+   "unattended",
+   "bags"
+  ],
+  "usage": "A safety rule you can say to a friend or to a child when you travel together.",
+  "leelaQ": "Why is it dangerous to leave a bag alone at the airport?",
+  "answer": "Someone may take it, or security may think it is a threat."
+ },
+ {
+  "en": "Is there free Wi-Fi in this terminal?",
+  "tamil": "இந்த டெர்மினல்ல ஃப்ரீ வை-ஃபை இருக்கா?",
+  "context": "Asking a staff member while waiting.",
+  "tense": "present",
+  "type": "question",
+  "explain": "'Is there ...?' asks if something exists in a place. 'Free' is a very useful word on a trip.",
+  "words": [
+   "wi-fi",
+   "terminal"
+  ],
+  "usage": "Ask the staff or a nearby passenger when you want to message your family.",
+  "leelaQ": "What do you do while waiting for a flight?",
+  "answer": "I use free Wi-Fi to watch videos and talk to my family."
+ },
+ {
+  "en": "I have booked a table at the airport lounge for two.",
+  "tamil": "நான் ஏர்போர்ட் லவுஞ்சில ரெண்டு பேருக்கு டேபிள் புக் பண்ணியிருக்கேன்.",
+  "context": "Telling the lounge reception.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have booked' shows the booking is done and still matters now. 'For two' gives the number of people.",
+  "words": [
+   "booked",
+   "lounge"
+  ],
+  "usage": "Say it at the reception desk of a lounge or restaurant after an online booking.",
+  "leelaQ": "Have you ever stayed in an airport lounge?",
+  "answer": "No, I have only seen one in a movie."
+ },
+ {
+  "en": "Please announce that the passengers for Mumbai should come to gate five.",
+  "tamil": "மும்பை பயணிகள் கேட் ஐந்துக்கு வரணும்னு அறிவிப்பு பண்ணுங்க.",
+  "context": "A ground staff member talks to a colleague.",
+  "tense": "imperative",
+  "type": "request",
+  "explain": "'Should' gives advice or a rule. The imperative 'announce' is softened by 'please'.",
+  "words": [
+   "announce",
+   "passengers"
+  ],
+  "usage": "Staff use it at airports and railway stations when they pass instructions to a colleague.",
+  "leelaQ": "What kinds of announcements have you heard at stations?",
+  "answer": "I have heard train delay and platform change announcements."
+ },
+ {
+  "en": "My flight was cancelled, so I need to rebook for tomorrow.",
+  "tamil": "என் ஃப்ளைட் ரத்தாயிடுச்சு, அதனால நாளைக்கு மறுபடி புக் பண்ணணும்.",
+  "context": "Explaining the problem to an airline agent.",
+  "tense": "past",
+  "type": "statement",
+  "explain": "'Was cancelled' is passive past. 'So' joins the problem and what you need to do.",
+  "words": [
+   "cancelled",
+   "rebook"
+  ],
+  "usage": "Use it at the airline counter or on a customer care call after a cancellation.",
+  "leelaQ": "What will you do if your flight is cancelled?",
+  "answer": "I will talk to the airline and ask for the next flight."
+ },
+ {
+  "en": "Will the airline give us a hotel room for the night?",
+  "tamil": "ஏர்லைன் நமக்கு ராத்திரிக்கு ஹோட்டல் ரூம் தருமா?",
+  "context": "Asking at the help desk after a long delay.",
+  "tense": "future",
+  "type": "question",
+  "explain": "'Will' asks about a future promise or rule. Airlines often give a room after a long delay.",
+  "words": [
+   "airline",
+   "hotel room"
+  ],
+  "usage": "Ask the airline help desk after a delay of many hours.",
+  "leelaQ": "What would you want from an airline after a long delay?",
+  "answer": "I would want food, a room and a clear time for the next flight."
+ },
+ {
+  "en": "We have just landed, and the plane is moving slowly to the gate.",
+  "tamil": "நாங்க இப்பதான் இறங்கினோம், விமானம் மெதுவா கேட்டுக்கு போய்க்கிட்டிருக்கு.",
+  "context": "Sending a voice message to your family.",
+  "tense": "present-perfect",
+  "type": "statement",
+  "explain": "'Have just landed' means a very recent action. A second part adds a present detail.",
+  "words": [
+   "landed",
+   "gate"
+  ],
+  "usage": "Say it in a message to your family or a friend who is waiting for you.",
+  "leelaQ": "What do you tell your family when you land?",
+  "answer": "I tell them that I have reached safely."
+ },
+ {
+  "en": "Sir, I cannot find my boarding pass in my bag.",
+  "tamil": "சார், என் பையில போர்டிங் பாஸை என்னால கண்டுபிடிக்க முடியல.",
+  "context": "Telling a gate officer calmly.",
+  "tense": "modal",
+  "type": "negative",
+  "explain": "'Cannot find' means you are not able to find it. 'Sir' keeps the tone respectful.",
+  "words": [
+   "boarding pass",
+   "find"
+  ],
+  "usage": "Say it to a gate officer, and ask if they can print another one.",
+  "leelaQ": "What do you do when you lose an important paper on a trip?",
+  "answer": "I check my bag again and ask the staff for help."
+ },
+ {
+  "en": "I always take a window seat on long train journeys.",
+  "tamil": "நீண்ட ரயில் பயணத்துல நான் எப்பவும் ஜன்னல் சீட்தான் எடுப்பேன்.",
+  "context": "Chatting with a co-passenger.",
+  "tense": "present",
+  "type": "statement",
+  "explain": "'Always' goes before the main verb. It shows a habit that you keep.",
+  "words": [
+   "window seat",
+   "journeys"
+  ],
+  "usage": "Use it in small talk with a co-passenger or a friend who plans a trip.",
+  "leelaQ": "Where do you like to sit on a long journey?",
+  "answer": "I like to sit near the window so I can see the fields."
+ }
+]

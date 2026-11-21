@@ -1,0 +1,449 @@
+[
+ {
+  "en": "I'm working on the login page right now.",
+  "tamil": "நான் இப்போது உள்நுழைவுப் பக்கத்தில் வேலை செய்து கொண்டிருக்கிறேன்.",
+  "context": "Telling a colleague your current task",
+  "tense": "present-continuous",
+  "type": "statement",
+  "alt": {
+   "en": "I'm busy with the login page.",
+   "tamil": "நான் உள்நுழைவுப் பக்க வேலையில் பிஸியாக இருக்கிறேன்."
+  }
+ },
+ {
+  "en": "I finished the testing this morning.",
+  "tamil": "நான் இன்று காலை சோதனையை முடித்துவிட்டேன்.",
+  "context": "Reporting completed work to a teammate",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "Yesterday I fixed two bugs, and today I'll start the new feature.",
+  "tamil": "நேற்று இரண்டு பிழைகளைச் சரிசெய்தேன், இன்று புதிய வசதியைத் தொடங்குவேன்.",
+  "context": "Giving your daily stand-up update",
+  "tense": "future",
+  "type": "statement",
+  "alt": {
+   "en": "Yesterday I fixed two bugs. Today I'll start the new feature.",
+   "tamil": "நேற்று இரண்டு பிழைகளைச் சரிசெய்தேன். இன்று புதிய வசதியைத் தொடங்குவேன்."
+  }
+ },
+ {
+  "en": "I'm blocked by the API team.",
+  "tamil": "API குழுவால் என் வேலை தடைபட்டிருக்கிறது.",
+  "context": "Stating a blocker during stand-up",
+  "tense": "present",
+  "type": "statement",
+  "alt": {
+   "en": "I can't move forward until the API team replies.",
+   "tamil": "API குழு பதில் சொல்லும் வரை என்னால் தொடர முடியாது."
+  }
+ },
+ {
+  "en": "I'm still waiting for the client's reply.",
+  "tamil": "நான் இன்னும் வாடிக்கையாளரின் பதிலுக்காகக் காத்திருக்கிறேன்.",
+  "context": "Explaining why a task is pending",
+  "tense": "present-continuous",
+  "type": "statement"
+ },
+ {
+  "en": "I haven't started the report yet.",
+  "tamil": "நான் இன்னும் அறிக்கையைத் தொடங்கவில்லை.",
+  "context": "Admitting a task has not begun",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "We're almost done with the design.",
+  "tamil": "வடிவமைப்பு வேலை கிட்டத்தட்ட முடிந்துவிட்டது.",
+  "context": "Updating a colleague on progress",
+  "tense": "present",
+  "type": "statement",
+  "alt": {
+   "en": "The design is nearly ready.",
+   "tamil": "வடிவமைப்பு கிட்டத்தட்ட தயார்."
+  }
+ },
+ {
+  "en": "I'll finish this by five o'clock.",
+  "tamil": "இதை ஐந்து மணிக்குள் முடித்துவிடுவேன்.",
+  "context": "Promising a time to complete work",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "The deadline is next Friday.",
+  "tamil": "கெடு தேதி அடுத்த வெள்ளிக்கிழமை.",
+  "context": "Telling the team the due date",
+  "tense": "present",
+  "type": "statement"
+ },
+ {
+  "en": "We're a little behind schedule.",
+  "tamil": "நாம் திட்டத்தை விட சற்றுப் பின்தங்கியிருக்கிறோம்.",
+  "context": "Warning the manager about slow progress",
+  "tense": "present",
+  "type": "statement",
+  "alt": {
+   "en": "We're running a bit late on this.",
+   "tamil": "இந்த வேலையில் நாம் சற்றுத் தாமதமாக இருக்கிறோம்."
+  }
+ },
+ {
+  "en": "I need two more days to finish this.",
+  "tamil": "இதை முடிக்க எனக்கு இன்னும் இரண்டு நாட்கள் தேவை.",
+  "context": "Asking for extra time on a task",
+  "tense": "present",
+  "type": "statement"
+ },
+ {
+  "en": "I've completed the first two modules.",
+  "tamil": "நான் முதல் இரண்டு தொகுதிகளை முடித்துவிட்டேன்.",
+  "context": "Giving a progress update to the manager",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "Yesterday I reviewed three pull requests.",
+  "tamil": "நேற்று நான் மூன்று புல் ரிக்வெஸ்ட்களை மதிப்பாய்வு செய்தேன்.",
+  "context": "Stand-up update about yesterday's work",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "I was fixing a bug when you called.",
+  "tamil": "நீங்கள் அழைத்தபோது நான் ஒரு பிழையைச் சரிசெய்துகொண்டிருந்தேன்.",
+  "context": "Explaining why you missed a call",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "Today I'm going to write the unit tests.",
+  "tamil": "இன்று நான் யூனிட் டெஸ்ட்களை எழுதப் போகிறேன்.",
+  "context": "Sharing today's plan at stand-up",
+  "tense": "future",
+  "type": "statement",
+  "alt": {
+   "en": "Today I'll write the unit tests.",
+   "tamil": "இன்று யூனிட் டெஸ்ட்களை எழுதுவேன்."
+  }
+ },
+ {
+  "en": "I'm not blocked by anything today.",
+  "tamil": "இன்று எதுவும் என் வேலையைத் தடுக்கவில்லை.",
+  "context": "Saying you have no blockers at stand-up",
+  "tense": "present",
+  "type": "negative",
+  "alt": {
+   "en": "I have no blockers today.",
+   "tamil": "இன்று எனக்குத் தடைகள் எதுவும் இல்லை."
+  }
+ },
+ {
+  "en": "I didn't finish the report yesterday.",
+  "tamil": "நான் நேற்று அறிக்கையை முடிக்கவில்லை.",
+  "context": "Admitting you missed a target",
+  "tense": "past",
+  "type": "negative"
+ },
+ {
+  "en": "I can't meet the deadline without extra help.",
+  "tamil": "கூடுதல் உதவி இல்லாமல் என்னால் கெடு தேதியை எட்ட முடியாது.",
+  "context": "Telling the manager you need support",
+  "tense": "modal",
+  "type": "negative"
+ },
+ {
+  "en": "Nothing is blocking me right now.",
+  "tamil": "இப்போது எதுவும் என்னைத் தடுக்கவில்லை.",
+  "context": "Confirming there are no blockers",
+  "tense": "present-continuous",
+  "type": "negative"
+ },
+ {
+  "en": "The build isn't ready yet.",
+  "tamil": "பில்ட் இன்னும் தயாராகவில்லை.",
+  "context": "Telling a colleague the build is pending",
+  "tense": "present",
+  "type": "negative"
+ },
+ {
+  "en": "What are you working on today?",
+  "tamil": "இன்று நீங்கள் என்ன வேலை செய்கிறீர்கள்?",
+  "context": "Asking a colleague about their task",
+  "tense": "present-continuous",
+  "type": "question",
+  "alt": {
+   "en": "What's on your plate today?",
+   "tamil": "இன்று உங்கள் வேலை என்ன?"
+  }
+ },
+ {
+  "en": "Did you finish the testing?",
+  "tamil": "சோதனையை முடித்துவிட்டீர்களா?",
+  "context": "Checking whether a task is complete",
+  "tense": "past",
+  "type": "question"
+ },
+ {
+  "en": "When is the deadline for this task?",
+  "tamil": "இந்த வேலைக்கான கெடு தேதி எப்போது?",
+  "context": "Asking about a due date",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "When is this due?",
+   "tamil": "இது எப்போது முடிய வேண்டும்?"
+  }
+ },
+ {
+  "en": "Are you blocked by anything?",
+  "tamil": "ஏதாவது உங்கள் வேலையைத் தடுக்கிறதா?",
+  "context": "Asking a teammate about blockers",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "How is the progress on the report?",
+  "tamil": "அறிக்கையின் முன்னேற்றம் எப்படி இருக்கிறது?",
+  "context": "Manager asking for a progress check",
+  "tense": "present",
+  "type": "question",
+  "alt": {
+   "en": "How far have you got with the report?",
+   "tamil": "அறிக்கையில் எவ்வளவு தூரம் வந்திருக்கிறீர்கள்?"
+  }
+ },
+ {
+  "en": "Will you be able to finish it today?",
+  "tamil": "இன்றே இதை முடிக்க முடியுமா?",
+  "context": "Checking if a task will be ready today",
+  "tense": "future",
+  "type": "question",
+  "alt": {
+   "en": "Can you finish it today?",
+   "tamil": "இன்றே முடிக்க முடியுமா?"
+  }
+ },
+ {
+  "en": "Have you updated the status in Jira?",
+  "tamil": "ஜிராவில் நிலையை மாற்றிவிட்டீர்களா?",
+  "context": "Reminding a teammate to update the ticket",
+  "tense": "present-perfect",
+  "type": "question"
+ },
+ {
+  "en": "Who is working on the payment module?",
+  "tamil": "பணம் செலுத்தும் தொகுதியில் யார் வேலை செய்கிறார்கள்?",
+  "context": "Asking who owns a task",
+  "tense": "present-continuous",
+  "type": "question"
+ },
+ {
+  "en": "Can you give me a quick update?",
+  "tamil": "எனக்கு ஒரு சுருக்கமான நிலவரம் சொல்ல முடியுமா?",
+  "context": "Asking a colleague for a status update",
+  "tense": "modal",
+  "type": "question",
+  "alt": {
+   "en": "Any update?",
+   "tamil": "ஏதாவது தகவல் உண்டா?"
+  }
+ },
+ {
+  "en": "Are we on track for Friday?",
+  "tamil": "வெள்ளிக்கிழமைக்குள் முடிக்கும் பாதையில் இருக்கிறோமா?",
+  "context": "Checking progress against the deadline",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Please update me once you're done.",
+  "tamil": "முடித்தவுடன் எனக்குத் தெரிவியுங்கள்.",
+  "context": "Asking a colleague to report back",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "Please share your status by noon.",
+  "tamil": "உங்கள் நிலவரத்தை மதியத்திற்குள் பகிருங்கள்.",
+  "context": "Manager asking for a status by midday",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "Let me know if you need any help.",
+  "tamil": "உங்களுக்கு ஏதாவது உதவி தேவைப்பட்டால் சொல்லுங்கள்.",
+  "context": "Offering support to a teammate",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "Keep me posted on the progress.",
+  "tamil": "முன்னேற்றத்தைத் தொடர்ந்து எனக்குத் தெரிவித்துக் கொண்டிருங்கள்.",
+  "context": "Asking for regular updates",
+  "tense": "imperative",
+  "type": "request"
+ },
+ {
+  "en": "I'll assign this task to you.",
+  "tamil": "இந்த வேலையை உங்களுக்கு ஒதுக்குகிறேன்.",
+  "context": "Manager delegating a task",
+  "tense": "future",
+  "type": "statement",
+  "alt": {
+   "en": "This one is yours.",
+   "tamil": "இது உங்கள் வேலை."
+  }
+ },
+ {
+  "en": "I'm going to share the task list with the team.",
+  "tamil": "நான் வேலைப் பட்டியலைக் குழுவுடன் பகிரப் போகிறேன்.",
+  "context": "Announcing a task list to the team",
+  "tense": "future",
+  "type": "statement"
+ },
+ {
+  "en": "Could you take over the login bug?",
+  "tamil": "உள்நுழைவுப் பிழையை நீங்கள் ஏற்றுக் கொள்ள முடியுமா?",
+  "context": "Asking a colleague to take a task",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "You don't need to finish this today.",
+  "tamil": "இதை இன்றே முடிக்க வேண்டிய அவசியம் இல்லை.",
+  "context": "Manager easing the pressure on a task",
+  "tense": "present",
+  "type": "negative",
+  "alt": {
+   "en": "There's no rush on this.",
+   "tamil": "இதில் அவசரம் எதுவும் இல்லை."
+  }
+ },
+ {
+  "en": "Nobody has picked up this ticket yet.",
+  "tamil": "இந்த டிக்கெட்டை இன்னும் யாரும் எடுத்துக் கொள்ளவில்லை.",
+  "context": "Noticing an unassigned ticket",
+  "tense": "present-perfect",
+  "type": "negative"
+ },
+ {
+  "en": "I'm not able to take on more work this week.",
+  "tamil": "இந்த வாரம் என்னால் கூடுதல் வேலை எடுக்க முடியாது.",
+  "context": "Politely refusing extra tasks",
+  "tense": "present",
+  "type": "negative",
+  "alt": {
+   "en": "I'm too busy for more work this week.",
+   "tamil": "இந்த வாரம் கூடுதல் வேலைக்கு நேரமில்லை."
+  }
+ },
+ {
+  "en": "The manager has assigned me a new project.",
+  "tamil": "மேலாளர் எனக்கு ஒரு புதிய திட்டத்தை ஒதுக்கியிருக்கிறார்.",
+  "context": "Sharing news of a new assignment",
+  "tense": "present-perfect",
+  "type": "statement"
+ },
+ {
+  "en": "I was assigned to the migration last week.",
+  "tamil": "கடந்த வாரம் எனக்கு மைக்ரேஷன் வேலை ஒதுக்கப்பட்டது.",
+  "context": "Explaining how you got a task",
+  "tense": "past",
+  "type": "statement"
+ },
+ {
+  "en": "Who will handle the client call?",
+  "tamil": "வாடிக்கையாளர் அழைப்பை யார் கையாளுவார்கள்?",
+  "context": "Asking who takes responsibility",
+  "tense": "future",
+  "type": "question"
+ },
+ {
+  "en": "Why isn't this ticket assigned to anyone?",
+  "tamil": "இந்த டிக்கெட் ஏன் யாருக்கும் ஒதுக்கப்படவில்லை?",
+  "context": "Questioning an unassigned task",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "Don't worry, I'll take care of it.",
+  "tamil": "கவலைப்படாதீர்கள், நான் அதைப் பார்த்துக் கொள்கிறேன்.",
+  "context": "Reassuring a colleague you will handle it",
+  "tense": "future",
+  "type": "negative",
+  "alt": {
+   "en": "Leave it to me.",
+   "tamil": "என்னிடம் விட்டுவிடுங்கள்."
+  }
+ },
+ {
+  "en": "We will not release it until tomorrow.",
+  "tamil": "நாம் அதை நாளை வரை வெளியிட மாட்டோம்.",
+  "context": "Telling the team the release is postponed",
+  "tense": "future",
+  "type": "negative"
+ },
+ {
+  "en": "I won't be able to finish it today.",
+  "tamil": "என்னால் இன்று இதை முடிக்க முடியாது.",
+  "context": "Warning about a missed deadline",
+  "tense": "future",
+  "type": "negative",
+  "alt": {
+   "en": "I need more time for this.",
+   "tamil": "இதற்கு எனக்கு இன்னும் நேரம் வேண்டும்."
+  }
+ },
+ {
+  "en": "I will send you the update by tonight.",
+  "tamil": "இன்று இரவுக்குள் உங்களுக்குப் புதிய தகவலை அனுப்புவேன்.",
+  "context": "Promising an update to the manager",
+  "tense": "future",
+  "type": "statement",
+  "alt": {
+   "en": "I'll message you tonight.",
+   "tamil": "இன்று இரவு உங்களுக்குச் செய்தி அனுப்புவேன்."
+  }
+ },
+ {
+  "en": "Is there anything else I should work on?",
+  "tamil": "நான் வேறு ஏதாவது வேலை செய்ய வேண்டுமா?",
+  "context": "Asking the manager for more work",
+  "tense": "modal",
+  "type": "question"
+ },
+ {
+  "en": "Do you want me to prioritize the bug fix?",
+  "tamil": "பிழை திருத்தத்துக்கு முன்னுரிமை கொடுக்க வேண்டுமா?",
+  "context": "Checking priorities with the manager",
+  "tense": "present",
+  "type": "question"
+ },
+ {
+  "en": "I'm sorry for the delay.",
+  "tamil": "தாமதத்துக்கு மன்னியுங்கள்.",
+  "context": "Apologizing for a late delivery",
+  "tense": "present",
+  "type": "statement"
+ },
+ {
+  "en": "The delay happened because of a server problem.",
+  "tamil": "சர்வர் பிரச்சினையால் தாமதம் ஏற்பட்டது.",
+  "context": "Explaining the cause of a delay",
+  "tense": "past",
+  "type": "statement",
+  "alt": {
+   "en": "A server problem caused the delay.",
+   "tamil": "சர்வர் பிரச்சினைதான் தாமதத்துக்குக் காரணம்."
+  }
+ },
+ {
+  "en": "I'll inform the manager about the delay.",
+  "tamil": "தாமதத்தைப் பற்றி மேலாளருக்குத் தெரிவிப்பேன்.",
+  "context": "Saying you will report a delay",
+  "tense": "future",
+  "type": "statement"
+ }
+]

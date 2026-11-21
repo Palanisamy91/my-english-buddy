@@ -1,0 +1,106 @@
+[
+ {
+  "word": "rapport building",
+  "tamil": "உறவு உருவாக்கம்",
+  "pos": "phrase",
+  "pron": "ra-POR BIL-ding",
+  "example": "Rapport building in the first minutes sets a friendly tone.",
+  "exampleTamil": "முதல் நிமிடங்களில் உறவு உருவாக்கம் நட்பான சூழலை அமைக்கும்.",
+  "synonyms": [
+   "connecting",
+   "bonding"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "strategic",
+  "tamil": "உத்தி சார்ந்த",
+  "pos": "adjective",
+  "pron": "struh-TEE-jik",
+  "example": "I want to grow into a strategic role.",
+  "exampleTamil": "நான் உத்தி சார்ந்த பணிக்கு வளர விரும்புகிறேன்.",
+  "synonyms": [
+   "planned",
+   "calculated"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "upskilling",
+  "tamil": "திறன் மேம்பாடு",
+  "pos": "noun",
+  "pron": "UP-skil-ing",
+  "example": "Upskilling is essential in a fast-changing industry.",
+  "exampleTamil": "வேகமாக மாறும் துறையில் திறன் மேம்பாடு அவசியம்.",
+  "synonyms": [
+   "retraining",
+   "skill building"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "shortcoming",
+  "tamil": "குறைபாடு",
+  "pos": "noun",
+  "pron": "SHORT-kum-ing",
+  "example": "My main shortcoming is that I take on too much.",
+  "exampleTamil": "என் முக்கியக் குறைபாடு நான் அதிகமாகப் பொறுப்பேற்பது.",
+  "synonyms": [
+   "weakness",
+   "flaw"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "selfless",
+  "tamil": "தன்னலமற்ற",
+  "pos": "adjective",
+  "pron": "SELF-less",
+  "example": "He is a selfless colleague who helps everyone.",
+  "exampleTamil": "அவர் எல்லோருக்கும் உதவும் தன்னலமற்ற சக ஊழியர்.",
+  "synonyms": [
+   "unselfish",
+   "generous"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "credentials check",
+  "tamil": "தகுதிச் சரிபார்ப்பு",
+  "pos": "phrase",
+  "pron": "kruh-DEN-shulz CHEK",
+  "example": "The company runs a credentials check before hiring.",
+  "exampleTamil": "பணியமர்த்தும் முன் நிறுவனம் தகுதிச் சரிபார்ப்பு செய்கிறது.",
+  "synonyms": [
+   "verification",
+   "screening"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "employability",
+  "tamil": "வேலைவாய்ப்புத் தகுதி",
+  "pos": "noun",
+  "pron": "em-ploy-uh-BIL-ih-tee",
+  "example": "Certifications improve your employability.",
+  "exampleTamil": "சான்றிதழ்கள் உங்கள் வேலைவாய்ப்புத் தகுதியை உயர்த்தும்.",
+  "synonyms": [
+   "job readiness",
+   "marketability"
+  ],
+  "level": "advanced"
+ },
+ {
+  "word": "goal-oriented",
+  "tamil": "இலக்கு நோக்கிய",
+  "pos": "adjective",
+  "pron": "GOHL-OR-ee-en-tid",
+  "example": "I am goal-oriented and track my progress weekly.",
+  "exampleTamil": "நான் இலக்கு நோக்கியவன், வாரந்தோறும் முன்னேற்றத்தைக் கண்காணிப்பேன்.",
+  "synonyms": [
+   "driven",
+   "target-focused"
+  ],
+  "level": "intermediate"
+ }
+]

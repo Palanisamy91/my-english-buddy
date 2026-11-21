@@ -1,0 +1,347 @@
+[
+ {
+  "word": "piggy bank",
+  "meaning": "A small box, often shaped like a pig, where children keep coins.",
+  "tamil": "உண்டியல்",
+  "pos": "noun",
+  "pron": "PIG-ee BANK",
+  "example": "My son puts a coin in his piggy bank every day.",
+  "exampleTamil": "என் மகன் தினமும் தன் உண்டியலில் ஒரு காசு போடுகிறான்.",
+  "synonyms": [
+   "money box",
+   "coin bank"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "cashless",
+  "meaning": "Paying with cards or phones instead of notes and coins.",
+  "tamil": "பணமில்லா பரிவர்த்தனை",
+  "pos": "adjective",
+  "pron": "KASH-less",
+  "example": "Many small shops now prefer cashless payment.",
+  "exampleTamil": "பல சிறிய கடைகள் இப்போது பணமில்லா பரிவர்த்தனையை விரும்புகின்றன.",
+  "synonyms": [
+   "digital",
+   "card-based"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "wealth",
+  "meaning": "A large amount of money or valuable things.",
+  "tamil": "செல்வம்",
+  "pos": "noun",
+  "pron": "WELTH",
+  "example": "Good health is more important than wealth.",
+  "exampleTamil": "செல்வத்தை விட நல்ல ஆரோக்கியம் முக்கியமானது.",
+  "synonyms": [
+   "riches",
+   "fortune"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "broke",
+  "meaning": "Having no money at all for now.",
+  "tamil": "கையில் காசு இல்லாத",
+  "pos": "adjective",
+  "pron": "BROHK",
+  "example": "I am broke until the end of the month.",
+  "exampleTamil": "மாத இறுதி வரை என் கையில் காசு இல்லை.",
+  "synonyms": [
+   "penniless",
+   "out of cash"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "gift card",
+  "meaning": "A card with money on it that you give as a present.",
+  "tamil": "பரிசு அட்டை",
+  "pos": "noun",
+  "pron": "GIFT KARD",
+  "example": "She gave me a gift card for the bookshop.",
+  "exampleTamil": "அவள் எனக்குப் புத்தகக் கடைக்கான பரிசு அட்டையைக் கொடுத்தாள்.",
+  "synonyms": [
+   "gift voucher"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "passbook",
+  "meaning": "A small book from a bank that records the money in your account.",
+  "tamil": "வங்கிக் கணக்குப் புத்தகம்",
+  "pos": "noun",
+  "pron": "PASS-book",
+  "example": "Please bring your passbook to update the entries.",
+  "exampleTamil": "பதிவுகளைப் புதுப்பிக்க உங்கள் கணக்குப் புத்தகத்தைக் கொண்டு வாருங்கள்.",
+  "synonyms": [
+   "bank book"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "customer care",
+  "meaning": "The service that helps people with questions about a shop or product.",
+  "tamil": "வாடிக்கையாளர் சேவை",
+  "pos": "noun",
+  "pron": "KUS-tuh-mer KAIR",
+  "example": "I called customer care about my missing order.",
+  "exampleTamil": "என் வராத ஆர்டரைப் பற்றி வாடிக்கையாளர் சேவைக்கு அழைத்தேன்.",
+  "synonyms": [
+   "customer service",
+   "helpdesk"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "price list",
+  "meaning": "A printed list that shows the prices of things.",
+  "tamil": "விலைப் பட்டியல்",
+  "pos": "noun",
+  "pron": "PRYSS LIST",
+  "example": "Can I see the price list before I order?",
+  "exampleTamil": "நான் ஆர்டர் செய்வதற்கு முன் விலைப் பட்டியலைப் பார்க்கலாமா?",
+  "synonyms": [
+   "rate card"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "my treat",
+  "meaning": "I will pay for you this time.",
+  "tamil": "இன்று நான் செலவு செய்கிறேன்",
+  "pos": "phrase",
+  "pron": "my TREET",
+  "example": "Put your wallet away, dinner is my treat.",
+  "exampleTamil": "உன் பணப்பையை உள்ளே வை, இரவு உணவு என் செலவு.",
+  "synonyms": [
+   "on me"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "for sale",
+  "meaning": "Available to be bought from the owner.",
+  "tamil": "விற்பனைக்கு உள்ளது",
+  "pos": "phrase",
+  "pron": "for SAYL",
+  "example": "There is a bicycle for sale in our street.",
+  "exampleTamil": "எங்கள் தெருவில் ஒரு சைக்கிள் விற்பனைக்கு உள்ளது.",
+  "synonyms": [
+   "on offer",
+   "available"
+  ],
+  "level": "beginner"
+ },
+ {
+  "word": "overspend",
+  "meaning": "To spend more money than you planned or can afford.",
+  "tamil": "அளவுக்கு மீறிச் செலவு செய்",
+  "pos": "verb",
+  "pron": "oh-ver-SPEND",
+  "example": "We always overspend during the festival season.",
+  "exampleTamil": "பண்டிகைக் காலத்தில் நாங்கள் எப்போதும் அளவுக்கு மீறிச் செலவு செய்கிறோம்.",
+  "synonyms": [
+   "splurge",
+   "overdo"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "pricing",
+  "meaning": "The way a shop decides how much to charge for things.",
+  "tamil": "விலை நிர்ணயம்",
+  "pos": "noun",
+  "pron": "PRY-sing",
+  "example": "The pricing at this restaurant is very reasonable.",
+  "exampleTamil": "இந்த உணவகத்தின் விலை நிர்ணயம் மிகவும் நியாயமாக உள்ளது.",
+  "synonyms": [
+   "rates",
+   "charges"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "markup",
+  "meaning": "The extra amount a seller adds to the cost to make a profit.",
+  "tamil": "இலாபத்துக்காகக் கூட்டிய விலை",
+  "pos": "noun",
+  "pron": "MARK-up",
+  "example": "The markup on these imported shoes is very high.",
+  "exampleTamil": "இந்த இறக்குமதிக் காலணிகளின் மீது கூட்டிய விலை மிக அதிகம்.",
+  "synonyms": [
+   "margin",
+   "profit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "membership",
+  "meaning": "The state of belonging to a club or shop programme, often for a fee.",
+  "tamil": "உறுப்பினர் உரிமை",
+  "pos": "noun",
+  "pron": "MEM-ber-ship",
+  "example": "A membership gives you ten percent off every bill.",
+  "exampleTamil": "உறுப்பினர் உரிமை இருந்தால் ஒவ்வொரு பில்லிலும் பத்து சதவீதம் தள்ளுபடி கிடைக்கும்.",
+  "synonyms": [
+   "subscription",
+   "enrolment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "down payment",
+  "meaning": "The first part of the price that you pay when buying something big.",
+  "tamil": "முன்பணம்",
+  "pos": "noun",
+  "pron": "DOWN PAY-ment",
+  "example": "We made a down payment on the new flat.",
+  "exampleTamil": "புதிய அடுக்குமாடி வீட்டுக்கு நாங்கள் முன்பணம் செலுத்தினோம்.",
+  "synonyms": [
+   "deposit",
+   "first payment"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "advance payment",
+  "meaning": "Money paid before you receive the goods or service.",
+  "tamil": "முன்கூட்டிய கட்டணம்",
+  "pos": "noun",
+  "pron": "ud-VANSS PAY-ment",
+  "example": "The tailor asked for an advance payment of five hundred rupees.",
+  "exampleTamil": "தையல்காரர் ஐந்நூறு ரூபாய் முன்கூட்டிய கட்டணம் கேட்டார்.",
+  "synonyms": [
+   "prepayment",
+   "advance"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "full payment",
+  "meaning": "The whole amount of money that is owed.",
+  "tamil": "முழுத் தொகை செலுத்துதல்",
+  "pos": "noun",
+  "pron": "FUL PAY-ment",
+  "example": "The shop will deliver the sofa after full payment.",
+  "exampleTamil": "முழுத் தொகை செலுத்தியதும் கடை சோபாவை வழங்கும்.",
+  "synonyms": [
+   "complete payment",
+   "settlement"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "late fee",
+  "meaning": "Extra money you must pay when you pay a bill after the last date.",
+  "tamil": "தாமதக் கட்டணம்",
+  "pos": "noun",
+  "pron": "LAYT FEE",
+  "example": "I paid a late fee because I forgot the electricity bill.",
+  "exampleTamil": "மின் கட்டணத்தை மறந்ததால் நான் தாமதக் கட்டணம் செலுத்தினேன்.",
+  "synonyms": [
+   "penalty",
+   "fine"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "due date",
+  "meaning": "The last day by which you must pay a bill.",
+  "tamil": "செலுத்த வேண்டிய கடைசித் தேதி",
+  "pos": "noun",
+  "pron": "DOO DAYT",
+  "example": "The due date for the phone bill is the fifth.",
+  "exampleTamil": "தொலைபேசிக் கட்டணத்தைச் செலுத்த வேண்டிய கடைசித் தேதி ஐந்தாம் தேதி.",
+  "synonyms": [
+   "deadline",
+   "payment date"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "interest rate",
+  "meaning": "The percentage a bank charges on a loan or pays on savings.",
+  "tamil": "வட்டி விகிதம்",
+  "pos": "noun",
+  "pron": "IN-trest RAYT",
+  "example": "The bank has reduced the interest rate on home loans.",
+  "exampleTamil": "வீட்டுக் கடன்களுக்கான வட்டி விகிதத்தை வங்கி குறைத்துள்ளது.",
+  "synonyms": [
+   "rate",
+   "percentage"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "fixed deposit",
+  "meaning": "Money kept in a bank for a set time to earn higher interest.",
+  "tamil": "நிலையான வைப்புத்தொகை",
+  "pos": "noun",
+  "pron": "FIKST dih-POZ-it",
+  "example": "My father opened a fixed deposit for my education.",
+  "exampleTamil": "என் அப்பா என் படிப்புக்காக ஒரு நிலையான வைப்புத்தொகை தொடங்கினார்.",
+  "synonyms": [
+   "term deposit"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "monthly installment",
+  "meaning": "A fixed part of a loan or price that you pay every month.",
+  "tamil": "மாதத் தவணை",
+  "pos": "noun",
+  "pron": "MUNTH-lee in-STAWL-ment",
+  "example": "The monthly installment for my phone is one thousand rupees.",
+  "exampleTamil": "என் தொலைபேசிக்கான மாதத் தவணை ஆயிரம் ரூபாய்.",
+  "synonyms": [
+   "monthly payment",
+   "EMI"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "lender",
+  "meaning": "A person or bank that gives money that must be paid back.",
+  "tamil": "கடன் கொடுப்பவர்",
+  "pos": "noun",
+  "pron": "LEN-der",
+  "example": "The lender asked for the money back in six months.",
+  "exampleTamil": "கடன் கொடுத்தவர் ஆறு மாதத்தில் பணத்தைத் திருப்பிக் கேட்டார்.",
+  "synonyms": [
+   "creditor",
+   "financier"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "borrower",
+  "meaning": "A person who takes money and must pay it back later.",
+  "tamil": "கடன் வாங்குபவர்",
+  "pos": "noun",
+  "pron": "BOR-oh-er",
+  "example": "A good borrower always repays the loan on time.",
+  "exampleTamil": "நல்ல கடன் வாங்குபவர் எப்போதும் கடனைச் சரியான நேரத்தில் திருப்பிச் செலுத்துவார்.",
+  "synonyms": [
+   "debtor",
+   "loan taker"
+  ],
+  "level": "intermediate"
+ },
+ {
+  "word": "interest-free",
+  "meaning": "Without any extra money charged on a loan.",
+  "tamil": "வட்டி இல்லாத",
+  "pos": "adjective",
+  "pron": "IN-trest-FREE",
+  "example": "The store offers interest-free payments for six months.",
+  "exampleTamil": "அந்தக் கடை ஆறு மாதங்களுக்கு வட்டி இல்லாத தவணைகளை வழங்குகிறது.",
+  "synonyms": [
+   "no-interest",
+   "zero-interest"
+  ],
+  "level": "intermediate"
+ }
+]
